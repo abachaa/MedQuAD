@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003706" source="GARD" url="https://rarediseases.info.nih.gov/gard/6941/lymphocytic-vasculitis">
+<Focus>Lymphocytic vasculitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3280724</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vasculitis lymphocytic, nodular</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003706-1" qtype="information">What is (are) Lymphocytic vasculitis ?</Question>
+			<Answer>Lymphocytic vasculitis is one of several skin conditions which are collectively referred to as cutaneous vasculitis. In lymphocytic vasculitis, white blood cells (lymphocytes) cause damage to blood vessels in the skin. This condition is thought to be caused by a number of factors, but the exact cause of most cases is not known. This disease can present with a variety of symptoms, depending on the size, location, and severity of the affected area. In a minority of patients, cutaneous vasculitis can be part of a more severe vasculitis affecting other organs in the body - this is known as systemic vasculitis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003706-2" qtype="symptoms">What are the symptoms of Lymphocytic vasculitis ?</Question>
+			<Answer>What are the signs and symptoms of Lymphocytic vasculitis? Lymphocytic vasculitis can cause a number of different symptoms.  Hives, red or purplish discolored patches, a bump (nodule), or an open sore (ulcer) have all been described as symptoms of this condition.  The size, location, and severity of symptoms varies widely among affected individuals.  Additional symptoms may occur if the vasculitis also affects internal organs; this is known as systemic vasculitis.  The symptoms of systemic vasculitis depend on which organs are affected and to what degree. The Human Phenotype Ontology provides the following list of signs and symptoms for Lymphocytic vasculitis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis - Autosomal dominant inheritance - Nodular inflammatory vasculitis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003706-3" qtype="causes">What causes Lymphocytic vasculitis ?</Question>
+			<Answer>What causes lymphocytic vasculitis? Lymphocytic vasculitis is thought to be caused by a number of different factors, such as infection, trauma, drug reaction, or an underlying condition such as arthritis.  Because this condition is rare and not yet well understood, it is believed that a full list of possible causes has yet to be assembled.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

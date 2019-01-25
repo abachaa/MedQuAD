@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000060" source="GHR" url="https://ghr.nlm.nih.gov/condition/aniridia">
+<Focus>aniridia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003076</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>absent iris</Synonym>
+		<Synonym>congenital aniridia</Synonym>
+		<Synonym>irideremia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000060-1" qtype="information">What is (are) aniridia ?</Question>
+			<Answer>Aniridia is an eye disorder characterized by a complete or partial absence of the colored part of the eye (the iris). These iris abnormalities may cause the pupils to be abnormal or misshapen. Aniridia can cause reduction in the sharpness of vision (visual acuity) and increased sensitivity to light (photophobia).  People with aniridia can also have other eye problems. Increased pressure in the eye (glaucoma) typically appears in late childhood or early adolescence. Clouding of the lens of the eye (cataracts), occur in 50 percent to 85 percent of people with aniridia. In about 10 percent of affected people, the structures that carry information from the eyes to the brain (optic nerves) are underdeveloped. Individuals with aniridia may also have involuntary eye movements (nystagmus) or underdevelopment of the region at the back of the eye responsible for sharp central vision (foveal hypoplasia). Many of these eye problems contribute to progressive vision loss in affected individuals. The severity of symptoms is typically the same in both eyes.  Rarely, people with aniridia have behavioral problems, developmental delay, and problems detecting odors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000060-2" qtype="frequency">How many people are affected by aniridia ?</Question>
+			<Answer>Aniridia occurs in 1 in 50,000 to 100,000 newborns worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000060-3" qtype="genetic changes">What are the genetic changes related to aniridia ?</Question>
+			<Answer>Aniridia is caused by mutations in the PAX6 gene. The PAX6 gene provides instructions for making a protein that is involved in the early development of the eyes, brain and spinal cord (central nervous system), and the pancreas. Within the brain, the PAX6 protein is involved in the development of a specialized group of brain cells that process smell (the olfactory bulb). The PAX6 protein attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the PAX6 protein is called a transcription factor. Following birth, the PAX6 protein regulates several genes that likely contribute to the maintenance of different eye structures.  Mutations in the PAX6 gene result in the production of a nonfunctional PAX6 protein that is unable to bind to DNA and regulate the activity of other genes. A lack of functional PAX6 protein disrupts the formation of the eyes during embryonic development.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000060-4" qtype="inheritance">Is aniridia inherited ?</Question>
+			<Answer>Aniridia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In approximately two-thirds of cases, an affected person inherits the mutation from one affected parent. The remaining one-third of cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000060-5" qtype="treatment">What are the treatments for aniridia ?</Question>
+			<Answer>These resources address the diagnosis or management of aniridia:  - Gene Review: Gene Review: Aniridia  - Genetic Testing Registry: Congenital aniridia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

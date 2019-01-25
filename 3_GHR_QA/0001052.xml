@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001052" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-hyper-igm-syndrome">
+<Focus>X-linked hyper IgM syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0398689</CUI>
+			<CUI>C0272236</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HIGM1</Synonym>
+		<Synonym>Hyper-IgM syndrome 1</Synonym>
+		<Synonym>Immunodeficiency with Hyper-IgM, type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001052-1" qtype="information">What is (are) X-linked hyper IgM syndrome ?</Question>
+			<Answer>X-linked hyper IgM syndrome is a condition that affects the immune system and occurs almost exclusively in males. People with this disorder have abnormal levels of proteins called antibodies or immunoglobulins. Antibodies help protect the body against infection by attaching to specific foreign particles and germs, marking them for destruction. There are several classes of antibodies, and each one has a different function in the immune system. Although the name of this condition implies that affected individuals always have high levels of immunoglobulin M (IgM), some people have normal levels of this antibody. People with X-linked hyper IgM syndrome have low levels of three other classes of antibodies: immunoglobulin G (IgG), immunoglobulin A (IgA), and immunoglobulin E (IgE). The lack of certain antibody classes makes it difficult for people with this disorder to fight off infections.  Individuals with X-linked hyper IgM syndrome begin to develop frequent infections in infancy and early childhood. Common infections include pneumonia, sinus infections (sinusitis), and ear infections (otitis). Infections often cause these children to have chronic diarrhea and they fail to gain weight and grow at the expected rate (failure to thrive). Some people with X-linked hyper IgM syndrome have low levels of white blood cells called neutrophils (neutropenia). Affected individuals may develop autoimmune disorders, neurologic complications from brain and spinal cord (central nervous system) infections, liver disease, and gastrointestinal tumors. They also have an increased risk of lymphoma, which is a cancer of immune system cells.  The severity of X-linked hyper IgM syndrome varies among affected individuals, even among members of the same family. Without treatment, this condition can result in death during childhood or adolescence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001052-2" qtype="frequency">How many people are affected by X-linked hyper IgM syndrome ?</Question>
+			<Answer>X-linked hyper IgM syndrome is estimated to occur in 2 per million newborn boys.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001052-3" qtype="genetic changes">What are the genetic changes related to X-linked hyper IgM syndrome ?</Question>
+			<Answer>Mutations in the CD40LG gene cause X-linked hyper IgM syndrome. This gene provides instructions for making a protein called CD40 ligand, which is found on the surface of immune system cells known as T cells. CD40 ligand attaches like a key in a lock to its receptor protein, which is located on the surface of immune system cells called B cells. B cells are involved in the production of antibodies, and initially they are able to make only IgM antibodies. When CD40 ligand and its receptor protein are connected, they trigger a series of chemical signals that instruct the B cell to start making IgG, IgA, or IgE antibodies.  CD40 ligand is also necessary for T cells to interact with other cells of the immune system, and it plays a key role in T cell differentiation (the process by which cells mature to carry out specific functions).  Mutations in the CD40LG gene lead to the production of an abnormal CD40 ligand or prevent production of this protein. If CD40 ligand does not attach to its receptor on B cells, these cells cannot produce IgG, IgA, or IgE antibodies. Mutations in the CD40LG gene also impair the T cell&apos;s ability to differentiate and interact with other immune system cells. People with X-linked hyper IgM syndrome are more susceptible to infections because they do not have a properly functioning immune system.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001052-4" qtype="inheritance">Is X-linked hyper IgM syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001052-5" qtype="treatment">What are the treatments for X-linked hyper IgM syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked hyper IgM syndrome:  - Gene Review: Gene Review: X-Linked Hyper IgM Syndrome  - Genetic Testing Registry: Immunodeficiency with hyper IgM type 1  - MedlinePlus Encyclopedia: Immunodeficiency Disorders   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

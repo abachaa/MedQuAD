@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000007" source="GHR" url="https://ghr.nlm.nih.gov/condition/achondroplasia">
+<Focus>achondroplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001080</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACH</Synonym>
+		<Synonym>achondroplastic dwarfism</Synonym>
+		<Synonym>dwarf, achondroplastic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000007-1" qtype="information">What is (are) achondroplasia ?</Question>
+			<Answer>Achondroplasia is a form of short-limbed dwarfism. The word achondroplasia literally means &quot;without cartilage formation.&quot; Cartilage is a tough but flexible tissue that makes up much of the skeleton during early development. However, in achondroplasia the problem is not in forming cartilage but in converting it to bone (a process called ossification), particularly in the long bones of the arms and legs. Achondroplasia is similar to another skeletal disorder called hypochondroplasia, but the features of achondroplasia tend to be more severe.  All people with achondroplasia have short stature. The average height of an adult male with achondroplasia is 131 centimeters (4 feet, 4 inches), and the average height for adult females is 124 centimeters (4 feet, 1 inch). Characteristic features of achondroplasia include an average-size trunk, short arms and legs with particularly short upper arms and thighs, limited range of motion at the elbows, and an enlarged head (macrocephaly) with a prominent forehead. Fingers are typically short and the ring finger and middle finger may diverge, giving the hand a three-pronged (trident) appearance. People with achondroplasia are generally of normal intelligence.  Health problems commonly associated with achondroplasia include episodes in which breathing slows or stops for short periods (apnea), obesity, and recurrent ear infections. In childhood, individuals with the condition usually develop a pronounced and permanent sway of the lower back (lordosis) and bowed legs. Some affected people also develop abnormal front-to-back curvature of the spine (kyphosis) and back pain. A potentially serious complication of achondroplasia is spinal stenosis, which is a narrowing of the spinal canal that can pinch (compress) the upper part of the spinal cord. Spinal stenosis is associated with pain, tingling, and weakness in the legs that can cause difficulty with walking. Another uncommon but serious complication of achondroplasia is hydrocephalus, which is a buildup of fluid in the brain in affected children that can lead to increased head size and related brain abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000007-2" qtype="frequency">How many people are affected by achondroplasia ?</Question>
+			<Answer>Achondroplasia is the most common type of short-limbed dwarfism. The condition occurs in 1 in 15,000 to 40,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000007-3" qtype="genetic changes">What are the genetic changes related to achondroplasia ?</Question>
+			<Answer>Mutations in the FGFR3 gene cause achondroplasia. The FGFR3 gene provides instructions for making a protein that is involved in the development and maintenance of bone and brain tissue. Two specific mutations in the FGFR3 gene are responsible for almost all cases of achondroplasia. Researchers believe that these mutations cause the FGFR3 protein to be overly active, which interferes with skeletal development and leads to the disturbances in bone growth seen with this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000007-4" qtype="inheritance">Is achondroplasia inherited ?</Question>
+			<Answer>Achondroplasia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. About 80 percent of people with achondroplasia have average-size parents; these cases result from new mutations in the FGFR3 gene. In the remaining cases, people with achondroplasia have inherited an altered FGFR3 gene from one or two affected parents. Individuals who inherit two altered copies of this gene typically have a severe form of achondroplasia that causes extreme shortening of the bones and an underdeveloped rib cage. These individuals are usually stillborn or die shortly after birth from respiratory failure.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000007-5" qtype="treatment">What are the treatments for achondroplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of achondroplasia:  - Gene Review: Gene Review: Achondroplasia  - GeneFacts: Achondroplasia: Diagnosis  - GeneFacts: Achondroplasia: Management  - Genetic Testing Registry: Achondroplasia  - MedlinePlus Encyclopedia: Achondroplasia  - MedlinePlus Encyclopedia: Hydrocephalus  - MedlinePlus Encyclopedia: Lordosis  - MedlinePlus Encyclopedia: Spinal Stenosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

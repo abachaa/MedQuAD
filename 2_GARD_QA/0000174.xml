@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000174" source="GARD" url="https://rarediseases.info.nih.gov/gard/10909/adult-onset-vitelliform-macular-dystrophy">
+<Focus>Adult-onset vitelliform macular dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1842914</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AVMD</Synonym>
+		<Synonym>Macular dystrophy, vitelliform, adult-onset</Synonym>
+		<Synonym>Vitelliform macular dystrophy, adult-onset</Synonym>
+		<Synonym>Foveomacular dystrophy, adult-onset; AOFMD</Synonym>
+		<Synonym>Foveomacular dystrophy, adult-onset, with choroidal neovascularization</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000174-1" qtype="information">What is (are) Adult-onset vitelliform macular dystrophy ?</Question>
+			<Answer>Adult-onset vitelliform macular dystrophy (AVMD) is an eye disorder that can cause progressive vision loss. AVMD affects an area of the retina called the macula, which is responsible for sharp central vision. The condition causes a fatty yellow pigment to accumulate in cells underlying the macula, eventually damaging the cells. Signs and symptoms usually begin between ages 30 and 50 and include blurred and/or distorted vision, which can progress to central vision loss over time.Historically, AVMD has been characterized as a genetic disorder caused by mutations in the PRPH2, BEST1, IMPG1, and IMPG2 genes; however, recent studies focused on genetic testing suggest that there may be other unidentified genes and/or environmental causes.The majority of cases due to a mutation in the identified genes are inherited in an autosomal dominant manner; however not all individuals have AVMD have a family history and not all individuals who inherit a causative gene mutation develop symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000174-2" qtype="symptoms">What are the symptoms of Adult-onset vitelliform macular dystrophy ?</Question>
+			<Answer>What are the signs and symptoms of Adult-onset vitelliform macular dystrophy? Signs and symptoms of adult-onset vitelliform macular dystrophy typically begin during mid-adulthood, in the fourth or fifth decade of life. At the time of diagnosis, individuals may have minimal visual symptoms (such as mild blurring) or mild metamorphopsia (distorted vision). Cells underlying the macula become more damaged over time, which can cause slowly progressive vision loss. The condition is usually bilateral (affecting both eyes). It usually does not affect peripheral vision or the ability to see at night. Studies have revealed much variability in the signs, symptoms and progression of this condition. It has been reported that while one individual may not have significant changes in visual acuity over several years, another may experience ongoing visual loss. It has been suggested that in the majority of affected individuals, progression of functional loss is limited. In general, the long-term outlook (prognosis) is usually good, but loss of central visual function is possible. The Human Phenotype Ontology provides the following list of signs and symptoms for Adult-onset vitelliform macular dystrophy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the macula 90% Visual impairment 90% Abnormality of color vision 50% Abnormality of retinal pigmentation 50% Choroideremia 50% Visual field defect 50% Retinal detachment 7.5% Autosomal dominant inheritance - Macular atrophy - Macular dystrophy - Metamorphopsia - Photophobia - Reduced visual acuity - Vitelliform-like macular lesions - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000174-3" qtype="causes">What causes Adult-onset vitelliform macular dystrophy ?</Question>
+			<Answer>What causes adult-onset vitelliform dystrophy? Historically, adult-onset vitelliform macular dystrophy (AVMD) was defined as a genetic disorder; however, recent studies have concluded that only a minority of cases have an identified genetic cause, suggesting that there might be other underlying causes of environmental origin, genetic origin, or a mix of genetics and environment (multifactorial).  More studies are needed to better define other underlying causes that might be present, whether of genetic or environmental origin.  Currently known genetic causes include mutations in the PRPH2, BEST1, IMPG1, and IMPG2 genes. It is additionally suspected that AVMD might be associated with a single-nucleotide polymorphism (variant DNA sequence) in the HTRA1 gene. Single-nucleotide polymorphisms in the HTRA1 gene are additionally associated with age-related macular degeneration.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000174-4" qtype="inheritance">Is Adult-onset vitelliform macular dystrophy inherited ?</Question>
+			<Answer>How is adult-onset vitelliform macular dystrophy inherited? The majority of cases with an identified family history or genetic cause are inherited in an autosomal dominant manner. This means that in order to be affected, a person only needs a change (mutation) in one copy of the responsible gene in each cell. In some cases, an affected person inherits the mutation from an affected parent. Other cases may result from a new (de novo) mutation in the gene. These cases occur in people with no history of the disorder in their family. When caused by a known mutation inherited in an autosomal dominant manner, a person with adult-onset macular dystrophy (AVMD) has a 50% chance with each pregnancy of passing along the altered gene to his or her child.  The inheritance pattern of AVMD can be confusing as not all individuals with AVMD have a family history and not all individuals who inherit a causative gene mutation develop symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000174-5" qtype="treatment">What are the treatments for Adult-onset vitelliform macular dystrophy ?</Question>
+			<Answer>How might adult-onset vitelliform macular dystrophy be treated? Management for this condition should include a comprehensive eye examination, including dilation, once or twice a year to rule out any possible complications. If vision is impaired, patients should be referred for low vision testing and rehabilitation. Intravitreal injections of either Ranibizumab or Bevacizumab may be effective in the short-term. Transcorneal electrical stimulation has also been found to improve visual acuity in individuals with this condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

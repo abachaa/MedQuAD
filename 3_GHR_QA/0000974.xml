@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000974" source="GHR" url="https://ghr.nlm.nih.gov/condition/tetrahydrobiopterin-deficiency">
+<Focus>tetrahydrobiopterin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751436</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BH4 deficiency</Synonym>
+		<Synonym>hyperphenylalaninemia caused by a defect in biopterin metabolism</Synonym>
+		<Synonym>hyperphenylalaninemia, non-phenylketonuric</Synonym>
+		<Synonym>non-phenylketonuric hyperphenylalaninemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000974-1" qtype="information">What is (are) tetrahydrobiopterin deficiency ?</Question>
+			<Answer>Tetrahydrobiopterin deficiency is a rare disorder characterized by a shortage (deficiency) of a molecule called tetrahydrobiopterin or BH4. This condition alters the levels of several substances in the body, including phenylalanine. Phenylalanine is a building block of proteins (an amino acid) that is obtained through the diet. It is found in foods that contain protein and in some artificial sweeteners. High levels of phenylalanine are present from early infancy in people with untreated tetrahydrobiopterin deficiency. This condition also alters the levels of chemicals called neurotransmitters, which transmit signals between nerve cells in the brain.  Infants with tetrahydrobiopterin deficiency appear normal at birth, but medical problems ranging from mild to severe become apparent over time. Signs and symptoms of this condition can include intellectual disability, progressive problems with development, movement disorders, difficulty swallowing, seizures, behavioral problems, and an inability to control body temperature.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000974-2" qtype="frequency">How many people are affected by tetrahydrobiopterin deficiency ?</Question>
+			<Answer>This condition is rare, affecting an estimated 1 in 500,000 to 1 in 1 million newborns. In most parts of the world, tetrahydrobiopterin deficiency accounts for 1 to 3 percent of all cases of elevated phenylalanine levels. The remaining cases are caused by a similar condition called phenylketonuria (PKU). In certain countries, including Saudi Arabia, Taiwan, China, and Turkey, it is more common for elevated levels of phenylalanine to be caused by tetrahydrobiopterin deficiency than by PKU.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000974-3" qtype="genetic changes">What are the genetic changes related to tetrahydrobiopterin deficiency ?</Question>
+			<Answer>Tetrahydrobiopterin deficiency can be caused by mutations in one of several genes, including GCH1, PCBD1, PTS, and QDPR. These genes provide instructions for making enzymes that help produce and recycle tetrahydrobiopterin in the body. Tetrahydrobiopterin normally helps process several amino acids, including phenylalanine. It is also involved in the production of neurotransmitters.  If one of the enzymes fails to function correctly because of a gene mutation, little or no tetrahydrobiopterin is available to help process phenylalanine. As a result, phenylalanine can build up in the blood and other tissues. Because nerve cells in the brain are particularly sensitive to phenylalanine levels, excessive amounts of this substance can cause brain damage. Tetrahydrobiopterin deficiency can also alter the levels of certain neurotransmitters, which disrupts normal brain function. These abnormalities underlie the intellectual disability and other characteristic features of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000974-4" qtype="inheritance">Is tetrahydrobiopterin deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000974-5" qtype="treatment">What are the treatments for tetrahydrobiopterin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of tetrahydrobiopterin deficiency:  - Baby&apos;s First Test: Biopterin Defect in Cofactor Biosynthesis  - Baby&apos;s First Test: Biopterin Defect in Cofactor Regeneration  - Genetic Testing Registry: 6-pyruvoyl-tetrahydropterin synthase deficiency  - Genetic Testing Registry: Dihydropteridine reductase deficiency  - Genetic Testing Registry: GTP cyclohydrolase I deficiency  - Genetic Testing Registry: Hyperphenylalaninemia, BH4-deficient, D  - MedlinePlus Encyclopedia: Serum Phenylalanine Screening   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

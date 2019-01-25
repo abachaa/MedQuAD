@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001551" source="GARD" url="https://rarediseases.info.nih.gov/gard/4582/congenital-pulmonary-alveolar-proteinosis">
+<Focus>Congenital pulmonary alveolar proteinosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034050</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pulmonary alveolar proteinosis, congenital</Synonym>
+		<Synonym>Congenital PAP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001551-1" qtype="information">What is (are) Congenital pulmonary alveolar proteinosis ?</Question>
+			<Answer>Congenital pulmonary alveolar proteinosis is a rare form of respiratory failure that is present from birth. In this condition, a type of protein builds up in the air sacs (alveoli) of the lungs, making breathing difficult. Congenital pulmonary alveolar proteinosis is caused by mutations in the SFTPB, SFTPC, ABCA3, or CSF2RA gene, and it is typically inherited in an autosomal recessive pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001551-2" qtype="symptoms">What are the symptoms of Congenital pulmonary alveolar proteinosis ?</Question>
+			<Answer>What are the signs and symptoms of Congenital pulmonary alveolar proteinosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Congenital pulmonary alveolar proteinosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis - Alveolar proteinosis - Apnea - Autosomal recessive inheritance - Clubbing - Cyanosis - Desquamative interstitial pneumonitis - Dyspnea - Failure to thrive - Heterogeneous - Interstitial pulmonary disease - Pulmonary hypertension - Rapidly progressive - Respiratory distress - Respiratory failure - Tachypnea - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

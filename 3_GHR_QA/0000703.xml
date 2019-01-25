@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000703" source="GHR" url="https://ghr.nlm.nih.gov/condition/myoclonic-epilepsy-with-ragged-red-fibers">
+<Focus>myoclonic epilepsy with ragged-red fibers</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3275417</CUI>
+			<CUI>C0014550</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fukuhara Disease</Synonym>
+		<Synonym>MERRF</Synonym>
+		<Synonym>MERRF syndrome</Synonym>
+		<Synonym>myoclonic epilepsy associated with ragged-red fibers</Synonym>
+		<Synonym>myoencephalopathy ragged-red fiber disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000703-1" qtype="information">What is (are) myoclonic epilepsy with ragged-red fibers ?</Question>
+			<Answer>Myoclonic epilepsy with ragged-red fibers (MERRF) is a disorder that affects many parts of the body, particularly the muscles and nervous system. In most cases, the signs and symptoms of this disorder appear during childhood or adolescence. The features of MERRF vary widely among affected individuals, even among members of the same family.  MERRF is characterized by muscle twitches (myoclonus), weakness (myopathy), and progressive stiffness (spasticity). When the muscle cells of affected individuals are stained and viewed under a microscope, these cells usually appear abnormal. These abnormal muscle cells are called ragged-red fibers. Other features of MERRF include recurrent seizures (epilepsy), difficulty coordinating movements (ataxia), a loss of sensation in the extremities (peripheral neuropathy), and slow deterioration of intellectual function (dementia). People with this condition may also develop hearing loss or optic atrophy, which is the degeneration (atrophy) of nerve cells that carry visual information from the eyes to the brain. Affected individuals sometimes have short stature and a form of heart disease known as cardiomyopathy. Less commonly, people with MERRF develop fatty tumors, called lipomas, just under the surface of the skin.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000703-2" qtype="frequency">How many people are affected by myoclonic epilepsy with ragged-red fibers ?</Question>
+			<Answer>MERRF is a rare condition; its prevalence is unknown. MERRF is part of a group of conditions known as mitochondrial disorders, which affect an estimated 1 in 5,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000703-3" qtype="genetic changes">What are the genetic changes related to myoclonic epilepsy with ragged-red fibers ?</Question>
+			<Answer>Mutations in the MT-TK gene are the most common cause of MERRF, occurring in more than 80 percent of all cases. Less frequently, mutations in the MT-TL1, MT-TH, and MT-TS1 genes have been reported to cause the signs and symptoms of MERRF. People with mutations in the MT-TL1, MT-TH, or MT-TS1 gene typically have signs and symptoms of other mitochondrial disorders as well as those of MERRF.  The MT-TK, MT-TL1, MT-TH, and MT-TS1 genes are contained in mitochondrial DNA (mtDNA). Mitochondria are structures within cells that use oxygen to convert the energy from food into a form cells can use through a process called oxidative phosphorylation. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA. The genes associated with MERRF provide instructions for making molecules called transfer RNAs, which are chemical cousins of DNA. These molecules help assemble protein building blocks called amino acids into full-length, functioning proteins within mitochondria. These proteins perform the steps of oxidative phosphorylation.  Mutations that cause MERRF impair the ability of mitochondria to make proteins, use oxygen, and produce energy. These mutations particularly affect organs and tissues with high energy requirements, such as the brain and muscles. Researchers have not determined how changes in mtDNA lead to the specific signs and symptoms of MERRF.  A small percentage of MERRF cases are caused by mutations in other mitochondrial genes, and in some cases the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000703-4" qtype="inheritance">Is myoclonic epilepsy with ragged-red fibers inherited ?</Question>
+			<Answer>MERRF is inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.  In most cases, people with MERRF inherit an altered mitochondrial gene from their mother, who may or may not show symptoms of the disorder. Less commonly, the disorder results from a new mutation in a mitochondrial gene and occurs in people with no family history of MERRF.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000703-5" qtype="treatment">What are the treatments for myoclonic epilepsy with ragged-red fibers ?</Question>
+			<Answer>These resources address the diagnosis or management of MERRF:  - Gene Review: Gene Review: MERRF  - Genetic Testing Registry: Myoclonus with epilepsy with ragged red fibers  - Kennedy Krieger Institute: Mitochondrial Disorders  - MedlinePlus Encyclopedia: Lipoma  - MedlinePlus Encyclopedia: Optic nerve atrophy  - MedlinePlus Encyclopedia: Peripheral Neuropathy  - MitoAction: Tips and Tools for Living with Mito  - United Mitochondrial Disease Foundation: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

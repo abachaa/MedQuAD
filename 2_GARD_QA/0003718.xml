@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003718" source="GARD" url="https://rarediseases.info.nih.gov/gard/9905/lynch-syndrome">
+<Focus>Lynch syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1333990</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Colorectal cancer, hereditary nonpolyposis</Synonym>
+		<Synonym>Hereditary nonpolyposis colorectal cancer</Synonym>
+		<Synonym>HNPCC</Synonym>
+		<Synonym>Familial nonpolyposis colon cancer</Synonym>
+		<Synonym>Colon cancer, familial nonpolyposis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003718-1" qtype="information">What is (are) Lynch syndrome ?</Question>
+			<Answer>Lynch syndrome is an inherited condition that causes an increased risk of developing cancer. Individuals with Lynch syndrome have a higher risk of developing colon and rectal cancer, as well as cancers of the stomach, small intestine, liver, gallbladder ducts, upper urinary tract, brain, skin, and prostate. Women with Lynch syndrome also have a high risk of developing uterine cancer (also called endometrial cancer) and ovarian cancer. Even though the disorder was originally described as not involving noncancerous (benign) growths (polyps) in the colon, people with Lynch syndrome may occasionally have colon polyps. Lynch syndrome has an autosomal dominant pattern of inheritance and is caused by a mutation in the MLH1, MSH2, MSH6, PMS2 or EPCAM gene.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003718-2" qtype="symptoms">What are the symptoms of Lynch syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Lynch syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Lynch syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Anemia 90% Constipation 90% Gastrointestinal hemorrhage 90% Intestinal obstruction 90% Malabsorption 90% Neoplasm of the colon 90% Neoplasm of the rectum 90% Weight loss 90% Biliary tract neoplasm 50% Neoplasm of the nervous system 50% Neoplasm of the pancreas 50% Neoplasm of the small intestine 50% Neoplasm of the stomach 50% Ovarian neoplasm 50% Renal neoplasm 50% Uterine neoplasm 50% Ascites 7.5% Hepatomegaly 7.5% Nausea and vomiting 7.5% Recurrent urinary tract infections 7.5% Autosomal dominant inheritance - Colon cancer - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003718-3" qtype="causes">What causes Lynch syndrome ?</Question>
+			<Answer>What causes Lynch syndrome? Lynch syndrome is caused by mutations in at least 5 genes (MLH1, MSH2, MSH6, PMS2 or  EPCAM). All of these genes are involved in the repair of mistakes made when DNA is copied (DNA replication) in preparation for cell division. Mutations in any of these genes prevent the proper repair of DNA replication mistakes. As the abnormal cells continue to divide, the accumulated mistakes can lead to uncontrolled cell growth and possibly cancer. Although mutations in these genes predispose individuals to cancer, not all people who carry these mutations develop cancerous tumors.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003718-4" qtype="inheritance">Is Lynch syndrome inherited ?</Question>
+			<Answer>Is Lynch syndrome an inherited condition? Lynch syndrome cancer risk is inherited in an autosomal dominant pattern, which means one inherited copy of the altered gene in each cell is sufficient to increase cancer risk. It is important to note that people inherit an increased risk of cancer, not the disease itself. Not all people who inherit mutations in these genes will develop cancer.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003718-5" qtype="exams and tests">How to diagnose Lynch syndrome ?</Question>
+			<Answer>How is Lynch syndrome diagnosed? The diagnosis of Lynch syndrome can be made on the basis of the Amsterdam clinical criteria or on the basis of molecular genetic testing for germline mutations in one of several mismatch repair (MMR) genes. To read detailed diagnostic strategies, click here.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

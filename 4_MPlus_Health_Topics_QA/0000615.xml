@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000615" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/mobilityaids.html">
+<Focus>Mobility Aids</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0425245</CUI>
+			<CUI>C0001175</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ambulation devices</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000615-1" qtype="information">What is (are) Mobility Aids ?</Question>
+			<Answer>Mobility aids help you walk or move from place to place if you are disabled or have an injury. They include       - Crutches    - Canes    - Walkers    - Wheelchairs    - Motorized scooters       You may need a walker or cane if you are at risk of falling. If you need to keep your body weight off your foot, ankle or knee, you may need crutches. You may need a wheelchair or a scooter if an injury or disease has left you unable to walk.     Choosing these devices takes time and research. You should be fitted for crutches, canes and walkers. If they fit, these devices give you support, but if they don&apos;t fit, they can be uncomfortable and unsafe.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000252" source="NINDS" url="http://www.ninds.nih.gov/disorders/shakenbaby/shakenbaby.htm">
+<Focus>Shaken Baby Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0686721</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000252-1" qtype="information">What is (are) Shaken Baby Syndrome ?</Question>
+			<Answer>Shaken baby syndrome is a type of inflicted traumatic brain injury that happens when a baby is violently shaken. A baby has weak neck muscles and a large, heavy head. Shaking makes the fragile brain bounce back and forth inside the skull and causes bruising, swelling, and bleeding, which can lead to permanent, severe brain damage or death. The characteristic injuries of shaken baby syndrome are subdural hemorrhages (bleeding in the brain), retinal hemorrhages (bleeding in the retina), damage to the spinal cord and neck, and fractures of the ribs and bones. These injuries may not be immediately noticeable. Symptoms of shaken baby syndrome include extreme irritability, lethargy, poor feeding, breathing problems, convulsions, vomiting, and pale or bluish skin. Shaken baby injuries usually occur in children younger than 2 years old, but may be seen in children up to the age of 5.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000252-2" qtype="treatment">What are the treatments for Shaken Baby Syndrome ?</Question>
+			<Answer>Emergency treatment for a baby who has been shaken usually includes life-sustaining measures such as respiratory support and surgery to stop internal bleeding and bleeding in the brain. Doctors may use brain scans, such as MRI and CT, to make a more definite diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000252-3" qtype="outlook">What is the outlook for Shaken Baby Syndrome ?</Question>
+			<Answer>In comparison with accidental traumatic brain injury in infants, shaken baby injuries have a much worse prognosis. Damage to the retina of the eye can cause blindness. The majority of infants who survive severe shaking will have some form of neurological or mental disability, such as cerebral palsy or cognitive impairment, which may not be fully apparent before 6 years of age. Children with shaken baby syndrome may require lifelong medical care.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000252-4" qtype="research">what research (or clinical trials) is being done for Shaken Baby Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), and other institutes of the National Institutes of Health (NIH), conduct research related to shaken baby syndrome in laboratories at the NIH and also support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to treat and heal medical conditions such as shaken baby syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

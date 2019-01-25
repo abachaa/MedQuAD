@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000267" source="GHR" url="https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia">
+<Focus>cytogenetically normal acute myeloid leukemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3839868</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acute myelogenous leukemia with normal karyotype</Synonym>
+		<Synonym>CN-AML</Synonym>
+		<Synonym>NK-AML</Synonym>
+		<Synonym>normal karyotype acute myeloid leukemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000267-1" qtype="information">What is (are) cytogenetically normal acute myeloid leukemia ?</Question>
+			<Answer>Cytogenetically normal acute myeloid leukemia (CN-AML) is one form of a cancer of the blood-forming tissue (bone marrow) called acute myeloid leukemia. In normal bone marrow, early blood cells called hematopoietic stem cells develop into several types of blood cells: white blood cells (leukocytes) that protect the body from infection, red blood cells (erythrocytes) that carry oxygen, and platelets (thrombocytes) that are involved in blood clotting. In acute myeloid leukemia, the bone marrow makes large numbers of abnormal, immature white blood cells called myeloid blasts. Instead of developing into normal white blood cells, the myeloid blasts develop into cancerous leukemia cells. The large number of abnormal cells in the bone marrow interferes with the production of functional white blood cells, red blood cells, and platelets.  People with CN-AML have a shortage of all types of mature blood cells: a shortage of white blood cells (leukopenia) leads to increased susceptibility to infections, a low number of red blood cells (anemia) causes fatigue and weakness, and a reduction in the amount of platelets (thrombocytopenia) can result in easy bruising and abnormal bleeding. Other symptoms of CN-AML may include fever and weight loss.  The age at which CN-AML begins ranges from childhood to late adulthood. CN-AML is said to be an intermediate-risk cancer because the prognosis varies: some affected individuals respond well to normal treatment while others may require stronger treatments. The age at which the condition begins and the prognosis are affected by the specific genetic factors involved in the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000267-2" qtype="frequency">How many people are affected by cytogenetically normal acute myeloid leukemia ?</Question>
+			<Answer>Acute myeloid leukemia occurs in approximately 3.5 per 100,000 individuals each year. Forty to 50 percent of people with acute myeloid leukemia have CN-AML.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000267-3" qtype="genetic changes">What are the genetic changes related to cytogenetically normal acute myeloid leukemia ?</Question>
+			<Answer>CN-AML is classified as &quot;cytogenetically normal&quot; based on the type of genetic changes involved in its development. Cytogenetically normal refers to the fact that this form of acute myeloid leukemia is not associated with large chromosomal abnormalities. About half of people with acute myeloid leukemia have this form of the condition; the other half have genetic changes that alter large regions of certain chromosomes. These changes can be identified by a test known as cytogenetic analysis. CN-AML is associated with smaller genetic changes that cannot be seen by cytogenetic analysis.  Mutations in a large number of genes have been found in people with CN-AML; the most commonly affected genes are NPM1, FLT3, DNMT3A, CEBPA, IDH1, and IDH2. The proteins produced from these genes have different functions in the cell. Most are involved in regulating processes such as the growth and division (proliferation), maturation (differentiation), or survival of cells. For example, the protein produced from the FLT3 gene stimulates the proliferation and survival of cells. The proteins produced from the CEBPA and DNMT3A genes regulate gene activity and help to control when cells divide and how they mature. The NPM1 gene provides instructions for a protein that is likely involved in the regulation of cell growth and division. Mutations in any of these genes can disrupt one or more of these processes in hematopoietic stem cells and lead to overproduction of abnormal, immature white blood cells, which is characteristic of CN-AML. Although the proteins produced from two other genes involved in CN-AML, IDH1 and IDH2, are not normally involved in proliferation, differentiation, or survival of cells, mutations in these genes lead to the production of proteins with a new function. These changes result in impaired differentiation of hematopoietic stem cells, which leads to CN-AML.  CN-AML is a complex condition influenced by several genetic and environmental factors. Typically, mutations in more than one gene are involved. For example, people with an NPM1 gene mutation frequently also have a mutation in the FLT3 gene, both of which are likely involved in the cancer&apos;s development. In addition, environmental factors such as smoking or exposure to radiation increase an individual&apos;s risk of developing acute myeloid leukemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000267-4" qtype="inheritance">Is cytogenetically normal acute myeloid leukemia inherited ?</Question>
+			<Answer>CN-AML is not usually inherited but arises from genetic changes in the body&apos;s cells that occur after conception. Rarely, an inherited mutation in the CEBPA gene causes acute myeloid leukemia. In these cases, the condition follows an autosomal dominant pattern of inheritance, which means that one copy of the altered CEBPA gene in each cell is sufficient to cause the disorder. These cases of CN-AML are referred to as familial acute myeloid leukemia with mutated CEBPA.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000267-5" qtype="treatment">What are the treatments for cytogenetically normal acute myeloid leukemia ?</Question>
+			<Answer>These resources address the diagnosis or management of cytogenetically normal acute myeloid leukemia:  - Fred Hutchinson Cancer Research Center  - National Cancer Institute: Acute Myeloid Leukemia Treatment  - St. Jude Children&apos;s Research Hospital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

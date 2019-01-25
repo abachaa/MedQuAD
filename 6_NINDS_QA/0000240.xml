@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000240" source="NINDS" url="http://www.ninds.nih.gov/disorders/tabes_dorsalis/tabes_dorsalis.htm">
+<Focus>Tabes Dorsalis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039223</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000240-1" qtype="information">What is (are) Tabes Dorsalis ?</Question>
+			<Answer>Tabes dorsalis is a slow degeneration of the nerve cells and nerve fibers that carry sensory information to the brain. The degenerating nerves are in the dorsal columns of the spinal cord (the portion closest to the back of the body) and carry information that help maintain a person&apos;s sense of position. Tabes dorsalis is the result of an untreated syphilis infection. Symptoms may not appear for some decades after the initial infection and include weakness, diminished reflexes, unsteady gait, progressive degeneration of the joints, loss of coordination, episodes of intense pain and disturbed sensation, personality changes, dementia, deafness, visual impairment, and impaired response to light. The disease is more frequent in males than in females. Onset is commonly during mid-life. The incidence of tabes dorsalis is rising, in part due to co-associated HIV infection.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000240-2" qtype="treatment">What are the treatments for Tabes Dorsalis ?</Question>
+			<Answer>Penicillin, administered intravenously, is the treatment of choice. Associated pain can be treated with opiates, valproate, or carbamazepine. Patients may also require physical or rehabilitative therapy to deal with muscle wasting and weakness. Preventive treatment for those who come into sexual contact with an individual with tabes dorsalis is important.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000240-3" qtype="outlook">What is the outlook for Tabes Dorsalis ?</Question>
+			<Answer>If left untreated, tabes dorsalis can lead to paralysis, dementia, and blindness. Existing nerve damage cannot be reversed.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000240-4" qtype="research">what research (or clinical trials) is being done for Tabes Dorsalis ?</Question>
+			<Answer>The NINDS supports and conducts research on neurodegenerative disorders, such as tabes dorsalis, in an effort to find ways to prevent, treat, and, ultimately, cure these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

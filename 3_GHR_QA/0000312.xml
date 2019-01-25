@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000312" source="GHR" url="https://ghr.nlm.nih.gov/condition/early-onset-primary-dystonia">
+<Focus>early-onset primary dystonia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1851945</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dystonia musculorum deformans 1</Synonym>
+		<Synonym>DYT1</Synonym>
+		<Synonym>Early-onset generalized torsion dystonia</Synonym>
+		<Synonym>Oppenheim dystonia</Synonym>
+		<Synonym>Oppenheim's dystonia</Synonym>
+		<Synonym>Primary torsion dystonia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000312-1" qtype="information">What is (are) early-onset primary dystonia ?</Question>
+			<Answer>Early-onset primary dystonia is a condition characterized by progressive problems with movement, typically beginning in childhood. Dystonia is a movement disorder that involves involuntary tensing of the muscles (muscle contractions), twisting of specific body parts such as an arm or a leg, rhythmic shaking (tremors), and other uncontrolled movements. A primary dystonia is one that occurs without other neurological symptoms, such as seizures or a loss of intellectual function (dementia). Early-onset primary dystonia does not affect a person&apos;s intelligence.  On average, the signs and symptoms of early-onset primary dystonia appear around age 12. Abnormal muscle spasms in an arm or a leg are usually the first sign. These unusual movements initially occur while a person is doing a specific action, such as writing or walking. In some affected people, dystonia later spreads to other parts of the body and may occur at rest. The abnormal movements persist throughout life, but they do not usually cause pain.  The signs and symptoms of early-onset primary dystonia vary from person to person, even among affected members of the same family. The mildest cases affect only a single part of the body, causing isolated problems such as a writer&apos;s cramp in the hand. Severe cases involve abnormal movements affecting many regions of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000312-2" qtype="frequency">How many people are affected by early-onset primary dystonia ?</Question>
+			<Answer>Early-onset primary dystonia is among the most common forms of childhood dystonia. This disorder occurs most frequently in people of Ashkenazi (central and eastern European) Jewish heritage, affecting 1 in 3,000 to 9,000 people in this population. The condition is less common among people with other backgrounds; it is estimated to affect 1 in 10,000 to 30,000 non-Jewish people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000312-3" qtype="genetic changes">What are the genetic changes related to early-onset primary dystonia ?</Question>
+			<Answer>A particular mutation in the TOR1A gene (also known as DYT1) is responsible for most cases of early-onset primary dystonia. The TOR1A gene provides instructions for making a protein called torsinA. Although little is known about its function, this protein may help process and transport other proteins within cells. It appears to be critical for the normal development and function of nerve cells in the brain.  A mutation in the TOR1A gene alters the structure of torsinA. The altered protein&apos;s effect on the function of nerve cells in the brain is unclear. People with early-onset primary dystonia do not have a loss of nerve cells or obvious changes in the structure of the brain that would explain the abnormal muscle contractions. Instead, the altered torsinA protein may have subtle effects on the connections between nerve cells and likely disrupts chemical signaling between nerve cells that control movement. Researchers are working to determine how a change in this protein leads to the characteristic features of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000312-4" qtype="inheritance">Is early-onset primary dystonia inherited ?</Question>
+			<Answer>Mutations in the TOR1A gene are inherited in an autosomal dominant pattern, which means one of the two copies of the gene is altered in each cell. Many people who have a mutation in this gene are not affected by the disorder and may never know they have the mutation. Only 30 to 40 percent of people who inherit a TOR1A mutation will ever develop signs and symptoms of early-onset primary dystonia.  Everyone who has been diagnosed with early-onset primary dystonia has inherited a TOR1A mutation from one parent. The parent may or may not have signs and symptoms of the condition, and other family members may or may not be affected.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000312-5" qtype="treatment">What are the treatments for early-onset primary dystonia ?</Question>
+			<Answer>These resources address the diagnosis or management of early-onset primary dystonia:  - Gene Review: Gene Review: DYT1 Early-Onset Primary Dystonia  - Genetic Testing Registry: Dystonia 1  - MedlinePlus Encyclopedia: Movement - uncontrolled or slow   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

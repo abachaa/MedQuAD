@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003749" source="GARD" url="https://rarediseases.info.nih.gov/gard/6959/mal-de-debarquement">
+<Focus>Mal de debarquement</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1608983</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MdDS</Synonym>
+		<Synonym>Mal de debarquement syndrome</Synonym>
+		<Synonym>Sickness of disembarkment</Synonym>
+		<Synonym>Disembarkment syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003749-1" qtype="information">What is (are) Mal de debarquement ?</Question>
+			<Answer>Mal de debarquement syndrome is a balance disorder that most commonly develops following an ocean cruise or other type of water travel and less commonly following air travel, train travel, or other motion experiences. The symptoms typically reported include: persistent sensation of motion such as rocking, swaying, and/or bobbing, difficulty maintaining balance, anxiety, fatigue, unsteadiness, and difficulty concentrating. The symptoms may be last anywhere from a month to years. Symptoms may or may not go away with time; however, they may reoccur following another motion experience or during periods of stress or illness. Although there is no known cure for mal de debarquement syndrome, there is evidence that some patients have responded positively to antidepressants or anti-seizure medications. Customized vestibular therapy and exercise routines may also be effective.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003749-2" qtype="treatment">What are the treatments for Mal de debarquement ?</Question>
+			<Answer>How might mal de debarquement syndrome be treated? Treatment options for mal de debarquement syndrome (MdDS) are limited. Most drugs that work for other forms of dizziness do not work for MdDS. On some cases, medications classified as vestibular suppressants, such as anti-depressants and anti-seizure medications, may be used. Customized vestibular therapy like optokinetic stimulation has been effective in some cases. In recent years, a renewed interest in understanding the underlying cause of MdDS has led to new treatment options, including repetitive cranial stimulation. More studies into these treatment options are needed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

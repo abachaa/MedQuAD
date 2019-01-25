@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000607" source="GHR" url="https://ghr.nlm.nih.gov/condition/lujan-syndrome">
+<Focus>Lujan syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0796022</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LFS</Synonym>
+		<Synonym>Lujan-Fryns syndrome</Synonym>
+		<Synonym>X-linked intellectual deficit with marfanoid habitus</Synonym>
+		<Synonym>X-linked mental retardation with marfanoid habitus</Synonym>
+		<Synonym>XLMR with marfanoid features</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000607-1" qtype="information">What is (are) Lujan syndrome ?</Question>
+			<Answer>Lujan syndrome is a condition characterized by intellectual disability, behavioral problems, and certain physical features. It occurs almost exclusively in males.  The intellectual disability associated with Lujan syndrome is usually mild to moderate. Behavioral problems can include hyperactivity, aggressiveness, extreme shyness, and excessive attention-seeking. Some affected individuals have features of autism or related developmental disorders affecting communication and social interaction. A few have been diagnosed with psychiatric problems such as delusions and hallucinations.  Characteristic physical features of Lujan syndrome include a tall, thin body and an unusually large head (macrocephaly). Affected individuals also have a long, thin face with distinctive facial features such as a prominent top of the nose (high nasal root); a short space between the nose and the upper lip (philtrum); a narrow roof of the mouth (palate); crowded teeth; and a small chin (micrognathia). Almost all people with this condition have weak muscle tone (hypotonia).  Additional signs and symptoms of Lujan syndrome can include abnormal speech, heart defects, and abnormalities of the genitourinary system. Many affected individuals have long fingers and toes with an unusually large range of joint movement (hyperextensibility). Seizures and abnormalities of the tissue that connects the left and right halves of the brain (corpus callosum) have also been reported in people with this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000607-2" qtype="frequency">How many people are affected by Lujan syndrome ?</Question>
+			<Answer>Lujan syndrome appears to be an uncommon condition, but its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000607-3" qtype="genetic changes">What are the genetic changes related to Lujan syndrome ?</Question>
+			<Answer>Lujan syndrome is caused by at least one mutation in the MED12 gene. This gene provides instructions for making a protein that helps regulate gene activity; it is involved in many aspects of early development. The MED12 gene mutation that causes Lujan syndrome changes a single protein building block (amino acid) in the MED12 protein. This genetic change alters the structure, and presumably the function, of the MED12 protein. However, it is unclear how the mutation affects development and leads to the cognitive and physical features of Lujan syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000607-4" qtype="inheritance">Is Lujan syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000607-5" qtype="treatment">What are the treatments for Lujan syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Lujan syndrome:  - Gene Review: Gene Review: MED12-Related Disorders  - Genetic Testing Registry: X-linked mental retardation with marfanoid habitus syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

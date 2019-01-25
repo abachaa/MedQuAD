@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003885" source="GARD" url="https://rarediseases.info.nih.gov/gard/8165/megalocytic-interstitial-nephritis">
+<Focus>Megalocytic interstitial nephritis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2931118</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Interstitial megalocytic nephritis</Synonym>
+		<Synonym>Transplant megalocytic interstitial nephritis (type)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003885-1" qtype="information">What is (are) Megalocytic interstitial nephritis ?</Question>
+			<Answer>Megalocytic interstitial nephritis is a rare chronic kidney disease that is characterized by inflammation of the kidney. It is similar to malakoplakia of the kidney. In this condition the inflammation is caused by various infiltrate, particularly histiocytes. A histiocyte is a type of immune cell that eats foreign substances in an effort to protect the body from infection.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003885-2" qtype="symptoms">What are the symptoms of Megalocytic interstitial nephritis ?</Question>
+			<Answer>What are the symptoms of interstitial nephritis? Symptoms of interstitial nephritis may include blood in the urine, fever, increased or decreased urine output, mental status changes (drowsiness, confusion, coma), nausea, vomiting, rash, swelling of the body, and weight gain (from retaining fluid).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003885-3" qtype="causes">What causes Megalocytic interstitial nephritis ?</Question>
+			<Answer>What causes malakoplakia? The cause of malakoplakia is unknown, but is thought to be associated with immunodeficiency or autoimmune disorders, such as hypogammaglobinlinemia, therapies that suppress the immune system, cancer, a chronic debilitating disorder, rheumatoid arthritis, and AIDS.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

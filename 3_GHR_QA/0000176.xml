@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000176" source="GHR" url="https://ghr.nlm.nih.gov/condition/cherubism">
+<Focus>cherubism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008029</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial benign giant-cell tumor of the jaw</Synonym>
+		<Synonym>Familial fibrous dysplasia of jaw</Synonym>
+		<Synonym>Familial multilocular cystic disease of the jaws</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000176-1" qtype="information">What is (are) cherubism ?</Question>
+			<Answer>Cherubism is a disorder characterized by abnormal bone tissue in the lower part of the face. Beginning in early childhood, both the lower jaw (the mandible) and the upper jaw (the maxilla) become enlarged as bone is replaced with painless, cyst-like growths. These growths give the cheeks a swollen, rounded appearance and often interfere with normal tooth development. In some people the condition is so mild that it may not be noticeable, while other cases are severe enough to cause problems with vision, breathing, speech, and swallowing. Enlargement of the jaw usually continues throughout childhood and stabilizes during puberty. The abnormal growths are gradually replaced with normal bone in early adulthood. As a result, many affected adults have a normal facial appearance.  Most people with cherubism have few, if any, signs and symptoms affecting other parts of the body. Rarely, however, this condition occurs as part of another genetic disorder. For example, cherubism can occur with Ramon syndrome, which also involves short stature, intellectual disability, and overgrowth of the gums (gingival fibrosis). Additionally, cherubism has been reported in rare cases of Noonan syndrome (a developmental disorder characterized by unusual facial characteristics, short stature, and heart defects) and fragile X syndrome (a condition primarily affecting males that causes learning disabilities and cognitive impairment).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000176-2" qtype="frequency">How many people are affected by cherubism ?</Question>
+			<Answer>The incidence of cherubism is unknown. At least 250 cases have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000176-3" qtype="genetic changes">What are the genetic changes related to cherubism ?</Question>
+			<Answer>Mutations in the SH3BP2 gene have been identified in about 80 percent of people with cherubism. In most of the remaining cases, the genetic cause of the condition is unknown.  The SH3BP2 gene provides instructions for making a protein whose exact function is unclear. The protein plays a role in transmitting chemical signals within cells, particularly cells involved in the replacement of old bone tissue with new bone (bone remodeling) and certain immune system cells.  Mutations in the SH3BP2 gene lead to the production of an overly active version of this protein. The effects of SH3BP2 mutations are still under study, but researchers believe that the abnormal protein disrupts critical signaling pathways in cells associated with the maintenance of bone tissue and in some immune system cells. The overactive protein likely causes inflammation in the jaw bones and triggers the production of osteoclasts, which are cells that break down bone tissue during bone remodeling. An excess of these bone-eating cells contributes to the destruction of bone in the upper and lower jaws. A combination of bone loss and inflammation likely underlies the cyst-like growths characteristic of cherubism.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000176-4" qtype="inheritance">Is cherubism inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000176-5" qtype="treatment">What are the treatments for cherubism ?</Question>
+			<Answer>These resources address the diagnosis or management of cherubism:  - Gene Review: Gene Review: Cherubism  - Genetic Testing Registry: Fibrous dysplasia of jaw   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

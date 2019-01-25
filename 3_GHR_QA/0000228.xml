@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000228" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-hepatic-fibrosis">
+<Focus>congenital hepatic fibrosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009714</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CHF</Synonym>
+		<Synonym>congenital fibrose liver</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000228-1" qtype="information">What is (are) congenital hepatic fibrosis ?</Question>
+			<Answer>Congenital hepatic fibrosis is a disease of the liver that is present from birth. The liver has many important functions, including producing various molecules needed by the body and breaking down other molecules so that their components can be used or eliminated.  Congenital hepatic fibrosis is characterized by malformation of the bile ducts and of the blood vessels of the hepatic portal system. Bile ducts carry bile (a fluid that helps to digest fats) from the liver to the gallbladder and small intestine. The hepatic portal system is a branching network of veins (portal veins) that carry blood from the gastrointestinal tract to the liver for processing.  A buildup of scar tissue (fibrosis) in the portal tracts also occurs in this disorder. Portal tracts are structures in the liver that bundle the vessels through which blood, lymph, and bile flow, and fibrosis in the portal tracts can restrict the normal movement of fluids in these vessels. Lymph is a fluid that helps exchange immune cells, proteins, and other substances between the blood and tissues.  Constriction of the portal veins due to malformation and portal tract fibrosis results in high blood pressure in the hepatic portal system (portal hypertension). Portal hypertension impairs the flow of blood from the gastrointestinal tract, causing an increase in pressure in the veins of the esophagus, stomach, and intestines. These veins may stretch and their walls may become thin, leading to a risk of abnormal bleeding.  People with congenital hepatic fibrosis have an enlarged liver and spleen (hepatosplenomegaly). The liver is abnormally shaped. Affected individuals also have an increased risk of infection of the bile ducts (cholangitis), hard deposits in the gallbladder or bile ducts (gallstones), and cancer of the liver or gallbladder.  Congenital hepatic fibrosis may occur alone, in which case it is called isolated congenital hepatic fibrosis. More frequently, it occurs as a feature of genetic syndromes that also affect the kidneys (the renal system), such as polycystic kidney disease (PKD).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000228-2" qtype="frequency">How many people are affected by congenital hepatic fibrosis ?</Question>
+			<Answer>Isolated congenital hepatic fibrosis is rare. Its prevalence is unknown. The total prevalence of syndromes that include congenital hepatic fibrosis as a feature is estimated to be 1 in 10,000 to 20,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000228-3" qtype="genetic changes">What are the genetic changes related to congenital hepatic fibrosis ?</Question>
+			<Answer>Syndromes of which congenital hepatic fibrosis is a feature may be caused by changes in many different genes. The gene changes that cause isolated congenital hepatic fibrosis are unknown.  Congenital hepatic fibrosis is caused by problems in the development of the portal veins and bile ducts. These problems include malformation of embryonic structures called ductal plates. Each ductal plate is a cylinder of cells surrounding branches of the portal veins. During development before birth, the ductal plates normally develop into the network of bile ducts. In congenital hepatic fibrosis, the development of the ductal plates does not proceed normally, resulting in the persistence of immature bile ducts. Branching of the portal vein network also proceeds abnormally, and excess fibrous tissue develops in the portal tracts.  The malformation of the portal veins and bile ducts disrupts the normal flow of blood and bile, which leads to the progressive signs and symptoms of congenital hepatic fibrosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000228-4" qtype="inheritance">Is congenital hepatic fibrosis inherited ?</Question>
+			<Answer>The various syndromes of which congenital hepatic fibrosis is often a feature can have different inheritance patterns. Most of these disorders are inherited in an autosomal recessive pattern, which means both copies of the associated gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Rare syndromes involving congenital hepatic fibrosis may be inherited in an X-linked recessive pattern, in which the gene associated with the syndrome is located on the X chromosome, which is one of the two sex chromosomes.  In isolated congenital hepatic fibrosis, the inheritance pattern is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000228-5" qtype="treatment">What are the treatments for congenital hepatic fibrosis ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital hepatic fibrosis:  - Gene Review: Gene Review: Congenital Hepatic Fibrosis Overview  - Genetic Testing Registry: Congenital hepatic fibrosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

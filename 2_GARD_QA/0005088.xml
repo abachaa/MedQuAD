@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005088" source="GARD" url="https://rarediseases.info.nih.gov/gard/7468/progressive-multifocal-leukoencephalopathy">
+<Focus>Progressive multifocal leukoencephalopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023524</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Leukoencephalopathy, progressive multifocal</Synonym>
+		<Synonym>PML</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005088-1" qtype="information">What is (are) Progressive multifocal leukoencephalopathy ?</Question>
+			<Answer>Progressive multifocal leukoencephalopathy (PML) is a neurological disorder that damages the myelin that covers and protects nerves in the white matter of the brain. It is caused by the JC virus (JCV). By age 10, most people have been infected with this virus, but it rarely causes symptoms unless the immune system becomes severely weakened. The disease occurs, rarely, in organ transplant patients; people undergoing chronic corticosteroid or immunosuppressive therapy; and individuals with cancer, such as Hodgkins disease, lymphoma, and sarcoidosis.  PML is most common among individuals with acquired immune deficiency syndrome (AIDS).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005088-2" qtype="treatment">What are the treatments for Progressive multifocal leukoencephalopathy ?</Question>
+			<Answer>How might progressive multifocal leukoencephalopathy (PML) be treated? Currently, the best available therapy is reversal of the immune-deficient state. This can sometimes be accomplished by alteration of chemotherapy or immunosuppression. In the case of HIV-associated PML, immediately beginning anti-retroviral therapy will benefit most individuals.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

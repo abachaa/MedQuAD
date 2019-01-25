@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006061" source="GARD" url="https://rarediseases.info.nih.gov/gard/9210/thiamine-responsive-megaloblastic-anemia-syndrome">
+<Focus>Thiamine responsive megaloblastic anemia syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342287</CUI>
+			<CUI>C0002888</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Thiamine-responsive anemia syndrome</Synonym>
+		<Synonym>TRMA</Synonym>
+		<Synonym>Megaloblastic anemia thiamine-responsive with diabetes mellitus and sensorineural deafness</Synonym>
+		<Synonym>Rogers syndrome</Synonym>
+		<Synonym>Thiamine-responsive myelodysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006061-1" qtype="information">What is (are) Thiamine responsive megaloblastic anemia syndrome ?</Question>
+			<Answer>Thiamine-responsive megaloblastic anemia syndrome is a very rare condition characterized by hearing loss, diabetes, and a blood disorder called megaloblastic anemia. Affected individuals begin to show symptoms of this condition between infancy and adolescence. This syndrome is called &quot;thiamine-responsive&quot; because the anemia can be treated with high doses of vitamin B1 (thiamine). This condition is caused by mutations in the SLC19A2 gene and is inherited in an autosomal recessive fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006061-2" qtype="symptoms">What are the symptoms of Thiamine responsive megaloblastic anemia syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Thiamine responsive megaloblastic anemia syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Thiamine responsive megaloblastic anemia syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Macrocytic anemia 90% Sensorineural hearing impairment 90% Type I diabetes mellitus 90% Optic atrophy 50% Thrombocytopenia 50% Abnormality of retinal pigmentation 7.5% Cerebral ischemia 7.5% Congestive heart failure 7.5% Short stature 7.5% Sudden cardiac death 7.5% Visual impairment 7.5% Ataxia 5% Cardiomyopathy 5% Cryptorchidism 5% Gastroesophageal reflux 5% Seizures 5% Situs inversus totalis 5% Stroke 5% Abnormality of the skin - Aminoaciduria - Arrhythmia - Atria septal defect - Autosomal recessive inheritance - Cone/cone-rod dystrophy - Congenital septal defect - Diabetes mellitus - Hoarse voice - Nystagmus - Retinal degeneration - Sideroblastic anemia - Thiamine-responsive megaloblastic anemia - Ventricular septal defect - Visual loss - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000144" source="GHR" url="https://ghr.nlm.nih.gov/condition/campomelic-dysplasia">
+<Focus>campomelic dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1861922</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>campomelic dwarfism</Synonym>
+		<Synonym>campomelic syndrome</Synonym>
+		<Synonym>camptomelic dysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000144-1" qtype="information">What is (are) campomelic dysplasia ?</Question>
+			<Answer>Campomelic dysplasia is a severe disorder that affects development of the skeleton, reproductive system, and other parts of the body. This condition is often life-threatening in the newborn period.  The term &quot;campomelic&quot; comes from the Greek words for &quot;bent limb.&quot; Affected individuals are typically born with bowing of the long bones in the legs, and occasionally, bowing in the arms. Bowing can cause characteristic skin dimples to form over the curved bone, especially on the lower legs. People with campomelic dysplasia usually have short legs, dislocated hips, underdeveloped shoulder blades, 11 pairs of ribs instead of 12, bone abnormalities in the neck, and inward- and upward-turning feet (clubfeet). These skeletal abnormalities begin developing before birth and can often be seen on ultrasound. When affected individuals have features of this disorder but do not have bowed limbs, they are said to have acampomelic campomelic dysplasia.  Many people with campomelic dysplasia have external genitalia that do not look clearly male or clearly female (ambiguous genitalia). Approximately 75 percent of affected individuals with a typical male chromosome pattern (46,XY) have ambiguous genitalia or normal female genitalia. Internal reproductive organs may not correspond with the external genitalia; the internal organs can be male (testes), female (ovaries), or a combination of the two. For example, an individual with female external genitalia may have testes or a combination of testes and ovaries.  Affected individuals have distinctive facial features, including a small chin, prominent eyes, and a flat face. They also have a large head compared to their body size. A particular group of physical features, called Pierre Robin sequence, is common in people with campomelic dysplasia. Pierre Robin sequence includes an opening in the roof of the mouth (a cleft palate), a tongue that is placed further back than normal (glossoptosis), and a small lower jaw (micrognathia). People with campomelic dysplasia are often born with weakened cartilage that forms the upper respiratory tract. This abnormality, called laryngotracheomalacia, partially blocks the airway and causes difficulty breathing. Laryngotracheomalacia contributes to the poor survival of infants with campomelic dysplasia.  Only a few people with campomelic dysplasia survive past infancy. As these individuals age, they may develop an abnormal curvature of the spine (scoliosis) and other spine abnormalities that compress the spinal cord. People with campomelic dysplasia may also have short stature and hearing loss.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000144-2" qtype="frequency">How many people are affected by campomelic dysplasia ?</Question>
+			<Answer>The prevalence of campomelic dysplasia is uncertain; estimates range from 1 in 40,000 to 200,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000144-3" qtype="genetic changes">What are the genetic changes related to campomelic dysplasia ?</Question>
+			<Answer>Mutations in or near the SOX9 gene cause campomelic dysplasia. This gene provides instructions for making a protein that plays a critical role in the formation of many different tissues and organs during embryonic development. The SOX9 protein regulates the activity of other genes, especially those that are important for development of the skeleton and reproductive organs.  Most cases of campomelic dysplasia are caused by mutations within the SOX9 gene. These mutations prevent the production of the SOX9 protein or result in a protein with impaired function. About 5 percent of cases are caused by chromosome abnormalities that occur near the SOX9 gene; these cases tend to be milder than those caused by mutations within the SOX9 gene. The chromosome abnormalities disrupt regions of DNA that normally regulate the activity of the SOX9 gene. All of these genetic changes prevent the SOX9 protein from properly controlling the genes essential for normal development of the skeleton, reproductive system, and other parts of the body. Abnormal development of these structures causes the signs and symptoms of campomelic dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000144-4" qtype="inheritance">Is campomelic dysplasia inherited ?</Question>
+			<Answer>Campomelic dysplasia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in or near the SOX9 gene and occur in people with no history of the disorder in their family. Rarely, affected individuals inherit a chromosome abnormality from a parent who may or may not show mild signs and symptoms of campomelic dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000144-5" qtype="treatment">What are the treatments for campomelic dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of campomelic dysplasia:  - European Skeletal Dysplasia Network  - Gene Review: Gene Review: Campomelic Dysplasia  - Genetic Testing Registry: Camptomelic dysplasia  - MedlinePlus Encyclopedia: Ambiguous Genitalia  - MedlinePlus Encyclopedia: Pierre-Robin Syndrome  - The Hospital for Sick Children   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000031_2" source="CancerGov" url="https://www.cancer.gov/types/neuroblastoma/patient/neuroblastoma-screening-pdq">
+<Focus>Neuroblastoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027819</CUI>
+			<CUI>C0700095</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000031_2-1" qtype="information">What is (are) Neuroblastoma ?</Question>
+			<Answer>Key Points
+                    - Neuroblastoma is a disease in which malignant (cancer) cells form in nerve tissue.    - Most cases of neuroblastoma are diagnosed before 1 year of age.     - The risk factors for neuroblastoma are not known.
+                
+                
+                    Neuroblastoma is a disease in which malignant (cancer) cells form in nerve tissue.
+                    Neuroblastoma often begins in the nerve tissue of the adrenal glands. There are two adrenal glands, one on top of each kidney, in the back of the upper abdomen. The adrenal glands make important hormones that help control heart rate, blood pressure, blood sugar, and the way the body reacts to stress. Neuroblastoma may also begin in the abdomen, chest, spinal cord, or in nerve tissue near the spine in the neck.    Neuroblastoma most often begins during early childhood, usually in children younger than 5 years of age.   See the PDQ summary on Neuroblastoma Treatment for more information about neuroblastoma.
+                
+                
+                    Most cases of neuroblastoma are diagnosed before 1 year of age.
+                    Neuroblastoma is the most common type of cancer in infants. The number of new cases of neuroblastoma is greatest among children under 1 year of age. As children get older, the number of new cases decreases. Neuroblastoma is slightly more common in males than females.    Neuroblastoma sometimes forms before birth but is usually found later, when the tumor begins to grow and cause symptoms. In rare cases, neuroblastoma may be found before birth, by fetal ultrasound.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000031_2-2" qtype="susceptibility">Who is at risk for Neuroblastoma? ?</Question>
+			<Answer>The risk factors for neuroblastoma are not known.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000031_2-4" qtype="susceptibility">Who is at risk for Neuroblastoma? ?</Question>
+			<Answer>Key Points
+                    - Screening tests have risks.    - The risks of neuroblastoma screening include the following:         -  Neuroblastoma may be overdiagnosed.     - False-negative test results can occur.     - False-positive test results can occur.
+                
+                
+                    Screening tests have risks.
+                    Decisions about screening tests can be difficult. Not all screening tests are helpful and most have risks. Before having any screening test, you may want to discuss the test with your doctor. It is important to know the risks of the test and whether it has been proven to reduce the risk of dying from cancer.
+                
+                
+                    The risks of neuroblastoma screening include the following:
+                    Neuroblastoma may be overdiagnosed.     When a screening test result leads to the diagnosis and treatment of a disease that may never have caused symptoms or become life-threatening, it is called overdiagnosis. For example, when a urine test result shows a higher than normal amount of homovanillic acid (HMA) or vanillyl mandelic acid (VMA), tests and treatments for neuroblastoma are likely to be done, but may not be needed. At this time, it is not possible to know which neuroblastomas found by a screening test will cause symptoms and which neuroblastomas will not. Diagnostic tests (such as biopsies) and cancer treatments (such as surgery, radiation therapy, and chemotherapy) can have serious risks, including physical and emotional problems.       False-negative test results can occur.    Screening test results may appear to be normal even though neuroblastoma is present. A person who receives a false-negative test result (one that shows there is no cancer when there really is) may delay seeking medical care even if there are symptoms.       False-positive test results can occur.    Screening test results may appear to be abnormal even though no cancer is present. A false-positive test result (one that shows there is cancer when there really isn&apos;t) can cause anxiety and is usually followed by more tests and procedures, which also have risks.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

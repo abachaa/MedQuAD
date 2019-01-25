@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000196" source="NINDS" url="http://www.ninds.nih.gov/disorders/mitochondrial_myopathy/mitochondrial_myopathy.htm">
+<Focus>Mitochondrial Myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162670</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000196-1" qtype="information">What is (are) Mitochondrial Myopathy ?</Question>
+			<Answer>Mitochondrial myopathies are a group of neuromuscular diseases caused by damage to the mitochondriasmall, energy-producing structures that serve as the cells&apos; &quot;power plants.&quot; Nerve cells in the brain and muscles require a great deal of energy, and thus appear to be particularly damaged when mitochondrial dysfunction occurs. Some of the more common mitochondrial myopathies include Kearns-Sayre syndrome, myoclonus epilepsy with ragged-red fibers, and mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes. The symptoms of mitochondrial myopathies include muscle weakness or exercise intolerance, heart failure or rhythm disturbances, dementia, movement disorders, stroke-like episodes, deafness, blindness, droopy eyelids, limited mobility of the eyes, vomiting, and seizures. The prognosis for these disorders ranges in severity from progressive weakness to death. Most mitochondrial myopathies occur before the age of 20, and often begin with exercise intolerance or muscle weakness. During physical activity, muscles may become easily fatigued or weak. Muscle cramping is rare, but may occur. Nausea, headache, and breathlessness are also associated with these disorders.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000196-2" qtype="treatment">What are the treatments for Mitochondrial Myopathy ?</Question>
+			<Answer>Although there is no specific treatment for any of the mitochondrial myopathies, physical therapy may extend the range of movement of muscles and improve dexterity. Vitamin therapies such as riboflavin, coenzyme Q, and carnitine (a specialized amino acid) may provide subjective improvement in fatigue and energy levels in some patients.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000196-3" qtype="outlook">What is the outlook for Mitochondrial Myopathy ?</Question>
+			<Answer>The prognosis for patients with mitochondrial myopathies varies greatly, depending largely on the type of disease and the degree of involvement of various organs. These disorders cause progressive weakness and can lead to death.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000196-4" qtype="research">what research (or clinical trials) is being done for Mitochondrial Myopathy ?</Question>
+			<Answer>The NINDS conducts and supports research on mitochondrial myopathies. The goals of this research are to increase scientific understanding of these disorders and to find ways to effectively treat, prevent, or potentially cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

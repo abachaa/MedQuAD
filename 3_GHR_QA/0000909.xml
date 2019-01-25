@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000909" source="GHR" url="https://ghr.nlm.nih.gov/condition/sialuria">
+<Focus>sialuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342853</CUI>
+			<CUI>C1096903</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>French type sialuria</Synonym>
+		<Synonym>Sialuria, French type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000909-1" qtype="information">What is (are) sialuria ?</Question>
+			<Answer>Sialuria is a rare disorder that has variable effects on development. Affected infants are often born with a yellow tint to the skin and the whites of the eyes (neonatal jaundice), an enlarged liver and spleen (hepatosplenomegaly), and unusually small red blood cells (microcytic anemia). They may develop a somewhat flat face and distinctive-looking facial features that are described as &quot;coarse.&quot; Temporarily delayed development and weak muscle tone (hypotonia) have also been reported.  Young children with sialuria tend to have frequent upper respiratory infections and episodes of dehydration and stomach upset (gastroenteritis). Older children may have seizures and learning difficulties. In some affected children, intellectual development is nearly normal.  The features of sialuria vary widely among affected people. Many of the problems associated with this disorder appear to improve with age, although little is known about the long-term effects of the disease. It is likely that some adults with sialuria never come to medical attention because they have very mild signs and symptoms or no health problems related to the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000909-2" qtype="frequency">How many people are affected by sialuria ?</Question>
+			<Answer>Fewer than 10 people worldwide have been diagnosed with sialuria. There are probably more people with the disorder who have not been diagnosed, as sialuria can be difficult to detect because of its variable features.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000909-3" qtype="genetic changes">What are the genetic changes related to sialuria ?</Question>
+			<Answer>Mutations in the GNE gene cause sialuria. The GNE gene provides instructions for making an enzyme found in cells and tissues throughout the body. This enzyme is involved in a chemical pathway that produces sialic acid, which is a simple sugar that attaches to the ends of more complex molecules on the surface of cells. By modifying these molecules, sialic acid influences a wide variety of cellular functions including cell movement (migration), attachment of cells to one another (adhesion), signaling between cells, and inflammation.  The enzyme produced from the GNE gene is carefully controlled to ensure that cells produce an appropriate amount of sialic acid. A feedback system shuts off the enzyme when no more sialic acid is needed. The mutations responsible for sialuria disrupt this feedback mechanism, resulting in an overproduction of sialic acid. This simple sugar builds up within cells and is excreted in urine. Researchers are working to determine how an accumulation of sialic acid in the body interferes with normal development in people with sialuria.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000909-4" qtype="inheritance">Is sialuria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most reported cases have occurred in people with no known history of the disorder in their family and may result from new mutations in the gene.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000909-5" qtype="treatment">What are the treatments for sialuria ?</Question>
+			<Answer>These resources address the diagnosis or management of sialuria:  - Gene Review: Gene Review: Sialuria  - Genetic Testing Registry: Sialuria  - MedlinePlus Encyclopedia: Hepatosplenomegaly (image)  - MedlinePlus Encyclopedia: Newborn Jaundice   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

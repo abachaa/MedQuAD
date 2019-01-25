@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002310" source="GARD" url="https://rarediseases.info.nih.gov/gard/9118/fanconi-renotubular-syndrome">
+<Focus>Fanconi renotubular syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0341703</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FRTS</Synonym>
+		<Synonym>Renal Fanconi syndrome</Synonym>
+		<Synonym>RFS</Synonym>
+		<Synonym>Adult Fanconi syndrome</Synonym>
+		<Synonym>Fanconi syndrome without cystinosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002310-1" qtype="information">What is (are) Fanconi renotubular syndrome ?</Question>
+			<Answer>Fanconi syndrome is a condition in which the kidneys do not absorb certain substances into the body.  These substances, such as cysteine, fructose, galactose, or glycogen, are lost in the urine.  Fanconi syndrome is thought to be caused by genetic and environmental factors, and it may be diagnosed at any age.  Symptoms of Fanconi syndrome include increased urine production (which may cause dehydration), weakness, and abnormalities of the bones.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002310-2" qtype="symptoms">What are the symptoms of Fanconi renotubular syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Fanconi renotubular syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Fanconi renotubular syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Glycosuria - Hypokalemia - Hypophosphatemia - Lacticaciduria - Muscle weakness - Osteomalacia - Proteinuria - Renal insufficiency - Renal tubular dysfunction - Rickets - Short stature - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

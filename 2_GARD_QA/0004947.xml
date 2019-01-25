@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004947" source="GARD" url="https://rarediseases.info.nih.gov/gard/7422/polycythemia-vera">
+<Focus>Polycythemia vera</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032463</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Polycythemia rubra vera</Synonym>
+		<Synonym>PRV</Synonym>
+		<Synonym>PV</Synonym>
+		<Synonym>Primary polycythemia</Synonym>
+		<Synonym>Chronic myeloproliferative disorders</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004947-1" qtype="information">What is (are) Polycythemia vera ?</Question>
+			<Answer>Polycythemia vera (PV) is a condition characterized by an increased number of red blood cells in the bloodstream. Affected people may also have excess white blood cells and platelets. These extra cells cause the blood to be thicker than normal, increasing the risk for blood clots that can block blood flow in arteries and veins. People with PV have an increased risk of deep vein thrombosis which can cause a pulmonary embolism, heart attack, and stroke. Most cases of PV are not inherited and are acquired during a person&apos;s lifetime. In rare cases, the risk for PV runs in families and may be inherited in an autosomal dominant manner. The condition has been associated with mutations in the JAK2 and TET2 genes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004947-2" qtype="symptoms">What are the symptoms of Polycythemia vera ?</Question>
+			<Answer>What are the signs and symptoms of Polycythemia vera? The Human Phenotype Ontology provides the following list of signs and symptoms for Polycythemia vera. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal pain 90% Acute leukemia 90% Bruising susceptibility 90% Coronary artery disease 90% Epistaxis 90% Gastrointestinal hemorrhage 90% Gingival bleeding 90% Hepatomegaly 90% Migraine 90% Myelodysplasia 90% Splenomegaly 90% Tinnitus 90% Vertigo 90% Weight loss 90% Arthralgia 50% Respiratory insufficiency 50% Arterial thrombosis 7.5% Cerebral ischemia 7.5% Portal hypertension 7.5% Pruritus 7.5% Thrombophlebitis 7.5% Autosomal dominant inheritance - Budd-Chiari syndrome - Cerebral hemorrhage - Increased hematocrit - Increased hemoglobin - Increased megakaryocyte count - Increased red blood cell mass - Leukocytosis - Somatic mutation - Sporadic - Thrombocytopenia - Thrombocytosis - Thromboembolism - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004947-3" qtype="inheritance">Is Polycythemia vera inherited ?</Question>
+			<Answer>Is polycythemia vera inherited? Most cases of polycythemia vera (PCV) are not inherited from a parent and are acquired during a person&apos;s lifetime. The condition is associated with genetic changes (mutations) that are somatic, which means they occur in cells of the body but not in egg and sperm cells. In rare cases, the risk to develop PCV runs in families and sometimes appears to have an autosomal dominant pattern of inheritance. This means that only one altered copy of a gene in each cell is enough to give a person an increased risk for PCV. In other words, while an increased risk to develop PCV may be inherited, the condition itself is not inherited.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004947-4" qtype="treatment">What are the treatments for Polycythemia vera ?</Question>
+			<Answer>What treatments are available for itching related to polycythemia vera? There are several treatments for the itching (pruritus) related to polycythemia vera (PV).  No single treatment has been found to be effective for all affected individuals.  For mild cases, treatment may include avoiding triggers of itching and dry skin, or controlling the temperature of the environment and bathing water.  Several other treatments are available for more severe itching or for itching the does not respond to initial treatments.  Interferon-alpha has been found to be effective for reducing itching in a majority of individual with PV who received this therapy; however, this medication can have significant side effects.  Selective serotonin reuptake inhibitors (SSRIs), typically used to treat depression, may reducing itching for some individuals with PV..  Phototherapy, antihistamines, and phlebotomy have also been attempted, with mixed results.  Additionally, if a genetic cause of polycythemia vera is know, medications targeted to the causative gene - such as JAK or mTor inhibitors - may be helpful in reducing itching.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

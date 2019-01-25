@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000840" source="GHR" url="https://ghr.nlm.nih.gov/condition/prothrombin-deficiency">
+<Focus>prothrombin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3203356</CUI>
+			<CUI>C0020640</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dysprothrombinemia</Synonym>
+		<Synonym>factor II deficiency</Synonym>
+		<Synonym>hypoprothrombinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000840-1" qtype="information">What is (are) prothrombin deficiency ?</Question>
+			<Answer>Prothrombin deficiency is a bleeding disorder that slows the blood clotting process. People with this condition often experience prolonged bleeding following an injury, surgery, or having a tooth pulled. In severe cases of prothrombin deficiency, heavy bleeding occurs after minor trauma or even in the absence of injury (spontaneous bleeding). Women with prothrombin deficiency can have prolonged and sometimes abnormally heavy menstrual bleeding. Serious complications can result from bleeding into the joints, muscles, brain, or other internal organs. Milder forms of prothrombin deficiency do not involve spontaneous bleeding, and the condition may only become apparent following surgery or a serious injury.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000840-2" qtype="frequency">How many people are affected by prothrombin deficiency ?</Question>
+			<Answer>Prothrombin deficiency is very rare; it is estimated to affect 1 in 2 million people in the general population.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000840-3" qtype="genetic changes">What are the genetic changes related to prothrombin deficiency ?</Question>
+			<Answer>Mutations in the F2 gene cause prothrombin deficiency. The F2 gene provides instructions for making the prothrombin protein (also called coagulation factor II), which plays a critical role in the formation of blood clots in response to injury. Prothrombin is the precursor to thrombin, a protein that initiates a series of chemical reactions to form a blood clot. After an injury, clots protect the body by sealing off damaged blood vessels and preventing further blood loss.  F2 gene mutations reduce the production of prothrombin in cells, which prevents clots from forming properly in response to injury. Problems with blood clotting can lead to excessive bleeding. Some mutations drastically reduce the activity of prothrombin and can lead to severe bleeding episodes. Other F2 gene mutations allow for a moderate amount of prothrombin activity, typically resulting in mild bleeding episodes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000840-4" qtype="inheritance">Is prothrombin deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000840-5" qtype="treatment">What are the treatments for prothrombin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of prothrombin deficiency:  - Genetic Testing Registry: Prothrombin deficiency, congenital  - MedlinePlus Encyclopedia: Factor II deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

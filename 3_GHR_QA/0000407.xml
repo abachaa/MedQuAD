@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000407" source="GHR" url="https://ghr.nlm.nih.gov/condition/gilbert-syndrome">
+<Focus>Gilbert syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017551</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>constitutional liver dysfunction</Synonym>
+		<Synonym>familial nonhemolytic jaundice</Synonym>
+		<Synonym>Gilbert disease</Synonym>
+		<Synonym>Gilbert-Lereboullet syndrome</Synonym>
+		<Synonym>Gilbert's disease</Synonym>
+		<Synonym>Gilbert's syndrome</Synonym>
+		<Synonym>hyperbilirubinemia 1</Synonym>
+		<Synonym>Meulengracht syndrome</Synonym>
+		<Synonym>unconjugated benign bilirubinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000407-1" qtype="information">What is (are) Gilbert syndrome ?</Question>
+			<Answer>Gilbert syndrome is a relatively mild condition characterized by periods of elevated levels of a toxic substance called bilirubin in the blood (hyperbilirubinemia). Bilirubin, which has an orange-yellow tint, is produced when red blood cells are broken down. This substance is removed from the body only after it undergoes a chemical reaction in the liver, which converts the toxic form of bilirubin (unconjugated bilirubin) to a nontoxic form called conjugated bilirubin. People with Gilbert syndrome have a buildup of unconjugated bilirubin in their blood (unconjugated hyperbilirubinemia). In affected individuals, bilirubin levels fluctuate and very rarely increase to levels that cause jaundice, which is yellowing of the skin and whites of the eyes.  Gilbert syndrome is usually recognized in adolescence. If people with this condition have episodes of hyperbilirubinemia, these episodes are generally mild and typically occur when the body is under stress, for instance because of dehydration, prolonged periods without food (fasting), illness, vigorous exercise, or menstruation. Some people with Gilbert syndrome also experience abdominal discomfort or tiredness. However, approximately 30 percent of people with Gilbert syndrome have no signs or symptoms of the condition and are discovered only when routine blood tests reveal elevated unconjugated bilirubin levels.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000407-2" qtype="frequency">How many people are affected by Gilbert syndrome ?</Question>
+			<Answer>Gilbert syndrome is a common condition that is estimated to affect 3 to 7 percent of Americans.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000407-3" qtype="genetic changes">What are the genetic changes related to Gilbert syndrome ?</Question>
+			<Answer>Changes in the UGT1A1 gene cause Gilbert syndrome. This gene provides instructions for making the bilirubin uridine diphosphate glucuronosyltransferase (bilirubin-UGT) enzyme, which is found primarily in liver cells and is necessary for the removal of bilirubin from the body.  The bilirubin-UGT enzyme performs a chemical reaction called glucuronidation. During this reaction, the enzyme transfers a compound called glucuronic acid to unconjugated bilirubin, converting it to conjugated bilirubin. Glucuronidation makes bilirubin dissolvable in water so that it can be removed from the body.  Gilbert syndrome occurs worldwide, but some mutations occur more often in particular populations. In many populations, the most common genetic change that causes Gilbert syndrome (known as UGT1A1*28) occurs in an area near the UGT1A1 gene called the promoter region, which controls the production of the bilirubin-UGT enzyme. This genetic change impairs enzyme production. However, this change is uncommon in Asian populations, and affected Asians often have a mutation that changes a single protein building block (amino acid) in the bilirubin-UGT enzyme. This type of mutation, known as a missense mutation, results in reduced enzyme function.  People with Gilbert syndrome have approximately 30 percent of normal bilirubin-UGT enzyme function. As a result, unconjugated bilirubin is not glucuronidated quickly enough. This toxic substance then builds up in the body, causing mild hyperbilirubinemia.  Not everyone with the genetic changes that cause Gilbert syndrome develops hyperbilirubinemia, indicating that additional factors, such as conditions that further hinder the glucuronidation process, may be necessary for development of the condition. For example, red blood cells may break down too easily, releasing excess amounts of bilirubin that the impaired enzyme cannot keep up with. Alternatively, movement of bilirubin into the liver, where it would be glucuronidated, may be impaired. These other factors may be due to changes in other genes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000407-4" qtype="inheritance">Is Gilbert syndrome inherited ?</Question>
+			<Answer>Gilbert syndrome can have different inheritance patterns. When the condition is caused by the UGT1A1*28 change in the promoter region of the UGT1A1 gene, it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have the mutation. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  When the condition is caused by a missense mutation in the UGT1A1 gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. A more severe condition known as Crigler-Najjar syndrome occurs when both copies of the UGT1A1 gene have mutations.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000407-5" qtype="treatment">What are the treatments for Gilbert syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Gilbert syndrome:  - Genetic Testing Registry: Gilbert&apos;s syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005138" source="GARD" url="https://rarediseases.info.nih.gov/gard/4553/pseudohypoaldosteronism-type-2">
+<Focus>Pseudohypoaldosteronism type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1449844</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PHA2</Synonym>
+		<Synonym>Hyperpotassemia and hypertension familial</Synonym>
+		<Synonym>Gordon hyperkalemia-hypertension syndrome</Synonym>
+		<Synonym>Chloride shunt syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005138-1" qtype="information">What is (are) Pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>Psuedohypoaldosteronism type 2 is an inborn error of metabolism. It is characterized by high blood pressure, high levels of potassium in the body, and metabolic acidosis. It is caused by mutations in the WNK1 or WNK4 gene. Treatment may involve dietary restriction of sodium and hydrochlorothiazide.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005138-2" qtype="symptoms">What are the symptoms of Pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>What are the signs and symptoms of Pseudohypoaldosteronism type 2? The most common symptom of pseudohypoaldosteronism type 2 is high blood pressure in adolescents or young adults. In its most severe form, it is associated with muscle weakness, short stature, and intellectual impairment. The Human Phenotype Ontology provides the following list of signs and symptoms for Pseudohypoaldosteronism type 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Hyperkalemia 90% Hypertension 90% Flexion contracture 50% Nausea and vomiting 50% Abnormality of dental enamel 7.5% Muscle weakness 7.5% Short stature 7.5% Autosomal dominant inheritance - Hyperchloremic acidosis - Periodic hyperkalemic paralysis - Pseudohypoaldosteronism - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005138-3" qtype="causes">What causes Pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>What causes pseudohypoaldosteronism type 2? Pseudohypoaldosteronism type 2 is caused by mutations in either the WNK1 or WNK4 genes. Mutations in these genes cause salt retention and impaired excretion of potassium and acid, leading to high blood pressure, hyperkalemia (high levels of potassium), and metabolic acidosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005138-4" qtype="exams and tests">How to diagnose Pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>How is pseudohypoaldosteronism type 2 diagnosed? Pseudohypoaldosteronism type 2 is usually diagnosed in adults. Unexplained hyperkalemia may be the presenting symptom and Pseudohypoaldosteronism type 2 may be diagnosed after common causes of hyperkalemia have been ruled out. Mildly elevated levels of chloride ion in the blood, metabolic acidosis, and suppressed plasma renin activity are variably associated with this condition as well. Aldosterone levels may vary from high to low.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005138-5" qtype="treatment">What are the treatments for Pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>How might pseudohypoaldosteronism type 2 be treated? Pseudohypoaldosteronism may be treated with thiazide diuretics and dietary restriction of sodium.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

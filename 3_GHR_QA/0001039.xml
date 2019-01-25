@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001039" source="GHR" url="https://ghr.nlm.nih.gov/condition/wiskott-aldrich-syndrome">
+<Focus>Wiskott-Aldrich syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043194</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>eczema-thrombocytopenia-immunodeficiency syndrome</Synonym>
+		<Synonym>IMD2</Synonym>
+		<Synonym>immunodeficiency 2</Synonym>
+		<Synonym>Wiskott syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001039-1" qtype="information">What is (are) Wiskott-Aldrich syndrome ?</Question>
+			<Answer>Wiskott-Aldrich syndrome is characterized by abnormal immune system function (immune deficiency) and a reduced ability to form blood clots. This condition primarily affects males.  Individuals with Wiskott-Aldrich syndrome have microthrombocytopenia, which is a decrease in the number and size of blood cells involved in clotting (platelets). This platelet abnormality, which is typically present from birth, can lead to easy bruising or episodes of prolonged bleeding following minor trauma.  Wiskott-Aldrich syndrome causes many types of white blood cells, which are part of the immune system, to be abnormal or nonfunctional, leading to an increased risk of several immune and inflammatory disorders. Many people with this condition develop eczema, an inflammatory skin disorder characterized by abnormal patches of red, irritated skin. Affected individuals also have an increased susceptibility to infection. People with Wiskott-Aldrich syndrome are at greater risk of developing autoimmune disorders, which occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. The chance of developing some types of cancer, such as cancer of the immune system cells (lymphoma), is also greater in people with Wiskott-Aldrich syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001039-2" qtype="frequency">How many people are affected by Wiskott-Aldrich syndrome ?</Question>
+			<Answer>The estimated incidence of Wiskott-Aldrich syndrome is between 1 and 10 cases per million males worldwide; this condition is rarer in females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001039-3" qtype="genetic changes">What are the genetic changes related to Wiskott-Aldrich syndrome ?</Question>
+			<Answer>Mutations in the WAS gene cause Wiskott-Aldrich syndrome. The WAS gene provides instructions for making a protein called WASP. This protein is found in all blood cells. WASP is involved in relaying signals from the surface of blood cells to the actin cytoskeleton, which is a network of fibers that make up the cell&apos;s structural framework. WASP signaling activates the cell when it is needed and triggers its movement and attachment to other cells and tissues (adhesion). In white blood cells, this signaling allows the actin cytoskeleton to establish the interaction between cells and the foreign invaders that they target (immune synapse).  WAS gene mutations that cause Wiskott-Aldrich syndrome lead to a lack of any functional WASP. Loss of WASP signaling disrupts the function of the actin cytoskeleton in developing blood cells. White blood cells that lack WASP have a decreased ability to respond to their environment and form immune synapses. As a result, white blood cells are less able to respond to foreign invaders, causing many of the immune problems related to Wiskott-Aldrich syndrome. Similarly, a lack of functional WASP in platelets impairs their development, leading to reduced size and early cell death.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001039-4" qtype="inheritance">Is Wiskott-Aldrich syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell may or may not cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In most cases of X-linked inheritance, males experience more severe symptoms of the disorder than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001039-5" qtype="treatment">What are the treatments for Wiskott-Aldrich syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Wiskott-Aldrich syndrome:  - Gene Review: Gene Review: WAS-Related Disorders  - Genetic Testing Registry: Wiskott-Aldrich syndrome  - MedlinePlus Encyclopedia: Thrombocytopenia  - National Marrow Donor Program  - Rare Disease Clinical Research Network: Primary Immune Deficiency Treatment Consortium   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

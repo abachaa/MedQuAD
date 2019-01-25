@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000929" source="GHR" url="https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-3a">
+<Focus>spastic paraplegia type 3A</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030486</CUI>
+			<CUI>C2931355</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>spastic paraplegia 3</Synonym>
+		<Synonym>spastic paraplegia 3A</Synonym>
+		<Synonym>SPG3A</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000929-1" qtype="information">What is (are) spastic paraplegia type 3A ?</Question>
+			<Answer>Spastic paraplegia type 3A is one of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by muscle stiffness (spasticity) and weakness in the lower limbs (paraplegia). Hereditary spastic paraplegias are often divided into two types: pure and complex. The pure types involve only the lower limbs, while the complex types also involve other areas of the body; additional features can include changes in vision, changes in intellectual functioning, difficulty walking, and disturbances in nerve function (neuropathy). Spastic paraplegia type 3A is usually a pure hereditary spastic paraplegia, although a few complex cases have been reported.  In addition to spasticity and weakness, which typically affect both legs equally, people with spastic paraplegia type 3A can also experience progressive muscle wasting (amyotrophy) in the lower limbs, reduced bladder control, an abnormal curvature of the spine (scoliosis), loss of sensation in the feet (peripheral neuropathy), or high arches of the feet (pes cavus). The signs and symptoms of spastic paraplegia type 3A usually appear before the age of 10; the average age of onset is 4 years. In some affected individuals the condition slowly worsens over time, sometimes leading to a need for walking support.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000929-2" qtype="frequency">How many people are affected by spastic paraplegia type 3A ?</Question>
+			<Answer>Spastic paraplegia type 3A belongs to a subgroup of hereditary spastic paraplegias known as autosomal dominant hereditary spastic paraplegia, which has an estimated prevalence of 2 to 9 per 100,000 individuals. Spastic paraplegia type 3A accounts for 10 to 15 percent of all autosomal dominant hereditary spastic paraplegia cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000929-3" qtype="genetic changes">What are the genetic changes related to spastic paraplegia type 3A ?</Question>
+			<Answer>Mutations in the ATL1 gene cause spastic paraplegia type 3A. The ATL1 gene provides instructions for producing a protein called atlastin-1. Atlastin-1 is produced primarily in the brain and spinal cord (central nervous system), particularly in nerve cells (neurons) that extend down the spinal cord (corticospinal tracts). These neurons send electrical signals that lead to voluntary muscle movement. Atlastin-1 is involved in the growth of specialized extensions of neurons, called axons, which transmit nerve impulses that signal muscle movement. The protein also likely plays a role in the normal functioning of multiple structures within neurons and in distributing materials within these cells.  ATL1 gene mutations likely lead to a shortage of normal atlastin-1 protein, which impairs the functioning of neurons, including the distribution of materials within these cells. This lack of functional atlastin-1 protein may also restrict the growth of axons. These problems can lead to the abnormal functioning or death of the long neurons of the corticospinal tracts. As a result, the neurons are unable to transmit nerve impulses, particularly to other neurons and muscles in the lower extremities. This impaired nerve function leads to the signs and symptoms of spastic paraplegia type 3A.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000929-4" qtype="inheritance">Is spastic paraplegia type 3A inherited ?</Question>
+			<Answer>Spastic paraplegia type 3A is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In approximately 95 percent of cases, an affected person inherits the mutation from one affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000929-5" qtype="treatment">What are the treatments for spastic paraplegia type 3A ?</Question>
+			<Answer>These resources address the diagnosis or management of spastic paraplegia type 3A:  - Gene Review: Gene Review: Hereditary Spastic Paraplegia Overview  - Gene Review: Gene Review: Spastic Paraplegia 3A  - Genetic Testing Registry: Spastic paraplegia 3  - Spastic Paraplegia Foundation, Inc.: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

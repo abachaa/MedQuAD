@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000078" source="NINDS" url="http://www.ninds.nih.gov/disorders/postural_tachycardia_syndrome/postural_tachycardia_syndrome.htm">
+<Focus>Postural Tachycardia Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1299624</CUI>
+			<CUI>C3827868</CUI>
+			<CUI>C0039231</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000078-1" qtype="information">What is (are) Postural Tachycardia Syndrome ?</Question>
+			<Answer>Postural orthostatic tachycardia syndrome (POTS) is one of a group of disorders that have orthostatic intolerance (OI) as their primary symptom. OI describes a condition in which an excessively reduced volume of blood returns to the heart after an individual stands up from a lying down position. The primary symptom of OI is lightheadedness or fainting. In POTS, the lightheadedness or fainting is also accompanied by a rapid increase in heartbeat of more than 30 beats per minute, or a heart rate that exceeds 120 beats per minute, within 10 minutes of rising. The faintness or lightheadedness of POTS are relieved by lying down again. Anyone at any age can develop POTS, but the majority of individuals affected (between 75 and 80 percent) are women between the ages of 15 to 50 years of age. Some women report an increase in episodes of POTS right before their menstrual periods. POTS often begins after a pregnancy, major surgery, trauma, or a viral illness. It may make individuals unable to exercise because the activity brings on fainting spells or dizziness.
+                
+Doctors aren&apos;t sure yet what causes the reduced return of blood to the heart that occurs in OI, or why the heart begins to beat so rapidly in POTS. Current thinking is that there are a number of mechanisms. Some individuals have peripheral denervation (neuropathic POTS); some have symptoms that are due to sustained or parosyxmal overactivity of the sympathetic nervous system (hyperadrenergic POTS); and many individuals with POTS have significant deconditioning.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000078-2" qtype="treatment">What are the treatments for Postural Tachycardia Syndrome ?</Question>
+			<Answer>Therapies for POTS are targeted at relieving low blood volume or regulating circulatory problems that could be causing the disorder. No single treatment has been found to be effect for all. A number of drugs seem to be effective in the short term. Whether they help in long term is uncertain. Simple interventions such as adding extra salt to the diet and attention to adequate fluid intake are often effective. The drugs fludrocortisone (for those on a high salt diet) and midodrine in low doses are often used to increase blood volume and narrow blood vessels. Drinking 16 ounces of water (2 glassfuls) before getting up can also help raise blood pressure. Some individuals are helped by beta receptor blocking agents. There is some evidence that an exercise program can gradually improve orthostatic tolerance.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000078-3" qtype="outlook">What is the outlook for Postural Tachycardia Syndrome ?</Question>
+			<Answer>POTS may follow a relapsing-remitting course, in which symptoms come and go, for years. In most cases (approximately 80 percent), an individual with POTS improves to some degree and becomes functional, although some residual symptoms are common.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000078-4" qtype="research">what research (or clinical trials) is being done for Postural Tachycardia Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other Institutes of the National Institutes of Health (NIH) conduct research related to POTS and support additional research through grants to major research institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders such as POTS. NINDS-funded researchers are investigating if low levels of the hormone aldosterone contribute to low blood volume in individuals with POTS, and if high levels of angiotensin II, a peptide that helps regulate blood volume, leads to decreased adrenal sensitivity. Other NINDS-funded research is investigating the hypothesis that POTS is a syndrome of different subtypes, with different underlying mechanisms. Additionally, the NINDS funds the Autonomic Rare Diseases Consortium to further understand disorders such as orthostatic hypotension and hopefully alter the course of disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

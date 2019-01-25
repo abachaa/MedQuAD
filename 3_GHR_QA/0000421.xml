@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000421" source="GHR" url="https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-0">
+<Focus>glycogen storage disease type 0</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342748</CUI>
+			<CUI>C0267971</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>glycogen storage disease 0</Synonym>
+		<Synonym>glycogen synthase deficiency</Synonym>
+		<Synonym>glycogen synthetase deficiency</Synonym>
+		<Synonym>GSD 0</Synonym>
+		<Synonym>GSD type 0</Synonym>
+		<Synonym>hypoglycemia with deficiency of glycogen synthetase</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000421-1" qtype="information">What is (are) glycogen storage disease type 0 ?</Question>
+			<Answer>Glycogen storage disease type 0 (also known as GSD 0) is a condition caused by the body&apos;s inability to form a complex sugar called glycogen, which is a major source of stored energy in the body. GSD 0 has two types: in muscle GSD 0, glycogen formation in the muscles is impaired, and in liver GSD 0, glycogen formation in the liver is impaired.  The signs and symptoms of muscle GSD 0 typically begin in early childhood. Affected individuals often experience muscle pain and weakness or episodes of fainting (syncope) following moderate physical activity, such as walking up stairs. The loss of consciousness that occurs with fainting typically lasts up to several hours. Some individuals with muscle GSD 0 have a disruption of the heart&apos;s normal rhythm (arrhythmia) known as long QT syndrome. In all affected individuals, muscle GSD 0 impairs the heart&apos;s ability to effectively pump blood and increases the risk of cardiac arrest and sudden death, particularly after physical activity. Sudden death from cardiac arrest can occur in childhood or adolescence in people with muscle GSD 0.  Individuals with liver GSD 0 usually show signs and symptoms of the disorder in infancy. People with this disorder develop low blood sugar (hypoglycemia) after going long periods of time without food (fasting). Signs of hypoglycemia become apparent when affected infants begin sleeping through the night and stop late-night feedings; these infants exhibit extreme tiredness (lethargy), pale skin (pallor), and nausea. During episodes of fasting, ketone levels in the blood may increase (ketosis). Ketones are molecules produced during the breakdown of fats, which occurs when stored sugars (such as glycogen) are unavailable. These short-term signs and symptoms of liver GSD 0 often improve when food is eaten and sugar levels in the body return to normal. The features of liver GSD 0 vary; they can be mild and go unnoticed for years, or they can include developmental delay and growth failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000421-2" qtype="frequency">How many people are affected by glycogen storage disease type 0 ?</Question>
+			<Answer>The prevalence of GSD 0 is unknown; fewer than 10 people with the muscle type and fewer than 30 people with the liver type have been described in the scientific literature. Because some people with muscle GSD 0 die from sudden cardiac arrest early in life before a diagnosis is made and many with liver GSD 0 have mild signs and symptoms, it is thought that GSD 0 may be underdiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000421-3" qtype="genetic changes">What are the genetic changes related to glycogen storage disease type 0 ?</Question>
+			<Answer>Mutations in the GYS1 gene cause muscle GSD 0, and mutations in the GYS2 gene cause liver GSD 0. These genes provide instructions for making different versions of an enzyme called glycogen synthase. Both versions of glycogen synthase have the same function, to form glycogen molecules by linking together molecules of the simple sugar glucose, although they perform this function in different regions of the body.  The GYS1 gene provides instructions for making muscle glycogen synthase; this form of the enzyme is produced in most cells, but it is especially abundant in heart (cardiac) muscle and the muscles used for movement (skeletal muscles). During cardiac muscle contractions or rapid or sustained movement of skeletal muscle, glycogen stored in muscle cells is broken down to supply the cells with energy.  The GYS2 gene provides instructions for making liver glycogen synthase, which is produced solely in liver cells. Glycogen that is stored in the liver can be broken down rapidly when glucose is needed to maintain normal blood sugar levels between meals.  Mutations in the GYS1 or GYS2 gene lead to a lack of functional glycogen synthase, which prevents the production of glycogen from glucose. Mutations that cause GSD 0 result in a complete absence of glycogen in either liver or muscle cells. As a result, these cells do not have glycogen as a source of stored energy to draw upon following physical activity or fasting. This shortage of glycogen leads to the signs and symptoms of GSD 0.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000421-4" qtype="inheritance">Is glycogen storage disease type 0 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000421-5" qtype="treatment">What are the treatments for glycogen storage disease type 0 ?</Question>
+			<Answer>These resources address the diagnosis or management of glycogen storage disease type 0:  - Genetic Testing Registry: Glycogen storage disease 0, muscle  - Genetic Testing Registry: Hypoglycemia with deficiency of glycogen synthetase in the liver   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

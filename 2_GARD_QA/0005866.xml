@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005866" source="GARD" url="https://rarediseases.info.nih.gov/gard/1091/squamous-cell-carcinoma">
+<Focus>Squamous cell carcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007137</CUI>
+			<CUI>C1302853</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Carcinoma, squamous cell</Synonym>
+		<Synonym>Epidermoid carcinoma</Synonym>
+		<Synonym>Squamous cell skin cancer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005866-1" qtype="information">What is (are) Squamous cell carcinoma ?</Question>
+			<Answer>Squamous cell carcinoma (SCC) is the second most common skin cancer. SCC most often affects individuals who are exposed to large amounts of sunlight. It is typically characterized by a red papule or plaque with a scaly or crusted surface; it may be suspected whenever a small, firm reddish-colored skin lesion, growth or bump appears on the skin, but it may also be a flat growth with a curly and crusted surface. Most often these growths are located on the face, ears, neck, hands and/or arms, but they may occur on the lips, mouth, tongue, genitalia or other area. The most common causes of SCC are radiation from the sun and arsenic exposure. With appropriate treatment, it is usually curable.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005866-2" qtype="treatment">What are the treatments for Squamous cell carcinoma ?</Question>
+			<Answer>How might squamous cell carcinoma be treated? Skin cancer generally has a high cure rate if it is treated early. Treatment depends on how big the tumor is, its location, and how far it has spread (metastasis). Methods of treatment for squamous cell carcinoma may include: Curettage and desiccation - scraping away the cancer and using electricity to kill any remaining cancer cells; this is used to treat cancers that are not very large or deep Surgical excision - cutting out of the tumor and stitching up the remaining tissue Radiation therapy (if the skin cancer is located in an area difficult to treat surgically) Microscopically controlled excision (Mohs surgery) - repeated cutting out of small pieces of tissue that are then examined microscopically to check if any cancer has been left behind; repeated application of this technique minimizes the removal of healthy tissue and is cosmetically more satisfying, especially if carried out with a plastic surgeon as part of the medical team. This is more likely to be used for skin cancers on the nose, ears, and other areas of the face. Cryosurgery - freezing and killing the cancer cells Skin creams and medications - may be used to treat superficial (not very deep) squamous cell carcinoma. The outlook for small squamous cell lesions that are removed early and completely is extremely favorable, with about 95% cured if they are removed promptly.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000512" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/infectiousdiseases.html">
+<Focus>Infectious Diseases</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009450</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Communicable diseases</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000512-1" qtype="information">What is (are) Infectious Diseases ?</Question>
+			<Answer>Infectious diseases kill more people worldwide than any other single cause. Infectious diseases are caused by germs. Germs are tiny living things that are found everywhere - in air, soil and water. You can get infected by touching, eating, drinking or breathing something that contains a germ. Germs can also spread through animal and insect bites, kissing and sexual contact. Vaccines, proper hand washing and medicines can help prevent infections.     There are four main kinds of germs:        -  Bacteria - one-celled germs that multiply quickly and may release chemicals which can make you sick    -  Viruses - capsules that contain genetic material, and use your own cells to multiply    -  Fungi - primitive plants, like mushrooms or mildew     -  Protozoa - one-celled animals that use other living things for food and a place to live       NIH: National Institute of Allergy and Infectious Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

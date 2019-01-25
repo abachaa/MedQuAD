@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000784" source="GHR" url="https://ghr.nlm.nih.gov/condition/peroxisomal-acyl-coa-oxidase-deficiency">
+<Focus>peroxisomal acyl-CoA oxidase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1849678</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>pseudo-NALD</Synonym>
+		<Synonym>pseudoadrenoleukodystrophy</Synonym>
+		<Synonym>pseudoneonatal adrenoleukodystrophy</Synonym>
+		<Synonym>straight-chain acyl-CoA oxidase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000784-1" qtype="information">What is (are) peroxisomal acyl-CoA oxidase deficiency ?</Question>
+			<Answer>Peroxisomal acyl-CoA oxidase deficiency is a disorder that causes deterioration of nervous system functions (neurodegeneration) beginning in infancy. Newborns with peroxisomal acyl-CoA oxidase deficiency have weak muscle tone (hypotonia) and seizures. They may have unusual facial features, including widely spaced eyes (hypertelorism), a low nasal bridge, and low-set ears. Extra fingers or toes (polydactyly) or an enlarged liver (hepatomegaly) also occur in some affected individuals.  Most babies with peroxisomal acyl-CoA oxidase deficiency learn to walk and begin speaking, but they experience a gradual loss of these skills (developmental regression), usually beginning between the ages of 1 and 3. As the condition gets worse, affected children develop exaggerated reflexes (hyperreflexia), increased muscle tone (hypertonia), more severe and recurrent seizures (epilepsy), and loss of vision and hearing. Most children with peroxisomal acyl-CoA oxidase deficiency do not survive past early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000784-2" qtype="frequency">How many people are affected by peroxisomal acyl-CoA oxidase deficiency ?</Question>
+			<Answer>Peroxisomal acyl-CoA oxidase deficiency is a rare disorder. Its prevalence is unknown. Only a few dozen cases have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000784-3" qtype="genetic changes">What are the genetic changes related to peroxisomal acyl-CoA oxidase deficiency ?</Question>
+			<Answer>Peroxisomal acyl-CoA oxidase deficiency is caused by mutations in the ACOX1 gene, which provides instructions for making an enzyme called peroxisomal straight-chain acyl-CoA oxidase. This enzyme is found in sac-like cell structures (organelles) called peroxisomes, which contain a variety of enzymes that break down many different substances. The peroxisomal straight-chain acyl-CoA oxidase enzyme plays a role in the breakdown of certain fat molecules called very long-chain fatty acids (VLCFAs). Specifically, it is involved in the first step of a process called the peroxisomal fatty acid beta-oxidation pathway. This process shortens the VLCFA molecules by two carbon atoms at a time until the VLCFAs are converted to a molecule called acetyl-CoA, which is transported out of the peroxisomes for reuse by the cell.  ACOX1 gene mutations prevent the peroxisomal straight-chain acyl-CoA oxidase enzyme from breaking down VLCFAs efficiently. As a result, these fatty acids accumulate in the body. It is unclear exactly how VLCFA accumulation leads to the specific features of peroxisomal acyl-CoA oxidase deficiency. However, researchers suggest that the abnormal fatty acid accumulation triggers inflammation in the nervous system that leads to the breakdown of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses. Destruction of myelin leads to a loss of myelin-containing tissue (white matter) in the brain and spinal cord; loss of white matter is described as leukodystrophy. Leukodystrophy is likely involved in the development of the neurological abnormalities that occur in peroxisomal acyl-CoA oxidase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000784-4" qtype="inheritance">Is peroxisomal acyl-CoA oxidase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000784-5" qtype="treatment">What are the treatments for peroxisomal acyl-CoA oxidase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of peroxisomal acyl-CoA oxidase deficiency:  - Gene Review: Gene Review: Leukodystrophy Overview  - Genetic Testing Registry: Pseudoneonatal adrenoleukodystrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

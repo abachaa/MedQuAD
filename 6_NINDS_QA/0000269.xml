@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000269" source="NINDS" url="http://www.ninds.nih.gov/disorders/tourette/tourette.htm">
+<Focus>Tourette Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040517</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000269-1" qtype="information">What is (are) Tourette Syndrome ?</Question>
+			<Answer>Tourette syndrome (TS) is a neurological disorder characterized by repetitive, stereotyped, involuntary movements and vocalizations called tics. The first symptoms of TS are almost always noticed in childhood. Some of the more common tics include eye blinking and other vision irregularities, facial grimacing, shoulder shrugging, and head or shoulder jerking. Perhaps the most dramatic and disabling tics are those that result in self-harm such as punching oneself in the face, or vocal tics including coprolalia (uttering swear words) or echolalia (repeating the words or phrases of others). Many with TS experience additional neurobehavioral problems including inattention, hyperactivity and impulsivity, and obsessive-compulsive symptoms such as intrusive thoughts/worries and repetitive behaviors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000269-2" qtype="treatment">What are the treatments for Tourette Syndrome ?</Question>
+			<Answer>Because tic symptoms do not often cause impairment, the majority of people with TS require no medication for tic suppression. However, effective medications are available for those whose symptoms interfere with functioning. There is no one medication that is helpful to all people with TS, nor does any medication completely eliminate symptoms. Effective medications are also available to treat some of the associated neurobehavioral disorders that can occur in patients with TS.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000269-3" qtype="outlook">What is the outlook for Tourette Syndrome ?</Question>
+			<Answer>Although TS can be a chronic condition with symptoms lasting a lifetime, most people with the condition experience their worst symptoms in their early teens, with improvement occurring in the late teens and continuing into adulthood. As a result, some individuals may actually become symptom free or no longer need medication for tic suppression.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000269-4" qtype="research">what research (or clinical trials) is being done for Tourette Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research in laboratories at the NIH and support additional research through grants to major medical institutions across the country. Knowledge about TS comes from studies across a number of medical and scientific disciplines, including genetics, neuroimaging, neuropathology, clinical trials, epidemiology, neurophysiology, neuroimmunology, and descriptive/diagnostic clinical science. Findings from these studies will provide clues for more effective therapies.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

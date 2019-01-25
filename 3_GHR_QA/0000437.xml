@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000437" source="GHR" url="https://ghr.nlm.nih.gov/condition/gray-platelet-syndrome">
+<Focus>gray platelet syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0272302</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BDPLT4</Synonym>
+		<Synonym>bleeding disorder, platelet-type, 4</Synonym>
+		<Synonym>deficient alpha granule syndrome</Synonym>
+		<Synonym>GPS</Synonym>
+		<Synonym>grey platelet syndrome</Synonym>
+		<Synonym>platelet alpha-granule deficiency</Synonym>
+		<Synonym>platelet alpha granule deficiency</Synonym>
+		<Synonym>platelet granule defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000437-1" qtype="information">What is (are) gray platelet syndrome ?</Question>
+			<Answer>Gray platelet syndrome is a bleeding disorder associated with abnormal platelets, which are blood cell fragments involved in blood clotting. People with this condition tend to bruise easily and have an increased risk of nosebleeds (epistaxis). They may also experience abnormally heavy or extended bleeding following surgery, dental work, or minor trauma. Women with gray platelet syndrome often have irregular, heavy periods (menometrorrhagia). These bleeding problems are usually mild to moderate, but they have been life-threatening in a few affected individuals.  A condition called myelofibrosis, which is a buildup of scar tissue (fibrosis) in the bone marrow, is another common feature of gray platelet syndrome. Bone marrow is the spongy tissue in the center of long bones that produces most of the blood cells the body needs, including platelets. The scarring associated with myelofibrosis damages bone marrow, preventing it from making enough blood cells. Other organs, particularly the spleen, start producing more blood cells to compensate; this process often leads to an enlarged spleen (splenomegaly).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000437-2" qtype="frequency">How many people are affected by gray platelet syndrome ?</Question>
+			<Answer>Gray platelet syndrome appears to be a rare disorder. About 60 cases have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000437-3" qtype="genetic changes">What are the genetic changes related to gray platelet syndrome ?</Question>
+			<Answer>Gray platelet syndrome can be caused by mutations in the NBEAL2 gene. Little is known about the protein produced from this gene. It appears to play a role in the formation of alpha-granules, which are sacs inside platelets that contain growth factors and other proteins that are important for blood clotting and wound healing. In response to an injury that causes bleeding, the proteins stored in alpha-granules help platelets stick to one another to form a plug that seals off damaged blood vessels and prevents further blood loss.  Mutations in the NBEAL2 gene disrupt the normal production of alpha-granules. Without alpha-granules, platelets are unusually large and fewer in number than usual (macrothrombocytopenia). The abnormal platelets also appear gray when viewed under a microscope, which gives this condition its name. A lack of alpha-granules impairs the normal activity of platelets during blood clotting, increasing the risk of abnormal bleeding. Myelofibrosis is thought to occur because the growth factors and other proteins that are normally packaged into alpha-granules leak out into the bone marrow. The proteins lead to fibrosis that affects the bone marrow&apos;s ability to make new blood cells.  Some people with gray platelet syndrome do not have an identified mutation in the NBEAL2 gene. In these individuals, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000437-4" qtype="inheritance">Is gray platelet syndrome inherited ?</Question>
+			<Answer>When gray platelet syndrome is caused by NBEAL2 gene mutations, it has an autosomal recessive pattern of inheritance, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the altered gene in each cell.  Gray platelet syndrome can also be inherited in an autosomal dominant pattern, which means one copy of an altered gene in each cell is sufficient to cause the disorder. An affected person often inherits the condition from one affected parent. Researchers are working to determine which gene or genes are associated with the autosomal dominant form of gray platelet syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000437-5" qtype="treatment">What are the treatments for gray platelet syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of gray platelet syndrome:  - Genetic Testing Registry: Gray platelet syndrome  - National Heart Lung and Blood Institute: How is Thrombocytopenia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

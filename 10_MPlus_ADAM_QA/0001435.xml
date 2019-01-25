@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001435" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003513.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Epstein-Barr virus antibody test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042776</CUI>
+			<CUI>C0319157</CUI>
+			<CUI>C0042769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T005</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>EBV antibody test</Synonym>
+		<Synonym>EBV serology</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001435-1" qtype="information">What is (are) Epstein-Barr virus antibody test ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001435-8" qtype="susceptibility">Who is at risk for Epstein-Barr virus antibody test? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

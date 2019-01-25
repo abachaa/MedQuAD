@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000097" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-recessive-cerebellar-ataxia-type-1">
+<Focus>autosomal recessive cerebellar ataxia type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007758</CUI>
+			<CUI>C3683483</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ARCA1</Synonym>
+		<Synonym>autosomal recessive spinocerebellar ataxia 8</Synonym>
+		<Synonym>recessive ataxia of Beauce</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000097-1" qtype="information">What is (are) autosomal recessive cerebellar ataxia type 1 ?</Question>
+			<Answer>Autosomal recessive cerebellar ataxia type 1 (ARCA1) is a condition characterized by progressive problems with movement due to a loss (atrophy) of nerve cells in the part of the brain that coordinates movement (the cerebellum). Signs and symptoms of the disorder first appear in early to mid-adulthood. People with this condition initially experience impaired speech (dysarthria), problems with coordination and balance (ataxia), or both. They may also have difficulty with movements that involve judging distance or scale (dysmetria). Other features of ARCA1 include abnormal eye movements (nystagmus) and problems following the movements of objects with the eyes. The movement problems are slowly progressive, often resulting in the need for a cane, walker, or wheelchair.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000097-2" qtype="frequency">How many people are affected by autosomal recessive cerebellar ataxia type 1 ?</Question>
+			<Answer>More than 100 people have been diagnosed with ARCA1. This condition was first discovered in individuals from the Beauce and Bas-Saint-Laurent regions of Quebec, Canada, but it has since been found in populations worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000097-3" qtype="genetic changes">What are the genetic changes related to autosomal recessive cerebellar ataxia type 1 ?</Question>
+			<Answer>Mutations in the SYNE1 gene cause ARCA1. The SYNE1 gene provides instructions for making a protein called Syne-1 that is found in many tissues, but it seems to be especially critical in the brain. Within the brain, the Syne-1 protein appears to play a role in the maintenance of the cerebellum, which is the part of the brain that coordinates movement. The Syne-1 protein is active (expressed) in Purkinje cells, which are located in the cerebellum and are involved in chemical signaling between nerve cells (neurons).  SYNE1 gene mutations that cause ARCA1 result in an abnormally short, dysfunctional version of the Syne-1 protein. The defective protein is thought to impair Purkinje cell function and disrupt signaling between neurons in the cerebellum. The loss of brain cells in the cerebellum causes the movement problems characteristic of ARCA1, but it is unclear how this cell loss is related to impaired Purkinje cell function.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000097-4" qtype="inheritance">Is autosomal recessive cerebellar ataxia type 1 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000097-5" qtype="treatment">What are the treatments for autosomal recessive cerebellar ataxia type 1 ?</Question>
+			<Answer>These resources address the diagnosis or management of ARCA1:  - Gene Review: Gene Review: SYNE1-Related Autosomal Recessive Cerebellar Ataxia  - Genetic Testing Registry: Spinocerebellar ataxia, autosomal recessive 8  - Johns Hopkins Medicine Department of Neurology and Neurosurgery: What is Ataxia?  - MedlinePlus Encyclopedia: Dysarthria--Care   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

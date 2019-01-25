@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000802" source="GHR" url="https://ghr.nlm.nih.gov/condition/pol-iii-related-leukodystrophy">
+<Focus>Pol III-related leukodystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0445223</CUI>
+			<CUI>C0023520</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>4H syndrome</Synonym>
+		<Synonym>ADDH</Synonym>
+		<Synonym>ataxia, delayed dentition, and hypomyelination</Synonym>
+		<Synonym>dentoleukoencephalopathy</Synonym>
+		<Synonym>HCAHC</Synonym>
+		<Synonym>HLD7</Synonym>
+		<Synonym>HLD8</Synonym>
+		<Synonym>hypomyelination with cerebellar atrophy and hypoplasia of the corpus callosum</Synonym>
+		<Synonym>hypomyelination, hypodontia, hypogonadotropic hypogonadism</Synonym>
+		<Synonym>leukodystrophy with oligodontia</Synonym>
+		<Synonym>leukodystrophy, hypomyelinating, 7, with or without oligodontia and/or hypogonadotropic hypogonadism</Synonym>
+		<Synonym>leukodystrophy, hypomyelinating, 8, with or without oligodontia and/or hypogonadotropic hypogonadism</Synonym>
+		<Synonym>leukoencephalopathy-ataxia-hypodontia-hypomyelination</Synonym>
+		<Synonym>LO</Synonym>
+		<Synonym>odontoleukodystrophy</Synonym>
+		<Synonym>Pol III disorder</Synonym>
+		<Synonym>Pol III-related hypomyelinating leukodystrophies</Synonym>
+		<Synonym>TACH</Synonym>
+		<Synonym>tremor-ataxia with central hypomyelination</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000802-1" qtype="information">What is (are) Pol III-related leukodystrophy ?</Question>
+			<Answer>Pol III-related leukodystrophy is a disorder that affects the nervous system and other parts of the body. Leukodystrophies are conditions that involve abnormalities of the nervous system&apos;s white matter, which consists of nerve fibers covered by a fatty substance called myelin. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses.  Pol III-related leukodystrophy is a hypomyelinating disease, which means that the nervous system of affected individuals has a reduced ability to form myelin. Hypomyelination underlies most of the neurological problems associated with Pol III-related leukodystrophy. A small number of people with this disorder also have a loss of nerve cells in a part of the brain involved in coordinating movements (cerebellar atrophy) and underdevelopment (hypoplasia) of tissue that connects the left and right halves of the brain (the corpus callosum). These brain abnormalities likely contribute to the neurological problems in affected individuals.  People with Pol III-related leukodystrophy usually have intellectual disability ranging from mild to severe, which gradually worsens over time. Some affected individuals have normal intelligence in early childhood but develop mild intellectual disability during the course of the disease.  Difficulty coordinating movements (ataxia), which begins in childhood and slowly worsens over time, is a characteristic feature of Pol III-related leukodystrophy. Affected children typically have delayed development of motor skills such as walking. Their gait is unstable, and they usually walk with their feet wide apart for balance. Affected individuals may eventually need to use a walker or wheelchair. Involuntary rhythmic shaking (tremor) of the arms and hands may occur in this disorder. In some cases the tremor occurs mainly during movement (intentional tremor); other affected individuals experience the tremor both during movement and at rest.  Development of the teeth (dentition) is often abnormal in Pol III-related leukodystrophy, resulting in the absence of some teeth (known as hypodontia or oligodontia). Some affected infants are born with a few teeth (natal teeth), which fall out during the first weeks of life. The primary (deciduous) teeth appear later than usual, beginning at about age 2. In Pol III-related leukodystrophy, the teeth may not appear in the usual sequence, in which front teeth (incisors) appear before back teeth (molars). Instead, molars often appear first, with incisors appearing later or not at all. Permanent teeth are also delayed, and may not appear until adolescence. The teeth may also be unusually shaped.  Some individuals with Pol III-related leukodystrophy have excessive salivation and difficulty chewing or swallowing (dysphagia), which can lead to choking. They may also have speech impairment (dysarthria). People with Pol III-related leukodystrophy often have abnormalities in eye movement, such as progressive vertical gaze palsy, which is restricted up-and-down eye movement that worsens over time. Nearsightedness is common in affected individuals, and clouding of the lens of the eyes (cataracts) has also been reported. Deterioration (atrophy) of the nerves that carry information from the eyes to the brain (the optic nerves) and seizures may also occur in this disorder.  Hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development, may occur in Pol III-related leukodystrophy. Affected individuals have delayed development of the typical signs of puberty, such as the growth of body hair.  People with Pol III-related leukodystrophy may have different combinations of its signs and symptoms. These varied combinations of clinical features were originally described as separate disorders. Affected individuals may be diagnosed with ataxia, delayed dentition, and hypomyelination (ADDH); hypomyelination, hypodontia, hypogonadotropic hypogonadism (4H syndrome); tremor-ataxia with central hypomyelination (TACH); leukodystrophy with oligodontia (LO); or hypomyelination with cerebellar atrophy and hypoplasia of the corpus callosum (HCAHC). Because these disorders were later found to have the same genetic cause, researchers now group them as variations of the single condition Pol III-related leukodystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000802-2" qtype="frequency">How many people are affected by Pol III-related leukodystrophy ?</Question>
+			<Answer>Pol III-related leukodystrophy is a rare disorder; its prevalence is unknown. Only about 40 cases have been described in the medical literature. However, researchers believe that a significant percentage of people with an unspecified hypomyelinating leukodystrophy could have Pol III-related leukodystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000802-3" qtype="genetic changes">What are the genetic changes related to Pol III-related leukodystrophy ?</Question>
+			<Answer>Pol III-related leukodystrophy is caused by mutations in the POLR3A or POLR3B gene. These genes provide instructions for making the two largest parts (subunits) of an enzyme called RNA polymerase III. This enzyme is involved in the production (synthesis) of ribonucleic acid (RNA), a chemical cousin of DNA. The RNA polymerase III enzyme attaches (binds) to DNA and synthesizes RNA in accordance with the instructions carried by the DNA, a process called transcription. RNA polymerase III helps synthesize several forms of RNA, including ribosomal RNA (rRNA) and transfer RNA (tRNA). Molecules of rRNA and tRNA assemble protein building blocks (amino acids) into working proteins; this process is essential for the normal functioning and survival of cells.  Researchers suggest that mutations in the POLR3A or POLR3B gene may impair the ability of subunits of the RNA polymerase III enzyme to assemble properly or result in an RNA polymerase III with impaired ability to bind to DNA. Reduced function of the RNA polymerase III molecule likely affects development and function of many parts of the body, including the nervous system and the teeth, but the relationship between POLR3A and POLR3B gene mutations and the specific signs and symptoms of Pol III-related leukodystrophy is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000802-4" qtype="inheritance">Is Pol III-related leukodystrophy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000802-5" qtype="treatment">What are the treatments for Pol III-related leukodystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of Pol III-related leukodystrophy:  - Eastman Dental Hospital: Hypodontia Clinic  - Gene Review: Gene Review: Pol III-Related Leukodystrophies  - Genetic Testing Registry: Pol III-related leukodystrophy  - Johns Hopkins Medicine: Treating Ataxia  - National Ataxia Foundation: Diagnosis of Ataxia  - UCSF Benioff Children&apos;s Hospital: Hypodontia  - University of Chicago Ataxia Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

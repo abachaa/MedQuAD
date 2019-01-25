@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000258" source="NINDS" url="http://www.ninds.nih.gov/disorders/sci/sci.htm">
+<Focus>Spinal Cord Injury</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037929</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000258-1" qtype="information">What is (are) Spinal Cord Injury ?</Question>
+			<Answer>A spinal cord injury usually begins with a sudden, traumatic blow to the spine that fractures or dislocates vertebrae. The damage begins at the moment of injury when displaced bone fragments, disc material, or ligaments bruise or tear into spinal cord tissue. Most injuries to the spinal cord don&apos;t completely sever it. Instead, an injury is more likely to cause fractures and compression of the vertebrae, which then crush and destroy axons -- extensions of nerve cells that carry signals up and down the spinal cord between the brain and the rest of the body. An injury to the spinal cord can damage a few, many, or almost all of these axons. Some injuries will allow almost complete recovery. Others will result in complete paralysis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000258-2" qtype="treatment">What are the treatments for Spinal Cord Injury ?</Question>
+			<Answer>Improved emergency care for people with spinal cord injuries and aggressive treatment and rehabilitation can minimize damage to the nervous system and even restore limited abilities. Respiratory complications are often an indication of the severity of spinal cord injury About one-third of those with injury to the neck area will need help with breathing and require respiratory support. The steroid drug methylprednisolone appears to reduce the damage to nerve cells if it is given within the first 8 hours after injury. Rehabilitation programs combine physical therapies with skill-building activities and counseling to provide social and emotional support.Electrical simulation of nerves by neural prosthetic devices may restore specific functions, including bladder, breathing, cough, and arm or leg movements, though eligibility for use of these devices depends on the level and type of the spinal cord injury.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000258-3" qtype="outlook">What is the outlook for Spinal Cord Injury ?</Question>
+			<Answer>Spinal cord injuries are classified as either complete or incomplete. An incomplete injury means that the ability of the spinal cord to convey messages to or from the brain is not completely lost. People with incomplete injuries retain some motor or sensory function below the injury. A complete injury is indicated by a total lack of sensory and motor function below the level of injury. People who survive a spinal cord injury will most likely have medical complications such as chronic pain and bladder and bowel dysfunction, along with an increased susceptibility to respiratory and heart problems. Successful recovery depends upon how well these chronic conditions are handled day to day.
+                
+Surgery to relieve compression of the spinal tissue by surrounding bones broken or dislocated by the injury is often necessary, through timing of such surgery may vary widely. A recent prospective multicenter trial called STASCIS is exploring whether performing decompression surgery early (less than 24 hours following injury) can improve outcomes for patients with bone fragments or other tissues pressing on the spinal cord.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000258-4" qtype="research">what research (or clinical trials) is being done for Spinal Cord Injury ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts spinal cord research in its laboratories at the National Institutes of Health (NIH) and also supports additional research through grants to major research institutions across the country. Advances in research are giving doctors and patients hope that repairing injured spinal cords is a reachable goal. Advances in basic research are also being matched by progress in clinical research, especially in understanding the kinds of physical rehabilitation that work best to restore function. Some of the more promising rehabilitation techniques are helping spinal cord injury patients become more mobile.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

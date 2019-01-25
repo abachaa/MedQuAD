@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000069" source="GHR" url="https://ghr.nlm.nih.gov/condition/aromatase-excess-syndrome">
+<Focus>aromatase excess syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1970109</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AEXS</Synonym>
+		<Synonym>familial gynecomastia due to increased aromatase activity</Synonym>
+		<Synonym>hereditary gynecomastia</Synonym>
+		<Synonym>increased aromatase activity</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000069-1" qtype="information">What is (are) aromatase excess syndrome ?</Question>
+			<Answer>Aromatase excess syndrome is a condition characterized by elevated levels of the female sex hormone estrogen in both males and females. Males with aromatase excess syndrome experience breast enlargement (gynecomastia) in late childhood or adolescence. The bones of affected males grow and develop more quickly and stop growing sooner than usual (advanced bone age). As a result males have an early growth spurt, typically during late childhood, with short stature as an adult. Affected females rarely show signs and symptoms of the condition, but they may have increased breast growth (macromastia), irregular menstrual periods, and short stature. The ability to have children (fertility) is usually normal in both males and females with aromatase excess syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000069-2" qtype="frequency">How many people are affected by aromatase excess syndrome ?</Question>
+			<Answer>The prevalence of aromatase excess syndrome is unknown; more than 20 cases have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000069-3" qtype="genetic changes">What are the genetic changes related to aromatase excess syndrome ?</Question>
+			<Answer>Rearrangements of genetic material involving the CYP19A1 gene cause aromatase excess syndrome. The CYP19A1 gene provides instructions for making an enzyme called aromatase. This enzyme converts a class of hormones called androgens, which are involved in male sexual development, to different forms of estrogen. In females, estrogen guides female sexual development before birth and during puberty. In both males and females, estrogen plays a role in regulating bone growth.  The condition can result from several types of genetic rearrangements involving the CYP19A1 gene. These rearrangements alter the activity of the gene and lead to an increase in aromatase production. In affected males, the increased aromatase and subsequent conversion of androgens to estrogen are responsible for the gynecomastia and limited bone growth characteristic of aromatase excess syndrome. Increased estrogen in females can cause symptoms such as irregular menstrual periods and short stature.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000069-4" qtype="inheritance">Is aromatase excess syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means a genetic rearrangement involving one copy of the CYP19A1 gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new genetic changes and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000069-5" qtype="treatment">What are the treatments for aromatase excess syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of aromatase excess syndrome:  - Genetic Testing Registry: Familial gynecomastia, due to increased aromatase activity   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

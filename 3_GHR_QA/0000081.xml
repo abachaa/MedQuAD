@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000081" source="GHR" url="https://ghr.nlm.nih.gov/condition/atelosteogenesis-type-1">
+<Focus>atelosteogenesis type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265283</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AOI</Synonym>
+		<Synonym>atelosteogenesis type I</Synonym>
+		<Synonym>giant cell chondrodysplasia</Synonym>
+		<Synonym>spondylohumerofemoral hypoplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000081-1" qtype="information">What is (are) atelosteogenesis type 1 ?</Question>
+			<Answer>Atelosteogenesis type 1 is a disorder that affects the development of bones throughout the body. Affected individuals are born with inward- and upward-turning feet (clubfeet) and dislocations of the hips, knees, and elbows. Bones in the spine, rib cage, pelvis, and limbs may be underdeveloped or in some cases absent. As a result of the limb bone abnormalities, individuals with this condition have very short arms and legs. Characteristic facial features include a prominent forehead, wide-set eyes (hypertelorism), an upturned nose with a grooved tip, and a very small lower jaw and chin (micrognathia). Affected individuals may also have an opening in the roof of the mouth (a cleft palate). Males with this condition can have undescended testes.  Individuals with atelosteogenesis type 1 typically have an underdeveloped rib cage that affects the development and functioning of the lungs. As a result, affected individuals are usually stillborn or die shortly after birth from respiratory failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000081-2" qtype="frequency">How many people are affected by atelosteogenesis type 1 ?</Question>
+			<Answer>Atelosteogenesis type 1 is a rare disorder; its exact prevalence is unknown. Only a few dozen affected individuals have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000081-3" qtype="genetic changes">What are the genetic changes related to atelosteogenesis type 1 ?</Question>
+			<Answer>Mutations in the FLNB gene cause atelosteogenesis type 1. The FLNB gene provides instructions for making a protein called filamin B. This protein helps build the network of protein filaments (cytoskeleton) that gives structure to cells and allows them to change shape and move. Filamin B attaches (binds) to another protein called actin and helps the actin to form the branching network of filaments that makes up the cytoskeleton. Filamin B also links actin to many other proteins to perform various functions within the cell, including the cell signaling that helps determine how the cytoskeleton will change as tissues grow and take shape during development.  Filamin B is especially important in the development of the skeleton before birth. It is active (expressed) in the cell membranes of cartilage-forming cells (chondrocytes). Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, a process called ossification, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose, airways (trachea and bronchi), and external ears. Filamin B appears to be important for normal cell growth and division (proliferation) and maturation (differentiation) of chondrocytes and for the ossification of cartilage.  FLNB gene mutations that cause atelosteogenesis type 1 change single protein building blocks (amino acids) in the filamin B protein or delete a small section of the protein sequence, resulting in an abnormal protein. This abnormal protein appears to have a new, atypical function that interferes with the proliferation or differentiation of chondrocytes, impairing ossification and leading to the signs and symptoms of atelosteogenesis type 1.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000081-4" qtype="inheritance">Is atelosteogenesis type 1 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Almost all cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000081-5" qtype="treatment">What are the treatments for atelosteogenesis type 1 ?</Question>
+			<Answer>These resources address the diagnosis or management of atelosteogenesis type 1:  - Gene Review: Gene Review: FLNB-Related Disorders  - Genetic Testing Registry: Atelosteogenesis type 1   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

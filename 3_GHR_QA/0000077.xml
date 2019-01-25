@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000077" source="GHR" url="https://ghr.nlm.nih.gov/condition/ataxia-neuropathy-spectrum">
+<Focus>ataxia neuropathy spectrum</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3683791</CUI>
+			<CUI>C0442874</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ANS</Synonym>
+		<Synonym>MIRAS</Synonym>
+		<Synonym>mitochondrial recessive ataxia syndrome</Synonym>
+		<Synonym>SANDO</Synonym>
+		<Synonym>sensory ataxia neuropathy dysarthria and ophthalmoplegia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000077-1" qtype="information">What is (are) ataxia neuropathy spectrum ?</Question>
+			<Answer>Ataxia neuropathy spectrum is part of a group of conditions called the POLG-related disorders. The conditions in this group feature a range of similar signs and symptoms involving muscle-, nerve-, and brain-related functions. Ataxia neuropathy spectrum now includes the conditions previously called mitochondrial recessive ataxia syndrome (MIRAS) and sensory ataxia neuropathy dysarthria and ophthalmoplegia (SANDO).  As the name implies, people with ataxia neuropathy spectrum typically have problems with coordination and balance (ataxia) and disturbances in nerve function (neuropathy). The neuropathy can be classified as sensory, motor, or a combination of the two (mixed). Sensory neuropathy causes numbness, tingling, or pain in the arms and legs, and motor neuropathy refers to disturbance in the nerves used for muscle movement.  Most people with ataxia neuropathy spectrum also have severe brain dysfunction (encephalopathy) and seizures. Some affected individuals have weakness of the external muscles of the eye (ophthalmoplegia), which leads to drooping eyelids (ptosis). Other signs and symptoms can include involuntary muscle twitches (myoclonus), liver disease, depression, migraine headaches, or blindness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000077-2" qtype="frequency">How many people are affected by ataxia neuropathy spectrum ?</Question>
+			<Answer>The prevalence of ataxia neuropathy spectrum is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000077-3" qtype="genetic changes">What are the genetic changes related to ataxia neuropathy spectrum ?</Question>
+			<Answer>Ataxia neuropathy spectrum is caused by mutations in the POLG gene or, rarely, the C10orf2 gene.  The POLG gene provides instructions for making one part, the alpha subunit, of a protein called polymerase gamma (pol ). The C10orf2 gene provides instructions for making a protein called Twinkle. Pol  and Twinkle function in mitochondria, which are structures within cells that use oxygen to convert the energy from food into a form cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA (mtDNA), which is essential for the normal function of these structures. Pol  and Twinkle are both integral to the process of DNA replication by which new copies of mtDNA are produced.  Mutated pol  or mutated Twinkle reduce mtDNA replication. Although the mechanisms are unknown, mutations in the POLG gene often result in fewer copies of mtDNA (mtDNA depletion), and mutations in the C10orf2 gene often result in deletions of large regions of mtDNA (mtDNA deletion). MtDNA depletion or deletion occurs most commonly in muscle, brain, or liver cells. MtDNA depletion causes a decrease in cellular energy, which could account for the signs and symptoms of ataxia neuropathy spectrum. It is unclear what role mtDNA deletions play in the signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000077-4" qtype="inheritance">Is ataxia neuropathy spectrum inherited ?</Question>
+			<Answer>Ataxia neuropathy spectrum can have different inheritance patterns depending on the associated gene.  Mutations in the POLG gene cause a form of the condition that is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Mutations in the C10orf2 gene cause a form of the condition that is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000077-5" qtype="treatment">What are the treatments for ataxia neuropathy spectrum ?</Question>
+			<Answer>These resources address the diagnosis or management of ataxia neuropathy spectrum:  - Gene Review: Gene Review: POLG-Related Disorders  - Genetic Testing Registry: Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis  - National Ataxia Foundation: Gene Testing for Hereditary Ataxia  - United Mitochondrial Disease Foundation: Diagnosis of Mitochondrial Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

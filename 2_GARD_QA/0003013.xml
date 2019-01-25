@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003013" source="GARD" url="https://rarediseases.info.nih.gov/gard/10829/hyperparathyroidism-jaw-tumor-syndrome">
+<Focus>Hyperparathyroidism-jaw tumor syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1704981</CUI>
+			<CUI>C0022364</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HPT-JT</Synonym>
+		<Synonym>Hyperparathyroidism 2</Synonym>
+		<Synonym>HRPT2</Synonym>
+		<Synonym>Familial primary hyperparathyroidism with multiple ossifying jaw fibromas</Synonym>
+		<Synonym>Hereditary hyperparathyroidism-jaw tumor syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003013-1" qtype="information">What is (are) Hyperparathyroidism-jaw tumor syndrome ?</Question>
+			<Answer>Hyperparathyroidism-jaw tumor syndrome is an inherited condition characterized by overactivity of the parathyroid glands (hyperparathyroidism), which regulate the body&apos;s use of calcium. In people with this condition, hyperparathyroidism is caused by benign tumors (adenomas) that form in the parathyroid glands. About 15 percent of people with this condition develop a cancerous tumor called parathyroid carcinoma. About 25 to 50 percent of affected individuals can also develop a benign tumor called a fibroma in the jaw. Other benign or cancerous tumors can also develop, including tumors of the uterus in women; benign kidney cysts; and rarely, Wilms tumor. This condition is caused by mutations in the CDC73 gene and is inherited in an autosomal dominant fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003013-2" qtype="symptoms">What are the symptoms of Hyperparathyroidism-jaw tumor syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Hyperparathyroidism-jaw tumor syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Hyperparathyroidism-jaw tumor syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the head - Autosomal dominant inheritance - Hamartoma - Hurthle cell thyroid adenoma - Hypercalcemia - Hyperparathyroidism - Nephroblastoma (Wilms tumor) - Nephrolithiasis - Pancreatic adenocarcinoma - Papillary renal cell carcinoma - Parathyroid adenoma - Parathyroid carcinoma - Polycystic kidney dysplasia - Recurrent pancreatitis - Renal cortical adenoma - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

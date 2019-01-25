@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000566" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/lungcancer.html">
+<Focus>Lung Cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242379</CUI>
+			<CUI>C0684249</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bronchogenic carcinoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000566-1" qtype="information">What is (are) Lung Cancer ?</Question>
+			<Answer>Lung cancer is one of the most common cancers in the world. It is a leading cause of cancer death in men and women in the United States. Cigarette smoking causes most lung cancers. The more cigarettes you smoke per day and the earlier you started smoking, the greater your risk of lung cancer. High levels of pollution, radiation and asbestos exposure may also increase risk.     Common symptoms of lung cancer include       - A cough that doesn&apos;t go away and gets worse over time    - Constant chest pain    - Coughing up blood    - Shortness of breath, wheezing, or hoarseness    - Repeated problems with pneumonia or bronchitis    - Swelling of the neck and face    - Loss of appetite or weight loss    - Fatigue       Doctors diagnose lung cancer using a physical exam, imaging, and lab tests. Treatment depends on the type, stage, and how advanced it is. Treatments include surgery, chemotherapy, radiation therapy, and targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells.    NIH: National Cancer Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

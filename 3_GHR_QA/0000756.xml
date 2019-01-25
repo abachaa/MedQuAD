@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000756" source="GHR" url="https://ghr.nlm.nih.gov/condition/ornithine-translocase-deficiency">
+<Focus>ornithine translocase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268540</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HHH syndrome</Synonym>
+		<Synonym>hyperornithinemia-hyperammonemia-homocitrullinemia syndrome</Synonym>
+		<Synonym>hyperornithinemia-hyperammonemia-homocitrullinuria syndrome</Synonym>
+		<Synonym>Triple H syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000756-1" qtype="information">What is (are) ornithine translocase deficiency ?</Question>
+			<Answer>Ornithine translocase deficiency is an inherited disorder that causes ammonia to accumulate in the blood. Ammonia, which is formed when proteins are broken down in the body, is toxic if the levels become too high. The nervous system is especially sensitive to the effects of excess ammonia.  Ornithine translocase deficiency varies widely in its severity and age of onset. An infant with ornithine translocase deficiency may be lacking in energy (lethargic) or refuse to eat, or have poorly controlled breathing or body temperature. Some babies with this disorder may experience seizures or unusual body movements, or go into a coma. Episodes of illness may coincide with the introduction of high-protein formulas or solid foods into the diet.  In most affected individuals, signs and symptoms of ornithine translocase deficiency do not appear until later in life. Later-onset forms of ornithine translocase deficiency are usually less severe than the infantile form. Some people with later-onset ornithine translocase deficiency cannot tolerate high-protein foods, such as meat. Occasionally, high-protein meals or stress caused by illness or periods without food (fasting) may cause ammonia to accumulate more quickly in the blood. This rapid increase of ammonia may lead to episodes of vomiting, lack of energy (lethargy), problems with coordination (ataxia), confusion, or blurred vision. Complications of ornithine translocase deficiency may include developmental delay, learning disabilities, and stiffness caused by abnormal tensing of the muscles (spasticity).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000756-2" qtype="frequency">How many people are affected by ornithine translocase deficiency ?</Question>
+			<Answer>Ornithine translocase deficiency is a very rare disorder. Fewer than 100 affected individuals have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000756-3" qtype="genetic changes">What are the genetic changes related to ornithine translocase deficiency ?</Question>
+			<Answer>Mutations in the SLC25A15 gene cause ornithine translocase deficiency.  Ornithine translocase deficiency belongs to a class of genetic diseases called urea cycle disorders. The urea cycle is a sequence of reactions that occurs in liver cells. This cycle processes excess nitrogen, generated when protein is used by the body, to make a compound called urea that is excreted by the kidneys.  The SLC25A15 gene provides instructions for making a protein called a mitochondrial ornithine transporter. This protein is needed to move a molecule called ornithine within the mitochondria (the energy-producing centers in cells). Specifically, this protein transports ornithine across the inner membrane of mitochondria to the region called the mitochondrial matrix, where it participates in the urea cycle.  Mutations in the SLC25A15 gene result in a mitochondrial ornithine transporter that is unstable or the wrong shape, and which cannot bring ornithine to the mitochondrial matrix. This failure of ornithine transport causes an interruption of the urea cycle and the accumulation of ammonia, resulting in the signs and symptoms of ornithine translocase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000756-4" qtype="inheritance">Is ornithine translocase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000756-5" qtype="treatment">What are the treatments for ornithine translocase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of ornithine translocase deficiency:  - Baby&apos;s First Test  - Gene Review: Gene Review: Hyperornithinemia-Hyperammonemia-Homocitrullinuria Syndrome  - Gene Review: Gene Review: Urea Cycle Disorders Overview  - Genetic Testing Registry: Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome  - MedlinePlus Encyclopedia: Hereditary urea cycle abnormality   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

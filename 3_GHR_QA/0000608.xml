@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000608" source="GHR" url="https://ghr.nlm.nih.gov/condition/lung-cancer">
+<Focus>lung cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242379</CUI>
+			<CUI>C0684249</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cancer of bronchus</Synonym>
+		<Synonym>cancer of the lung</Synonym>
+		<Synonym>lung malignancies</Synonym>
+		<Synonym>lung malignant tumors</Synonym>
+		<Synonym>lung neoplasms</Synonym>
+		<Synonym>malignant lung tumor</Synonym>
+		<Synonym>malignant neoplasm of lung</Synonym>
+		<Synonym>malignant tumor of lung</Synonym>
+		<Synonym>pulmonary cancer</Synonym>
+		<Synonym>pulmonary carcinoma</Synonym>
+		<Synonym>pulmonary neoplasms</Synonym>
+		<Synonym>respiratory carcinoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000608-1" qtype="information">What is (are) lung cancer ?</Question>
+			<Answer>Lung cancer is a disease in which certain cells in the lungs become abnormal and multiply uncontrollably to form a tumor. Lung cancer may or may not cause signs or symptoms in its early stages. Some people with lung cancer have chest pain, frequent coughing, breathing problems, trouble swallowing or speaking, blood in the mucus, loss of appetite and weight loss, fatigue, or swelling in the face or neck. Lung cancer occurs most often in adults in their sixties or seventies. Most people who develop lung cancer have a history of long-term tobacco smoking; however, the condition can occur in people who have never smoked.  Lung cancer is generally divided into two types, small cell lung cancer and non-small cell lung cancer, based on the size of the affected cells when viewed under a microscope. Non-small cell lung cancer accounts for 85 percent of lung cancer, while small cell lung cancer accounts for the remaining 15 percent.  Small cell lung cancer grows quickly and often spreads to other tissues (metastasizes), most commonly to the adrenal glands (small hormone-producing glands located on top of each kidney), liver, brain, and bones. In more than half of cases, the small cell lung cancer has spread beyond the lung at the time of diagnosis. After diagnosis, most people with small cell lung cancer survive for about one year; less than seven percent survive 5 years.  Non-small cell lung cancer is divided into three main subtypes: adenocarcinoma, squamous cell carcinoma, and large cell lung carcinoma. Adenocarcinoma arises from the cells that line the small air sacs (alveoli) located throughout the lungs. Squamous cell carcinoma arises from the squamous cells that line the passages leading from the windpipe to the lungs (bronchi). Large cell carcinoma describes non-small cell lung cancers that do not appear to be adenocarcinomas or squamous cell carcinomas. As the name suggests, the tumor cells are large when viewed under a microscope. The 5-year survival rate for people with non-small cell lung cancer is usually between 11 and 17 percent; it can be lower or higher depending on the subtype and stage of the cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000608-2" qtype="frequency">How many people are affected by lung cancer ?</Question>
+			<Answer>In the United States, it is estimated that more than 221,000 people develop lung cancer each year. An estimated 72 to 80 percent of lung cancer cases occur in tobacco smokers.  Approximately 6.6 percent of individuals will develop lung cancer during their lifetime. It is the leading cause of cancer deaths, accounting for an estimated 27 percent of all cancer deaths in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000608-3" qtype="genetic changes">What are the genetic changes related to lung cancer ?</Question>
+			<Answer>Cancers occur when genetic mutations build up in critical genes, specifically those that control cell growth and division or the repair of damaged DNA. These changes allow cells to grow and divide uncontrollably to form a tumor. In nearly all cases of lung cancer, these genetic changes are acquired during a person&apos;s lifetime and are present only in certain cells in the lung. These changes, which are called somatic mutations, are not inherited. Somatic mutations in many different genes have been found in lung cancer cells.  Mutations in the EGFR and KRAS genes are estimated to be present in up to half of all lung cancer cases. These genes each provide instructions for making a protein that is embedded within the cell membrane. When these proteins are turned on (activated) by binding to other molecules, signaling pathways are triggered within cells that promote cell growth and division (proliferation).  Mutations in either the EGFR or KRAS gene lead to the production of a protein that is constantly turned on (constitutively activated). As a result, cells are signaled to constantly proliferate, leading to tumor formation. When these gene changes occur in cells in the lungs, lung cancer develops.  Mutations in many other genes have each been found in a small proportion of cases.  In addition to genetic changes, researchers have identified many personal and environmental factors that expose individuals to cancer-causing compounds (carcinogens) and increase the rate at which somatic mutations occur, contributing to a person&apos;s risk of developing lung cancer. The greatest risk factor is long-term tobacco smoking, which increases a person&apos;s risk of developing lung cancer 20-fold. Other risk factors include exposure to air pollution, radon, asbestos, or secondhand smoke; long-term use of hormone replacement therapy for menopause; and a history of lung disease such as tuberculosis, emphysema, or chronic bronchitis. A history of lung cancer in closely related family members is also an important risk factor; however, because relatives with lung cancer were likely smokers, it is unclear whether the increased risk of lung cancer is the result of genetic factors or exposure to secondhand smoke.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000608-4" qtype="inheritance">Is lung cancer inherited ?</Question>
+			<Answer>Most cases of lung cancer are not related to inherited gene changes. These cancers are associated with somatic mutations that occur only in certain cells in the lung.  When lung cancer is related to inherited gene changes, the cancer risk is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase a person&apos;s chance of developing cancer. It is important to note that people inherit an increased risk of cancer, not the disease itself. Not all people who inherit mutations in these genes will develop lung cancer.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000608-5" qtype="treatment">What are the treatments for lung cancer ?</Question>
+			<Answer>These resources address the diagnosis or management of lung cancer:  - Genetic Testing Registry: Lung cancer  - Genetic Testing Registry: Non-small cell lung cancer  - Lung Cancer Mutation Consortium: About Mutation Testing  - MedlinePlus Encyclopedia: Lung Cancer--Non-Small Cell  - MedlinePlus Encyclopedia: Lung Cancer--Small Cell  - National Cancer Institute: Drugs Approved for Lung Cancer  - National Cancer Institute: Non-Small Cell Lung Cancer Treatment  - National Cancer Institute: Small Cell Lung Cancer Treatment   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001011" source="GHR" url="https://ghr.nlm.nih.gov/condition/uv-sensitive-syndrome">
+<Focus>UV-sensitive syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1833561</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ultraviolet sensitive syndrome</Synonym>
+		<Synonym>UVSS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001011-1" qtype="information">What is (are) UV-sensitive syndrome ?</Question>
+			<Answer>UV-sensitive syndrome is a condition that is characterized by sensitivity to the ultraviolet (UV) rays in sunlight. Even a small amount of sun exposure can cause a sunburn in affected individuals. In addition, these individuals can have freckles, dryness, or changes in coloring (pigmentation) on sun-exposed areas of skin after repeated exposure. Some people with UV-sensitive syndrome have small clusters of enlarged blood vessels just under the skin (telangiectasia), usually on the cheeks and nose. Although UV exposure can cause skin cancers, people with UV-sensitive syndrome do not have an increased risk of developing these forms of cancer compared with the general population.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001011-2" qtype="frequency">How many people are affected by UV-sensitive syndrome ?</Question>
+			<Answer>UV-sensitive syndrome appears to be a rare condition; only a small number of affected individuals have been reported in the scientific literature. However, this condition may be underdiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001011-3" qtype="genetic changes">What are the genetic changes related to UV-sensitive syndrome ?</Question>
+			<Answer>UV-sensitive syndrome can result from mutations in the ERCC6 gene (also known as the CSB gene), the ERCC8 gene (also known as the CSA gene), or the UVSSA gene. These genes provide instructions for making proteins that are involved in repairing damaged DNA. DNA can be damaged by UV rays from the sun and by toxic chemicals, radiation, and unstable molecules called free radicals. Cells are usually able to fix DNA damage before it causes problems. If left uncorrected, DNA damage accumulates, which causes cells to malfunction and can lead to cell death.  Cells have several mechanisms to correct DNA damage. The CSB, CSA, and UVSSA proteins are involved in one mechanism that repairs damaged DNA within active genes (those genes undergoing gene transcription, the first step in protein production). When DNA in active genes is damaged, the enzyme that carries out gene transcription (RNA polymerase) gets stuck, and the process stalls. Researchers think that the CSB, CSA, and UVSSA proteins help remove RNA polymerase from the damaged site, so the DNA can be repaired.  Mutations in the ERCC6, ERCC8, or UVSSA genes lead to the production of an abnormal protein or the loss of the protein. If any of these proteins is not functioning normally, skin cells cannot repair DNA damage caused by UV rays, and transcription of damaged genes is blocked. However, it is unclear exactly how abnormalities in these proteins cause the signs and symptoms of UV-sensitive syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001011-4" qtype="inheritance">Is UV-sensitive syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001011-5" qtype="treatment">What are the treatments for UV-sensitive syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of UV-sensitive syndrome:  - Genetic Testing Registry: UV-sensitive syndrome  - Genetic Testing Registry: UV-sensitive syndrome 2  - Genetic Testing Registry: UV-sensitive syndrome 3  - Merck Manual Home Health Edition: Sunburn  - World Health Organization: Sun Protection   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

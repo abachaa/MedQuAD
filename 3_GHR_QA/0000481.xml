@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000481" source="GHR" url="https://ghr.nlm.nih.gov/condition/hirschsprung-disease">
+<Focus>Hirschsprung disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019569</CUI>
+			<CUI>C2931876</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>aganglionic megacolon</Synonym>
+		<Synonym>congenital intestinal aganglionosis</Synonym>
+		<Synonym>congenital megacolon</Synonym>
+		<Synonym>Hirschsprung's disease</Synonym>
+		<Synonym>HSCR</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000481-1" qtype="information">What is (are) Hirschsprung disease ?</Question>
+			<Answer>Hirschsprung disease is an intestinal disorder characterized by the absence of nerves in parts of the intestine. This condition occurs when the nerves in the intestine (enteric nerves) do not form properly during development before birth (embryonic development). This condition is usually identified in the first two months of life, although less severe cases may be diagnosed later in childhood.  Enteric nerves trigger the muscle contractions that move stool through the intestine. Without these nerves in parts of the intestine, the material cannot be pushed through, causing severe constipation or complete blockage of the intestine in people with Hirschsprung disease. Other signs and symptoms of this condition include vomiting, abdominal pain or swelling, diarrhea, poor feeding, malnutrition, and slow growth. People with this disorder are at risk of developing more serious conditions such as inflammation of the intestine (enterocolitis) or a hole in the wall of the intestine (intestinal perforation), which can cause serious infection and may be fatal.  There are two main types of Hirschsprung disease, known as short-segment disease and long-segment disease, which are defined by the region of the intestine lacking nerve cells. In short-segment disease, nerve cells are missing from only the last segment of the large intestine. This type is most common, occurring in approximately 80 percent of people with Hirschsprung disease. For unknown reasons, short-segment disease is four times more common in men than in women. Long-segment disease occurs when nerve cells are missing from most of the large intestine and is the more severe type. Long-segment disease is found in approximately 20 percent of people with Hirschsprung disease and affects men and women equally. Very rarely, nerve cells are missing from the entire large intestine and sometimes part of the small intestine (total colonic aganglionosis) or from all of the large and small intestine (total intestinal aganglionosis).  Hirschsprung disease can occur in combination with other conditions, such as Waardenburg syndrome, type IV; Mowat-Wilson syndrome; or congenital central hypoventilation syndrome. These cases are described as syndromic. Hirschsprung disease can also occur without other conditions, and these cases are referred to as isolated or nonsyndromic.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000481-2" qtype="frequency">How many people are affected by Hirschsprung disease ?</Question>
+			<Answer>Hirschsprung disease occurs in approximately 1 in 5,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000481-3" qtype="genetic changes">What are the genetic changes related to Hirschsprung disease ?</Question>
+			<Answer>Isolated Hirschsprung disease can result from mutations in one of several genes, including the RET, EDNRB, and EDN3 genes. However, the genetics of this condition appear complex and are not completely understood. While a mutation in a single gene sometimes causes the condition, mutations in multiple genes may be required in some cases. The genetic cause of the condition is unknown in approximately half of affected individuals.  Mutations in the RET gene are the most common known genetic cause of Hirschsprung disease. The RET gene provides instructions for producing a protein that is involved in signaling within cells. This protein appears to be essential for the normal development of several kinds of nerve cells, including nerves in the intestine. Mutations in the RET gene that cause Hirschsprung disease result in a nonfunctional version of the RET protein that cannot transmit signals within cells. Without RET protein signaling, enteric nerves do not develop properly. Absence of these nerves leads to the intestinal problems characteristic of Hirschsprung disease.  The EDNRB gene provides instructions for making a protein called endothelin receptor type B. When this protein interacts with other proteins called endothelins, it transmits information from outside the cell to inside the cell, signaling for many important cellular processes. The EDN3 gene provides instructions for a protein called endothelin 3, one of the endothelins that interacts with endothelin receptor type B. Together, endothelin 3 and endothelin receptor type B play an important role in the normal formation of enteric nerves. Changes in either the EDNRB gene or the EDN3 gene disrupt the normal functioning of the endothelin receptor type B or the endothelin 3 protein, preventing them from transmitting signals important for the development of enteric nerves. As a result, these nerves do not form normally during embryonic development. A lack of enteric nerves prevents stool from being moved through the intestine, leading to severe constipation and intestinal blockage.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000481-4" qtype="inheritance">Is Hirschsprung disease inherited ?</Question>
+			<Answer>Approximately 20 percent of cases of Hirschsprung disease occur in multiple members of the same family. The remainder of cases occur in people with no history of the disorder in their families.  Hirschsprung disease appears to have a dominant pattern of inheritance, which means one copy of the altered gene in each cell may be sufficient to cause the disorder. The inheritance is considered to have incomplete penetrance because not everyone who inherits the altered gene from a parent develops Hirschsprung disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000481-5" qtype="treatment">What are the treatments for Hirschsprung disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Hirschsprung disease:  - Cedars-Sinai: Treating Hirschsprung&apos;s Disease (Colonic Aganglionosis)  - Gene Review: Gene Review: Hirschsprung Disease Overview  - Genetic Testing Registry: Hirschsprung disease 1  - Genetic Testing Registry: Hirschsprung disease 2  - Genetic Testing Registry: Hirschsprung disease 3  - Genetic Testing Registry: Hirschsprung disease 4  - North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition: Hirschsprung&apos;s Disease  - Seattle Children&apos;s: Hirschsprung&apos;s Disease: Symptoms and Diagnosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

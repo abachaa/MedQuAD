@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000264" source="GHR" url="https://ghr.nlm.nih.gov/condition/cystinuria">
+<Focus>cystinuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010691</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CSNU</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000264-1" qtype="information">What is (are) cystinuria ?</Question>
+			<Answer>Cystinuria is a condition characterized by the buildup of the amino acid cystine, a building block of most proteins, in the kidneys and bladder. As the kidneys filter blood to create urine, cystine is normally absorbed back into the bloodstream. People with cystinuria cannot properly reabsorb cystine into their bloodstream, so the amino acid accumulates in their urine.  As urine becomes more concentrated in the kidneys, the excess cystine forms crystals. Larger crystals become stones that may lodge in the kidneys or in the bladder. Sometimes cystine crystals combine with calcium molecules in the kidneys to form large stones. These crystals and stones can create blockages in the urinary tract and reduce the ability of the kidneys to eliminate waste through urine. The stones also provide sites where bacteria may cause infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000264-2" qtype="frequency">How many people are affected by cystinuria ?</Question>
+			<Answer>Cystinuria affects approximately 1 in 10,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000264-3" qtype="genetic changes">What are the genetic changes related to cystinuria ?</Question>
+			<Answer>Mutations in the SLC3A1 or SLC7A9 gene cause cystinuria. The SLC3A1 and SLC7A9 genes provide instructions for making the two parts (subunits) of a protein complex that is primarily found in the kidneys. Normally this protein complex controls the reabsorption of certain amino acids, including cystine, into the blood from the filtered fluid that will become urine. Mutations in either the SLC3A1 gene or SLC7A9 gene disrupt the ability of the protein complex to reabsorb amino acids, which causes the amino acids to become concentrated in the urine. As the levels of cystine in the urine increase, the crystals typical of cystinuria form. The other amino acids that are reabsorbed by the protein complex do not create crystals when they accumulate in the urine.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000264-4" qtype="inheritance">Is cystinuria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000264-5" qtype="treatment">What are the treatments for cystinuria ?</Question>
+			<Answer>These resources address the diagnosis or management of cystinuria:  - Genetic Testing Registry: Cystinuria  - MedlinePlus Encyclopedia: Cystinuria  - MedlinePlus Encyclopedia: Cystinuria (image)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

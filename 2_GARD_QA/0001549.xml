@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001549" source="GARD" url="https://rarediseases.info.nih.gov/gard/9952/congenital-primary-aphakia">
+<Focus>Congenital primary aphakia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1853230</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aphakia, congenital primary</Synonym>
+		<Synonym>CPA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001549-1" qtype="information">What is (are) Congenital primary aphakia ?</Question>
+			<Answer>Congenital primary aphakia (CPA) is a rare eye condition that is present at birth in which the lens is missing. In some cases, CPA can be associated with other eye abnormalities including microphthalmia, absence of the iris, anterior segment aplasia, and/or sclerocornea (when the cornea blends with the sclera). This condition is thought to result from an abnormality during the 4th or 5th week of fetal development, which prevents the formation of any lens structure in the eye. Mutations in the FOXE3 gene have been associated with this condition. CPA is thought to be inherited in an autosomal recessive fashion. Click here to view a diagram of the eye.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001549-2" qtype="symptoms">What are the symptoms of Congenital primary aphakia ?</Question>
+			<Answer>What are the signs and symptoms of Congenital primary aphakia? The Human Phenotype Ontology provides the following list of signs and symptoms for Congenital primary aphakia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aniridia - Anterior segment of eye aplasia - Autosomal recessive inheritance - Congenital primary aphakia - Microphthalmia - Sclerocornea - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

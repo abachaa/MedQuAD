@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000055" source="NINDS" url="http://www.ninds.nih.gov/disorders/kennedys/kennedys.htm">
+<Focus>Kennedy's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1839259</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000055-1" qtype="information">What is (are) Kennedy's Disease ?</Question>
+			<Answer>Kennedy&apos;s disease is an inherited motor neuron disease that affects males. It is one of a group of disorders called lower motor neuron disorders (which involve disruptions in the transmission of nerve cell signals in the brain to nerve cells in the brain stem and spinal cord). Onset of the disease is usually between the ages of 20 and 40, although it has been diagnosed in men from their teens to their 70s. Early symptoms include tremor of the outstretched hands, muscle cramps with exertion, and fasciculations (fleeting muscle twitches visible under the skin). Eventually, individuals develop limb weakness which usually begins in the pelvic or shoulder regions. Weakness of the facial and tongue muscles may occur later in the course of the disease and often leads to dysphagia (difficulty in swallowing), dysarthria (slurring of speech), and recurrent aspiration pneumonia. Some individuals develop gynecomastia (excessive enlargement of male breasts) and low sperm count or infertility. Still others develop non-insulin-dependent diabetes mellitus.
+                
+Kennedy&apos;s disease is an x-linked recessive disease, which means the patient&apos;s mother carries the defective gene on one of her X chromosomes. Daughters of patients with Kennedy&apos;s disease are also carriers and have a 1 in 2 chance of having a son affected with the disease. Parents with concerns about their children may wish to talk to a genetic counselor.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000055-2" qtype="treatment">What are the treatments for Kennedy's Disease ?</Question>
+			<Answer>Currently there is no known cure for Kennedy&apos;s disease. Treatment is symptomatic and supportive. Physical therapy and rehabilitation to slow muscle weakness and atrophy may prove helpful.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000055-3" qtype="outlook">What is the outlook for Kennedy's Disease ?</Question>
+			<Answer>Kennedy&apos;s disease is slowly progressive. Individuals tend to remain ambulatory until late in the disease, although some may be wheelchair-bound during later stages. The life span of individuals with Kennedy&apos;s disease is usually normal.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000055-4" qtype="research">what research (or clinical trials) is being done for Kennedy's Disease ?</Question>
+			<Answer>The NINDS supports a broad spectrum of research on motor neuron diseases, such as Kennedy&apos;s disease. Much of this research is aimed at increasing scientific understanding of these diseases and, ultimately, finding ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

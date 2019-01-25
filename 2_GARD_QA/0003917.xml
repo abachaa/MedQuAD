@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003917" source="GARD" url="https://rarediseases.info.nih.gov/gard/1521/menkes-disease">
+<Focus>Menkes disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022716</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Menkes syndrome</Synonym>
+		<Synonym>Steely hair disease</Synonym>
+		<Synonym>Menkea syndrome</Synonym>
+		<Synonym>Kinky hair disease</Synonym>
+		<Synonym>Copper transport disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003917-1" qtype="information">What is (are) Menkes disease ?</Question>
+			<Answer>Menkes disease is a disorder that affects copper levels in the body. It is characterized by sparse, kinky hair; failure to thrive; and progressive deterioration of the nervous system. Additional signs and symptoms may be present. Children with Menkes syndrome typically begin to develop very severe symptoms during infancy. Occipital horn syndrome is one of the less severe forms of Menkes syndrome that begins in early to middle childhood. Menkes disease is caused by mutations in the ATP7A gene. It is inherited in an X-linked recessive pattern. Early treatment with copper may slightly improve the prognosis in some affected children.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003917-2" qtype="symptoms">What are the symptoms of Menkes disease ?</Question>
+			<Answer>What are the signs and symptoms of Menkes disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Menkes disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal hair quantity 90% Abnormality of the palate 90% Aneurysm 90% Aplasia/Hypoplasia of the abdominal wall musculature 90% Developmental regression 90% Dry skin 90% Feeding difficulties in infancy 90% Full cheeks 90% Hyperextensible skin 90% Hypertonia 90% Hypopigmentation of hair 90% Intracranial hemorrhage 90% Joint hypermobility 90% Microcephaly 90% Muscular hypotonia 90% Pectus excavatum 90% Seizures 90% Umbilical hernia 90% Woolly hair 90% Abnormality of the carotid arteries 50% Abnormality of the liver 50% Arterial stenosis 50% Atypical scarring of skin 50% Behavioral abnormality 50% Cognitive impairment 50% Exostoses 50% Malabsorption 50% Mask-like facies 50% Muscle weakness 50% Narrow chest 50% Nausea and vomiting 50% Prominent occiput 50% Thickened skin 50% Venous insufficiency 50% Wormian bones 50% Bladder diverticulum 7.5% Bowing of the long bones 7.5% Chondrocalcinosis 7.5% Chorea 7.5% Gastrointestinal hemorrhage 7.5% Hypoglycemia 7.5% Hypothermia 7.5% Intrauterine growth retardation 7.5% Osteomyelitis 7.5% Recurrent fractures 7.5% Reduced bone mineral density 7.5% Sepsis 7.5% Spontaneous hematomas 7.5% Tarsal synostosis 7.5% Abnormality of the face - Brachycephaly - Cutis laxa - Death in childhood - Hypopigmentation of the skin - Intellectual disability - Joint laxity - Metaphyseal spurs - Metaphyseal widening - Osteoporosis - Short stature - Sparse hair - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000367" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-restrictive-cardiomyopathy">
+<Focus>familial restrictive cardiomyopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007196</CUI>
+			<CUI>C0340429</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cardiomyopathy, restrictive</Synonym>
+		<Synonym>RCM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000367-1" qtype="information">What is (are) familial restrictive cardiomyopathy ?</Question>
+			<Answer>Familial restrictive cardiomyopathy is a genetic form of heart disease. For the heart to beat normally, the heart (cardiac) muscle must contract and relax in a coordinated way. Oxygen-rich blood from the lungs travels first through the upper chambers of the heart (the atria), and then to the lower chambers of the heart (the ventricles).  In people with familial restrictive cardiomyopathy, the heart muscle is stiff and cannot fully relax after each contraction. Impaired muscle relaxation causes blood to back up in the atria and lungs, which reduces the amount of blood in the ventricles.  Familial restrictive cardiomyopathy can appear anytime from childhood to adulthood. The first signs and symptoms of this condition in children are failure to gain weight and grow at the expected rate (failure to thrive), extreme tiredness (fatigue), and fainting. Children who are severely affected may also have abnormal swelling or puffiness (edema), increased blood pressure, an enlarged liver, an abnormal buildup of fluid in the abdominal cavity (ascites), and lung congestion. Some children with familial restrictive cardiomyopathy do not have any obvious signs or symptoms, but they may die suddenly due to heart failure. Without treatment, the majority of affected children survive only a few years after they are diagnosed.  Adults with familial restrictive cardiomyopathy typically first develop shortness of breath, fatigue, and a reduced ability to exercise. Some individuals have an irregular heart beat (arrhythmia) and may also experience a sensation of fluttering or pounding in the chest (palpitations) and dizziness. Abnormal blood clots are commonly seen in adults with this condition. Without treatment, approximately one-third of adults with familial restrictive cardiomyopathy do not survive more than five years after diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000367-2" qtype="frequency">How many people are affected by familial restrictive cardiomyopathy ?</Question>
+			<Answer>The prevalence of familial restrictive cardiomyopathy is unknown. Although cardiomyopathy is a relatively common condition, restrictive cardiomyopathy, in which relaxation of the heart muscle is impaired, is the least common type. Some other forms of cardiomyopathy involve a weak or enlarged heart muscle with impaired contraction. In the United States and in Europe, restrictive cardiomyopathy accounts for less than five percent of all cardiomyopathies. The proportion of restrictive cardiomyopathy that runs in families is not known.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000367-3" qtype="genetic changes">What are the genetic changes related to familial restrictive cardiomyopathy ?</Question>
+			<Answer>Mutations in several genes have been found to cause familial restrictive cardiomyopathy. Mutations in the TNNI3 gene are one of the major causes of this condition. The TNNI3 gene provides instructions for making a protein called cardiac troponin I, which is found solely in the heart. Cardiac troponin I is one of three proteins that make up the troponin protein complex, which helps regulate tensing (contraction) and relaxation of the heart muscle.  TNNI3 gene mutations associated with familial restrictive cardiomyopathy result in the production of a defective cardiac troponin I protein. The altered protein disrupts the function of the troponin protein complex and does not allow the heart muscle to fully relax. As a result, not enough blood enters the ventricles, leading to a buildup in the atria and lungs. The abnormal heart relaxation and blood flow is responsible for many of the signs and symptoms of familial restrictive cardiomyopathy.  Mutations in other genes associated with familial restrictive cardiomyopathy each account for a small percentage of cases of this condition. Some people with familial restrictive cardiomyopathy do not have an identified mutation in any of the known associated genes. The cause of the disorder in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000367-4" qtype="inheritance">Is familial restrictive cardiomyopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000367-5" qtype="treatment">What are the treatments for familial restrictive cardiomyopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of familial restrictive cardiomyopathy:  - Genetic Testing Registry: Familial restrictive cardiomyopathy  - Genetic Testing Registry: Familial restrictive cardiomyopathy 1  - Genetic Testing Registry: Familial restrictive cardiomyopathy 2  - Genetic Testing Registry: Familial restrictive cardiomyopathy 3  - Johns Hopkins Medicine: Cardiomyopathy/Heart Failure  - MedlinePlus Encyclopedia: Restrictive Cardiomyopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

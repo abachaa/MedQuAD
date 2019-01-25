@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000033" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003382.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Abscess scan - radioactive</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000833</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Radioactive abscess scan</Synonym>
+		<Synonym>Abscess scan</Synonym>
+		<Synonym>Indium Scan</Synonym>
+		<Synonym>Indium-labelled white blood cell scan</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000033-1" qtype="information">What is (are) Abscess scan - radioactive ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000033-8" qtype="susceptibility">Who is at risk for Abscess scan - radioactive? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

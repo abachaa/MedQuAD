@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000319" source="GHR" url="https://ghr.nlm.nih.gov/condition/epidermal-nevus">
+<Focus>epidermal nevus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>epidermal naevus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000319-1" qtype="information">What is (are) epidermal nevus ?</Question>
+			<Answer>An epidermal nevus (plural: nevi) is an abnormal, noncancerous (benign) patch of skin caused by an overgrowth of skin cells. Epidermal nevi are typically seen at birth or develop in early childhood. They can be flat, tan patches of skin or raised, velvety patches. As the affected individual ages, the nevus can become thicker and darker and develop a wart-like (verrucous) appearance. Often, epidermal nevi follow a pattern on the skin known as the lines of Blaschko. The lines of Blaschko, which are invisible on skin, are thought to follow the paths along which cells migrate as the skin develops before birth.  There are several types of epidermal nevi that are defined in part by the type of skin cell involved. The epidermis is the outermost layer of skin and is composed primarily of a specific cell type called a keratinocyte. One group of epidermal nevi, called keratinocytic or nonorganoid epidermal nevi, includes nevi that involve only keratinocytes. Other types of epidermal nevi involve additional types of epidermal cells, such as the cells that make up the hair follicles or the sebaceous glands (glands in the skin that produce a substance that protects the skin and hair). These nevi comprise a group called organoid epidermal nevi.  Some affected individuals have only an epidermal nevus and no other abnormalities. However, sometimes people with an epidermal nevus also have problems in other body systems, such as the brain, eyes, or bones. In these cases, the affected individual has a condition called an epidermal nevus syndrome. There are several different epidermal nevus syndromes characterized by the type of epidermal nevus involved.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000319-2" qtype="frequency">How many people are affected by epidermal nevus ?</Question>
+			<Answer>Epidermal nevi affect approximately 1 in 1,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000319-3" qtype="genetic changes">What are the genetic changes related to epidermal nevus ?</Question>
+			<Answer>Mutations in the FGFR3 gene have been found in approximately 30 percent of people with a type of nevus in the keratinocytic epidermal nevi group. The gene mutations involved in most epidermal nevi are unknown.  Mutations associated with an epidermal nevus are present only in the cells of the nevus, not in the normal skin cells surrounding it. Because the mutation is found in some of the body&apos;s cells but not in others, people with an epidermal nevus are said to be mosaic for the mutation.  The FGFR3 gene provides instructions for the fibroblast growth factor receptor 3 (FGFR3) protein. This protein is involved in several important cellular processes, including regulation of growth and division of skin cells. The FGFR3 protein interacts with specific growth factors outside the cell to receive signals that control growth and development. When these growth factors attach to the FGFR3 protein, the protein is turned on (activated), which triggers a cascade of chemical reactions inside the cell that control growth and other cellular functions.  The most common FGFR3 gene mutation in epidermal nevi creates a protein that is turned on without attachment of a growth factor, which means that the FGFR3 protein is constantly active. Cells with a mutated FGFR3 gene grow and divide more than normal cells. In addition, these mutated cells do not undergo a form of self-destruction called apoptosis as readily as normal cells. These effects result in overgrowth of skin cells, leading to epidermal nevi.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000319-4" qtype="inheritance">Is epidermal nevus inherited ?</Question>
+			<Answer>This condition is generally not inherited but arises from mutations in the body&apos;s cells that occur after conception. This alteration is called a somatic mutation.  Occasionally, the somatic mutation occurs in a person&apos;s reproductive cells (sperm or eggs) and is passed to the next generation. An inherited FGFR3 gene mutation is found in every cell in the body, which results in skeletal abnormalities rather than epidermal nevus.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000319-5" qtype="treatment">What are the treatments for epidermal nevus ?</Question>
+			<Answer>These resources address the diagnosis or management of epidermal nevus:  - Genetic Testing Registry: Epidermal nevus   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

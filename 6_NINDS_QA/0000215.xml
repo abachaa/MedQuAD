@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000215" source="NINDS" url="http://www.ninds.nih.gov/disorders/neurosarcoidosis/neurosarcoidosis.htm">
+<Focus>Neurosarcoidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393485</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000215-1" qtype="information">What is (are) Neurosarcoidosis ?</Question>
+			<Answer>Neurosarcoidosis is a manifestation of sarcoidosis in the nervous system. Sarcoidosis is a chronic inflammatory disorder that typically occurs in adults between 20 and 40 years of age and primarily affects the lungs, but can also impact almost every other organ and system in the body. Neurosarcoidosis is characterized by inflammation and abnormal cell deposits in any part of the nervous system  the brain, spinal cord, or peripheral nerves. It most commonly occurs in the cranial and facial nerves, the hypothalamus (a specific area of the brain), and the pituitary gland. It is estimated to develop in 5 to 15 percent of those individuals who have sarcoidosis. Weakness of the facial muscles on one side of the face (Bells palsy) is a common symptom of neurosarcoidosis. The optic and auditory nerves can also become involved, causing vision and hearing impairments. It can cause headache, seizures, memory loss, hallucinations, irritability, agitation, and changes in mood and behavior. Neurosarcoidosis can appear in an acute, explosive fashion or start as a slow chronic illness. Because neurosarcoidosis manifests in many different ways, a diagnosis may be difficult and delayed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000215-2" qtype="treatment">What are the treatments for Neurosarcoidosis ?</Question>
+			<Answer>There is no agreed upon standard of treatment for neurosarcoidosis. Doctors generally recommend corticosteroid therapy as first-line therapy for individuals with the condition. Additional treatment with immunomodulatory drugs such as hydroxychloroquine, pentoxyfilline, thalidomide, and infliximab, and immunosuppressive drugs such as methotrexate, azathioprine, cyclosporin, and cyclophosphamide, have benefited some individuals. While the use of corticosteroids and other immunosuppressive drugs is effective, these medications also have undesirable side effects. Side effects and experience with certain drugs may play a role in medication choices.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000215-3" qtype="outlook">What is the outlook for Neurosarcoidosis ?</Question>
+			<Answer>The prognosis for patients with neurosarcoidosis varies. Approximately two-thirds of those with the condition will recover completely; the remainder will have a chronically progressing or on-and-off course of illness. Complications resulting from immunosuppressive treatments, such as cryptococcal and tuberculous meningitis, progressive multifocal leukoencephalopathy, and inclusion body myositis, may be fatal for a small percentage of individuals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000215-4" qtype="research">what research (or clinical trials) is being done for Neurosarcoidosis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) has joined with other institutes of the National Institutes of Health (NIH) to form a trans-NIH working group to coordinate and fund research into the disease mechanisms of sarcoidosis, predisposing factors, genetic underpinnings, and the potential for clinical therapies. Grants are supporting research at major medical institutions across the country. The outcomes of this research will be better ways to diagnose, treat, and ultimately cure sarcoidosis and neurosarcardoisis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

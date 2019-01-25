@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000194" source="GHR" url="https://ghr.nlm.nih.gov/condition/cockayne-syndrome">
+<Focus>Cockayne syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009207</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CS</Synonym>
+		<Synonym>dwarfism-retinal atrophy-deafness syndrome</Synonym>
+		<Synonym>progeria-like syndrome</Synonym>
+		<Synonym>progeroid nanism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000194-1" qtype="information">What is (are) Cockayne syndrome ?</Question>
+			<Answer>Cockayne syndrome is a rare disorder characterized by short stature and an appearance of premature aging. Features of this disorder include a failure to gain weight and grow at the expected rate (failure to thrive), abnormally small head size (microcephaly), and impaired development of the nervous system. Affected individuals have an extreme sensitivity to sunlight (photosensitivity), and even a small amount of sun exposure can cause a sunburn. Other possible signs and symptoms include hearing loss, eye abnormalities, severe tooth decay, bone abnormalities, and changes in the brain that can be seen on brain scans.  Cockayne syndrome can be divided into subtypes, which are distinguished by the severity and age of onset of symptoms. Classical, or type I, Cockayne syndrome is characterized by an onset of symptoms in early childhood (usually after age 1 year). Type II Cockayne syndrome has much more severe symptoms that are apparent at birth (congenital). Type II Cockayne syndrome is sometimes called cerebro-oculo-facio-skeletal (COFS) syndrome or Pena-Shokeir syndrome type II. Type III Cockayne syndrome has the mildest symptoms of the three types and appears later in childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000194-2" qtype="frequency">How many people are affected by Cockayne syndrome ?</Question>
+			<Answer>Cockayne syndrome occurs in about 2 per million newborns in the United States and Europe.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000194-3" qtype="genetic changes">What are the genetic changes related to Cockayne syndrome ?</Question>
+			<Answer>Cockayne syndrome can result from mutations in either the ERCC6 gene (also known as the CSB gene) or the ERCC8 gene (also known as the CSA gene). These genes provide instructions for making proteins that are involved in repairing damaged DNA. DNA can be damaged by ultraviolet (UV) rays from the sun and by toxic chemicals, radiation, and unstable molecules called free radicals. Cells are usually able to fix DNA damage before it causes problems. However, in people with Cockayne syndrome, DNA damage is not repaired normally. As more abnormalities build up in DNA, cells malfunction and eventually die. The increased cell death likely contributes to the features of Cockayne syndrome, such as growth failure and premature aging.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000194-4" qtype="inheritance">Is Cockayne syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000194-5" qtype="treatment">What are the treatments for Cockayne syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Cockayne syndrome:  - Gene Review: Gene Review: Cockayne Syndrome  - Genetic Testing Registry: Cockayne syndrome  - Genetic Testing Registry: Cockayne syndrome type A  - Genetic Testing Registry: Cockayne syndrome type C  - Genetic Testing Registry: Cockayne syndrome, type B  - MedlinePlus Encyclopedia: Failure to Thrive   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

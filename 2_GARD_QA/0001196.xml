@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001196" source="GARD" url="https://rarediseases.info.nih.gov/gard/6061/choroideremia">
+<Focus>Choroideremia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008525</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CHM</Synonym>
+		<Synonym>Progressive tapetochoroidal dystrophy</Synonym>
+		<Synonym>TCD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001196-1" qtype="information">What is (are) Choroideremia ?</Question>
+			<Answer>Choroideremia is a genetic condition that causes vision loss. This disorder typically affects males. The first symptom is usually impairment of night vision (night blindness), which can occur in childhood. People with this disorder also experience narrowing of the field of vision (tunnel vision) and decrease in the ability to see details (visual acuity). The vision problems are due to loss of cells in the retina (light sensitive part of the eye) and choroid (blood vessels in the eye). The vision issues tend to get worse over time and usually lead to blindness in late adulthood. The rate and degree of vision loss differs for each person. Choroideremia is caused by spelling mistakes (mutations) in the CHM gene and is inherited in an X-linked recessive pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001196-2" qtype="symptoms">What are the symptoms of Choroideremia ?</Question>
+			<Answer>What are the signs and symptoms of Choroideremia? The Human Phenotype Ontology provides the following list of signs and symptoms for Choroideremia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal electroretinogram 90% Abnormality of retinal pigmentation 90% Myopia 90% Nyctalopia 90% Visual impairment 90% Chorioretinal atrophy - Chorioretinal degeneration - Choroideremia - Constriction of peripheral visual field - Progressive visual loss - X-linked dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

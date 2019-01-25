@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000122" source="NINDS" url="http://www.ninds.nih.gov/disorders/essential_tremor/essential_tremor.htm">
+<Focus>Essential Tremor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3543433</CUI>
+			<CUI>C0270736</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000122-1" qtype="information">What is (are) Essential Tremor ?</Question>
+			<Answer>Tremor is an unintentional, somewhat rhythmic, muscle movement involving to-and-fro movements (oscillations) of one or more parts of the body. Essential tremor (previously called benign essential tremor) is the most common form of abnormal tremor. (In some people, tremor is a symptom of a neurological disorder or appears as a side effect of certain drugs.) Although it may be mild and nonprogressive in some people, in others the tremor is slowly progressive, starting on one side of the body but eventually affecting both sides. Hand tremor is most common but the head, arms, voice, tongue, legs, and trunk may also be involved. Hand tremor may cause problems with purposeful movements such as eating, writing, sewing, or shaving. Head tremor may be seen as a &quot;yes-yes&quot; or &quot;no-no&quot; motion. Essential tremor may be accompanied by mild gait disturbance. Heightened emotion, stress, fever, physical exhaustion, or low blood sugar may trigger tremors or increase their severity. There may be mild degeneration in the certain parts of the cerebellum in persons with essential tremor. Onset is most common after age 40, although symptoms can appear at any age. Children of a parent who has essential tremor have up to a 50 percent chance of inheriting the condition. Essential tremor is not associated with any known pathology.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000122-2" qtype="treatment">What are the treatments for Essential Tremor ?</Question>
+			<Answer>There is no definitive cure for essential tremor. Symptomatic drug therapy may include propranolol or other beta blockers and primidone, an anticonvulsant drug. Eliminating tremor &quot;triggers&quot; such as caffeine and other stimulants from the diet is often recommended. Physical and occupational therapy may help to reduce tremor and improve coordination and muscle control for some individuals. Deep brain stimulation uses a surgically implanted, battery-operated medical device called a neurostimulator to delivery electrical stimulation to targeted areas of the brain that control movement, temporarily blocking the nerve signals that cause tremor. Other surgical intervention is effective but may have side effects.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000122-3" qtype="outlook">What is the outlook for Essential Tremor ?</Question>
+			<Answer>Although essential tremor is not life-threatening, it can make it harder to perform daily tasks and is embarrassing to some people. Tremor frequency may decrease as the person ages, but the severity may increase, affecting the person&apos;s ability to perform certain tasks or activities of daily living. In many people the tremor may be mild throughout life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000122-4" qtype="research">what research (or clinical trials) is being done for Essential Tremor ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke, a unit of the National Institutes of Health (NIH) within the U.S. Department of Health and Human Services, is the nation&apos;s leading federal funder of research on disorders of the brain and nervous system. The NINDS sponsors research on tremor both at its facilities at the NIH and through grants to medical centers.
+                
+Scientists at the NINDS are evaluating the effectiveness of 1-octanol, a substance similar to alcohol but less intoxicating, for treating essential tremor. Results of two previous NIH studies have shown this agent to be promising as a potential new treatment.
+                
+Scientists are also studying the effectiveness of botulinum toxin as a treatment for a variety of involuntary movement disorders, including essential tremor of the hand.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

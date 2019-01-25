@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000323" source="GHR" url="https://ghr.nlm.nih.gov/condition/episodic-ataxia">
+<Focus>episodic ataxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1720189</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>EA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000323-1" qtype="information">What is (are) episodic ataxia ?</Question>
+			<Answer>Episodic ataxia is a group of related conditions that affect the nervous system and cause problems with movement. People with episodic ataxia have recurrent episodes of poor coordination and balance (ataxia). During these episodes, many people also experience dizziness (vertigo), nausea and vomiting, migraine headaches, blurred or double vision, slurred speech, and ringing in the ears (tinnitus). Seizures, muscle weakness, and paralysis affecting one side of the body (hemiplegia) may also occur during attacks. Additionally, some affected individuals have a muscle abnormality called myokymia during or between episodes. This abnormality can cause muscle cramping, stiffness, and continuous, fine muscle twitching that appears as rippling under the skin.  Episodes of ataxia and other symptoms can begin anytime from early childhood to adulthood. They can be triggered by environmental factors such as emotional stress, caffeine, alcohol, certain medications, physical activity, and illness. The frequency of attacks ranges from several per day to one or two per year. Between episodes, some affected individuals continue to experience ataxia, which may worsen over time, as well as involuntary eye movements called nystagmus.  Researchers have identified at least seven types of episodic ataxia, designated type 1 through type 7. The types are distinguished by their pattern of signs and symptoms, age of onset, length of attacks, and, when known, genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000323-2" qtype="frequency">How many people are affected by episodic ataxia ?</Question>
+			<Answer>Episodic ataxia is uncommon, affecting less than 1 in 100,000 people. Only types 1 and 2 have been identified in more than one family, and type 2 is by far the most common form of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000323-3" qtype="genetic changes">What are the genetic changes related to episodic ataxia ?</Question>
+			<Answer>Episodic ataxia can be caused by mutations in several genes that play important roles in the nervous system. Three of these genes, KCNA1, CACNA1A, and CACNB4, provide instructions for making proteins that are involved in the transport of charged atoms (ions) across cell membranes. The movement of these ions is critical for normal signaling between nerve cells (neurons) in the brain and other parts of the nervous system. Mutations in the KCNA1, CACNA1A, and CACNB4 genes are responsible for episodic ataxia types 1, 2, and 5, respectively.  Mutations in the SLC1A3 gene have been found to cause episodic ataxia type 6. This gene provides instructions for making a protein that transports a brain chemical (neurotransmitter) called glutamate. Neurotransmitters, including glutamate, allow neurons to communicate by relaying chemical signals from one neuron to another.  Researchers believe that mutations in the KCNA1, CACNA1A, CACNB4, and SLC1A3 genes alter the transport of ions and glutamate in the brain, which causes certain neurons to become overexcited and disrupts normal communication between these cells. Although changes in chemical signaling in the brain underlie the recurrent attacks seen in people with episodic ataxia, it is unclear how mutations in these genes cause the specific features of the disorder.  The genetic causes of episodic ataxia types 3, 4, and 7 have not been identified. Researchers are looking for additional genes that can cause episodic ataxia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000323-4" qtype="inheritance">Is episodic ataxia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000323-5" qtype="treatment">What are the treatments for episodic ataxia ?</Question>
+			<Answer>These resources address the diagnosis or management of episodic ataxia:  - Consortium for Clinical Investigations of Neurological Channelopathies (CINCH)  - Gene Review: Gene Review: Episodic Ataxia Type 1  - Gene Review: Gene Review: Episodic Ataxia Type 2  - Genetic Testing Registry: Episodic ataxia type 1  - Genetic Testing Registry: Episodic ataxia type 2  - Genetic Testing Registry: Episodic ataxia, type 3  - Genetic Testing Registry: Episodic ataxia, type 4  - Genetic Testing Registry: Episodic ataxia, type 7  - MedlinePlus Encyclopedia: Movement - uncoordinated  - MedlinePlus Encyclopedia: Vertigo-associated disorders   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

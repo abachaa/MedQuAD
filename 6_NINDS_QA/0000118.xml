@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000118" source="NINDS" url="http://www.ninds.nih.gov/disorders/encephalopathy/encephalopathy.htm">
+<Focus>Encephalopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085584</CUI>
+			<CUI>C1963101</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000118-1" qtype="information">What is (are) Encephalopathy ?</Question>
+			<Answer>Encephalopathy is a term for any diffuse disease of the brain that alters brain function or structure. Encephalopathy may be caused by infectious agent (bacteria, virus, or prion), metabolic or mitochondrial dysfunction, brain tumor or increased pressure in the skull, prolonged exposure to toxic elements (including solvents, drugs, radiation, paints, industrial chemicals, and certain metals), chronic progressive trauma, poor nutrition, or lack of oxygen or blood flow to the brain. The hallmark of encephalopathy is an altered mental state. Depending on the type and severity of encephalopathy, common neurological symptoms are progressive loss of memory and cognitive ability, subtle personality changes, inability to concentrate, lethargy, and progressive loss of consciousness. Other neurological symptoms may include myoclonus (involuntary twitching of a muscle or group of muscles), nystagmus (rapid, involuntary eye movement), tremor, muscle atrophy and weakness, dementia, seizures, and loss of ability to swallow or speak. Blood tests, spinal fluid examination, imaging studies, electroencephalograms, and similar diagnostic studies may be used to differentiate the various causes of encephalopathy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000118-2" qtype="treatment">What are the treatments for Encephalopathy ?</Question>
+			<Answer>Treatment is symptomatic and varies, according to the type and severity of the encephalopathy. Your physician can provide specific instructions for proper care and treatment. Anticonvulsants may be prescribed to reduce or halt any seizures. Changes to diet and nutritional supplements may help some patients. In severe cases, dialysis or organ replacement surgery may be needed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000118-3" qtype="outlook">What is the outlook for Encephalopathy ?</Question>
+			<Answer>Treating the underlying cause of the disorder may improve symptoms. However, the encephalopathy may cause permanent structural changes and irreversible damage to the brain. Some encephalopathies can be fatal.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000118-4" qtype="research">what research (or clinical trials) is being done for Encephalopathy ?</Question>
+			<Answer>The NINDS supports and conducts research on brain diseases. Much of this research is aimed at characterizing the agents that cause these disorders, clarifying the mechanisms underlying them, and, ultimately, finding ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

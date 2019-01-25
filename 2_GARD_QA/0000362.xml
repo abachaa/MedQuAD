@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000362" source="GARD" url="https://rarediseases.info.nih.gov/gard/5816/aniridia">
+<Focus>Aniridia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003076</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000362-1" qtype="information">What is (are) Aniridia ?</Question>
+			<Answer>References National LIbrary of Medicine. Aniridia. Genetics Home Reference. June 2009; http://ghr.nlm.nih.gov/condition/aniridia. Accessed 3/30/2011. Hingorani M, Moore A. Aniridia. GeneReviews. August 12, 2008; http://www.ncbi.nlm.nih.gov/books/NBK1360/. Accessed 3/30/2011.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000362-2" qtype="symptoms">What are the symptoms of Aniridia ?</Question>
+			<Answer>What are the signs and symptoms of Aniridia? The Human Phenotype Ontology provides the following list of signs and symptoms for Aniridia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the macula 90% Aplasia/Hypoplasia of the iris 90% Nystagmus 90% Visual impairment 90% Blepharophimosis 50% Cataract 50% Corneal erosion 50% Ectopia lentis 50% Glaucoma 50% Keratoconjunctivitis sicca 50% Opacification of the corneal stroma 50% Optic atrophy 50% Photophobia 50% Ptosis 50% Strabismus 50% Abnormality of the genital system 7.5% Abnormality of the hypothalamus-pituitary axis 7.5% Abnormality of the sense of smell 7.5% Abnormality of the teeth 7.5% Aplasia/Hypoplasia of the corpus callosum 7.5% Cognitive impairment 7.5% Decreased corneal thickness 7.5% Microcornea 7.5% Ocular albinism 7.5% Optic nerve coloboma 7.5% Sensorineural hearing impairment 7.5% Umbilical hernia 7.5% Aniridia - Autosomal dominant inheritance - Hypoplasia of the fovea - Optic nerve hypoplasia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000362-3" qtype="treatment">What are the treatments for Aniridia ?</Question>
+			<Answer>How might aniridia be treated? In childhood, treatment for aniridia focuses on regular eye examinations including necessary corrective lenses, tinted lenses to reduce light sensitivity, and occlusion therapy to address vision abnormalities. Children with Wilms tumor-aniridia-genital anomalies-retardation (WAGR) syndrome require regular renal ultrasounds, hearing tests and evaluation by a pediatric oncologist.  Additional treatment is adapted to each individual depending on the associated complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

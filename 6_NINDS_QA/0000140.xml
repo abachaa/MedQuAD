@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000140" source="NINDS" url="http://www.ninds.nih.gov/disorders/glossopharyngeal_neuralgia/glossopharyngeal_neuralgia.htm">
+<Focus>Glossopharyngeal Neuralgia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0154731</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000140-1" qtype="information">What is (are) Glossopharyngeal Neuralgia ?</Question>
+			<Answer>Glossopharyngeal neuralgia (GN) is a rare pain syndrome that affects the glossopharyngeal nerve (the ninth cranial nerve that lies deep within the neck) and causes sharp, stabbing pulses of pain in the back of the throat and tongue, the tonsils, and the middle ear. The excruciating pain of GN can last for a few seconds to a few minutes, and may return multiple times in a day or once every few weeks. Many individuals with GN relate the attacks of pain to specific trigger factors such as swallowing, drinking cold liquids, sneezing, coughing, talking, clearing the throat, and touching the gums or inside the mouth. GN can be caused by compression of the glossopharyngeal nerve, but in some cases, no cause is evident. Like trigeminal neuralgia, it is associated with multiple sclerosis. GN primarily affects the elderly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000140-2" qtype="treatment">What are the treatments for Glossopharyngeal Neuralgia ?</Question>
+			<Answer>Most doctors will attempt to treat the pain first with drugs. Some individuals respond well to anticonvulsant drugs, such as carbamazepine and gabapentin. Surgical options, including nerve resection, tractotomy, or microvascular decompression, should be considered when individuals either dont respond to, or stop responding to, drug therapy. Surgery is usually successful at ending the cycles of pain, although there may be some sensory loss in the mouth, throat, or tongue.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000140-3" qtype="outlook">What is the outlook for Glossopharyngeal Neuralgia ?</Question>
+			<Answer>Some individuals recover from an initial attack and never have another. Others will experience clusters of attacks followed by periods of short or long remission. Individuals may lose weight if they fear that chewing, drinking, or eating will cause an attack.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000140-4" qtype="research">what research (or clinical trials) is being done for Glossopharyngeal Neuralgia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes at the National Institutes of Health conduct research related to GN and support additional research through grants to major research institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders such as GN.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

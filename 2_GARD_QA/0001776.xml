@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001776" source="GARD" url="https://rarediseases.info.nih.gov/gard/8317/dendritic-cell-tumor">
+<Focus>Dendritic cell tumor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1531553</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dendritic cell neoplasm</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001776-1" qtype="information">What is (are) Dendritic cell tumor ?</Question>
+			<Answer>A dendritic cell tumor develops from the cells of the immune system.  This condition typically begins in the lymph system and may spread to nearby organs or distant parts of the body (metastasize).  There are five subtypes of dendritic cell tumors: follicular dendritic cell tumor, interdigitating dendritic cell tumor, Langerhans&apos; cell histiocytosis, Langerhans&apos; cell sarcoma, and dendritic cell sarcoma not specified otherwise.  The symptoms and severity of the condition depend on the subtype and location of the tumor.  Treatment may include surgery, radiation therapy, and/or chemotherapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

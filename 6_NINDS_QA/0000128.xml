@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000128" source="NINDS" url="http://www.ninds.nih.gov/disorders/febrile_seizures/febrile_seizures.htm">
+<Focus>Febrile Seizures</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009952</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000128-1" qtype="information">What is (are) Febrile Seizures ?</Question>
+			<Answer>Febrile seizures are convulsions or seizures in infants or small children that are brought on by a fever. Most often during a febrile seizure, a child loses consciousness and shakes uncontrollably. Less commonly, a child becomes rigid or has twitches in only a portion of the body. Most febrile seizures last a minute or two; some can be as brief as a few seconds, while others may last for more than 15 minutes. Approximately one in every 25 children will have at least one febrile seizure. Febrile seizures usually occur in children between the ages of 6 months and 5 years, with the risk peaking in the second year of life. The older a child is when the first febrile seizure occurs, the less likely that child is to have more. A few factors appear to boost a child&apos;s risk of having recurrent febrile seizures, including young age (less than 18 months) during the first seizures and having immediate family members with a history of febrile seizures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000128-2" qtype="treatment">What are the treatments for Febrile Seizures ?</Question>
+			<Answer>A child who has a febrile seizure usually doesn&apos;t need to be hospitalized. If the seizure is prolonged or is accompanied by a serious infection, or if the source of the infection cannot be determined, a doctor may recommend that the child be hospitalized for observation. Prolonged daily use of anti-seizure medicines is usually not recommended because of their potential for harmful side effects. Children especially prone to febrile seizures may be treated with medication when they have a fever to lower the risk of having another febrile seizure.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000128-3" qtype="outlook">What is the outlook for Febrile Seizures ?</Question>
+			<Answer>The vast majority of febrile seizures are short and harmless. There is no evidence that short febrile seizures cause brain damage. Multiple or prolonged seizures are a risk factor for epilepsy but most children who experience febrile seizures do not go on to develop the reoccurring seizures that re characteristic of epilepsy. Certain children who have febrile seizures face an increased risk of developing epilepsy. These children include those who have a febrile seizure that lasts longer than 10 minutes, who have febrile seizures that are lengthy or affect only one part of the body, or experience seizures that reoccur within 24 hours..</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000128-4" qtype="research">what research (or clinical trials) is being done for Febrile Seizures ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research on seizures at its research center in Bethesda, Maryland, and through grants to major medical institutions across the country. NINDS-supported scientists are exploring environmental, biological, and genetic risk factors that might make children susceptible to febrile seizures. Investigators continue to monitor the long-term impact that febrile seizures might have on intelligence, behavior, school achievement, and the development of epilepsy. Investigators also continue to explore which drugs can effectively treat or prevent febrile seizures, and to identify factors that may cause a child who has prolonged febrile seizures to develop temporal lobe epilepsy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

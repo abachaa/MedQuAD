@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000414" source="GHR" url="https://ghr.nlm.nih.gov/condition/glucose-galactose-malabsorption">
+<Focus>glucose-galactose malabsorption</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268186</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>carbohydrate intolerance</Synonym>
+		<Synonym>complex carbohydrate intolerance</Synonym>
+		<Synonym>GGM</Synonym>
+		<Synonym>monosaccharide malabsorption</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000414-1" qtype="information">What is (are) glucose-galactose malabsorption ?</Question>
+			<Answer>Glucose-galactose malabsorption is a condition in which the cells lining the intestine cannot take in the sugars glucose and galactose, which prevents proper digestion of these molecules and larger molecules made from them.  Glucose and galactose are called simple sugars, or monosaccharides. Sucrose (table sugar) and lactose (the sugar found in milk) are called disaccharides because they are made from two simple sugars, and are broken down into these simple sugars during digestion. Sucrose is broken down into glucose and another simple sugar called fructose, and lactose is broken down into glucose and galactose. As a result, lactose, sucrose and other compounds made from sugar molecules (carbohydrates) cannot be digested by individuals with glucose-galactose malabsorption.  Glucose-galactose malabsorption generally becomes apparent in the first few weeks of a baby&apos;s life. Affected infants experience severe diarrhea resulting in life-threatening dehydration, increased acidity of the blood and tissues (acidosis), and weight loss when fed breast milk or regular infant formulas. However, they are able to digest fructose-based formulas that do not contain glucose or galactose. Some affected children are better able to tolerate glucose and galactose as they get older.  Small amounts of glucose in the urine (mild glucosuria) may occur intermittently in this disorder. Affected individuals may also develop kidney stones or more widespread deposits of calcium within the kidneys.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000414-2" qtype="frequency">How many people are affected by glucose-galactose malabsorption ?</Question>
+			<Answer>Glucose-galactose malabsorption is a rare disorder; only a few hundred cases have been identified worldwide. However, as many as 10 percent of the population may have a somewhat reduced capacity for glucose absorption without associated health problems. This condition may be a milder variation of glucose-galactose malabsorption.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000414-3" qtype="genetic changes">What are the genetic changes related to glucose-galactose malabsorption ?</Question>
+			<Answer>Mutations in the SLC5A1 gene cause glucose-galactose malabsorption.  The SLC5A1 gene provides instructions for producing a sodium/glucose cotransporter protein called SGLT1. This protein is found mainly in the intestinal tract and, to a lesser extent, in the kidneys, where it is involved in transporting glucose and the structurally similar galactose across cell membranes.  The sodium/glucose cotransporter protein is important in the functioning of intestinal epithelial cells, which are cells that line the walls of the intestine. These cells have fingerlike projections called microvilli that absorb nutrients from food as it passes through the intestine. Based on their appearance, groups of these microvilli are known collectively as the brush border. The sodium/glucose cotransporter protein is involved in the process of using energy to move glucose and galactose across the brush border membrane for absorption, a mechanism called active transport. Sodium and water are transported across the brush border along with the sugars in this process.  Mutations that prevent the sodium/glucose cotransporter protein from performing this function result in a buildup of glucose and galactose in the intestinal tract. This failure of active transport prevents the glucose and galactose from being absorbed and providing nourishment to the body. In addition, the water that normally would have been transported across the brush border with the sugar instead remains in the intestinal tract to be expelled with the stool, resulting in dehydration of the body&apos;s tissues and severe diarrhea.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000414-4" qtype="inheritance">Is glucose-galactose malabsorption inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition. In some cases, individuals with one altered gene have reduced levels of glucose absorption capacity as measured in laboratory tests, but this has not generally been shown to have significant health effects.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000414-5" qtype="treatment">What are the treatments for glucose-galactose malabsorption ?</Question>
+			<Answer>These resources address the diagnosis or management of glucose-galactose malabsorption:  - Genetic Testing Registry: Congenital glucose-galactose malabsorption   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

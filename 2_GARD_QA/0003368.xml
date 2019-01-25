@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003368" source="GARD" url="https://rarediseases.info.nih.gov/gard/6824/keratoconus">
+<Focus>Keratoconus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022578</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Noninflammatory corneal thining</Synonym>
+		<Synonym>KC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003368-1" qtype="information">What is (are) Keratoconus ?</Question>
+			<Answer>Keratoconus is the degeneration of the structure of the cornea, which is the clear tissue covering the front of the eye. In this condition, the shape of the cornea slowly changes from the normal round shape to a cone shape. Most people who develop keratoconus start out nearsighted, which tends to become worse over time. The earliest symptom is a slight blurring of vision that cannot be corrected with glasses. Over time, there may be eye halos, glare, or other night vision problems.The cause is unknown, but the tendency to develop keratoconus is probably present from birth. Keratoconus is thought to involve a defect in collagen, the tissue that makes up most of the cornea. Some researchers believe that allergy and eye rubbing may play a role. Treatment for keratoconus depends on the severity of your condition and how quickly the condition is progressing. Mild to moderate keratoconus can be treated with eyeglasses or contact lenses. In some people the cornea becomes scarred or wearing contact lenses becomes difficult. In these cases, surgery might be necessary.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003368-2" qtype="symptoms">What are the symptoms of Keratoconus ?</Question>
+			<Answer>What are the signs and symptoms of Keratoconus? The Human Phenotype Ontology provides the following list of signs and symptoms for Keratoconus. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Astigmatism - Autosomal dominant inheritance - Heterogeneous - Keratoconus - Young adult onset - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003368-3" qtype="treatment">What are the treatments for Keratoconus ?</Question>
+			<Answer>What causes keratoconus? The exact cause of keratoconus is unknown. Both genetic and environmental factors may play a role in the development of keratoconus. The genetic factors involve abnormalities in the structure of collagen, which result in a weak and flexible cornea. Keratoconus is more common in people with Down syndrome, Marfan syndrome, and Leber congenital amaurosis, and certain genetic conditions. In these cases, the cause depends on the specific condition.  Environmental factors may include living in sunny, hot areas of the world, while eye-rubbing is a major behavioral factor in the disease. Malfunctioning enzymes that normally help maintain the health of the cornea may play a role. All of these factors contribute to the main problem in keratoconus, which is the defective collagen structure that results in thinning and irregularity of the cornea. Keratoconus occurs more frequently in patients with atopy (asthma and eczema) or severe ocular allergies. It may also be linked to hormonal factors because it is more frequent during puberty and also may progress during pregnancy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000056" source="GHR" url="https://ghr.nlm.nih.gov/condition/androgenetic-alopecia">
+<Focus>androgenetic alopecia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162311</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>androgenic alopecia</Synonym>
+		<Synonym>female pattern baldness</Synonym>
+		<Synonym>male pattern alopecia</Synonym>
+		<Synonym>male pattern baldness</Synonym>
+		<Synonym>pattern baldness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000056-1" qtype="information">What is (are) androgenetic alopecia ?</Question>
+			<Answer>Androgenetic alopecia is a common form of hair loss in both men and women. In men, this condition is also known as male-pattern baldness. Hair is lost in a well-defined pattern, beginning above both temples. Over time, the hairline recedes to form a characteristic &quot;M&quot; shape. Hair also thins at the crown (near the top of the head), often progressing to partial or complete baldness.  The pattern of hair loss in women differs from male-pattern baldness. In women, the hair becomes thinner all over the head, and the hairline does not recede. Androgenetic alopecia in women rarely leads to total baldness.  Androgenetic alopecia in men has been associated with several other medical conditions including coronary heart disease and enlargement of the prostate. Additionally, prostate cancer, disorders of insulin resistance (such as diabetes and obesity), and high blood pressure (hypertension) have been related to androgenetic alopecia. In women, this form of hair loss is associated with an increased risk of polycystic ovary syndrome (PCOS). PCOS is characterized by a hormonal imbalance that can lead to irregular menstruation, acne, excess hair elsewhere on the body (hirsutism), and weight gain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000056-2" qtype="frequency">How many people are affected by androgenetic alopecia ?</Question>
+			<Answer>Androgenetic alopecia is a frequent cause of hair loss in both men and women. This form of hair loss affects an estimated 50 million men and 30 million women in the United States. Androgenetic alopecia can start as early as a person&apos;s teens and risk increases with age; more than 50 percent of men over age 50 have some degree of hair loss. In women, hair loss is most likely after menopause.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000056-3" qtype="genetic changes">What are the genetic changes related to androgenetic alopecia ?</Question>
+			<Answer>A variety of genetic and environmental factors likely play a role in causing androgenetic alopecia. Although researchers are studying risk factors that may contribute to this condition, most of these factors remain unknown. Researchers have determined that this form of hair loss is related to hormones called androgens, particularly an androgen called dihydrotestosterone. Androgens are important for normal male sexual development before birth and during puberty. Androgens also have other important functions in both males and females, such as regulating hair growth and sex drive.  Hair growth begins under the skin in structures called follicles. Each strand of hair normally grows for 2 to 6 years, goes into a resting phase for several months, and then falls out. The cycle starts over when the follicle begins growing a new hair. Increased levels of androgens in hair follicles can lead to a shorter cycle of hair growth and the growth of shorter and thinner strands of hair. Additionally, there is a delay in the growth of new hair to replace strands that are shed.  Although researchers suspect that several genes play a role in androgenetic alopecia, variations in only one gene, AR, have been confirmed in scientific studies. The AR gene provides instructions for making a protein called an androgen receptor. Androgen receptors allow the body to respond appropriately to dihydrotestosterone and other androgens. Studies suggest that variations in the AR gene lead to increased activity of androgen receptors in hair follicles. It remains unclear, however, how these genetic changes increase the risk of hair loss in men and women with androgenetic alopecia.  Researchers continue to investigate the connection between androgenetic alopecia and other medical conditions, such as coronary heart disease and prostate cancer in men and polycystic ovary syndrome in women. They believe that some of these disorders may be associated with elevated androgen levels, which may help explain why they tend to occur with androgen-related hair loss. Other hormonal, environmental, and genetic factors that have not been identified also may be involved.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000056-4" qtype="inheritance">Is androgenetic alopecia inherited ?</Question>
+			<Answer>The inheritance pattern of androgenetic alopecia is unclear because many genetic and environmental factors are likely to be involved. This condition tends to cluster in families, however, and having a close relative with patterned hair loss appears to be a risk factor for developing the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000056-5" qtype="treatment">What are the treatments for androgenetic alopecia ?</Question>
+			<Answer>These resources address the diagnosis or management of androgenetic alopecia:  - Genetic Testing Registry: Baldness, male pattern  - MedlinePlus Encyclopedia: Female Pattern Baldness  - MedlinePlus Encyclopedia: Hair Loss  - MedlinePlus Encyclopedia: Male Pattern Baldness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

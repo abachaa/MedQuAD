@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002443" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000675.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Low white blood cell count and cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006826</CUI>
+			<CUI>C0948695</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Neutropenia and cancer</Synonym>
+		<Synonym>Absolute neutrophil count and cancer</Synonym>
+		<Synonym>ANC and cancer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002443-1" qtype="information">What is (are) Low white blood cell count and cancer ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002443-4" qtype="prevention">How to prevent Low white blood cell count and cancer ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002443-5" qtype="when to contact a medical professional">Do I need to see a doctor for Low white blood cell count and cancer ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

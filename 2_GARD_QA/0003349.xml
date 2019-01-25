@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003349" source="GARD" url="https://rarediseases.info.nih.gov/gard/6814/kaposi-sarcoma">
+<Focus>Kaposi sarcoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036220</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Kaposi's sarcoma</Synonym>
+		<Synonym>Mediterranean Kaposi sarcoma</Synonym>
+		<Synonym>Non AIDS related Kaposi sarcoma</Synonym>
+		<Synonym>Human herpesvirus 8</Synonym>
+		<Synonym>HHV8</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003349-1" qtype="information">What is (are) Kaposi sarcoma ?</Question>
+			<Answer>Kaposi sarcoma (KS) is a cancer that develops from the cells that line lymph or blood vessels. It usually appears as tumors on the skin or on mucosal surfaces such as inside the mouth, but tumors can also develop in other parts of the body (including the lymph nodes, lungs, or digestive tract). The abnormal cells of Kaposi sarcoma cause purplish, reddish blue, or dark brown/black skin lesions (macules, nodules, plaques) on the legs and the face. These lesions may look bad, but they usually cause no symptoms. However, when the lesions are in the lungs, liver, or digestive tract, they may cause serious problems like gastrointestinal bleeding or trouble breathing. Kaposi sarcoma is caused by infection with a virus called the Kaposi sarcoma associated herpesvirus (KSHV), also known as human herpesvirus 8 (HHV8). Kaposi sarcoma is classified into four types based upon the different populations in which it develops: classic (which presents in middle or old age), endemic (described in sub-Saharan indigenous Africans), iatrogenic (associated with immunosuppressive drug therapy) and AIDS-associated (epidemic KS). Options for treatment may include local therapy, radiation therapy, chemotherapy and biologic therapy (immunotherapy). The main aim is to restore immunity.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003349-2" qtype="symptoms">What are the symptoms of Kaposi sarcoma ?</Question>
+			<Answer>What are the signs and symptoms of Kaposi sarcoma? The Human Phenotype Ontology provides the following list of signs and symptoms for Kaposi sarcoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Hepatomegaly 90% Splenomegaly 90% Abdominal pain 50% Chest pain 50% Abnormal blistering of the skin 7.5% Abnormal immunoglobulin level 7.5% Abnormality of temperature regulation 7.5% Abnormality of the pleura 7.5% Anemia 7.5% Arthritis 7.5% Ascites 7.5% Diabetes mellitus 7.5% Erectile abnormalities 7.5% Generalized hyperpigmentation 7.5% Glomerulopathy 7.5% Gynecomastia 7.5% Hypertrichosis 7.5% Hypothyroidism 7.5% Lymphadenopathy 7.5% Lymphedema 7.5% Peripheral neuropathy 7.5% Proteinuria 7.5% Renal insufficiency 7.5% Secondary amenorrhea 7.5% Skin rash 7.5% Subcutaneous hemorrhage 7.5% Tapered finger 7.5% Thrombocytopenia 7.5% Weight loss 7.5% Autosomal dominant inheritance - Edema - Hypermelanotic macule - Neoplasm - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

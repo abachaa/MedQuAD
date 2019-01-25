@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000436" source="GARD" url="https://rarediseases.info.nih.gov/gard/10278/aquagenic-pruritus">
+<Focus>Aquagenic pruritus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0406409</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000436-1" qtype="information">What is (are) Aquagenic pruritus ?</Question>
+			<Answer>Aquagenic pruritus is a condition in which contact with water of any temperature causes intense itching without any visible skin changes. The symptoms may begin immediately after contact with water and can last for an hour or more. The cause of aquagenic pruritus is unknown; however, familial cases have been described. The symptoms of the condition are similar to those seen in patients with other conditions; therefore, a thorough evaluation should be performed to rule out other more serious conditions. Overall, treatment is a challenge. Antihistamines, UVB phototherapy, PUVA therapy and various medications have been tried with varying success.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000436-2" qtype="symptoms">What are the symptoms of Aquagenic pruritus ?</Question>
+			<Answer>What symptoms are observed in patients who have aquagenic pruritus? Aquagenic pruritus causes intense itching in the parts of the body that come in contact with water without an associated rash. The head, palms, soles, and mucosa are usually not affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000436-3" qtype="causes">What causes Aquagenic pruritus ?</Question>
+			<Answer>What causes aquagenic pruritus? The exact cause of aquagenic pruritus is unknown, but increased mast cell degranulation (release of granules rich in histamine and other compounds into the body by mast cells, a special type of cell that plays a role in the immune system), increased circulating histamine, release of acetylcholine (a chemical in the body which sends signals from nerves to muscles and between nerves in the brain), and increased skin fibrinolytic activity (activity that controls clot size by promoting the breakdown of clots) have all been named as possible causes of the condition. In some cases, it appears to be a symptom of polycythemia vera.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000436-4" qtype="exams and tests">How to diagnose Aquagenic pruritus ?</Question>
+			<Answer>How is aquagenic pruritus diagnosed? Criteria for diagnosis include : Severe itching, prickling, stinging, or burning that consistently develops after skin contact with water, regardless of water temperature or salinity; Lack of visible skin manifestations; Reaction within minutes of exposure and lasting anywhere between 10 minutes to 2 hours; Lack of a other skin disease, internal condition, or medication to account for the reaction; and Exclusion of all other physical urticarias, symptomatic dermographism, and polycythemia vera.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000436-5" qtype="treatment">What are the treatments for Aquagenic pruritus ?</Question>
+			<Answer>What treatment has been attempted in patients who have aquagenic pruritus? The underlying cause of aquagenic pruritus is not well understood which complicates the decision about what therapy might be best for treatment. Various options have been tried with varying success. Antihistamines are the mainstay of treatment. Other therapies that have been tried include adding adding sodium bicarbonate to bath water, topical capsaicin, selective serotonin reuptake inhibitors, UVB phototherapy, PUVA therapy, naltrexone, propranolol, and atenolol.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

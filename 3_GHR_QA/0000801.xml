@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000801" source="GHR" url="https://ghr.nlm.nih.gov/condition/pmm2-congenital-disorder-of-glycosylation">
+<Focus>PMM2-congenital disorder of glycosylation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242354</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>carbohydrate-deficient glycoprotein syndrome type Ia</Synonym>
+		<Synonym>CDG Ia</Synonym>
+		<Synonym>CDG1a</Synonym>
+		<Synonym>CDGS1a</Synonym>
+		<Synonym>congenital disorder of glycosylation type Ia</Synonym>
+		<Synonym>Jaeken syndrome</Synonym>
+		<Synonym>phosphomannomutase 2 deficiency</Synonym>
+		<Synonym>PMM deficiency</Synonym>
+		<Synonym>PMM2-CDG</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000801-1" qtype="information">What is (are) PMM2-congenital disorder of glycosylation ?</Question>
+			<Answer>PMM2-congenital disorder of glycosylation (PMM2-CDG, also known as congenital disorder of glycosylation type Ia) is an inherited condition that affects many parts of the body. The type and severity of problems associated with PMM2-CDG vary widely among affected individuals, sometimes even among members of the same family.  Individuals with PMM2-CDG typically develop signs and symptoms of the condition during infancy. Affected infants may have weak muscle tone (hypotonia), retracted (inverted) nipples, an abnormal distribution of fat, eyes that do not look in the same direction (strabismus), developmental delay, and a failure to gain weight and grow at the expected rate (failure to thrive). Infants with PMM2-CDG also frequently have an underdeveloped cerebellum, which is the part of the brain that coordinates movement. Distinctive facial features are sometimes present in affected individuals, including a high forehead, a triangular face, large ears, and a thin upper lip. Children with PMM2-CDG may also have elevated liver function test results, seizures, fluid around the heart (pericardial effusion), and blood clotting disorders. About 20 percent of affected infants do not survive the first year of life due to multiple organ failure.  The most severe cases of PMM2-CDG are characterized by hydrops fetalis, a condition in which excess fluid builds up in the body before birth. Most babies with hydrops fetalis are stillborn or die soon after birth.  People with PMM2-CDG who survive infancy may have moderate intellectual disability, and some are unable to walk independently. Affected individuals may also experience stroke-like episodes that involve an extreme lack of energy (lethargy) and temporary paralysis. Recovery from these episodes usually occurs over a period of a few weeks to several months.  During adolescence or adulthood, individuals with PMM2-CDG have reduced sensation and weakness in their arms and legs (peripheral neuropathy), an abnormal curvature of the spine (kyphoscoliosis), impaired muscle coordination (ataxia), and joint deformities (contractures). Some affected individuals have an eye disorder called retinitis pigmentosa that causes vision loss. Females with PMM2-CDG have hypergonadotropic hypogonadism, which affects the production of hormones that direct sexual development. As a result, females with PMM2-CDG do not go through puberty. Affected males experience normal puberty but often have small testes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000801-2" qtype="frequency">How many people are affected by PMM2-congenital disorder of glycosylation ?</Question>
+			<Answer>More than 800 individuals with PMM2-CDG have been identified worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000801-3" qtype="genetic changes">What are the genetic changes related to PMM2-congenital disorder of glycosylation ?</Question>
+			<Answer>PMM2-CDG is caused by mutations in the PMM2 gene. This gene provides instructions for making an enzyme called phosphomannomutase 2 (PMM2). The PMM2 enzyme is involved in a process called glycosylation, which attaches groups of sugar molecules (oligosaccharides) to proteins. Glycosylation modifies proteins so they can perform a wider variety of functions. Mutations in the PMM2 gene lead to the production of an abnormal PMM2 enzyme with reduced activity. Without a properly functioning PMM2 enzyme, glycosylation cannot proceed normally. As a result, incorrect oligosaccharides are produced and attached to proteins. The wide variety of signs and symptoms in PMM2-CDG are likely due to the production of abnormally glycosylated proteins in many organs and tissues.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000801-4" qtype="inheritance">Is PMM2-congenital disorder of glycosylation inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000801-5" qtype="treatment">What are the treatments for PMM2-congenital disorder of glycosylation ?</Question>
+			<Answer>These resources address the diagnosis or management of PMM2-CDG:  - Gene Review: Gene Review: PMM2-CDG (CDG-Ia)  - Genetic Testing Registry: Carbohydrate-deficient glycoprotein syndrome type I   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

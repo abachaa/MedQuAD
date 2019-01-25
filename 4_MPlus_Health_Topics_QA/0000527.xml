@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000527" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/ischemicstroke.html">
+<Focus>Ischemic Stroke</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0948008</CUI>
+			<CUI>C3272363</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Embolic Stroke</Synonym>
+		<Synonym>Thrombotic stroke</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000527-1" qtype="information">What is (are) Ischemic Stroke ?</Question>
+			<Answer>A stroke is a medical emergency. There are two types - ischemic and hemorrhagic. Ischemic stroke is the most common type. It is usually caused by a blood clot that blocks or plugs a blood vessel in the brain. This keeps blood from flowing to the brain. Within minutes, brain cells begin to die. Another cause is stenosis, or narrowing of the artery. This can happen because of atherosclerosis, a disease in which plaque builds up inside your arteries. Transient ischemic attacks (TIAs) occur when the blood supply to the brain is interrupted briefly. Having a TIA can mean you are at risk for having a more serious stroke.    Symptoms of stroke are       - Sudden numbness or weakness of the face, arm or leg (especially on one side of the body)    - Sudden confusion, trouble speaking or understanding speech    - Sudden trouble seeing in one or both eyes    - Sudden trouble walking, dizziness, loss of balance or coordination    - Sudden severe headache with no known cause       It is important to treat strokes as quickly as possible. Blood thinners may be used to stop a stroke while it is happening by quickly dissolving the blood clot. Post-stroke rehabilitation can help people overcome disabilities caused by stroke damage.    NIH: National Institute of Neurological Disorders and Stroke</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

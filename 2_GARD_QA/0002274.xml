@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002274" source="GARD" url="https://rarediseases.info.nih.gov/gard/2837/familial-isolated-hyperparathyroidism">
+<Focus>Familial isolated hyperparathyroidism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1840402</CUI>
+			<CUI>C1864729</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hyperparathyroidism 1</Synonym>
+		<Synonym>HRPT1</Synonym>
+		<Synonym>Hyperparathyroidism, familial isolated primary</Synonym>
+		<Synonym>FIHP</Synonym>
+		<Synonym>Familial primary hyperparathyroidism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002274-1" qtype="information">What is (are) Familial isolated hyperparathyroidism ?</Question>
+			<Answer>Familial isolated hyperparathyroidism (FIHP) is an inherited form of primary hyperparathyroidism that is not associated with other features. The age of diagnosis varies from childhood to adulthood. In FIHP, tumors involving the parathyroid glands cause the production and release of excess parathyroid hormone, which in turn causes increased calcium in the blood (hypercalcemia). The tumors are usually benign, but a cancerous tumor can develop in rare cases. Abnormal levels of calcium cause many of the symptoms of FIHP, including kidney stones, nausea, vomiting, high blood pressure (hypertension), weakness, and fatigue. Osteoporosis often also develops. FIHP may be caused by mutations in the MEN1, CDC73 (also known as the HRPT2 gene), or CASR genes and is typically inherited in an autosomal dominant manner. In some cases, the cause is unknown. Mutations in the MEN1 and CDC73 genes cause other conditions in which hyperparathyroidism is one of many features, but some people with mutations in these genes have only isolated hyperparathyroidism. FIHP can also represent an early stage of other syndromes. Treatment for FIHP often includes surgical removal of the affected gland(s).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002274-2" qtype="symptoms">What are the symptoms of Familial isolated hyperparathyroidism ?</Question>
+			<Answer>What are the signs and symptoms of Familial isolated hyperparathyroidism? The Human Phenotype Ontology provides the following list of signs and symptoms for Familial isolated hyperparathyroidism. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Hypercalcemia - Primary hyperparathyroidism - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002274-3" qtype="inheritance">Is Familial isolated hyperparathyroidism inherited ?</Question>
+			<Answer>How is familial isolated hyperparathyroidism inherited? Familial isolated hyperparathyroidism (FIHP) is typically inherited in an autosomal dominant manner. This means that having only one changed (mutated) copy of the responsible gene in each cell is enough to cause signs or symptoms of the condition. When a person with an autosomal dominant condition has children, each child has a 50% (1 in 2) chance to inherit the mutated copy of the gene from the affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002274-4" qtype="exams and tests">How to diagnose Familial isolated hyperparathyroidism ?</Question>
+			<Answer>How is familial isolated hyperparathyroidism diagnosed? The diagnosis of familial isolated hyperparathyroidism (FIHP) is primarily a diagnosis of exclusion. This means that it is diagnosed when no symptoms or genetic features of other forms of familial hyperparathyroidism are present. FIHP may be the only feature of another condition that is not manifesting completely, or it may be a distinct condition due to mutations in genes that have not yet been identified. Clinical exams, laboratory tests, and histological (microscopic) findings are needed before making a diagnosis of FIHP. A diagnosis of FIHP may include the findings of: hypercalcemia (defined as a serum calcium level greater than 10.5 mg/dL) inappropriately high parathyroid hormone (PTH) concentrations parathyroid adenomas exclusion of multiple endocrine neoplasia type 1 (MEN 1) and hyperparathyroidism-jaw tumor syndrome (HPT-JT) In the majority of people with FIHP, genetic mutations are not found. However, in some people, mutations in the MEN1, CASR, and CDC73 (HRPT2) genes have been reported. At this time, no gene has been associated exclusively with FIHP.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

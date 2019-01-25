@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000167" source="NINDS" url="http://www.ninds.nih.gov/disorders/joubert/joubert.htm">
+<Focus>Joubert Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0431399</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000167-1" qtype="information">What is (are) Joubert Syndrome ?</Question>
+			<Answer>Joubert syndrome is a rare brain malformation characterized by the absence or underdevelopment of the cerebellar vermis- an area of the brain that controls balance and coordination -- as well as a malformed brain stem (molar tooth sign). The most common features of Joubert syndrome in infants include abnormally rapid breathing (hyperpnea), decreased muscle tone (hypotonia), abnormal eye movements, impaired intellectual development, and the inability to coordinate voluntary muscle movements (ataxia). Physical deformities may be present, such as extra fingers and toes (polydactyly), cleft lip or palate, and tongue abnormalities. Kidney and liver abnormalities can develop, and seizures may also occur. Many cases of Joubert syndrome appear to be sporadic (not inherited). In most other cases, Joubert syndrome is inherited in an autosomal recessive manner (meaning both parents must have a copy of the mutation) via mutation in at least 10 different genes, including NPHP1, AHI1, and CEP290.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000167-2" qtype="treatment">What are the treatments for Joubert Syndrome ?</Question>
+			<Answer>Treatment for Joubert syndrome is symptomatic and supportive. Infant stimulation and physical, occupational, and speech therapy may benefit some children. Infants with abnormal breathing patterns should be monitored. Screening for progressive eye, liver, and kidney complications associated with Joubert-related disorders should be performed on a regular basis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000167-3" qtype="outlook">What is the outlook for Joubert Syndrome ?</Question>
+			<Answer>The prognosis for infants with Joubert syndrome depends on whether or not the cerebellar vermis is partially developed or entirely absent, as well as on the extent and severity of other organ involvement, such as the kidneys and liver. Some children have a mild form of the disorder, with minimal motor disability and good mental development, while others may have severe motor disability, moderate impaired mental development, and multi-organ impairments.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000167-4" qtype="research">what research (or clinical trials) is being done for Joubert Syndrome ?</Question>
+			<Answer>The NINDS supports research on the development of the nervous system and the cerebellum. This research is critical for increasing our understanding of Joubert syndrome, and for developing methods of treatment and prevention. NINDS, in conjunction with the NIH Office of Rare Disorders, sponsored a symposium on Joubert syndrome in 2002. Research priorities for the disorder were outlined at this meeting.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

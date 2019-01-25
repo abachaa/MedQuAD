@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002799" source="GARD" url="https://rarediseases.info.nih.gov/gard/2650/heparin-induced-thrombocytopenia">
+<Focus>Heparin-induced thrombocytopenia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0272285</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HIT</Synonym>
+		<Synonym>Heparin-induced thrombocytopenia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002799-1" qtype="information">What is (are) Heparin-induced thrombocytopenia ?</Question>
+			<Answer>Heparin-induced thrombocytopenia (HIT) is an adverse reaction to the drug heparin resulting in an abnormally low amount of platelets (thrombocytopenia). HIT is usually an immune response which typically occurs 4-10 days after exposure to heparin; it can lead to serious complications and be life-threatening. This condition occurs in up to 5% of those who are exposed to heparin. Characteristic signs of HIT are a drop in platelet count of  greater than 50% and/or the formation of new blood clots during heparin therapy.  The first step of treatment is to discontinue and avoid all heparin products immediately. Often, affected individuals require another medicine to prevent blood clotting (anticoagulants).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

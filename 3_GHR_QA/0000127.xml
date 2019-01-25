@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000127" source="GHR" url="https://ghr.nlm.nih.gov/condition/bjornstad-syndrome">
+<Focus>Bjrnstad syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bjornstad syndrome</Synonym>
+		<Synonym>BJS</Synonym>
+		<Synonym>deafness and pili torti, Bjornstad type</Synonym>
+		<Synonym>pili torti and nerve deafness</Synonym>
+		<Synonym>pili torti-deafness syndrome</Synonym>
+		<Synonym>pili torti-sensorineural hearing loss</Synonym>
+		<Synonym>PTD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000127-1" qtype="information">What is (are) Bjrnstad syndrome ?</Question>
+			<Answer>Bjrnstad syndrome is a rare disorder characterized by abnormal hair and hearing problems. Affected individuals have a condition known as pili torti, which means &quot;twisted hair,&quot; so named because the strands appear twisted when viewed under a microscope. The hair is brittle and breaks easily, leading to short hair that grows slowly. In Bjrnstad syndrome, pili torti usually affects only the hair on the head; eyebrows, eyelashes, and hair on other parts of the body are normal. The proportion of hairs affected and the severity of brittleness and breakage can vary. This hair abnormality commonly begins before the age of 2. It may become milder with age, particularly after puberty.  People with Bjrnstad syndrome also have hearing problems that become evident in early childhood. The hearing loss, which is caused by changes in the inner ear (sensorineural deafness), can range from mild to severe. Mildly affected individuals may be unable to hear sounds at certain frequencies, while severely affected individuals may not be able to hear at all.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000127-2" qtype="frequency">How many people are affected by Bjrnstad syndrome ?</Question>
+			<Answer>Bjrnstad syndrome is a rare condition, although its prevalence is unknown. It has been found in populations worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000127-3" qtype="genetic changes">What are the genetic changes related to Bjrnstad syndrome ?</Question>
+			<Answer>Bjrnstad syndrome is caused by mutations in the BCS1L gene. The protein produced from this gene is found in cell structures called mitochondria, which convert the energy from food into a form that cells can use. In mitochondria, the BCS1L protein plays a role in oxidative phosphorylation, which is a multistep process through which cells derive much of their energy. The BCS1L protein is critical for the formation of a group of proteins known as complex III, which is one of several protein complexes involved in this process. As a byproduct of its action in oxidative phosphorylation, complex III produces reactive oxygen species, which are harmful molecules that can damage DNA and tissues.  BCS1L gene mutations involved in Bjrnstad syndrome alter the BCS1L protein and impair its ability to aid in complex III formation. The resulting decrease in complex III activity reduces oxidative phosphorylation. For unknown reasons, overall production of reactive oxygen species is increased, although production by complex III is reduced. Researchers believe that tissues in the inner ears and hair follicles are particularly sensitive to reactive oxygen species and are damaged by the abnormal amount of these molecules, leading to the characteristic features of Bjrnstad syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000127-4" qtype="inheritance">Is Bjrnstad syndrome inherited ?</Question>
+			<Answer>Bjrnstad syndrome is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000127-5" qtype="treatment">What are the treatments for Bjrnstad syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Bjrnstad syndrome:  - Centers for Disease Control and Prevention: Hearing Loss in Children: Screening and Diagnosis  - Genetic Testing Registry: Pili torti-deafness syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

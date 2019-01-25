@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000086" source="NINDS" url="http://www.ninds.nih.gov/disorders/corticobasal_degeneration/corticobasal_degeneration.htm">
+<Focus>Corticobasal Degeneration</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393570</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000086-1" qtype="information">What is (are) Corticobasal Degeneration ?</Question>
+			<Answer>Corticobasal degeneration is a progressive neurological disorder characterized by nerve cell loss and atrophy (shrinkage) of multiple areas of the brain including the cerebral cortex and the basal ganglia. Corticobasal degeneration progresses gradually. Initial symptoms, which typically begin at or around age 60, may first appear on one side of the body (unilateral), but eventually affect both sides as the disease progresses. Symptoms are similar to those found in Parkinson disease, such as poor coordination, akinesia (an absence of movements), rigidity (a resistance to imposed movement), disequilibrium (impaired balance); and limb dystonia (abnormal muscle postures). Other symptoms such as cognitive and visual-spatial impairments, apraxia (loss of the ability to make familiar, purposeful movements), hesitant and halting speech, myoclonus (muscular jerks), and dysphagia (difficulty swallowing) may also occur. An individual with corticobasal degeneration eventually becomes unable to walk.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000086-2" qtype="treatment">What are the treatments for Corticobasal Degeneration ?</Question>
+			<Answer>There is no treatment available to slow the course of corticobasal degeneration, and the symptoms of the disease are generally resistant to therapy. Drugs used to treat Parkinson disease-type symptoms do not produce any significant or sustained improvement. Clonazepam may help the myoclonus. Occupational, physical, and speech therapy can help in managing disability.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000086-3" qtype="outlook">What is the outlook for Corticobasal Degeneration ?</Question>
+			<Answer>Corticobasal degeneration usually progresses slowly over the course of 6 to 8 years. Death is generally caused by pneumonia or other complications of severe debility such as sepsis or pulmonary embolism.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000086-4" qtype="research">what research (or clinical trials) is being done for Corticobasal Degeneration ?</Question>
+			<Answer>The NINDS supports and conducts research studies on degenerative disorders such as corticobasal degeneration. The goals of these studies are to increase scientific understanding of these disorders and to find ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

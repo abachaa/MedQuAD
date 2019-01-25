@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000524" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/intestinalobstruction.html">
+<Focus>Intestinal Obstruction</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0021843</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bowel obstruction</Synonym>
+		<Synonym>Intestinal volvulus</Synonym>
+		<Synonym>Paralytic ileus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000524-1" qtype="information">What is (are) Intestinal Obstruction ?</Question>
+			<Answer>An intestinal obstruction occurs when food or stool cannot move through the intestines. The obstruction can be complete or partial. There are many causes. The most common are adhesions, hernias, cancers, and certain medicines.     Symptoms include       - Severe abdominal pain or cramping     - Vomiting     - Bloating     - Loud bowel sounds     - Swelling of the abdomen     - Inability to pass gas     - Constipation       A complete intestinal obstruction is a medical emergency. It often requires surgery.    NIH: National Institute of Diabetes and Digestive and Kidney Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

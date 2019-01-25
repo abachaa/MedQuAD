@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000210" source="GHR" url="https://ghr.nlm.nih.gov/condition/complement-factor-i-deficiency">
+<Focus>complement factor I deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3463916</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>C3 inactivator deficiency</Synonym>
+		<Synonym>complement component 3 inactivator deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000210-1" qtype="information">What is (are) complement factor I deficiency ?</Question>
+			<Answer>Complement factor I deficiency is a disorder that affects the immune system. People with this condition are prone to recurrent infections, including infections of the upper respiratory tract, ears, skin, and urinary tract. They may also contract more serious infections such as pneumonia, meningitis, and sepsis, which may be life-threatening.  Some people with complement factor I deficiency have a kidney disorder called glomerulonephritis with isolated C3 deposits. Complement factor I deficiency can also be associated with autoimmune disorders such as rheumatoid arthritis or systemic lupus erythematosus (SLE). Autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s tissues and organs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000210-2" qtype="frequency">How many people are affected by complement factor I deficiency ?</Question>
+			<Answer>Complement factor I deficiency is a rare disorder; its exact prevalence is unknown. At least 38 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000210-3" qtype="genetic changes">What are the genetic changes related to complement factor I deficiency ?</Question>
+			<Answer>Complement factor I deficiency is caused by mutations in the CFI gene. This gene provides instructions for making a protein called complement factor I. This protein helps regulate a part of the body&apos;s immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues. This system must be carefully regulated so it targets only unwanted materials and does not attack the body&apos;s healthy cells. Complement factor I and several related proteins protect healthy cells by preventing activation of the complement system when it is not needed.  Mutations in the CFI gene that cause complement factor I deficiency result in abnormal, nonfunctional, or absent complement factor I. The lack (deficiency) of functional complement factor I protein allows uncontrolled activation of the complement system. The unregulated activity of the complement system decreases blood levels of another complement protein called C3, reducing the immune system&apos;s ability to fight infections. In addition, the immune system may malfunction and attack its own tissues, resulting in autoimmune disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000210-4" qtype="inheritance">Is complement factor I deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000210-5" qtype="treatment">What are the treatments for complement factor I deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of complement factor I deficiency:  - MedlinePlus Encyclopedia: Complement   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

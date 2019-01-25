@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000993" source="GHR" url="https://ghr.nlm.nih.gov/condition/triosephosphate-isomerase-deficiency">
+<Focus>triosephosphate isomerase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1860808</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deficiency of phosphotriose isomerase</Synonym>
+		<Synonym>hereditary nonspherocytic hemolytic anemia due to triosephosphate isomerase deficiency</Synonym>
+		<Synonym>TPI deficiency</Synonym>
+		<Synonym>TPID</Synonym>
+		<Synonym>triose phosphate isomerase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000993-1" qtype="information">What is (are) triosephosphate isomerase deficiency ?</Question>
+			<Answer>Triosephosphate isomerase deficiency is a disorder characterized by a shortage of red blood cells (anemia), movement problems, increased susceptibility to infection, and muscle weakness that can affect breathing and heart function.  The anemia in this condition begins in infancy. Since the anemia results from the premature breakdown of red blood cells (hemolysis), it is known as hemolytic anemia. A shortage of red blood cells to carry oxygen throughout the body leads to extreme tiredness (fatigue), pale skin (pallor), and shortness of breath. When the red cells are broken down, iron and a molecule called bilirubin are released; individuals with triosephosphate isomerase deficiency have an excess of these substances circulating in the blood. Excess bilirubin in the blood causes jaundice, which is a yellowing of the skin and the whites of the eyes.  Movement problems typically become apparent by age 2 in people with triosephosphate isomerase deficiency. The movement problems are caused by impairment of motor neurons, which are specialized nerve cells in the brain and spinal cord that control muscle movement. This impairment leads to muscle weakness and wasting (atrophy) and causes the movement problems typical of triosephosphate isomerase deficiency, including involuntary muscle tensing (dystonia), tremors, and weak muscle tone (hypotonia). Affected individuals may also develop seizures.  Weakness of other muscles, such as the heart (a condition known as cardiomyopathy) and the muscle that separates the abdomen from the chest cavity (the diaphragm) can also occur in triosephosphate isomerase deficiency. Diaphragm weakness can cause breathing problems and ultimately leads to respiratory failure.  Individuals with triosephosphate isomerase deficiency are at increased risk of developing infections because they have poorly functioning white blood cells. These immune system cells normally recognize and attack foreign invaders, such as viruses and bacteria, to prevent infection. The most common infections in people with triosephosphate isomerase deficiency are bacterial infections of the respiratory tract.  People with triosephosphate isomerase deficiency often do not survive past childhood due to respiratory failure. In a few rare cases, affected individuals without severe nerve damage or muscle weakness have lived into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000993-2" qtype="frequency">How many people are affected by triosephosphate isomerase deficiency ?</Question>
+			<Answer>Triosephosphate isomerase deficiency is likely a rare condition; approximately 40 cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000993-3" qtype="genetic changes">What are the genetic changes related to triosephosphate isomerase deficiency ?</Question>
+			<Answer>Mutations in the TPI1 gene cause triosephosphate isomerase deficiency. This gene provides instructions for making an enzyme called triosephosphate isomerase 1. This enzyme is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy for cells.  TPI1 gene mutations lead to the production of unstable enzymes or enzymes with decreased activity. As a result, glycolysis is impaired and cells have a decreased supply of energy. Red blood cells depend solely on the breakdown of glucose for energy, and without functional glycolysis, red blood cells die earlier than normal. Cells with high energy demands, such as nerve cells in the brain, white blood cells, and heart (cardiac) muscle cells are also susceptible to cell death due to reduced energy caused by impaired glycolysis. Nerve cells in the part of the brain involved in coordinating movements (the cerebellum) are particularly affected in people with triosephosphate isomerase deficiency.  Death of red and white blood cells, nerve cells in the brain, and cardiac muscle cells leads to the signs and symptoms of triosephosphate isomerase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000993-4" qtype="inheritance">Is triosephosphate isomerase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000993-5" qtype="treatment">What are the treatments for triosephosphate isomerase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of triosephosphate isomerase deficiency:  - Genetic Testing Registry: Triosephosphate isomerase deficiency  - MedlinePlus Encyclopedia: Hemolytic Anemia  - National Heart, Lung, and Blood Institute: How is Hemolytic Anemia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

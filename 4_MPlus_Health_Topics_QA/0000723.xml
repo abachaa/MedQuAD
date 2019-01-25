@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000723" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/pneumonia.html">
+<Focus>Pneumonia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032285</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bronchopneumonia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000723-1" qtype="information">What is (are) Pneumonia ?</Question>
+			<Answer>Pneumonia is an infection in one or both of the lungs. Many germs, such as bacteria, viruses, and fungi, can cause pneumonia. You can also get pneumonia by inhaling a liquid or chemical. People most at risk are older than 65 or younger than 2 years of age, or already have health problems.    Symptoms of pneumonia vary from mild to severe. See your doctor promptly if you       - Have a high fever    - Have shaking chills    - Have a cough with phlegm that doesn&apos;t improve or gets worse    - Develop shortness of breath with normal daily activities    - Have chest pain when you breathe or cough    - Feel suddenly worse after a cold or the flu       Your doctor will use your medical history, a physical exam, and lab tests to diagnose pneumonia. Treatment depends on what kind you have. If bacteria are the cause, antibiotics should help. If you have viral pneumonia, your doctor may prescribe an antiviral medicine to treat it.    Preventing pneumonia is always better than treating it. Vaccines are available to prevent pneumococcal pneumonia and the flu. Other preventive measures include washing your hands frequently and not smoking.    NIH: National Heart, Lung, and Blood Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

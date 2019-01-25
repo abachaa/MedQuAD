@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000796" source="GHR" url="https://ghr.nlm.nih.gov/condition/phosphoribosylpyrophosphate-synthetase-superactivity">
+<Focus>phosphoribosylpyrophosphate synthetase superactivity</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1970827</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>gout, PRPS-related</Synonym>
+		<Synonym>PRPP synthetase overactivity</Synonym>
+		<Synonym>PRPP synthetase superactivity</Synonym>
+		<Synonym>PRPS1 superactivity</Synonym>
+		<Synonym>PRS overactivity</Synonym>
+		<Synonym>PRS superactivity</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000796-1" qtype="information">What is (are) phosphoribosylpyrophosphate synthetase superactivity ?</Question>
+			<Answer>Phosphoribosylpyrophosphate synthetase superactivity (PRS superactivity) is characterized by the overproduction and accumulation of uric acid (a waste product of normal chemical processes) in the blood and urine. The overproduction of uric acid can lead to gout, which is arthritis caused by an accumulation of uric acid crystals in the joints. Individuals with PRS superactivity also develop kidney or bladder stones that may result in episodes of acute kidney failure.  There are two forms of PRS superactivity, a severe form that begins in infancy or early childhood, and a milder form that typically appears in late adolescence or early adulthood. In both forms, a kidney or bladder stone is often the first symptom. Gout and impairment of kidney function may develop if the condition is not adequately controlled with medication and dietary restrictions. People with the severe form may also have neurological problems, including hearing loss caused by changes in the inner ear (sensorineural hearing loss), weak muscle tone (hypotonia), impaired muscle coordination (ataxia), and developmental delay.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000796-2" qtype="frequency">How many people are affected by phosphoribosylpyrophosphate synthetase superactivity ?</Question>
+			<Answer>PRS superactivity is believed to be a rare disorder. Approximately 30 families with the condition have been reported. More than two thirds of these families are affected by the milder form of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000796-3" qtype="genetic changes">What are the genetic changes related to phosphoribosylpyrophosphate synthetase superactivity ?</Question>
+			<Answer>Certain mutations in the PRPS1 gene cause PRS superactivity. The PRPS1 gene provides instructions for making an enzyme called phosphoribosyl pyrophosphate synthetase 1, or PRPP synthetase 1. This enzyme helps produce a molecule called phosphoribosyl pyrophosphate (PRPP). PRPP is involved in producing purine and pyrimidine nucleotides. These nucleotides are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. PRPP synthetase 1 and PRPP also play a key role in recycling purines from the breakdown of DNA and RNA, a faster and more efficient way of making purines available.  In people with the more severe form of PRS superactivity, PRPS1 gene mutations change single protein building blocks (amino acids) in the PRPP synthetase 1 enzyme, resulting in a poorly regulated, overactive enzyme. In the milder form of PRS superactivity, the PRPS1 gene is overactive for reasons that are not well understood. PRPS1 gene overactivity increases the production of normal PRPP synthetase 1 enzyme, which increases the availability of PRPP. In both forms of the disorder, excessive amounts of purines are generated.  Under these conditions, uric acid, a waste product of purine breakdown, accumulates in the body. A buildup of uric acid crystals can cause gout, kidney stones, and bladder stones. It is unclear how PRPS1 gene mutations are related to the neurological problems associated with the severe form of PRS superactivity.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000796-4" qtype="inheritance">Is phosphoribosylpyrophosphate synthetase superactivity inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell sometimes causes the disorder.  In most reported cases, affected individuals have inherited the mutation from a parent who carries an altered copy of the PRPS1 gene. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons. PRS superactivity may also result from new mutations in the PRPS1 gene and can occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000796-5" qtype="treatment">What are the treatments for phosphoribosylpyrophosphate synthetase superactivity ?</Question>
+			<Answer>These resources address the diagnosis or management of PRS superactivity:  - Gene Review: Gene Review: Phosphoribosylpyrophosphate Synthetase Superactivity  - Genetic Testing Registry: Phosphoribosylpyrophosphate synthetase superactivity  - MedlinePlus Encyclopedia: Hearing Loss  - MedlinePlus Encyclopedia: Movement, Uncoordinated   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

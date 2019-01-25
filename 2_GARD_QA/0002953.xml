@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002953" source="GARD" url="https://rarediseases.info.nih.gov/gard/10263/hydatidiform-mole">
+<Focus>Hydatidiform mole</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3463897</CUI>
+			<CUI>C0020217</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HYDM</Synonym>
+		<Synonym>Hydatid mole</Synonym>
+		<Synonym>Molar pregnancy</Synonym>
+		<Synonym>Gestational trophoblastic tumor</Synonym>
+		<Synonym>Recurrent hydatidiform mole</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002953-1" qtype="information">What is (are) Hydatidiform mole ?</Question>
+			<Answer>Molar pregnancy is a condition in which the placenta does not develop properly. The symptoms of molar pregnancy, which may include vaginal bleeding, severe morning sickness, stomach cramps, and high blood pressure, typically begin around the 10th week of pregnancy. Because the embryo does not form or is malformed in molar pregnancies, and because there is a small risk of developing a cancer called choriocarcinoma, a D&amp;C is usually performed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002953-2" qtype="symptoms">What are the symptoms of Hydatidiform mole ?</Question>
+			<Answer>What are the signs and symptoms of Hydatidiform mole? The Human Phenotype Ontology provides the following list of signs and symptoms for Hydatidiform mole. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the menstrual cycle 90% Anemia 90% Nausea and vomiting 90% Spontaneous abortion 90% Toxemia of pregnancy 90% Hyperthyroidism 7.5% Abnormality of the genitourinary system - Autosomal recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

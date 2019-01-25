@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003501" source="GARD" url="https://rarediseases.info.nih.gov/gard/6867/lchad-deficiency">
+<Focus>LCHAD deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1969443</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Long-chain 3-hydroxyacyl-coenzyme A dehydrogenase deficiency</Synonym>
+		<Synonym>Long-chain 3-hydroxy acyl CoA dehydrogenase deficiency</Synonym>
+		<Synonym>Long-chain 3-OH acyl-CoA dehydrogenase deficiency</Synonym>
+		<Synonym>Trifunctional protein deficiency type 1</Synonym>
+		<Synonym>3-hydroxyacyl-CoA dehydrogenase long chain deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003501-1" qtype="information">What is (are) LCHAD deficiency ?</Question>
+			<Answer>LCHAD deficiency, or long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency, is a mitochondrial condition that prevents the body from converting certain fats to energy, particularly during periods without food (fasting). Signs and symptoms typically appear during infancy or early childhood and can include feeding difficulties, lack of energy, low blood sugar (hypoglycemia), weak muscle tone (hypotonia), liver problems, and abnormalities in the retina. Later in childhood, people with this condition may experience muscle pain, breakdown of muscle tissue, and peripheral neuropathy. Individuals with LCHAD deficiency are also at risk for serious heart problems, breathing difficulties, coma, and sudden death. This condition is inherited in an autosomal recessive pattern and is caused by mutations in the HADHA gene.[OMIM]</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003501-2" qtype="symptoms">What are the symptoms of LCHAD deficiency ?</Question>
+			<Answer>What are the signs and symptoms of LCHAD deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for LCHAD deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cardiomyopathy - Hepatomegaly - Hypoglycemia - Long chain 3 hydroxyacyl coA dehydrogenase deficiency - Muscular hypotonia - Pigmentary retinopathy - Sudden death - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000382" source="GHR" url="https://ghr.nlm.nih.gov/condition/fragile-x-associated-primary-ovarian-insufficiency">
+<Focus>fragile X-associated primary ovarian insufficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085215</CUI>
+			<CUI>C0041408</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FMR1-related primary ovarian insufficiency</Synonym>
+		<Synonym>FXPOI</Synonym>
+		<Synonym>premature ovarian failure 1</Synonym>
+		<Synonym>X-linked hypergonadotropic ovarian failure</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000382-1" qtype="information">What is (are) fragile X-associated primary ovarian insufficiency ?</Question>
+			<Answer>Fragile X-associated primary ovarian insufficiency (FXPOI) is a condition that affects women and is characterized by reduced function of the ovaries. The ovaries are the female reproductive organs in which egg cells are produced. As a form of primary ovarian insufficiency, FXPOI can cause irregular menstrual cycles, early menopause, an inability to have children (infertility), and elevated levels of a hormone known as follicle stimulating hormone (FSH). FSH is produced in both males and females and helps regulate the development of reproductive cells (eggs in females and sperm in males). In females, the level of FSH rises and falls, but overall it increases as a woman ages. In younger women, elevated levels may indicate early menopause and fertility problems.  The severity of FXPOI is variable. The most severely affected women have overt POI (formerly called premature ovarian failure). These women have irregular or absent menstrual periods and elevated FSH levels before age 40. Overt POI often causes infertility. Other women have occult POI; they have normal menstrual periods but reduced fertility, and they may have elevated levels of FSH (in which case, it is called biochemical POI). The reduction in ovarian function caused by FXPOI results in low levels of the hormone estrogen, which leads to many of the common signs and symptoms of menopause, such as hot flashes, insomnia, and thinning of the bones (osteoporosis). Women with FXPOI undergo menopause an average of 5 years earlier than women without the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000382-2" qtype="frequency">How many people are affected by fragile X-associated primary ovarian insufficiency ?</Question>
+			<Answer>An estimated 1 in 200 females has the genetic change that leads to FXPOI, although only about a quarter of them develop the condition. FXPOI accounts for about 4 to 6 percent of all cases of primary ovarian insufficiency in women.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000382-3" qtype="genetic changes">What are the genetic changes related to fragile X-associated primary ovarian insufficiency ?</Question>
+			<Answer>Mutations in the FMR1 gene increase a woman&apos;s risk of developing FXPOI. The FMR1 gene provides instructions for making a protein called FMRP, which helps regulate the production of other proteins. This protein plays a role in the functioning of nerve cells. It is also important for normal ovarian function, although the role is not fully understood.  Women with FXPOI have a mutation in which a DNA segment, known as a CGG triplet repeat, is expanded within the FMR1 gene. Normally, this DNA segment is repeated from 5 to about 40 times. In women with FXPOI, however, the CGG segment is repeated 55 to 200 times. This mutation is known as an FMR1 gene premutation. Some studies show that women with about 44 to 54 CGG repeats, known as an intermediate (or gray zone) mutation, can also have features of FXPOI. An expansion of more than 200 repeats, a full mutation, causes a more serious disorder called fragile X syndrome, which is characterized by intellectual disability, learning problems, and certain physical features.  For unknown reasons, the premutation leads to the overproduction of abnormal FMR1 mRNA that contains the expanded repeat region. The FMR1 mRNA is the genetic blueprint for FMRP. Researchers believe that the high levels of mRNA cause the signs and symptoms of FXPOI. It is thought that the mRNA attaches to other proteins and keeps them from performing their functions. In addition, the repeats make producing FMRP from the blueprint more difficult, and as a result, people with the FMR1 gene premutation can have less FMRP than normal. A reduction of this protein is not thought to be involved in FXPOI. However, it may cause mild versions of the features seen in fragile X syndrome, such as prominent ears, anxiety, and mood swings.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000382-4" qtype="inheritance">Is fragile X-associated primary ovarian insufficiency inherited ?</Question>
+			<Answer>An increased risk of developing FXPOI is inherited in an X-linked dominant pattern. The FMR1 gene is located on the X chromosome, which is one of the two sex chromosomes. (The Y chromosome is the other sex chromosome.) The inheritance is dominant because one copy of the altered gene in each cell is sufficient to elevate the risk of developing FXPOI. In females (who have two X chromosomes), a mutation in one of the two copies of a gene in each cell can lead to the disorder. However, not all women who inherit an FMR1 premutation will develop FXPOI. Because males do not have ovaries, they are unaffected.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000382-5" qtype="treatment">What are the treatments for fragile X-associated primary ovarian insufficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of FXPOI:  - Gene Review: Gene Review: FMR1-Related Disorders  - Genetic Testing Registry: Premature ovarian failure 1   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

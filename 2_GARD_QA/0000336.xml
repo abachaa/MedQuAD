@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000336" source="GARD" url="https://rarediseases.info.nih.gov/gard/5803/androgen-insensitivity-syndrome">
+<Focus>Androgen insensitivity syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0936016</CUI>
+			<CUI>C0039585</CUI>
+			<CUI>C0237677</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AIS</Synonym>
+		<Synonym>Testicular feminization syndrome (formerly)</Synonym>
+		<Synonym>DHTR deficiency</Synonym>
+		<Synonym>Androgen receptor deficiency</Synonym>
+		<Synonym>Dihydrotestosterone receptor deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000336-1" qtype="information">What is (are) Androgen insensitivity syndrome ?</Question>
+			<Answer>Androgen insensitivity syndrome is a condition that affects sexual development before birth and during puberty. People with this condition are genetically male, with one X chromosome and one Y chromosome in each cell. Because their bodies are unable to respond to certain male sex hormones (called androgens), they may have some physical traits of a woman. Androgen insensitivity syndrome is caused by mutations in the AR gene and is inherited in an X-linked recessive pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000336-2" qtype="symptoms">What are the symptoms of Androgen insensitivity syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Androgen insensitivity syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Androgen insensitivity syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal hair quantity 90% Abnormality of female internal genitalia 90% Cryptorchidism 90% Decreased fertility 90% Male pseudohermaphroditism 90% Hernia of the abdominal wall 50% Testicular neoplasm 7.5% Absent facial hair - Elevated follicle stimulating hormone - Elevated luteinizing hormone - Female external genitalia in individual with 46,XY karyotype - Growth abnormality - Gynecomastia - Inguinal hernia - Neoplasm - Primary amenorrhea - Sparse axillary hair - Sparse pubic hair - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000427" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/healthcheckup.html">
+<Focus>Health Checkup</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0260860</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Annual checkup</Synonym>
+		<Synonym>Annual physical examination</Synonym>
+		<Synonym>Routine physical examination</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000427-1" qtype="information">What is (are) Health Checkup ?</Question>
+			<Answer>Regular health exams and tests can help find problems before they start. They also can help find problems early, when your chances for treatment and cure are better. Which exams and screenings you need depends on your age, health and family history, and lifestyle choices such as what you eat, how active you are, and whether you smoke.    To make the most of your next check-up, here are some things to do before you go:       - Review your family health history    - Find out if you are due for any general screenings or vaccinations    - Write down a list of issues and questions to take with you       Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000027_5" source="CancerGov" url="https://www.cancer.gov/types/breast/patient/breast-screening-pdq">
+<Focus>Breast Cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006142</CUI>
+			<CUI>C0678222</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000027_5-1" qtype="information">What is (are) Breast Cancer ?</Question>
+			<Answer>Key Points
+                    - Breast cancer is a disease in which malignant (cancer) cells form in the tissues of the breast.    - Breast cancer is the second leading cause of death from cancer in American women.    -  Different factors increase or decrease the risk of breast cancer.
+                
+                
+                    Breast cancer is a disease in which malignant (cancer) cells form in the tissues of the breast.
+                    The breast is made up of lobes and ducts. Each breast has 15 to 20 sections called lobes, which have many smaller sections called lobules. Lobules end in dozens of tiny bulbs that can produce milk. The lobes, lobules, and bulbs are linked by thin tubes called ducts.     Each breast also contains blood vessels and lymph vessels. The lymph vessels carry an almost colorless fluid called lymph. Lymph vessels lead to organs called lymph nodes. Lymph nodes are small bean-shaped structures that are found throughout the body. They filter substances in lymph and help fight infection and disease. Clusters of lymph nodes are found near the breast in the axilla (under the arm), above the collarbone, and in the chest.   See the following PDQ summaries for more information about breast cancer:         -  Breast Cancer Prevention     -  Breast Cancer Treatment     -  Genetics of Breast and Gynecologic Cancers
+                
+                
+                    Breast cancer is the second leading cause of death from cancer in American women.
+                    Women in the United States get breast cancer more than any other type of cancer except for skin cancer. Breast cancer is second only to lung cancer as a cause of cancer death in women.    Breast cancer occurs more often in white women than in black women. However, black women are more likely than white women to die from the disease.   Breast cancer occurs in men also, but the number of cases is small.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000027_5-2" qtype="susceptibility">Who is at risk for Breast Cancer? ?</Question>
+			<Answer>Different factors increase or decrease the risk of breast cancer. Anything that increases your chance of getting a disease is called a risk factor. Anything that decreases your chance of getting a disease is called a protective factor.    For information about risk factors and protective factors for breast cancer, see the PDQ summary on Breast Cancer Prevention.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000027_5-4" qtype="research">what research (or clinical trials) is being done for Breast Cancer ?</Question>
+			<Answer>Other screening tests are being studied in clinical trials.
+                    Thermography     Thermography is a procedure in which a special camera that senses heat is used to record the temperature of the skin that covers the breasts. A computer makes a map of the breast showing the changes in temperature. Tumors can cause temperature changes that may show up on the thermogram.     There have been no clinical trials of thermography to find out how well it detects breast cancer or if having the procedure decreases the risk of dying from breast cancer.       Tissue sampling    Breast tissue sampling is taking cells from breast tissue to check under a microscope. Abnormal cells in breast fluid have been linked to an increased risk of breast cancer in some studies. Scientists are studying whether breast tissue sampling can be used to find breast cancer at an early stage or predict the risk of developing breast cancer. Three ways of taking tissue samples are being studied:            -  Fine-needle aspiration: A thin needle is inserted into the breast tissue around the areola (darkened area around the nipple) to take out a sample of cells and fluid.     - Nipple aspiration: The use of gentle suction to collect fluid through the nipple. This is done with a device similar to the breast pumps used by women who are breast-feeding.     -  Ductal lavage: A hair-size catheter (tube) is inserted into the nipple and a small amount of salt water is released into the duct. The water picks up breast cells and is removed.               Screening clinical trials are taking place in many parts of the country. Information about ongoing clinical trials is available from the NCI website.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

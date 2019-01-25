@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004797" source="GARD" url="https://rarediseases.info.nih.gov/gard/4271/pendred-syndrome">
+<Focus>Pendred syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C0271829</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PDS</Synonym>
+		<Synonym>Deafness with goiter</Synonym>
+		<Synonym>Goiter-deafness syndrome</Synonym>
+		<Synonym>Autosomal recessive sensorineural hearing impairment and goiter</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004797-1" qtype="information">What is (are) Pendred syndrome ?</Question>
+			<Answer>Pendred syndrome is a condition usually characterized by sensorineural hearing loss in both ears (bilateral) and euthyroid goiter (enlargement of the thyroid gland with normal thyroid gland function). The amount of hearing loss varies among affected people. In many cases, significant hearing loss is present at birth. In other cases, hearing loss does not develop until later in infancy or childhood. Some people have problems with balance caused by dysfunction of the part of the inner ear that helps with balance and orientation (the vestibular system). Pendred syndrome is inherited in an autosomal recessive manner. Mutations in 3 genes are currently known to cause the condition (SLC26A4, FOXI1, and KCNJ10) and are found in about half of affected people. Other genes responsible for the condition have not yet been identified.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004797-2" qtype="symptoms">What are the symptoms of Pendred syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Pendred syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Pendred syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Sensorineural hearing impairment 90% Goiter 50% Hypothyroidism 50% Cognitive impairment 7.5% Hyperparathyroidism 7.5% Incoordination 7.5% Neoplasm of the thyroid gland 7.5% Nephropathy 7.5% Neurological speech impairment 7.5% Respiratory insufficiency 7.5% Tracheal stenosis 7.5% Vertigo 7.5% Abnormality of metabolism/homeostasis - Autosomal recessive inheritance - Cochlear malformation - Compensated hypothyroidism - Congenital sensorineural hearing impairment - Intellectual disability - Thyroid carcinoma - Vestibular dysfunction - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004797-3" qtype="inheritance">Is Pendred syndrome inherited ?</Question>
+			<Answer>How is Pendred syndrome inherited? Pendred syndrome is inherited in an autosomal recessive manner. For most autosomal recessive conditions, a person must have 2 changed (mutated) copies of the responsible gene in each cell in order to have the condition. One changed copy of the responsible gene is usually inherited from each parent; the parents are referred to as carriers. Carriers typically do not have signs or symptoms of the condition. When two carriers of an autosomal recessive condition have children, each child has a 25% (1 in 4) chance to be affected, a 50% (1 in 2) chance to be a carrier like each parent, and a 25% chance to not be a carrier and not have the condition. Pendred syndrome can be caused either by having mutations in both copies of the SLC26A4 gene (more commonly), or by having one mutation in the SLC26A4 gene and one mutation in another gene.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

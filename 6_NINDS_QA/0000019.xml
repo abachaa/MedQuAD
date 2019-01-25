@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000019" source="NINDS" url="http://www.ninds.nih.gov/disorders/anencephaly/anencephaly.htm">
+<Focus>Anencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2021655</CUI>
+			<CUI>C0002902</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000019-1" qtype="information">What is (are) Anencephaly ?</Question>
+			<Answer>Anencephaly is a defect in the closure of the neural tube during fetal development. The neural tube is a narrow channel that folds and closes between the 3rd and 4th weeks of pregnancy to form the brain and spinal cord of the embryo. Anencephaly occurs when the &quot;cephalic&quot; or head end of the neural tube fails to close, resulting in the absence of a major portion of the brain, skull, and scalp. Infants with this disorder are born without a forebrain (the front part of the brain) and a cerebrum (the thinking and coordinating part of the brain). The remaining brain tissue is often exposed--not covered by bone or skin. A baby born with anencephaly is usually blind, deaf, unconscious, and unable to feel pain. Although some individuals with anencephaly may be born with a rudimentary brain stem, the lack of a functioning cerebrum permanently rules out the possibility of ever gaining consciousness. Reflex actions such as breathing and responses to sound or touch may occur.
+                
+The cause of anencephaly is unknown. Although it is thought that a mother&apos;s diet and vitamin intake may play a role, scientists believe that many other factors are also involved.
+                
+Recent studies have shown that the addition of folic acid (vitamin B9) to the diet of women of childbearing age may significantly reduce the incidence of neural tube defects. Therefore it is recommended that all women of childbearing age consume 0.4 mg of folic acid daily.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000019-2" qtype="treatment">What are the treatments for Anencephaly ?</Question>
+			<Answer>There is no cure or standard treatment for anencephaly. Treatment is supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000019-3" qtype="outlook">What is the outlook for Anencephaly ?</Question>
+			<Answer>The prognosis for babies born with anencephaly is extremely poor. If the infant is not stillborn, then he or she will usually die within a few hours or days after birth.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000019-4" qtype="research">what research (or clinical trials) is being done for Anencephaly ?</Question>
+			<Answer>Research supported by the NINDS includes studies to understand how the brain and nervous system normally develop. These studies contribute to a greater understanding of neural tube disorders, such as anencephaly, and open promising new avenues to treat and prevent neurological birth defects.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000567" source="GHR" url="https://ghr.nlm.nih.gov/condition/krabbe-disease">
+<Focus>Krabbe disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023521</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diffuse Globoid Body Sclerosis</Synonym>
+		<Synonym>Galactosylceramidase Deficiency Disease</Synonym>
+		<Synonym>Galactosylceramide lipidosis</Synonym>
+		<Synonym>galactosylcerebrosidase deficiency</Synonym>
+		<Synonym>galactosylsphingosine lipidosis</Synonym>
+		<Synonym>GALC deficiency</Synonym>
+		<Synonym>GCL</Synonym>
+		<Synonym>GLD</Synonym>
+		<Synonym>psychosine lipidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000567-1" qtype="information">What is (are) Krabbe disease ?</Question>
+			<Answer>Krabbe disease (also called globoid cell leukodystrophy) is a degenerative disorder that affects the nervous system. It is caused by the shortage (deficiency) of an enzyme called galactosylceramidase. This enzyme deficiency impairs the growth and maintenance of myelin, the protective covering around certain nerve cells that ensures the rapid transmission of nerve impulses. Krabbe disease is part of a group of disorders known as leukodystrophies, which result from the loss of myelin (demyelination). This disorder is also characterized by the abnormal presence of globoid cells, which are globe-shaped cells that usually have more than one nucleus.  The symptoms of Krabbe disease usually begin before the age of 1 year (the infantile form). Initial signs and symptoms typically include irritability, muscle weakness, feeding difficulties, episodes of fever without any sign of infection, stiff posture, and slowed mental and physical development. As the disease progresses, muscles continue to weaken, affecting the infant&apos;s ability to move, chew, swallow, and breathe. Affected infants also experience vision loss and seizures.  Less commonly, onset of Krabbe disease can occur in childhood, adolescence, or adulthood (late-onset forms). Visual problems and walking difficulties are the most common initial symptoms in this form of the disorder, however, signs and symptoms vary considerably among affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000567-2" qtype="frequency">How many people are affected by Krabbe disease ?</Question>
+			<Answer>In the United States, Krabbe disease affects about 1 in 100,000 individuals. A higher incidence (6 cases per 1,000 people) has been reported in a few isolated communities in Israel.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000567-3" qtype="genetic changes">What are the genetic changes related to Krabbe disease ?</Question>
+			<Answer>Mutations in the GALC gene cause Krabbe disease. These mutations cause a deficiency of the enzyme galactosylceramidase. This deficiency leads to a progressive loss of myelin that covers many nerves. Without myelin, nerves in the brain and other parts of the body cannot function properly, leading to the signs and symptoms of Krabbe disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000567-4" qtype="inheritance">Is Krabbe disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000567-5" qtype="treatment">What are the treatments for Krabbe disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Krabbe disease:  - Baby&apos;s First Test  - Gene Review: Gene Review: Krabbe Disease  - Genetic Testing Registry: Galactosylceramide beta-galactosidase deficiency  - MedlinePlus Encyclopedia: Krabbe disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

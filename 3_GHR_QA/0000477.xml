@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000477" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-xanthinuria">
+<Focus>hereditary xanthinuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220988</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>combined deficiency of xanthine dehydrogenase and aldehyde oxidase</Synonym>
+		<Synonym>xanthine dehydrogenase deficiency</Synonym>
+		<Synonym>xanthine oxidase deficiency</Synonym>
+		<Synonym>xanthinuria</Synonym>
+		<Synonym>XDH deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000477-1" qtype="information">What is (are) hereditary xanthinuria ?</Question>
+			<Answer>Hereditary xanthinuria is a condition that most often affects the kidneys. It is characterized by high levels of a compound called xanthine and very low levels of another compound called uric acid in the blood and urine. The excess xanthine can accumulate in the kidneys and other tissues. In the kidneys, xanthine forms tiny crystals that occasionally build up to create kidney stones. These stones can impair kidney function and ultimately cause kidney failure. Related signs and symptoms can include abdominal pain, recurrent urinary tract infections, and blood in the urine (hematuria). Less commonly, xanthine crystals build up in the muscles, causing pain and cramping. In some people with hereditary xanthinuria, the condition does not cause any health problems.  Researchers have described two major forms of hereditary xanthinuria, types I and II. The types are distinguished by the enzymes involved; they have the same signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000477-2" qtype="frequency">How many people are affected by hereditary xanthinuria ?</Question>
+			<Answer>The combined incidence of hereditary xanthinuria types I and II is estimated to be about 1 in 69,000 people worldwide. However, researchers suspect that the true incidence may be higher because some affected individuals have no symptoms and are never diagnosed with the condition. Hereditary xanthinuria appears to be more common in people of Mediterranean or Middle Eastern ancestry. About 150 cases of this condition have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000477-3" qtype="genetic changes">What are the genetic changes related to hereditary xanthinuria ?</Question>
+			<Answer>Hereditary xanthinuria type I is caused by mutations in the XDH gene. This gene provides instructions for making an enzyme called xanthine dehydrogenase. This enzyme is involved in the normal breakdown of purines, which are building blocks of DNA and its chemical cousin, RNA. Specifically, xanthine dehydrogenase carries out the final two steps in the process, including the conversion of xanthine to uric acid (which is excreted in urine and feces). Mutations in the XDH gene reduce or eliminate the activity of xanthine dehydrogenase. As a result, the enzyme is not available to help carry out the last two steps of purine breakdown. Because xanthine is not converted to uric acid, affected individuals have high levels of xanthine and very low levels of uric acid in their blood and urine. The excess xanthine can cause damage to the kidneys and other tissues.  Hereditary xanthinuria type II results from mutations in the MOCOS gene. This gene provides instructions for making an enzyme called molybdenum cofactor sulfurase. This enzyme is necessary for the normal function of xanthine dehydrogenase, described above, and another enzyme called aldehyde oxidase. Mutations in the MOCOS gene prevent xanthine dehydrogenase and aldehyde oxidase from being turned on (activated). The loss of xanthine dehydrogenase activity prevents the conversion of xanthine to uric acid, leading to an accumulation of xanthine in the kidneys and other tissues. The loss of aldehyde oxidase activity does not appear to cause any health problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000477-4" qtype="inheritance">Is hereditary xanthinuria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000477-5" qtype="treatment">What are the treatments for hereditary xanthinuria ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary xanthinuria:  - Genetic Testing Registry: Deficiency of xanthine oxidase  - Genetic Testing Registry: Xanthinuria type 2  - MedlinePlus Encyclopedia: Uric Acid - Blood   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

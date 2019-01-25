@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000075" source="NINDS" url="http://www.ninds.nih.gov/disorders/chorea/chorea.htm">
+<Focus>Chorea</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008489</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000075-1" qtype="information">What is (are) Chorea ?</Question>
+			<Answer>Chorea is an abnormal involuntary movement disorder, one of a group of neurological disorders called dyskinesias, which are caused by overactivity of the neurotransmitter dopamine in the areas of the brain that control movement. Chorea is characterized by brief, irregular contractions that are not repetitive or rhythmic, but appear to flow from one muscle to the next. Chorea often occurs with athetosis, which adds twisting and writhing movements. Chorea is a primary feature of Huntington&apos;s disease, a progressive, hereditary movement disorder that appears in adults, but it may also occur in a variety of other conditions. Syndenham&apos;s chorea occurs in a small percentage (20 percent) of children and adolescents as a complication of rheumatic fever. Chorea can also be induced by drugs (levodopa, anti-convulsants, and anti-psychotics) metabolic and endocrine disorders, and vascular incidents.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000075-2" qtype="treatment">What are the treatments for Chorea ?</Question>
+			<Answer>There is no standard course of treatment for chorea. Treatment depends on the type of chorea and the associated disease. Treatment for Huntington&apos;s disease is supportive, while treatment for Syndenham&apos;s chorea usually involves antibiotic drugs to treat the infection, followed by drug therapy to prevent recurrence. Adjusting medication dosages can treat drug-induced chorea. Metabolic and endocrine-related choreas are treated according to the cause(s) of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000075-3" qtype="outlook">What is the outlook for Chorea ?</Question>
+			<Answer>The prognosis for individuals with chorea varies depending on the type of chorea and the associated disease. Huntington&apos;s disease is a progressive, and ultimately, fatal disease. Syndenham&apos;s chorea is treatable and curable.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000075-4" qtype="research">what research (or clinical trials) is being done for Chorea ?</Question>
+			<Answer>The NINDS supports research on movement disorders such as chorea. The goals of this research are to increase understanding of these disorders and to find ways to prevent and treat them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

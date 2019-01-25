@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000188" source="GHR" url="https://ghr.nlm.nih.gov/condition/chylomicron-retention-disease">
+<Focus>chylomicron retention disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0795956</CUI>
+			<CUI>C0080274</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anderson disease</Synonym>
+		<Synonym>Anderson syndrome</Synonym>
+		<Synonym>CMRD</Synonym>
+		<Synonym>hypobetalipoproteinemia with accumulation of apolipoprotein B-like protein in intestinal cells</Synonym>
+		<Synonym>lipid transport defect of intestine</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000188-1" qtype="information">What is (are) chylomicron retention disease ?</Question>
+			<Answer>Chylomicron retention disease is an inherited disorder that affects the absorption of dietary fats, cholesterol, and certain fat-soluble vitamins. As food is digested after a meal, molecules called chylomicrons are formed to carry fat and cholesterol from the intestine into the bloodstream. Chylomicrons are also necessary for the absorption of certain fat-soluble vitamins, such as vitamin E and vitamin D. A lack of chylomicron transport causes severely decreased absorption (malabsorption) of dietary fats and fat-soluble vitamins. Sufficient levels of fats, cholesterol, and vitamins are necessary for normal growth and development.  The signs and symptoms of chylomicron retention disease appear in the first few months of life. They can include failure to gain weight and grow at the expected rate (failure to thrive); diarrhea; and fatty, foul-smelling stools (steatorrhea). Other features of this disorder may develop later in childhood and often impair the function of the nervous system. Affected people may eventually develop decreased reflexes (hyporeflexia) and a decreased ability to feel vibrations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000188-2" qtype="frequency">How many people are affected by chylomicron retention disease ?</Question>
+			<Answer>Chylomicron retention disease is a rare condition with approximately 40 cases described worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000188-3" qtype="genetic changes">What are the genetic changes related to chylomicron retention disease ?</Question>
+			<Answer>Mutations in the SAR1B gene cause chylomicron retention disease. The SAR1B gene provides instructions for making a protein that is involved in transporting chylomicrons within enterocytes, which are cells that line the intestine and absorb nutrients.  SAR1B gene mutations impair the release of chylomicrons into the bloodstream. A lack of chylomicrons in the blood prevents dietary fats and fat-soluble vitamins from being used by the body, leading to the nutritional and developmental problems seen in people with chylomicron retention disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000188-4" qtype="inheritance">Is chylomicron retention disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000188-5" qtype="treatment">What are the treatments for chylomicron retention disease ?</Question>
+			<Answer>These resources address the diagnosis or management of chylomicron retention disease:  - Genetic Testing Registry: Chylomicron retention disease  - MedlinePlus Encyclopedia: Malabsorption   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

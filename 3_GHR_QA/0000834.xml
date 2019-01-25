@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000834" source="GHR" url="https://ghr.nlm.nih.gov/condition/proopiomelanocortin-deficiency">
+<Focus>proopiomelanocortin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1857854</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>obesity, early-onset, adrenal insufficiency, and red hair</Synonym>
+		<Synonym>POMC deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000834-1" qtype="information">What is (are) proopiomelanocortin deficiency ?</Question>
+			<Answer>Proopiomelanocortin (POMC) deficiency causes severe obesity that begins at an early age. In addition to obesity, people with this condition have low levels of a hormone known as adrenocorticotropic hormone (ACTH) and tend to have red hair and pale skin.  Affected infants are usually a normal weight at birth, but they are constantly hungry, which leads to excessive feeding (hyperphagia). The babies continuously gain weight and are severely obese by age 1. Affected individuals experience excessive hunger and remain obese for life. It is unclear if these individuals are prone to weight-related conditions like cardiovascular disease or type 2 diabetes.  Low levels of ACTH lead to a condition called adrenal insufficiency, which occurs when the pair of small glands on top of the kidneys (the adrenal glands) do not produce enough hormones. Adrenal insufficiency often results in periods of severely low blood sugar (hypoglycemia) in people with POMC deficiency, which can cause seizures, elevated levels of a toxic substance called bilirubin in the blood (hyperbilirubinemia), and a reduced ability to produce and release a digestive fluid called bile (cholestasis). Without early treatment, adrenal insufficiency can be fatal.  Pale skin that easily burns when exposed to the sun and red hair are common in POMC deficiency, although not everyone with the condition has these characteristics.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000834-2" qtype="frequency">How many people are affected by proopiomelanocortin deficiency ?</Question>
+			<Answer>POMC deficiency is a rare condition; approximately 50 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000834-3" qtype="genetic changes">What are the genetic changes related to proopiomelanocortin deficiency ?</Question>
+			<Answer>POMC deficiency is caused by mutations in the POMC gene, which provides instructions for making the proopiomelanocortin protein. This protein is cut (cleaved) into smaller pieces called peptides that have different functions in the body. One of these peptides, ACTH, stimulates the release of another hormone called cortisol from the adrenal glands. Cortisol is involved in the maintenance of blood sugar levels. Another peptide, alpha-melanocyte stimulating hormone (-MSH), plays a role in the production of the pigment that gives skin and hair their color. The -MSH peptide and another peptide called beta-melanocyte stimulating hormone (-MSH) act in the brain to help maintain the balance between energy from food taken into the body and energy spent by the body. The correct balance is important to control eating and weight.  POMC gene mutations that cause POMC deficiency result in production of an abnormally short version of the POMC protein or no protein at all. As a result, there is a shortage of the peptides made from POMC, including ACTH, -MSH, and -MSH. Without ACTH, there is a reduction in cortisol production, leading to adrenal insufficiency. Decreased -MSH in the skin reduces pigment production, resulting in the red hair and pale skin often seen in people with POMC deficiency. Loss of -MSH and -MSH in the brain dysregulates the body&apos;s energy balance, leading to overeating and severe obesity.  POMC deficiency is a rare cause of obesity; POMC gene mutations are not frequently associated with more common, complex forms of obesity. Researchers are studying other factors that are likely involved in these forms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000834-4" qtype="inheritance">Is proopiomelanocortin deficiency inherited ?</Question>
+			<Answer>POMC deficiency is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with this condition each carry one copy of the mutated gene. They typically do not have POMC deficiency, but they may have an increased risk of obesity.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000834-5" qtype="treatment">What are the treatments for proopiomelanocortin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of proopiomelanocortin deficiency:  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: How are Obesity and Overweight Diagnosed?  - Gene Review: Gene Review: Proopiomelanocortin Deficiency  - Genetic Testing Registry: Proopiomelanocortin deficiency  - MedlinePlus Encyclopedia: ACTH  - National Heart Lung and Blood Institute: How Are Overweight and Obesity Treated?  - National Institutes of Health Clinical Center: Managing Adrenal Insufficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

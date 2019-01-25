@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000405" source="GHR" url="https://ghr.nlm.nih.gov/condition/giant-axonal-neuropathy">
+<Focus>giant axonal neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1850386</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>GAN</Synonym>
+		<Synonym>neuropathy, giant axonal</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000405-1" qtype="information">What is (are) giant axonal neuropathy ?</Question>
+			<Answer>Giant axonal neuropathy is an inherited condition involving dysfunction of a specific type of protein in nerve cells (neurons). The protein is essential for normal nerve function because it forms neurofilaments. Neurofilaments make up a structural framework that helps to define the shape and size of the neurons. This condition is characterized by abnormally large and dysfunctional axons, which are the specialized extensions of nerve cells that are required for the transmission of nerve impulses.  Giant axonal neuropathy generally appears in infancy or early childhood. It progresses slowly as neuronal injury becomes more severe. Signs of giant axonal neuropathy usually begin in the peripheral nervous system, which governs movement and sensation in the arms, legs, and other parts of the body. Most individuals with this disorder first have problems with walking. Later they may lose sensation, coordination, strength, and reflexes in their limbs. Hearing and visual problems may also occur. Extremely kinky hair (as compared to others in the family) is characteristic of giant axonal neuropathy, occurring in almost all affected people.  As the disorder progresses, the brain and spinal cord (central nervous system) may become involved, causing a gradual decline in mental function, loss of control of body movement, and seizures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000405-2" qtype="frequency">How many people are affected by giant axonal neuropathy ?</Question>
+			<Answer>Giant axonal neuropathy is a very rare disorder; the incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000405-3" qtype="genetic changes">What are the genetic changes related to giant axonal neuropathy ?</Question>
+			<Answer>Giant axonal neuropathy is caused by mutations in the GAN gene, which provides instructions for making a protein called gigaxonin. Some GAN gene mutations change the shape of the protein, affecting how it binds to other proteins to form a functional complex. Other mutations prevent cells from producing any gigaxonin protein.  Gigaxonin is involved in a cellular function that destroys and gets rid of excess or damaged proteins using a mechanism called the ubiquitin-proteasome system. Neurons without functional gigaxonin accumulate excess neurofilaments in the axon, causing the axons to become distended. These giant axons do not transmit signals properly and eventually deteriorate, resulting in problems with movement and other nervous system dysfunction.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000405-4" qtype="inheritance">Is giant axonal neuropathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000405-5" qtype="treatment">What are the treatments for giant axonal neuropathy ?</Question>
+			<Answer>These resources address the diagnosis or management of giant axonal neuropathy:  - Gene Review: Gene Review: Giant Axonal Neuropathy  - Genetic Testing Registry: Giant axonal neuropathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005428" source="GARD" url="https://rarediseases.info.nih.gov/gard/218/rotor-syndrome">
+<Focus>Rotor syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220991</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hyperbilirubinemia, Rotor type</Synonym>
+		<Synonym>Rotor-type hyperbilirubinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005428-1" qtype="information">What is (are) Rotor syndrome ?</Question>
+			<Answer>Rotor syndrome is an inherited disorder characterized by elevated levels of bilirubin in the blood (hyperbilirubinemia). Bilirubin is produced when red blood cells are broken down, and has an orange-yellow tint. The buildup of bilirubin in the body causes yellowing of the skin or whites of the eyes (jaundice), which is the only symptom of the disorder. Jaundice is usually evident in infancy or early childhood, and it may come and go. Rotor syndrome is caused by having mutations in both the SLCO1B1 and SLCO1B3 genes and is inherited in an autosomal recessive manner. The disorder is generally considered benign, and no treatment is needed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005428-2" qtype="symptoms">What are the symptoms of Rotor syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Rotor syndrome? Jaundice, characterized by yellowing of the skin and/or whites of the eyes (conjunctival icterus), is usually the only symptom of Rotor syndrome. Jaundice usually begins shortly after birth or in childhood and may come and go. The Human Phenotype Ontology provides the following list of signs and symptoms for Rotor syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the liver 90% Abdominal pain 7.5% Abnormality of temperature regulation 7.5% Abnormality of the gastric mucosa 7.5% Abnormality of skin pigmentation - Abnormality of the skeletal system - Autosomal recessive inheritance - Conjugated hyperbilirubinemia - Jaundice - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005428-3" qtype="causes">What causes Rotor syndrome ?</Question>
+			<Answer>What causes Rotor syndrome? Rotor syndrome is an inherited disorder caused by having mutations in both the SLCO1B1 and SLCO1B3 genes. These genes provide instructions for making proteins that are found in liver cells, where they transport bilirubin and other substances from the blood into the liver so that they can be cleared from the body. In the liver, bilirubin is dissolved in a digestive fluid called bile, and then excreted from the body. The mutations in the SLCO1B1 and SLCO1B3 genes that cause Rotor syndrome either prevent the production of the transporting proteins, or prevent them from functioning properly. When this occurs, bilirubin is not effectively removed from the body and builds up, leading to jaundice.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005428-4" qtype="exams and tests">How to diagnose Rotor syndrome ?</Question>
+			<Answer>How is Rotor syndrome diagnosed? Rotor syndrome is diagnosed based on symptoms and various laboratory tests. Physical exams in affected people are typically normal, except for mild jaundice. There are two forms of bilirubin in the body: a toxic form called unconjugated bilirubin and a nontoxic form called conjugated bilirubin. People with Rotor syndrome have a buildup of both in their blood (hyperbilirubinemia), but having elevated levels of conjugated bilirubin is the hallmark of the disorder. Conjugated bilirubin in affected people is usually more than 50% of total bilirubin. To confirm a disgnosis of Rotor syndrome, a person may have the following performed: testing for serum bilirubin concentration testing for bilirubin in the urine testing for hemolysis and liver enzyme activity (to rule out other conditions) cholescintigraphy (also called an HIDA scan) testing for total urinary porphyrins</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005428-5" qtype="treatment">What are the treatments for Rotor syndrome ?</Question>
+			<Answer>How might Rotor syndrome be treated? Rotor syndrome is considered a benign disorder and does not require treatment. While no adverse drug reactions have been reported in people with Rotor syndrome, a number of commonly used drugs and/or their metabolites may have serious consequences in affected people. This is because some drugs enter the liver via one of the two transporter proteins that are absent in affected people. People with Rotor syndrome should make sure all of their health care providers are aware of their diagnosis and should check with their health care providers regarding drugs that should be avoided.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

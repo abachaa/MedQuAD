@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000642" source="GHR" url="https://ghr.nlm.nih.gov/condition/megdel-syndrome">
+<Focus>MEGDEL syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3553597</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>3-methylglutaconic aciduria type IV with sensorineural deafness, encephalopathy, and Leigh-like syndrome</Synonym>
+		<Synonym>3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome</Synonym>
+		<Synonym>MEGDHEL syndrome</Synonym>
+		<Synonym>SERAC1 defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000642-1" qtype="information">What is (are) MEGDEL syndrome ?</Question>
+			<Answer>MEGDEL syndrome is an inherited disorder that affects multiple body systems. It is named for several of its features: 3-methylglutaconic aciduria (MEG), deafness (D), encephalopathy (E), and Leigh-like disease (L).  MEGDEL syndrome is characterized by abnormally high levels of an acid, called 3-methylglutaconic acid, in the urine (3-methylglutaconic aciduria). MEGDEL syndrome is one of a group of metabolic disorders that can be diagnosed by presence of this feature. People with MEGDEL syndrome also have high urine levels of another acid called 3-methylglutaric acid.  In infancy, individuals with MEGDEL syndrome develop hearing loss caused by changes in the inner ear (sensorineural deafness); the hearing problems gradually worsen over time.  Another feature of MEGDEL syndrome is brain dysfunction (encephalopathy). In infancy, encephalopathy leads to difficulty feeding, an inability to grow and gain weight at the expected rate (failure to thrive), and weak muscle tone (hypotonia). Infants with MEGDEL syndrome later develop involuntary muscle tensing (dystonia) and muscle stiffness (spasticity), which worsen over time. Because of these brain and muscle problems, affected babies have delayed development of mental and movement abilities (psychomotor delay), or they may lose skills they already developed. Individuals with MEGDEL syndrome have intellectual disability and never learn to speak.  People with MEGDEL syndrome have changes in the brain that resemble those in another condition called Leigh syndrome. These changes, which can be seen with medical imaging, are referred to as Leigh-like disease.  Other features that occur commonly in MEGDEL syndrome include low blood sugar (hypoglycemia) in affected newborns; liver problems (hepatopathy) in infancy, which can be serious but improve by early childhood; and episodes of abnormally high amounts of lactic acid in the blood (lactic acidosis).  The life expectancy of individuals with MEGDEL syndrome is unknown. Because of the severe health problems caused by the disorder, some affected individuals do not survive past infancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000642-2" qtype="frequency">How many people are affected by MEGDEL syndrome ?</Question>
+			<Answer>MEGDEL syndrome is a rare disorder; its prevalence is unknown. At least 40 affected individuals have been mentioned in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000642-3" qtype="genetic changes">What are the genetic changes related to MEGDEL syndrome ?</Question>
+			<Answer>MEGDEL syndrome is caused by mutations in the SERAC1 gene. The function of the protein produced from this gene is not completely understood, although research suggests that it is involved in altering (remodeling) certain fats called phospholipids, particularly a phospholipid known as phosphatidylglycerol. Another phospholipid called cardiolipin is made from phosphatidylglycerol. Cardiolipin is a component of the membrane that surrounds cellular structures called mitochondria, which convert the energy from food into a form that cells can use, and is important for the proper functioning of these structures.  SERAC1 gene mutations involved in MEGDEL syndrome lead to little or no SERAC1 protein function. As a result, phosphatidylglycerol remodeling is impaired, which likely alters the composition of cardiolipin. Researchers speculate that the abnormal cardiolipin affects mitochondrial function, reducing cellular energy production and leading to the neurological and hearing problems characteristic of MEGDEL syndrome. It is unclear how SERAC1 gene mutations lead to abnormal release of 3-methylglutaconic acid in the urine, although it is thought to be related to mitochondrial dysfunction.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000642-4" qtype="inheritance">Is MEGDEL syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000642-5" qtype="treatment">What are the treatments for MEGDEL syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of MEGDEL syndrome:  - Baby&apos;s First Test: 3-Methylglutaconic Aciduria  - Gene Review: Gene Review: MEGDEL Syndrome  - Genetic Testing Registry: 3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

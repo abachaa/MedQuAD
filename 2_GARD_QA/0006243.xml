@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006243" source="GARD" url="https://rarediseases.info.nih.gov/gard/396/tularemia">
+<Focus>Tularemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0041351</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Francisella tularensis infection</Synonym>
+		<Synonym>Deerfly fever</Synonym>
+		<Synonym>Rabbit fever</Synonym>
+		<Synonym>Pahvant Valley plague</Synonym>
+		<Synonym>Ohara disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006243-1" qtype="information">What is (are) Tularemia ?</Question>
+			<Answer>Tularemia is an infection common in wild rodents caused by the bacterium Francisella tularensis. It is transmitted to humans by contact with infected animal tissues or by ticks, biting flies, and mosquitoes. The condition is most common in North America and parts of Europe and Asia. It is very rare in the United States. The illness, which is characterized by fever, chills, headache, joint pain and muscle weakness, may continue for several weeks after symptoms begin. Streptomycin and tetracycline are commonly used to treat the infection.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006243-2" qtype="symptoms">What are the symptoms of Tularemia ?</Question>
+			<Answer>What are the symptoms of tularemia? The symptoms of tularemia usually appear 3 to 5 days after exposure to the bacteria, but can take as long as 14 days. Symptoms may include: Fever  Chills Headache  Diarrhea Muscle pains  Joint stiffness  Dry cough Progressive weakness Sweating  Weight loss  People can also catch pneumonia and develop chest pain, bloody sputum and can have trouble breathing and even sometimes stop breathing. Other symptoms of tularemia depend on how a person was exposed to the tularemia bacteria. These symptoms can include ulcers on the skin or mouth, swollen and painful lymph glands, swollen and painful eyes, and a sore throat.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006243-3" qtype="causes">What causes Tularemia ?</Question>
+			<Answer>What causes tularemia? Tularemia is caused by the bacterium Francisella tularensis found in animals (especially rodents, rabbits, and hares). Humans can get the disease through: Direct contact, through a break in the skin, with an infected animal or its dead body The bite of an infected tick, horsefly, or mosquito Eating infected meat (rare) Breathing in the bacteria, F. tularensis Tularemia is not known to be spread from person to person. People who have tularemia do not need to be isolated.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0006243-4" qtype="treatment">What are the treatments for Tularemia ?</Question>
+			<Answer>How is tularemia treated? The goal of treatment is to cure the infection with antibiotics. Streptomycin and tetracycline are commonly used to treat this infection. Once daily gentamycin treatment has been tried with excellent results as an alternative therapy to streptomycin. However, only a few cases have been studied to date. Tetracycline and Chloramphenicol can be used alone, but they are not considered a first-line treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000037_4" source="CancerGov" url="https://www.cancer.gov/types/colorectal/patient/colorectal-screening-pdq">
+<Focus>Colorectal Cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1527249</CUI>
+			<CUI>C0009402</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000037_4-1" qtype="information">What is (are) Colorectal Cancer ?</Question>
+			<Answer>Key Points
+                    - Colorectal cancer is a disease in which malignant (cancer) cells form in the tissues of the colon or the rectum.     - Colorectal cancer is the second leading cause of death from cancer in the United States.     - Different factors increase or decrease the risk of getting colorectal cancer.
+                
+                
+                    Colorectal cancer is a disease in which malignant (cancer) cells form in the tissues of the colon or the rectum.
+                    The colon and rectum are parts of the body&apos;s digestive system. The digestive system removes and processes nutrients (vitamins, minerals, carbohydrates, fats, proteins, and water) from foods and helps pass waste material out of the body. The digestive system is made up of the mouth, throat, esophagus, stomach, and the small and large intestines. The colon (large bowel) is the first part of the large intestine and is about 5 feet long. Together, the rectum and anal canal make up the last part of the large intestine and are 6-8 inches long. The anal canal ends at the anus (the opening of the large intestine to the outside of the body).      Cancer that begins in the colon is called colon cancer, and cancer that begins in the rectum is called rectal cancer. Cancer that begins in either of these organs may also be called colorectal cancer.   See the following PDQ summaries for more information about colorectal cancer:         -   Colorectal Cancer Prevention     -  Colon Cancer Treatment     -  Rectal Cancer Treatment     -  Genetics of Colorectal Cancer
+                
+                
+                    Colorectal cancer is the second leading cause of death from cancer in the United States.
+                    The number of new colorectal cancer cases and the number of deaths from colorectal cancer are decreasing a little bit each year. But in adults younger than 50 years, there has been a small increase in the number of new cases each year since 1998. Colorectal cancer is found more often in men than in women.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000037_4-2" qtype="susceptibility">Who is at risk for Colorectal Cancer? ?</Question>
+			<Answer>Different factors increase or decrease the risk of getting colorectal cancer. Anything that increases your chance of getting a disease is called a risk factor. Anything that decreases your chance of getting a disease is called a protective factor.   For information about risk factors and protective factors for colorectal cancer, see the PDQ summary on Colorectal Cancer Prevention.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

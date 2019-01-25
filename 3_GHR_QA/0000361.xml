@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000361" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-mediterranean-fever">
+<Focus>familial Mediterranean fever</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031069</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>benign paroxysmal peritonitis</Synonym>
+		<Synonym>familial paroxysmal polyserositis</Synonym>
+		<Synonym>FMF</Synonym>
+		<Synonym>MEF</Synonym>
+		<Synonym>recurrent polyserositis</Synonym>
+		<Synonym>Reimann periodic disease</Synonym>
+		<Synonym>Siegal-Cattan-Mamou disease</Synonym>
+		<Synonym>Wolff periodic disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000361-1" qtype="information">What is (are) familial Mediterranean fever ?</Question>
+			<Answer>Familial Mediterranean fever is an inherited condition characterized by recurrent episodes of painful inflammation in the abdomen, chest, or joints. These episodes are often accompanied by fever and sometimes a rash or headache. Occasionally inflammation may occur in other parts of the body, such as the heart; the membrane surrounding the brain and spinal cord; and in males, the testicles. In about half of affected individuals, attacks are preceded by mild signs and symptoms known as a prodrome. Prodromal symptoms include mildly uncomfortable sensations in the area that will later become inflamed, or more general feelings of discomfort.  The first episode of illness in familial Mediterranean fever usually occurs in childhood or the teenage years, but in some cases, the initial attack occurs much later in life. Typically, episodes last 12 to 72 hours and can vary in severity. The length of time between attacks is also variable and can range from days to years. During these periods, affected individuals usually have no signs or symptoms related to the condition. However, without treatment to help prevent attacks and complications, a buildup of protein deposits (amyloidosis) in the body&apos;s organs and tissues may occur, especially in the kidneys, which can lead to kidney failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000361-2" qtype="frequency">How many people are affected by familial Mediterranean fever ?</Question>
+			<Answer>Familial Mediterranean fever primarily affects populations originating in the Mediterranean region, particularly people of Armenian, Arab, Turkish, or Jewish ancestry. The disorder affects 1 in 200 to 1,000 people in these populations. It is less common in other populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000361-3" qtype="genetic changes">What are the genetic changes related to familial Mediterranean fever ?</Question>
+			<Answer>Mutations in the MEFV gene cause familial Mediterranean fever. The MEFV gene provides instructions for making a protein called pyrin (also known as marenostrin), which is found in white blood cells. This protein is involved in the immune system, helping to regulate the process of inflammation. Inflammation occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair. When this process is complete, the body stops the inflammatory response to prevent damage to its own cells and tissues.  Mutations in the MEFV gene reduce the activity of the pyrin protein, which disrupts control of the inflammation process. An inappropriate or prolonged inflammatory response can result, leading to fever and pain in the abdomen, chest, or joints.  Normal variations in the SAA1 gene may modify the course of familial Mediterranean fever. Some evidence suggests that a particular version of the SAA1 gene (called the alpha variant) increases the risk of amyloidosis among people with familial Mediterranean fever.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000361-4" qtype="inheritance">Is familial Mediterranean fever inherited ?</Question>
+			<Answer>Familial Mediterranean fever is almost always inherited in an autosomal recessive pattern, which means both copies of the MEFV gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  In rare cases, this condition appears to be inherited in an autosomal dominant pattern. An autosomal dominant inheritance pattern describes cases in which one copy of the altered gene in each cell is sufficient to cause the disorder. In autosomal dominant inheritance, affected individuals often inherit the mutation from one affected parent.  However, another mechanism is believed to account for some cases of familial Mediterranean fever that were originally thought to be inherited in an autosomal dominant pattern. A gene mutation that occurs frequently in a population may result in a disorder with autosomal recessive inheritance appearing in multiple generations in a family, a pattern that mimics autosomal dominant inheritance. If one parent has familial Mediterranean fever (with mutations in both copies of the MEFV gene in each cell) and the other parent is an unaffected carrier (with a mutation in one copy of the MEFV gene in each cell), it may appear as if the affected child inherited the disorder only from the affected parent. This appearance of autosomal dominant inheritance when the pattern is actually autosomal recessive is called pseudodominance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000361-5" qtype="treatment">What are the treatments for familial Mediterranean fever ?</Question>
+			<Answer>These resources address the diagnosis or management of familial Mediterranean fever:  - Gene Review: Gene Review: Familial Mediterranean Fever  - Genetic Testing Registry: Familial Mediterranean fever   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000465" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/herniateddisk.html">
+<Focus>Herniated Disk</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242362</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bulging disk</Synonym>
+		<Synonym>Compressed disk</Synonym>
+		<Synonym>Herniated intervertebral disk</Synonym>
+		<Synonym>Herniated nucleus pulposus</Synonym>
+		<Synonym>Prolapsed disk</Synonym>
+		<Synonym>Ruptured disk</Synonym>
+		<Synonym>Slipped disk</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000465-1" qtype="information">What is (are) Herniated Disk ?</Question>
+			<Answer>Your backbone, or spine, is made up of 26 bones called vertebrae. In between them are soft disks filled with a jelly-like substance. These disks cushion the vertebrae and keep them in place. As you age, the disks break down or degenerate. As they do, they lose their cushioning ability. This can lead to pain if the back is stressed.    A herniated disk is a disk that ruptures. This allows the jelly-like center of the disk to leak, irritating the nearby nerves. This can cause sciatica or back pain.    Your doctor will diagnose a herniated disk with a physical exam and, sometimes, imaging tests. With treatment, most people recover. Treatments include rest, pain and anti-inflammatory medicines, physical therapy, and sometimes surgery.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

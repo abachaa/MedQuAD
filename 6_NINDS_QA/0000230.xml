@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000230" source="NINDS" url="http://www.ninds.nih.gov/disorders/periventricular_leukomalacia/periventricular_leukomalacia.htm">
+<Focus>Periventricular Leukomalacia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023529</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000230-1" qtype="information">What is (are) Periventricular Leukomalacia ?</Question>
+			<Answer>Periventricular leukomalacia (PVL) is characterized by the death of the white matter of the brain due to softening of the brain tissue. It can affect fetuses or newborns; premature babies are at the greatest risk of the disorder. PVL is caused by a lack of oxygen or blood flow to the periventricular area of the brain, which results in the death or loss of brain tissue. The periventricular area-the area around the spaces in the brain called ventricles-contains nerve fibers that carry messages from the brain to the body&apos;s muscles. Although babies with PVL generally have no outward signs or symptoms of the disorder, they are at risk for motor disorders, delayed mental development, coordination problems, and vision and hearing impairments. PVL may be accompanied by a hemorrhage or bleeding in the periventricular-intraventricular area (the area around and inside the ventricles), and can lead to cerebral palsy. The disorder is diagnosed by ultrasound of the head.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000230-2" qtype="treatment">What are the treatments for Periventricular Leukomalacia ?</Question>
+			<Answer>There is no specific treatment for PVL. Treatment is symptomatic and supportive. Children with PVL should receive regular medical screenings to determine appropriate interventions.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000230-3" qtype="outlook">What is the outlook for Periventricular Leukomalacia ?</Question>
+			<Answer>The prognosis for individuals with PVL depends upon the severity of the brain damage. Some children exhibit fairly mild symptoms, while others have significant deficits and disabilities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000230-4" qtype="research">what research (or clinical trials) is being done for Periventricular Leukomalacia ?</Question>
+			<Answer>The NINDS supports and conducts research on brain injuries such as PVL. Much of this research is aimed at finding ways to prevent and treat these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

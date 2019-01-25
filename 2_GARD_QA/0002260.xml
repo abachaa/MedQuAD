@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002260" source="GARD" url="https://rarediseases.info.nih.gov/gard/10416/familial-hypercholesterolemia">
+<Focus>Familial hypercholesterolemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020445</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002260-1" qtype="information">What is (are) Familial hypercholesterolemia ?</Question>
+			<Answer>Familial hypercholesterolemia is a condition characterized by very high levels of cholesterol in the blood due to mutations in the LDLR gene. People with hypercholesterolemia have a high risk of developing a form of heart disease called coronary artery disease, as well as health problems related to the buildup of excess cholesterol in other tissues (e.g., in the tendons and skin). Familial hypercholesterolemia tends to be passed through families in an autosomal dominant fashion. There are other hereditary forms of hypercholesterolemia caused by mutations in the APOB, LDLRAP1, or PCSK9 gene. However, most cases of high cholesterol are not caused by a single inherited condition, but result from a combination of lifestyle choices and the effects of variations in many genes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002260-2" qtype="symptoms">What are the symptoms of Familial hypercholesterolemia ?</Question>
+			<Answer>What are the signs and symptoms of Familial hypercholesterolemia? Signs and symptoms in individuals with the autosomal dominant form of familial hypercholesterolemia (FH), also called the heterozygous form, may include: Men who have FH may have heart attacks in their 40s to 50s, and 85% of men with the disorder have a heart attack by age 60. Affected women may have heart attacks in their 50s and 60s. Individuals with the rare, autosomal recessive form of FH (also called homozygous FH) develop xanthomas beneath the skin over their elbows, knees and buttocks as well as in the tendons at a very early age, sometime in infancy. In individuals with this form of FH, heart attacks and/or death may occur before age 30, sometimes in young children if they are not aggressively treated. The Human Phenotype Ontology provides the following list of signs and symptoms for Familial hypercholesterolemia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Corneal arcus - Hypercholesterolemia - Xanthelasma - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002260-3" qtype="inheritance">Is Familial hypercholesterolemia inherited ?</Question>
+			<Answer>How is familial hypercholesterolemia inherited? Familial hypercholesterolemia (FH) is usually inherited in an autosomal dominant manner (in which case it is referred to as heterozygous FH). Individuals inherit two copies of each gene (one from each parent). In an autosomal dominant condition, having only one abnormal (mutated) copy of the gene is sufficient to cause the condition. In most cases the mutated gene is inherited from an affected parent, but it is possible for the mutation to occur for the first time in the affected individual. An individual with an autosomal dominant condition has a 50% (1 in 2) chance to pass the mutation on to each of his/her children and a 50% chance to not pass on the mutation. More rarely, familial FH may be inherited in an autosomal recessive manner. This occurs when an individual inherits a mutated copy of the gene from both parents (this is also called homozygous FH). This is a much more severe form of FH. An individual with this form of FH will always pass on a mutated copy of the gene, and therefore each of his/her children will have heterozygous FH.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002260-4" qtype="treatment">What are the treatments for Familial hypercholesterolemia ?</Question>
+			<Answer>How might familial hypercholesterolemia be treated? The overall goal of treatment for familial hypercholesterolemia (FH) is to lower the risk for atherosclerosis (build-up of plaque in the arteries) by lowering the LDL cholesterol levels in the blood stream. The first step in treatment for individuals with the heterozygous form (also called the autosomal dominant form) is changing the diet to reduce the total amount of fat eaten. This may be accomplished by limiting the amount of beef, pork, and lamb in the diet; cutting out butter, whole milk, fatty cheeses and oils; and eliminating egg yolks, organ meats and other sources of saturated fat from animals. Dietary counseling is often recommended to help individuals change their eating habits. Exercise and weight loss may also help in lowering cholesterol levels. Drug therapy is also often necessary lifestyle changes may not be enough to lower cholesterol levels. Several different cholesterol-lowering medications may be used alone or in combination; they may include statins, bile acid sequestrants, ezetemibe, niacin, gemfibrozil, and fenofibrate. Individuals with the more severe, homozygous form of FH (also called the autosomal recessive form) need more aggressive therapies to treat their significantly elevated levels of cholesterol. Drug therapy is often not effective enough at lowering LDL cholesterol levels. Therefore, individuals with this form may need periodical LDL apheresis, a procedure that removes LDL from the blood. In some cases, major surgery such as a liver transplant is necessary.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

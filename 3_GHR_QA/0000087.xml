@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000087" source="GHR" url="https://ghr.nlm.nih.gov/condition/autoimmune-addison-disease">
+<Focus>autoimmune Addison disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2103602</CUI>
+			<CUI>C0271737</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autoimmune Addison's disease</Synonym>
+		<Synonym>autoimmune adrenalitis</Synonym>
+		<Synonym>classic Addison disease</Synonym>
+		<Synonym>primary Addison disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000087-1" qtype="information">What is (are) autoimmune Addison disease ?</Question>
+			<Answer>Autoimmune Addison disease affects the function of the adrenal glands, which are small hormone-producing glands located on top of each kidney. It is classified as an autoimmune disorder because it results from a malfunctioning immune system that attacks the adrenal glands. As a result, the production of several hormones is disrupted, which affects many body systems.  The signs and symptoms of autoimmune Addison disease can begin at any time, although they most commonly begin between ages 30 and 50. Common features of this condition include extreme tiredness (fatigue), nausea, decreased appetite, and weight loss. In addition, many affected individuals have low blood pressure (hypotension), which can lead to dizziness when standing up quickly; muscle cramps; and a craving for salty foods. A characteristic feature of autoimmune Addison disease is abnormally dark areas of skin (hyperpigmentation), especially in regions that experience a lot of friction, such as the armpits, elbows, knuckles, and palm creases. The lips and the inside lining of the mouth can also be unusually dark. Because of an imbalance of hormones involved in development of sexual characteristics, women with this condition may lose their underarm and pubic hair.  Other signs and symptoms of autoimmune Addison disease include low levels of sugar (hypoglycemia) and sodium (hyponatremia) and high levels of potassium (hyperkalemia) in the blood. Affected individuals may also have a shortage of red blood cells (anemia) and an increase in the number of white blood cells (lymphocytosis), particularly those known as eosinophils (eosinophilia).  Autoimmune Addison disease can lead to a life-threatening adrenal crisis, characterized by vomiting, abdominal pain, back or leg cramps, and severe hypotension leading to shock. The adrenal crisis is often triggered by a stressor, such as surgery, trauma, or infection.  Individuals with autoimmune Addison disease or their family members often have another autoimmune disorder, most commonly autoimmune thyroid disease or type 1 diabetes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000087-2" qtype="frequency">How many people are affected by autoimmune Addison disease ?</Question>
+			<Answer>Addison disease affects approximately 11 to 14 in 100,000 people of European descent. The autoimmune form of the disorder is the most common form in developed countries, accounting for up to 90 percent of cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000087-3" qtype="genetic changes">What are the genetic changes related to autoimmune Addison disease ?</Question>
+			<Answer>The cause of autoimmune Addison disease is complex and not completely understood. A combination of environmental and genetic factors plays a role in the disorder, and changes in multiple genes are thought to affect the risk of developing the condition.  The genes that have been associated with autoimmune Addison disease participate in the body&apos;s immune response. The most commonly associated genes belong to a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person&apos;s immune system to react to a wide range of foreign proteins. The most well-known risk factor for autoimmune Addison disease is a variant of the HLA-DRB1 gene called HLA-DRB1*04:04. This and other disease-associated HLA gene variants likely contribute to an inappropriate immune response that leads to autoimmune Addison disease, although the mechanism is unknown.  Normally, the immune system responds only to proteins made by foreign invaders, not to the body&apos;s own proteins. In autoimmune Addison disease, however, an immune response is triggered by a normal adrenal gland protein, typically a protein called 21-hydroxylase. This protein plays a key role in producing certain hormones in the adrenal glands. The prolonged immune attack triggered by 21-hydroxylase damages the adrenal glands (specifically the outer layers of the glands known, collectively, as the adrenal cortex), preventing hormone production. A shortage of adrenal hormones (adrenal insufficiency) disrupts several normal functions in the body, leading to hypoglycemia, hyponatremia, hypotension, muscle cramps, skin hyperpigmentation and other features of autoimmune Addison disease.  Rarely, Addison disease is not caused by an autoimmune reaction. Other causes include infections that damage the adrenal glands, such as tuberculosis, or tumors in the adrenal glands. Addison disease can also be one of several features of other genetic conditions, including X-linked adrenoleukodystrophy and autoimmune polyglandular syndrome, type 1, which are caused by mutations in other genes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000087-4" qtype="inheritance">Is autoimmune Addison disease inherited ?</Question>
+			<Answer>A predisposition to develop autoimmune Addison disease is passed through generations in families, but the inheritance pattern is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000087-5" qtype="treatment">What are the treatments for autoimmune Addison disease ?</Question>
+			<Answer>These resources address the diagnosis or management of autoimmune Addison disease:  - Genetic Testing Registry: Addison&apos;s disease  - MedlinePlus Encyclopedia: Addison&apos;s Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

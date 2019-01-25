@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000362" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-osteochondritis-dissecans">
+<Focus>familial osteochondritis dissecans</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3665488</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>fOCD</Synonym>
+		<Synonym>OCD</Synonym>
+		<Synonym>OD</Synonym>
+		<Synonym>osteochondritis dissecans, short stature, and early-onset osteoarthritis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000362-1" qtype="information">What is (are) familial osteochondritis dissecans ?</Question>
+			<Answer>Familial osteochondritis dissecans is a condition that affects the joints and is associated with abnormal cartilage. Cartilage is a tough but flexible tissue that covers the ends of the bones at joints and is also part of the developing skeleton. A characteristic feature of familial osteochondritis dissecans is areas of bone damage (lesions) caused by detachment of cartilage and a piece of the underlying bone from the end of the bone at a joint. People with this condition develop multiple lesions that affect several joints, primarily the knees, elbows, hips, and ankles. The lesions cause stiffness, pain, and swelling in the joint. Often, the affected joint feels like it catches or locks during movement. Other characteristic features of familial osteochondritis dissecans include short stature and development of a joint disorder called osteoarthritis at an early age. Osteoarthritis is characterized by the breakdown of joint cartilage and the underlying bone. It causes pain and stiffness and restricts the movement of joints.  A similar condition called sporadic osteochondritis dissecans is associated with a single lesion in one joint, most often the knee. These cases may be caused by injury to or repetitive use of the joint (often sports-related). Some people with sporadic osteochondritis dissecans develop osteoarthritis in the affected joint, especially if the lesion occurs later in life after the bone has stopped growing. Short stature is not associated with this form of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000362-2" qtype="frequency">How many people are affected by familial osteochondritis dissecans ?</Question>
+			<Answer>Familial osteochondritis dissecans is a rare condition, although the prevalence is unknown. Sporadic osteochondritis dissecans is more common; it is estimated to occur in the knee in 15 to 29 per 100,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000362-3" qtype="genetic changes">What are the genetic changes related to familial osteochondritis dissecans ?</Question>
+			<Answer>Mutation of the ACAN gene can cause familial osteochondritis dissecans. The ACAN gene provides instructions for making the aggrecan protein, which is a component of cartilage. Aggrecan attaches to the other components of cartilage, organizing the network of molecules that gives cartilage its strength. In addition, aggrecan attracts water molecules and gives cartilage its gel-like structure. This feature enables the cartilage to resist compression, protecting bones and joints.  The ACAN gene mutation associated with familial osteochondritis dissecans results in an abnormal protein that is unable to attach to the other components of cartilage. As a result, the cartilage is disorganized and weak. It is unclear how the abnormal cartilage leads to the lesions and osteoarthritis characteristic of familial osteochondritis dissecans. Researchers suggest that a disorganized cartilage network in growing bones impairs their normal growth, leading to short stature.  Sporadic osteochondritis dissecans is not caused by genetic changes and is not inherited.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000362-4" qtype="inheritance">Is familial osteochondritis dissecans inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000362-5" qtype="treatment">What are the treatments for familial osteochondritis dissecans ?</Question>
+			<Answer>These resources address the diagnosis or management of familial osteochondritis dissecans:  - Cedars-Sinai  - Genetic Testing Registry: Osteochondritis dissecans  - Seattle Children&apos;s: Osteochondritis Dissecans Symptoms and Diagnosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

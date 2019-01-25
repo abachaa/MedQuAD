@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000358" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-isolated-pituitary-adenoma">
+<Focus>familial isolated pituitary adenoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2676191</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FIPA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000358-1" qtype="information">What is (are) familial isolated pituitary adenoma ?</Question>
+			<Answer>Familial isolated pituitary adenoma (FIPA) is an inherited condition characterized by development of a noncancerous tumor in the pituitary gland (called a pituitary adenoma). The pituitary gland, which is found at the base of the brain, produces hormones that control many important body functions.  Tumors that form in the pituitary gland can release excess levels of one or more hormones, although some tumors do not produce hormones (nonfunctioning pituitary adenomas). Those that do are typically distinguished by the particular hormones they produce. Prolactinomas are the most common tumors in FIPA. These tumors release prolactin, a hormone that stimulates breast milk production in females. Both women and men can develop prolactinomas, although they are more common in women. In women, these tumors may lead to changes in the menstrual cycle or difficulty becoming pregnant. Some affected women may produce breast milk, even though they are not pregnant or nursing. In men, prolactinomas may cause erectile dysfunction or decreased interest in sex. Rarely, affected men produce breast milk. Large prolactinomas can press on nearby tissues such as the nerves that carry information from the eyes to the brain (the optic nerves), causing problems with vision.  Another type of tumor called somatotropinoma is also common in FIPA. These tumors release growth hormone (also called somatotropin), which promotes growth of the body. Somatotropinomas in children or adolescents can lead to increased height (gigantism), because the long bones of their arms and legs are still growing. In adults, growth of the long bones has stopped, but the tumors can cause overgrowth of the hands, feet, and face (acromegaly) as well as other tissues.  Less common tumor types in FIPA include somatolactotropinomas, nonfunctioning pituitary adenomas, adrenocorticotropic hormone-secreting tumors (which cause a condition known as Cushing disease), thyrotropinomas, and gonadotropinomas. In a family with the condition, affected members can develop the same type of tumor (homogenous FIPA) or different types (heterogenous FIPA).  In FIPA, pituitary tumors usually occur at a younger age than sporadic pituitary adenomas, which are not inherited. In general, FIPA tumors are also larger than sporadic pituitary tumors. Often, people with FIPA have macroadenomas, which are tumors larger than 10 millimeters.  Familial pituitary adenomas can occur as one of many features in other inherited conditions such as multiple endocrine neoplasia type 1 and Carney complex; however, in FIPA, the pituitary adenomas are described as isolated because only the pituitary gland is affected.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000358-2" qtype="frequency">How many people are affected by familial isolated pituitary adenoma ?</Question>
+			<Answer>Pituitary adenomas, including sporadic tumors, are relatively common; they are identified in an estimated 1 in 1,000 people. FIPA, though, is quite rare, accounting for approximately 2 percent of pituitary adenomas. More than 200 families with FIPA have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000358-3" qtype="genetic changes">What are the genetic changes related to familial isolated pituitary adenoma ?</Question>
+			<Answer>FIPA can be caused by mutations in the AIP gene. The function of the protein produced from this gene is not well understood, but it is thought to act as a tumor suppressor, which means it helps prevent cells from growing and dividing in an uncontrolled way. Mutations in the AIP gene alter the protein or reduce the production of functional protein. These changes likely impair the ability of the AIP protein to control the growth and division of cells, allowing pituitary cells to grow and divide unchecked and form a tumor. It is not known why the pituitary gland is specifically affected or why certain types of pituitary adenomas develop.  AIP gene mutations account for approximately 15 to 25 percent of cases of FIPA. Somatotropinomas are the most common type of tumor in these individuals. The tumors usually occur at a younger age, often in childhood, and are larger than FIPA tumors not caused by AIP gene mutations. The other genetic causes of FIPA are unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000358-4" qtype="inheritance">Is familial isolated pituitary adenoma inherited ?</Question>
+			<Answer>FIPA is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, only 20 to 30 percent of individuals with an AIP gene mutation develop a pituitary adenoma. This phenomenon, in which some individuals with a mutation do not develop the features of a particular disorder, is called incomplete penetrance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000358-5" qtype="treatment">What are the treatments for familial isolated pituitary adenoma ?</Question>
+			<Answer>These resources address the diagnosis or management of familial isolated pituitary adenoma:  - American Cancer Society: How are Pituitary Tumors Diagnosed?  - Gene Review: Gene Review: AIP-Related Familial Isolated Pituitary Adenomas  - Genetic Testing Registry: AIP-Related Familial Isolated Pituitary Adenomas  - MedlinePlus Encyclopedia: Prolactinoma  - MedlinePlus Health Topic: Pituitary Tumors   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

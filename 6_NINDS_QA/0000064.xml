@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000064" source="NINDS" url="http://www.ninds.nih.gov/disorders/cephalic_disorders/cephalic_disorders.htm">
+<Focus>Cephalic Disorders</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1456549</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000064-1" qtype="information">What is (are) Cephalic Disorders ?</Question>
+			<Answer>Cephalic disorders are congenital conditions that stem from damage to or abnormal development of the budding nervous system. Most cephalic disorders are caused by a disturbance that occurs very early in the development of the fetal nervous system. Damage to the developing nervous system is a major cause of chronic, disabling disorders, and sometimes death in infants, children, and even adults. Cephalic disorders may be influenced by hereditary or genetic conditions or by environmental exposures during pregnancy (e.g., medication taken by the mother, maternal infection, exposure to radiation). Some cephalic disorders occur when the cranial sutures (the fibrous joints that connect the bones of the skull) join prematurely. Understanding the normal development of the human nervous system may lead to a better understanding of cephalic disorders.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000064-2" qtype="treatment">What are the treatments for Cephalic Disorders ?</Question>
+			<Answer>Treatments for cephalic disorders depend upon the particular type of disorder. For most cephalic disorders, treatment is only symptomatic and supportive. In some cases, anticonvulsant medications shunts, or physical therapy are appropriate.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000064-3" qtype="outlook">What is the outlook for Cephalic Disorders ?</Question>
+			<Answer>The degree to which damage to the developing nervous system harms the mind and body varies enormously. Many disabilities are mild enough to allow those afflicted to eventually function independently in society. Others are not. Some infants, children, and adults die; others remain totally disabled; and an even larger population is partially disabled, functioning well below normal capacity.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000064-4" qtype="research">what research (or clinical trials) is being done for Cephalic Disorders ?</Question>
+			<Answer>Scientists are rapidly learning how harmful insults, a critical nutritional deficiency, or exposure to an environmental insult at various stages of pregnancy can lead to developmental disorders. Research projects currently underway include a study to evaluate increased risk of neural tube defects and various other congenital malformations in association with environmental and occupational exposure to pesticides. Scientists are also concentrating their efforts on understanding the complex processes responsible for normal early development of the brain and nervous system and how the disruption of any of these processes results in congenital anomalies such as cephalic disorders. Currently, researchers are examining the mechanisms involved in neurulation -- the process of forming the neural tube. Investigators are also conducting a variety of genetic studies. Understanding how genes control brain cell migration, proliferation, differentiation, and death, and how radiation, drugs, toxins, infections, and other factors disrupt these processes will aid in preventing many congenital neurological disorders. Recent studies have shown that the addition of folic acid to the diet of women of child-bearing age may significantly reduce the incidence of neural tube defects. Therefore, it is recommended that all women of child-bearing age consume 0.4 mg of folic acid daily.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

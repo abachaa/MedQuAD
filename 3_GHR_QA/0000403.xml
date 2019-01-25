@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000403" source="GHR" url="https://ghr.nlm.nih.gov/condition/genitopatellar-syndrome">
+<Focus>genitopatellar syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3812898</CUI>
+			<CUI>C1853566</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>absent patellae, scrotal hypoplasia, renal anomalies, facial dysmorphism, and mental retardation</Synonym>
+		<Synonym>GPS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000403-1" qtype="information">What is (are) genitopatellar syndrome ?</Question>
+			<Answer>Genitopatellar syndrome is a rare condition characterized by genital abnormalities, missing or underdeveloped kneecaps (patellae), intellectual disability, and abnormalities affecting other parts of the body.  The genital abnormalities in affected males typically include undescended testes (cryptorchidism) and underdevelopment of the scrotum. Affected females can have an enlarged clitoris (clitoromegaly) and small labia.  Missing or underdeveloped patellae is the most common skeletal abnormality associated with genitopatellar syndrome. Affected individuals may have additional skeletal problems, including joint deformities (contractures) involving the hips and knees or an inward- and upward-turning foot called a clubfoot. Bone abnormalities of the spine, ribs, collarbone (clavicle), and pelvis have also been reported.  Genitopatellar syndrome is also associated with delayed development and intellectual disability, which are often severe. Affected individuals may have an usually small head (microcephaly) and structural brain abnormalities, including underdeveloped or absent tissue connecting the left and right halves of the brain (agenesis of the corpus callosum).  People with genitopatellar syndrome may have distinctive facial features such as prominent cheeks and eyes, a nose with a rounded tip or a broad bridge, an unusually small chin (micrognathia) or a chin that protrudes (prognathism), and a narrowing of the head at the temples. Many affected infants have weak muscle tone (hypotonia) that leads to breathing and feeding difficulties. The condition can also be associated with abnormalities of the heart, kidneys, and teeth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000403-2" qtype="frequency">How many people are affected by genitopatellar syndrome ?</Question>
+			<Answer>Genitopatellar syndrome is estimated to occur in fewer than 1 per million people. At least 18 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000403-3" qtype="genetic changes">What are the genetic changes related to genitopatellar syndrome ?</Question>
+			<Answer>Genitopatellar syndrome is caused by mutations in the KAT6B gene. This gene provides instructions for making a type of enzyme called a histone acetyltransferase. These enzymes modify histones, which are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a small molecule called an acetyl group to histones, histone acetyltransferases control the activity of certain genes. Little is known about the function of the histone acetyltransferase produced from the KAT6B gene. It appears to regulate genes that are important for early development, including development of the skeleton and nervous system.  The mutations that cause genitopatellar syndrome occur near the end of the KAT6B gene and lead to the production of a shortened histone acetyltransferase enzyme. Researchers suspect that the shortened enzyme may function differently than the full-length version, altering the regulation of various genes during early development. However, it is unclear how these changes lead to the specific features of genitopatellar syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000403-4" qtype="inheritance">Is genitopatellar syndrome inherited ?</Question>
+			<Answer>This condition has an autosomal dominant inheritance pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. All reported cases have resulted from new mutations in the gene and have occurred in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000403-5" qtype="treatment">What are the treatments for genitopatellar syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of genitopatellar syndrome:  - Gene Review: Gene Review: KAT6B-Related Disorders  - Genetic Testing Registry: Genitopatellar syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000170" source="GHR" url="https://ghr.nlm.nih.gov/condition/cerebrotendinous-xanthomatosis">
+<Focus>cerebrotendinous xanthomatosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238052</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cerebral cholesterinosis</Synonym>
+		<Synonym>cerebrotendinous cholesterinosis</Synonym>
+		<Synonym>cholestanol storage disease</Synonym>
+		<Synonym>CTX</Synonym>
+		<Synonym>Van Bogaert-Scherer-Epstein Disease</Synonym>
+		<Synonym>Xanthomatosis, Cerebrotendinous</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000170-1" qtype="information">What is (are) cerebrotendinous xanthomatosis ?</Question>
+			<Answer>Cerebrotendinous xanthomatosis is a fat (lipid) storage disorder that affects many areas of the body. People with this disorder cannot break down certain lipids effectively, specifically different forms of cholesterol, so these fats accumulate in various areas of the body. Xanthomatosis refers to the formation of fatty yellow nodules (xanthomas). Cerebrotendinous refers to the typical locations of the xanthomas (cerebro- meaning the brain and -tendinous meaning connective tissue called tendons that attach muscle to bone).  Other features of cerebrotendinous xanthomatosis include chronic diarrhea during infancy, clouding of the lens of the eye (cataracts) developing in late childhood, progressively brittle bones that are prone to fracture, and neurological problems in adulthood, such as dementia, seizures, hallucinations, depression, and difficulty with coordinating movements (ataxia) and speech (dysarthria). The neurological symptoms are thought to be caused by an accumulation of fats and an increasing number of xanthomas in the brain. Xanthomas can also accumulate in the fatty substance that insulates and protects nerves (myelin), disrupting nerve signaling in the brain. Disorders that involve the destruction of myelin are known as leukodystrophies. Degeneration (atrophy) of brain tissue caused by excess lipid deposits also contributes to the neurological problems.  Xanthomas in the tendons (most commonly in the Achilles tendon, which connects the heel of the foot to the calf muscles) begin to form in early adulthood. Tendon xanthomas may cause discomfort and interfere with tendon flexibility. People with cerebrotendinous xanthomatosis are also at an increased risk of developing cardiovascular disease. If untreated, the signs and symptoms related to the accumulation of lipids throughout the body worsen over time; however, the course of this condition varies greatly among those who are affected.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000170-2" qtype="frequency">How many people are affected by cerebrotendinous xanthomatosis ?</Question>
+			<Answer>The incidence of cerebrotendinous xanthomatosis is estimated to be 3 to 5 per 100,000 people worldwide. This condition is more common in the Moroccan Jewish population with an incidence of 1 in 108 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000170-3" qtype="genetic changes">What are the genetic changes related to cerebrotendinous xanthomatosis ?</Question>
+			<Answer>Mutations in the CYP27A1 gene cause cerebrotendinous xanthomatosis. The CYP27A1 gene provides instructions for producing an enzyme called sterol 27-hydroxylase. This enzyme works in the pathway that breaks down cholesterol to form acids used in the digestion of fats (bile acids). Mutations in sterol 27-hydroxylase impair its ability to break down cholesterol to a specific bile acid called chenodeoxycholic acid. As a result, a molecule called cholestanol, which is similar to cholesterol, accumulates in xanthomas, blood, nerve cells, and the brain. Cholesterol levels are not increased in the blood, but they are elevated in various tissues throughout the body. The accumulation of cholesterol and cholestanol in the brain, tendons, and other tissues causes the signs and symptoms of cerebrotendinous xanthomatosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000170-4" qtype="inheritance">Is cerebrotendinous xanthomatosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000170-5" qtype="treatment">What are the treatments for cerebrotendinous xanthomatosis ?</Question>
+			<Answer>These resources address the diagnosis or management of cerebrotendinous xanthomatosis:  - Gene Review: Gene Review: Cerebrotendinous Xanthomatosis  - Genetic Testing Registry: Cholestanol storage disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

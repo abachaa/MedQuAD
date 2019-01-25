@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000696" source="GHR" url="https://ghr.nlm.nih.gov/condition/multiple-system-atrophy">
+<Focus>multiple system atrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393571</CUI>
+			<CUI>C0037019</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MSA</Synonym>
+		<Synonym>OPCA</Synonym>
+		<Synonym>Shy-Drager syndrome</Synonym>
+		<Synonym>striatonigral degeneration</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000696-1" qtype="information">What is (are) multiple system atrophy ?</Question>
+			<Answer>Multiple system atrophy is a progressive brain disorder that affects movement and balance and disrupts the function of the autonomic nervous system. The autonomic nervous system controls body functions that are mostly involuntary, such as regulation of blood pressure.  Researchers have described two major types of multiple system atrophy, which are distinguished by their major signs and symptoms at the time of diagnosis. In one type, known as MSA-P, a group of movement abnormalities called parkinsonism are predominant. These abnormalities include unusually slow movement (bradykinesia), muscle rigidity, tremors, and an inability to hold the body upright and balanced (postural instability). The other type of multiple system atrophy, known as MSA-C, is characterized by cerebellar ataxia, which causes problems with coordination and balance. This form of the condition can also include speech difficulties (dysarthria) and problems controlling eye movement.  Both forms of multiple system atrophy are associated with abnormalities of the autonomic nervous system. The most frequent autonomic symptoms associated with multiple system atrophy are a sudden drop in blood pressure upon standing (orthostatic hypotension), urinary difficulties, and erectile dysfunction in men.  Multiple system atrophy usually occurs in older adults; on average, signs and symptoms appear around age 55. The signs and symptoms of the condition worsen with time, and affected individuals survive an average of 9 years after their diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000696-2" qtype="frequency">How many people are affected by multiple system atrophy ?</Question>
+			<Answer>Multiple system atrophy has a prevalence of about 2 to 5 per 100,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000696-3" qtype="genetic changes">What are the genetic changes related to multiple system atrophy ?</Question>
+			<Answer>Multiple system atrophy is a complex condition that is likely caused by the interaction of multiple genetic and environmental factors. Some of these factors have been identified, but many remain unknown.  Changes in several genes have been studied as possible risk factors for multiple system atrophy. The only confirmed genetic risk factors are variants in the SNCA gene. This gene provides instructions for making a protein called alpha-synuclein, which is abundant in normal brain cells but whose function is unknown. Studies suggest that several common variations in the SNCA gene are associated with an increased risk of multiple system atrophy in people of European descent. However, it is unclear how having one of these SNCA gene variants increases the risk of developing this condition.  Researchers have also examined environmental factors that could contribute to the risk of multiple system atrophy. Initial studies suggested that exposure to solvents, certain types of plastic or metal, and other potential toxins might be associated with the condition. However, these associations have not been confirmed.  Multiple system atrophy is characterized by clumps of abnormal alpha-synuclein protein that build up in cells in many parts of the brain and spinal cord. Over time, these clumps (which are known as inclusions) damage cells in parts of the nervous system that control movement, balance and coordination, and autonomic functioning. The progressive loss of cells in these regions underlies the major features of multiple system atrophy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000696-4" qtype="inheritance">Is multiple system atrophy inherited ?</Question>
+			<Answer>Most cases of multiple system atrophy are sporadic, which means they occur in people with no history of the disorder in their family. Rarely, the condition has been reported to run in families; however, it does not have a clear pattern of inheritance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000696-5" qtype="treatment">What are the treatments for multiple system atrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of multiple system atrophy:  - Genetic Testing Registry: Shy-Drager syndrome  - Vanderbilt Autonomic Dysfunction Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

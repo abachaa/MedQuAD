@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004501" source="GARD" url="https://rarediseases.info.nih.gov/gard/10958/oculocutaneous-albinism">
+<Focus>Oculocutaneous albinism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0078918</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>OCA</Synonym>
+		<Synonym>Albinism, Oculocutaneous</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004501-1" qtype="information">What is (are) Oculocutaneous albinism ?</Question>
+			<Answer>Oculocutaneous albinism is a group of conditions that affect the coloring of the hair and eyes.  Individuals affected by oculocutaneous albinism have very light skin and light-colored irises; they may also have vision problems such as decreased sharpness of vision, rapid eye movements (nystagmus), crossed eyes (strabismus), or increased sensitivity to light (photophobia).  All types of oculocutaneous albinism are caused by gene mutations that are inherited in an autosomal recessive manner.  Treatment includes covering the skin from sun exposure by using sunscreen and protective clothing and attending to vision problems by wearing glasses.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004501-2" qtype="symptoms">What are the symptoms of Oculocutaneous albinism ?</Question>
+			<Answer>What are the signs and symptoms of Oculocutaneous albinism? The Human Phenotype Ontology provides the following list of signs and symptoms for Oculocutaneous albinism. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cutaneous photosensitivity 90% Generalized hypopigmentation 90% Hypopigmentation of hair 90% Nystagmus 90% Ocular albinism 90% Visual impairment 90% Abnormality of the macula 50% Astigmatism 50% Hypermetropia 50% Myopia 50% Photophobia 50% Strabismus 50% Neoplasm of the skin 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004501-3" qtype="treatment">What are the treatments for Oculocutaneous albinism ?</Question>
+			<Answer>What treatments are available for oculocutaneous albinism? Individuals with oculocutaneous albinism should have annual skin examinations to check for skin damage or skin cancer and annual eye examination to check vision.  Affected individuals should cover their skin from sun exposure by using sunscreen and wearing protective clothing such as long-sleeve shirts, long pants, and hats with wide brims.  Glasses may be worn to reduce sensitivity to bright light or to improve vision.  Additional therapies or surgery may be used to treat crossed eyes (strabismus) or rapid eye movements (nystagmus).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

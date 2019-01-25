@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000452" source="GHR" url="https://ghr.nlm.nih.gov/condition/hepatic-lipase-deficiency">
+<Focus>hepatic lipase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3151466</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HL deficiency</Synonym>
+		<Synonym>hyperlipidemia due to hepatic triglyceride lipase deficiency</Synonym>
+		<Synonym>LIPC deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000452-1" qtype="information">What is (are) hepatic lipase deficiency ?</Question>
+			<Answer>Hepatic lipase deficiency is a disorder that affects the body&apos;s ability to break down fats (lipids). People with this disorder have increased amounts of certain fats, known as triglycerides and cholesterol, in the blood. These individuals also have increased amounts of molecules known as high-density lipoproteins (HDLs) and decreased amounts of molecules called low-density lipoproteins (LDL). These molecules transport triglycerides and cholesterol throughout the body. In people with hepatic lipase deficiency, the LDL molecules are often abnormally large.  Normally, high levels of HDL (known as &quot;good cholesterol&quot;) and low levels of LDL (known as &quot;bad cholesterol&quot;) are protective against an accumulation of fatty deposits on the artery walls (atherosclerosis) and heart disease. However, some individuals with hepatic lipase deficiency, who have this imbalance of HDL and LDL, develop atherosclerosis and heart disease in mid-adulthood, while others do not. It is unknown whether people with hepatic lipase deficiency have a greater risk of developing atherosclerosis or heart disease than individuals in the general population. Similarly, it is unclear how increased blood triglycerides and cholesterol levels affect the risk of atherosclerosis and heart disease in people with hepatic lipase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000452-2" qtype="frequency">How many people are affected by hepatic lipase deficiency ?</Question>
+			<Answer>Hepatic lipase deficiency is likely a rare disorder; only a few affected families have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000452-3" qtype="genetic changes">What are the genetic changes related to hepatic lipase deficiency ?</Question>
+			<Answer>Hepatic lipase deficiency is caused by mutations in the LIPC gene. This gene provides instructions for making an enzyme called hepatic lipase. This enzyme is produced by liver cells and released into the bloodstream where it helps convert very low-density lipoproteins (VLDLs) and intermediate-density lipoproteins (IDLs) to LDLs. The enzyme also assists in transporting HDLs that carry cholesterol and triglycerides from the blood to the liver, where the HDLs deposit these fats so they can be redistributed to other tissues or removed from the body.  LIPC gene mutations prevent the release of hepatic lipase from the liver or decrease the enzyme&apos;s activity in the bloodstream. As a result, VLDLs and IDLs are not efficiently converted into LDLs, and HDLs carrying cholesterol and triglycerides remain in the bloodstream. It is unclear what effect this change in lipid levels has on people with hepatic lipase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000452-4" qtype="inheritance">Is hepatic lipase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000452-5" qtype="treatment">What are the treatments for hepatic lipase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of hepatic lipase deficiency:  - Genetic Testing Registry: Hepatic lipase deficiency  - MedlinePlus Encyclopedia: Cholesterol Testing and Results  - MedlinePlus Encyclopedia: Triglyceride Level   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

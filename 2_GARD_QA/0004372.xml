@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004372" source="GARD" url="https://rarediseases.info.nih.gov/gard/10420/neurofibromatosis">
+<Focus>Neurofibromatosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162678</CUI>
+			<CUI>C0027831</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Autosomal dominant caf au lait spots</Synonym>
+		<Synonym>Chromosome 17q11.2 deletion syndrome</Synonym>
+		<Synonym>Duodenal carcinoid syndrome</Synonym>
+		<Synonym>Neurofibromatosis type 1</Synonym>
+		<Synonym>Neurofibromatosis type 2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004372-1" qtype="information">What is (are) Neurofibromatosis ?</Question>
+			<Answer>Neurofibromatosis (NF) is a genetic condition that causes tumors to develop in the nervous system. There are three types of neurofibromatosis that are each associated with unique signs and symptoms: Neurofibromatosis type 1 (NF1) causes skin changes (cafe-au-lait spots, freckling in armpit and groin area); bone abnormalities; optic gliomas; and tumors on the nerve tissue or under the skin. Signs and symptoms are usually present at birth. Neurofibromatosis type 2 (NF2) causes acoustic neuromas; hearing loss; ringing in the ears; poor balance; brain and/or spinal tumors; and cataracts at a young age. It often starts in the teen years. Schwannomatosis causes schwannomas, pain, numbness, and weakness. It is the rarest type. All three types of NF are inherited in an autosomal dominant manner. There is no cure for neurofibromatosis. Treatment is aimed at controlling symptoms and may include surgery to remove tumors, radiation therapy and/or medicines.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004372-2" qtype="inheritance">Is Neurofibromatosis inherited ?</Question>
+			<Answer>Is neurofibromatosis inherited? Neurofibromatosis is inherited in an autosomal dominant manner. This means that to be affected, a person only needs a change (mutation) in one copy of the responsible gene in each cell. In some cases, an affected person inherits the mutation from an affected parent. Other cases may result from new (de novo) mutations in the gene. These cases occur in people with no history of the disorder in their family. A person with neurofibromatosis has a 50% chance with each pregnancy of passing along the altered gene to his or her child.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

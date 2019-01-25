@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000181" source="GHR" url="https://ghr.nlm.nih.gov/condition/chordoma">
+<Focus>chordoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008487</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CHDM</Synonym>
+		<Synonym>chordocarcinoma</Synonym>
+		<Synonym>chordoepithelioma</Synonym>
+		<Synonym>notochordal sarcoma</Synonym>
+		<Synonym>notochordoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000181-1" qtype="information">What is (are) chordoma ?</Question>
+			<Answer>A chordoma is a rare type of cancerous tumor that can occur anywhere along the spine, from the base of the skull to the tailbone. Chordomas grow slowly, gradually extending into the bone and soft tissue around them. They often recur after treatment, and in about 40 percent of cases the cancer spreads (metastasizes) to other areas of the body, such as the lungs.  Approximately half of all chordomas occur at the base of the spine (sacrum), about one third occur in the base of the skull (occiput), and the rest occur in the cervical (neck), thoracic (upper back), or lumbar (lower back) vertebrae of the spine. As the chordoma grows, it puts pressure on the adjacent areas of the brain or spinal cord, leading to the signs and symptoms of the disorder. A chordoma anywhere along the spine may cause pain, weakness, or numbness in the back, arms, or legs. A chordoma at the base of the skull (occipital chordoma) may lead to double vision (diplopia) and headaches. A chordoma that occurs in the tailbone (coccygeal chordoma) may result in a lump large enough to be felt through the skin and may cause problems with bladder or bowel function.  Chordomas typically occur in adults between ages 40 and 70. About 5 percent of chordomas are diagnosed in children. For reasons that are unclear, males are affected about twice as often as females.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000181-2" qtype="frequency">How many people are affected by chordoma ?</Question>
+			<Answer>Chordomas are rare, occurring in approximately 1 per million individuals each year. Chordomas comprise fewer than 1 percent of tumors affecting the brain and spinal cord.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000181-3" qtype="genetic changes">What are the genetic changes related to chordoma ?</Question>
+			<Answer>Changes in the T gene have been associated with chordoma. An inherited duplication of the T gene identified in a few families is associated with an increased risk of developing a chordoma. Duplications or increases in activity (expression) of the T gene have also been identified in people with chordoma who have no history of the disorder in their family. In these individuals, the changes occur only in the tumor cells and are not inherited.  The T gene provides instructions for making a protein called brachyury. Brachyury is a member of a protein family called T-box proteins, which play critical roles during embryonic development. T-box proteins regulate the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, T-box proteins are called transcription factors.  The brachyury protein is especially important for the early development of the spine. In human embryos, a structure called the notochord is the precursor of the spinal column. The notochord disappears before birth, but in a small percentage of individuals, some of its cells remain in the base of the skull or in the spine. In rare cases these cells begin to grow and divide uncontrollably, invading the nearby bone and soft tissue and resulting in the development of a chordoma.  Duplications and increases in expression of the T gene both result in the production of excess brachyury protein. The specific mechanism by which excess brachyury protein contributes to the development of chordomas is unclear. Some people with chordoma do not have changes in the T gene, and the cause of the disorder in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000181-4" qtype="inheritance">Is chordoma inherited ?</Question>
+			<Answer>When development of a chordoma is associated with a duplication of the T gene inherited from a parent, one copy of the altered gene in each cell is sufficient to increase the risk of the disorder, which is an inheritance pattern called autosomal dominant. People with this duplication inherit an increased risk of this condition, not the condition itself.  Other cases of chordoma are sporadic, which means they occur in people with no history of the condition in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000181-5" qtype="treatment">What are the treatments for chordoma ?</Question>
+			<Answer>These resources address the diagnosis or management of chordoma:  - Chordoma Foundation: Treatment  - Duke Spine Center  - Genetic Testing Registry: Chordoma  - Massachusetts General Hospital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

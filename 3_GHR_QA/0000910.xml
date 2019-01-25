@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000910" source="GHR" url="https://ghr.nlm.nih.gov/condition/sick-sinus-syndrome">
+<Focus>sick sinus syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963235</CUI>
+			<CUI>C0037052</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>sinus node disease</Synonym>
+		<Synonym>sinus node dysfunction</Synonym>
+		<Synonym>SND</Synonym>
+		<Synonym>SSS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000910-1" qtype="information">What is (are) sick sinus syndrome ?</Question>
+			<Answer>Sick sinus syndrome (also known as sinus node dysfunction) is a group of related heart conditions that can affect how the heart beats. &quot;Sick sinus&quot; refers to the sino-atrial (SA) node, which is an area of specialized cells in the heart that functions as a natural pacemaker. The SA node generates electrical impulses that start each heartbeat. These signals travel from the SA node to the rest of the heart, signaling the heart (cardiac) muscle to contract and pump blood. In people with sick sinus syndrome, the SA node does not function normally. In some cases, it does not produce the right signals to trigger a regular heartbeat. In others, abnormalities disrupt the electrical impulses and prevent them from reaching the rest of the heart.  Sick sinus syndrome tends to cause the heartbeat to be too slow (bradycardia), although occasionally the heartbeat is too fast (tachycardia). In some cases, the heartbeat rapidly switches from being too fast to being too slow, a condition known as tachycardia-bradycardia syndrome. Symptoms related to abnormal heartbeats can include dizziness, light-headedness, fainting (syncope), a sensation of fluttering or pounding in the chest (palpitations), and confusion or memory problems. During exercise, many affected individuals experience chest pain, difficulty breathing, or excessive tiredness (fatigue). Once symptoms of sick sinus syndrome appear, they usually worsen with time. However, some people with the condition never experience any related health problems.  Sick sinus syndrome occurs most commonly in older adults, although it can be diagnosed in people of any age. The condition increases the risk of several life-threatening problems involving the heart and blood vessels. These include a heart rhythm abnormality called atrial fibrillation, heart failure, cardiac arrest, and stroke.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000910-2" qtype="frequency">How many people are affected by sick sinus syndrome ?</Question>
+			<Answer>Sick sinus syndrome accounts for 1 in 600 patients with heart disease who are over age 65. The incidence of this condition increases with age.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000910-3" qtype="genetic changes">What are the genetic changes related to sick sinus syndrome ?</Question>
+			<Answer>Sick sinus syndrome can result from genetic or environmental factors. In many cases, the cause of the condition is unknown.  Genetic changes are an uncommon cause of sick sinus syndrome. Mutations in two genes, SCN5A and HCN4, have been found to cause the condition in a small number of families. These genes provide instructions for making proteins called ion channels that transport positively charged atoms (ions) into cardiac cells, including cells that make up the SA node. The flow of these ions is essential for creating the electrical impulses that start each heartbeat and coordinate contraction of the cardiac muscle. Mutations in these genes reduce the flow of ions, which alters the SA node&apos;s ability to create and spread electrical signals. These changes lead to abnormal heartbeats and the other symptoms of sick sinus syndrome.  A particular variation in another gene, MYH6, appears to increase the risk of developing sick sinus syndrome. The protein produced from the MYH6 gene forms part of a larger protein called myosin, which generates the mechanical force needed for cardiac muscle to contract. Researchers believe that the MYH6 gene variation changes the structure of myosin, which can affect cardiac muscle contraction and increase the likelihood of developing an abnormal heartbeat.  More commonly, sick sinus syndrome is caused by other factors that alter the structure or function of the SA node. These include a variety of heart conditions, other disorders such as muscular dystrophy, abnormal inflammation, or a shortage of oxygen (hypoxia). Certain medications, such as drugs given to treat abnormal heart rhythms or high blood pressure, can also disrupt SA node function. One of the most common causes of sick sinus syndrome in children is trauma to the SA node, such as damage that occurs during heart surgery.  In older adults, sick sinus syndrome is often associated with age-related changes in the heart. Over time, the SA node may harden and develop scar-like damage (fibrosis) that prevents it from working properly.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000910-4" qtype="inheritance">Is sick sinus syndrome inherited ?</Question>
+			<Answer>Most cases of sick sinus syndrome are not inherited. They are described as sporadic, which means they occur in people with no history of the disorder in their family.  When sick sinus syndrome results from mutations in the HCN4 gene, it has an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means that one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.  When sick sinus syndrome is caused by mutations in the SCN5A gene, it is inherited in an autosomal recessive pattern. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000910-5" qtype="treatment">What are the treatments for sick sinus syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of sick sinus syndrome:  - Cleveland Clinic: Management of Arrhythmias  - Genetic Testing Registry: Sick sinus syndrome 1, autosomal recessive  - Genetic Testing Registry: Sick sinus syndrome 2, autosomal dominant  - Genetic Testing Registry: Sick sinus syndrome 3, susceptibility to  - National Heart Lung and Blood Institute: What Is a Pacemaker?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

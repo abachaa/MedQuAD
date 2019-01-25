@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000183" source="GHR" url="https://ghr.nlm.nih.gov/condition/choroideremia">
+<Focus>choroideremia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008525</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>choroidal sclerosis</Synonym>
+		<Synonym>progressive tapetochoroidal dystrophy</Synonym>
+		<Synonym>TCD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000183-1" qtype="information">What is (are) choroideremia ?</Question>
+			<Answer>Choroideremia is a condition characterized by progressive vision loss that mainly affects males. The first symptom of this condition is usually an impairment of night vision (night blindness), which can occur in early childhood. A progressive narrowing of the field of vision (tunnel vision) follows, as well as a decrease in the ability to see details (visual acuity). These vision problems are due to an ongoing loss of cells (atrophy) in the specialized light-sensitive tissue that lines the back of the eye (retina) and a nearby network of blood vessels (the choroid). The vision impairment in choroideremia worsens over time, but the progression varies among affected individuals. However, all individuals with this condition will develop blindness, most commonly in late adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000183-2" qtype="frequency">How many people are affected by choroideremia ?</Question>
+			<Answer>The prevalence of choroideremia is estimated to be 1 in 50,000 to 100,000 people. However, it is likely that this condition is underdiagnosed because of its similarities to other eye disorders. Choroideremia is thought to account for approximately 4 percent of all blindness.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000183-3" qtype="genetic changes">What are the genetic changes related to choroideremia ?</Question>
+			<Answer>Mutations in the CHM gene cause choroideremia. The CHM gene provides instructions for producing the Rab escort protein-1 (REP-1). As an escort protein, REP-1 attaches to molecules called Rab proteins within the cell and directs them to the membranes of various cell compartments (organelles). Rab proteins are involved in the movement of proteins and organelles within cells (intracellular trafficking). Mutations in the CHM gene lead to an absence of REP-1 protein or the production of a REP-1 protein that cannot carry out its protein escort function. This lack of functional REP-1 prevents Rab proteins from reaching and attaching (binding) to the organelle membranes. Without the aid of Rab proteins in intracellular trafficking, cells die prematurely.  The REP-1 protein is active (expressed) throughout the body, as is a similar protein, REP-2. Research suggests that when REP-1 is absent or nonfunctional, REP-2 can perform the protein escort duties of REP-1 in many of the body&apos;s tissues. Very little REP-2 protein is present in the retina, however, so it cannot compensate for the loss of REP-1 in this tissue. Loss of REP-1 function and subsequent misplacement of Rab proteins within the cells of the retina causes the progressive vision loss characteristic of choroideremia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000183-4" qtype="inheritance">Is choroideremia inherited ?</Question>
+			<Answer>Choroideremia is inherited in an X-linked recessive pattern. The CHM gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one mutated copy of the gene in each cell is called a carrier. She can pass on the altered gene, but usually does not experience signs and symptoms of the disorder. Females who carry a CHM mutation may show small areas of cell loss within the retina that can be observed during a thorough eye examination. These changes can impair vision later in life.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000183-5" qtype="treatment">What are the treatments for choroideremia ?</Question>
+			<Answer>These resources address the diagnosis or management of choroideremia:  - Gene Review: Gene Review: Choroideremia  - Genetic Testing Registry: Choroideremia  - MedlinePlus Encyclopedia: Vision - night blindness  - MedlinePlus Encyclopedia: Visual field   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

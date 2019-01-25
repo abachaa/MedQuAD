@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003527" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/001355.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Septicemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0243026</CUI>
+			<CUI>C0036690</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Blood poisoning</Synonym>
+		<Synonym>Bacteremia with sepsis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003527-1" qtype="information">What is (are) Septicemia ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

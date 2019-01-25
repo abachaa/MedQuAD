@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004210" source="GARD" url="https://rarediseases.info.nih.gov/gard/7079/multiple-system-atrophy">
+<Focus>Multiple system atrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393571</CUI>
+			<CUI>C0037019</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MSA</Synonym>
+		<Synonym>Shy-Dragger syndrome (formerly)</Synonym>
+		<Synonym>Primary orthostatic hypotension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004210-1" qtype="information">What is (are) Multiple system atrophy ?</Question>
+			<Answer>Multiple system atrophy (MSA) is a progressive neurodegenerative disorder characterized by symptoms of autonomic nervous system failure such as fainting spells and bladder control problems, combined with motor control symptoms such as tremor, rigidity, and loss of muscle coordination.  MSA affects both men and women primarily in their 50s.  The disease tends to advance rapidly over the course of 9 to 10 years, with progressive loss of motor skills, eventual confinement to bed, and death. The cause of multiple system atrophy is unknown, although environmental toxins, trauma, and genetic factors have been suggested. Most cases are sporadic, meaning they occur at random. A possible risk factor for the disease is variations in the synuclein gene SCNA, which provides instructions for the production of alpha-synuclein. A characteristic feature of MSA is the accumulation of the protein alpha-synuclein in glia, the cells that support nerve cells in the brain. These deposits of alpha-synuclein particularly occur in oligodendroglia, a type of cell that makes myelin (a coating on nerve cells that lets them conduct electrical signals rapidly). This protein also accumulates in Parkinsons disease, but in nerve cells. Because they both have a buildup of alpha-synuclein in cells, MSA and Parkinsons disease are sometimes referred to as synucleinopathies.  There is no cure for this condition, and there is no known way to prevent the disease from getting worse. The goal of treatment is to control symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004210-2" qtype="symptoms">What are the symptoms of Multiple system atrophy ?</Question>
+			<Answer>What are the signs and symptoms of Multiple system atrophy? The Human Phenotype Ontology provides the following list of signs and symptoms for Multiple system atrophy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cognitive impairment 5% Adult onset - Anhidrosis - Ataxia - Autosomal dominant inheritance - Autosomal recessive inheritance - Babinski sign - Bradykinesia - Dysarthria - Dysautonomia - Gaze-evoked nystagmus - Hyperreflexia - Hypohidrosis - Impotence - Iris atrophy - Neurodegeneration - Olivopontocerebellar atrophy - Orthostatic hypotension - Parkinsonism - Phenotypic variability - Postural instability - Progressive - Ptosis - Rigidity - Skeletal muscle atrophy - Sporadic - Tremor - Urinary incontinence - Urinary urgency - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

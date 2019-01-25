@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001812" source="GARD" url="https://rarediseases.info.nih.gov/gard/1823/developmental-dysphasia-familial">
+<Focus>Developmental dysphasia familial</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0454652</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Developmental language disorder</Synonym>
+		<Synonym>Specific language impairment</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001812-1" qtype="information">What is (are) Developmental dysphasia familial ?</Question>
+			<Answer>Developmental dysphasia is a language disorder that develops in children. The disorder typically involves difficulties speaking and understanding spoken words. The symptoms cannot be attributed to sensorimotor, intellectual deficits, autism spectrum, or other developmental impairments. Likewise it does not occur as the consequence of an evident brain lesion or as a result of the child&apos;s social environment. Familial cases of developmental dyphasia have been described. In these families, the condition is inherited in an autosomal dominant fashion.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

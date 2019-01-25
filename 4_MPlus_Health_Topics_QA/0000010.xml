@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000010" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/acutemyeloidleukemia.html">
+<Focus>Acute Myeloid Leukemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023467</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acute myelogenous leukemia</Synonym>
+		<Synonym>AML</Synonym>
+		<Synonym>ANLL</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000010-1" qtype="information">What is (are) Acute Myeloid Leukemia ?</Question>
+			<Answer>Leukemia is cancer of the white blood cells. White blood cells help your body fight infection. Your blood cells form in your bone marrow. In leukemia, however, the bone marrow produces abnormal white blood cells. These cells crowd out the healthy blood cells, making it hard for blood to do its work. In acute myeloid leukemia (AML), there are too many of a specific type of white blood cell called a myeloblast.    AML is the most common type of acute leukemia in adults. This type of cancer usually gets worse quickly if it is not treated. Possible risk factors include smoking, previous chemotherapy treatment, and exposure to radiation.     Symptoms of AML include:       - Fever    - Shortness of breath    - Easy bruising or bleeding    - Bleeding under the skin    - Weakness or feeling tired    - Weight loss or loss of appetite       Tests that examine the blood and bone marrow diagnose AML. Treatments include chemotherapy, other drugs, radiation therapy, stem cell transplants, and targeted therapy. Targeted therapy uses substances that attack cancer cells without harming normal cells. Once the leukemia is in remission, you need additional treatment to make sure that it does not come back.    NIH: National Cancer Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

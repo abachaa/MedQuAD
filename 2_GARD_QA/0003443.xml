@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003443" source="GARD" url="https://rarediseases.info.nih.gov/gard/10472/l-2-hydroxyglutaric-aciduria">
+<Focus>L-2-hydroxyglutaric aciduria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2746066</CUI>
+			<CUI>C1855995</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>L-2-hydroxyglutaric acidemia</Synonym>
+		<Synonym>2-Hydroxyglutaric aciduria</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003443-1" qtype="information">What is (are) L-2-hydroxyglutaric aciduria ?</Question>
+			<Answer>L-2-hydroxyglutaric aciduria is an inherited metabolic condition that is associated with progressive brain damage. Signs and symptoms of this condition typically begin during infancy or early childhood and may include developmental delay, seizures, speech difficulties, macrocephaly and abnormalities in a part of the brain called the cerebellum, which is involved in coordinating movement (i.e. balance and muscle coordination). L-2-hydroxyglutaric aciduria is caused by changes (mutations) in the L2HGDH gene and is inherited in an autosomal recessive manner. Treatment is focused on alleviating the signs and symptoms of the condition, such as medications to control seizures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003443-2" qtype="symptoms">What are the symptoms of L-2-hydroxyglutaric aciduria ?</Question>
+			<Answer>What are the signs and symptoms of L-2-hydroxyglutaric aciduria? The Human Phenotype Ontology provides the following list of signs and symptoms for L-2-hydroxyglutaric aciduria. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cognitive impairment 90% Encephalitis 90% Seizures 90% Abnormality of extrapyramidal motor function 50% Aplasia/Hypoplasia of the cerebellum 50% Behavioral abnormality 50% Hypertonia 50% Macrocephaly 50% Muscular hypotonia 50% Neoplasm of the nervous system 50% Neurological speech impairment 7.5% Abnormal pyramidal signs - Autosomal recessive inheritance - Cerebellar atrophy - Corpus callosum atrophy - Developmental regression - Dysphasia - Gliosis - Global brain atrophy - Hearing impairment - Infantile onset - Intellectual disability, progressive - Intellectual disability, severe - L-2-hydroxyglutaric acidemia - L-2-hydroxyglutaric aciduria - Leukoencephalopathy - Morphological abnormality of the pyramidal tract - Nystagmus - Optic atrophy - Severe demyelination of the white matter - Spastic tetraparesis - Strabismus - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002013" source="GARD" url="https://rarediseases.info.nih.gov/gard/12798/early-onset-autosomal-dominant-alzheimer-disease">
+<Focus>Early-onset, autosomal dominant Alzheimer disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002395</CUI>
+			<CUI>C1833334</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>EOFAD</Synonym>
+		<Synonym>Early-onset familial autosomal dominant Alzheimer disease</Synonym>
+		<Synonym>Early-onset autosomal dominant Alzheimer disease</Synonym>
+		<Synonym>Familial Alzheimer disease</Synonym>
+		<Synonym>Alzheimer disease</Synonym>
+		<Synonym>Alzheimer disease type 1</Synonym>
+		<Synonym>Alzheimer disease type 3</Synonym>
+		<Synonym>Alzheimer disease type 4</Synonym>
+		<Synonym>Familial Alzheimer disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002013-1" qtype="information">What is (are) Early-onset, autosomal dominant Alzheimer disease ?</Question>
+			<Answer>Early-onset, autosomal dominant Alzheimer disease is a form of Alzheimer disease (AD) that develops before the age of 65. In general, AD is a degenerative disease of the brain that causes gradual loss of memory, judgement, and the ability to function socially. The early-onset, autosomal dominant form of AD is caused by changes (mutations) one of three different genes: APP, PSEN1, and PSEN2. The condition is inherited in an autosomal dominant manner. There is no cure for AD. Treatment is supportive and based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002013-2" qtype="inheritance">Is Early-onset, autosomal dominant Alzheimer disease inherited ?</Question>
+			<Answer>How is early-onset, autosomal dominant Alzheimer disease inherited? Early-onset, autosomal dominant Alzheimer disease is inherited in an autosomal dominant manner. This means that to be affected, a person only needs a change (mutation) in one copy of the responsible gene in each cell. In some cases, an affected person inherits the mutation from an affected parent. Other cases may result from new (de novo) mutations in the gene. These cases occur in people with no history of the disorder in their family. A person with this condition has a 50% chance with each pregnancy of passing along the altered gene to his or her child.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

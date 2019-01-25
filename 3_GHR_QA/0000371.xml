@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000371" source="GHR" url="https://ghr.nlm.nih.gov/condition/fatty-acid-hydroxylase-associated-neurodegeneration">
+<Focus>fatty acid hydroxylase-associated neurodegeneration</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3668943</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dysmyelinating leukodystrophy and spastic paraparesis</Synonym>
+		<Synonym>FAHN</Synonym>
+		<Synonym>spastic paraplegia 35</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000371-1" qtype="information">What is (are) fatty acid hydroxylase-associated neurodegeneration ?</Question>
+			<Answer>Fatty acid hydroxylase-associated neurodegeneration (FAHN) is a progressive disorder of the nervous system (neurodegeneration) characterized by problems with movement and vision that begin during childhood or adolescence.  Changes in the way a person walks (gait) and frequent falls are usually the first noticeable signs of FAHN. Affected individuals gradually develop extreme muscle stiffness (spasticity) and exaggerated reflexes. They typically have involuntary muscle cramping (dystonia), problems with coordination and balance (ataxia), or both. The movement problems worsen over time, and some people with this condition eventually require wheelchair assistance.  People with FAHN often develop vision problems, which occur due to deterioration (atrophy) of the nerves that carry information from the eyes to the brain (the optic nerves) and difficulties with the muscles that control eye movement. Affected individuals may have a loss of sharp vision (reduced visual acuity), decreased field of vision, impaired color perception, eyes that do not look in the same direction (strabismus), rapid involuntary eye movements (nystagmus), or difficulty moving the eyes intentionally (supranuclear gaze palsy).  Speech impairment (dysarthria) also occurs in FAHN, and severely affected individuals may lose the ability to speak. People with this disorder may also have difficulty chewing or swallowing (dysphagia). In severe cases, they may develop malnutrition and require a feeding tube. The swallowing difficulties can lead to a bacterial lung infection called aspiration pneumonia, which can be life-threatening. As the disorder progresses, some affected individuals experience seizures and a decline in intellectual function.  Magnetic resonance imaging (MRI) of the brain in people with FAHN shows signs of iron accumulation, especially in an area of the brain called the globus pallidus, which is involved in regulating movement. Similar patterns of iron accumulation are seen in certain other neurological disorders such as infantile neuroaxonal dystrophy and pantothenate kinase-associated neurodegeneration. All these conditions belong to a class of disorders called neurodegeneration with brain iron accumulation (NBIA).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000371-2" qtype="frequency">How many people are affected by fatty acid hydroxylase-associated neurodegeneration ?</Question>
+			<Answer>FAHN is a rare disorder; only a few dozen cases have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000371-3" qtype="genetic changes">What are the genetic changes related to fatty acid hydroxylase-associated neurodegeneration ?</Question>
+			<Answer>Mutations in the FA2H gene cause FAHN. The FA2H gene provides instructions for making an enzyme called fatty acid 2-hydroxylase. This enzyme modifies fatty acids, which are building blocks used to make fats (lipids). Specifically, fatty acid 2-hydroxylase adds a single oxygen atom to a hydrogen atom at a particular point on a fatty acid to create a 2-hydroxylated fatty acid. Certain 2-hydroxylated fatty acids are important in forming normal myelin; myelin is the protective covering that insulates nerves and ensures the rapid transmission of nerve impulses. The part of the brain and spinal cord that contains myelin is called white matter.  The FA2H gene mutations that cause FAHN reduce or eliminate the function of the fatty acid 2-hydroxylase enzyme. Reduction of this enzyme&apos;s function may result in abnormal myelin that is prone to deterioration (demyelination), leading to a loss of white matter (leukodystrophy). Leukodystrophy is likely involved in the development of the movement problems and other neurological abnormalities that occur in FAHN. Iron accumulation in the brain is probably also involved, although it is unclear how FA2H gene mutations lead to the buildup of iron.  People with FA2H gene mutations and some of the movement problems seen in FAHN were once classified as having a separate disorder called spastic paraplegia 35. People with mutations in this gene resulting in intellectual decline and optic nerve atrophy were said to have a disorder called FA2H-related leukodystrophy. However, these conditions are now generally considered to be forms of FAHN.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000371-4" qtype="inheritance">Is fatty acid hydroxylase-associated neurodegeneration inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000371-5" qtype="treatment">What are the treatments for fatty acid hydroxylase-associated neurodegeneration ?</Question>
+			<Answer>These resources address the diagnosis or management of fatty acid hydroxylase-associated neurodegeneration:  - Gene Review: Gene Review: Fatty Acid Hydroxylase-Associated Neurodegeneration  - Genetic Testing Registry: Spastic paraplegia 35   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

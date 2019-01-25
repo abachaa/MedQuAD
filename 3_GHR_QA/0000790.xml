@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000790" source="GHR" url="https://ghr.nlm.nih.gov/condition/peutz-jeghers-syndrome">
+<Focus>Peutz-Jeghers syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031269</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>intestinal polyposis-cutaneous pigmentation syndrome</Synonym>
+		<Synonym>lentiginosis, perioral</Synonym>
+		<Synonym>periorificial lentiginosis syndrome</Synonym>
+		<Synonym>Peutz-Jeghers polyposis</Synonym>
+		<Synonym>PJS</Synonym>
+		<Synonym>polyposis, hamartomatous intestinal</Synonym>
+		<Synonym>polyposis, intestinal, II</Synonym>
+		<Synonym>polyps-and-spots syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000790-1" qtype="information">What is (are) Peutz-Jeghers syndrome ?</Question>
+			<Answer>Peutz-Jeghers syndrome is characterized by the development of noncancerous growths called hamartomatous polyps in the gastrointestinal tract (particularly the stomach and intestines) and a greatly increased risk of developing certain types of cancer.  Children with Peutz-Jeghers syndrome often develop small, dark-colored spots on the lips, around and inside the mouth, near the eyes and nostrils, and around the anus. These spots may also occur on the hands and feet. They appear during childhood and often fade as the person gets older. In addition, most people with Peutz-Jeghers syndrome develop multiple polyps in the stomach and intestines during childhood or adolescence. Polyps can cause health problems such as recurrent bowel obstructions, chronic bleeding, and abdominal pain.  People with Peutz-Jeghers syndrome have a high risk of developing cancer during their lifetimes. Cancers of the gastrointestinal tract, pancreas, cervix, ovary, and breast are among the most commonly reported tumors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000790-2" qtype="frequency">How many people are affected by Peutz-Jeghers syndrome ?</Question>
+			<Answer>The prevalence of this condition is uncertain; estimates range from 1 in 25,000 to 300,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000790-3" qtype="genetic changes">What are the genetic changes related to Peutz-Jeghers syndrome ?</Question>
+			<Answer>Mutations in the STK11 gene (also known as LKB1) cause most cases of Peutz-Jeghers syndrome. The STK11 gene is a tumor suppressor gene, which means that it normally prevents cells from growing and dividing too rapidly or in an uncontrolled way. A mutation in this gene alters the structure or function of the STK11 protein, disrupting its ability to restrain cell division. The resulting uncontrolled cell growth leads to the formation of noncancerous polyps and cancerous tumors in people with Peutz-Jeghers syndrome.  A small percentage of people with Peutz-Jeghers syndrome do not have mutations in the STK11 gene. In these cases, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000790-4" qtype="inheritance">Is Peutz-Jeghers syndrome inherited ?</Question>
+			<Answer>Peutz-Jeghers syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase the risk of developing noncancerous polyps and cancerous tumors. In about half of all cases, an affected person inherits a mutation in the STK11 gene from one affected parent. The remaining cases occur in people with no history of Peutz-Jeghers syndrome in their family. These cases appear to result from new (de novo) mutations in the STK11 gene.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000790-5" qtype="treatment">What are the treatments for Peutz-Jeghers syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Peutz-Jeghers syndrome:  - Gene Review: Gene Review: Peutz-Jeghers Syndrome  - Genetic Testing Registry: Peutz-Jeghers syndrome  - MedlinePlus Encyclopedia: Peutz-Jeghers Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

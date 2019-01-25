@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004739" source="GARD" url="https://rarediseases.info.nih.gov/gard/9787/parkes-weber-syndrome">
+<Focus>Parkes Weber syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022739</CUI>
+			<CUI>C0038505</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PKWS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004739-1" qtype="information">What is (are) Parkes Weber syndrome ?</Question>
+			<Answer>Parkes Weber syndrome (PWS) is a rare congenital condition causing an individual to have a large number of abnormal blood vessels. The main characteristics of PWS typically include a capillary malformation on the skin; hypertrophy (excessive growth) of the bone and soft tissue of the affected limb; and multiple arteriovenous fistulas (abnormal connections between arteries and veins) which can potentially lead to heart failure. Individuals may also have pain in the affected limb and a difference in size between the limbs. There has been evidence that some cases of PWS are caused by mutations in the RASA1 gene and are inherited in an autosomal dominant manner. Management typically depends on the presence and severity of symptoms and may include embolization or surgery in the affected limb.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004739-2" qtype="symptoms">What are the symptoms of Parkes Weber syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Parkes Weber syndrome? Parkes Weber syndrome is characterized by birthmarks caused by capillary malformations on the skin; hypertrophy (excessive growth) of the bone and soft tissue of the affected limb (which may lead to a difference in size between the affected and non-affected limb); and multiple arteriovenous fistulas (abnormal connections between arteries and veins). The Human Phenotype Ontology provides the following list of signs and symptoms for Parkes Weber syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of coagulation 90% Abnormality of limb bone morphology 90% Lower limb asymmetry 90% Peripheral arteriovenous fistula 90% Skeletal muscle hypertrophy 90% Telangiectasia of the skin 90% Venous insufficiency 50% Congestive heart failure 7.5% Glaucoma 7.5% Hemiplegia/hemiparesis 7.5% Migraine 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004739-3" qtype="treatment">What are the treatments for Parkes Weber syndrome ?</Question>
+			<Answer>How might Parkes Weber syndrome be treated? For capillary malformations (such as port wine stains) that are of cosmetic concern, individuals may be referred to a dermatologist. For arteriovenous malformations (AVMs) and arteriovenous fistulas (AVFs), the risks and benefits of intervention (i,e, embolization versus surgery) may be considered, usually with input from a multi-disciplinary team (e.g., specialists in interventional radiology, neurosurgery, surgery, cardiology, and dermatology). For risks associated with heart failure, referral to a cardiologist may be warranted. Hypertrophy (overgrowth) of the limb and/or difference in size between limbs may be treated surgically by an orthopedist. Supportive care may include compression garments (tight-fitting pieces of clothing on the affected limb to reduce pain and swelling); these may also protect the limb from bumps and scrapes, which can cause bleeding. Heel inserts may be used if the legs are different lengths, which can aid in walking normally. Various pain medications and antibiotic medications may be prescribed as needed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

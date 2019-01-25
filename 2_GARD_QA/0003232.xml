@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003232" source="GARD" url="https://rarediseases.info.nih.gov/gard/6787/interstitial-cystitis">
+<Focus>Interstitial cystitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0600040</CUI>
+			<CUI>C0282488</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hunner's patch</Synonym>
+		<Synonym>Hunner's ulcer</Synonym>
+		<Synonym>IC</Synonym>
+		<Synonym>Pelvic pain syndrome</Synonym>
+		<Synonym>Trigonitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003232-1" qtype="information">What is (are) Interstitial cystitis ?</Question>
+			<Answer>Interstitial cystitis (IC) is a condition that causes discomfort or pain in the bladder and abdomen. Symptoms may vary, but often include an urgent or frequent need to urinate. Many of the individuals affected by IC are women. Because IC varies so much in symptoms and severity, most researchers believe it is not one, but several diseases. In recent years, scientists have started to use the terms bladder pain syndrome (BPS) or painful bladder syndrome (PBS) to describe cases with painful urinary symptoms that may not meet the strictest definition of IC. While there is no cure for IC/PBS, in many cases, the symptoms can be managed. Treatments include dietary and lifestyle changes; distending, or inflating, the bladder; bathing the inside of the bladder with a medicine solution; oral medicines and in rare cases, surgery.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

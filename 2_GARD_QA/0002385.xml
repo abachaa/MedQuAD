@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002385" source="GARD" url="https://rarediseases.info.nih.gov/gard/6452/fitz-hugh-curtis-syndrome">
+<Focus>Fitz-Hugh-Curtis syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0549148</CUI>
+			<CUI>C0341816</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Gonococcal perihepatitis</Synonym>
+		<Synonym>Perihepatitis syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002385-1" qtype="information">What is (are) Fitz-Hugh-Curtis syndrome ?</Question>
+			<Answer>Fitz-Hugh-Curtis syndrome (FHCS) is a condition in which a woman has swelling of the tissue covering the liver as a result of having pelvic inflammatory disease (PID).  Symptoms most often include pain in the upper right abdomen just below the ribs, fever, nausea, or vomiting.  The symptoms of pelvic inflammatory disease - pain in the lower abdomen and vaginal discharge - are often present as well.  FHCS is usually caused by an infection of chlamydia or gonorrhea that leads to PID; it is not known why PID progresses to FHCS in some women.  Fitz-Hugh-Curtis syndrome is treated with antibiotics.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002385-2" qtype="treatment">What are the treatments for Fitz-Hugh-Curtis syndrome ?</Question>
+			<Answer>How might Fitz-Hugh-Curtis syndrome be treated? Fitz-Hugh-Curtis syndrome (FHCS) is treated with antibiotics, given by intravenous (IV) injection or as medication taken by mouth.  The specific antibiotic medication is determined by the type of underlying infection; that is, treatment depends on whether the infection is chlamydia or gonorrhea.  If pain continues after treatment with antibiotics, surgery (laparoscopy) may be done to remove bands of tissue (adhesions) that connect the liver to the abdominal wall and cause pain in individuals with FHCS.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

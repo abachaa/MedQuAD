@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000306" source="GHR" url="https://ghr.nlm.nih.gov/condition/duchenne-and-becker-muscular-dystrophy">
+<Focus>Duchenne and Becker muscular dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3542021</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DBMD</Synonym>
+		<Synonym>Duchenne/Becker muscular dystrophy</Synonym>
+		<Synonym>muscular dystrophy, Duchenne and Becker types</Synonym>
+		<Synonym>muscular dystrophy, pseudohypertrophic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000306-1" qtype="information">What is (are) Duchenne and Becker muscular dystrophy ?</Question>
+			<Answer>Muscular dystrophies are a group of genetic conditions characterized by progressive muscle weakness and wasting (atrophy). The Duchenne and Becker types of muscular dystrophy are two related conditions that primarily affect skeletal muscles, which are used for movement, and heart (cardiac) muscle. These forms of muscular dystrophy occur almost exclusively in males.  Duchenne and Becker muscular dystrophies have similar signs and symptoms and are caused by different mutations in the same gene. The two conditions differ in their severity, age of onset, and rate of progression. In boys with Duchenne muscular dystrophy, muscle weakness tends to appear in early childhood and worsen rapidly. Affected children may have delayed motor skills, such as sitting, standing, and walking. They are usually wheelchair-dependent by adolescence. The signs and symptoms of Becker muscular dystrophy are usually milder and more varied. In most cases, muscle weakness becomes apparent later in childhood or in adolescence and worsens at a much slower rate.  Both the Duchenne and Becker forms of muscular dystrophy are associated with a heart condition called cardiomyopathy. This form of heart disease weakens the cardiac muscle, preventing the heart from pumping blood efficiently. In both Duchenne and Becker muscular dystrophy, cardiomyopathy typically begins in adolescence. Later, the heart muscle becomes enlarged, and the heart problems develop into a condition known as dilated cardiomyopathy. Signs and symptoms of dilated cardiomyopathy can include an irregular heartbeat (arrhythmia), shortness of breath, extreme tiredness (fatigue), and swelling of the legs and feet. These heart problems worsen rapidly and become life-threatening in many cases. Males with Duchenne muscular dystrophy typically live into their twenties, while males with Becker muscular dystrophy can survive into their forties or beyond.  A related condition called DMD-associated dilated cardiomyopathy is a form of heart disease caused by mutations in the same gene as Duchenne and Becker muscular dystrophy, and it is sometimes classified as subclinical Becker muscular dystrophy. People with DMD-associated dilated cardiomyopathy typically do not have any skeletal muscle weakness or wasting, although they may have subtle changes in their skeletal muscle cells that are detectable through laboratory testing.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000306-2" qtype="frequency">How many people are affected by Duchenne and Becker muscular dystrophy ?</Question>
+			<Answer>Duchenne and Becker muscular dystrophies together affect 1 in 3,500 to 5,000 newborn males worldwide. Between 400 and 600 boys in the United States are born with these conditions each year.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000306-3" qtype="genetic changes">What are the genetic changes related to Duchenne and Becker muscular dystrophy ?</Question>
+			<Answer>Mutations in the DMD gene cause the Duchenne and Becker forms of muscular dystrophy. The DMD gene provides instructions for making a protein called dystrophin. This protein is located primarily in skeletal and cardiac muscle, where it helps stabilize and protect muscle fibers. Dystrophin may also play a role in chemical signaling within cells.  Mutations in the DMD gene alter the structure or function of dystrophin or prevent any functional dystrophin from being produced. Muscle cells without enough of this protein become damaged as muscles repeatedly contract and relax with use. The damaged fibers weaken and die over time, leading to the muscle weakness and heart problems characteristic of Duchenne and Becker muscular dystrophies. Mutations that lead to an abnormal version of dystrophin that retains some function usually cause Becker muscular dystrophy, while mutations that prevent the production of any functional dystrophin tend to cause Duchenne muscular dystrophy.  Because Duchenne and Becker muscular dystrophies result from faulty or missing dystrophin, these conditions are classified as dystrophinopathies.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000306-4" qtype="inheritance">Is Duchenne and Becker muscular dystrophy inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In about two-thirds of cases, an affected male inherits the mutation from his mother, who carries one altered copy of the DMD gene. The other one-third of cases probably result from new mutations in the gene in affected males and are not inherited.  In X-linked recessive inheritance, a female with one mutated copy of the gene in each cell is called a carrier. She can pass on the altered gene but usually does not experience signs and symptoms of the disorder. Occasionally, however, females who carry a DMD gene mutation may have muscle weakness and cramping. These symptoms are typically milder than the severe muscle weakness and atrophy seen in affected males. Females who carry a DMD gene mutation also have an increased risk of developing heart abnormalities including cardiomyopathy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000306-5" qtype="treatment">What are the treatments for Duchenne and Becker muscular dystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of Duchenne and Becker muscular dystrophy:  - Gene Review: Gene Review: Dilated Cardiomyopathy Overview  - Gene Review: Gene Review: Dystrophinopathies  - Genetic Testing Registry: Becker muscular dystrophy  - Genetic Testing Registry: Duchenne muscular dystrophy  - Genomics Education Programme (UK)  - MedlinePlus Encyclopedia: Becker Muscular Dystrophy  - MedlinePlus Encyclopedia: Dilated Cardiomyopathy  - MedlinePlus Encyclopedia: Duchenne Muscular Dystrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

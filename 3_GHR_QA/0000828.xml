@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000828" source="GHR" url="https://ghr.nlm.nih.gov/condition/progressive-familial-heart-block">
+<Focus>progressive familial heart block</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1879286</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>bundle branch block</Synonym>
+		<Synonym>HBBD</Synonym>
+		<Synonym>hereditary bundle branch defect</Synonym>
+		<Synonym>hereditary bundle branch system defect</Synonym>
+		<Synonym>Lenegre Lev disease</Synonym>
+		<Synonym>Lev-Lengre disease</Synonym>
+		<Synonym>Lev syndrome</Synonym>
+		<Synonym>Lev's disease</Synonym>
+		<Synonym>PCCD</Synonym>
+		<Synonym>progressive cardiac conduction defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000828-1" qtype="information">What is (are) progressive familial heart block ?</Question>
+			<Answer>Progressive familial heart block is a genetic condition that alters the normal beating of the heart. A normal heartbeat is controlled by electrical signals that move through the heart in a highly coordinated way. These signals begin in a specialized cluster of cells called the sinoatrial node (the heart&apos;s natural pacemaker) located in the heart&apos;s upper chambers (the atria). From there, a group of cells called the atrioventricular node carries the electrical signals to another cluster of cells called the bundle of His. This bundle separates into multiple thin spindles called bundle branches, which carry electrical signals into the heart&apos;s lower chambers (the ventricles). Electrical impulses move from the sinoatrial node down to the bundle branches, stimulating a normal heartbeat in which the ventricles contract slightly later than the atria.  Heart block occurs when the electrical signaling is obstructed anywhere from the atria to the ventricles. In people with progressive familial heart block, the condition worsens over time: early in the disorder, the electrical signals are partially blocked, but the block eventually becomes complete, preventing any signals from passing through the heart. Partial heart block causes a slow or irregular heartbeat (bradycardia or arrhythmia, respectively), and can lead to the buildup of scar tissue (fibrosis) in the cells that carry electrical impulses. Fibrosis contributes to the development of complete heart block, resulting in uncoordinated electrical signaling between the atria and the ventricles and inefficient pumping of blood in the heart. Complete heart block can cause a sensation of fluttering or pounding in the chest (palpitations), shortness of breath, fainting (syncope), or sudden cardiac arrest and death.  Progressive familial heart block can be divided into type I and type II, with type I being further divided into types IA and IB. These types differ in where in the heart signaling is interrupted and the genetic cause. In types IA and IB, the heart block originates in the bundle branch, and in type II, the heart block originates in the atrioventricular node. The different types of progressive familial heart block have similar signs and symptoms.  Most cases of heart block are not genetic and are not considered progressive familial heart block. The most common cause of heart block is fibrosis of the heart, which occurs as a normal process of aging. Other causes of heart block can include the use of certain medications or an infection of the heart tissue.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000828-2" qtype="frequency">How many people are affected by progressive familial heart block ?</Question>
+			<Answer>The prevalence of progressive familial heart block is unknown. In the United States, about 1 in 5,000 individuals have complete heart block from any cause; worldwide, about 1 in 2,500 individuals have complete heart block.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000828-3" qtype="genetic changes">What are the genetic changes related to progressive familial heart block ?</Question>
+			<Answer>Mutations in the SCN5A and TRPM4 genes cause most cases of progressive familial heart block types IA and IB, respectively. The proteins produced from these genes are channels that allow positively charged atoms (cations) into and out of cells. Both channels are abundant in heart (cardiac) cells and play key roles in these cells&apos; ability to generate and transmit electrical signals. These channels play a major role in signaling the start of each heartbeat, coordinating the contractions of the atria and ventricles, and maintaining a normal heart rhythm.  The SCN5A and TRPM4 gene mutations that cause progressive familial heart block alter the normal function of the channels. As a result of these channel alterations, cardiac cells have difficulty producing and transmitting the electrical signals that are necessary to coordinate normal heartbeats, leading to heart block. Death of these impaired cardiac cells over time can lead to fibrosis, worsening the heart block.  Mutations in other genes, some of which are unknown, account for the remaining cases of progressive familial heart block.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000828-4" qtype="inheritance">Is progressive familial heart block inherited ?</Question>
+			<Answer>Progressive familial heart block types I and II are inherited in an autosomal dominant pattern, which means one copy of an altered gene in each cell is sufficient to cause the disorder. Some people with TRPM4 gene mutations never develop the condition, a situation known as reduced penetrance.  In most cases, an affected person has one parent with progressive familial heart block.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000828-5" qtype="treatment">What are the treatments for progressive familial heart block ?</Question>
+			<Answer>These resources address the diagnosis or management of progressive familial heart block:  - American Heart Association: Common Tests for Arrhythmia  - Genetic Testing Registry: Progressive familial heart block type 1A  - Genetic Testing Registry: Progressive familial heart block type 1B  - Genetic Testing Registry: Progressive familial heart block type 2  - MedlinePlus Health Topic: Pacemakers and Implantable Defibrillators  - National Heart, Lung, and Blood Institute: How Does a Pacemaker Work?  - National Heart, Lung, and Blood Institute: How is Sudden Cardiac Arrest Diagnosed?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

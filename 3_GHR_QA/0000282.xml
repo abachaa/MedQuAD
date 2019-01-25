@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000282" source="GHR" url="https://ghr.nlm.nih.gov/condition/desmosterolosis">
+<Focus>desmosterolosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1865596</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deficiency of 3beta-hydroxysterol delta24-reductase</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000282-1" qtype="information">What is (are) desmosterolosis ?</Question>
+			<Answer>Desmosterolosis is a condition that is characterized by neurological problems, such as brain abnormalities and developmental delay, and can also include other signs and symptoms.  Children with desmosterolosis have delayed speech and motor skills (such as sitting and walking). Later in childhood, some affected individuals are able to walk with support; verbal communication is often limited to a few words or phrases. Common brain abnormalities in desmosterolosis include malformation of the tissue that connects the left and right halves of the brain (the corpus callosum) and loss of white matter, which consists of nerve fibers covered by a fatty substance called myelin.  People with desmosterolosis commonly have muscle stiffness (spasticity) and stiff, rigid joints (arthrogryposis) affecting their hands and feet. Other features seen in some affected individuals include short stature, abnormal head size (either larger or smaller than normal), a small lower jaw (micrognathia), an opening in the roof of the mouth (cleft palate), involuntary eye movements (nystagmus) or eyes that do not look in the same direction (strabismus), heart defects, and seizures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000282-2" qtype="frequency">How many people are affected by desmosterolosis ?</Question>
+			<Answer>The prevalence of desmosterolosis is unknown; at least 10 affected individuals have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000282-3" qtype="genetic changes">What are the genetic changes related to desmosterolosis ?</Question>
+			<Answer>Desmosterolosis is caused by mutations in the DHCR24 gene. This gene provides instructions for making an enzyme called 24-dehydrocholesterol reductase, which is involved in the production (synthesis) of cholesterol. Cholesterol is a waxy, fat-like substance that can be obtained from foods that come from animals (particularly egg yolks, meat, poultry, fish, and dairy products). It can also be produced in various tissues in the body. For example, the brain cannot access the cholesterol that comes from food, so brain cells must produce their own. Cholesterol is necessary for normal embryonic development and has important functions both before and after birth.  DHCR24 gene mutations lead to the production of 24-dehydrocholesterol reductase with reduced activity. As a result, there is a decrease in cholesterol production. Because the brain relies solely on cellular production for cholesterol, it is most severely affected. Without adequate cholesterol, cell membranes are not formed properly and nerve cells are not protected by myelin, leading to the death of these cells. In addition, a decrease in cholesterol production has more severe effects before birth than during other periods of development because of the rapid increase in cell number that takes place. Disruption of normal cell formation before birth likely accounts for the additional developmental abnormalities of desmosterolosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000282-4" qtype="inheritance">Is desmosterolosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000282-5" qtype="treatment">What are the treatments for desmosterolosis ?</Question>
+			<Answer>These resources address the diagnosis or management of desmosterolosis:  - Genetic Testing Registry: Desmosterolosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

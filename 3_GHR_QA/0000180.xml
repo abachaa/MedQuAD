@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000180" source="GHR" url="https://ghr.nlm.nih.gov/condition/chops-syndrome">
+<Focus>CHOPS syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cognitive impairment, coarse facies, heart defects, obesity, pulmonary involvement, short stature, and skeletal dysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000180-1" qtype="information">What is (are) CHOPS syndrome ?</Question>
+			<Answer>CHOPS syndrome is a disorder involving multiple abnormalities that are present from birth (congenital). The name &quot;CHOPS&quot; is an abbreviation for a list of features of the disorder including cognitive impairment, coarse facial features, heart defects, obesity, lung (pulmonary) involvement, short stature, and skeletal abnormalities.  Children with CHOPS syndrome have intellectual disability and delayed development of skills such as sitting and walking. Characteristic facial features include a round face; thick hair; thick eyebrows that grow together in the middle (synophrys); wide-set, bulging eyes with long eyelashes; a short nose; and down-turned corners of the mouth.  Most affected individuals are born with a heart defect called patent ductus arteriosus (PDA). The ductus arteriosus is a connection between two major arteries, the aorta and the pulmonary artery. This connection is open during fetal development and normally closes shortly after birth. However, the ductus arteriosus remains open, or patent, in babies with PDA. If untreated, this heart defect causes infants to breathe rapidly, feed poorly, and gain weight slowly; in severe cases, it can lead to heart failure. Multiple heart abnormalities have sometimes been found in children with CHOPS syndrome. In addition to PDA, affected individuals may have ventricular septal defect, which is a defect in the muscular wall (septum) that separates the right and left sides of the heart&apos;s lower chamber.  People with CHOPS syndrome have abnormalities of the throat and airways that cause momentary cessation of breathing while asleep (obstructive sleep apnea). These abnormalities can also cause affected individuals to breathe food or fluids into the lungs accidentally, which can lead to a potentially life-threatening bacterial lung infection (aspiration pneumonia) and chronic lung disease. Affected individuals are shorter than more than 97 percent of their peers and are overweight for their height. They also have skeletal differences including unusually short fingers and toes (brachydactyly) and abnormally-shaped spinal bones (vertebrae).  Other features that can occur in CHOPS syndrome include a small head size (microcephaly); hearing loss; clouding of the lens of the eye (cataract); a single, horseshoe-shaped kidney; and, in affected males, undescended testes (cryptorchidism).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000180-2" qtype="frequency">How many people are affected by CHOPS syndrome ?</Question>
+			<Answer>CHOPS syndrome is a rare disorder whose prevalence is unknown. Only a few affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000180-3" qtype="genetic changes">What are the genetic changes related to CHOPS syndrome ?</Question>
+			<Answer>CHOPS syndrome is caused by mutations in the AFF4 gene. This gene provides instructions for making part of a protein complex called the super elongation complex (SEC). During embryonic development, the SEC is involved in an activity called transcription, which is the first step in the production of proteins from genes. By re-starting the transcription of certain genes after pauses that normally occur during the process, the SEC helps ensure that development proceeds appropriately before birth.  Mutations in the AFF4 gene are thought to result in an AFF4 protein that is not broken down when it is no longer needed, so more AFF4 protein is available than usual. The excess AFF4 protein interferes with normal pauses in transcription. This dysregulation of transcription leads to problems in the development of multiple organs and tissues, resulting in the signs and symptoms of CHOPS syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000180-4" qtype="inheritance">Is CHOPS syndrome inherited ?</Question>
+			<Answer>CHOPS syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. All known cases of this condition result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. Affected individuals have no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000180-5" qtype="treatment">What are the treatments for CHOPS syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of CHOPS syndrome:  - Genetic Testing Registry: Chops syndrome  - MedlinePlus Encyclopedia: Congenital Heart Defect -- Corrective Surgery   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

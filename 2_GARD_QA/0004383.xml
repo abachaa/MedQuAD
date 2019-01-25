@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004383" source="GARD" url="https://rarediseases.info.nih.gov/gard/10739/neuronal-ceroid-lipofuscinosis">
+<Focus>Neuronal ceroid lipofuscinosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027877</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Batten disease</Synonym>
+		<Synonym>NCL</Synonym>
+		<Synonym>Adult neuronal ceroid lipofuscinosis</Synonym>
+		<Synonym>Autosomal dominant neuronal ceroid lipofuscinosis 4B</Synonym>
+		<Synonym>Ceroid lipofuscinosis neuronal 1</Synonym>
+		<Synonym>Neuronal ceroid lipofuscinosis 10</Synonym>
+		<Synonym>Neuronal ceroid lipofuscinosis 2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004383-1" qtype="information">What is (are) Neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Neuronal ceroid lipofuscinosis (NCL) refers to a group of conditions that affect the nervous system. Signs and symptoms vary widely between the forms but generally include a combination of dementia, vision loss, and epilepsy. Although the NCLs were historically classified according to their age of onset and clinical features, the most recent classification system is primarily based on their underlying genetic cause. Most forms are inherited in an autosomal recessive manner; however, autosomal dominant inheritance has been reported in one adult-onset form (neuronal ceroid lipofuscinosis 4B). Treatment options are limited to therapies that can help relieve some of the symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004383-2" qtype="symptoms">What are the symptoms of Neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>What are the signs and symptoms of Neuronal ceroid lipofuscinosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Neuronal ceroid lipofuscinosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal electroretinogram 90% Abnormality of the retinal vasculature 90% Cognitive impairment 90% EEG abnormality 90% Muscular hypotonia 90% Ocular albinism 90% Seizures 90% Visual impairment 90% Abnormality of metabolism/homeostasis 50% Abnormality of movement 50% Developmental regression 50% Neurological speech impairment 50% Optic atrophy 50% Behavioral abnormality 7.5% Incoordination 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

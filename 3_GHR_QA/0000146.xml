@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000146" source="GHR" url="https://ghr.nlm.nih.gov/condition/canavan-disease">
+<Focus>Canavan disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206307</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACY2 deficiency</Synonym>
+		<Synonym>aminoacylase 2 deficiency</Synonym>
+		<Synonym>Aspa deficiency</Synonym>
+		<Synonym>aspartoacylase deficiency</Synonym>
+		<Synonym>Canavan's disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000146-1" qtype="information">What is (are) Canavan disease ?</Question>
+			<Answer>Canavan disease is a rare inherited disorder that damages the ability of nerve cells (neurons) in the brain to send and receive messages. This disease is one of a group of genetic disorders called leukodystrophies. Leukodystrophies disrupt the growth or maintenance of the myelin sheath, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses.  Neonatal/infantile Canavan disease is the most common and most severe form of the condition. Affected infants appear normal for the first few months of life, but by age 3 to 5 months, problems with development become noticeable. These infants usually do not develop motor skills such as turning over, controlling head movement, and sitting without support. Other common features of this condition include weak muscle tone (hypotonia), an unusually large head size (macrocephaly), and irritability. Feeding and swallowing difficulties, seizures, and sleep disturbances may also develop.  The mild/juvenile form of Canavan disease is less common. Affected individuals have mildly delayed development of speech and motor skills starting in childhood. These delays may be so mild and nonspecific that they are never recognized as being caused by Canavan disease.  The life expectancy for people with Canavan disease varies. Most people with the neonatal/infantile form live only into childhood, although some survive into adolescence or beyond. People with the mild/juvenile form do not appear to have a shortened lifespan.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000146-2" qtype="frequency">How many people are affected by Canavan disease ?</Question>
+			<Answer>While this condition occurs in people of all ethnic backgrounds, it is most common in people of Ashkenazi (eastern and central European) Jewish heritage. Studies suggest that this disorder affects 1 in 6,400 to 13,500 people in the Ashkenazi Jewish population. The incidence in other populations is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000146-3" qtype="genetic changes">What are the genetic changes related to Canavan disease ?</Question>
+			<Answer>Mutations in the ASPA gene cause Canavan disease. The ASPA gene provides instructions for making an enzyme called aspartoacylase. This enzyme normally breaks down a compound called N-acetyl-L-aspartic acid (NAA), which is predominantly found in neurons in the brain. The function of NAA is unclear. Researchers had suspected that it played a role in the production of the myelin sheath, but recent studies suggest that NAA does not have this function. The enzyme may instead be involved in the transport of water molecules out of neurons.  Mutations in the ASPA gene reduce the function of aspartoacylase, which prevents the normal breakdown of NAA. The mutations that cause the neonatal/infantile form of Canavan disease severely impair the enzyme&apos;s activity, allowing NAA to build up to high levels in the brain. The mutations that cause the mild/juvenile form of the disorder have milder effects on the enzyme&apos;s activity, leading to less accumulation of NAA.  An excess of NAA in the brain is associated with the signs and symptoms of Canavan disease. Studies suggest that if NAA is not broken down properly, the resulting chemical imbalance interferes with the formation of the myelin sheath as the nervous system develops. A buildup of NAA also leads to the progressive destruction of existing myelin sheaths. Nerves without this protective covering malfunction, which disrupts normal brain development.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000146-4" qtype="inheritance">Is Canavan disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000146-5" qtype="treatment">What are the treatments for Canavan disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Canavan disease:  - Gene Review: Gene Review: Canavan Disease  - Genetic Testing Registry: Canavan disease, mild  - Genetic Testing Registry: Spongy degeneration of central nervous system  - MedlinePlus Encyclopedia: Canavan Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

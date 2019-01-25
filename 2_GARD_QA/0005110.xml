@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005110" source="GARD" url="https://rarediseases.info.nih.gov/gard/11977/prosthetic-joint-infection">
+<Focus>Prosthetic joint infection</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0410808</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PJI</Synonym>
+		<Synonym>Knee replacement infection</Synonym>
+		<Synonym>Artificial joint infection</Synonym>
+		<Synonym>Joint replacement infection</Synonym>
+		<Synonym>Osteomyelitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005110-1" qtype="information">What is (are) Prosthetic joint infection ?</Question>
+			<Answer>A prosthetic joint infection (PJI) is a rare complication of joint replacement surgery, also known as arthroplasty.  Arthroplasty is done to help relieve pain and restore function in a severely diseased joint, such as a knee, hip or shoulder.  Approximately 0.5 to 1 percent of people with replacement joints develop a PJI.  Infections can occur early in the course of recovery from joint replacement surgery (within the first two months) or much later.  Signs and symptoms of PJI include fever, chills, drainage from the surgical site, and increasing redness, tenderness, swelling and pain of the affected joint.  Prosthetic joint infections are often hard to treat because of the development of a structure called a biofilm within the joint. A biofilm develops when bacteria adhere to the solid surface of the artificial joint. The biofilm can act as a kind of shield to some of the bacteria, making it difficult for the bacteria to be found and destroyed by the body&apos;s defenses or by antibiotic medications. An infected joint replacement usually requires surgery to remove the artificial parts and potent antibiotics to kill the bacteria.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

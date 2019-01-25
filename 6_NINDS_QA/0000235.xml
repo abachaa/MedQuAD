@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000235" source="NINDS" url="http://www.ninds.nih.gov/disorders/polymyositis/polymyositis.htm">
+<Focus>Polymyositis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085655</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000235-1" qtype="information">What is (are) Polymyositis ?</Question>
+			<Answer>Polymyositis is one of a group of muscle diseases known as the inflammatory myopathies, which are characterized by chronic muscle inflammation accompanied by muscle weakness. Polymyositis affects skeletal muscles (those involved with making movement) on both sides of the body. It is rarely seen in persons under age 18; most cases are in adults between the ages of 31 and 60. Progressive muscle weakness starts in the proximal muscles (muscles closest to the trunk of the body) which eventually leads to difficulties climbing stairs, rising from a seated position, lifting objects, or reaching overhead. People with polymyositis may also experience arthritis, shortness of breath, difficulty swallowing and speaking, and heart arrhythmias. In some cases of polymyositis, distal muscles (muscles further away from the trunk of the body, such as those in the forearms and around the ankles and wrists) may be affected as the disease progresses. Polymyositis may be associated with collagen-vascular or autoimmune diseases, such as lupus. Polymyositis may also be associated with infectious disorders, such as HIV-AIDS.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000235-2" qtype="treatment">What are the treatments for Polymyositis ?</Question>
+			<Answer>There is no cure for polymyositis, but the symptoms can be treated. Options include medication, physical therapy, exercise, heat therapy (including microwave and ultrasound), orthotics and assistive devices, and rest. The standard treatment for polymyositis is a corticosteroid drug, given either in pill form or intravenously. Immunosuppressant drugs, such as azathioprine and methotrexate, may reduce inflammation in people who do not respond well to prednisone. Periodic treatment using intravenous immunoglobulin can also improve recovery. Other immunosuppressive agents used to treat the inflammation associated with polymyositis include cyclosporine A, cyclophosphamide, and tacrolimus. Physical therapy is usually recommended to prevent muscle atrophy and to regain muscle strength and range of motion.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000235-3" qtype="outlook">What is the outlook for Polymyositis ?</Question>
+			<Answer>The prognosis for polymyositis varies. Most people respond fairly well to therapy, but some have a more severe disease that does not respond adequately to therapies and are left with significant disability. In rare cases individuals with severe and progressive muscle weakness will develop respiratory failure or pneumonia. Difficulty swallowing may cause weight loss and malnutrition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000235-4" qtype="research">what research (or clinical trials) is being done for Polymyositis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research relating to polymyositis in laboratories at the NIH and support additional research through grants to major medical institutions across the country. Currently funded research is exploring patterns of gene expression among the inflammatory myopathies, the role of viral infection as a precursor to the disorders, and the safety and efficacy of various treatment regimens.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

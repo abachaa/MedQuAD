@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001795" source="GARD" url="https://rarediseases.info.nih.gov/gard/1917/dermatitis-herpetiformis">
+<Focus>Dermatitis herpetiformis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011608</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Duhring Brocq disease</Synonym>
+		<Synonym>Brocq-Duhring disease</Synonym>
+		<Synonym>Duhring's disease</Synonym>
+		<Synonym>DH</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001795-1" qtype="information">What is (are) Dermatitis herpetiformis ?</Question>
+			<Answer>Dermatitis herpetiformis is a rare, chronic, skin disorder characterized by groups of severely itchy blisters and raised skin lesions. These are more common on the knees, elbows, buttocks and shoulder blades. The slow onset of symptoms usually begins during adulthood, but children can also be affected. Other symptoms may include fluid-filled sores; red lesions that resemble hives; and itchiness, redness and burning. The exact cause of this disease is not known, but it is frequently associated with the inability to digest gluten. People with this disease are typically treated with the drug dapsone.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001795-2" qtype="symptoms">What are the symptoms of Dermatitis herpetiformis ?</Question>
+			<Answer>What are the signs and symptoms of Dermatitis herpetiformis ? The Human Phenotype Ontology provides the following list of signs and symptoms for Dermatitis herpetiformis . If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal blistering of the skin 90% Autoimmunity 90% Hypermelanotic macule 90% Malabsorption 90% Microcytic anemia 90% Pruritus 90% Recurrent fractures 90% Urticaria 90% Eczema 50% Bone pain 7.5% Edema 7.5% Lichenification 7.5% Autosomal dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001795-3" qtype="treatment">What are the treatments for Dermatitis herpetiformis ?</Question>
+			<Answer>How might dermatitis herpetiformis be treated? The antibiotic dapsone is extremely effective in treating this condition. Symptomatic improvement may occur in as little as several hours after the first dose. However, dapsone may cause serious side effects and requires regular monitoring by a physician. When this medication is used to relieve the symptoms of dermatitis herpetiformis, it should be taken in the smallest effective dose and for the shortest period possible. In some cases, immunosuppressive medications may be used. These medications do not appear to be as effective. A strict gluten-free diet is also recommended to help control the disease. Following this diet may eliminate the need for medications and prevent later complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

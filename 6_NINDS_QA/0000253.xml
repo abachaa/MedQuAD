@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000253" source="NINDS" url="http://www.ninds.nih.gov/disorders/sjogrens/sjogrens.htm">
+<Focus>Sjgren's Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000253-1" qtype="information">What is (are) Sjgren's Syndrome ?</Question>
+			<Answer>Sjgren&apos;s syndrome is an autoimmune disorder in which immune cells attack and destroy the glands that produce tears and saliva. Sjgren&apos;s syndrome is also associated with rheumatic disorders such as rheumatoid arthritis. The hallmark symptoms of the disorder are dry mouth and dry eyes. In addition, Sjogren&apos;s syndrome may cause skin, nose, and vaginal dryness, and may affect other organs of the body including the kidneys, blood vessels, lungs, liver, pancreas, and brain.  Sjgren&apos;s syndrome affects 1-4 million people in the United States. Most people are more than 40 years old at the time of diagnosis. Women are 9 times more likely to have Sjgren&apos;s syndrome than men.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000253-2" qtype="treatment">What are the treatments for Sjgren's Syndrome ?</Question>
+			<Answer>There is no known cure for Sjgren&apos;s syndrome nor is there a specific treatment to restore gland secretion. Treatment is generally symptomatic and supportive. Moisture replacement therapies may ease the symptoms of dryness. Nonsteroidal anti-inflammatory drugs may be used to treat musculoskeletal symptoms. For individuals with severe complications, corticosteroids or immunosuppressive drugs may be prescribed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000253-3" qtype="outlook">What is the outlook for Sjgren's Syndrome ?</Question>
+			<Answer>Sjgren&apos;s syndrome can damage vital organs of the body with symptoms that may remain stable, worsen, or go into remission. Some people may experience only the mild symptoms of dry eyes and mouth, while others go through cycles of good health followed by severe disease. Many patients are able to treat problems symptomatically. Others are forced to cope with blurred vision, constant eye discomfort, recurrent mouth infections, swollen parotid glands, hoarseness, and difficulty in swallowing and eating. Debilitating fatigue and joint pain can seriously impair quality of life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000253-4" qtype="research">what research (or clinical trials) is being done for Sjgren's Syndrome ?</Question>
+			<Answer>The goals of research on disorders such as Sjgren&apos;s syndrome focus on increasing knowledge and understanding of the disorder, improving diagnostic techniques, testing interventions, and finding ways to treat, prevent, and cure the disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

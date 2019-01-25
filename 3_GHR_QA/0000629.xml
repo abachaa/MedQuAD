@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000629" source="GHR" url="https://ghr.nlm.nih.gov/condition/maternally-inherited-diabetes-and-deafness">
+<Focus>maternally inherited diabetes and deafness</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011053</CUI>
+			<CUI>C1384666</CUI>
+			<CUI>C0011860</CUI>
+			<CUI>C0011849</CUI>
+			<CUI>C0018772</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ballinger-Wallace syndrome</Synonym>
+		<Synonym>diabetes mellitus, type II, with deafness</Synonym>
+		<Synonym>maternally transmitted diabetes-deafness syndrome</Synonym>
+		<Synonym>MIDD</Synonym>
+		<Synonym>mitochondrial inherited diabetes and deafness</Synonym>
+		<Synonym>NIDDM with deafness</Synonym>
+		<Synonym>noninsulin-dependent diabetes mellitus with deafness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000629-1" qtype="information">What is (are) maternally inherited diabetes and deafness ?</Question>
+			<Answer>Maternally inherited diabetes and deafness (MIDD) is a form of diabetes that is often accompanied by hearing loss, especially of high tones. The diabetes in MIDD is characterized by high blood sugar levels (hyperglycemia) resulting from a shortage of the hormone insulin, which regulates the amount of sugar in the blood. In MIDD, the diabetes and hearing loss usually develop in mid-adulthood, although the age that they occur varies from childhood to late adulthood. Typically, hearing loss occurs before diabetes.  Some people with MIDD develop an eye disorder called macular retinal dystrophy, which is characterized by colored patches in the light-sensitive tissue that lines the back of the eye (the retina). This disorder does not usually cause vision problems in people with MIDD. Individuals with MIDD also may experience muscle cramps or weakness, particularly during exercise; heart problems; kidney disease; and constipation. Individuals with MIDD are often shorter than their peers.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000629-2" qtype="frequency">How many people are affected by maternally inherited diabetes and deafness ?</Question>
+			<Answer>About 1 percent of people with diabetes have MIDD. The condition is most common in the Japanese population and has been found in populations worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000629-3" qtype="genetic changes">What are the genetic changes related to maternally inherited diabetes and deafness ?</Question>
+			<Answer>Mutations in the MT-TL1, MT-TK, or MT-TE gene cause MIDD. These genes are found in mitochondrial DNA, which is part of cellular structures called mitochondria. Although most DNA is packaged in chromosomes within the cell nucleus, mitochondria also have a small amount of their own DNA (known as mitochondrial DNA or mtDNA).  The MT-TL1, MT-TK, and MT-TE genes provide instructions for making molecules called transfer RNAs (tRNAs), which are chemical cousins of DNA. These molecules help assemble protein building blocks (amino acids) into functioning proteins. The MT-TL1 gene provides instructions for making a specific form of tRNA that is designated as tRNALeu(UUR). During protein assembly, this molecule attaches to the amino acid leucine (Leu) and inserts it into the appropriate locations in the growing protein. Similarly, the protein produced from the MT-TK gene, called tRNALys, attaches to the amino acid lysine (Lys) and inserts it into proteins being assembled. Also, the protein produced from the MT-TE gene, called tRNAGlu, attaches to the amino acid glutamic acid (Glu) and adds it to growing proteins.  These tRNA molecules are present only in mitochondria, and they help assemble proteins that are involved in producing energy for cells. In certain cells in the pancreas called beta cells, mitochondria also play a role in controlling the amount of sugar (glucose) in the bloodstream. In response to high glucose levels, mitochondria help trigger the release of insulin, which stimulates cells to take up glucose from the blood.  Mutations in the MT-TL1, MT-TK, or MT-TE gene reduce the ability of tRNA to add amino acids to growing proteins, which slows protein production in mitochondria and impairs their functioning. Researchers believe that the disruption of mitochondrial function lessens the ability of mitochondria to help trigger insulin release. In people with this condition, diabetes results when the beta cells do not produce enough insulin to regulate blood sugar effectively. Researchers have not determined how the mutations lead to hearing loss or the other features of MIDD.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000629-4" qtype="inheritance">Is maternally inherited diabetes and deafness inherited ?</Question>
+			<Answer>MIDD is inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.  Most of the body&apos;s cells contain thousands of mitochondria, each with one or more copies of mtDNA. These cells can have a mix of mitochondria containing mutated and unmutated DNA (heteroplasmy). The severity of MIDD is thought to be associated with the percentage of mitochondria with the mtDNA mutation.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000629-5" qtype="treatment">What are the treatments for maternally inherited diabetes and deafness ?</Question>
+			<Answer>These resources address the diagnosis or management of MIDD:  - Genetic Testing Registry: Diabetes-deafness syndrome maternally transmitted   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

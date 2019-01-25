@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000778" source="GHR" url="https://ghr.nlm.nih.gov/condition/pdgfrb-associated-chronic-eosinophilic-leukemia">
+<Focus>PDGFRB-associated chronic eosinophilic leukemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3711560</CUI>
+			<CUI>C0346421</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>atypical Philadelphia-negative chronic myeloid leukemia</Synonym>
+		<Synonym>chronic myelomonocytic leukemia</Synonym>
+		<Synonym>chronic myeloproliferative disorder with eosinophilia</Synonym>
+		<Synonym>clonal eosinophilia with chronic myeloproliferative disorder</Synonym>
+		<Synonym>primary eosinophilia with chronic myeloproliferative disorder</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000778-1" qtype="information">What is (are) PDGFRB-associated chronic eosinophilic leukemia ?</Question>
+			<Answer>PDGFRB-associated chronic eosinophilic leukemia is a type of cancer of blood-forming cells. It is characterized by an elevated number of white blood cells called eosinophils in the blood. These cells help fight infections by certain parasites and are involved in the inflammation associated with allergic reactions. However, these circumstances do not account for the increased number of eosinophils in PDGFRB-associated chronic eosinophilic leukemia. Some people with this condition have an increased number of other types of white blood cells, such as neutrophils or mast cells, in addition to eosinophils. People with this condition can have an enlarged spleen (splenomegaly) or enlarged liver (hepatomegaly). Some affected individuals develop skin rashes, likely as a result of an abnormal immune response due to the increased number of eosinophils.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000778-2" qtype="frequency">How many people are affected by PDGFRB-associated chronic eosinophilic leukemia ?</Question>
+			<Answer>The exact prevalence of PDGFRB-associated chronic eosinophilic leukemia is unknown. For unknown reasons, males are up to nine times more likely than females to develop PDGFRB-associated chronic eosinophilic leukemia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000778-3" qtype="genetic changes">What are the genetic changes related to PDGFRB-associated chronic eosinophilic leukemia ?</Question>
+			<Answer>PDGFRB-associated chronic eosinophilic leukemia is caused by genetic rearrangements that join part of the PDGFRB gene with part of another gene. At least 20 genes have been found that fuse with the PDGFRB gene to cause PDGFRB-associated chronic eosinophilic leukemia. The most common genetic abnormality in this condition results from a rearrangement (translocation) of genetic material that brings part of the PDGFRB gene on chromosome 5 together with part of the ETV6 gene on chromosome 12, creating the ETV6-PDGFRB fusion gene.  The PDGFRB gene provides instructions for making a protein that plays a role in turning on (activating) signaling pathways that control many cell processes, including cell growth and division (proliferation). The ETV6 gene provides instructions for making a protein that turns off (represses) gene activity. This protein is important in development before birth and in regulating blood cell formation. The protein produced from the ETV6-PDGFRB fusion gene, called ETV6/PDGFR, functions differently than the proteins normally produced from the individual genes. Like the normal PDGFR protein, the ETV6/PDGFR fusion protein turns on signaling pathways. However, the fusion protein does not need to be turned on to be active, so the signaling pathways are constantly turned on (constitutively activated). The fusion protein is unable to repress gene activity regulated by the normal ETV6 protein, so gene activity is increased. The constitutively active signaling pathways and abnormal gene activity increase the proliferation and survival of cells.  When the ETV6-PDGFRB fusion gene mutation occurs in cells that develop into blood cells, the growth of eosinophils (and occasionally other blood cells, such as neutrophils and mast cells) is poorly controlled, leading to PDGFRB-associated chronic eosinophilic leukemia. It is unclear why eosinophils are preferentially affected by this genetic change.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000778-4" qtype="inheritance">Is PDGFRB-associated chronic eosinophilic leukemia inherited ?</Question>
+			<Answer>PDGFRB-associated chronic eosinophilic leukemia is not inherited and occurs in people with no history of the condition in their families. Chromosomal rearrangements that lead to a PDGFRB fusion gene are somatic mutations, which are mutations acquired during a person&apos;s lifetime and present only in certain cells. The somatic mutation occurs initially in a single cell, which continues to grow and divide, producing a group of cells with the same mutation (a clonal population).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000778-5" qtype="treatment">What are the treatments for PDGFRB-associated chronic eosinophilic leukemia ?</Question>
+			<Answer>These resources address the diagnosis or management of PDGFRB-associated chronic eosinophilic leukemia:  - Cancer.Net: Leukemia--Eosinophilic: Treatment  - Genetic Testing Registry: Myeloproliferative disorder, chronic, with eosinophilia  - MedlinePlus Encyclopedia: Eosinophil Count--Absolute  - Seattle Cancer Care Alliance: Hypereosinophilia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

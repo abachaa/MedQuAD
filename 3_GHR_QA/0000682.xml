@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000682" source="GHR" url="https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-vi">
+<Focus>mucopolysaccharidosis type VI</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026709</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Arylsulfatase B deficiency</Synonym>
+		<Synonym>Maroteaux-Lamy Syndrome</Synonym>
+		<Synonym>MPS VI</Synonym>
+		<Synonym>MPS6</Synonym>
+		<Synonym>Mucopolysaccharidosis 6</Synonym>
+		<Synonym>Mucopolysaccharidosis VI</Synonym>
+		<Synonym>Polydystrophic Dwarfism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000682-1" qtype="information">What is (are) mucopolysaccharidosis type VI ?</Question>
+			<Answer>Mucopolysaccharidosis type VI (MPS VI), also known as Maroteaux-Lamy syndrome, is a progressive condition that causes many tissues and organs to enlarge and become inflamed or scarred. Skeletal abnormalities are also common in this condition. The rate at which symptoms worsen varies among affected individuals.  People with MPS VI generally do not display any features of the condition at birth. They often begin to show signs and symptoms of MPS VI during early childhood. The features of MPS VI include a large head (macrocephaly), a buildup of fluid in the brain (hydrocephalus), distinctive-looking facial features that are described as &quot;coarse,&quot; and a large tongue (macroglossia). Affected individuals also frequently develop heart valve abnormalities, an enlarged liver and spleen (hepatosplenomegaly), and a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). The airway may become narrow in some people with MPS VI, leading to frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea). The clear covering of the eye (cornea) typically becomes cloudy, which can cause significant vision loss. People with MPS VI may also have recurrent ear infections and hearing loss. Unlike other types of mucopolysaccharidosis, MPS VI does not affect intelligence.  MPS VI causes various skeletal abnormalities, including short stature and joint deformities (contractures) that affect mobility. Individuals with this condition may also have dysostosis multiplex, which refers to multiple skeletal abnormalities seen on x-ray. Carpal tunnel syndrome develops in many children with MPS VI and is characterized by numbness, tingling, and weakness in the hands and fingers. People with MPS VI may develop a narrowing of the spinal canal (spinal stenosis) in the neck, which can compress and damage the spinal cord.  The life expectancy of individuals with MPS VI depends on the severity of symptoms. Without treatment, severely affected individuals may survive only until late childhood or adolescence. Those with milder forms of the disorder usually live into adulthood, although their life expectancy may be reduced. Heart disease and airway obstruction are major causes of death in people with MPS VI.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000682-2" qtype="frequency">How many people are affected by mucopolysaccharidosis type VI ?</Question>
+			<Answer>The exact incidence of MPS VI is unknown, although it is estimated to occur in 1 in 250,000 to 600,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000682-3" qtype="genetic changes">What are the genetic changes related to mucopolysaccharidosis type VI ?</Question>
+			<Answer>Mutations in the ARSB gene cause MPS VI. The ARSB gene provides instructions for producing an enzyme called arylsulfatase B, which is involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs). GAGs were originally called mucopolysaccharides, which is where this condition gets its name. Mutations in the ARSB gene reduce or completely eliminate the function of arylsulfatase B. The lack of arylsulfatase B activity leads to the accumulation of GAGs within cells, specifically inside the lysosomes. Lysosomes are compartments in the cell that digest and recycle different types of molecules. Conditions such as MPS VI that cause molecules to build up inside the lysosomes are called lysosomal storage disorders. The accumulation of GAGs within lysosomes increases the size of the cells, which is why many tissues and organs are enlarged in this disorder. Researchers believe that the buildup of GAGs may also interfere with the functions of other proteins inside lysosomes, triggering inflammation and cell death.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000682-4" qtype="inheritance">Is mucopolysaccharidosis type VI inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000682-5" qtype="treatment">What are the treatments for mucopolysaccharidosis type VI ?</Question>
+			<Answer>These resources address the diagnosis or management of mucopolysaccharidosis type VI:  - Emory University Lysosomal Storage Disease Center  - Genetic Testing Registry: Mucopolysaccharidosis type VI  - MedlinePlus Encyclopedia: Mucopolysaccharides  - National Institute of Neurological Disorders and Stroke: Mucopolysaccharidoses Fact Sheet  - National MPS Society: Treatments   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

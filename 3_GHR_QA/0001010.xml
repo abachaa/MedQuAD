@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001010" source="GHR" url="https://ghr.nlm.nih.gov/condition/usher-syndrome">
+<Focus>Usher syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0271097</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Deafness-retinitis pigmentosa syndrome</Synonym>
+		<Synonym>dystrophia retinae pigmentosa-dysostosis syndrome</Synonym>
+		<Synonym>Graefe-Usher syndrome</Synonym>
+		<Synonym>Hallgren syndrome</Synonym>
+		<Synonym>Retinitis pigmentosa-deafness syndrome</Synonym>
+		<Synonym>Usher's syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001010-1" qtype="information">What is (are) Usher syndrome ?</Question>
+			<Answer>Usher syndrome is a condition characterized by hearing loss or deafness and progressive vision loss. The loss of vision is caused by an eye disease called retinitis pigmentosa (RP), which affects the layer of light-sensitive tissue at the back of the eye (the retina). Vision loss occurs as the light-sensing cells of the retina gradually deteriorate. Night vision loss begins first, followed by blind spots that develop in the side (peripheral) vision. Over time, these blind spots enlarge and merge to produce tunnel vision. In some cases of Usher syndrome, vision is further impaired by clouding of the lens of the eye (cataracts). Many people with retinitis pigmentosa retain some central vision throughout their lives, however.  Researchers have identified three major types of Usher syndrome, designated as types I, II, and III. These types are distinguished by their severity and the age when signs and symptoms appear. Type I is further divided into seven distinct subtypes, designated as types IA through IG. Usher syndrome type II has at least three described subtypes, designated as types IIA, IIB, and IIC.  Individuals with Usher syndrome type I are typically born completely deaf or lose most of their hearing within the first year of life. Progressive vision loss caused by retinitis pigmentosa becomes apparent in childhood. This type of Usher syndrome also includes problems with the inner ear that affect balance. As a result, children with the condition begin sitting independently and walking later than usual.  Usher syndrome type II is characterized by hearing loss from birth and progressive vision loss that begins in adolescence or adulthood. The hearing loss associated with this form of Usher syndrome ranges from mild to severe and mainly affects high tones. Affected children have problems hearing high, soft speech sounds, such as those of the letters d and t. The degree of hearing loss varies within and among families with this condition. Unlike other forms of Usher syndrome, people with type II do not have difficulties with balance caused by inner ear problems.  People with Usher syndrome type III experience progressive hearing loss and vision loss beginning in the first few decades of life. Unlike the other forms of Usher syndrome, infants with Usher syndrome type III are usually born with normal hearing. Hearing loss typically begins during late childhood or adolescence, after the development of speech, and progresses over time. By middle age, most affected individuals are profoundly deaf. Vision loss caused by retinitis pigmentosa also develops in late childhood or adolescence. People with Usher syndrome type III may also experience difficulties with balance due to inner ear problems. These problems vary among affected individuals, however.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001010-2" qtype="frequency">How many people are affected by Usher syndrome ?</Question>
+			<Answer>Usher syndrome is thought to be responsible for 3 percent to 6 percent of all childhood deafness and about 50 percent of deaf-blindness in adults. Usher syndrome type I is estimated to occur in at least 4 per 100,000 people. It may be more common in certain ethnic populations, such as people with Ashkenazi (central and eastern European) Jewish ancestry and the Acadian population in Louisiana. Type II is thought to be the most common form of Usher syndrome, although the frequency of this type is unknown. Type III Usher syndrome accounts for only a small percentage of all Usher syndrome cases in most populations. This form of the condition is more common in the Finnish population, however, where it accounts for about 40 percent of all cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001010-3" qtype="genetic changes">What are the genetic changes related to Usher syndrome ?</Question>
+			<Answer>Mutations in the ADGRV1, CDH23, CLRN1, MYO7A, PCDH15, USH1C, USH1G, and USH2A genes can cause Usher syndrome.  The genes related to Usher syndrome provide instructions for making proteins that play important roles in normal hearing, balance, and vision. They function in the development and maintenance of hair cells, which are sensory cells in the inner ear that help transmit sound and motion signals to the brain. In the retina, these genes are also involved in determining the structure and function of light-sensing cells called rods and cones. In some cases, the exact role of these genes in hearing and vision is unknown. Most of the mutations responsible for Usher syndrome lead to a loss of hair cells in the inner ear and a gradual loss of rods and cones in the retina. Degeneration of these sensory cells causes hearing loss, balance problems, and vision loss characteristic of this condition.  Usher syndrome type I can result from mutations in the CDH23, MYO7A, PCDH15, USH1C, or USH1G gene. At least two other unidentified genes also cause this form of Usher syndrome.  Usher syndrome type II is caused by mutations in at least four genes. Only two of these genes, ADGRV1 and USH2A, have been identified.  Mutations in at least two genes are responsible for Usher syndrome type III; however, CLRN1 is the only gene that has been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001010-4" qtype="inheritance">Is Usher syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001010-5" qtype="treatment">What are the treatments for Usher syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Usher syndrome:  - Gene Review: Gene Review: Usher Syndrome Type I  - Gene Review: Gene Review: Usher Syndrome Type II  - Genetic Testing Registry: Usher syndrome type 2  - Genetic Testing Registry: Usher syndrome, type 1  - Genetic Testing Registry: Usher syndrome, type 3A  - MedlinePlus Encyclopedia: Retinitis Pigmentosa   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

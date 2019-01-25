@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000101" source="NINDS" url="http://www.ninds.nih.gov/disorders/dementiawithlewybodies/dementiawithlewybodies.htm">
+<Focus>Dementia With Lewy Bodies</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0752347</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000101-1" qtype="information">What is (are) Dementia With Lewy Bodies ?</Question>
+			<Answer>Dementia with Lewy bodies (DLB) is one of the most common types of progressive dementia. The central features of DLB include progressive cognitive decline, fluctuations in alertness and attention, visual hallucinations, and parkinsonian motor symptoms, such as slowness of movement, difficulty walking, or rigidity. People may also suffer from depression. The symptoms of DLB are caused by the build-up of Lewy bodies  accumulated bits of alpha-synuclein protein -- inside the nuclei of neurons in areas of the brain that control particular aspects of memory and motor control. Researchers dont know exactly why alpha-synuclein accumulates into Lewy bodies or how Lewy bodies cause the symptoms of DLB, but they do know that alpha-synuclein accumulation is also linked to Parkinson&apos;s disease, multiple system atrophy, and several other disorders, which are referred to as the &quot;synucleinopathies.&quot; The similarity of symptoms between DLB and Parkinsons disease, and between DLB and Alzheimers disease, can often make it difficult for a doctor to make a definitive diagnosis. In addition, Lewy bodies are often also found in the brains of people with Parkinson&apos;s and Alzheimers diseases. These findings suggest that either DLB is related to these other causes of dementia or that an individual can have both diseases at the same time. DLB usually occurs sporadically, in people with no known family history of the disease. However, rare familial cases have occasionally been reported.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000101-2" qtype="treatment">What are the treatments for Dementia With Lewy Bodies ?</Question>
+			<Answer>There is no cure for DLB. Treatments are aimed at controlling the cognitive, psychiatric, and motor symptoms of the disorder. Acetylcholinesterase inhibitors, such as donepezil and rivastigmine, are primarily used to treat the cognitive symptoms of DLB, but they may also be of some benefit in reducing the psychiatric and motor symptoms. Doctors tend to avoid prescribing antipsychotics for hallucinatory symptoms of DLB because of the risk that neuroleptic sensitivity could worsen the motor symptoms. Some individuals with DLB may benefit from the use of levodopa for their rigidity and loss of spontaneous movement.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000101-3" qtype="outlook">What is the outlook for Dementia With Lewy Bodies ?</Question>
+			<Answer>Like Alzheimers disease and Parkinsons disease, DLB is a neurodegenerative disorder that results in progressive intellectual and functional deterioration. There are no known therapies to stop or slow the progression of DLB. Average survival after the time of diagnosis is similar to that in Alzheimers disease, about 8 years, with progressively increasing disability.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000101-4" qtype="research">what research (or clinical trials) is being done for Dementia With Lewy Bodies ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health conduct research related to DLB in laboratories at the NIH and support additional research through grants to major medical institutions across the country. Much of this research focuses on searching for the genetic roots of DLB, exploring the molecular mechanisms of alpha-synuclein accumulation, and discovering how Lewy bodies cause the particular symptoms of DLB and the other synucleinopathies. The goal of NINDS research is to find better ways to prevent, treat, and ultimately cure disorders such as DLB.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

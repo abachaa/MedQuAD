@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000035" source="NINDS" url="http://www.ninds.nih.gov/disorders/autism/autism.htm">
+<Focus>Autism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004352</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000035-1" qtype="information">What is (are) Autism ?</Question>
+			<Answer>Autistic disorder (sometimes called autism or classical ASD) is the most common condition in a group of developmental disorders known as the autism spectrum disorders (ASDs).
+                
+Autistic children have difficulties with social interaction, display problems with verbal and nonverbal communication, and exhibit repetitive behaviors or narrow, obsessive interests. These behaviors can range in impact from mild to disabling. Autism varies widely in its severity and symptoms and may go unrecognized, especially in mildly affected children or when more debilitating handicaps mask it. Scientists arent certain what causes autism, but its likely that both genetics and environment play a role.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000035-2" qtype="treatment">What are the treatments for Autism ?</Question>
+			<Answer>There is no cure for autism. Therapies and behavioral interventions are designed to remedy specific symptoms and can bring about substantial improvement. The ideal treatment plan coordinates therapies and interventions that meet the specific needs of individual children. Treatment options include educational/bahavioral interventions, medications, and other therapies. Most professionals agree that the earlier the intervention, the better.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000035-3" qtype="outlook">What is the outlook for Autism ?</Question>
+			<Answer>For many children, autism symptoms improve with treatment and with age. Some children with autism grow up to lead normal or near-normal lives. Children whose language skills regress early in life, usually before the age of 3, appear to be at risk of developing epilepsy or seizure-like brain activity. During adolescence, some children with autism may become depressed or experience behavioral problems. Parents of these children should be ready to adjust treatment for their child as needed. People with an ASD usually continue to need services and support as they get older but many are able to work successfully and live independently or within a supportive environment.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000035-4" qtype="research">what research (or clinical trials) is being done for Autism ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research in its laboratories at the National Institutes of Health (NIH) and also supports additional research through grants to major medical institutions across the country. As part of the Childrens Health Act of 2000, the NINDS and three sister institutes have formed the NIH Autism Coordinating Committee to expand, intensify, and coordinate NIHs autism research. As part of the Childrens Health Act of 2000, the NINDS and three sister institutes have formed the NIH Autism Coordinating Committee to expand, intensify, and coordinate NIHs autism research. Eight dedicated research centers across the country have been established as Centers of Excellence in Autism Research to bring together researchers and the resources they need.  The Centers are conducting basic and clinical research, including investigations into causes, diagnosis, early detection, prevention, and treatment of autism.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

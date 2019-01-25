@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000094" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/birdflu.html">
+<Focus>Bird Flu</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016627</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Avian flu</Synonym>
+		<Synonym>Avian influenza</Synonym>
+		<Synonym>H5N1</Synonym>
+		<Synonym>H7N9</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000094-1" qtype="information">What is (are) Bird Flu ?</Question>
+			<Answer>Birds, just like people, get the flu. Bird flu viruses infect birds, including chickens, other poultry, and wild birds such as ducks. Most bird flu viruses can only infect other birds. However, bird flu can pose health risks to people. The first case of a bird flu virus infecting a person directly, H5N1, was in Hong Kong in 1997. Since then, the bird flu virus has spread to birds in countries in Asia, Africa, the Middle East, and Europe.    Human infection is still very rare, but the virus that causes the infection in birds might change, or mutate, to more easily infect humans. This could lead to a pandemic, a worldwide outbreak of the illness.     During an outbreak of bird flu, people who have contact with infected birds can become sick. It may also be possible to catch bird flu by eating poultry or eggs that are not well cooked or through contact with a person who has it. Bird flu can make people very sick or even cause death. Antiviral medicines may make the illness less severe, and may help prevent the flu in people who were exposed to it. There is currently no vaccine.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

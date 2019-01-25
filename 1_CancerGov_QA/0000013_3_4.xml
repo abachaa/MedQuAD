@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000013_3" source="CancerGov" url="https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq">
+<Focus>Myelodysplastic/ Myeloproliferative Neoplasm, Unclassifiable</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1333046</CUI>
+			<CUI>C1328061</CUI>
+			<CUI>C0027651</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000013_3-1" qtype="information">What is (are) Myelodysplastic/ Myeloproliferative Neoplasm, Unclassifiable ?</Question>
+			<Answer>Key Points
+                    - Myelodysplastic/myeloproliferative neoplasm, unclassifiable, is a disease that has features of both myelodysplastic and myeloproliferative diseases but is not chronic myelomonocytic leukemia, juvenile myelomonocytic leukemia, or atypical chronic myelogenous leukemia.    - Signs and symptoms of myelodysplastic/myeloproliferative neoplasm, unclassifiable, include fever, weight loss, and feeling very tired.
+                
+                
+                    Myelodysplastic/myeloproliferative neoplasm, unclassifiable, is a disease that has features of both myelodysplastic and myeloproliferative diseases but is not chronic myelomonocytic leukemia, juvenile myelomonocytic leukemia, or atypical chronic myelogenous leukemia.
+                    In myelodysplastic /myeloproliferative neoplasm, unclassifiable (MDS/MPD-UC), the body tells too many blood stem cells to become red blood cells, white blood cells, or platelets. Some of these blood stem cells never become mature blood cells. These immature blood cells are called blasts. Over time, the abnormal blood cells and blasts in the bone marrow crowd out the healthy red blood cells, white blood cells, and platelets.   MDS/MPN-UC is a very rare disease. Because it is so rare, the factors that affect risk and prognosis are not known.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000013_3-2" qtype="symptoms">What are the symptoms of Myelodysplastic/ Myeloproliferative Neoplasm, Unclassifiable ?</Question>
+			<Answer>Signs and symptoms of myelodysplastic/myeloproliferative neoplasm, unclassifiable, include fever, weight loss, and feeling very tired. These and other signs and symptoms may be caused by MDS/MPN-UC or by other conditions. Check with your doctor if you have any of the following:         -  Fever or frequent infections.    - Shortness of breath.    - Feeling very tired and weak.    - Pale skin.    - Easy bruising or bleeding.    -  Petechiae (flat, pinpoint spots under the skin caused by bleeding).    - Pain or a feeling of fullness below the ribs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000013_3-3" qtype="treatment">What are the treatments for Myelodysplastic/ Myeloproliferative Neoplasm, Unclassifiable ?</Question>
+			<Answer>Because myelodysplastic /myeloproliferative neoplasm, unclassifiable (MDS/MPN-UC) is a rare disease, little is known about its treatment. Treatment may include the following:         -  Supportive care treatments to manage problems caused by the disease such as infection, bleeding, and anemia.     -  Targeted therapy (imatinib mesylate).        Check the list of NCI-supported cancer clinical trials that are now accepting patients with myelodysplastic/myeloproliferative neoplasm, unclassifiable. For more specific results, refine the search by using other search features, such as the location of the trial, the type of treatment, or the name of the drug. Talk with your doctor about clinical trials that may be right for you. General information about clinical trials is available from the NCI website.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

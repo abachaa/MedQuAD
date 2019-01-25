@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000010" source="NINDS" url="http://www.ninds.nih.gov/disorders/agnosia/agnosia.htm">
+<Focus>Agnosia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001816</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000010-1" qtype="information">What is (are) Agnosia ?</Question>
+			<Answer>Agnosia is a rare disorder characterized by an inability to recognize and identify objects or persons. People with agnosia may have difficulty recognizing the geometric features of an object or face or may be able to perceive the geometric features but not know what the object is used for or whether a face is familiar or not. Agnosia can be limited to one sensory modality such as vision or hearing. For example, a person may have difficulty in recognizing an object as a cup or identifying a sound as a cough. Agnosia can result from strokes, dementia, developmental disorders, or other neurological conditions. It typically results from damage to specific brain areas in the occipital or parietal lobes of the brain. People with agnosia may retain their cognitive abilities in other areas.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000010-2" qtype="treatment">What are the treatments for Agnosia ?</Question>
+			<Answer>Treatment is generally symptomatic and supportive. The primary cause of the disorder should be determined in order to treat other problems that may contribute to or result in agnosia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000010-3" qtype="outlook">What is the outlook for Agnosia ?</Question>
+			<Answer>Agnosia can compromise quality of life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000010-4" qtype="research">what research (or clinical trials) is being done for Agnosia ?</Question>
+			<Answer>The NINDS supports research on disorders of the brain such as agnosia with the goal of finding ways to prevent or cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

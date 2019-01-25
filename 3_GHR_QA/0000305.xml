@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000305" source="GHR" url="https://ghr.nlm.nih.gov/condition/dubin-johnson-syndrome">
+<Focus>Dubin-Johnson syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022350</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DJS</Synonym>
+		<Synonym>hyperbilirubinemia II</Synonym>
+		<Synonym>Jaundice, Chronic Idiopathic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000305-1" qtype="information">What is (are) Dubin-Johnson syndrome ?</Question>
+			<Answer>Dubin-Johnson syndrome is a condition characterized by jaundice, which is a yellowing of the skin and whites of the eyes. In most affected people jaundice appears during adolescence or early adulthood, although a few individuals have been diagnosed soon after birth. Jaundice is typically the only symptom of Dubin-Johnson syndrome, but some people also experience weakness, mild upper abdominal pain, nausea, and/or vomiting.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000305-2" qtype="frequency">How many people are affected by Dubin-Johnson syndrome ?</Question>
+			<Answer>Although Dubin-Johnson syndrome occurs in people of all ethnic backgrounds, it is more common among Iranian and Moroccan Jews living in Israel. Studies suggest that this disorder affects 1 in 1,300 Iranian Jews in Israel. Additionally, several people in the Japanese population have been diagnosed with Dubin-Johnson syndrome. This condition appears to be less common in other countries.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000305-3" qtype="genetic changes">What are the genetic changes related to Dubin-Johnson syndrome ?</Question>
+			<Answer>Dubin-Johnson syndrome is caused by mutations in the ABCC2 gene. The ABCC2 gene provides instructions for making a protein called multidrug resistance protein 2 (MRP2). This protein acts as a pump to transport substances out of the liver, kidneys, intestine, or placenta so they can be excreted from the body. For example, MRP2 transports a substance called bilirubin out of liver cells and into bile (a digestive fluid produced by the liver). Bilirubin is produced during the breakdown of old red blood cells and has an orange-yellow tint.  ABCC2 gene mutations lead to a version of MRP2 that cannot effectively pump substances out of cells. These mutations particularly affect the transport of bilirubin into bile. As a result, bilirubin accumulates in the body, causing a condition called hyperbilirubinemia. The buildup of bilirubin in the body causes the yellowing of the skin and whites of the eyes seen in people with Dubin-Johnson syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000305-4" qtype="inheritance">Is Dubin-Johnson syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000305-5" qtype="treatment">What are the treatments for Dubin-Johnson syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Dubin-Johnson syndrome:  - Genetic Testing Registry: Dubin-Johnson syndrome  - MedlinePlus Encyclopedia: Bilirubin  - MedlinePlus Encyclopedia: Dubin-Johnson syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

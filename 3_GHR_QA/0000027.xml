@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000027" source="GHR" url="https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration">
+<Focus>age-related macular degeneration</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242383</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>age-related maculopathy</Synonym>
+		<Synonym>AMD</Synonym>
+		<Synonym>ARMD</Synonym>
+		<Synonym>macular degeneration, age-related</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000027-1" qtype="information">What is (are) age-related macular degeneration ?</Question>
+			<Answer>Age-related macular degeneration is an eye disease that is a leading cause of vision loss in older people in developed countries. The vision loss usually becomes noticeable in a person&apos;s sixties or seventies and tends to worsen over time.  Age-related macular degeneration mainly affects central vision, which is needed for detailed tasks such as reading, driving, and recognizing faces. The vision loss in this condition results from a gradual deterioration of light-sensing cells in the tissue at the back of the eye that detects light and color (the retina). Specifically, age-related macular degeneration affects a small area near the center of the retina, called the macula, which is responsible for central vision. Side (peripheral) vision and night vision are generally not affected.  Researchers have described two major types of age-related macular degeneration, known as the dry form and the wet form. The dry form is much more common, accounting for 85 to 90 percent of all cases of age-related macular degeneration. It is characterized by a buildup of yellowish deposits called drusen beneath the retina and slowly progressive vision loss. The condition typically affects vision in both eyes, although vision loss often occurs in one eye before the other.  The wet form of age-related macular degeneration is associated with severe vision loss that can worsen rapidly. This form of the condition is characterized by the growth of abnormal, fragile blood vessels underneath the macula. These vessels leak blood and fluid, which damages the macula and makes central vision appear blurry and distorted.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000027-2" qtype="frequency">How many people are affected by age-related macular degeneration ?</Question>
+			<Answer>Age-related macular degeneration has an estimated prevalence of 1 in 2,000 people in the United States and other developed countries. The condition currently affects several million Americans, and the prevalence is expected to increase over the coming decades as the proportion of older people in the population increases.  For reasons that are unclear, age-related macular degeneration affects individuals of European descent more frequently than African Americans in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000027-3" qtype="genetic changes">What are the genetic changes related to age-related macular degeneration ?</Question>
+			<Answer>Age-related macular degeneration results from a combination of genetic and environmental factors. Many of these factors have been identified, but some remain unknown.  Researchers have considered changes in many genes as possible risk factors for age-related macular degeneration. The best-studied of these genes are involved in a part of the body&apos;s immune response known as the complement system. This system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues. Genetic changes in and around several complement system genes, including the CFH gene, contribute to a person&apos;s risk of developing age-related macular degeneration. It is unclear how these genetic changes are related to the retinal damage and vision loss characteristic of this condition.  Changes on the long (q) arm of chromosome 10 in a region known as 10q26 are also associated with an increased risk of age-related macular degeneration. The 10q26 region contains two genes of interest, ARMS2 and HTRA1. Changes in both genes have been studied as possible risk factors for the disease. However, because the two genes are so close together, it is difficult to tell which gene is associated with age-related macular degeneration risk, or whether increased risk results from variations in both genes.  Other genes that are associated with age-related macular degeneration include genes involved in transporting and processing high-density lipoprotein (HDL, also known as &quot;good&quot; cholesterol) and genes that have been associated with other forms of macular disease.  Researchers have also examined nongenetic factors that contribute to the risk of age-related macular degeneration. Age appears to be the most important risk factor; the chance of developing the condition increases significantly as a person gets older. Smoking is another established risk factor for age-related macular degeneration. Other factors that may increase the risk of this condition include high blood pressure, heart disease, a high-fat diet or one that is low in certain nutrients (such as antioxidants and zinc), obesity, and exposure to ultraviolet (UV) rays from sunlight. However, studies of these factors in age-related macular degeneration have had conflicting results</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000027-4" qtype="inheritance">Is age-related macular degeneration inherited ?</Question>
+			<Answer>Age-related macular degeneration usually does not have a clear-cut pattern of inheritance, although the condition appears to run in families in some cases. An estimated 15 to 20 percent of people with age-related macular degeneration have at least one first-degree relative (such as a sibling) with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000027-5" qtype="treatment">What are the treatments for age-related macular degeneration ?</Question>
+			<Answer>These resources address the diagnosis or management of age-related macular degeneration:  - BrightFocus Foundation: Macular Degeneration Treatment  - Genetic Testing Registry: Age-related macular degeneration  - Genetic Testing Registry: Age-related macular degeneration 1  - Genetic Testing Registry: Age-related macular degeneration 10  - Genetic Testing Registry: Age-related macular degeneration 11  - Genetic Testing Registry: Age-related macular degeneration 2  - Genetic Testing Registry: Age-related macular degeneration 3  - Genetic Testing Registry: Age-related macular degeneration 4  - Genetic Testing Registry: Age-related macular degeneration 7  - Genetic Testing Registry: Age-related macular degeneration 9  - Genetic Testing Registry: Susceptibility to age-related macular degeneration, wet type  - Genetic Testing Registry: Susceptibility to neovascular type of age-related macular degeneration  - Macular Degeneration Partnership: Low Vision Rehabilitation  - Prevent Blindness America: Age-Related Macular Degeneration (AMD) Test - Amsler Grid   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

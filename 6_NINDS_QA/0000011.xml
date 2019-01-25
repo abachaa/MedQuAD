@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000011" source="NINDS" url="http://www.ninds.nih.gov/disorders/aicardi/aicardi.htm">
+<Focus>Aicardi Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175713</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000011-1" qtype="information">What is (are) Aicardi Syndrome ?</Question>
+			<Answer>Aicardi syndrome is a rare genetic disorder that primarily affects newborn girls. The condition is sporadic, meaning it is not known to pass from parent to child. (An exception is a report of two sisters and a pair of identical twins, all of whom were affected.) The mutation that causes Aicardi syndrome has not been identified, but it is thought to be caused by a dominant mutation that appears for the first time in a family in an x-linked gene that may be lethal in certain males.. Aicardi syndrome can be seen in boys born with an extra &quot;X&quot; chromosome. (Females have two X chromosomes, while males normally have an X and a Y chromosome.) The precise gene or genetic mechanism causing Aicardi syndrome is not yet known.
+                
+Originally, Aicardi syndrome was characterized by three main features: 1) partial or complete absence of the structure (corpus callosum) that links the two halves of the brain (2) infantile spasms (a type of seizure disorder), and 3) chorioretinal lacunae, lesions on the retina that look like yellowish spots. However, Aicardi syndrome is now known to have a much broader spectrum of abnormalities than was initially described. Not all girls with the condition have the three features described above and many girls have additional feature such as lower tone around the head and trunk, microcephaly (small head circumference), and spasticity in the limbs.
+                
+Typical findings in the brain of girls with Aicardi syndrome include heterotopias, which are groups of brain cells that, during development, migrated to the wrong area of brain; polymicrogyria or pachygyria, which are numerous small, or too few, brain folds; and cysts, (fluid filled cavities) in the brain. Girls with Aicardi syndrome have varying degrees of intellectual disability and developmental delay. Many girls also have developmental abnormalities of their optic nerves and some have microphthalmia (small eyes). Skeletal problems such as absent or abnormal ribs and abnormalities of vertebrae in the spinal column (including hemivertebrae and butterfly vertebrae) have also been reported. Some girls also have skin problems, facial asymmetry, small hands, and an increased incidence of tumors.
+                
+(Aicardi syndrome is distinct from Aicardi-Goutieres syndrome, which is an inherited encephalopathy that affects newborn infants.)</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000011-2" qtype="treatment">What are the treatments for Aicardi Syndrome ?</Question>
+			<Answer>There is no cure for Aicardi syndrome nor is there a standard course of treatment. Treatment generally involves medical management of seizures and programs to help parents and children cope with developmental delays. Long-term management by a pediatric neurologist with expertise in the management of infantile spasms is recommended.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000011-3" qtype="outlook">What is the outlook for Aicardi Syndrome ?</Question>
+			<Answer>The prognosis for girls with Aicardi syndrome varies according to the severity of their symptoms. There is an increased risk for death in childhood and adolescence, but survivors into adulthood have been described.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000011-4" qtype="research">what research (or clinical trials) is being done for Aicardi Syndrome ?</Question>
+			<Answer>The NINDS supports and conducts research on neurogenetic disorders such as Aicardi syndrome. The goals of this research are to locate and understand the genes involved and to develop techniques to diagnose, treat, prevent, and ultimately cure disorders such as Aicardi syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

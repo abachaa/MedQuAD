@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000168" source="NINDS" url="http://www.ninds.nih.gov/disorders/kearns_sayre/kearns_sayre.htm">
+<Focus>Kearns-Sayre Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022541</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000168-1" qtype="information">What is (are) Kearns-Sayre Syndrome ?</Question>
+			<Answer>Kearns-Sayre syndrome (KSS) is a rare neuromuscular disorder with onset usually before the age of 20 years. It is the result of abnormalities in the DNA of mitochondria - small rod-like structures found in every cell of the body that produce the energy that drives cellular functions. The mitochondrial diseases correlate with specific DNA mutations that cause problems with many of the organs and tissues in the body. KSS is characterized by progressive limitation of eye movements until there is complete immobility, accompanied by eyelid droop. It is also associated with abnormal accumulation of pigmented material on the membrane lining the eyes. Additional symptoms may include mild skeletal muscle weakness, heart block (a cardiac conduction defect), short stature, hearing loss, an inability to coordinate voluntary movements (ataxia), impaired cognitive function, and diabetes. Seizures are infrequent. Several endocrine disorders can be associated with KSS.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000168-2" qtype="treatment">What are the treatments for Kearns-Sayre Syndrome ?</Question>
+			<Answer>There is currently no effective way to treat mitochondria abnormalities in KSS. Treatment is generally symptomatic and supportive. Management of KSS involves multiple specialties depending on the organs involved. The most essential is a regular and long-term follow-up with cardiologists. Conduction problems of heart impulse like heart block may be treated with a pacemaker. Other consultations may include audiology, ophthalmology, endocrinology, neurology, and neuropsychiatry. Hearing aids may be required. There is typically no treatment for limitation in eye movement. Endocrinology abnormalities can be treated with drugs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000168-3" qtype="outlook">What is the outlook for Kearns-Sayre Syndrome ?</Question>
+			<Answer>KSS is a slowly progressive disorder. The prognosis for individuals with KSS varies depending on the severity and the number of organs involved. Early diagnosis and periodic electrocardiogram (ECG) are important since heart block can cause death in 20 percent of patients. Early pacemaker implantation can be of great benefit and offer a longer life expectancy in many patients.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000168-4" qtype="research">what research (or clinical trials) is being done for Kearns-Sayre Syndrome ?</Question>
+			<Answer>The NINDS supports research on neuromuscular disorders such as KSS. The goals of this research are to increase understanding of these disorders, and to find ways to prevent, treat, and, ultimately, cure them. The most promising approach for treatment in the future will be to alter replication or destroy abnormal mitochondria.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

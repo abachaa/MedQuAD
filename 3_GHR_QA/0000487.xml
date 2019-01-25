@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000487" source="GHR" url="https://ghr.nlm.nih.gov/condition/horizontal-gaze-palsy-with-progressive-scoliosis">
+<Focus>horizontal gaze palsy with progressive scoliosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1846496</CUI>
+			<CUI>C0522224</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial horizontal gaze palsy with progressive scoliosis</Synonym>
+		<Synonym>familial idiopathic scoliosis associated with congenital encephalopathy</Synonym>
+		<Synonym>familial infantile scoliosis associated with bilateral paralysis of conjugate gaze</Synonym>
+		<Synonym>gaze palsy, familial horizontal, with progressive scoliosis</Synonym>
+		<Synonym>HGPPS</Synonym>
+		<Synonym>ophthalmoplegia, progressive external, and scoliosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000487-1" qtype="information">What is (are) horizontal gaze palsy with progressive scoliosis ?</Question>
+			<Answer>Horizontal gaze palsy with progressive scoliosis (HGPPS) is a disorder that affects vision and also causes an abnormal curvature of the spine (scoliosis). People with this condition are unable to move their eyes side-to-side (horizontally). As a result, affected individuals must turn their head instead of moving their eyes to track moving objects. Up-and-down (vertical) eye movements are typically normal.  In people with HGPPS, an abnormal side-to-side curvature of the spine develops in infancy or childhood. It tends to be moderate to severe and worsens over time. Because the abnormal spine position can be painful and interfere with movement, it is often treated with surgery early in life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000487-2" qtype="frequency">How many people are affected by horizontal gaze palsy with progressive scoliosis ?</Question>
+			<Answer>HGPPS has been reported in several dozen families worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000487-3" qtype="genetic changes">What are the genetic changes related to horizontal gaze palsy with progressive scoliosis ?</Question>
+			<Answer>HGPPS is caused by mutations in the ROBO3 gene. This gene provides instructions for making a protein that is important for the normal development of certain nerve pathways in the brain. These include motor nerve pathways, which transmit information about voluntary muscle movement, and sensory nerve pathways, which transmit information about sensory input (such as touch, pain, and temperature). For the brain and the body to communicate effectively, these nerve pathways must cross from one side of the body to the other in the brainstem, a region that connects the upper parts of the brain with the spinal cord.  The ROBO3 protein plays a critical role in ensuring that motor and sensory nerve pathways cross over in the brainstem. In people with HGPPS, these pathways do not cross over, but stay on the same side of the body. Researchers believe that this miswiring in the brainstem is the underlying cause of the eye movement abnormalities associated with the disorder. The cause of progressive scoliosis in HGPPS is unclear. Researchers are working to determine why the effects of ROBO3 mutations appear to be limited to horizontal eye movement and scoliosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000487-4" qtype="inheritance">Is horizontal gaze palsy with progressive scoliosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000487-5" qtype="treatment">What are the treatments for horizontal gaze palsy with progressive scoliosis ?</Question>
+			<Answer>These resources address the diagnosis or management of HGPPS:  - Genetic Testing Registry: Gaze palsy, familial horizontal, with progressive scoliosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

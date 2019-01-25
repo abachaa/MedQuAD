@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000660" source="GHR" url="https://ghr.nlm.nih.gov/condition/milroy-disease">
+<Focus>Milroy disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1704423</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital familial lymphedema</Synonym>
+		<Synonym>hereditary lymphedema type I</Synonym>
+		<Synonym>Milroy's disease</Synonym>
+		<Synonym>Nonne-Milroy lymphedema</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000660-1" qtype="information">What is (are) Milroy disease ?</Question>
+			<Answer>Milroy disease is a condition that affects the normal function of the lymphatic system. The lymphatic system produces and transports fluids and immune cells throughout the body. Impaired transport with accumulation of lymph fluid can cause swelling (lymphedema). Individuals with Milroy disease typically have lymphedema in their lower legs and feet at birth or develop it in infancy. The lymphedema typically occurs on both sides of the body and may worsen over time.  Milroy disease is associated with other features in addition to lymphedema. Males with Milroy disease are sometimes born with an accumulation of fluid in the scrotum (hydrocele). Males and females may have upslanting toenails, deep creases in the toes, wart-like growths (papillomas), and prominent leg veins. Some individuals develop non-contagious skin infections called cellulitis that can damage the thin tubes that carry lymph fluid (lymphatic vessels). Episodes of cellulitis can cause further swelling in the lower limbs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000660-2" qtype="frequency">How many people are affected by Milroy disease ?</Question>
+			<Answer>Milroy disease is a rare disorder; its incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000660-3" qtype="genetic changes">What are the genetic changes related to Milroy disease ?</Question>
+			<Answer>Mutations in the FLT4 gene cause some cases of Milroy disease. The FLT4 gene provides instructions for producing a protein called vascular endothelial growth factor receptor 3 (VEGFR-3), which regulates the development and maintenance of the lymphatic system. Mutations in the FLT4 gene interfere with the growth, movement, and survival of cells that line the lymphatic vessels (lymphatic endothelial cells). These mutations lead to the development of small or absent lymphatic vessels. If lymph fluid is not properly transported, it builds up in the body&apos;s tissues and causes lymphedema. It is not known how mutations in the FLT4 gene lead to the other features of this disorder.  Many individuals with Milroy disease do not have a mutation in the FLT4 gene. In these individuals, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000660-4" qtype="inheritance">Is Milroy disease inherited ?</Question>
+			<Answer>Milroy disease is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the FLT4 gene. These cases occur in people with no history of the disorder in their family. About 10 percent to 15 percent of people with a mutation in the FLT4 gene do not develop the features of Milroy disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000660-5" qtype="treatment">What are the treatments for Milroy disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Milroy disease:  - Gene Review: Gene Review: Milroy Disease  - Genetic Testing Registry: Hereditary lymphedema type I  - MedlinePlus Encyclopedia: Lymphatic Obstruction   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

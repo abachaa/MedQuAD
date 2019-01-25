@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000219" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-central-hypoventilation-syndrome">
+<Focus>congenital central hypoventilation syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1275808</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CCHS</Synonym>
+		<Synonym>congenital central hypoventilation</Synonym>
+		<Synonym>congenital failure of autonomic control</Synonym>
+		<Synonym>Haddad syndrome</Synonym>
+		<Synonym>Ondine-Hirschsprung disease</Synonym>
+		<Synonym>Ondine Syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000219-1" qtype="information">What is (are) congenital central hypoventilation syndrome ?</Question>
+			<Answer>Congenital central hypoventilation syndrome (CCHS) is a disorder that affects breathing. People with this disorder take shallow breaths (hypoventilate), especially during sleep, resulting in a shortage of oxygen and a buildup of carbon dioxide in the blood. Ordinarily, the part of the nervous system that controls involuntary body processes (autonomic nervous system) would react to such an imbalance by stimulating the individual to breathe more deeply or wake up. This reaction is impaired in people with CCHS, and they must be supported with a machine to help them breathe (mechanical ventilation) or a device that stimulates a normal breathing pattern (diaphragm pacemaker). Some affected individuals need this support 24 hours a day, while others need it only at night.  Symptoms of CCHS usually become apparent shortly after birth. Affected infants hypoventilate upon falling asleep and exhibit a bluish appearance of the skin or lips (cyanosis). Cyanosis is caused by lack of oxygen in the blood. In some milder cases, CCHS may be diagnosed later in life. In addition to the breathing problem, people with this disorder may have difficulty regulating their heart rate and blood pressure, for example in response to exercise or changes in body position. They may have abnormalities in the nerves that control the digestive tract (Hirschsprung disease), resulting in severe constipation, intestinal blockage, and enlargement of the colon. They are also at increased risk of developing certain tumors of the nervous system called neuroblastomas, ganglioneuromas, and ganglioneuroblastomas. Some affected individuals develop learning difficulties or other neurological problems, which may be worsened by oxygen deprivation if treatment to support their breathing is not completely effective.  Individuals with CCHS usually have eye abnormalities, including a decreased response of the pupils to light. They also have decreased perception of pain, low body temperature, and occasional episodes of profuse sweating.  People with CCHS, especially children, may have a characteristic appearance with a short, wide, somewhat flattened face often described as &quot;box-shaped.&quot; Life expectancy and the extent of any cognitive disabilities depend on the severity of the disorder, timing of the diagnosis, and the success of treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000219-2" qtype="frequency">How many people are affected by congenital central hypoventilation syndrome ?</Question>
+			<Answer>CCHS is a relatively rare disorder. Approximately 1,000 individuals with this condition have been identified. Researchers believe that some cases of sudden infant death syndrome (SIDS) or sudden unexplained death in children may be caused by undiagnosed CCHS.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000219-3" qtype="genetic changes">What are the genetic changes related to congenital central hypoventilation syndrome ?</Question>
+			<Answer>Mutations in the PHOX2B gene cause CCHS. The PHOX2B gene provides instructions for making a protein that acts early in development to help promote the formation of nerve cells (neurons) and regulate the process by which the neurons mature to carry out specific functions (differentiation). The protein is active in the neural crest, which is a group of cells in the early embryo that give rise to many tissues and organs. Neural crest cells migrate to form parts of the autonomic nervous system, many tissues in the face and skull, and other tissue and cell types.  Mutations are believed to interfere with the PHOX2B protein&apos;s role in promoting neuron formation and differentiation, especially in the autonomic nervous system, resulting in the problems regulating breathing and other body functions that occur in CCHS.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000219-4" qtype="inheritance">Is congenital central hypoventilation syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  More than 90 percent of cases of CCHS result from new mutations in the PHOX2B gene. These cases occur in people with no history of the disorder in their family. Occasionally an affected person inherits the mutation from one affected parent. The number of such cases has been increasing as better treatment has allowed more affected individuals to live into adulthood.  About 5 to 10 percent of affected individuals inherit the mutation from a seemingly unaffected parent with somatic mosaicism. Somatic mosaicism means that some of the body&apos;s cells have a PHOX2B gene mutation, and others do not. A parent with mosaicism for a PHOX2B gene mutation may not show any signs or symptoms of CCHS.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000219-5" qtype="treatment">What are the treatments for congenital central hypoventilation syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of CCHS:  - Gene Review: Gene Review: Congenital Central Hypoventilation Syndrome  - Genetic Testing Registry: Congenital central hypoventilation  - MedlinePlus Encyclopedia: Hirschsprung&apos;s Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

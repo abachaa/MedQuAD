@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001851" source="GARD" url="https://rarediseases.info.nih.gov/gard/10334/diffuse-gastric-cancer">
+<Focus>Diffuse gastric cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024623</CUI>
+			<CUI>C0699791</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Signet cell adenocarcinoma</Synonym>
+		<Synonym>Signet ring gastric carcinoma</Synonym>
+		<Synonym>Signet ring cell carcinoma</Synonym>
+		<Synonym>Signet ring cell gastric carcinoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001851-1" qtype="information">What is (are) Diffuse gastric cancer ?</Question>
+			<Answer>Diffuse gastric cancer or signet ring cell cancer is a type of cancer found most often in the glandular cells lining the stomach, but can also develop in the bowel, breast, pancreas, bladder, prostate or lung. The 2010 WHO (World Health Organization) classification recognizes four major histologic patterns of gastric cancers: tubular, papillary, mucinous and poorly cohesive (including signet ring cell carcinoma), plus uncommon histologic variants. The term &quot;signet ring cell&quot; is often used because the cells look like signet rings when viewed under a microscope. The signet cells are a type of epithelial cell. Epithelial tissue is skin tissue, covering and lining the body both inside and out. When diffuse gastric cancer is inherited it is called &quot;hereditary diffuse gastric cancer.&quot; Treatment depends on the stage at which the cancer is found and may include chemotherapy, radiation therapy, or operations to remove the stomach (gastrectomy).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001851-2" qtype="symptoms">What are the symptoms of Diffuse gastric cancer ?</Question>
+			<Answer>What are the signs and symptoms of Diffuse gastric cancer? Signs and symptoms of gastric cancer may include indigestion, stomach discomfort, bloating, mild nausea, loss of appetite, and heartburn. In more advanced stages of gastric cancer signs and symptoms may include bloody stool, vomiting, weight loss, stomach pain, jaundice, ascites (fluid in the abdomen), and trouble swallowing. The Human Phenotype Ontology provides the following list of signs and symptoms for Diffuse gastric cancer. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Chronic atrophic gastritis - Stomach cancer - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001851-3" qtype="causes">What causes Diffuse gastric cancer ?</Question>
+			<Answer>Can diffuse gastric cancer be caused by excessive drinking? Most of the time the exact cause of gastric cancer can not be determined; however there are many different factors that may put someone at an increased risk for developing stomach cancer. While it isn&apos;t clear if alcohol alone can increase this risk, it is thought that regular drinking may increase the risk in smokers. You can visit the following information pages develped by the National Cancer Insitute and Cancer Research UK to learn more about these risks. http://www.cancer.gov/cancertopics/wyntk/stomach/page4 http://www.cancerhelp.org.uk/help/default.asp?page=3903</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001851-4" qtype="inheritance">Is Diffuse gastric cancer inherited ?</Question>
+			<Answer>Can diffuse gastric cancer be inherited? Diffuse gastric cancer can be inherited or can happen sporadically in a family. Sporadic means that the cancer occurred randomly for the first time in a individual and was not inherited from a parent. Hereditary diffuse gastric cancer (HDGC) is caused by mutations in the CDH1 gene. Individuals with a CDH1 mutation typically develop cancer before age 40.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

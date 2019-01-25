@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000827" source="GHR" url="https://ghr.nlm.nih.gov/condition/progressive-external-ophthalmoplegia">
+<Focus>progressive external ophthalmoplegia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162674</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>chronic progressive external ophthalmoplegia</Synonym>
+		<Synonym>CPEO</Synonym>
+		<Synonym>PEO</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000827-1" qtype="information">What is (are) progressive external ophthalmoplegia ?</Question>
+			<Answer>Progressive external ophthalmoplegia is a condition characterized by weakness of the eye muscles. The condition typically appears in adults between ages 18 and 40. The most common signs and symptoms of progressive external ophthalmoplegia are drooping eyelids (ptosis), which can affect one or both eyelids, and weakness or paralysis of the muscles that move the eye (ophthalmoplegia). Affected individuals may also have general weakness of the skeletal muscles (myopathy), particularly in the neck, arms, or legs. The weakness may be especially noticeable during exercise (exercise intolerance). Muscle weakness may also cause difficulty swallowing (dysphagia).  When the muscle cells of affected individuals are stained and viewed under a microscope, these cells usually appear abnormal. These abnormal muscle cells contain an excess of structures called mitochondria and are known as ragged-red fibers. Additionally, a close study of muscle cells may reveal abnormalities in a type of DNA found in mitochondria called mitochondrial DNA (mtDNA). Affected individuals often have large deletions of genetic material from mtDNA in muscle tissue.  Although muscle weakness is the primary symptom of progressive external ophthalmoplegia, this condition can be accompanied by other signs and symptoms. In these instances, the condition is referred to as progressive external ophthalmoplegia plus (PEO+). Additional signs and symptoms can include hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss), weakness and loss of sensation in the limbs due to nerve damage (neuropathy), impaired muscle coordination (ataxia), a pattern of movement abnormalities known as parkinsonism, or depression.  Progressive external ophthalmoplegia is part of a spectrum of disorders with overlapping signs and symptoms. Similar disorders include other conditions caused by POLG gene mutations, such as ataxia neuropathy spectrum, as well as other mtDNA deletion disorders, such as Kearns-Sayre syndrome. Like progressive external ophthalmoplegia, the other conditions in this spectrum can involve weakness of the eye muscles. However, these conditions have many additional features not shared by most people with progressive external ophthalmoplegia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000827-2" qtype="frequency">How many people are affected by progressive external ophthalmoplegia ?</Question>
+			<Answer>The prevalence of progressive external ophthalmoplegia is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000827-3" qtype="genetic changes">What are the genetic changes related to progressive external ophthalmoplegia ?</Question>
+			<Answer>Progressive external ophthalmoplegia is a condition caused by defects in mitochondria, which are structures within cells that use oxygen to convert the energy from food into a form cells can use. This process is called oxidative phosphorylation. Although most DNA is packaged in chromosomes within the nucleus (nuclear DNA), mitochondria also have a small amount of their own DNA, called mitochondrial DNA or mtDNA.  Progressive external ophthalmoplegia can result from mutations in several different genes. In some cases, mutations in the MT-TL1 gene, which is located in mtDNA, cause progressive external ophthalmoplegia. In other cases, mutations in nuclear DNA are responsible for the condition, particularly mutations in the POLG, SLC25A4, and C10orf2 genes. These genes are critical for mtDNA maintenance. Although the mechanism is unclear, mutations in any of these three genes lead to large deletions of mtDNA, ranging from 2,000 to 10,000 DNA building blocks (nucleotides).  Researchers have not determined how deletions of mtDNA lead to the specific signs and symptoms of progressive external ophthalmoplegia, although the features of the condition are probably related to impaired oxidative phosphorylation. It has been suggested that eye muscles are commonly affected by mitochondrial defects because they are especially dependent on oxidative phosphorylation for energy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000827-4" qtype="inheritance">Is progressive external ophthalmoplegia inherited ?</Question>
+			<Answer>Progressive external ophthalmoplegia can have different inheritance patterns depending on the gene involved.  When this condition is caused by mutations in the MT-TL1 gene, it is inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.  When the nuclear genes POLG, SLC25A4, or C10orf2 are involved, progressive external ophthalmoplegia is usually inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  Certain mutations in the POLG gene can also cause a form of the condition that is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Some mutations in the POLG gene that cause progressive external ophthalmoplegia occur during a person&apos;s lifetime and are not inherited. These genetic changes are called somatic mutations.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000827-5" qtype="treatment">What are the treatments for progressive external ophthalmoplegia ?</Question>
+			<Answer>These resources address the diagnosis or management of progressive external ophthalmoplegia:  - Gene Review: Gene Review: Mitochondrial DNA Deletion Syndromes  - Gene Review: Gene Review: POLG-Related Disorders  - Genetic Testing Registry: Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 1  - Genetic Testing Registry: Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 2  - Genetic Testing Registry: Autosomal dominant progressive external ophthalmoplegia with mitochondrial DNA deletions 3  - Genetic Testing Registry: Progressive external ophthalmoplegia  - United Mitochondrial Disease Foundation: Diagnosis of Mitochondrial Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

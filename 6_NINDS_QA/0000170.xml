@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000170" source="NINDS" url="http://www.ninds.nih.gov/disorders/klippel_feil/klippel_feil.htm">
+<Focus>Klippel Feil Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022738</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000170-1" qtype="information">What is (are) Klippel Feil Syndrome ?</Question>
+			<Answer>Klippel-Feil Syndrome is a rare disorder characterized by the congenital fusion of two or more cervical (neck) vertebrae. It is caused by a failure in the normal segmentation or division of the cervical vertebrae during the early weeks of fetal development. The most common signs of the disorder are short neck, low hairline at the back of the head, and restricted mobility of the upper spine. The fused vertebrae can cause nerve damage and pain in the head, neck, or back. Associated abnormalities may include scoliosis (curvature of the spine), spina bifida (a birth defect of the spine), cleft palate, respiratory problems, and heart malformations. Other features may include joint pain; anomalies of the head and face, skeleton, sex organs, muscles, brain and spinal cord, arms, legs, and fingers; and difficulties hearing. Most cases are sporadic (happen on their own) but mutations in the GDF6 (growth differentiation factor 6) or GDF3 (growth differentiation factor 3) genes can cause the disorder. These genes make proteins that are involved in bone development and segmentation of the vertebrae.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000170-2" qtype="treatment">What are the treatments for Klippel Feil Syndrome ?</Question>
+			<Answer>Treatment for Klippel-Feil Syndrome is symptomatic and may include surgery to relieve cervical or craniocervical instability and constriction of the spinal cord, and to correct scoliosis. Physical therapy may also be useful.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000170-3" qtype="outlook">What is the outlook for Klippel Feil Syndrome ?</Question>
+			<Answer>The prognosis for most individuals with Klippel-Feil Syndrome is good if the disorder is treated early and appropriately. Activities that can injure the neck should be avoided.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000170-4" qtype="research">what research (or clinical trials) is being done for Klippel Feil Syndrome ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge abuot the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. Research supported by the NINDS includes studies to understand how the brain and nervous system normally develop and function and how they are affected by disease and trauma. These studies contribute to a greater understanding of birth defects such as Klippel-Feil Syndrome and open promising new avenues for treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

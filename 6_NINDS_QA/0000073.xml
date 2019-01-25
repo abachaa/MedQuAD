@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000073" source="NINDS" url="http://www.ninds.nih.gov/disorders/cofs/cofs.htm">
+<Focus>Cerebro-Oculo-Facio-Skeletal Syndrome (COFS)</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220722</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000073-1" qtype="information">What is (are) Cerebro-Oculo-Facio-Skeletal Syndrome (COFS) ?</Question>
+			<Answer>Cerebro-oculo-facio-skeletal syndrome (COFS) is a pediatric, genetic, degenerative disorder that involves the brain and the spinal cord. It is characterized by craniofacial and skeletal abnormalities, severely reduced muscle tone, and impairment of reflexes. Symptoms may include large, low-set ears, small eyes, microcephaly (abnormal smallness of the head), micrognathia (abnormal smallness of the jaws), clenched fists, wide-set nipples, vision impairments, involuntary eye movements, and impaired cognitive development, which can be moderate or severe. Respiratory infections are frequent. COFS is diagnosed at birth. Ultrasound technology can detect fetuses with COFS at an early stage of pregnancy, as the fetus moves very little, and some of the abnormalities result, in part, from lack of movement.
+                
+A small number of individuals with COFS have a mutation in the &quot;ERCC6&quot; gene and are more appropriately diagnosed as having Cockayne Syndrome Type II. Other individuals with COFS may have defects in the xeroderma pigmentosum genes &quot;XPG&quot; or &quot;XPD.&quot; Still others who are diagnosed with COFS have no identifiable genetic defect and are presumably affected because of mutations in a distinct, as-yet-unknown gene.
+                
+NOTE: This disorder is not the same as Cohen&apos;s syndrome (cerebral obesity ocular skeletal syndrome).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000073-2" qtype="treatment">What are the treatments for Cerebro-Oculo-Facio-Skeletal Syndrome (COFS) ?</Question>
+			<Answer>Treatment is supportive and symptomatic. Individuals with the disorder often require tube feeding. Because COFS is genetic, genetic counseling is available.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000073-3" qtype="outlook">What is the outlook for Cerebro-Oculo-Facio-Skeletal Syndrome (COFS) ?</Question>
+			<Answer>COFS is a fatal disease. Most children do not live beyond five years.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000073-4" qtype="research">what research (or clinical trials) is being done for Cerebro-Oculo-Facio-Skeletal Syndrome (COFS) ?</Question>
+			<Answer>The NINDS supports research on genetic disorders such as COFS. The goals of this research include finding ways to prevent, treat, and cure these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000826" source="GHR" url="https://ghr.nlm.nih.gov/condition/prion-disease">
+<Focus>prion disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162534</CUI>
+			<CUI>C3536911</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>inherited human transmissible spongiform encephalopathies</Synonym>
+		<Synonym>prion-associated disorders</Synonym>
+		<Synonym>prion-induced disorders</Synonym>
+		<Synonym>prion protein diseases</Synonym>
+		<Synonym>transmissible dementias</Synonym>
+		<Synonym>transmissible spongiform encephalopathies</Synonym>
+		<Synonym>TSEs</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000826-1" qtype="information">What is (are) prion disease ?</Question>
+			<Answer>Prion disease represents a group of conditions that affect the nervous system in humans and animals. In people, these conditions impair brain function, causing changes in memory, personality, and behavior; a decline in intellectual function (dementia); and abnormal movements, particularly difficulty with coordinating movements (ataxia). The signs and symptoms of prion disease typically begin in adulthood and worsen with time, leading to death within a few months to several years.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000826-2" qtype="frequency">How many people are affected by prion disease ?</Question>
+			<Answer>These disorders are very rare. Although the exact prevalence of prion disease is unknown, studies suggest that this group of conditions affects about one person per million worldwide each year. Approximately 350 new cases are reported annually in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000826-3" qtype="genetic changes">What are the genetic changes related to prion disease ?</Question>
+			<Answer>Between 10 and 15 percent of all cases of prion disease are caused by mutations in the PRNP gene. Because they can run in families, these forms of prion disease are classified as familial. Familial prion diseases, which have overlapping signs and symptoms, include familial Creutzfeldt-Jakob disease (CJD), Gerstmann-Strussler-Scheinker syndrome (GSS), and fatal familial insomnia (FFI).  The PRNP gene provides instructions for making a protein called prion protein (PrP). Although the precise function of this protein is unknown, researchers have proposed roles in several important processes. These include the transport of copper into cells, protection of brain cells (neurons) from injury (neuroprotection), and communication between neurons. In familial forms of prion disease, PRNP gene mutations result in the production of an abnormally shaped protein, known as PrPSc, from one copy of the gene. In a process that is not fully understood, PrPSc can attach (bind) to the normal protein (PrPC) and promote its transformation into PrPSc. The abnormal protein builds up in the brain, forming clumps that damage or destroy neurons. The loss of these cells creates microscopic sponge-like holes (vacuoles) in the brain, which leads to the signs and symptoms of prion disease.  The other 85 to 90 percent of cases of prion disease are classified as either sporadic or acquired. People with sporadic prion disease have no family history of the disease and no identified mutation in the PRNP gene. Sporadic disease occurs when PrPC spontaneously, and for unknown reasons, is transformed into PrPSc. Sporadic forms of prion disease include sporadic Creutzfeldt-Jakob disease (sCJD), sporadic fatal insomnia (sFI), and variably protease-sensitive prionopathy (VPSPr).  Acquired prion disease results from exposure to PrPSc from an outside source. For example, variant Creutzfeldt-Jakob disease (vCJD) is a type of acquired prion disease in humans that results from eating beef products containing PrPSc from cattle with prion disease. In cows, this form of the disease is known as bovine spongiform encephalopathy (BSE) or, more commonly, &quot;mad cow disease.&quot; Another example of an acquired human prion disease is kuru, which was identified in the South Fore population in Papua New Guinea. The disorder was transmitted when individuals ate affected human tissue during cannibalistic funeral rituals.  Rarely, prion disease can be transmitted by accidental exposure to PrPSc-contaminated tissues during a medical procedure. This type of prion disease, which accounts for 1 to 2 percent of all cases, is classified as iatrogenic.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000826-4" qtype="inheritance">Is prion disease inherited ?</Question>
+			<Answer>Familial forms of prion disease are inherited in an autosomal dominant pattern, which means one copy of the altered PRNP gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the altered gene from one affected parent. In some people, familial forms of prion disease are caused by a new mutation in the gene that occurs during the formation of a parent&apos;s reproductive cells (eggs or sperm) or in early embryonic development. Although such people do not have an affected parent, they can pass the genetic change to their children.  The sporadic, acquired, and iatrogenic forms of prion disease, including kuru and variant Creutzfeldt-Jakob disease, are not inherited.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000826-5" qtype="treatment">What are the treatments for prion disease ?</Question>
+			<Answer>These resources address the diagnosis or management of prion disease:  - Creutzfeldt-Jakob Disease Foundation: Suggestions for Patient Care  - Gene Review: Gene Review: Genetic Prion Diseases  - Genetic Testing Registry: Genetic prion diseases  - MedlinePlus Encyclopedia: Creutzfeldt-Jakob disease  - MedlinePlus Encyclopedia: Kuru  - University of California, San Fransisco Memory and Aging Center: Living With Creutzfeldt-Jakob Disease  - University of California, San Fransisco Memory and Aging Center: Treatments for Creutzfeldt-Jakob Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

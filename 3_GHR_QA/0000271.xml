@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000271" source="GHR" url="https://ghr.nlm.nih.gov/condition/danon-disease">
+<Focus>Danon disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0878677</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>glycogen storage disease type 2B</Synonym>
+		<Synonym>glycogen storage disease type IIb</Synonym>
+		<Synonym>lysosomal glycogen storage disease with normal acid maltase</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000271-1" qtype="information">What is (are) Danon disease ?</Question>
+			<Answer>Danon disease is a condition characterized by weakening of the heart muscle (cardiomyopathy); weakening of the muscles used for movement, called skeletal muscles, (myopathy); and intellectual disability. Males with Danon disease usually develop the condition earlier than females and are more severely affected. Signs and symptoms begin in childhood or adolescence in most affected males and in early adulthood in most affected females. Affected males, on average, live to age 19, while affected females live to an average age of 34.  Cardiomyopathy is the most common symptom of Danon disease and occurs in all males with the condition. Most affected men have hypertrophic cardiomyopathy, which is a thickening of the heart muscle that may make it harder for the heart to pump blood. Other affected males have dilated cardiomyopathy, which is a condition that weakens and enlarges the heart, preventing it from pumping blood efficiently. Some affected men with hypertrophic cardiomyopathy later develop dilated cardiomyopathy. Either type of cardiomyopathy can lead to heart failure and premature death. Most women with Danon disease also develop cardiomyopathy; of the women who have this feature, about half have hypertrophic cardiomyopathy, and the other half have dilated cardiomyopathy.  Affected individuals can have other heart-related signs and symptoms, including a sensation of fluttering or pounding in the chest (palpitations), an abnormal heartbeat (arrhythmia), or chest pain. Many affected individuals have abnormalities of the electrical signals that control the heartbeat (conduction abnormalities). People with Danon disease are often affected by a specific conduction abnormality known as cardiac preexcitation. The type of cardiac preexcitation most often seen in people with Danon disease is called the Wolff-Parkinson-White syndrome pattern.  Skeletal myopathy occurs in most men with Danon disease and about half of affected women. The weakness typically occurs in the muscles of the upper arms, shoulders, neck, and upper thighs. Many males with Danon disease have elevated levels of an enzyme called creatine kinase in their blood, which often indicates muscle disease.  Most men with Danon disease, but only a small percentage of affected women, have intellectual disability. If present, the disability is usually mild.  There can be other signs and symptoms of the condition in addition to the three characteristic features. Several affected individuals have had gastrointestinal disease, breathing problems, or visual abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000271-2" qtype="frequency">How many people are affected by Danon disease ?</Question>
+			<Answer>Danon disease is a rare condition, but the exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000271-3" qtype="genetic changes">What are the genetic changes related to Danon disease ?</Question>
+			<Answer>Danon disease is caused by mutations in the LAMP2 gene. The LAMP2 gene provides instructions for making a protein called lysosomal associated membrane protein-2 (LAMP-2), which, as its name suggests, is found in the membrane of cellular structures called lysosomes. Lysosomes are compartments in the cell that digest and recycle materials. The role the LAMP-2 protein plays in the lysosome is unclear. Some researchers think the LAMP-2 protein may help transport cellular materials or digestive enzymes into the lysosome. The transport of cellular materials into lysosomes requires the formation of cellular structures called autophagic vacuoles (or autophagosomes), which then attach (fuse) to lysosomes. The LAMP-2 protein may be involved in the fusion between autophagic vacuoles and lysosomes.  Mutations in the LAMP2 gene lead to the production of very little or no LAMP-2 protein, which may impair the process of transporting cellular material into the lysosome. Some studies have shown that in cells without the LAMP-2 protein, fusion between autophagic vacuoles and lysosomes occurs more slowly, which may lead to the accumulation of autophagic vacuoles. People with Danon disease have an abnormally large number of autophagic vacuoles in their muscle cells. It is possible that this accumulation leads to breakdown of the muscle cells, causing the muscle weakness seen in Danon disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000271-4" qtype="inheritance">Is Danon disease inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked dominant pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell is sufficient to cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In most cases, males experience more severe symptoms of the disorder than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000271-5" qtype="treatment">What are the treatments for Danon disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Danon disease:  - American Heart Association: Dilated Cardiomyopathy  - Genetic Testing Registry: Danon disease  - KidsHealth from Nemours: Getting an EKG  - Swedish Information Centre for Rare Diseases   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

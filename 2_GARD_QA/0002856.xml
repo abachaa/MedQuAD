@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002856" source="GARD" url="https://rarediseases.info.nih.gov/gard/6639/hereditary-spherocytosis">
+<Focus>Hereditary spherocytosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0553720</CUI>
+			<CUI>C0037889</CUI>
+			<CUI>C2674218</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital spherocytic hemolytic anemia</Synonym>
+		<Synonym>Congenital spherocytosis</Synonym>
+		<Synonym>Spherocytic anemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002856-1" qtype="information">What is (are) Hereditary spherocytosis ?</Question>
+			<Answer>Hereditary spherocytosis is a condition characterized by hemolytic anemia (when red blood cells are destroyed earlier than normal). Signs and symptoms can range from mild to severe and may include pale skin, fatigue, anemia, jaundice, gallstones, and enlargement of the spleen. Some people with a severe form may have short stature, delayed sexual development, and skeletal abnormalities. The condition is caused by mutations in any of several genes, such as the ANK1, EPB42, SLC4A1, SPTA1, and SPTB genes. It is most commonly inherited in an autosomal dominant manner, but may be inherited in an autosomal recessive manner. There are different types of hereditary spherocytosis, which are distinguished by severity and genetic cause. Depending on severity, treatment may involve splenectomy, red cell transfusions, folic acid supplementation, and/or cholecystectomy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002856-2" qtype="symptoms">What are the symptoms of Hereditary spherocytosis ?</Question>
+			<Answer>What are the signs and symptoms of Hereditary spherocytosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Hereditary spherocytosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Cholelithiasis - Hemolytic anemia - Hyperbilirubinemia - Jaundice - Reticulocytosis - Spherocytosis - Splenomegaly - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002856-3" qtype="causes">What causes Hereditary spherocytosis ?</Question>
+			<Answer>What causes hereditary spherocytosis? Hereditary spherocytosis may be caused by mutations in any one of several genes. The mutations that cause the condition result in the formation of spherical, overly rigid, misshapen red blood cells. The misshapen red blood cells, called spherocytes, are removed from circulation and taken to the spleen for destruction. Within the spleen, the red blood cells break down (undergo hemolysis). The shortage of red blood cells in the blood circulation and the abundance of cells in the spleen are responsible for the signs and symptoms of this condition.  Mutations in the ANK1 gene are responsible for about half of all cases of hereditary spherocytosis. The other genes associated with hereditary spherocytosis account for a smaller percentage of cases and include the EPB42, SLC4A1, SPTA1, and SPTB genes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002856-4" qtype="inheritance">Is Hereditary spherocytosis inherited ?</Question>
+			<Answer>How is hereditary spherocytosis inherited? About 75 percent of cases of hereditary spherocytosis are inherited in an autosomal dominant manner, which means that one copy of the altered (mutated) gene in each cell is sufficient to cause the condition. The mutated gene may be inherited from an affected parent or may occur for the first time in the affected individual. Each child of an individual with an autosomal dominant form of hereditary spherocytosis has a 50% (1 in 2) risk to inherit the mutated gene.  Less commonly, hereditary spherocytosis is inherited in an autosomal recessive manner, which means that both copies of the disease-causing gene in each cell have mutations. Parents of a person with an autosomal recessive condition each carry one copy of the mutated gene and are referred to as carriers. Carriers of an autosomal recessive condition typically do not have signs and symptoms of the condition. When two carriers of the same autosomal recessive condition have children, each child has a 25% (1 in 4) risk to have to condition, a 50% (1 in 2) risk to be a carrier like each parent, and a 25% risk to not have the condition and not be a carrier. In some of the cases that result from new mutations in people with no history of the condition in their family, the inheritance pattern may be unclear.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

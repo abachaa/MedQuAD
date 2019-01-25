@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000264" source="NINDS" url="http://www.ninds.nih.gov/disorders/tardive/tardive.htm">
+<Focus>Tardive Dyskinesia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0686347</CUI>
+			<CUI>C3714760</CUI>
+			<CUI>C0152115</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000264-1" qtype="information">What is (are) Tardive Dyskinesia ?</Question>
+			<Answer>Tardive dyskinesia is a neurological syndrome caused by the long-term use of neuroleptic drugs. Neuroleptic drugs are generally prescribed for psychiatric disorders, as well as for some gastrointestinal and neurological disorders. Tardive dyskinesia is characterized by repetitive, involuntary, purposeless movements. Features of the disorder may include grimacing, tongue protrusion, lip smacking, puckering and pursing, and rapid eye blinking. Rapid movements of the arms, legs, and trunk may also occur. Involuntary movements of the fingers may be present.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000264-2" qtype="treatment">What are the treatments for Tardive Dyskinesia ?</Question>
+			<Answer>Treatment is highly individualized. The first step is generally to stop or minimize the use of the neuroleptic drug, but this can be done only under close supervision of the physician.. However, for patients with a severe underlying condition this may not be a feasible option. Replacing the neuroleptic drug with substitute drugs may help some individuals. The only approved drug treatment for tardive dyskenesia is tetrabenazine, which is usually effective but can have side effects that need to be discussed prior to starting therapy. Other drugs such as benzodiazepines, clozapine, or botulinum toxin injections also may be tried.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000264-3" qtype="outlook">What is the outlook for Tardive Dyskinesia ?</Question>
+			<Answer>Symptoms of tardive dyskinesia may remain long after discontinuation of neuroleptic drugs. In many cases, the symptoms stop spontaneously, but in some cases they may persist indefinitely.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000264-4" qtype="research">what research (or clinical trials) is being done for Tardive Dyskinesia ?</Question>
+			<Answer>The NINDS conducts and supports a broad range of research on movement disorders including tardive dyskinesia. The goals of this research are to improve understanding of these disorders and to discover ways to treat, prevent, and, ultimately, cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003401" source="GARD" url="https://rarediseases.info.nih.gov/gard/8705/klinefelter-syndrome">
+<Focus>Klinefelter syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432474</CUI>
+			<CUI>C0022735</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Klinefelter's syndrome</Synonym>
+		<Synonym>XXY syndrome</Synonym>
+		<Synonym>47, XXY</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003401-1" qtype="information">What is (are) Klinefelter syndrome ?</Question>
+			<Answer>Klinefelter syndrome (KS) is a condition that occurs in males when they have an extra X chromosome. Some males with KS have no obvious signs or symptoms while others may have varying degrees of cognitive, social, behavioral, and learning difficulties. Adults with Klinefelter syndrome may also experience primary hypogonadism (decreased testosterone production), small testes, enlarged breast tissue (gynecomastia), tall stature, and/or infertility. KS is not inherited, but usually occurs as a random event during the formation of reproductive cells (eggs and sperm). Treatment is based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003401-2" qtype="symptoms">What are the symptoms of Klinefelter syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Klinefelter syndrome? The signs and symptoms of Klinefelter syndrome (KS) vary among affected people. Some men with KS have no symptoms of the condition or are only mildy affected. In these cases, they may not even know that they are affected by KS. When present, symptoms may include: Small, firm testicles Delayed or incomplete puberty Breast growth (gynecomastia) Reduced facial and body hair Infertility Tall height Abnormal body proportions (long legs, short trunk, shoulder equal to hip size) Learning disablity Speech delay Whether or not a male with KS has visible symptoms depends on many factors, including how much testosterone his body makes, if he is mosaic (with both XY and XXY cells), and his age when the condition is diagnosed and treated. The Human Phenotype Ontology provides the following list of signs and symptoms for Klinefelter syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of chromosome segregation 90% Decreased fertility 90% Disproportionate tall stature 90% Neurological speech impairment 90% Abnormal hair quantity 50% Abnormality of movement 50% Clinodactyly of the 5th finger 50% Cryptorchidism 50% Eunuchoid habitus 50% Hypoplasia of penis 50% Long face 50% Mandibular prognathia 50% Obesity 50% Reduced bone mineral density 50% Scoliosis 50% Single transverse palmar crease 50% Venous insufficiency 50% Abnormality of calvarial morphology 7.5% Abnormality of the mitral valve 7.5% Neoplasm 7.5% Type II diabetes mellitus 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003401-3" qtype="causes">What causes Klinefelter syndrome ?</Question>
+			<Answer>What causes Klinefelter syndrome? Klinefelter syndrome usually occurs as a random event during the formation of reproductive cells (eggs and sperm). An error in cell division called nondisjunction results in a reproductive cell with an abnormal number of chromosomes. For example, an egg or sperm cell may gain one or more extra copies of the X chromosome as a result of nondisjunction. If one of these atypical reproductive cells contributes to the genetic makeup of a child, the child will have one or more extra X chromosomes in each of the body&apos;s cells. Most often, Klinefelter syndrome is caused by a single extra copy of the X chromosome, resulting in a total of 47 chromosomes per cell. Males normally have one X chromosome and one Y chromosome in each cell (46, XY), while females have two X chromosomes (46, XX). People with Klinefelter syndrome usually have two X chromosomes and one Y chromosome (47, XXY). Some people with Klinefelter syndrome have the extra X chromosome in only some of their cells; these people are said to have mosaic Klinefelter syndrome. It is estimated that about half of the time, the cell division error occurs during development of the sperm, while the remainder are due to errors in egg development. Women who have pregnancies after age 35 have a slightly increased chance of having offspring with this syndrome. The features of Klinefelter syndrome are due to the extra copies of genes on the extra X chromosome, which can alter male sexual development.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003401-4" qtype="inheritance">Is Klinefelter syndrome inherited ?</Question>
+			<Answer>Is Klinefelter syndrome inherited? Klinefelter syndrome is not inherited, but usually occurs as a random event during the formation of reproductive cells (eggs and sperm). An error in cell division called nondisjunction can result in reproductive cells with an abnormal number of chromosomes. For example, an egg or sperm cell may gain one or more extra copies of the X chromosome as a result of nondisjunction. If one of these reproductive cells contributes to the genetic makeup of a child, the child will have one or several extra X chromosomes in each of the body&apos;s cells.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003401-5" qtype="exams and tests">How to diagnose Klinefelter syndrome ?</Question>
+			<Answer>How is Klinefelter syndrome diagnosed? A diagnosis of Klinefelter syndrome is often suspected based on the presence of characteristic signs and symptoms. Additional testing can then be ordered to confirm the diagnosis. This generally includes a chromosomal analysis (called a karyotype). It is also possible to diagnosis Klinefelter syndrome before birth through chorionic villous sampling or amniocentesis.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003401-6" qtype="treatment">What are the treatments for Klinefelter syndrome ?</Question>
+			<Answer>How might Klinefelter syndrome be treated? Because symptoms of Klinefelter syndrome (KS) can sometimes be very mild, many people are never diagnosed or treated. When a diagnosis is made, treatment is based on the signs and symptoms present in each person. This may include: Educational interventions - As children, many people with Klinefelter syndrome qualify for special services to help them in school. Teachers can also help by using certain methods in the classroom, such as breaking bigger tasks into small steps. Therapeutic options - A variety of therapists, such as physical, speech, occupational, behavioral, mental health, and family therapists can often help reduce or eliminate some of the symptoms of Klinefelter syndrome such as poor muscle tone; speech and language problems; or low self-confidence. Medical management - About half of people with KS have low testosterone levels, which may be raised by taking supplemental testosterone. Having a more normal testosterone level can help affected people develop bigger muscles, a deeper voice, and facial and body hair. Many healthcare providers recommend testosterone therapy when a boy reaches puberty. However, not all males with KS benefit from testosterone therapy. Some affected people may opt to have breast removal or reduction surgery. The Eunice Kennedy Shriver National Institute of Child Health and Human Development&apos;s Web site offers more specific information on the treatment and management of Klinefelter syndrome. Please click on the link to access this resource.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002668" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000604.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Morning sickness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0312416</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002668-1" qtype="information">What is (are) Morning sickness ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002668-2" qtype="information">What is (are) Morning sickness ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002668-5" qtype="treatment">What are the treatments for Morning sickness ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

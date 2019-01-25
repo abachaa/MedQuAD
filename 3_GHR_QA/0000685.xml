@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000685" source="GHR" url="https://ghr.nlm.nih.gov/condition/multicentric-osteolysis-nodulosis-and-arthropathy">
+<Focus>multicentric osteolysis, nodulosis, and arthropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221204</CUI>
+			<CUI>C0022408</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Al-Aqeel Sewairi syndrome</Synonym>
+		<Synonym>hereditary multicentric osteolysis</Synonym>
+		<Synonym>MONA</Synonym>
+		<Synonym>NAO syndrome</Synonym>
+		<Synonym>nodulosis-arthropathy-osteolysis syndrome</Synonym>
+		<Synonym>Torg syndrome</Synonym>
+		<Synonym>Torg-Winchester syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000685-1" qtype="information">What is (are) multicentric osteolysis, nodulosis, and arthropathy ?</Question>
+			<Answer>Multicentric osteolysis, nodulosis, and arthropathy (MONA) describes a rare inherited disease characterized by a loss of bone tissue (osteolysis), particularly in the hands and feet. MONA includes a condition formerly called nodulosis-arthropathy-osteolysis (NAO) syndrome. It may also include a similar disorder called Torg syndrome, although it is unknown whether Torg syndrome is actually part of MONA or a separate disorder caused by a mutation in a different gene.  In most cases of MONA, bone loss begins in the hands and feet, causing pain and limiting movement. Bone abnormalities can later spread to other areas of the body, with joint problems (arthropathy) occurring in the elbows, shoulders, knees, hips, and spine. Most people with MONA develop low bone mineral density (osteopenia) and thinning of the bones (osteoporosis) throughout the skeleton. These abnormalities make bones brittle and more prone to fracture. The bone abnormalities also lead to short stature.  Many affected individuals develop subcutaneous nodules, which are firm lumps of noncancerous tissue underneath the skin, especially on the soles of the feet. Some affected individuals also have skin abnormalities including patches of dark, thick, and leathery skin. Other features of MONA can include clouding of the clear front covering of the eye (corneal opacity), excess hair growth (hypertrichosis), overgrowth of the gums, heart abnormalities, and distinctive facial features that are described as &quot;coarse.&quot;</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000685-2" qtype="frequency">How many people are affected by multicentric osteolysis, nodulosis, and arthropathy ?</Question>
+			<Answer>MONA is rare; its prevalence is unknown. This condition has been reported in multiple populations worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000685-3" qtype="genetic changes">What are the genetic changes related to multicentric osteolysis, nodulosis, and arthropathy ?</Question>
+			<Answer>MONA results from mutations in the MMP2 gene. This gene provides instructions for making an enzyme called matrix metallopeptidase 2, whose primary function is to cut (cleave) a protein called type IV collagen. Type IV collagen is a major structural component of basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. The activity of matrix metallopeptidase 2 appears to be important for a variety of body functions, including bone remodeling, which is a normal process in which old bone is broken down and new bone is created to replace it.  The MMP2 gene mutations that cause MONA completely eliminate the activity of the matrix metallopeptidase 2 enzyme, preventing the normal cleavage of type IV collagen. It is unclear how a loss of enzyme activity leads to the specific features of MONA. Researchers suspect that it somehow disrupts the balance of new bone creation and the breakdown of existing bone during bone remodeling, resulting in a progressive loss of bone tissue. How a shortage of matrix metallopeptidase 2 leads to the other features of MONA, such as subcutaneous nodules and skin abnormalities, is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000685-4" qtype="inheritance">Is multicentric osteolysis, nodulosis, and arthropathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000685-5" qtype="treatment">What are the treatments for multicentric osteolysis, nodulosis, and arthropathy ?</Question>
+			<Answer>These resources address the diagnosis or management of MONA:  - Genetic Testing Registry: Multicentric osteolysis, nodulosis and arthropathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

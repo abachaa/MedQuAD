@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002263" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003261.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Joint pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003862</CUI>
+			<CUI>C1963066</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Stiffness in a joint</Synonym>
+		<Synonym>Pain - joints</Synonym>
+		<Synonym>Arthralgia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002263-1" qtype="information">What is (are) Joint pain ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002263-2" qtype="causes">What causes Joint pain ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002263-3" qtype="considerations">What to do for Joint pain ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002263-4" qtype="when to contact a medical professional">Do I need to see a doctor for Joint pain ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002263-5" qtype="outlook">What is the outlook for Joint pain ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

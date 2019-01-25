@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000061" source="GHR" url="https://ghr.nlm.nih.gov/condition/ankyloblepharon-ectodermal-defects-cleft-lip-palate-syndrome">
+<Focus>ankyloblepharon-ectodermal defects-cleft lip/palate syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0406709</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AEC syndrome</Synonym>
+		<Synonym>ankyloblepharon-ectodermal defects-cleft lip and palate syndrome</Synonym>
+		<Synonym>Hay-Wells syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000061-1" qtype="information">What is (are) ankyloblepharon-ectodermal defects-cleft lip/palate syndrome ?</Question>
+			<Answer>Ankyloblepharon-ectodermal defects-cleft lip/palate (AEC) syndrome is a form of ectodermal dysplasia, a group of about 150 conditions characterized by abnormal development of ectodermal tissues including the skin, hair, nails, teeth, and sweat glands.  Among the most common features of AEC syndrome are missing patches of skin (erosions). In affected infants, skin erosions most commonly occur on the scalp. They tend to recur throughout childhood and into adulthood, frequently affecting the scalp, neck, hands, and feet. The skin erosions range from mild to severe and can lead to infection, scarring, and hair loss. Other ectodermal abnormalities in AEC syndrome include changes in skin coloring; brittle, sparse, or missing hair; misshapen or absent fingernails and toenails; and malformed or missing teeth. Affected individuals also report increased sensitivity to heat and a reduced ability to sweat.  Many infants with AEC syndrome are born with an eyelid condition known as ankyloblepharon filiforme adnatum, in which strands of tissue partially or completely fuse the upper and lower eyelids. Most people with AEC syndrome are also born with an opening in the roof of the mouth (a cleft palate), a split in the lip (a cleft lip), or both. Cleft lip or cleft palate can make it difficult for affected infants to suck, so these infants often have trouble feeding and do not grow and gain weight at the expected rate (failure to thrive).  Additional features of AEC syndrome can include limb abnormalities, most commonly fused fingers and toes (syndactyly). Less often, affected individuals have permanently bent fingers and toes (camptodactyly) or a deep split in the hands or feet with missing fingers or toes and fusion of the remaining digits (ectrodactyly). Hearing loss is common, occurring in more than 90 percent of children with AEC syndrome. Some affected individuals have distinctive facial features, such as small jaws that cannot open fully and a narrow space between the upper lip and nose (philtrum). Other signs and symptoms can include the opening of the urethra on the underside of the penis (hypospadias) in affected males, digestive problems, absent tear duct openings in the eyes, and chronic sinus or ear infections.  A condition known as Rapp-Hodgkin syndrome has signs and symptoms that overlap considerably with those of AEC syndrome. These two syndromes were classified as separate disorders until it was discovered that they both result from mutations in the same part of the same gene. Most researchers now consider Rapp-Hodgkin syndrome and AEC syndrome to be part of the same disease spectrum.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000061-2" qtype="frequency">How many people are affected by ankyloblepharon-ectodermal defects-cleft lip/palate syndrome ?</Question>
+			<Answer>AEC syndrome is a rare condition; its prevalence is unknown. All forms of ectodermal dysplasia together occur in about 1 in 100,000 newborns in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000061-3" qtype="genetic changes">What are the genetic changes related to ankyloblepharon-ectodermal defects-cleft lip/palate syndrome ?</Question>
+			<Answer>AEC syndrome is caused by mutations in the TP63 gene. This gene provides instructions for making a protein known as p63, which plays an essential role in early development. The p63 protein is a transcription factor, which means that it attaches (binds) to DNA and controls the activity of particular genes. The p63 protein turns many different genes on and off during development. It appears to be especially critical for the development of ectodermal structures, such as the skin, hair, teeth, and nails. Studies suggest that it also plays important roles in the development of the limbs, facial features, urinary system, and other organs and tissues.  The TP63 gene mutations responsible for AEC syndrome interfere with the ability of p63 to turn target genes on and off at the right times. It is unclear how these changes lead to abnormal ectodermal development and the specific features of AEC syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000061-4" qtype="inheritance">Is ankyloblepharon-ectodermal defects-cleft lip/palate syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000061-5" qtype="treatment">What are the treatments for ankyloblepharon-ectodermal defects-cleft lip/palate syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of AEC syndrome:  - Gene Review: Gene Review: TP63-Related Disorders  - Genetic Testing Registry: Hay-Wells syndrome of ectodermal dysplasia  - Genetic Testing Registry: Rapp-Hodgkin ectodermal dysplasia syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

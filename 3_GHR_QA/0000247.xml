@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000247" source="GHR" url="https://ghr.nlm.nih.gov/condition/cranioectodermal-dysplasia">
+<Focus>cranioectodermal dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432235</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CED</Synonym>
+		<Synonym>Sensenbrenner syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000247-1" qtype="information">What is (are) cranioectodermal dysplasia ?</Question>
+			<Answer>Cranioectodermal dysplasia is a disorder that affects many parts of the body. The most common features involve bone abnormalities and abnormal development of certain tissues known as ectodermal tissues, which include the skin, hair, nails, and teeth. The signs and symptoms of this condition vary among affected individuals, even among members of the same family.  Distinctive abnormalities of the skull and face are common in people with cranioectodermal dysplasia. Most affected individuals have a prominent forehead (frontal bossing) and an elongated head (dolichocephaly) due to abnormal fusion of certain skull bones (sagittal craniosynostosis). A variety of facial abnormalities can occur in people with this condition; these include low-set ears that may also be rotated backward, an increased distance between the inner corners of the eyes (telecanthus), and outside corners of the eyes that point upward or downward (upslanting or downslanting palpebral fissures) among others.  Development of bones in the rest of the skeleton is also affected in this condition. Abnormalities in the long bones of the arms and legs (metaphyseal dysplasia) lead to short limbs and short stature. In addition, affected individuals often have short fingers (brachydactyly). Some people with this condition have short rib bones and a narrow rib cage, which can cause breathing problems, especially in affected newborns.  Abnormal development of ectodermal tissues in people with cranioectodermal dysplasia can lead to sparse hair, small or missing teeth, short fingernails and toenails, and loose skin.  Cranioectodermal dysplasia can affect additional organs and tissues in the body. A kidney disorder known as nephronophthisis occurs in many people with this condition, and it can lead to a life-threatening failure of kidney function known as end-stage renal disease. Abnormalities of the liver, heart, or eyes also occur in people with cranioectodermal dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000247-2" qtype="frequency">How many people are affected by cranioectodermal dysplasia ?</Question>
+			<Answer>Cranioectodermal dysplasia is a rare condition with an unknown prevalence. Approximately 40 cases of this condition have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000247-3" qtype="genetic changes">What are the genetic changes related to cranioectodermal dysplasia ?</Question>
+			<Answer>Cranioectodermal dysplasia is caused by mutations in one of at least four genes: the WDR35, IFT122, WDR19, or IFT43 gene. The protein produced from each of these genes is one piece (subunit) of a protein complex called IFT complex A (IFT-A). This complex is found in finger-like structures called cilia that stick out from the surface of cells. These structures are important for the development and function of many types of cells and tissues. The IFT-A complex is involved in a process called intraflagellar transport, which moves substances within cilia. This movement is essential for the assembly and maintenance of these structures. The IFT-A complex carries materials from the tip to the base of cilia.  Mutations in any of the four mentioned genes reduce the amount or function of one of the IFT-A subunits. Shortage or abnormal function of a single component of the IFT-A complex impairs the function of the entire complex, disrupting the assembly and maintenance of cilia. These mutations lead to a smaller number of cilia and to abnormalities in their shape and structure. Although the mechanism is unclear, a loss of normal cilia impedes proper development of bone, ectodermal tissues, and other tissues and organs, leading to the features of cranioectodermal dysplasia.  About 40 percent of people with cranioectodermal dysplasia have mutations in one of the four known genes. The cause of the condition in people without mutations in one of these genes is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000247-4" qtype="inheritance">Is cranioectodermal dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000247-5" qtype="treatment">What are the treatments for cranioectodermal dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of cranioectodermal dysplasia:  - Gene Review: Gene Review: Cranioectodermal Dysplasia  - Genetic Testing Registry: Cranioectodermal dysplasia 1  - Genetic Testing Registry: Cranioectodermal dysplasia 2  - Genetic Testing Registry: Cranioectodermal dysplasia 3  - Genetic Testing Registry: Cranioectodermal dysplasia 4   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

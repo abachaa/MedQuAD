@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000185" source="GHR" url="https://ghr.nlm.nih.gov/condition/chronic-atrial-and-intestinal-dysrhythmia">
+<Focus>chronic atrial and intestinal dysrhythmia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003811</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CAID</Synonym>
+		<Synonym>cohesinopathy affecting heart and gut rhythm</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000185-1" qtype="information">What is (are) chronic atrial and intestinal dysrhythmia ?</Question>
+			<Answer>Chronic atrial and intestinal dysrhythmia (CAID) is a disorder affecting the heart and the digestive system. CAID disrupts the normal rhythm of the heartbeat; affected individuals have a heart rhythm abnormality called sick sinus syndrome. The disorder also impairs the rhythmic muscle contractions that propel food through the intestines (peristalsis), causing a digestive condition called intestinal pseudo-obstruction. The heart and digestive issues develop at the same time, usually by age 20.  Sick sinus syndrome (also known as sinus node dysfunction) is an abnormality of the sinoatrial (SA) node, which is an area of specialized cells in the heart that functions as a natural pacemaker. The SA node generates electrical impulses that start each heartbeat. These signals travel from the SA node to the rest of the heart, signaling the heart (cardiac) muscle to contract and pump blood. In people with sick sinus syndrome, the SA node does not function normally, which usually causes the heartbeat to be too slow (bradycardia), although occasionally the heartbeat is too fast (tachycardia) or rapidly switches from being too fast to being too slow (tachycardia-bradycardia syndrome). Symptoms related to abnormal heartbeats can include dizziness, light-headedness, fainting (syncope), a sensation of fluttering or pounding in the chest (palpitations), and confusion or memory problems. During exercise, many affected individuals experience chest pain, difficulty breathing, or excessive tiredness (fatigue).  In intestinal pseudo-obstruction, impairment of peristalsis leads to a buildup of partially digested food in the intestines, abdominal swelling (distention) and pain, nausea, vomiting, and constipation or diarrhea. Affected individuals experience loss of appetite and impaired ability to absorb nutrients, which may lead to malnutrition. These symptoms resemble those caused by an intestinal blockage (obstruction) such as a tumor, but in intestinal pseudo-obstruction no such blockage is found.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000185-2" qtype="frequency">How many people are affected by chronic atrial and intestinal dysrhythmia ?</Question>
+			<Answer>The prevalence of CAID is unknown. At least 17 affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000185-3" qtype="genetic changes">What are the genetic changes related to chronic atrial and intestinal dysrhythmia ?</Question>
+			<Answer>CAID is caused by mutations in the SGO1 gene. This gene provides instructions for making part of a protein complex called cohesin. This protein complex helps control the placement of chromosomes during cell division. Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. Cohesin holds the sister chromatids together, and in doing so helps maintain the stability of chromosomal structure during cell division.  Researchers suggest that SGO1 gene mutations may result in a cohesin complex that is less able to hold sister chromatids together, resulting in decreased chromosomal stability during cell division. This instability is thought to cause early aging (senescence) of cells in the intestinal muscle and in the SA node, resulting in problems maintaining proper rhythmic movements of the heart and intestines and leading to the signs and symptoms of CAID.  It is unclear why SGO1 gene mutations specifically affect the heart and intestines in CAID. Researchers suggest that the activity (expression) of the SGO1 gene in certain embryonic tissues or a particular function of the SGO1 protein in the SA node and in cells that help control peristalsis may account for the features of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000185-4" qtype="inheritance">Is chronic atrial and intestinal dysrhythmia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000185-5" qtype="treatment">What are the treatments for chronic atrial and intestinal dysrhythmia ?</Question>
+			<Answer>These resources address the diagnosis or management of chronic atrial and intestinal dysrhythmia:  - Children&apos;s Hospital of Pittsburgh: Chronic Intestinal Pseudo-obstruction  - Genetic Testing Registry: Chronic atrial and intestinal dysrhythmia  - MedlinePlus Encyclopedia: Heart Pacemakers  - MedlinePlus Health Topic: Nutritional Support  - MedlinePlus Health Topic: Pacemakers and Implantable Defibrillators  - National Heart, Lung, and Blood Institute: What is a Pacemaker?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

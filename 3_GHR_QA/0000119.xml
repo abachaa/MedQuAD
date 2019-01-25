@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000119" source="GHR" url="https://ghr.nlm.nih.gov/condition/beta-thalassemia">
+<Focus>beta thalassemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0005283</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>erythroblastic anemia</Synonym>
+		<Synonym>Mediterranean anemia</Synonym>
+		<Synonym>microcytemia, beta type</Synonym>
+		<Synonym>thalassemia, beta type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000119-1" qtype="information">What is (are) beta thalassemia ?</Question>
+			<Answer>Beta thalassemia is a blood disorder that reduces the production of hemoglobin. Hemoglobin is the iron-containing protein in red blood cells that carries oxygen to cells throughout the body.  In people with beta thalassemia, low levels of hemoglobin lead to a lack of oxygen in many parts of the body. Affected individuals also have a shortage of red blood cells (anemia), which can cause pale skin, weakness, fatigue, and more serious complications. People with beta thalassemia are at an increased risk of developing abnormal blood clots.  Beta thalassemia is classified into two types depending on the severity of symptoms: thalassemia major (also known as Cooley&apos;s anemia) and thalassemia intermedia. Of the two types, thalassemia major is more severe.  The signs and symptoms of thalassemia major appear within the first 2 years of life. Children develop life-threatening anemia. They do not gain weight and grow at the expected rate (failure to thrive) and may develop yellowing of the skin and whites of the eyes (jaundice). Affected individuals may have an enlarged spleen, liver, and heart, and their bones may be misshapen. Some adolescents with thalassemia major experience delayed puberty. Many people with thalassemia major have such severe symptoms that they need frequent blood transfusions to replenish their red blood cell supply. Over time, an influx of iron-containing hemoglobin from chronic blood transfusions can lead to a buildup of iron in the body, resulting in liver, heart, and hormone problems.  Thalassemia intermedia is milder than thalassemia major. The signs and symptoms of thalassemia intermedia appear in early childhood or later in life. Affected individuals have mild to moderate anemia and may also have slow growth and bone abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000119-2" qtype="frequency">How many people are affected by beta thalassemia ?</Question>
+			<Answer>Beta thalassemia is a fairly common blood disorder worldwide. Thousands of infants with beta thalassemia are born each year. Beta thalassemia occurs most frequently in people from Mediterranean countries, North Africa, the Middle East, India, Central Asia, and Southeast Asia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000119-3" qtype="genetic changes">What are the genetic changes related to beta thalassemia ?</Question>
+			<Answer>Mutations in the HBB gene cause beta thalassemia. The HBB gene provides instructions for making a protein called beta-globin. Beta-globin is a component (subunit) of hemoglobin. Hemoglobin consists of four protein subunits, typically two subunits of beta-globin and two subunits of another protein called alpha-globin.  Some mutations in the HBB gene prevent the production of any beta-globin. The absence of beta-globin is referred to as beta-zero (B0) thalassemia. Other HBB gene mutations allow some beta-globin to be produced but in reduced amounts. A reduced amount of beta-globin is called beta-plus (B+) thalassemia. Having either B0 or B+ thalassemia does not necessarily predict disease severity, however; people with both types have been diagnosed with thalassemia major and thalassemia intermedia.  A lack of beta-globin leads to a reduced amount of functional hemoglobin. Without sufficient hemoglobin, red blood cells do not develop normally, causing a shortage of mature red blood cells. The low number of mature red blood cells leads to anemia and other associated health problems in people with beta thalassemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000119-4" qtype="inheritance">Is beta thalassemia inherited ?</Question>
+			<Answer>Thalassemia major and thalassemia intermedia are inherited in an autosomal recessive pattern, which means both copies of the HBB gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Sometimes, however, people with only one HBB gene mutation in each cell develop mild anemia. These mildly affected people are said to have thalassemia minor.  In a small percentage of families, the HBB gene mutation is inherited in an autosomal dominant manner. In these cases, one copy of the altered gene in each cell is sufficient to cause the signs and symptoms of beta thalassemia.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000119-5" qtype="treatment">What are the treatments for beta thalassemia ?</Question>
+			<Answer>These resources address the diagnosis or management of beta thalassemia:  - Gene Review: Gene Review: Beta-Thalassemia  - Genetic Testing Registry: Beta-thalassemia, dominant inclusion body type  - Genetic Testing Registry: beta Thalassemia  - MedlinePlus Encyclopedia: Thalassemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

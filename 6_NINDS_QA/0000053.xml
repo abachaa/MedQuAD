@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000053" source="NINDS" url="http://www.ninds.nih.gov/disorders/tbi/tbi.htm">
+<Focus>Traumatic Brain Injury</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0876926</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000053-1" qtype="information">What is (are) Traumatic Brain Injury ?</Question>
+			<Answer>Traumatic brain injury (TBI), a form ofacquired brain injury, occurs when a sudden trauma causes damage to the brain. TBI can result when the head suddenly and violently hits an object, or when an object pierces the skull and enters brain tissue.Symptoms of a TBI can be mild, moderate, or severe, depending on the extent of the damage to the brain. A person with a mild TBI may remain conscious or may experience a loss of consciousness for a few seconds or minutes. Other symptoms of mild TBI include headache, confusion, lightheadedness, dizziness, blurred vision or tired eyes, ringing in the ears, bad taste in the mouth, fatigue or lethargy, a change in sleep patterns, behavioral or mood changes, and trouble with memory, concentration, attention, or thinking. A person with a moderate or severe TBI may show these same symptoms, but may also have a headache that gets worse or does not go away, repeated vomiting or nausea, convulsions or seizures, an inability to awaken from sleep, dilation of one or both pupils of the eyes, slurred speech, weakness or numbness in the extremities, loss of coordination, and increased confusion, restlessness, or agitation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000053-2" qtype="treatment">What are the treatments for Traumatic Brain Injury ?</Question>
+			<Answer>Anyone with signs of moderate or severe TBI should receive medical attention as soon as possible. Because little can be done to reverse the initial brain damage caused by trauma, medical personnel try to stabilize an individual with TBI and focus on preventing further injury. Primary concerns include insuring proper oxygen supply to the brain and the rest of the body, maintaining adequate blood flow, and controlling blood pressure. Imaging tests help in determining the diagnosis and prognosis of a TBI patient. Patients with mild to moderate injuries may receive skull and neck X-rays to check for bone fractures or spinal instability. For moderate to severe cases, the imaging test is a computed tomography (CT) scan. Moderately to severely injured patients receive rehabilitation that involves individually tailored treatment programs in the areas of physical therapy, occupational therapy, speech/language therapy, physiatry (physical medicine), psychology/psychiatry, and social support.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000053-3" qtype="outlook">What is the outlook for Traumatic Brain Injury ?</Question>
+			<Answer>Approximately half of severely head-injured patients will need surgery to remove or repair hematomas (ruptured blood vessels) or contusions (bruised brain tissue). Disabilities resulting from a TBI depend upon the severity of the injury, the location of the injury, and the age and general health of the individual. Some common disabilities include problems with cognition (thinking, memory, and reasoning), sensory processing (sight, hearing, touch, taste, and smell), communication (expression and understanding), and behavior or mental health (depression, anxiety, personality changes, aggression, acting out, and social inappropriateness). More serious head injuries may result in stupor, an unresponsive state, but one in which an individual can be aroused briefly by a strong stimulus, such as sharp pain; coma, a state in which an individual is totally unconscious, unresponsive, unaware, and unarousable; vegetative state, in which an individual is unconscious and unaware of his or her surroundings, but continues to have a sleep-wake cycle and periods of alertness; and a persistent vegetative state (PVS), in which an individual stays in a vegetative state for more than a month.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000053-4" qtype="research">what research (or clinical trials) is being done for Traumatic Brain Injury ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) supports TBI research through grants to major medical institutions across the country and conducts TBI research in its intramural laboratories and Clinical Center at the National Institutes of Health (NIH) in Bethesda,Maryland. The Center for Neuroscience and Regenerative Medicine (CNRM) is a TBI research collaboration between intramural NIH and the Uniformed Services University for the Health Sciences (USUHS). NINDS-funded research involves studies in the laboratory and in clinical settings to better understand TBI and the biological mechanisms underlying damage to the brain. This research will allow scientists to develop strategies and interventions to limit the primary and secondary brain damage that occurs within days of a head trauma, and to devise therapies to treat brain injury and improve long-term recovery of function.
+                
+More information about Traumatic Brain Injury (TBI) Research is available at: http://www.ninds.nih.gov/research/tbi/index.htm
+                
+More information about CNRM clinical studies is available at: http://cnrmstudies.org/</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000352" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/familyhistory.html">
+<Focus>Family History</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241889</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000352-1" qtype="information">What is (are) Family History ?</Question>
+			<Answer>Your family history includes health information about you and your close relatives. Families have many factors in common, including their genes, environment, and lifestyle. Looking at these factors can help you figure out whether you have a higher risk for certain health problems, such as heart disease, stroke, and cancer.    Having a family member with a disease raises your risk, but it does not mean that you will definitely get it. Knowing that you are at risk gives you a chance to reduce that risk by following a healthier lifestyle and getting tested as needed.     You can get started by talking to your relatives about their health. Draw a family tree and add the health information. Having copies of medical records and death certificates is also helpful.     Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

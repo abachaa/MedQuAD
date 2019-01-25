@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000584" source="GHR" url="https://ghr.nlm.nih.gov/condition/late-infantile-neuronal-ceroid-lipofuscinosis">
+<Focus>late-infantile neuronal ceroid lipofuscinosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022340</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Jansky-Bielschowsky disease</Synonym>
+		<Synonym>late-infantile Batten disease</Synonym>
+		<Synonym>LINCL</Synonym>
+		<Synonym>neuronal ceroid lipofuscinosis, late-infantile</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000584-1" qtype="information">What is (are) late-infantile neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Late-infantile neuronal ceroid lipofuscinosis (NCL) is an inherited disorder that primarily affects the nervous system. The signs and symptoms of this condition typically begin in late infancy or early childhood. The initial features usually include recurrent seizures (epilepsy) and difficulty coordinating movements (ataxia). Affected children also develop muscle twitches (myoclonus) and vision impairment. Late-infantile NCL affects motor skills, such as sitting and walking, and speech development. This condition also causes the loss of previously acquired skills (developmental regression), progressive intellectual disability, and behavioral problems. Individuals with this condition often require the use of a wheelchair by late childhood and typically do not survive past their teens.  Late-infantile NCL is one of a group of NCLs (collectively called Batten disease) that affect the nervous system and typically cause progressive problems with vision, movement, and thinking ability. The different types of NCLs are distinguished by the age at which signs and symptoms first appear.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000584-2" qtype="frequency">How many people are affected by late-infantile neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>The prevalence of late-infantile NCL is unknown. Collectively, all forms of NCL affect an estimated 1 in 100,000 individuals worldwide. NCLs are more common in Finland, where approximately 1 in 12,500 individuals are affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000584-3" qtype="genetic changes">What are the genetic changes related to late-infantile neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Mutations in the TPP1 gene cause most cases of late-infantile NCL. Mutations in the CLN5, CLN6, CLN8, MFSD8, and PPT1 genes each account for a small percentage of cases.  The TPP1 gene produces an enzyme called tripeptidyl peptidase 1. This enzyme is found in cell structures called lysosomes, which digest and recycle different types of molecules. Tripeptidyl peptidase 1 breaks down protein fragments, known as peptides, into their individual building blocks (amino acids).  The proteins produced from the other genes involved in this condition are active either in lysosomes or in another cell compartment called the endoplasmic reticulum. The endoplasmic reticulum is involved in protein production, processing, and transport. Within these cell structures, the proteins largely play roles in the breakdown of other proteins or substances.  Mutations in the TPP1, CLN5, CLN6, CLN8, MFSD8, or PPT1 gene usually reduce the production or activity of the particular protein or enzyme made from the gene. In many cases, a reduction in functional protein or enzyme results in incomplete breakdown of certain proteins and other materials. These materials accumulate in the lysosome forming fatty substances called lipopigments. In some cases, it is unclear what causes the buildup of lipopigments. In late-infantile NCL, these accumulations occur in cells throughout the body, but neurons seem particularly vulnerable to damage caused by lipopigments and a decrease in specific protein function. The progressive death of cells in the brain and other tissues leads to the signs and symptoms of late-infantile NCL.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000584-4" qtype="inheritance">Is late-infantile neuronal ceroid lipofuscinosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000584-5" qtype="treatment">What are the treatments for late-infantile neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>These resources address the diagnosis or management of late-infantile neuronal ceroid lipofuscinosis:  - Gene Review: Gene Review: Neuronal Ceroid-Lipofuscinoses  - Genetic Testing Registry: Ceroid lipofuscinosis neuronal 5  - Genetic Testing Registry: Ceroid lipofuscinosis neuronal 6  - Genetic Testing Registry: Ceroid lipofuscinosis neuronal 7  - Genetic Testing Registry: Ceroid lipofuscinosis neuronal 8  - Genetic Testing Registry: Late-infantile neuronal ceroid lipofuscinosis  - Genetic Testing Registry: Neuronal ceroid lipofuscinosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

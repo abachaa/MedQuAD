@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000242" source="GHR" url="https://ghr.nlm.nih.gov/condition/corticosteroid-binding-globulin-deficiency">
+<Focus>corticosteroid-binding globulin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1852529</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CBG deficiency</Synonym>
+		<Synonym>transcortin deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000242-1" qtype="information">What is (are) corticosteroid-binding globulin deficiency ?</Question>
+			<Answer>Corticosteroid-binding globulin deficiency is a condition with subtle signs and symptoms, the most frequent being extreme tiredness (fatigue), especially after physical exertion. Many people with this condition have unusually low blood pressure (hypotension). Some affected individuals have a fatty liver or experience chronic pain, particularly in their muscles. These features vary among affected individuals, even those within the same family.  Many people with corticosteroid-binding globulin deficiency have only one or two of these features; others have no signs and symptoms of the disorder and are only diagnosed after a relative is found to be affected.  Some people with corticosteroid-binding globulin deficiency also have a condition called chronic fatigue syndrome. The features of chronic fatigue syndrome are prolonged fatigue that interferes with daily activities, as well as general symptoms, such as sore throat or headaches.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000242-2" qtype="frequency">How many people are affected by corticosteroid-binding globulin deficiency ?</Question>
+			<Answer>The prevalence of corticosteroid-binding globulin deficiency is unknown, but it is thought to be a rare disorder. However, because some people with the disorder have mild or no symptoms, it is likely that corticosteroid-binding globulin deficiency is underdiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000242-3" qtype="genetic changes">What are the genetic changes related to corticosteroid-binding globulin deficiency ?</Question>
+			<Answer>Mutations in the SERPINA6 gene cause corticosteroid-binding globulin deficiency. The SERPINA6 gene provides instructions for making a protein called corticosteroid-binding globulin (CBG), which is primarily produced in the liver. The CBG protein attaches (binds) to a hormone called cortisol. This hormone has numerous functions, such as maintaining blood sugar levels, protecting the body from stress, and suppressing inflammation. When cortisol is bound to CBG, the hormone is turned off (inactive). Normally, around 80 to 90 percent of the body&apos;s cortisol is bound to CBG. When cortisol is needed in the body, CBG delivers the cortisol where it is needed and releases it, causing cortisol to become active. In this manner, CBG regulates the amount of cortisol that is available for use in the body. The amount of total cortisol in the body consists of both bound (inactive) and unbound (active) cortisol.  SERPINA6 gene mutations often decrease the CBG protein&apos;s ability to bind to cortisol; some severe mutations prevent the production of any CBG protein. With less functional CBG to bind cortisol, people with corticosteroid-binding globulin deficiency usually have increased unbound cortisol levels. Typically, the body decreases cortisol production to compensate, resulting in a reduction in total cortisol.  It is unclear how a decrease in CBG protein and total cortisol leads to the signs and symptoms of corticosteroid-binding globulin deficiency. Since the CBG protein is needed to transport cortisol to specific tissues at certain times, it may be that while cortisol is available in the body, the cortisol is not getting to the tissues that require it. A decrease in cortisol may influence widening or narrowing of the blood vessels, contributing to abnormal blood pressure. Some researchers think the features of the disorder may influence each other and that fatigue could be a result of chronic pain rather than a symptom of the disorder itself. There may also be other genetic or environmental factors that influence whether an affected individual is more likely to develop pain or fatigue.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000242-4" qtype="inheritance">Is corticosteroid-binding globulin deficiency inherited ?</Question>
+			<Answer>This condition is reported to have an autosomal recessive pattern of inheritance, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. However, some people with only one SERPINA6 gene mutation may have symptoms such as fatigue or chronic pain. Alternatively, individuals with two SERPINA6 gene mutations may not have any features of the disorder. It is unclear why some people with mutations have features of the disorder and others do not.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000242-5" qtype="treatment">What are the treatments for corticosteroid-binding globulin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of corticosteroid-binding globulin deficiency:  - American Heart Association: Understanding Blood Pressure Readings  - Genetic Testing Registry: Corticosteroid-binding globulin deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

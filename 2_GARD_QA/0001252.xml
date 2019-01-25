@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001252" source="GARD" url="https://rarediseases.info.nih.gov/gard/3730/chromosome-1p-deletion">
+<Focus>Chromosome 1p deletion</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1717485</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Deletion 1p</Synonym>
+		<Synonym>Monosomy 1p</Synonym>
+		<Synonym>1p deletion</Synonym>
+		<Synonym>1p monosomy</Synonym>
+		<Synonym>Partial monosomy 1p</Synonym>
+		<Synonym>Chromosome 1p36 deletion syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001252-1" qtype="information">What is (are) Chromosome 1p deletion ?</Question>
+			<Answer>Chromosome 1p deletion is a chromosome abnormality that occurs when there is a missing copy of the genetic material located on the short arm (p) of chromosome 1. The severity of the condition and the signs and symptoms depend on the size and location of the deletion and which genes are involved. Features that often occur in people with chromosome 1p deletion include developmental delay, intellectual disability, behavioral problems, and distinctive facial features. Most cases are not inherited, but people can pass the deletion on to their children. Treatment is based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

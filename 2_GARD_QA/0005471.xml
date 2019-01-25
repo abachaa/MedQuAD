@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005471" source="GARD" url="https://rarediseases.info.nih.gov/gard/7607/sarcoidosis">
+<Focus>Sarcoidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2697310</CUI>
+			<CUI>C0036202</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sarcoid of Boeck</Synonym>
+		<Synonym>Schaumann's disease</Synonym>
+		<Synonym>Idiopathic inflammatory myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005471-1" qtype="information">What is (are) Sarcoidosis ?</Question>
+			<Answer>Sarcoidosis is an inflammatory disease characterized by the development and growth of tiny lumps of cells called granulomas. If these tiny granulomas grow and clump together in an organ, they can affect how the organ works, leading to the symptoms of sarcoidosis. The granulomas can be found in almost any part of the body, but occur more commonly in the lungs, lymph nodes, eyes, skin, and liver. Although no one is sure what causes sarcoidosis, it is thought by most scientists to be a disorder of the immune system. The course of the disease varies from person to person. It often goes away on its own, but in some people symptoms of sarcoidosis may last a lifetime. For those who need treatment, anti-inflammatory medications and immunosuppressants can help.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005471-2" qtype="symptoms">What are the symptoms of Sarcoidosis ?</Question>
+			<Answer>What are the signs and symptoms of Sarcoidosis? Many people who have sarcoidosis don&apos;t have symptoms. Others may feel like they are coming down with the flu or a respiratory infection. While almost any body part or system can be affected, the lungs are most commonly involved. If granulomas form in the lungs, symptoms may include shortness of breath (dyspnea), a cough that won&apos;t go away, and chest pain. Some people feel very tired, uneasy, or depressed. Night sweats and weight loss are also common.      Sarcoidosis can also cause the following:   Skin rashes, ulcers or discoloration   Joint stiffness or pain   Enlarged lymph nodes   Enlarged liver or spleen   Vision problems, eye dryness or irritation   Headaches, seizures, or weakness on one side of the face   Aches and pains in the muscles and bones   Abnormal heart beats   Kidney stones The Human Phenotype Ontology provides the following list of signs and symptoms for Sarcoidosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Hepatomegaly 7.5% Splenomegaly 7.5% Optic neuropathy 5% Abnormality of the mouth - Anorexia - Arthritis - Blurred vision - Bone cyst - Cough - Dyspnea - Elevated erythrocyte sedimentation rate - Enlarged lacrimal glands - Exaggerated cellular immune processes - Fever - Generalized lymphadenopathy - Glaucoma - Hypercalciuria - Increased antibody level in blood - Inflammation of the large intestine - Interstitial pulmonary disease - Iridocyclitis - Pancytopenia - Photophobia - Weight loss - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005471-3" qtype="causes">What causes Sarcoidosis ?</Question>
+			<Answer>What causes sarcoidosis? No one yet knows what causes sarcoidosis. It is thought by most scientists to be a disorder of the immune system, where the body&apos;s natural defense system malfunctions. Some physicians believe that sarcoidosis may result from a respiratory infection caused by a virus. Others suspect that exposure to toxins or allergens in the environment is to blame. It&apos;s also possible that some people have a genetic predisposition to developing sarcoidosis, which, when combined with an environmental trigger, produces the disease. Studies are ongoing to investigate the genetic and environmental components of this disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005471-4" qtype="treatment">What are the treatments for Sarcoidosis ?</Question>
+			<Answer>What treatment is available for sarcoidosis? The treatment of sarcoidosis depends on :  the symptoms present the severity of the symptoms whether any vital organs (e.g., your lungs, eyes, heart, or brain) are affected how the organ is affected. Some organs must be treated, regardless of your symptoms. Others may not need to be treated. Usually, if a patient doesn&apos;t have symptoms, he or she doesn&apos;t need treatment, and probably will recover in time. Currently, the drug that is most commonly used to treat sarcoidosis is prednisone.  When a patient&apos;s condition gets worse when taking prednisone or when the side effects of prednisone are severe in the patient, a doctor may prescribe other drugs. Most of these other drugs reduce inflammation by suppressing the immune system. These other drugs include: hydroxychloroquine (Plaquenil), methotrexate, azathioprine (Imuran), and cyclophosphamide (Cytoxan). Researchers continue to look for new and better treatments for sarcoidosis. Anti-tumor necrosis factor drugs and antibiotics are currently being studied. More detailed information about the treatment of sarcoidosis can be found at the following links: https://www.stopsarcoidosis.org/awareness/treatment-options/ http://emedicine.medscape.com/article/301914-treatment#showall</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

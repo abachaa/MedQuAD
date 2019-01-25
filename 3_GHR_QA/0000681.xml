@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000681" source="GHR" url="https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-iv">
+<Focus>mucopolysaccharidosis type IV</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026707</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Morquio-Brailsford disease</Synonym>
+		<Synonym>Morquio Disease</Synonym>
+		<Synonym>Morquio Syndrome</Synonym>
+		<Synonym>Morquio's Disease</Synonym>
+		<Synonym>Morquio's Syndrome</Synonym>
+		<Synonym>MPS IV</Synonym>
+		<Synonym>mucopolysaccharidosis (MPS) IV (A, B)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000681-1" qtype="information">What is (are) mucopolysaccharidosis type IV ?</Question>
+			<Answer>Mucopolysaccharidosis type IV (MPS IV), also known as Morquio syndrome, is a progressive condition that mainly affects the skeleton. The rate at which symptoms worsen varies among affected individuals.  The first signs and symptoms of MPS IV usually become apparent during early childhood. Affected individuals develop various skeletal abnormalities, including short stature, knock knees, and abnormalities of the ribs, chest, spine, hips, and wrists. People with MPS IV often have joints that are loose and very flexible (hypermobile), but they may also have restricted movement in certain joints. A characteristic feature of this condition is underdevelopment (hypoplasia) of a peg-like bone in the neck called the odontoid process. The odontoid process helps stabilize the spinal bones in the neck (cervical vertebrae). Odontoid hypoplasia can lead to misalignment of the cervical vertebrae, which may compress and damage the spinal cord, resulting in paralysis or death.  In people with MPS IV, the clear covering of the eye (cornea) typically becomes cloudy, which can cause vision loss. Some affected individuals have recurrent ear infections and hearing loss. The airway may become narrow in some people with MPS IV, leading to frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea). Other common features of this condition include mildly &quot;coarse&quot; facial features, thin tooth enamel, multiple cavities, heart valve abnormalities, a mildly enlarged liver (hepatomegaly), and a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). Unlike some other types of mucopolysaccharidosis, MPS IV does not affect intelligence.  The life expectancy of individuals with MPS IV depends on the severity of symptoms. Severely affected individuals may survive only until late childhood or adolescence. Those with milder forms of the disorder usually live into adulthood, although their life expectancy may be reduced. Spinal cord compression and airway obstruction are major causes of death in people with MPS IV.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000681-2" qtype="frequency">How many people are affected by mucopolysaccharidosis type IV ?</Question>
+			<Answer>The exact prevalence of MPS IV is unknown, although it is estimated to occur in 1 in 200,000 to 300,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000681-3" qtype="genetic changes">What are the genetic changes related to mucopolysaccharidosis type IV ?</Question>
+			<Answer>Mutations in the GALNS and GLB1 genes cause MPS IV. These genes provide instructions for producing enzymes involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs). GAGs were originally called mucopolysaccharides, which is where this condition gets its name. When MPS IV is caused by mutations in the GALNS gene it is called MPS IV type A (MPS IVA), and when it is caused by mutations in the GLB1 gene it is called MPS IV type B (MPS IVB). In general, the two types of MPS IV cannot be distinguished by their signs and symptoms.  Mutations in the GALNS and GLB1 genes reduce or completely eliminate the activity of the enzymes produced from these genes. Without these enzymes, GAGs accumulate within cells, specifically inside the lysosomes. Lysosomes are compartments in the cell that break down and recycle different types of molecules. Conditions such as MPS IV that cause molecules to build up inside the lysosomes are called lysosomal storage disorders. In MPS IV, GAGs accumulate to toxic levels in many tissues and organs, particularly in the bones. The accumulation of GAGs causes the bone deformities in this disorder. Researchers believe that the buildup of GAGs may also cause the features of MPS IV by interfering with the functions of other proteins inside lysosomes and disrupting the movement of molecules inside the cell.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000681-4" qtype="inheritance">Is mucopolysaccharidosis type IV inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000681-5" qtype="treatment">What are the treatments for mucopolysaccharidosis type IV ?</Question>
+			<Answer>These resources address the diagnosis or management of mucopolysaccharidosis type IV:  - Genetic Testing Registry: Morquio syndrome  - Genetic Testing Registry: Mucopolysaccharidosis, MPS-IV-A  - Genetic Testing Registry: Mucopolysaccharidosis, MPS-IV-B  - MedlinePlus Encyclopedia: Morquio syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

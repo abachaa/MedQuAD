@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001068" source="GHR" url="https://ghr.nlm.nih.gov/condition/zap70-related-severe-combined-immunodeficiency">
+<Focus>ZAP70-related severe combined immunodeficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085110</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>selective T-cell defect</Synonym>
+		<Synonym>ZAP70-related SCID</Synonym>
+		<Synonym>zeta-associated protein 70 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001068-1" qtype="information">What is (are) ZAP70-related severe combined immunodeficiency ?</Question>
+			<Answer>ZAP70-related severe combined immunodeficiency (SCID) is an inherited disorder that damages the immune system. ZAP70-related SCID is one of several forms of severe combined immunodeficiency, a group of disorders with several genetic causes. Children with SCID lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be very serious or life-threatening. Often the organisms that cause infection in people with this disorder are described as opportunistic because they ordinarily do not cause illness in healthy people. Infants with SCID typically experience pneumonia, chronic diarrhea, and widespread skin rashes. They also grow much more slowly than healthy children. If not treated in a way that restores immune function, children with SCID usually live only a year or two.  Most individuals with ZAP70-related SCID are diagnosed in the first 6 months of life. At least one individual first showed signs of the condition later in childhood and had less severe symptoms, primarily recurrent respiratory and skin infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001068-2" qtype="frequency">How many people are affected by ZAP70-related severe combined immunodeficiency ?</Question>
+			<Answer>ZAP70-related SCID is a rare disorder. Only about 20 affected individuals have been identified. The prevalence of SCID from all genetic causes combined is approximately 1 in 50,000.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001068-3" qtype="genetic changes">What are the genetic changes related to ZAP70-related severe combined immunodeficiency ?</Question>
+			<Answer>As the name indicates, this condition is caused by mutations in the ZAP70 gene. The ZAP70 gene provides instructions for making a protein called zeta-chain-associated protein kinase. This protein is part of a signaling pathway that directs the development of and turns on (activates) immune system cells called T cells. T cells identify foreign substances and defend the body against infection.  The ZAP70 gene is important for the development and function of several types of T cells. These include cytotoxic T cells (CD8+ T cells), whose functions include destroying cells infected by viruses. The ZAP70 gene is also involved in the activation of helper T cells (CD4+ T cells). These cells direct and assist the functions of the immune system by influencing the activities of other immune system cells.  Mutations in the ZAP70 gene prevent the production of zeta-chain-associated protein kinase or result in a protein that is unstable and cannot perform its function. A loss of functional zeta-chain-associated protein kinase leads to the absence of CD8+ T cells and an excess of inactive CD4+ T cells. The resulting shortage of active T cells causes people with ZAP70-related SCID to be more susceptible to infection.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001068-4" qtype="inheritance">Is ZAP70-related severe combined immunodeficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001068-5" qtype="treatment">What are the treatments for ZAP70-related severe combined immunodeficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of ZAP70-related severe combined immunodeficiency:  - Baby&apos;s First Test: Severe Combined Immunodeficiency  - Gene Review: Gene Review: ZAP70-Related Severe Combined Immunodeficiency  - Genetic Testing Registry: Severe combined immunodeficiency, atypical   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

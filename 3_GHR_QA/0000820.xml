@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000820" source="GHR" url="https://ghr.nlm.nih.gov/condition/primary-ciliary-dyskinesia">
+<Focus>primary ciliary dyskinesia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008780</CUI>
+			<CUI>C0022521</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>immotile cilia syndrome</Synonym>
+		<Synonym>PCD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000820-1" qtype="information">What is (are) primary ciliary dyskinesia ?</Question>
+			<Answer>Primary ciliary dyskinesia is a disorder characterized by chronic respiratory tract infections, abnormally positioned internal organs, and the inability to have children (infertility). The signs and symptoms of this condition are caused by abnormal cilia and flagella. Cilia are microscopic, finger-like projections that stick out from the surface of cells. They are found in the linings of the airway, the reproductive system, and other organs and tissues. Flagella are tail-like structures, similar to cilia, that propel sperm cells forward.  In the respiratory tract, cilia move back and forth in a coordinated way to move mucus towards the throat. This movement of mucus helps to eliminate fluid, bacteria, and particles from the lungs. Most babies with primary ciliary dyskinesia experience breathing problems at birth, which suggests that cilia play an important role in clearing fetal fluid from the lungs. Beginning in early childhood, affected individuals develop frequent respiratory tract infections. Without properly functioning cilia in the airway, bacteria remain in the respiratory tract and cause infection. People with primary ciliary dyskinesia also have year-round nasal congestion and a chronic cough. Chronic respiratory tract infections can result in a condition called bronchiectasis, which damages the passages, called bronchi, leading from the windpipe to the lungs and can cause life-threatening breathing problems.  Some individuals with primary ciliary dyskinesia have abnormally placed organs within their chest and abdomen. These abnormalities arise early in embryonic development when the differences between the left and right sides of the body are established. About 50 percent of people with primary ciliary dyskinesia have a mirror-image reversal of their internal organs (situs inversus totalis). For example, in these individuals the heart is on the right side of the body instead of on the left. Situs inversus totalis does not cause any apparent health problems. When someone with primary ciliary dyskinesia has situs inversus totalis, they are often said to have Kartagener syndrome.  Approximately 12 percent of people with primary ciliary dyskinesia have a condition known as heterotaxy syndrome or situs ambiguus, which is characterized by abnormalities of the heart, liver, intestines, or spleen. These organs may be structurally abnormal or improperly positioned. In addition, affected individuals may lack a spleen (asplenia) or have multiple spleens (polysplenia). Heterotaxy syndrome results from problems establishing the left and right sides of the body during embryonic development. The severity of heterotaxy varies widely among affected individuals.  Primary ciliary dyskinesia can also lead to infertility. Vigorous movements of the flagella are necessary to propel the sperm cells forward to the female egg cell. Because their sperm do not move properly, males with primary ciliary dyskinesia are usually unable to father children. Infertility occurs in some affected females and is likely due to abnormal cilia in the fallopian tubes.  Another feature of primary ciliary dyskinesia is recurrent ear infections (otitis media), especially in young children. Otitis media can lead to permanent hearing loss if untreated. The ear infections are likely related to abnormal cilia within the inner ear.  Rarely, individuals with primary ciliary dyskinesia have an accumulation of fluid in the brain (hydrocephalus), likely due to abnormal cilia in the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000820-2" qtype="frequency">How many people are affected by primary ciliary dyskinesia ?</Question>
+			<Answer>Primary ciliary dyskinesia occurs in approximately 1 in 16,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000820-3" qtype="genetic changes">What are the genetic changes related to primary ciliary dyskinesia ?</Question>
+			<Answer>Primary ciliary dyskinesia can result from mutations in many different genes. These genes provide instructions for making proteins that form the inner structure of cilia and produce the force needed for cilia to bend. Coordinated back and forth movement of cilia is necessary for the normal functioning of many organs and tissues. The movement of cilia also helps establish the left-right axis (the imaginary line that separates the left and right sides of the body) during embryonic development.  Mutations in the genes that cause primary ciliary dyskinesia result in defective cilia that move abnormally or are unable to move (immotile). Because cilia have many important functions within the body, defects in these cell structures cause a variety of signs and symptoms.  Mutations in the DNAI1 and DNAH5 genes account for up to 30 percent of all cases of primary ciliary dyskinesia. Mutations in the other genes associated with this condition are found in only a small percentage of cases. In many people with primary ciliary dyskinesia, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000820-4" qtype="inheritance">Is primary ciliary dyskinesia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000820-5" qtype="treatment">What are the treatments for primary ciliary dyskinesia ?</Question>
+			<Answer>These resources address the diagnosis or management of primary ciliary dyskinesia:  - Gene Review: Gene Review: Primary Ciliary Dyskinesia  - Genetic Testing Registry: Ciliary dyskinesia, primary, 17  - Genetic Testing Registry: Kartagener syndrome  - Genetic Testing Registry: Primary ciliary dyskinesia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

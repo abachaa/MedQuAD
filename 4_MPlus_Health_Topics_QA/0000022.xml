@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000022" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/allergy.html">
+<Focus>Allergy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1527304</CUI>
+			<CUI>C3539909</CUI>
+			<CUI>C0020517</CUI>
+			<CUI>C0489531</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hypersensitivity</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000022-1" qtype="information">What is (are) Allergy ?</Question>
+			<Answer>An allergy is a reaction by your immune system to something that does not bother most other people. People who have allergies often are sensitive to more than one thing. Substances that often cause reactions are       - Pollen    - Dust mites    - Mold spores    - Pet dander    - Food    - Insect stings    - Medicines       Normally, your immune system fights germs. It is your body&apos;s defense system. In most allergic reactions, however, it is responding to a false alarm. Genes and the environment probably both play a role.    Allergies can cause a variety of symptoms such as a runny nose, sneezing, itching, rashes, swelling, or asthma. Allergies can range from minor to severe. Anaphylaxis is a severe reaction that can be life-threatening. Doctors use skin and blood tests to diagnose allergies. Treatments include medicines, allergy shots, and avoiding the substances that cause the reactions.    NIH: National Institute of Allergy and Infectious Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

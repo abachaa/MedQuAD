@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000042" source="NINDS" url="http://www.ninds.nih.gov/disorders/bells/bells.htm">
+<Focus>Bell's Palsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0376175</CUI>
+			<CUI>C0015469</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000042-1" qtype="information">What is (are) Bell's Palsy ?</Question>
+			<Answer>Bell&apos;s palsy is a form of temporary facial paralysis resulting from damage or trauma to the 7th cranial nerve, one of the facial nerves. It is the most common cause of facial paralysis. Generally, Bell&apos;s palsy affects only one side of the face, however, in rare cases, it can affect both sides. Symptoms usually begin suddenly and reach their peak within 72 hours, and can range in severity from mild weakness to total paralysis. Symptoms vary among individuals and include sudden weakness on one side of the face, drooping eyelid or corner of the mouth, drooling, dry eye or mouth, altered taste, and excessive tearing in the eye. Bells palsy can cause significant facial distortion. The exact cause of Bell&apos;s palsy isn&apos;t known, but many scientists believe that reactivation of a dormant viral infection can cause the facial nerve to swell and becomes inflamed. Several other conditions can cause facial paralysis that might be diagnosed as Bell&apos;s palsy..</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000042-2" qtype="treatment">What are the treatments for Bell's Palsy ?</Question>
+			<Answer>Steroids such as prednisone -- used to reduce inflammation and swelling -- are an effective treatment for Bell&apos;s palsy. Antiviral drugs may have some benefit in shortening the course of the disease. Analgesics such as aspirin, acetaminophen, or ibuprofen may relieve pain. Because of possible drug interactions, individuals should always talk to their doctors before taking any over-the-counter medicines. Keeping the eye moist and protecting it from debris and injury, especially at night, is important. Lubricating eye drops can help. Other therapies such as physical therapy, facial massage or acupuncture may provide a potential small improvement in facial nerve function and pain..</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000042-3" qtype="outlook">What is the outlook for Bell's Palsy ?</Question>
+			<Answer>The prognosis for individuals with Bell&apos;s palsy is generally very good. The extent of nerve damage determines the extent of recovery. With or without treatment, most individuals begin to get better within 2 weeks after the initial onset of symptoms and recover some or all facial function within 3 to 6 months.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000042-4" qtype="research">what research (or clinical trials) is being done for Bell's Palsy ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS conducts and supports an extensive research program of basic science to increase understanding of how the nervous system works and circumstances that lead to nerve damage. Knowledge gained from this research may help scientists find the definitive cause of Bell&apos;s palsy, leading to the discovery of new effective treatments for the disorder. Other NINDS-supported research is aimed at developing methods to repair damaged nerves and restore full use and strength to injured areas, and finding ways to prevent nerve damage and injuries from occurring.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

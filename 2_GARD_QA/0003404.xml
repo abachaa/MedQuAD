@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003404" source="GARD" url="https://rarediseases.info.nih.gov/gard/3123/klumpke-paralysis">
+<Focus>Klumpke paralysis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270898</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lower brachial plexus palsy</Synonym>
+		<Synonym>Dejerine-Klumpke palsy</Synonym>
+		<Synonym>Klumpke's palsy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003404-1" qtype="information">What is (are) Klumpke paralysis ?</Question>
+			<Answer>Klumpke paralysis is a type of brachial palsy in newborns. Signs and symptoms include weakness and loss of movement of the arm and hand.  Some babies experience drooping of the eyelid on the opposite side of the face as well. This symptom may also be referred to as Horner syndrome. Klumpke paralysis is caused by an injury to the nerves of the brachial plexus which may result from a difficult delivery. This injury can cause a stretching (neuropraxia,), tearing (called avulsion when the tear is at the spine, and rupture when it is not), or scarring (neuroma) of the brachial plexus nerves. Most infants with Klumpke paralysis have the more mild form of injury (neuropraxia) and often recover within 6 months.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003404-2" qtype="treatment">What are the treatments for Klumpke paralysis ?</Question>
+			<Answer>How might Klumpke paralysis be treated? The  affected arm may be immobilized across the body for 7 to 10 days. For mild cases gentle massage of the arm and range-of-motion exercises may be recommended. For torn nerves (avulsion and rupture injuries), symptoms may improve with surgery.    Most infants recover from neuropraxia within 4 months. Parents or guardians of infants that show no evidence of spontaneous recovery at 4 months, may be counseled regarding additional treatment options. These treatment options may include: Surgery on the nerves (e.g., nerve grafts and neuroma excision) Tendon transfers to help the muscles that are affected by nerve damage work better</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

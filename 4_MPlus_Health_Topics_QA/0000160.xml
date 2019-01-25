@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000160" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/cellulitis.html">
+<Focus>Cellulitis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2025995</CUI>
+			<CUI>C0007642</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000160-1" qtype="information">What is (are) Cellulitis ?</Question>
+			<Answer>Cellulitis is an infection of the skin and deep underlying tissues. Group A strep (streptococcal) bacteria are the most common cause. The bacteria enter your body when you get an injury such as a bruise, burn, surgical cut, or wound.    Symptoms include       - Fever and chills    - Swollen glands or lymph nodes    - A rash with painful, red, tender skin. The skin may blister and scab over.       Your health care provider may take a sample or culture from your skin or do a blood test to identify the bacteria causing infection. Treatment is with antibiotics. They may be oral in mild cases, or intravenous (through the vein) for more severe cases.    NIH: National Institute of Allergy and Infectious Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

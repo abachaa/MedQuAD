@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000145" source="GARD" url="https://rarediseases.info.nih.gov/gard/5747/adenoameloblastoma">
+<Focus>Adenoameloblastoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334565</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ameloblastoma</Synonym>
+		<Synonym>Adenomatoid odontogenic tumor</Synonym>
+		<Synonym>AOT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000145-1" qtype="information">What is (are) Adenoameloblastoma ?</Question>
+			<Answer>Adenoameloblastoma is a lesion that is often found in the upper jaw. Some consider it a non-cancerous tumor, others a hamartoma (tumor-like growth) or cyst.  Often, an early sign of the lesion is painless swelling. These tumors are rarely found outside of the jaw.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000145-2" qtype="causes">What causes Adenoameloblastoma ?</Question>
+			<Answer>What causes adenoameloblastoma? Currently the cause of adenoameloblastoma is not well understood. It may be associated with an interruption in tooth development. These legions tend to occur more commonly in young people (around 20 year-old), and most often in young women. Adenoameloblastomas in the front upper jaw are often associated with an impacted tooth.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000145-3" qtype="treatment">What are the treatments for Adenoameloblastoma ?</Question>
+			<Answer>How might adenoameloblastoma be treated? Treatment may require the removal of the legion as well as the surrounding tissues. Once the treatment is complete, recurrence of the legion is very rare.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

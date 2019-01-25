@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000699" source="GHR" url="https://ghr.nlm.nih.gov/condition/myd88-deficiency">
+<Focus>MyD88 deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2677092</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MYD88 deficiency</Synonym>
+		<Synonym>pyogenic bacterial infections due to MyD88 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000699-1" qtype="information">What is (are) MyD88 deficiency ?</Question>
+			<Answer>MyD88 deficiency is an inherited disorder of the immune system (primary immunodeficiency). This primary immunodeficiency affects the innate immune response, which is the body&apos;s early, nonspecific response to foreign invaders (pathogens). MyD88 deficiency leads to abnormally frequent and severe infections by a subset of bacteria known as pyogenic bacteria. (Infection with pyogenic bacteria causes the production of pus.) However, affected individuals have normal resistance to other common bacteria, viruses, fungi, and parasites. The most common infections in MyD88 deficiency are caused by the Streptococcus pneumoniae, Staphylococcus aureus, and Pseudomonas aeruginosa bacteria. Most people with this condition have their first bacterial infection before age 2, and the infections can be life-threatening in infancy and childhood. Infections become less frequent by about age 10.  Children with MyD88 deficiency develop invasive bacterial infections, which can involve the blood (septicemia), the membrane covering the brain and spinal cord (meningitis), or the joints (leading to inflammation and arthritis). Invasive infections can also cause areas of tissue breakdown and pus production (abscesses) on internal organs. In addition, affected individuals can have localized infections of the ears, nose, or throat. Although fever is a common reaction to bacterial infections, many people with MyD88 deficiency do not at first develop a high fever in response to these infections, even if the infection is severe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000699-2" qtype="frequency">How many people are affected by MyD88 deficiency ?</Question>
+			<Answer>The prevalence of MyD88 deficiency is unknown. At least 24 affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000699-3" qtype="genetic changes">What are the genetic changes related to MyD88 deficiency ?</Question>
+			<Answer>MyD88 deficiency is caused by mutations in the MYD88 gene, which provides instructions for making a protein that plays an important role in stimulating the immune system to respond to bacterial infection. The MyD88 protein is part of a signaling pathway that is involved in early recognition of pathogens and the initiation of inflammation to fight infection. This signaling pathway is part of the innate immune response.  Mutations in the MYD88 gene lead to the production of a nonfunctional protein or no protein at all. The loss of functional MyD88 protein prevents the immune system from triggering inflammation in response to pathogens that would normally help fight the infections. Because the early immune response is insufficient, bacterial infections occur often and become severe and invasive.  Researchers suggest that as the immune system matures, other systems compensate for the loss of MyD88 protein, accounting for the improvement in the condition that occurs by adolescence.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000699-4" qtype="inheritance">Is MyD88 deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000699-5" qtype="treatment">What are the treatments for MyD88 deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of MyD88 deficiency:  - Genetic Testing Registry: Myd88 deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

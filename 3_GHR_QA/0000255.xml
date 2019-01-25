@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000255" source="GHR" url="https://ghr.nlm.nih.gov/condition/crouzon-syndrome">
+<Focus>Crouzon syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010273</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Craniofacial dysarthrosis</Synonym>
+		<Synonym>Craniofacial Dysostosis</Synonym>
+		<Synonym>Craniofacial dysostosis syndrome</Synonym>
+		<Synonym>Craniofacial dysostosis, type 1; CFD1</Synonym>
+		<Synonym>Crouzon craniofacial dysostosis</Synonym>
+		<Synonym>Crouzon's Disease</Synonym>
+		<Synonym>Crouzons Disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000255-1" qtype="information">What is (are) Crouzon syndrome ?</Question>
+			<Answer>Crouzon syndrome is a genetic disorder characterized by the premature fusion of certain skull bones (craniosynostosis). This early fusion prevents the skull from growing normally and affects the shape of the head and face.  Many features of Crouzon syndrome result from the premature fusion of the skull bones. Abnormal growth of these bones leads to wide-set, bulging eyes and vision problems caused by shallow eye sockets; eyes that do not point in the same direction (strabismus); a beaked nose; and an underdeveloped upper jaw. In addition, people with Crouzon syndrome may have dental problems and hearing loss, which is sometimes accompanied by narrow ear canals. A few people with Crouzon syndrome have an opening in the lip and the roof of the mouth (cleft lip and palate). The severity of these signs and symptoms varies among affected people. People with Crouzon syndrome are usually of normal intelligence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000255-2" qtype="frequency">How many people are affected by Crouzon syndrome ?</Question>
+			<Answer>Crouzon syndrome is seen in about 16 per million newborns. It is the most common craniosynostosis syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000255-3" qtype="genetic changes">What are the genetic changes related to Crouzon syndrome ?</Question>
+			<Answer>Mutations in the FGFR2 gene cause Crouzon syndrome. This gene provides instructions for making a protein called fibroblast growth factor receptor 2. Among its multiple functions, this protein signals immature cells to become bone cells during embryonic development. Mutations in the FGFR2 gene probably overstimulate signaling by the FGFR2 protein, which causes the bones of the skull to fuse prematurely.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000255-4" qtype="inheritance">Is Crouzon syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000255-5" qtype="treatment">What are the treatments for Crouzon syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Crouzon syndrome:  - Gene Review: Gene Review: FGFR-Related Craniosynostosis Syndromes  - Genetic Testing Registry: Crouzon syndrome  - MedlinePlus Encyclopedia: Craniosynostosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

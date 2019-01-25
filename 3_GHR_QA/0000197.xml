@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000197" source="GHR" url="https://ghr.nlm.nih.gov/condition/cog5-congenital-disorder-of-glycosylation">
+<Focus>COG5-congenital disorder of glycosylation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242354</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>carbohydrate deficient glycoprotein syndrome type IIi</Synonym>
+		<Synonym>CDG IIi</Synonym>
+		<Synonym>CDG2I</Synonym>
+		<Synonym>CDGIIi</Synonym>
+		<Synonym>COG5-CDG</Synonym>
+		<Synonym>congenital disorder of glycosylation type IIi</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000197-1" qtype="information">What is (are) COG5-congenital disorder of glycosylation ?</Question>
+			<Answer>COG5-congenital disorder of glycosylation (COG5-CDG, formerly known as congenital disorder of glycosylation type IIi) is an inherited condition that causes neurological problems and other abnormalities. The pattern and severity of this disorder&apos;s signs and symptoms vary among affected individuals.  Individuals with COG5-CDG typically develop signs and symptoms of the condition during infancy. These individuals often have weak muscle tone (hypotonia) and delayed development. Other neurological features include moderate to severe intellectual disability, poor coordination, and difficulty walking. Some affected individuals never learn to speak. Other features of COG5-CDG include short stature, an unusually small head size (microcephaly), and distinctive facial features, which can include ears that are set low and rotated backward, a short neck with a low hairline in the back, and a prominent nose. Less commonly, affected individuals can have hearing loss caused by changes in the inner ear (sensorineural hearing loss), vision impairment, damage to the nerves that control bladder function (a condition called neurogenic bladder), liver disease, and joint deformities (contractures).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000197-2" qtype="frequency">How many people are affected by COG5-congenital disorder of glycosylation ?</Question>
+			<Answer>COG5-CDG is a very rare disorder; fewer than 10 cases have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000197-3" qtype="genetic changes">What are the genetic changes related to COG5-congenital disorder of glycosylation ?</Question>
+			<Answer>COG5-CDG is caused by mutations in the COG5 gene, which provides instructions for making one piece of a group of proteins known as the conserved oligomeric Golgi (COG) complex. This complex functions in the Golgi apparatus, which is a cellular structure in which newly produced proteins are modified. One process that occurs in the Golgi apparatus is glycosylation, by which sugar molecules (oligosaccharides) are attached to proteins and fats. Glycosylation modifies proteins so they can perform a wider variety of functions.  The COG complex takes part in the transport of proteins, including those that perform glycosylation, in the Golgi apparatus. COG5 gene mutations reduce the amount of COG5 protein or eliminate it completely, which disrupts protein transport. This disruption results in abnormal protein glycosylation, which can affect numerous body systems, leading to the signs and symptoms of COG5-CDG. The severity of COG5-CDG is related to the amount of COG5 protein that remains in cells.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000197-4" qtype="inheritance">Is COG5-congenital disorder of glycosylation inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000197-5" qtype="treatment">What are the treatments for COG5-congenital disorder of glycosylation ?</Question>
+			<Answer>These resources address the diagnosis or management of COG5-CDG:  - Gene Review: Gene Review: Congenital Disorders of N-Linked Glycosylation Pathway Overview  - Genetic Testing Registry: Congenital disorder of glycosylation type 2i   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

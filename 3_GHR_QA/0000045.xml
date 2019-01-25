@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000045" source="GHR" url="https://ghr.nlm.nih.gov/condition/alstrom-syndrome">
+<Focus>Alstrm syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ALMS</Synonym>
+		<Synonym>Alstrom-Hallgren syndrome</Synonym>
+		<Synonym>Alstrom syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000045-1" qtype="information">What is (are) Alstrm syndrome ?</Question>
+			<Answer>Alstrm syndrome is a rare condition that affects many body systems. Many of the signs and symptoms of this condition begin in infancy or early childhood, although some appear later in life.  Alstrm syndrome is characterized by a progressive loss of vision and hearing, a form of heart disease that enlarges and weakens the heart muscle (dilated cardiomyopathy), obesity, type 2 diabetes mellitus (the most common form of diabetes), and short stature. This disorder can also cause serious or life-threatening medical problems involving the liver, kidneys, bladder, and lungs. Some individuals with Alstrm syndrome have a skin condition called acanthosis nigricans, which causes the skin in body folds and creases to become thick, dark, and velvety. The signs and symptoms of Alstrm syndrome vary in severity, and not all affected individuals have all of the characteristic features of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000045-2" qtype="frequency">How many people are affected by Alstrm syndrome ?</Question>
+			<Answer>More than 900 people with Alstrm syndrome have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000045-3" qtype="genetic changes">What are the genetic changes related to Alstrm syndrome ?</Question>
+			<Answer>Mutations in the ALMS1 gene cause Alstrm syndrome. The ALMS1 gene provides instructions for making a protein whose function is unknown. Mutations in this gene probably lead to the production of an abnormally short, nonfunctional version of the ALMS1 protein. This protein is normally present at low levels in most tissues, so a loss of the protein&apos;s normal function may help explain why the signs and symptoms of Alstrm syndrome affect many parts of the body.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000045-4" qtype="inheritance">Is Alstrm syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000045-5" qtype="treatment">What are the treatments for Alstrm syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Alstrm syndrome:  - Gene Review: Gene Review: Alstrom Syndrome  - Genetic Testing Registry: Alstrom syndrome  - MedlinePlus Encyclopedia: Acanthosis Nigricans  - MedlinePlus Encyclopedia: Alstrm syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

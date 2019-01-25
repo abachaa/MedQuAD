@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003593" source="GARD" url="https://rarediseases.info.nih.gov/gard/7381/liddle-syndrome">
+<Focus>Liddle syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221043</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pseudoaldosteronism</Synonym>
+		<Synonym>Liddle's syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003593-1" qtype="information">What is (are) Liddle syndrome ?</Question>
+			<Answer>Liddle syndrome is a rare, inherited form of high blood pressure (hypertension). The condition is characterized by severe, early-onset hypertension associated with decreased levels of potassium, renin and aldosterone in blood plasma. Children usually have no symptoms; adults can present with symptoms of low potassium levels (hypokalemia) such as weakness, fatigue, muscle pain (myalgia), constipation or palpitations. It is caused by mutations in either the SCNN1B or SCNN1G genes and is inherited in an autosomal dominant manner. Treatment may include a low sodium diet and potassium-sparing diuretics to reduce blood pressure and normalize potassium levels. Conventional anti-hypertensive therapies are not effective.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003593-2" qtype="symptoms">What are the symptoms of Liddle syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Liddle syndrome? Liddle syndrome is chiefly characterized by severe, early-onset hypertension (high blood pressure). In most affected individuals the condition becomes apparent at a young age, but some are not diagnosed until well into adulthood. Individuals typically present with hypertension, hypokalemia (low blood potassium) and metabolic alkalosis. Symptoms of hypokalemia may include weakness, fatigue, muscle pain (myalgia), constipation or heart palpitations. Some affected individuals are not hypokalemic at the time of presentation. The Human Phenotype Ontology provides the following list of signs and symptoms for Liddle syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Arrhythmia 90% Constipation 90% Hypertension 90% Hypokalemia 90% Cerebral ischemia 50% Muscle weakness 50% Nephropathy 50% Renal insufficiency 50% Autosomal dominant inheritance - Decreased circulating renin level - Hypokalemic alkalosis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003593-3" qtype="causes">What causes Liddle syndrome ?</Question>
+			<Answer>What causes Liddle syndrome? Liddle syndrome is caused by mutations (changes) in either of two genes: SCNN1B and SCNN1G . The SCNN1B gene provides instructions for making one piece (the beta subunit) of protein complexes called epithelial sodium channels (ENaCs). The SCNN1G gene provides instructions for making a different piece (the gamma subunit) of ENaCs. These channels are found at the surface of certain cells called epithelial cells in many tissues of the body, including the kidneys, lungs, and sweat glands. The ENaC channel transports sodium into cells. Mutations in the SCNN1B and SCNN1G genes associated with Liddle syndrome affect an important region of the protein involved in signaling for its breakdown (degradation). As a result of the mutations, the protein is not tagged for degradation, and more ENaC channels remain at the cell&apos;s surface. The increase in channels at the cell surface abnormally increases the reabsorption of sodium, which leads to hypertension. Removal of potassium from the blood is linked with reabsorption of sodium into the blood, so excess sodium reabsorption leads to hypokalemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003593-4" qtype="inheritance">Is Liddle syndrome inherited ?</Question>
+			<Answer>How is Liddle syndrome inherited? Liddle syndrome is inherited in an autosomal dominant manner. This means that only one mutated copy of the disease-causing gene in each cell is sufficient to cause the condition. The mutated copy of the gene may be inherited from an affected parent or occur for the first time in an affected individual. Individuals with an autosomal dominant condition have a 50% (1 in 2) risk to pass the mutated copy of the gene on to each of his/her children.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003593-5" qtype="exams and tests">How to diagnose Liddle syndrome ?</Question>
+			<Answer>How is Liddle syndrome diagnosed? A diagnosis of Liddle syndrome may first be suspected by the detection of early-onset hypertension (high blood pressure), especially in the presence of family history. The diagnosis may then be confirmed by special blood and urine tests which show hypokalemia (low blood potassium levels), decreased or normal plasma levels of renin and aldosterone, metabolic alkalosis with high sodium plasma levels, and low rates of urinary excretion of sodium and aldosterone with high rates of urinary potassium excretion. The diagnosis can be further confirmed by genetic testing.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003593-6" qtype="treatment">What are the treatments for Liddle syndrome ?</Question>
+			<Answer>How might Liddle syndrome be treated? Treatment for Liddle syndrome includes following a low sodium diet as well as taking potassium-sparing diuretics, which reduce blood pressure and correct hypokalemia and metabolic alkalosis. Conventional anti-hypertensive therapies are not effective for this condition. With treatment, prognosis is good. Without treatment, cardiovascular (heart-related) and renal (kidney-related) complications often occur.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

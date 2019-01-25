@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000016" source="NINDS" url="http://www.ninds.nih.gov/disorders/alternatinghemiplegia/alternatinghemiplegia.htm">
+<Focus>Alternating Hemiplegia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338488</CUI>
+			<CUI>C0278110</CUI>
+			<CUI>C0018991</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000016-1" qtype="information">What is (are) Alternating Hemiplegia ?</Question>
+			<Answer>Alternating hemiplegia is a rare neurological disorder that develops in childhood, most often before the child is 18 months old. The disorder is characterized by recurrent episodes of paralysis that involve one or both sides of the body, multiple limbs, or a single limb. The paralysis may affect different parts of the body at different times and may be brief or last for several days. Oftentimes these episodes will resolve after sleep. Affected children may also have abnormal movements involving stiffening or &quot;dance-like&quot; movements of a limb, as well as walking and balance problems. Some children have seizures. Children may have normal or delayed development. There are both benign and more serious forms of the disorder. Most children do not have a family history of the disorder; however, recent studies have show that some children with a family history have mutations in the genes CACNA1A, SCN1A, and ATP1A2. Mutations in the ATP1A2 gene have previously been associated with families affect by familial hemiplegic migraine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000016-2" qtype="treatment">What are the treatments for Alternating Hemiplegia ?</Question>
+			<Answer>Drug therapy including verapamil may help to reduce the severity and duration of attacks of paralysis associated with the more serious form of alternating hemiplegia</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000016-3" qtype="outlook">What is the outlook for Alternating Hemiplegia ?</Question>
+			<Answer>Children with the benign form of alternating hemiplegia have a good prognosis. Those who experience the more severe form have a poor prognosis because intellectual and mental capacities do not respond to drug therapy, and balance and gait problems continue. Over time, walking unassisted becomes difficult or impossible.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000016-4" qtype="research">what research (or clinical trials) is being done for Alternating Hemiplegia ?</Question>
+			<Answer>The NINDS supports research on paralytic disorders such as alternating hemiplegia, with the goals of learning more about these disorders and finding ways to prevent, treat and, ultimately cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

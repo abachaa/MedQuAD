@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000059" source="GHR" url="https://ghr.nlm.nih.gov/condition/anhidrotic-ectodermal-dysplasia-with-immune-deficiency">
+<Focus>anhidrotic ectodermal dysplasia with immune deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013575</CUI>
+			<CUI>C1846006</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ectodermal dysplasia, hypohidrotic, with immune deficiency</Synonym>
+		<Synonym>EDA-ID</Synonym>
+		<Synonym>HED-ID</Synonym>
+		<Synonym>hyper-IgM immunodeficiency with hypohidrotic ectodermal dysplasia</Synonym>
+		<Synonym>hypohidrotic ectodermal dysplasia with immune deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000059-1" qtype="information">What is (are) anhidrotic ectodermal dysplasia with immune deficiency ?</Question>
+			<Answer>Anhidrotic ectodermal dysplasia with immune deficiency (EDA-ID) is a form of ectodermal dysplasia, which is a group of conditions characterized by abnormal development of ectodermal tissues including the skin, hair, teeth, and sweat glands. In addition, immune system function is reduced in people with EDA-ID. The signs and symptoms of EDA-ID are evident soon after birth.  Skin abnormalities in people with EDA-ID include areas that are dry, wrinkled, or darker in color than the surrounding skin. Affected individuals tend to have sparse scalp and body hair (hypotrichosis). EDA-ID is also characterized by missing teeth (hypodontia) or teeth that are small and pointed. Most people with EDA-ID have a reduced ability to sweat (hypohidrosis) because they have fewer sweat glands than normal or their sweat glands do not function properly. An inability to sweat (anhidrosis) can lead to a dangerously high body temperature (hyperthermia), particularly in hot weather.  The immune deficiency in EDA-ID varies among people with this condition. People with EDA-ID often produce abnormally low levels of proteins called antibodies or immunoglobulins. Antibodies help protect the body against infection by attaching to specific foreign particles and germs, marking them for destruction. A reduction in antibodies makes it difficult for people with this disorder to fight off infections. In EDA-ID, immune system cells called T cells and B cells have a decreased ability to recognize and respond to foreign invaders (such as bacteria, viruses, and yeast) that have sugar molecules attached to their surface (glycan antigens). Other key aspects of the immune system may also be impaired, leading to recurrent infections.  People with EDA-ID commonly get infections in the lungs (pneumonia), ears (otitis media), sinuses (sinusitis), lymph nodes (lymphadenitis), skin, bones, and GI tract. Approximately one quarter of individuals with EDA-ID have disorders involving abnormal inflammation, such as inflammatory bowel disease or rheumatoid arthritis.  The life expectancy of affected individuals depends of the severity of the immune deficiency; most people with this condition do not live past childhood.  There are two forms of this condition that have similar signs and symptoms and are distinguished by the modes of inheritance: X-linked recessive or autosomal dominant.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000059-2" qtype="frequency">How many people are affected by anhidrotic ectodermal dysplasia with immune deficiency ?</Question>
+			<Answer>The prevalence of the X-linked recessive type of EDA-ID is estimated to be 1 in 250,000 individuals. Only a few cases of the autosomal dominant form have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000059-3" qtype="genetic changes">What are the genetic changes related to anhidrotic ectodermal dysplasia with immune deficiency ?</Question>
+			<Answer>Mutations in the IKBKG gene cause X-linked recessive EDA-ID, and mutations in the NFKBIA gene cause autosomal dominant EDA-ID. The proteins produced from these two genes regulate nuclear factor-kappa-B. Nuclear factor-kappa-B is a group of related proteins (a protein complex) that binds to DNA and controls the activity of other genes, including genes that direct the body&apos;s immune responses and inflammatory reactions. It also protects cells from certain signals that would otherwise cause them to self-destruct (undergo apoptosis).  The IKBKG and NFKBIA gene mutations responsible for EDA-ID result in the production of proteins with impaired function, which reduces activation of nuclear factor-kappa-B. These changes disrupt certain signaling pathways within immune cells, resulting in immune deficiency. It is unclear how gene mutations alter the development of the skin, teeth, sweat glands, and other tissues, although it is likely caused by abnormal nuclear factor-kappa-B signaling in other types of cells.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000059-4" qtype="inheritance">Is anhidrotic ectodermal dysplasia with immune deficiency inherited ?</Question>
+			<Answer>When EDA-ID is caused by mutations in the IKBKG gene, it is inherited in an X-linked recessive pattern. The IKBKG gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of the IKBKG gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  When EDA-ID is caused by mutations in the NFKBIA gene, the condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000059-5" qtype="treatment">What are the treatments for anhidrotic ectodermal dysplasia with immune deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of anhidrotic ectodermal dysplasia with immune deficiency:  - Genetic Testing Registry: Anhidrotic ectodermal dysplasia with immune deficiency  - Genetic Testing Registry: Hypohidrotic ectodermal dysplasia with immune deficiency  - MedlinePlus Encyclopedia: Immunodeficiency Disorders   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

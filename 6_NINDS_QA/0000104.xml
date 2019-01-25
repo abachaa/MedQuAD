@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000104" source="NINDS" url="http://www.ninds.nih.gov/disorders/dyspraxia/dyspraxia.htm">
+<Focus>Developmental Dyspraxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011757</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000104-1" qtype="information">What is (are) Developmental Dyspraxia ?</Question>
+			<Answer>Developmental dyspraxia is a disorder characterized by an impairment in the ability to plan and carry out sensory and motor tasks. Generally, individuals with the disorder appear &quot;out of sync&quot; with their environment. Symptoms vary and may include poor balance and coordination, clumsiness, vision problems, perception difficulties, emotional and behavioral problems, difficulty with reading, writing, and speaking, poor social skills, poor posture, and poor short-term memory. Although individuals with the disorder may be of average or above average intelligence, they may behave immaturely.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000104-2" qtype="treatment">What are the treatments for Developmental Dyspraxia ?</Question>
+			<Answer>Treatment is symptomatic and supportive and may include occupational and speech therapy, and &quot;cueing&quot; or other forms of communication such as using pictures and hand gestures. Many children with the disorder require special education.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000104-3" qtype="outlook">What is the outlook for Developmental Dyspraxia ?</Question>
+			<Answer>Developmental dyspraxia is a lifelong disorder. Many individuals are able to compensate for their disabilities through occupational and speech therapy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000104-4" qtype="research">what research (or clinical trials) is being done for Developmental Dyspraxia ?</Question>
+			<Answer>The NINDS supports research on developmental disorders, such as developmental dyspraxia, aimed at learning more about these disorders, and finding ways to prevent and treat them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

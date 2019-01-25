@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000502" source="GHR" url="https://ghr.nlm.nih.gov/condition/hypochondroplasia">
+<Focus>hypochondroplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0410529</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HCH</Synonym>
+		<Synonym>Hypochondrodysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000502-1" qtype="information">What is (are) hypochondroplasia ?</Question>
+			<Answer>Hypochondroplasia is a form of short-limbed dwarfism. This condition affects the conversion of cartilage into bone (a process called ossification), particularly in the long bones of the arms and legs. Hypochondroplasia is similar to another skeletal disorder called achondroplasia, but the features tend to be milder.  All people with hypochondroplasia have short stature. The adult height for men with this condition ranges from 138 centimeters to 165 centimeters (4 feet, 6 inches to 5 feet, 5 inches). The height range for adult women is 128 centimeters to 151 centimeters (4 feet, 2 inches to 4 feet, 11 inches).  People with hypochondroplasia have short arms and legs and broad, short hands and feet. Other characteristic features include a large head, limited range of motion at the elbows, a sway of the lower back (lordosis), and bowed legs. These signs are generally less pronounced than those seen with achondroplasia and may not be noticeable until early or middle childhood. Some studies have reported that a small percentage of people with hypochondroplasia have mild to moderate intellectual disability or learning problems, but other studies have produced conflicting results.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000502-2" qtype="frequency">How many people are affected by hypochondroplasia ?</Question>
+			<Answer>The incidence of hypochondroplasia is unknown. Researchers believe that it may be about as common as achondroplasia, which occurs in 1 in 15,000 to 40,000 newborns. More than 200 people worldwide have been diagnosed with hypochondroplasia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000502-3" qtype="genetic changes">What are the genetic changes related to hypochondroplasia ?</Question>
+			<Answer>About 70 percent of all cases of hypochondroplasia are caused by mutations in the FGFR3 gene. This gene provides instructions for making a protein that is involved in the development and maintenance of bone and brain tissue. Although it remains unclear how FGFR3 mutations lead to the features of hypochondroplasia, researchers believe that these genetic changes cause the protein to be overly active. The overactive FGFR3 protein likely interferes with skeletal development and leads to the disturbances in bone growth that are characteristic of this disorder.  In the absence of a mutation in the FGFR3 gene, the cause of hypochondroplasia is unknown. Researchers suspect that mutations in other genes are involved, although these genes have not been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000502-4" qtype="inheritance">Is hypochondroplasia inherited ?</Question>
+			<Answer>Hypochondroplasia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most people with hypochondroplasia have average-size parents; these cases result from a new mutation in the FGFR3 gene. In the remaining cases, people with hypochondroplasia have inherited an altered FGFR3 gene from one or two affected parents. Individuals who inherit two altered copies of this gene typically have more severe problems with bone growth than those who inherit a single FGFR3 mutation.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000502-5" qtype="treatment">What are the treatments for hypochondroplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of hypochondroplasia:  - Gene Review: Gene Review: Hypochondroplasia  - Genetic Testing Registry: Hypochondroplasia  - MedlinePlus Encyclopedia: Lordosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

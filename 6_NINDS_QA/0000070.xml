@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000070" source="NINDS" url="http://www.ninds.nih.gov/disorders/wernicke_korsakoff/wernicke-korsakoff.htm">
+<Focus>Wernicke-Korsakoff Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0349464</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000070-1" qtype="information">What is (are) Wernicke-Korsakoff Syndrome ?</Question>
+			<Answer>Wernicke&apos;s encephalopathy is a degenerative brain disorder caused by the lack of thiamine (vitamin B1). It may result from alcohol abuse, dietary deficiencies, prolonged vomiting, eating disorders, or the effects of chemotherapy. B1 deficiency causes damage to the brain&apos;s thalamus and hypothalamus. Symptoms include mental confusion, vision problems, coma, hypothermia, low blood pressure, and lack of muscle coordination (ataxia). Korsakoff syndrome (also called Korsakoff&apos;s amnesic syndrome) is a memory disorder that results from vitamin B1 deficiency and is associated with alcoholism. Korsakoff&apos;s syndrome damages nerve cells and supporting cells in the brain and spinal cord, as well as the part of the brain involved with memory. Symptoms include amnesia, tremor, coma, disorientation, and vision problems, The disorder&apos;s main features are problems in acquiring new information or establishing new memories, and in retrieving previous memories. Although Wernicke&apos;s and Korsakoff&apos;s are related disorders, some scientists believe them to be different stages of the same disorder, which is called Wernicke-Korsakoff syndrome. Wernicke&apos;s encephalopathy represents the &quot;acute&quot; phase of the disorder and Korsakoff&apos;s amnesic syndrome represents the disorder progressing to a &quot;chronic&quot; or long-lasting stage.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000070-2" qtype="treatment">What are the treatments for Wernicke-Korsakoff Syndrome ?</Question>
+			<Answer>Treatment involves replacement of thiamine and providing proper nutrition and hydration. In some cases, drug therapy is also recommended.Stopping alcohol use may prevent further nerve and brain damage. In individuals with Wernicke&apos;s encephalopathy, it is very important to start thiamine replacement before beginning nutritional replenishment.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000070-3" qtype="outlook">What is the outlook for Wernicke-Korsakoff Syndrome ?</Question>
+			<Answer>Most symptoms of Wernicke&apos;s encephalopathy can be reversed if detected and treated promptly and completely. Stopping alcohol use may prevent further nerve and brain damage. However, improvement in memory function is slow and, usually, incomplete. Without treatment, these disorders can be disabling and life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000070-4" qtype="research">what research (or clinical trials) is being done for Wernicke-Korsakoff Syndrome ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS supports research on neurological disorders such as Wernicke&apos;s encephalopathy, Korsakoff&apos;s amnesic syndrome, and Wernicke-Korsakoff syndrome, to expand our understanding of the functional changes of the diseases and ways to treat them..One areas of research is studying how exercise can improve cognitive functioning based on modulation of certain nerve cells in a rodent model of amnesia produced by by thiamine deficiency. The National Institute of Alcohol Abuse and Alcoholism also supports research on these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

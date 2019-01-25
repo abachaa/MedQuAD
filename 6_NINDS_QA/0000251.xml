@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000251" source="NINDS" url="http://www.ninds.nih.gov/disorders/schizencephaly/schizencephaly.htm">
+<Focus>Schizencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266484</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000251-1" qtype="information">What is (are) Schizencephaly ?</Question>
+			<Answer>Schizencephaly is an extremely rare developmental birth defect characterized by abnormal slits, or clefts, in the cerebral hemispheres of the brain. Babies with clefts in both hemispheres (called bilateral clefts) commonly have developmental delays, delays in speech and language skills, and problems with brain-spinal cord communication. Individuals with clefts in only one hemisphere (called unilateral clefts) are often paralyzed on one side of the body, but may have average to near-average intelligence. Individuals with schizencephaly may also have an abnormally small head, cognitive delay and impairment, partial or complete paralysis, or poor muscle tone. Most will experience seizures. Some individuals may have an excessive accumulation of fluid in the brain called hydrocephalus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000251-2" qtype="treatment">What are the treatments for Schizencephaly ?</Question>
+			<Answer>Treatment generally consists of physical therapy and drugs to prevent seizures. In cases that are complicated by hydrocephalus, a surgically implanted tube, called a shunt, is often used to divert fluid to another area of the body where it can be absorbed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000251-3" qtype="outlook">What is the outlook for Schizencephaly ?</Question>
+			<Answer>The prognosis for individuals with schizencephaly varies depending on the size of the clefts and the extent of neurological disabilities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000251-4" qtype="research">what research (or clinical trials) is being done for Schizencephaly ?</Question>
+			<Answer>The NINDS conducts and supports a wide range of studies that explore the mechanisms of normal brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how to prevent or treat developmental brain defects such as schizencephaly.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

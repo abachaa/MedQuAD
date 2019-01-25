@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001009" source="GHR" url="https://ghr.nlm.nih.gov/condition/uromodulin-associated-kidney-disease">
+<Focus>uromodulin-associated kidney disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022658</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial gout-kidney disease</Synonym>
+		<Synonym>Familial gouty nephropathy</Synonym>
+		<Synonym>Familial juvenile hyperuricemic nephropathy</Synonym>
+		<Synonym>FJHN</Synonym>
+		<Synonym>MCKD2</Synonym>
+		<Synonym>Medullary cystic kidney disease type 2</Synonym>
+		<Synonym>UMAK</Synonym>
+		<Synonym>UMOD-related kidney disease</Synonym>
+		<Synonym>Uromodulin storage disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001009-1" qtype="information">What is (are) uromodulin-associated kidney disease ?</Question>
+			<Answer>Uromodulin-associated kidney disease is an inherited condition that affects the kidneys. The signs and symptoms of this condition vary, even among members of the same family.  Many individuals with uromodulin-associated kidney disease develop high blood levels of a waste product called uric acid. Normally, the kidneys remove uric acid from the blood and transfer it to urine. In this condition, the kidneys are unable to remove uric acid from the blood effectively. A buildup of uric acid can cause gout, which is a form of arthritis resulting from uric acid crystals in the joints. The signs and symptoms of gout may appear as early as a person&apos;s teens in uromodulin-associated kidney disease.  Uromodulin-associated kidney disease causes slowly progressive kidney disease, with the signs and symptoms usually beginning during the teenage years. The kidneys become less able to filter fluids and waste products from the body as this condition progresses, resulting in kidney failure. Individuals with uromodulin-associated kidney disease typically require either dialysis to remove wastes from the blood or a kidney transplant between the ages of 30 and 70. Occasionally, affected individuals are found to have small kidneys or kidney cysts (medullary cysts).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001009-2" qtype="frequency">How many people are affected by uromodulin-associated kidney disease ?</Question>
+			<Answer>The prevalence of uromodulin-associated kidney disease is unknown. It accounts for fewer than 1 percent of cases of kidney disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001009-3" qtype="genetic changes">What are the genetic changes related to uromodulin-associated kidney disease ?</Question>
+			<Answer>Mutations in the UMOD gene cause uromodulin-associated kidney disease. This gene provides instructions for making the uromodulin protein, which is produced by the kidneys and then excreted from the body in urine. The function of uromodulin remains unclear, although it is known to be the most abundant protein in the urine of healthy individuals. Researchers have suggested that uromodulin may protect against urinary tract infections. It may also help control the amount of water in urine.  Most mutations in the UMOD gene change single protein building blocks (amino acids) used to make uromodulin. These mutations alter the structure of the protein, preventing its release from kidney cells. Abnormal buildup of uromodulin may trigger the self-destruction (apoptosis) of cells in the kidneys, causing progressive kidney disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001009-4" qtype="inheritance">Is uromodulin-associated kidney disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001009-5" qtype="treatment">What are the treatments for uromodulin-associated kidney disease ?</Question>
+			<Answer>These resources address the diagnosis or management of uromodulin-associated kidney disease:  - Gene Review: Gene Review: Autosomal Dominant Tubulointerstitial Kidney Disease, UMOD-Related (ADTKD-UMOD)  - Genetic Testing Registry: Familial juvenile gout  - Genetic Testing Registry: Glomerulocystic kidney disease with hyperuricemia and isosthenuria  - Genetic Testing Registry: Medullary cystic kidney disease 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

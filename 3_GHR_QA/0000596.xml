@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000596" source="GHR" url="https://ghr.nlm.nih.gov/condition/leukocyte-adhesion-deficiency-type-1">
+<Focus>leukocyte adhesion deficiency type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0398738</CUI>
+			<CUI>C0001511</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LAD1</Synonym>
+		<Synonym>leucocyte adhesion deficiency type 1</Synonym>
+		<Synonym>leukocyte adhesion molecule deficiency type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000596-1" qtype="information">What is (are) leukocyte adhesion deficiency type 1 ?</Question>
+			<Answer>Leukocyte adhesion deficiency type 1 is a disorder that causes the immune system to malfunction, resulting in a form of immunodeficiency. Immunodeficiencies are conditions in which the immune system is not able to protect the body effectively from foreign invaders such as viruses, bacteria, and fungi. Starting from birth, people with leukocyte adhesion deficiency type 1 develop serious bacterial and fungal infections.  One of the first signs of leukocyte adhesion deficiency type 1 is a delay in the detachment of the umbilical cord stump after birth. In newborns, the stump normally falls off within the first two weeks of life; but, in infants with leukocyte adhesion deficiency type 1, this separation usually occurs at three weeks or later. In addition, affected infants often have inflammation of the umbilical cord stump (omphalitis) due to a bacterial infection.  In leukocyte adhesion deficiency type 1, bacterial and fungal infections most commonly occur on the skin and mucous membranes such as the moist lining of the nose and mouth. In childhood, people with this condition develop severe inflammation of the gums (gingivitis) and other tissue around the teeth (periodontitis), which often results in the loss of both primary and permanent teeth. These infections often spread to cover a large area. A hallmark of leukocyte adhesion deficiency type 1 is the lack of pus formation at the sites of infection. In people with this condition, wounds are slow to heal, which can lead to additional infection.  Life expectancy in individuals with leukocyte adhesion deficiency type 1 is often severely shortened. Due to repeat infections, affected individuals may not survive past infancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000596-2" qtype="frequency">How many people are affected by leukocyte adhesion deficiency type 1 ?</Question>
+			<Answer>Leukocyte adhesion deficiency type 1 is estimated to occur in 1 per million people worldwide. At least 300 cases of this condition have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000596-3" qtype="genetic changes">What are the genetic changes related to leukocyte adhesion deficiency type 1 ?</Question>
+			<Answer>Mutations in the ITGB2 gene cause leukocyte adhesion deficiency type 1. This gene provides instructions for making one part (the 2 subunit) of at least four different proteins known as 2 integrins. Integrins that contain the 2 subunit are found embedded in the membrane that surrounds white blood cells (leukocytes). These integrins help leukocytes gather at sites of infection or injury, where they contribute to the immune response. 2 integrins recognize signs of inflammation and attach (bind) to proteins called ligands on the lining of blood vessels. This binding leads to linkage (adhesion) of the leukocyte to the blood vessel wall. Signaling through the 2 integrins triggers the transport of the attached leukocyte across the blood vessel wall to the site of infection or injury.  ITGB2 gene mutations that cause leukocyte adhesion deficiency type 1 lead to the production of a 2 subunit that cannot bind with other subunits to form 2 integrins. Leukocytes that lack these integrins cannot attach to the blood vessel wall or cross the vessel wall to contribute to the immune response. As a result, there is a decreased response to injury and foreign invaders, such as bacteria and fungi, resulting in frequent infections, delayed wound healing, and other signs and symptoms of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000596-4" qtype="inheritance">Is leukocyte adhesion deficiency type 1 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000596-5" qtype="treatment">What are the treatments for leukocyte adhesion deficiency type 1 ?</Question>
+			<Answer>These resources address the diagnosis or management of leukocyte adhesion deficiency type 1:  - Genetic Testing Registry: Leukocyte adhesion deficiency type 1  - MedlinePlus Encyclopedia: Gingivitis  - MedlinePlus Encyclopedia: Immunodeficiency Disorders  - Primary Immune Deficiency Treatment Consortium   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

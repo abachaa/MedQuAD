@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000325" source="GHR" url="https://ghr.nlm.nih.gov/condition/erythrokeratodermia-variabilis-et-progressiva">
+<Focus>erythrokeratodermia variabilis et progressiva</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265961</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>EKV</Synonym>
+		<Synonym>EKV-P</Synonym>
+		<Synonym>EKVP</Synonym>
+		<Synonym>erythrokeratodermia variabilis</Synonym>
+		<Synonym>erythrokeratodermia variabilis of Mendes da Costa</Synonym>
+		<Synonym>erythrokeratodermia, progressive symmetric</Synonym>
+		<Synonym>progressive symmetrical erythrokeratoderma of Gottron</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000325-1" qtype="information">What is (are) erythrokeratodermia variabilis et progressiva ?</Question>
+			<Answer>Erythrokeratodermia variabilis et progressiva (EKVP) is a skin disorder that is present at birth or becomes apparent in infancy. Although its signs and symptoms vary, the condition is characterized by two major features. The first is areas of hyperkeratosis, which is rough, thickened skin. These thickened patches are usually reddish-brown and can either be widespread over many parts of the body or occur only in a small area. They tend to be fixed, meaning they do not spread or go away. However, the patches can vary in size and shape, and in some affected people they get larger over time. The areas of thickened skin are generally symmetric, which means they occur in the same places on the right and left sides of the body.  The second major feature of EKVP is patches of reddened skin called erythematous areas. Unlike the hyperkeratosis that occurs in this disorder, the erythematous areas are usually transient, which means they come and go. They vary in size, shape, and location, and can occur anywhere on the body. The redness can be triggered by sudden changes in temperature, emotional stress, or trauma or irritation to the area. It usually fades within hours to days.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000325-2" qtype="frequency">How many people are affected by erythrokeratodermia variabilis et progressiva ?</Question>
+			<Answer>EKVP is a rare disorder; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000325-3" qtype="genetic changes">What are the genetic changes related to erythrokeratodermia variabilis et progressiva ?</Question>
+			<Answer>EKVP can be caused by mutations in the GJB3 or GJB4 gene. These genes provide instructions for making proteins called connexin 31 and connexin 30.3, respectively. These proteins are part of the connexin family, a group of proteins that form channels called gap junctions on the surface of cells. Gap junctions open and close to regulate the flow of nutrients, charged atoms (ions), and other signaling molecules from one cell to another. They are essential for direct communication between neighboring cells. Gap junctions formed with connexin 31 and connexin 30.3 are found in several tissues, including the outermost layer of skin (the epidermis).  The GJB3 and GJB4 gene mutations that cause EKVP alter the structure of the connexins produced from these genes. Studies suggest that the abnormal proteins can build up in a cell structure called the endoplasmic reticulum (ER), triggering a harmful process known as ER stress. Researchers suspect that ER stress damages and leads to the premature death of cells in the epidermis. This cell death leads to skin inflammation, which appears to underlie the development of erythematous areas. The mechanism by which epidermal damage and cell death contributes to hyperkeratosis is poorly understood.  In some cases, affected individuals have no identified mutation in the GJB3 or GJB4 gene. In these individuals, the cause of the disorder is unknown. Researchers suspect that changes in other, unidentified genes may also be associated with EKVP.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000325-4" qtype="inheritance">Is erythrokeratodermia variabilis et progressiva inherited ?</Question>
+			<Answer>EKVP is most often inherited in an autosomal dominant pattern, which means one copy of an altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new gene mutations and occur in people with no history of the disorder in their family.  A few studies have suggested that EKVP can also have an autosomal recessive pattern of inheritance. However, this inheritance pattern has only been reported in a small number of affected families, and not all researchers agree that it is truly autosomal recessive. Autosomal recessive inheritance means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000325-5" qtype="treatment">What are the treatments for erythrokeratodermia variabilis et progressiva ?</Question>
+			<Answer>These resources address the diagnosis or management of EKVP:  - Genetic Testing Registry: Erythrokeratodermia variabilis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

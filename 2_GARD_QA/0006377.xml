@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006377" source="GARD" url="https://rarediseases.info.nih.gov/gard/7867/von-willebrand-disease">
+<Focus>Von Willebrand disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042974</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>VWD</Synonym>
+		<Synonym>Von Willebrand factor, deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006377-1" qtype="information">What is (are) Von Willebrand disease ?</Question>
+			<Answer>Von Willebrand disease is a bleeding disorder that slows the blood clotting process. People with this disease often experience bruising, nosebleeds, and prolonged bleeding or oozing following an injury, surgery, or having a tooth pulled. In severe cases, heavy bleeding occurs after minor injury or even in the absence of injury. Milder forms of Von Willebrand disease do not involve spontaneous bleeding, and the disease may become apparent only when abnormal bleeding occurs following surgery or a serious injury. Symptoms may change over time. Increased age, pregnancy, exercise, and stress may make bleeding symptoms may become less frequent. This disease is caused by mutations in the VWF gene and can have different inheritance patterns.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006377-2" qtype="symptoms">What are the symptoms of Von Willebrand disease ?</Question>
+			<Answer>What are the signs and symptoms of Von Willebrand disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Von Willebrand disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aortic valve stenosis - Autosomal dominant inheritance - Bruising susceptibility - Epistaxis - Gastrointestinal angiodysplasia - Gastrointestinal hemorrhage - Impaired platelet aggregation - Incomplete penetrance - Joint hemorrhage - Menorrhagia - Mitral valve prolapse - Prolonged bleeding time - Prolonged whole-blood clotting time - Reduced factor VIII activity - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006377-3" qtype="causes">What causes Von Willebrand disease ?</Question>
+			<Answer>What causes von Willebrand disease? Von Willebrand disease is typically an inherited disease caused by mutations in the VWF gene. The VWF gene provides instructions for making a blood clotting protein called von Willebrand factor, which is important for forming blood clots and preventing further blood loss after an injury. If von Willebrand factor does not function normally or too little of the protein is available, blood clots cannot form properly. VWF gene mutations that reduce the amount of von Willebrand factor or cause the protein to function abnormally (or not at all) are responsible for the signs and symptoms associated with the condition. These mutations may be inherited in an autosomal dominant or autosomal recessive manner, or may occur for the first time in the affected individual (known as a de novo mutation). Another form of the disorder, often considered a separate condition, is called acquired von Willebrand syndrome (AVWS). AVWS is not caused by gene mutations. This condition is typically seen in conjunction with other disorders and usually begins in adulthood. A list of disorders associated with AVWS is available from  UpToDate.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0006377-4" qtype="inheritance">Is Von Willebrand disease inherited ?</Question>
+			<Answer>Is von Willebrand disease always inherited from a parent? Most, but not all, cases of von Willebrand disease (VWD) are inherited. The majority of cases of type 1 and type 2A, as well as type 2B and type 2M, are inherited in an autosomal dominant manner. VWD type 2N, type 3, and some cases of type 1 and type 2A are inherited in an autosomal recessive manner. Most individuals with an autosomal dominant type of VWD have an affected parent. However, some individuals are affected due to having a new (de novo) mutation in the VWF gene that occurred for the first time in the affected individual. If the mutation found in the affected individual cannot be detected in either parent, it is most often due to a de novo mutation but may also be due to germline mosaicism in a parent. Possible non-medical explanations which may be explored include alternate paternity or maternity (e.g., with assisted reproduction) or undisclosed adoption. There is also a separate, rare condition called acquired von Willebrand syndrome (AVWS). This is a mild to moderate bleeding disorder that is typically seen in conjunction with other disorders, such as diseases that affect bone marrow or immune cell function. AVWS is not caused by a mutation in the VWF gene and usually begins in adulthood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

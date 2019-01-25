@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000396" source="GHR" url="https://ghr.nlm.nih.gov/condition/fumarase-deficiency">
+<Focus>fumarase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342770</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>fumarate hydratase deficiency</Synonym>
+		<Synonym>fumaric aciduria</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000396-1" qtype="information">What is (are) fumarase deficiency ?</Question>
+			<Answer>Fumarase deficiency is a condition that primarily affects the nervous system, especially the brain. Affected infants may have an abnormally small head size (microcephaly), abnormal brain structure, severe developmental delay, weak muscle tone (hypotonia), and failure to gain weight and grow at the expected rate (failure to thrive). They may also experience seizures. Some people with this disorder have unusual facial features, including a prominent forehead (frontal bossing), low-set ears, a small jaw (micrognathia), widely spaced eyes (ocular hypertelorism), and a depressed nasal bridge. An enlarged liver and spleen (hepatosplenomegaly) may also be associated with this disorder, as well as an excess of red blood cells (polycythemia) or deficiency of white blood cells (leukopenia) in infancy. Affected individuals usually survive only a few months, but a few have lived into early adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000396-2" qtype="frequency">How many people are affected by fumarase deficiency ?</Question>
+			<Answer>Fumarase deficiency is a very rare disorder. Approximately 100 affected individuals have been reported worldwide. Several were born in an isolated religious community in the southwestern United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000396-3" qtype="genetic changes">What are the genetic changes related to fumarase deficiency ?</Question>
+			<Answer>The FH gene provides instructions for making an enzyme called fumarase (also known as fumarate hydratase). Fumarase participates in an important series of reactions known as the citric acid cycle or Krebs cycle, which allows cells to use oxygen and generate energy. Specifically, fumarase helps convert a molecule called fumarate to a molecule called malate.  Mutations in the FH gene disrupt the enzyme&apos;s ability to help convert fumarate to malate, interfering with the function of this reaction in the citric acid cycle. Impairment of the process that generates energy for cells is particularly harmful to cells in the developing brain, and this impairment results in the signs and symptoms of fumarase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000396-4" qtype="inheritance">Is fumarase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000396-5" qtype="treatment">What are the treatments for fumarase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of fumarase deficiency:  - Gene Review: Gene Review: Fumarate Hydratase Deficiency  - Genetic Testing Registry: Fumarase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

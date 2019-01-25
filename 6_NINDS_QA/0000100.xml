@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000100" source="NINDS" url="http://www.ninds.nih.gov/disorders/picks/picks.htm">
+<Focus>Frontotemporal Dementia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0236642</CUI>
+			<CUI>C0338451</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000100-1" qtype="information">What is (are) Frontotemporal Dementia ?</Question>
+			<Answer>Frontotemporal dementia (FTD) describes a clinical syndrome associated with shrinking of the frontal and temporal anterior lobes of the brain. Originally known as Picks disease, the name and classification of FTD has been a topic of discussion for over a century. The current designation of the syndrome groups together Picks disease, primary progressive aphasia, and semantic dementia as FTD. Some doctors propose adding corticobasal degeneration and progressive supranuclear palsy to FTD and calling the group Pick Complex. These designations will continue to be debated. As it is defined today, the symptoms of FTD fall into two clinical patterns that involve either (1) changes in behavior, or (2) problems with language. The first type features behavior that can be either impulsive (disinhibited) or bored and listless (apathetic) and includes inappropriate social behavior; lack of social tact; lack of empathy; distractability; loss of insight into the behaviors of oneself and others; an increased interest in sex; changes in food preferences; agitation or, conversely, blunted emotions; neglect of personal hygiene; repetitive or compulsive behavior, and decreased energy and motivation. The second type primarily features symptoms of language disturbance, including difficulty making or understanding speech, often in conjunction with the behavioral types symptoms. Spatial skills and memory remain intact. There is a strong genetic component to the disease; FTD often runs in families.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000100-2" qtype="treatment">What are the treatments for Frontotemporal Dementia ?</Question>
+			<Answer>No treatment has been shown to slow the progression of FTD. Behavior modification may help control unacceptable or dangerous behaviors. Aggressive, agitated, or dangerous behaviors could require medication. Anti-depressants have been shown to improve some symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000100-3" qtype="outlook">What is the outlook for Frontotemporal Dementia ?</Question>
+			<Answer>The outcome for people with FTD is poor. The disease progresses steadily and often rapidly, ranging from less than 2 years in some individuals to more than 10 years in others. Eventually some individuals with FTD will need 24-hour care and monitoring at home or in an institutionalized care setting.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000100-4" qtype="research">what research (or clinical trials) is being done for Frontotemporal Dementia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), and other institutes of the National Institutes of Health (NIH), conduct research related to FTD in laboratories at the NIH, and also support additional research through grants to major medical institutions across the country.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

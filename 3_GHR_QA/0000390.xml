@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000390" source="GHR" url="https://ghr.nlm.nih.gov/condition/frontonasal-dysplasia">
+<Focus>frontonasal dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1876203</CUI>
+			<CUI>C0432106</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FND</Synonym>
+		<Synonym>FNM</Synonym>
+		<Synonym>frontonasal dysplasia sequence</Synonym>
+		<Synonym>frontonasal malformation</Synonym>
+		<Synonym>frontorhiny</Synonym>
+		<Synonym>median facial cleft syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000390-1" qtype="information">What is (are) frontonasal dysplasia ?</Question>
+			<Answer>Frontonasal dysplasia is a condition that results from abnormal development of the head and face before birth. People with frontonasal dysplasia have at least two of the following features: widely spaced eyes (ocular hypertelorism); a broad nose; a slit (cleft) in one or both sides of the nose; no nasal tip; a central cleft involving the nose, upper lip, or roof of the mouth (palate); incomplete formation of the front of the skull with skin covering the head where bone should be (anterior cranium bifidum occultum); or a widow&apos;s peak hairline.  Other features of frontonasal dysplasia can include additional facial malformations, absence or malformation of the tissue that connects the left and right halves of the brain (the corpus callosum), and intellectual disability.  There are at least three types of frontonasal dysplasia that are distinguished by their genetic causes and their signs and symptoms. In addition to the features previously described, each type of frontonasal dysplasia is associated with other distinctive features. Individuals with frontonasal dysplasia type 1 typically have abnormalities of the nose, a long area between the nose and upper lip (philtrum), and droopy upper eyelids (ptosis). Individuals with frontonasal dysplasia type 2 can have hair loss (alopecia) and an enlarged opening in the two bones that make up much of the top and sides of the skull (enlarged parietal foramina). Males with this form of the condition often have genital abnormalities. Features of frontonasal dysplasia type 3 include eyes that are missing (anophthalmia) or very small (microphthalmia) and low-set ears that are rotated backward. Frontonasal dysplasia type 3 is typically associated with the most severe facial abnormalities, but the severity of the condition varies widely, even among individuals with the same type.  Life expectancy of affected individuals depends on the severity of the malformations and whether or not surgical intervention can improve associated health problems, such as breathing and feeding problems caused by the facial clefts.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000390-2" qtype="frequency">How many people are affected by frontonasal dysplasia ?</Question>
+			<Answer>Frontonasal dysplasia is likely a rare condition; at least 100 cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000390-3" qtype="genetic changes">What are the genetic changes related to frontonasal dysplasia ?</Question>
+			<Answer>Mutations in the ALX3 gene cause frontonasal dysplasia type 1, ALX4 gene mutations cause type 2, and ALX1 gene mutations cause type 3. These genes provide instructions for making proteins that are necessary for normal development, particularly of the head and face, before birth. The proteins produced from the ALX3, ALX4, and ALX1 genes are transcription factors, which means they attach (bind) to DNA and control the activity of certain genes. Specifically, the proteins control the activity of genes that regulate cell growth and division (proliferation) and movement (migration), ensuring that cells grow and stop growing at specific times and that they are positioned correctly during development. The ALX3 and ALX4 proteins are primarily involved in the development of the nose and surrounding tissues, while the ALX1 protein is involved in development of the eyes, nose, and mouth.  ALX3, ALX4, or ALX1 gene mutations reduce or eliminate function of the respective protein. As a result, the regulation of cell organization during development of the head and face is disrupted, particularly affecting the middle of the face. Abnormal development of the nose, philtrum, and upper lip leads to the facial clefts that characterize this disorder. This abnormal development also interferes with the proper formation of the skull and other facial structures, leading to anterior cranium bifidum occultum, hypertelorism, and other features of frontonasal dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000390-4" qtype="inheritance">Is frontonasal dysplasia inherited ?</Question>
+			<Answer>When frontonasal dysplasia is caused by mutations in the ALX1 or ALX3 gene, it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  When ALX4 gene mutations cause frontonasal dysplasia, the condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000390-5" qtype="treatment">What are the treatments for frontonasal dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of frontonasal dysplasia:  - Genetic Testing Registry: Frontonasal dysplasia 1  - Genetic Testing Registry: Frontonasal dysplasia 2  - Genetic Testing Registry: Frontonasal dysplasia 3  - KidsHealth from Nemours: Cleft Lip and Palate  - MedlinePlus Encyclopedia: Head and Face Reconstruction  - Mount Sinai Hospital: Cleft Nasal Deformity  - University of Rochester Medical Center: Nasal Alveolar Molding   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

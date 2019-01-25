@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000112" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/bonecancer.html">
+<Focus>Bone Cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0585442</CUI>
+			<CUI>C0279530</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000112-1" qtype="information">What is (are) Bone Cancer ?</Question>
+			<Answer>Cancer that starts in a bone is uncommon. Cancer that has spread to the bone from another part of the body is more common.     There are three types of bone cancer:       - Osteosarcoma - occurs most often between ages 10 and 19. It is more common in the knee and upper arm.    - Chondrosarcoma - starts in cartilage, usually after age 40    - Ewing&apos;s sarcoma - occurs most often in children and teens under 19. It is more common in boys than girls.       The most common symptom of bone cancer is pain. Other symptoms vary, depending on the location and size of the cancer. Surgery is often the main treatment for bone cancer. Other treatments may include amputation, chemotherapy, and radiation therapy. Because bone cancer can come back after treatment, regular follow-up visits are important.    NIH: National Cancer Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

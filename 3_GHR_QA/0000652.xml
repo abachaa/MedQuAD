@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000652" source="GHR" url="https://ghr.nlm.nih.gov/condition/mevalonate-kinase-deficiency">
+<Focus>mevalonate kinase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342731</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hyper IgD syndrome</Synonym>
+		<Synonym>hyperimmunoglobulin D with periodic fever</Synonym>
+		<Synonym>hyperimmunoglobulinemia D</Synonym>
+		<Synonym>mevalonic aciduria</Synonym>
+		<Synonym>mevalonicaciduria</Synonym>
+		<Synonym>periodic fever, Dutch type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000652-1" qtype="information">What is (are) mevalonate kinase deficiency ?</Question>
+			<Answer>Mevalonate kinase deficiency is a condition characterized by recurrent episodes of fever, which typically begin during infancy. Each episode of fever lasts about 3 to 6 days, and the frequency of the episodes varies among affected individuals. In childhood the fevers seem to be more frequent, occurring as often as 25 times a year, but as the individual gets older the episodes occur less often.  Mevalonate kinase deficiency has additional signs and symptoms, and the severity depends on the type of the condition. There are two types of mevalonate kinase deficiency: a less severe type called hyperimmunoglobulinemia D syndrome (HIDS) and a more severe type called mevalonic aciduria (MVA).  During episodes of fever, people with HIDS typically have enlargement of the lymph nodes (lymphadenopathy), abdominal pain, joint pain, diarrhea, skin rashes, and headache. Occasionally they will have painful sores called aphthous ulcers around their mouth. In females, these may also occur around the vagina. A small number of people with HIDS have intellectual disability, problems with movement and balance (ataxia), eye problems, and recurrent seizures (epilepsy). Rarely, people with HIDS develop a buildup of protein deposits (amyloidosis) in the kidneys that can lead to kidney failure. Fever episodes in individuals with HIDS can be triggered by vaccinations, surgery, injury, or stress. Most people with HIDS have abnormally high levels of immune system proteins called immunoglobulin D (IgD) and immunoglobulin A (IgA) in the blood. It is unclear why people with HIDS have high levels of IgD and IgA. Elevated levels of these immunoglobulins do not appear to cause any signs or symptoms. Individuals with HIDS do not have any signs and symptoms of the condition between fever episodes and typically have a normal life expectancy.  People with MVA have signs and symptoms of the condition at all times, not just during episodes of fever. Affected children have developmental delay, progressive ataxia, progressive problems with vision, and failure to gain weight and grow at the expected rate (failure to thrive). Individuals with MVA typically have an unusually small, elongated head. In childhood or adolescence, affected individuals may develop eye problems such as inflammation of the eye (uveitis), a blue tint in the white part of the eye (blue sclera), an eye disorder called retinitis pigmentosa that causes vision loss, or clouding of the lens of the eye (cataracts). Affected adults may have short stature and may develop muscle weakness (myopathy) later in life. During fever episodes, people with MVA may have an enlarged liver and spleen (hepatosplenomegaly), lymphadenopathy, abdominal pain, diarrhea, and skin rashes. Children with MVA who are severely affected with multiple problems may live only into early childhood; mildly affected individuals may have a normal life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000652-2" qtype="frequency">How many people are affected by mevalonate kinase deficiency ?</Question>
+			<Answer>More than 200 people with mevalonate kinase deficiency have been reported worldwide; the majority of these individuals have HIDS.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000652-3" qtype="genetic changes">What are the genetic changes related to mevalonate kinase deficiency ?</Question>
+			<Answer>Mutations in the MVK gene cause mevalonate kinase deficiency. The MVK gene provides instructions for making the mevalonate kinase enzyme. This enzyme is involved in the production of cholesterol, which is later converted into steroid hormones and bile acids. Steroid hormones are needed for normal development and reproduction, and bile acids are used to digest fats. Mevalonate kinase also helps to produce other substances that are necessary for certain cellular functions, such as cell growth, cell maturation (differentiation), formation of the cell&apos;s structural framework (the cytoskeleton), gene activity (expression), and protein production and modification.  Most MVK gene mutations that cause mevalonate kinase deficiency result in an enzyme that is unstable and folded into an incorrect 3-dimensional shape, leading to a reduction of mevalonate kinase enzyme activity. Despite this shortage (deficiency) of mevalonate kinase activity, people with mevalonate kinase deficiency typically have normal production of cholesterol, steroid hormones, and bile acids.  It is unclear how a lack of mevalonate kinase activity causes the signs and symptoms of this condition. Some researchers believe the features may be due to a buildup of mevalonic acid, the substance that mevalonate kinase normally acts on. Other researchers think that a shortage of the substances produced from mevalonic acid, such as those substances necessary for certain cellular functions, causes the fever episodes and other features of this condition.  The severity of the enzyme deficiency determines the severity of the condition. People who have approximately 1 to 20 percent of normal mevalonate kinase activity typically develop HIDS. Individuals who have less than 1 percent of normal enzyme activity usually develop MVA.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000652-4" qtype="inheritance">Is mevalonate kinase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000652-5" qtype="treatment">What are the treatments for mevalonate kinase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of mevalonate kinase deficiency:  - Genetic Testing Registry: Hyperimmunoglobulin D with periodic fever  - Genetic Testing Registry: Mevalonic aciduria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

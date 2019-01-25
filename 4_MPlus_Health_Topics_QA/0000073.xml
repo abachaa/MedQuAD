@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000073" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/autoimmunediseases.html">
+<Focus>Autoimmune Diseases</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004364</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000073-1" qtype="information">What is (are) Autoimmune Diseases ?</Question>
+			<Answer>Your body&apos;s immune system protects you from disease and infection. But if you have an autoimmune disease, your immune system attacks healthy cells in your body by mistake. Autoimmune diseases can affect many parts of the body.    No one is sure what causes autoimmune diseases. They do tend to run in families. Women - particularly African-American, Hispanic-American, and Native-American women - have a higher risk for some autoimmune diseases.    There are more than 80 types of autoimmune diseases, and some have similar symptoms. This makes it hard for your health care provider to know if you really have one of these diseases, and if so, which one. Getting a diagnosis can be frustrating and stressful. Often, the first symptoms are fatigue, muscle aches and a low fever. The classic sign of an autoimmune disease is inflammation, which can cause redness, heat, pain and swelling.    The diseases may also have flare-ups, when they get worse, and remissions, when symptoms get better or disappear. Treatment depends on the disease, but in most cases one important goal is to reduce inflammation. Sometimes doctors prescribe corticosteroids or other drugs that reduce your immune response.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

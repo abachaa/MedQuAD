@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000750" source="GHR" url="https://ghr.nlm.nih.gov/condition/ollier-disease">
+<Focus>Ollier disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014084</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dyschondroplasia</Synonym>
+		<Synonym>enchondromatosis</Synonym>
+		<Synonym>enchondromatosis, multiple, Ollier type</Synonym>
+		<Synonym>multiple cartilaginous enchondroses</Synonym>
+		<Synonym>multiple enchondromatosis</Synonym>
+		<Synonym>Ollier's syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000750-1" qtype="information">What is (are) Ollier disease ?</Question>
+			<Answer>Ollier disease is a disorder characterized by multiple enchondromas, which are noncancerous (benign) growths of cartilage that develop within the bones. These growths most commonly occur in the limb bones, especially in the bones of the hands and feet; however, they may also occur in the skull, ribs, and bones of the spine (vertebrae). Enchondromas may result in severe bone deformities, shortening of the limbs, and fractures.  The signs and symptoms of Ollier disease may be detectable at birth, although they generally do not become apparent until around the age of 5. Enchondromas develop near the ends of bones, where normal growth occurs, and they frequently stop forming after affected individuals stop growing in early adulthood. As a result of the bone deformities associated with Ollier disease, people with this disorder generally have short stature and underdeveloped muscles.  Although the enchondromas associated with Ollier disease start out as benign, they may become cancerous (malignant). In particular, affected individuals may develop bone cancers called chondrosarcomas, especially in the skull. People with Ollier disease also have an increased risk of other cancers, such as ovarian or liver cancer.  People with Ollier disease usually have a normal lifespan, and intelligence is unaffected. The extent of their physical impairment depends on their individual skeletal deformities, but in most cases they have no major limitations in their activities.  A related disorder called Maffucci syndrome also involves multiple enchondromas but is distinguished by the presence of red or purplish growths in the skin consisting of tangles of abnormal blood vessels (hemangiomas).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000750-2" qtype="frequency">How many people are affected by Ollier disease ?</Question>
+			<Answer>Ollier disease is estimated to occur in 1 in 100,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000750-3" qtype="genetic changes">What are the genetic changes related to Ollier disease ?</Question>
+			<Answer>In most people with Ollier disease, the disorder is caused by mutations in the IDH1 or IDH2 gene. These genes provide instructions for making enzymes called isocitrate dehydrogenase 1 and isocitrate dehydrogenase 2, respectively. These enzymes convert a compound called isocitrate to another compound called 2-ketoglutarate. This reaction also produces a molecule called NADPH, which is necessary for many cellular processes. IDH1 or IDH2 gene mutations cause the enzyme produced from the respective gene to take on a new, abnormal function. Although these mutations have been found in some cells of enchondromas in people with Ollier disease, the relationship between the mutations and the signs and symptoms of the disorder is not well understood.  Mutations in other genes may also account for some cases of Ollier disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000750-4" qtype="inheritance">Is Ollier disease inherited ?</Question>
+			<Answer>Ollier disease is not inherited. The mutations that cause this disorder are somatic, which means they occur during a person&apos;s lifetime. A somatic mutation occurs in a single cell. As that cell continues to grow and divide, the cells derived from it also have the same mutation. In Ollier disease, the mutation is thought to occur in a cell during early development before birth; cells that arise from that abnormal cell have the mutation, while the body&apos;s other cells do not. This situation is called mosaicism.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000750-5" qtype="treatment">What are the treatments for Ollier disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Ollier disease:  - Genetic Testing Registry: Enchondromatosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

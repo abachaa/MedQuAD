@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000537" source="GHR" url="https://ghr.nlm.nih.gov/condition/isolated-lissencephaly-sequence">
+<Focus>isolated lissencephaly sequence</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266463</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>classical lissencephaly</Synonym>
+		<Synonym>ILS</Synonym>
+		<Synonym>LIS1</Synonym>
+		<Synonym>lissencephaly type 1</Synonym>
+		<Synonym>lissencephaly, classic</Synonym>
+		<Synonym>type 1 lissencephaly</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000537-1" qtype="information">What is (are) isolated lissencephaly sequence ?</Question>
+			<Answer>Isolated lissencephaly sequence (ILS) is a condition that affects brain development before birth. Normally, the cells that make up the exterior of the brain (cerebral cortex) are well-organized, multi-layered, and arranged into many folds and grooves (gyri). In people with ILS, the cells of the cerebral cortex are disorganized, and the brain surface is abnormally smooth with an absence (agyria) or reduction (pachygyria) of folds and grooves. In most cases, these abnormalities impair brain growth, causing the brain to be smaller than normal (microcephaly). This underdevelopment of the brain causes severe intellectual disability, delayed development, and recurrent seizures (epilepsy) in individuals with ILS.  More than 90 percent of individuals with ILS develop epilepsy, often within the first year of life. Up to 80 percent of infants with ILS have a type of seizure called infantile spasms, these seizures can be severe enough to cause brain dysfunction (epileptic encephalopathy). After the first months of life, most children with ILS develop a variety of seizure types, including persisting infantile spasms, short periods of loss of consciousness (absence seizures); sudden episodes of weak muscle tone (drop attacks); rapid, uncontrolled muscle jerks (myoclonic seizures); and episodes of muscle rigidity, convulsions, and loss of consciousness (tonic-clonic seizures).  Infants with ILS may have poor muscle tone (hypotonia) and difficulty feeding, which leads to poor growth overall. Hypotonia also affects the muscles used for breathing, which often causes breathing problems that can lead to a life-threatening bacterial lung infection known as aspiration pneumonia. Children with ILS often develop muscle stiffness (spasticity) in their arms and legs and an abnormal side-to-side curvature of the spine (scoliosis). Rarely, the muscle stiffness will progress to paralysis (spastic paraplegia). Individuals with ILS cannot walk and rarely crawl. Most children with ILS do not develop communication skills.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000537-2" qtype="frequency">How many people are affected by isolated lissencephaly sequence ?</Question>
+			<Answer>ILS affects approximately 1 in 100,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000537-3" qtype="genetic changes">What are the genetic changes related to isolated lissencephaly sequence ?</Question>
+			<Answer>Mutations in the PAFAH1B1, DCX, or TUBA1A gene can cause ILS. PAFAH1B1 gene mutations are responsible for over half of ILS cases; DCX gene mutations cause about 10 percent of cases; and TUBA1A gene mutations cause a small percentage of ILS. These genes provide instructions for making proteins that are involved in the movement (migration) of nerve cells (neurons) to their proper locations in the developing brain. Neuronal migration is dependent on cell structures called microtubules. Microtubules are rigid, hollow fibers that make up the cell&apos;s structural framework (the cytoskeleton). Microtubules form scaffolding within the cell that elongates in a specific direction, altering the cytoskeleton and moving the neuron. The protein produced from the TUBA1A gene is a component of microtubules. The proteins produced from the DCX and PAFAH1B1 genes promote neuronal migration by interacting with microtubules.  Mutations in any of these three genes impair the function of microtubules and the normal migration of neurons during fetal development. As a result, the layers of the cerebral cortex are disorganized and the normal folds and grooves of the brain do not form. This impairment of brain development leads to the smooth brain appearance and the resulting neurological problems characteristic of ILS.  Some individuals with ILS do not have an identified mutation in any of these three genes; the cause of the condition in these individuals may be unidentified mutations in other genes that affect neuronal migration or other unknown factors.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000537-4" qtype="inheritance">Is isolated lissencephaly sequence inherited ?</Question>
+			<Answer>The inheritance pattern of ILS depends on the gene involved.  When ILS is caused by mutations in the PAFAH1B1 or TUBA1A gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  When mutations in the DCX gene cause ILS, it is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males (who have only one X chromosome), one altered copy of the DCX gene in each cell is sufficient to cause the condition. In females, who have two copies of the X chromosome, one altered copy of the DCX gene in each cell can lead to a less severe condition in females called subcortical band heterotopia, or may cause no symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000537-5" qtype="treatment">What are the treatments for isolated lissencephaly sequence ?</Question>
+			<Answer>These resources address the diagnosis or management of isolated lissencephaly sequence:  - Gene Review: Gene Review: DCX-Related Disorders  - Gene Review: Gene Review: LIS1-Associated Lissencephaly/Subcortical Band Heterotopia  - Gene Review: Gene Review: Tubulinopathies Overview  - Genetic Testing Registry: Lissencephaly 1  - Genetic Testing Registry: Lissencephaly 3  - Genetic Testing Registry: Lissencephaly, X-linked   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

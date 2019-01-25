@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000660" source="GARD" url="https://rarediseases.info.nih.gov/gard/12654/baylisascaris-infection">
+<Focus>Baylisascaris infection</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714514</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000660-1" qtype="information">What is (are) Baylisascaris infection ?</Question>
+			<Answer>Baylisascaris roundworms are intestinal parasites found in many different animals. Baylisascaris infection in humans is uncommon but can be severe. While Baylisascaris can infect different types of animals, Baylisascaris procyonis, carried by raccoons, is thought to pose the greatest risk to humans because raccoons often live in close proximity to humans. Humans can acquire the parasite by ingesting the eggs of infected raccoons. Young children are at greatest risk for Baylisascaris infection because they are more likely to put contaminated soil in their mouths. Though rare, human infections can be severe if the parasite invades the eye (ocular larva migrans), organs (visceral larva migrans), or the brain (neural larva migrans). Symptoms of a Baylisascaris infection may include nausea, fatigue, an enlarged liver, loss of coordination, lack of muscle control, blindness, and coma. Baylisascaris infections cannot be spread from one person to another. No drug has been found to be completely effective against Baylisascaris infections in humans though albendazole has been used in some cases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000660-2" qtype="treatment">What are the treatments for Baylisascaris infection ?</Question>
+			<Answer>How might Baylisascaris infection be treated? No drug has been found to be completely effective in treating Baylisascaris infections in humans. Albendazole is currently considered to be the drug of choice. Corticosteroids may also be given to reduce inflammation. In many cases, significant damage has already occurred by the time treatment has started. Early diagnosis and treatment provide the best chance of recovery.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

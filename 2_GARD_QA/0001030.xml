@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001030" source="GARD" url="https://rarediseases.info.nih.gov/gard/6014/central-core-disease">
+<Focus>Central core disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751951</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CCD</Synonym>
+		<Synonym>CCO</Synonym>
+		<Synonym>Central core disease of muscle</Synonym>
+		<Synonym>Muscle core disease</Synonym>
+		<Synonym>Muscular central core disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001030-1" qtype="information">What is (are) Central core disease ?</Question>
+			<Answer>Central core disease (CCD) is an inherited condition that involves muscle weakness, skeletal abnormalities, and an increased chance of having a severe reaction to some anesthesia medications.  Muscle weakness ranges from mild to severe and typically affects muscles in the trunk and upper legs, though muscles in the neck and face can also be affected. Skeletal abnormalities may include curving of the spine (scoliosis), dislocation of the hip, or restricted motion in certain joints (contractures).  Some individuals with CCD have an increased chance of having a severe reaction to anesthesia, called malignant hyperthermia, which may cause muscle rigidity or break-down (rhabdomyolysis), a high fever, or a rapid heart beat.  RYR1 is the only gene associated with CCD and clinical testing is available to look for disease-causing alterations in this gene known as mutations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001030-2" qtype="symptoms">What are the symptoms of Central core disease ?</Question>
+			<Answer>What are the signs and symptoms of Central core disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Central core disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Muscular hypotonia 90% Myopathy 90% Malignant hyperthermia 7.5% Autosomal dominant inheritance - Autosomal recessive inheritance - Congenital hip dislocation - Fever - Flexion contracture - Generalized muscle weakness - Infantile onset - Kyphoscoliosis - Motor delay - Nemaline bodies - Neonatal hypotonia - Nonprogressive - Pes planus - Phenotypic variability - Skeletal muscle atrophy - Slow progression - Type 1 muscle fiber predominance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001030-3" qtype="exams and tests">How to diagnose Central core disease ?</Question>
+			<Answer>How is central core disease diagnosed? Because the symptoms of central core disease can be quite variable, a physical examination alone is often not enough to establish a diagnosis.  A combination of the following examinations and testings can diagnosis this condition: a physical examination that confirms muscle weakness, a muscle biopsy that reveals a characteristic appearance of the muscle cells, and/or genetic testing that identifies a mutation in the RYR1.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001030-4" qtype="treatment">What are the treatments for Central core disease ?</Question>
+			<Answer>What treatments might be available for central core disease? Treatments for central core disease (CCD) depend on the symptoms experienced by each affected individual.  When someone is first diagnosed with this condition, a physical examination is done to assess the extent and severity of muscle weakness, and physical therapy and occupational therapy assessments to determine which therapies might be most beneficial.  Physical therapy, such as stretching or low-impact exercises, may help improve weakness.  Some skeletal abnormalities can be addressed with physical therapy, though others may require surgery.  As the muscle weakness and scoliosis associated with CCD can affect breathing, individuals diagnosed with this condition may benefit from pulmonary function tests.  If breathing is significantly affected, breathing exercises or other breathing support treatments may be recommended.  Another treatment option may be a medication called salbutamol, which was found to significantly increased muscle strength and stamina in six of eight children with CCD.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

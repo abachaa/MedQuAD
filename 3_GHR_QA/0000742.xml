@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000742" source="GHR" url="https://ghr.nlm.nih.gov/condition/ochoa-syndrome">
+<Focus>Ochoa syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0403555</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hydronephrosis-inverted smile</Synonym>
+		<Synonym>hydronephrosis with peculiar facial expression</Synonym>
+		<Synonym>inverted smile and occult neuropathic bladder</Synonym>
+		<Synonym>inverted smile-neurogenic bladder</Synonym>
+		<Synonym>partial facial palsy with urinary abnormalities</Synonym>
+		<Synonym>UFS</Synonym>
+		<Synonym>urofacial Ochoa's syndrome</Synonym>
+		<Synonym>urofacial syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000742-1" qtype="information">What is (are) Ochoa syndrome ?</Question>
+			<Answer>Ochoa syndrome is a disorder characterized by urinary problems and unusual facial expressions.  The urinary problems associated with Ochoa syndrome typically become apparent in early childhood or adolescence. People with this disorder may have difficulty controlling the flow of urine (incontinence), which can lead to bedwetting. Individuals with Ochoa syndrome may be unable to completely empty the bladder, often resulting in vesicoureteral reflux, a condition in which urine backs up into the ducts that normally carry it from each kidney to the bladder (the ureters). Urine may also accumulate in the kidneys (hydronephrosis). Vesicoureteral reflux and hydronephrosis can lead to frequent infections of the urinary tract and kidney inflammation (pyelonephritis), causing damage that may eventually result in kidney failure.  Individuals with Ochoa syndrome also exhibit a characteristic frown-like facial grimace when they try to smile or laugh, often described as inversion of facial expression. While this feature may appear earlier than the urinary tract symptoms, perhaps as early as an infant begins to smile, it is often not brought to medical attention.  Approximately two-thirds of individuals with Ochoa syndrome also experience problems with bowel function, such as constipation, loss of bowel control, or muscle spasms of the anus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000742-2" qtype="frequency">How many people are affected by Ochoa syndrome ?</Question>
+			<Answer>Ochoa syndrome is a rare disorder. About 150 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000742-3" qtype="genetic changes">What are the genetic changes related to Ochoa syndrome ?</Question>
+			<Answer>Ochoa syndrome can be caused by mutations in the HPSE2 gene. This gene provides instructions for making a protein called heparanase 2. The function of this protein is not well understood.  Mutations in the HPSE2 gene that cause Ochoa syndrome result in changes in the heparanase 2 protein that likely prevent it from functioning. The connection between HPSE2 gene mutations and the features of Ochoa syndrome are unclear. Because the areas of the brain that control facial expression and urination are in close proximity, some researchers have suggested that the genetic changes may lead to an abnormality in this brain region that may account for the symptoms of Ochoa syndrome. Other researchers believe that a defective heparanase 2 protein may lead to problems with the development of the urinary tract or with muscle function in the face and bladder.  Some people with Ochoa syndrome do not have mutations in the HPSE2 gene. In these individuals, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000742-4" qtype="inheritance">Is Ochoa syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000742-5" qtype="treatment">What are the treatments for Ochoa syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Ochoa syndrome:  - Gene Review: Gene Review: Urofacial Syndrome  - Genetic Testing Registry: Ochoa syndrome  - National Institute of Diabetes and Digestive and Kidney Diseases: Urodynamic Testing  - Scripps Health: Self-Catheterization -- Female  - Scripps Health: Self-Catheterization -- Male   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

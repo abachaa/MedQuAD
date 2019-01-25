@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000578" source="GHR" url="https://ghr.nlm.nih.gov/condition/langer-mesomelic-dysplasia">
+<Focus>Langer mesomelic dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432230</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dyschondrosteosis homozygous</Synonym>
+		<Synonym>Langer mesomelic dwarfism</Synonym>
+		<Synonym>LMD</Synonym>
+		<Synonym>mesomelic dwarfism of the hypoplastic ulna, fibula, and mandible type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000578-1" qtype="information">What is (are) Langer mesomelic dysplasia ?</Question>
+			<Answer>Langer mesomelic dysplasia is a disorder of bone growth. Affected individuals typically have extreme shortening of the long bones in the arms and legs (mesomelia). As a result of the shortened leg bones, people with Langer mesomelic dysplasia have very short stature. A bone in the forearm called the ulna and a bone in the lower leg called the fibula are often underdeveloped or absent, while other bones in the forearm (the radius) and lower leg (the tibia) are unusually short, thick, and curved. Some people with Langer mesomelic dysplasia also have an abnormality of the wrist and forearm bones called Madelung deformity, which may cause pain and limit wrist movement. Additionally, some affected individuals have mild underdevelopment of the lower jaw bone (mandible).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000578-2" qtype="frequency">How many people are affected by Langer mesomelic dysplasia ?</Question>
+			<Answer>The prevalence of Langer mesomelic dysplasia is unknown, although the condition appears to be rare. Several dozen affected individuals have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000578-3" qtype="genetic changes">What are the genetic changes related to Langer mesomelic dysplasia ?</Question>
+			<Answer>Langer mesomelic dysplasia results from changes involving the SHOX gene. The protein produced from this gene plays a role in bone development and is particularly important for the growth and maturation of bones in the arms and legs. The most common cause of Langer mesomelic dysplasia is a deletion of the entire SHOX gene. Other genetic changes that can cause the disorder include mutations in the SHOX gene or deletions of nearby genetic material that normally helps regulate the gene&apos;s activity. These changes greatly reduce or eliminate the amount of SHOX protein that is produced. A lack of this protein disrupts normal bone development and growth, which underlies the severe skeletal abnormalities associated with Langer mesomelic dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000578-4" qtype="inheritance">Is Langer mesomelic dysplasia inherited ?</Question>
+			<Answer>Langer mesomelic dysplasia has a pseudoautosomal recessive pattern of inheritance. The SHOX gene is located on both the X and Y chromosomes (sex chromosomes) in an area known as the pseudoautosomal region. Although many genes are unique to either the X or Y chromosome, genes in the pseudoautosomal region are present on both sex chromosomes. As a result, both females (who have two X chromosomes) and males (who have one X and one Y chromosome) normally have two functional copies of the SHOX gene in each cell. The inheritance pattern of Langer mesomelic dysplasia is described as recessive because both copies of the SHOX gene in each cell must be missing or altered to cause the disorder. In females, the condition results when the gene is missing or altered on both copies of the X chromosome; in males, it results when the gene is missing or altered on the X chromosome and the Y chromosome.  A related skeletal disorder called Lri-Weill dyschondrosteosis occurs when one copy of the SHOX gene is mutated in each cell. This disorder has signs and symptoms that are similar to, but typically less severe than, those of Langer mesomelic dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000578-5" qtype="treatment">What are the treatments for Langer mesomelic dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of Langer mesomelic dysplasia:  - Genetic Testing Registry: Langer mesomelic dysplasia syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

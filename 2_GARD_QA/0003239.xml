@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003239" source="GARD" url="https://rarediseases.info.nih.gov/gard/6042/intrahepatic-cholangiocarcinoma">
+<Focus>Intrahepatic cholangiocarcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0345905</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003239-1" qtype="information">What is (are) Intrahepatic cholangiocarcinoma ?</Question>
+			<Answer>Intrahepatic cholangiocarcinoma is a cancer that develops in the cells within the bile ducts; both inside and outside the liver. The terms cholangiocarinoma and bile duct cancer are often used to refer to the same condition. This condition occurs slightly more often in males than females and usually affects people who are between 50-70 years old. Signs and symptoms of intrahepatic cholangiocarcinoma include jaundice, abdominal pain, fever, weight loss, weakness and itching. Treatment options may include surgery to remove the bile duct and parts of the liver, chemotherapy and radiation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003239-2" qtype="treatment">What are the treatments for Intrahepatic cholangiocarcinoma ?</Question>
+			<Answer>How might intrahepatic cholangiocarcinoma be treated? Can it be cured? Surgery to completely remove the bile duct and tumor is the only option that can possibly lead to a cure for patients. The type of operation will depend on the size and location of the cancer. For cases of intrahepatic cancers that cannot be surgically removed, a liver transplantation may be an option. In some cases, a liver transplant might even cure the cancer. Finally, radiation and chemotherapy are also treatment options available for intrahepatic cholangiocarcioma either in addition to surgery or on their own.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

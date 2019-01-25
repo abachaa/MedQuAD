@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000952" source="GHR" url="https://ghr.nlm.nih.gov/condition/steatocystoma-multiplex">
+<Focus>steatocystoma multiplex</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0259771</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>multiple sebaceous cysts</Synonym>
+		<Synonym>multiplex steatocystoma</Synonym>
+		<Synonym>sebocystomatosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000952-1" qtype="information">What is (are) steatocystoma multiplex ?</Question>
+			<Answer>Steatocystoma multiplex is a skin disorder characterized by the development of multiple noncancerous (benign) cysts known as steatocystomas. These growths begin in the skin&apos;s sebaceous glands, which normally produce an oily substance called sebum that lubricates the skin and hair. Steatocystomas are filled with sebum.  In affected individuals, steatocystomas typically first appear during adolescence and are found most often on the torso, neck, upper arms, and upper legs. In most people with steatocystoma multiplex, these cysts are the only sign of the condition. However, some affected individuals also have mild abnormalities involving the teeth or the fingernails and toenails.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000952-2" qtype="frequency">How many people are affected by steatocystoma multiplex ?</Question>
+			<Answer>Although the prevalence of steatocystoma multiplex is unknown, it appears to be rare.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000952-3" qtype="genetic changes">What are the genetic changes related to steatocystoma multiplex ?</Question>
+			<Answer>Steatocystoma multiplex can be caused by mutations in the KRT17 gene. This gene provides instructions for making a protein called keratin 17, which is produced in the nails, the hair follicles, and the skin on the palms of the hands and soles of the feet. It is also found in the skin&apos;s sebaceous glands. Keratin 17 partners with a similar protein called keratin 6b to form networks that provide strength and resilience to the skin, nails, and other tissues.  The KRT17 gene mutations that cause steatocystoma multiplex alter the structure of keratin 17, preventing it from forming strong, stable networks within cells. The defective keratin network disrupts the growth and function of cells in the skin and nails, including cells that make up the sebaceous glands. These abnormalities lead to the growth of sebum-containing cysts in people with steatocystoma multiplex. However, it is unclear why steatocystomas are typically the only feature of this disorder.  Many researchers believe that steatocystoma multiplex is a variant form of a disorder called pachyonychia congenita, which can also result from mutations in the KRT17 gene. Like steatocystoma multiplex, pachyonychia congenita involves the growth of steatocystomas. Pachyonychia congenita is also associated with more severe skin and nail abnormalities not usually found in people with steatocystoma multiplex.  In some cases, people with steatocystoma multiplex do not have an identified mutation in the KRT17 gene. The cause of the condition in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000952-4" qtype="inheritance">Is steatocystoma multiplex inherited ?</Question>
+			<Answer>When steatocystoma multiplex is caused by mutations in the KRT17 gene, it is inherited in an autosomal dominant pattern. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the condition from an affected parent.  In people with steatocystoma multiplex who do not have identified KRT17 gene mutations, there is usually no family history of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000952-5" qtype="treatment">What are the treatments for steatocystoma multiplex ?</Question>
+			<Answer>These resources address the diagnosis or management of steatocystoma multiplex:  - Genetic Testing Registry: Steatocystoma multiplex   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

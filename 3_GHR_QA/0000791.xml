@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000791" source="GHR" url="https://ghr.nlm.nih.gov/condition/pfeiffer-syndrome">
+<Focus>Pfeiffer syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220658</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acrocephalosyndactyly, type V</Synonym>
+		<Synonym>ACS V</Synonym>
+		<Synonym>ACS5</Synonym>
+		<Synonym>Craniofacial-skeletal-dermatologic dysplasia</Synonym>
+		<Synonym>Noack syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000791-1" qtype="information">What is (are) Pfeiffer syndrome ?</Question>
+			<Answer>Pfeiffer syndrome is a genetic disorder characterized by the premature fusion of certain skull bones (craniosynostosis). This early fusion prevents the skull from growing normally and affects the shape of the head and face. Pfeiffer syndrome also affects bones in the hands and feet.  Many of the characteristic facial features of Pfeiffer syndrome result from premature fusion of the skull bones. Abnormal growth of these bones leads to bulging and wide-set eyes, a high forehead, an underdeveloped upper jaw, and a beaked nose. More than half of all children with Pfeiffer syndrome have hearing loss; dental problems are also common.  In people with Pfeiffer syndrome, the thumbs and first (big) toes are wide and bend away from the other digits. Unusually short fingers and toes (brachydactyly) are also common, and there may be some webbing or fusion between the digits (syndactyly).  Pfeiffer syndrome is divided into three subtypes. Type 1, also known as classic Pfeiffer syndrome, has symptoms as described above. Most individuals with type 1 Pfeiffer syndrome have normal intelligence and a normal life span. Types 2 and 3 are more severe forms of Pfeiffer syndrome that often involve problems with the nervous system. The premature fusion of skull bones can limit brain growth, leading to delayed development and other neurological problems. Type 2 is distinguished from type 3 by the presence of a cloverleaf-shaped head, which is caused by more extensive fusion of bones in the skull.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000791-2" qtype="frequency">How many people are affected by Pfeiffer syndrome ?</Question>
+			<Answer>Pfeiffer syndrome affects about 1 in 100,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000791-3" qtype="genetic changes">What are the genetic changes related to Pfeiffer syndrome ?</Question>
+			<Answer>Pfeiffer syndrome results from mutations in the FGFR1 or FGFR2 gene. These genes provide instructions for making proteins known as fibroblast growth receptors 1 and 2. Among their multiple functions, these proteins signal immature cells to become bone cells during embryonic development. A mutation in either the FGFR1 or FGFR2 gene alters protein function and causes prolonged signaling, which can promote the premature fusion of skull bones and affect the development of bones in the hands and feet.  Type 1 Pfeiffer syndrome is caused by mutations in either the FGFR1 or FGFR2 gene. Types 2 and 3 are caused by mutations in the FGFR2 gene, and have not been associated with changes in the FGFR1 gene.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000791-4" qtype="inheritance">Is Pfeiffer syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000791-5" qtype="treatment">What are the treatments for Pfeiffer syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Pfeiffer syndrome:  - Gene Review: Gene Review: FGFR-Related Craniosynostosis Syndromes  - Genetic Testing Registry: Pfeiffer syndrome  - MedlinePlus Encyclopedia: Craniosynostosis  - MedlinePlus Encyclopedia: Webbing of fingers or toes   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

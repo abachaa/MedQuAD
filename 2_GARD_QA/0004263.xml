@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004263" source="GARD" url="https://rarediseases.info.nih.gov/gard/7137/myocarditis">
+<Focus>Myocarditis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027059</CUI>
+			<CUI>C1962971</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004263-1" qtype="information">What is (are) Myocarditis ?</Question>
+			<Answer>Myocarditis is a condition that is characterized by inflammation of the heart muscle (myocardium). Some affected people have no noticeable symptoms of the condition. When present, signs and symptoms may include chest pain, abnormal heartbeat, shortness of breath, fatigue, signs of infection (i.e. fever, headache, sore throat, diarrhea), and leg swelling. Myocarditis can be caused by a variety of factors including infections (viral, bacterial, parasitic, and fungal), allergic reactions to certain medications, and exposure to certain chemicals. It can also be associated with other inflammatory conditions such as lupus, Wegener&apos;s granulomatosis, giant cell arteritis and Takayasu&apos;s arteritis. Most cases occur sporadically in people with no family history of the condition. Treatment aims to address the underlying cause of the condition. Medications and rarely, a heart transplant may be needed if the heart muscle becomes weak.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

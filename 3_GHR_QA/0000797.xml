@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000797" source="GHR" url="https://ghr.nlm.nih.gov/condition/piebaldism">
+<Focus>piebaldism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0080024</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PBT</Synonym>
+		<Synonym>piebald trait</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000797-1" qtype="information">What is (are) piebaldism ?</Question>
+			<Answer>Piebaldism is a condition characterized by the absence of cells called melanocytes in certain areas of the skin and hair. Melanocytes produce the pigment melanin, which contributes to hair, eye, and skin color. The absence of melanocytes leads to patches of skin and hair that are lighter than normal. Approximately 90 percent of affected individuals have a white section of hair near their front hairline (a white forelock). The eyelashes, the eyebrows, and the skin under the forelock may also be unpigmented.  People with piebaldism usually have other unpigmented patches of skin, typically appearing symmetrically on both sides of the body. There may be spots or patches of pigmented skin within or around the borders of the unpigmented areas.  In most cases, the unpigmented areas are present at birth and do not increase in size or number. The unpigmented patches are at increased risk of sunburn and skin cancer related to excessive sun exposure. Some people with piebaldism are self-conscious about the appearance of the unpigmented patches, which may be more noticeable in darker-skinned people. Aside from these potential issues, this condition has no effect on the health of the affected individual.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000797-2" qtype="frequency">How many people are affected by piebaldism ?</Question>
+			<Answer>The prevalence of piebaldism is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000797-3" qtype="genetic changes">What are the genetic changes related to piebaldism ?</Question>
+			<Answer>Piebaldism can be caused by mutations in the KIT and SNAI2 genes. Piebaldism may also be a feature of other conditions, such as Waardenburg syndrome; these conditions have other genetic causes and additional signs and symptoms.  The KIT gene provides instructions for making a protein that is involved in signaling within cells. KIT protein signaling is important for the development of certain cell types, including melanocytes. The KIT gene mutations responsible for piebaldism lead to a nonfunctional KIT protein. The loss of KIT signaling is thought to disrupt the growth and division (proliferation) and movement (migration) of melanocytes during development, resulting in patches of skin that lack pigmentation.  The SNAI2 gene (often called SLUG) provides instructions for making a protein called snail 2. Research indicates that the snail 2 protein is required during embryonic growth for the development of cells called neural crest cells. Neural crest cells migrate from the developing spinal cord to specific regions in the embryo and give rise to many tissues and cell types, including melanocytes. The snail 2 protein probably plays a role in the formation and survival of melanocytes. SNAI2 gene mutations that cause piebaldism probably reduce the production of the snail 2 protein. Shortage of the snail 2 protein may disrupt the development of melanocytes in certain areas of the skin and hair, causing the patchy loss of pigment.  Piebaldism is sometimes mistaken for another condition called vitiligo, which also causes unpigmented patches of skin. People are not born with vitiligo, but acquire it later in life, and it is not caused by specific genetic mutations. For unknown reasons, in people with vitiligo the immune system appears to damage the melanocytes in the skin.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000797-4" qtype="inheritance">Is piebaldism inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000797-5" qtype="treatment">What are the treatments for piebaldism ?</Question>
+			<Answer>These resources address the diagnosis or management of piebaldism:  - Genetic Testing Registry: Partial albinism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

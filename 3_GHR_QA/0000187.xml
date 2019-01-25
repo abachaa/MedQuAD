@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000187" source="GHR" url="https://ghr.nlm.nih.gov/condition/chst3-related-skeletal-dysplasia">
+<Focus>CHST3-related skeletal dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0410528</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal recessive Larsen syndrome</Synonym>
+		<Synonym>CDMD</Synonym>
+		<Synonym>chondrodysplasia with multiple dislocations</Synonym>
+		<Synonym>humero-spinal dysostosis</Synonym>
+		<Synonym>SED with luxations, CHST3 type</Synonym>
+		<Synonym>SED, Omani type</Synonym>
+		<Synonym>spondyloepiphyseal dysplasia with congenital joint dislocations</Synonym>
+		<Synonym>spondyloepiphyseal dysplasia, Omani type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000187-1" qtype="information">What is (are) CHST3-related skeletal dysplasia ?</Question>
+			<Answer>CHST3-related skeletal dysplasia is a genetic condition characterized by bone and joint abnormalities that worsen over time. Affected individuals have short stature throughout life, with an adult height under 4 and a half feet. Joint dislocations, most often affecting the knees, hips, and elbows, are present at birth (congenital). Other bone and joint abnormalities can include an inward- and upward-turning foot (clubfoot), a limited range of motion in large joints, and abnormal curvature of the spine. The features of CHST3-related skeletal dysplasia are usually limited to the bones and joints; however, minor heart defects have been reported in a few affected individuals.  Researchers have not settled on a preferred name for this condition. It is sometimes known as autosomal recessive Larsen syndrome based on its similarity to another skeletal disorder called Larsen syndrome. Other names that have been used to describe the condition include spondyloepiphyseal dysplasia, Omani type; humero-spinal dysostosis; and chondrodysplasia with multiple dislocations. Recently, researchers have proposed the umbrella term CHST3-related skeletal dysplasia to refer to bone and joint abnormalities resulting from mutations in the CHST3 gene.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000187-2" qtype="frequency">How many people are affected by CHST3-related skeletal dysplasia ?</Question>
+			<Answer>The prevalence of CHST3-related skeletal dysplasia is unknown. More than 30 affected individuals have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000187-3" qtype="genetic changes">What are the genetic changes related to CHST3-related skeletal dysplasia ?</Question>
+			<Answer>As its name suggests, CHST3-related skeletal dysplasia results from mutations in the CHST3 gene. This gene provides instructions for making an enzyme called C6ST-1, which is essential for the normal development of cartilage. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Mutations in the CHST3 gene reduce or eliminate the activity of the C6ST-1 enzyme. A shortage of this enzyme disrupts the normal development of cartilage and bone, resulting in the abnormalities associated with CHST3-related skeletal dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000187-4" qtype="inheritance">Is CHST3-related skeletal dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000187-5" qtype="treatment">What are the treatments for CHST3-related skeletal dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of CHST3-related skeletal dysplasia:  - Gene Review: Gene Review: CHST3-Related Skeletal Dysplasia  - Genetic Testing Registry: Spondyloepiphyseal dysplasia with congenital joint dislocations   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

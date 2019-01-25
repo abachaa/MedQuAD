@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000015" source="GHR" url="https://ghr.nlm.nih.gov/condition/adcy5-related-dyskinesia">
+<Focus>ADCY5-related dyskinesia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial dyskinesia with facial myokymia</Synonym>
+		<Synonym>FDFM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000015-1" qtype="information">What is (are) ADCY5-related dyskinesia ?</Question>
+			<Answer>ADCY5-related dyskinesia is a movement disorder; the term &quot;dyskinesia&quot; refers to abnormal involuntary movements. The abnormal movements that occur in ADCY5-related dyskinesia typically appear as sudden (paroxysmal) jerks, twitches, tremors, muscle tensing (dystonia), or writhing (choreiform) movements, and can affect the limbs, neck, and face.  The abnormal movements associated with ADCY5-related dyskinesia usually begin between infancy and late adolescence. They can occur continually during waking hours and in some cases also during sleep. Severely affected infants may experience weak muscle tone (hypotonia) and delay in development of motor skills such as crawling and walking; these individuals may have difficulties with activities of daily living and may eventually require a wheelchair. In more mildly affected individuals, the condition has little impact on walking and other motor skills, although the abnormal movements can lead to clumsiness or difficulty with social acceptance in school or other situations.  In some people with ADCY5-related dyskinesia, the disorder is generally stable throughout their lifetime. In others, it slowly gets worse (progresses) in both frequency and severity before stabilizing or even improving in middle age. Anxiety, fatigue, and other stress can temporarily increase the severity of the signs and symptoms of ADCY5-related dyskinesia, while some affected individuals may experience remission periods of days or weeks without abnormal movements. Life expectancy and intelligence are unaffected by this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000015-2" qtype="frequency">How many people are affected by ADCY5-related dyskinesia ?</Question>
+			<Answer>The prevalence of ADCY5-related dyskinesia is unknown. At least 50 affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000015-3" qtype="genetic changes">What are the genetic changes related to ADCY5-related dyskinesia ?</Question>
+			<Answer>As its name suggests, ADCY5-related dyskinesia is caused by mutations in the ADCY5 gene. This gene provides instructions for making an enzyme called adenylate cyclase 5. This enzyme helps convert a molecule called adenosine triphosphate (ATP) to another molecule called cyclic adenosine monophosphate (cAMP). ATP is a molecule that supplies energy for cells&apos; activities, including muscle contraction, and cAMP is involved in signaling for many cellular functions. Some ADCY5 gene mutations that cause ADCY5-related dyskinesia are thought to increase adenylate cyclase 5 enzyme activity and the level of cAMP within cells. Others prevent production of adenylate cyclase 5. It is unclear how either type of mutation leads to the abnormal movements that occur in this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000015-4" qtype="inheritance">Is ADCY5-related dyskinesia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000015-5" qtype="treatment">What are the treatments for ADCY5-related dyskinesia ?</Question>
+			<Answer>These resources address the diagnosis or management of ADCY5-related dyskinesia:  - Gene Review: Gene Review: ADCY5-Related Dyskinesia  - Genetic Testing Registry: Dyskinesia, familial, with facial myokymia  - National Ataxia Foundation: Movement Disorder Clinics   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

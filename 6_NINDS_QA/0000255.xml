@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000255" source="NINDS" url="http://www.ninds.nih.gov/disorders/spasticity/spasticity.htm">
+<Focus>Spasticity</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026838</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000255-1" qtype="information">What is (are) Spasticity ?</Question>
+			<Answer>Spasticity is a condition in which there is an abnormal increase in muscle tone or stiffness of muscle, which might interfere with movement, speech, or be associated with discomfort or pain. Spasticity is usually caused by damage to nerve pathways within the brain or spinal cord that control muscle movement. It may occur in association with spinal cord injury, multiple sclerosis, cerebral palsy, stroke, brain or head trauma, amyotrophic lateral sclerosis, hereditary spastic paraplegias, and metabolic diseases such as adrenoleukodystrophy, phenylketonuria, and Krabbe disease. Symptoms may include hypertonicity (increased muscle tone), clonus (a series of rapid muscle contractions), exaggerated deep tendon reflexes, muscle spasms, scissoring (involuntary crossing of the legs), and fixed joints (contractures). The degree of spasticity varies from mild muscle stiffness to severe, painful, and uncontrollable muscle spasms. Spasticity can interfere with rehabilitation in patients with certain disorders, and often interferes with daily activities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000255-2" qtype="treatment">What are the treatments for Spasticity ?</Question>
+			<Answer>Treatment may include such medications as baclofen, diazepam, tizanidine or clonazepam. Physical therapy regimens may include muscle stretching and range of motion exercises to help prevent shrinkage or shortening of muscles and to reduce the severity of symptoms. Targeted injection of botulinum toxin into muscles with the most tome can help to selectively weaken these muscles to improve range of motion and function. Surgery may be recommended for tendon release or to sever the nerve-muscle pathway.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000255-3" qtype="outlook">What is the outlook for Spasticity ?</Question>
+			<Answer>The prognosis for those with spasticity depends on the severity of the spasticity and the associated disorder(s).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000255-4" qtype="research">what research (or clinical trials) is being done for Spasticity ?</Question>
+			<Answer>The NINDS supports research on brain and spinal cord disorders that can cause spasticity. The goals of this research are to increase scientific understanding about these disorders and to find ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

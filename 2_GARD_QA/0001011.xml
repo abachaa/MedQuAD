@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001011" source="GARD" url="https://rarediseases.info.nih.gov/gard/4421/catecholaminergic-polymorphic-ventricular-tachycardia">
+<Focus>Catecholaminergic polymorphic ventricular tachycardia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1631597</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial polymorphic ventricular tachycardia</Synonym>
+		<Synonym>Catecholamine-induced polymorphic ventricular tachycardia</Synonym>
+		<Synonym>CVPT</Synonym>
+		<Synonym>Syncopal paroxysmal tachycardia</Synonym>
+		<Synonym>Polymorphic catecholergic ventricular tachycardia</Synonym>
+		<Synonym>Familial ventricular tachycardia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001011-1" qtype="information">What is (are) Catecholaminergic polymorphic ventricular tachycardia ?</Question>
+			<Answer>Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a genetic disorder that causes an abnormally fast and irregular heart rhythm in response to physical activity or emotional stress. Signs and symptoms include light-headedness, dizziness, and fainting. Symptoms most often develop between 7 to 9 years of age.  If untreated CPVT can cause a heart attack and death. CPVT is caused by mutations in the RYR2 or CASQ2 genes. When a RYR2 gene mutation is involved, the condition is passed through families in an autosomal dominant fashion. When CASQ2 gene mutations are involved, the condition is inherited in an autosomal recessive fashion. In some cases the underlying cause can not be determined. Beta blockers are used to treat CPVT.  An Implantable Cardioverter Defibrillator (ICD) may also be needed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001011-2" qtype="symptoms">What are the symptoms of Catecholaminergic polymorphic ventricular tachycardia ?</Question>
+			<Answer>What are the signs and symptoms of Catecholaminergic polymorphic ventricular tachycardia? The Human Phenotype Ontology provides the following list of signs and symptoms for Catecholaminergic polymorphic ventricular tachycardia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Vertigo 50% Sudden cardiac death 7.5% Autosomal dominant inheritance - Seizures - Sudden death - Syncope - Ventricular tachycardia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001011-3" qtype="treatment">What are the treatments for Catecholaminergic polymorphic ventricular tachycardia ?</Question>
+			<Answer>Do all people with catecholaminergic polymorphic ventricular tachycardia require treatment? It has been recommended that all people clinically diagnosed with catecholaminergic polymorphic ventricular tachycardia (CPVT) receive treatment. Some individuals who have never had or demonstrated symptoms of CPVT, for example asymptomatic family members with CASQ2 gene mutations, may still benefit from treatment. We recommend that you speak with your healthcare provider regarding your treatment options.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

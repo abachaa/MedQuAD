@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000428" source="GHR" url="https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-vii">
+<Focus>glycogen storage disease type VII</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0267971</CUI>
+			<CUI>C0017926</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>glycogenosis 7</Synonym>
+		<Synonym>GSD VII</Synonym>
+		<Synonym>GSD7</Synonym>
+		<Synonym>muscle phosphofructokinase deficiency</Synonym>
+		<Synonym>PFKM deficiency</Synonym>
+		<Synonym>phosphofructokinase deficiency</Synonym>
+		<Synonym>Tarui disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000428-1" qtype="information">What is (are) glycogen storage disease type VII ?</Question>
+			<Answer>Glycogen storage disease type VII (GSDVII) is an inherited disorder caused by an inability to break down a complex sugar called glycogen in muscle cells. A lack of glycogen breakdown interferes with the function of muscle cells.  There are four types of GSDVII. They are differentiated by their signs and symptoms and the age at which symptoms first appear.  The classical form of GSDVII is the most common form. Its features usually appear in childhood. This form is characterized by muscle pain and cramps, often following moderate exercise; strenuous exercise can lead to nausea and vomiting. During exercise, muscle tissue can be abnormally broken down, releasing a protein called myoglobin. This protein is processed by the kidneys and released in the urine (myoglobinuria). If untreated, myoglobinuria can damage the kidneys and lead to kidney failure. Some people with the classical form of GSDVII develop high levels of a waste product called uric acid in the blood (hyperuricemia) because the damaged kidneys are unable to remove uric acid effectively. Affected individuals may also have elevated levels of a molecule called bilirubin in the blood that can cause yellowing of the skin and whites of the eyes (jaundice). Individuals with classical GSDVII often have elevated levels of an enzyme called creatine kinase in their blood. This finding is a common indicator of muscle disease.  Infants with the severe infantile form of GSDVII have low muscle tone (hypotonia) at birth, which leads to muscle weakness (myopathy) that worsens over time. Affected infants have a weakened and enlarged heart (cardiomyopathy) and difficulty breathing normally. Individuals with this form of GSDVII usually do not survive past their first year of life.  In the late-onset form of GSDVII, myopathy is typically the only feature. The muscle weakness appears in adulthood, although some individuals have difficulty with sustained exercise starting in childhood. The weakness generally affects the muscles closest to the center of the body (proximal muscles).  The hemolytic form of GSDVII is characterized by hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely, causing a shortage of red blood cells (anemia). People with the hemolytic form of GSDVII do not experience any signs or symptoms of muscle pain or weakness related to the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000428-2" qtype="frequency">How many people are affected by glycogen storage disease type VII ?</Question>
+			<Answer>GSDVII is thought to be a rare condition; more than 100 cases have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000428-3" qtype="genetic changes">What are the genetic changes related to glycogen storage disease type VII ?</Question>
+			<Answer>Mutations in the PFKM gene cause GSDVII. This gene provides instructions for making one piece (the PFKM subunit) of an enzyme called phosphofructokinase, which plays a role in the breakdown of glycogen. The phosphofructokinase enzyme is made up of four subunits and is found in a variety of tissues. Different combinations of subunits are found in different tissues. In muscles used for movement (skeletal muscles), the phosphofructokinase enzyme is composed solely of PFKM subunits.  In skeletal muscle, the cells&apos; main source of energy is stored as glycogen. Glycogen can be broken down rapidly into the simple sugar glucose when energy is needed, for instance to maintain normal blood sugar levels between meals or for energy during exercise. Phosphofructokinase is involved in the sequence of events that breaks down glycogen to provide energy to muscle cells.  PFKM gene mutations result in the production of PFKM subunits that have little or no function. As a result, no functional phosphofructokinase is formed in skeletal muscles, and glycogen cannot be completely broken down. Partially broken down glycogen then builds up in muscle cells. Muscles that do not have access to glycogen as an energy source become weakened and cramped following moderate strain, such as exercise, and in some cases, begin to break down. In other tissues, other subunits that make up the phosphofructokinase enzyme likely compensate for the lack of PFKM subunits, and the enzyme is able to retain some function. This compensation may help explain why other tissues are not affected by PFKM gene mutations. It is unclear why some individuals with GSDVII are affected with more severe forms of the disorder than others.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000428-4" qtype="inheritance">Is glycogen storage disease type VII inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000428-5" qtype="treatment">What are the treatments for glycogen storage disease type VII ?</Question>
+			<Answer>These resources address the diagnosis or management of glycogen storage disease type VII:  - Genetic Testing Registry: Glycogen storage disease, type VII  - The Swedish Information Centre for Rare Diseases   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

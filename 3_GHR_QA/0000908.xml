@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000908" source="GHR" url="https://ghr.nlm.nih.gov/condition/sialidosis">
+<Focus>sialidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268226</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cherry red spot myoclonus syndrome</Synonym>
+		<Synonym>mucolipidosis I</Synonym>
+		<Synonym>mucolipidosis type I</Synonym>
+		<Synonym>myoclonus cherry red spot syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000908-1" qtype="information">What is (are) sialidosis ?</Question>
+			<Answer>Sialidosis is a severe inherited disorder that affects many organs and tissues, including the nervous system. This disorder is divided into two types, which are distinguished by the age at which symptoms appear and the severity of features.  Sialidosis type I, also referred to as cherry-red spot myoclonus syndrome, is the less severe form of this condition. People with type I develop signs and symptoms of sialidosis in their teens or twenties. Initially, affected individuals experience problems walking (gait disturbance) and/or a loss of sharp vision (reduced visual acuity). Individuals with sialidosis type I also experience muscle twitches (myoclonus), difficulty coordinating movements (ataxia), leg tremors, and seizures. The myoclonus worsens over time, causing difficulty sitting, standing, or walking. People with sialidosis type I eventually require wheelchair assistance. Affected individuals have progressive vision problems, including impaired color vision or night blindness. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. Sialidosis type I does not affect intelligence or life expectancy.  Sialidosis type II, the more severe type of the disorder, is further divided into congenital, infantile, and juvenile forms. The features of congenital sialidosis type II can develop before birth. This form of sialidosis is associated with an abnormal buildup of fluid in the abdominal cavity (ascites) or widespread swelling before birth caused by fluid accumulation (hydrops fetalis). Affected infants may also have an enlarged liver and spleen (hepatosplenomegaly), abnormal bone development (dysostosis multiplex), and distinctive facial features that are often described as &quot;coarse.&quot; As a result of these serious health problems, individuals with congenital sialidosis type II usually are stillborn or die soon after birth.  Infantile sialidosis type II shares some features with the congenital form, although the signs and symptoms are slightly less severe and begin within the first year of life. Features of the infantile form include hepatosplenomegaly, dysostosis multiplex, &quot;coarse&quot; facial features, short stature, and intellectual disability. As children with infantile sialidosis type II get older, they may develop myoclonus and cherry-red spots. Other signs and symptoms include hearing loss, overgrowth of the gums (gingival hyperplasia), and widely spaced teeth. Affected individuals may survive into childhood or adolescence.  The juvenile form has the least severe signs and symptoms of the different forms of sialidosis type II. Features of this condition usually appear in late childhood and may include mildly &quot;coarse&quot; facial features, mild bone abnormalities, cherry-red spots, myoclonus, intellectual disability, and dark red spots on the skin (angiokeratomas). The life expectancy of individuals with juvenile sialidosis type II varies depending on the severity of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000908-2" qtype="frequency">How many people are affected by sialidosis ?</Question>
+			<Answer>The overall prevalence of sialidosis is unknown. Sialidosis type I appears to be more common in people with Italian ancestry.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000908-3" qtype="genetic changes">What are the genetic changes related to sialidosis ?</Question>
+			<Answer>Mutations in the NEU1 gene cause sialidosis. This gene provides instructions for making an enzyme called neuraminidase 1 (NEU1), which is found in lysosomes. Lysosomes are compartments within the cell that use enzymes to digest and recycle materials. The NEU1 enzyme helps break down large sugar molecules attached to certain proteins by removing a substance known as sialic acid.  Mutations in the NEU1 gene lead to a shortage (deficiency) of the NEU1 enzyme. When this enzyme is lacking, sialic acid-containing compounds accumulate inside lysosomes. Conditions such as sialidosis that cause molecules to build up inside lysosomes are called lysosomal storage disorders. People with sialidosis type II have mutations that severely reduce or eliminate NEU1 enzyme activity. Individuals with sialidosis type I have mutations that result in some functional NEU1 enzyme. It is unclear exactly how the accumulation of large molecules within lysosomes leads to the signs and symptoms of sialidosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000908-4" qtype="inheritance">Is sialidosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000908-5" qtype="treatment">What are the treatments for sialidosis ?</Question>
+			<Answer>These resources address the diagnosis or management of sialidosis:  - Genetic Testing Registry: Sialidosis type I  - Genetic Testing Registry: Sialidosis, type II  - MedlinePlus Encyclopedia: Ascites  - MedlinePlus Encyclopedia: Hydrops Fetalis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

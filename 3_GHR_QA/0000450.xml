@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000450" source="GHR" url="https://ghr.nlm.nih.gov/condition/hemophilia">
+<Focus>hemophilia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0684275</CUI>
+			<CUI>C0019069</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hemophilia, familial</Synonym>
+		<Synonym>Hemophilia, hereditary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000450-1" qtype="information">What is (are) hemophilia ?</Question>
+			<Answer>Hemophilia is a bleeding disorder that slows the blood clotting process. People with this condition experience prolonged bleeding or oozing following an injury, surgery, or having a tooth pulled. In severe cases of hemophilia, continuous bleeding occurs after minor trauma or even in the absence of injury (spontaneous bleeding). Serious complications can result from bleeding into the joints, muscles, brain, or other internal organs. Milder forms of hemophilia do not necessarily involve spontaneous bleeding, and the condition may not become apparent until abnormal bleeding occurs following surgery or a serious injury.  The major types of this condition are hemophilia A (also known as classic hemophilia or factor VIII deficiency) and hemophilia B (also known as Christmas disease or factor IX deficiency). Although the two types have very similar signs and symptoms, they are caused by mutations in different genes. People with an unusual form of hemophilia B, known as hemophilia B Leyden, experience episodes of excessive bleeding in childhood but have few bleeding problems after puberty.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000450-2" qtype="frequency">How many people are affected by hemophilia ?</Question>
+			<Answer>The two major forms of hemophilia occur much more commonly in males than in females. Hemophilia A is the most common type of the condition; 1 in 4,000 to 1 in 5,000 males worldwide are born with this disorder. Hemophilia B occurs in approximately 1 in 20,000 newborn males worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000450-3" qtype="genetic changes">What are the genetic changes related to hemophilia ?</Question>
+			<Answer>Changes in the F8 gene are responsible for hemophilia A, while mutations in the F9 gene cause hemophilia B. The F8 gene provides instructions for making a protein called coagulation factor VIII. A related protein, coagulation factor IX, is produced from the F9 gene. Coagulation factors are proteins that work together in the blood clotting process. After an injury, blood clots protect the body by sealing off damaged blood vessels and preventing excessive blood loss.  Mutations in the F8 or F9 gene lead to the production of an abnormal version of coagulation factor VIII or coagulation factor IX, or reduce the amount of one of these proteins. The altered or missing protein cannot participate effectively in the blood clotting process. As a result, blood clots cannot form properly in response to injury. These problems with blood clotting lead to continuous bleeding that can be difficult to control. The mutations that cause severe hemophilia almost completely eliminate the activity of coagulation factor VIII or coagulation factor IX. The mutations responsible for mild and moderate hemophilia reduce but do not eliminate the activity of one of these proteins.  Another form of the disorder, known as acquired hemophilia, is not caused by inherited gene mutations. This rare condition is characterized by abnormal bleeding into the skin, muscles, or other soft tissues, usually beginning in adulthood. Acquired hemophilia results when the body makes specialized proteins called autoantibodies that attack and disable coagulation factor VIII. The production of autoantibodies is sometimes associated with pregnancy, immune system disorders, cancer, or allergic reactions to certain drugs. In about half of cases, the cause of acquired hemophilia is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000450-4" qtype="inheritance">Is hemophilia inherited ?</Question>
+			<Answer>Hemophilia A and hemophilia B are inherited in an X-linked recessive pattern. The genes associated with these conditions are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, it is very rare for females to have hemophilia. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one altered copy of the gene in each cell is called a carrier. Carrier females have about half the usual amount of coagulation factor VIII or coagulation factor IX, which is generally enough for normal blood clotting. However, about 10 percent of carrier females have less than half the normal amount of one of these coagulation factors; these individuals are at risk for abnormal bleeding, particularly after an injury, surgery, or tooth extraction.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000450-5" qtype="treatment">What are the treatments for hemophilia ?</Question>
+			<Answer>These resources address the diagnosis or management of hemophilia:  - Gene Review: Gene Review: Hemophilia A  - Gene Review: Gene Review: Hemophilia B  - Genetic Testing Registry: HEMOPHILIA B(M)  - Genetic Testing Registry: Hemophilia  - Genetic Testing Registry: Hereditary factor IX deficiency disease  - Genetic Testing Registry: Hereditary factor VIII deficiency disease  - Genomics Education Programme (UK): Haemophilia A  - MedlinePlus Encyclopedia: Factor IX Assay  - MedlinePlus Encyclopedia: Factor VIII Assay  - MedlinePlus Encyclopedia: Hemophilia A  - MedlinePlus Encyclopedia: Hemophilia B  - National Heart, Lung, and Blood Institute: How is Hemophilia Diagnosed?  - National Heart, Lung, and Blood Institute: How is Hemophilia Treated?  - National Hemophilia Foundation: Hemophilia Treatment Centers   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

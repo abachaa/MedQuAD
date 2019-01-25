@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000846" source="GHR" url="https://ghr.nlm.nih.gov/condition/pseudoxanthoma-elasticum">
+<Focus>pseudoxanthoma elasticum</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033847</CUI>
+			<CUI>C0473583</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Groenblad-Strandberg syndrome</Synonym>
+		<Synonym>Gronblad-Strandberg syndrome</Synonym>
+		<Synonym>PXE</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000846-1" qtype="information">What is (are) pseudoxanthoma elasticum ?</Question>
+			<Answer>Pseudoxanthoma elasticum (PXE) is a progressive disorder that is characterized by the accumulation of deposits of calcium and other minerals (mineralization) in elastic fibers. Elastic fibers are a component of connective tissue, which provides strength and flexibility to structures throughout the body.  In PXE, mineralization can affect elastic fibers in the skin, eyes, and blood vessels, and less frequently in other areas such as the digestive tract. People with PXE may have yellowish bumps called papules on their necks, underarms, and other areas of skin that touch when a joint bends (flexor areas). They may also have abnormalities in the eyes, such as a change in the pigmented cells of the retina (the light-sensitive layer of cells at the back of the eye) known as peau d&apos;orange. Another eye abnormality known as angioid streaks occurs when tiny breaks form in the layer of tissue under the retina called Bruch&apos;s membrane. Bleeding and scarring of the retina may also occur, which can cause vision loss.  Mineralization of the blood vessels that carry blood from the heart to the rest of the body (arteries) may cause other signs and symptoms of PXE. For example, people with this condition can develop narrowing of the arteries (arteriosclerosis) or a condition called claudication that is characterized by cramping and pain during exercise due to decreased blood flow to the arms and legs. Rarely, bleeding from blood vessels in the digestive tract may also occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000846-2" qtype="frequency">How many people are affected by pseudoxanthoma elasticum ?</Question>
+			<Answer>PXE affects approximately 1 in 50,000 people worldwide. For reasons that are unclear, this disorder is diagnosed twice as frequently in females as in males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000846-3" qtype="genetic changes">What are the genetic changes related to pseudoxanthoma elasticum ?</Question>
+			<Answer>Mutations in the ABCC6 gene cause PXE. This gene provides instructions for making a protein called MRP6 (also known as the ABCC6 protein). This protein is found primarily in cells of the liver and kidneys, with small amounts in other tissues, including the skin, stomach, blood vessels, and eyes. MRP6 is thought to transport certain substances across the cell membrane; however, the substances have not been identified. Some studies suggest that the MRP6 protein stimulates the release of a molecule called adenosine triphosphate (ATP) from cells through an unknown mechanism. ATP can be broken down into other molecules, including adenosine monophosphate (AMP) and pyrophosphate. Pyrophosphate helps control deposition of calcium and other minerals in the body. Other studies suggest that a substance transported by MRP6 is involved in the breakdown of ATP. This unidentified substance is thought to help prevent mineralization of tissues.  Mutations in the ABCC6 gene lead to an absent or nonfunctional MRP6 protein. It is unclear how a lack of properly functioning MRP6 protein leads to PXE. This shortage may impair the release of ATP from cells. As a result, little pyrophosphate is produced, and calcium and other minerals accumulate in elastic fibers of the skin, eyes, blood vessels and other tissues affected by PXE. Alternatively, a lack of functioning MRP6 may impair the transport of a substance that would normally prevent mineralization, leading to the abnormal accumulation of calcium and other minerals characteristic of PXE.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000846-4" qtype="inheritance">Is pseudoxanthoma elasticum inherited ?</Question>
+			<Answer>PXE is inherited in an autosomal recessive manner, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.  In a few cases, an affected individual has one affected parent and one parent without the signs and symptoms of the disorder. This situation resembles autosomal dominant inheritance, in which one copy of an altered gene in each cell is sufficient to cause a disorder and the mutation is typically inherited from one affected parent. In these cases of PXE, however, the parent without apparent symptoms has an ABCC6 gene mutation. The affected offspring inherits two altered genes, one from each parent. This appearance of autosomal dominant inheritance when the pattern is actually autosomal recessive is called pseudodominance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000846-5" qtype="treatment">What are the treatments for pseudoxanthoma elasticum ?</Question>
+			<Answer>These resources address the diagnosis or management of pseudoxanthoma elasticum:  - Gene Review: Gene Review: Pseudoxanthoma Elasticum  - Genetic Testing Registry: Pseudoxanthoma elasticum   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

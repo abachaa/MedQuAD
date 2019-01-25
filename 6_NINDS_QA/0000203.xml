@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000203" source="NINDS" url="http://www.ninds.nih.gov/disorders/msa/msa.htm">
+<Focus>Multiple System Atrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393571</CUI>
+			<CUI>C0037019</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000203-1" qtype="information">What is (are) Multiple System Atrophy ?</Question>
+			<Answer>Multiple system atrophy (MSA) is a progressive neurodegenerative disorder characterized by symptoms of autonomic nervous system failure such as fainting spells and bladder control problems, combined with motor control symptoms such as tremor, rigidity, and loss of muscle coordination. MSA affects both men and women primarily in their 50s. Although what causes MSA is unknown, the disorder&apos;s symptoms reflect the loss of nerve cells in several different areas in the brain and spinal cord that control the autonomic nervous system and coordinate muscle movements. The loss of nerve cells may be due to the buildup of a protein called alpha-synuclein in the cells that support nerve cells in the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000203-2" qtype="treatment">What are the treatments for Multiple System Atrophy ?</Question>
+			<Answer>There is no cure for MSA. Currently, there are no treatments to delay the progress of neurodegeneration in the brain. But there are treatments available to help people cope with some of the more disabling symptoms of MSA. In some individuals, levodopa may improve motor function, but the benefit may not continue as the disease progresses.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000203-3" qtype="outlook">What is the outlook for Multiple System Atrophy ?</Question>
+			<Answer>The disease tends to advance rapidly over the course of 5 to 10 years, with progressive loss of motor skills, eventual confinement to bed, and death. There is no remission from the disease. There is currently no cure.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000203-4" qtype="research">what research (or clinical trials) is being done for Multiple System Atrophy ?</Question>
+			<Answer>The NINDS supports research about MSA through grants to major medical institutions across the country. Researchers hope to learn why alpha-synuclein buildup occurs in MSA and Parkinsons disease, and how to prevent it. Drugs that reduce the abnormal alpha-synuclein buildup may be promising treatments for MSA</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

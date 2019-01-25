@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000321" source="GHR" url="https://ghr.nlm.nih.gov/condition/epidermolysis-bullosa-with-pyloric-atresia">
+<Focus>epidermolysis bullosa with pyloric atresia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1856934</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Carmi syndrome</Synonym>
+		<Synonym>EB-PA</Synonym>
+		<Synonym>junctional epidermolysis bullosa with pyloric atresia</Synonym>
+		<Synonym>PA-JEB</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000321-1" qtype="information">What is (are) epidermolysis bullosa with pyloric atresia ?</Question>
+			<Answer>Epidermolysis bullosa with pyloric atresia (EB-PA) is a condition that affects the skin and digestive tract. This condition is one of several forms of epidermolysis bullosa, a group of genetic conditions that cause the skin to be fragile and to blister easily. Affected infants are often born with widespread blistering and areas of missing skin. Blisters continue to appear in response to minor injury or friction, such as rubbing or scratching. Most often, blisters occur over the whole body and affect mucous membranes such as the moist lining of the mouth and digestive tract.  People with EB-PA are also born with pyloric atresia, which is an obstruction of the lower part of the stomach (the pylorus). This obstruction prevents food from emptying out of the stomach into the intestine. Signs of pyloric atresia include vomiting, a swollen (distended) abdomen, and an absence of stool. Pyloric atresia is life-threatening and must be repaired with surgery soon after birth.  Other complications of EB-PA can include fusion of the skin between the fingers and toes, abnormalities of the fingernails and toenails, joint deformities (contractures) that restrict movement, and hair loss (alopecia). Some affected individuals are also born with malformations of the urinary tract, including the kidneys and bladder.  Because the signs and symptoms of EB-PA are so severe, many infants with this condition do not survive beyond the first year of life. In those who survive, the condition may improve with time; some affected individuals have little or no blistering later in life. However, many affected individuals who live past infancy experience severe medical problems, including blistering and the formation of red, bumpy patches called granulation tissue. Granulation tissue most often forms on the skin around the mouth, nose, fingers, and toes. It can also build up in the airway, leading to difficulty breathing.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000321-2" qtype="frequency">How many people are affected by epidermolysis bullosa with pyloric atresia ?</Question>
+			<Answer>EB-PA appears to be a rare condition, although its prevalence is unknown. At least 50 affected individuals have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000321-3" qtype="genetic changes">What are the genetic changes related to epidermolysis bullosa with pyloric atresia ?</Question>
+			<Answer>EB-PA can be caused by mutations in the ITGA6, ITGB4, and PLEC genes. These genes provide instructions for making proteins with critical roles in the skin and digestive tract.  ITGB4 gene mutations are the most common cause of EB-PA; these mutations are responsible for about 80 percent of all cases. ITGA6 gene mutations cause about 5 percent of cases. The proteins produced from the ITGA6 and ITGB4 genes join to form a protein known as 64 integrin. This protein plays an important role in strengthening and stabilizing the skin by helping to attach the top layer of skin (the epidermis) to underlying layers. Mutations in either the ITGA6 gene or the ITGB4 gene lead to the production of a defective or nonfunctional version of 64 integrin, or prevent cells from making any of this protein. A shortage of functional 64 integrin causes cells in the epidermis to be fragile and easily damaged. Friction or other minor trauma can cause the skin layers to separate, leading to the formation of blisters.  About 15 percent of all cases of EB-PA result from mutations in the PLEC gene. This gene provides instructions for making a protein called plectin. Like 64 integrin, plectin helps attach the epidermis to underlying layers of skin. Some PLEC gene mutations prevent the cell from making any functional plectin, while other mutations result in an abnormal form of the protein. When plectin is altered or missing, the skin is less resistant to friction and minor trauma and blisters easily.  Researchers are working to determine how mutations in the ITGA6, ITGB4, and PLEC genes lead to pyloric atresia in people with EB-PA. Studies suggest that these genes are important for the normal development of the digestive tract.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000321-4" qtype="inheritance">Is epidermolysis bullosa with pyloric atresia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000321-5" qtype="treatment">What are the treatments for epidermolysis bullosa with pyloric atresia ?</Question>
+			<Answer>These resources address the diagnosis or management of epidermolysis bullosa with pyloric atresia:  - Epidermolysis Bullosa Center, Cincinnati Children&apos;s Hospital Medical Center  - Gene Review: Gene Review: Epidermolysis Bullosa with Pyloric Atresia  - Genetic Testing Registry: Epidermolysis bullosa simplex with pyloric atresia  - Genetic Testing Registry: Epidermolysis bullosa with pyloric atresia  - MedlinePlus Encyclopedia: Epidermolysis Bullosa   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

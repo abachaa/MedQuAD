@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005176" source="GARD" url="https://rarediseases.info.nih.gov/gard/7499/pulmonary-alveolar-proteinosis-acquired">
+<Focus>Pulmonary alveolar proteinosis acquired</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034050</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PAP</Synonym>
+		<Synonym>Pulmonary alveolar lipoproteinosis acquired</Synonym>
+		<Synonym>PAP acquired</Synonym>
+		<Synonym>Pulmonary alveolar proteinosis autoimmune</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005176-1" qtype="information">What is (are) Pulmonary alveolar proteinosis acquired ?</Question>
+			<Answer>Acquired pulmonary alveolar proteinosis (PAP) is a rare, acquired lung disorder characterized by the accumulation of grainy material consisting mostly of protein and fat (lipoproteinaceous material) in the air sacs of the lungs (alveoli). Most cases affect adults between the ages of 20-50. The symptoms can vary greatly; some individuals may not show symptoms, while others may experience progressive difficulty breathing and shortness of breath upon exertion. Other signs and symptoms may include a dry, chronic cough; fatigue; weight loss; chest pain; and a general feeling of ill health. In rare cases, the coughing up of blood, rounding and swelling of the tips of the fingers, and cyanosis may be present. Most cases occur for no known reason, but some cases may occur secondary to environmental exposures or underlying diseases; some researchers believe it may be an autoimmune disorder. The treatment varies from case to case depending upon the age of the affected individual and severity of the disease. Acquired PAP differs from congenital PAP, an extremely rare form of PAP that occurs in some newborns.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005176-2" qtype="symptoms">What are the symptoms of Pulmonary alveolar proteinosis acquired ?</Question>
+			<Answer>What are the signs and symptoms of Pulmonary alveolar proteinosis acquired? The Human Phenotype Ontology provides the following list of signs and symptoms for Pulmonary alveolar proteinosis acquired. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cyanosis 25% Alveolar proteinosis - Chest pain - Clubbing - Cough - Dyspnea - Hemoptysis - Hypoxemia - Insidious onset - Pneumonia - Polycythemia - Recurrent respiratory infections - Sporadic - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005176-3" qtype="treatment">What are the treatments for Pulmonary alveolar proteinosis acquired ?</Question>
+			<Answer>How might acquired pulmonary alveolar proteinosis be treated? The treatment of PAP varies from case to case depending upon the age of an affected individual and severity of the disease. Approximately one-third of individuals with idiopathic PAP (of unknown cause) will improve without treatment (spontaneous remission). The other two-thirds may be treated by a whole lung lavage, a procedure in which one lung is cleansed with a salt solution while the other is pumped with pure oxygen. In some cases, the procedure may need to be performed once; in others it may need to be repeated many times over several years. In secondary PAP (due to environmental exposure or an underlying disorder), removal and avoidance of the causative agent (e.g., silica exposure) or treatment of the underlying disorder may improve symptoms. Inhaled GM-CSF (granulocyte-macrophage colony-stimulating factor), a blood-stimulating medication, has been shown to improve the condition in some individuals with PAP. Lung transplantation has been used to treat adults with PAP as a last resort. According to the medical literature, in some cases, PAP has recurred in adults who have received lung transplantation.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

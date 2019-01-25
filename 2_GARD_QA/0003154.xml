@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003154" source="GARD" url="https://rarediseases.info.nih.gov/gard/7006/imerslund-grasbeck-syndrome">
+<Focus>Imerslund-Grasbeck syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1306856</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>IGS</Synonym>
+		<Synonym>Pernicious anemia, juvenile, due to selective intestinal malabsorption of vitamin B12, with proteinuria</Synonym>
+		<Synonym>Enterocyte cobalamin malabsorption</Synonym>
+		<Synonym>Defect of enterocyte intrinsic factor receptor</Synonym>
+		<Synonym>Familial megaloblastic anemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003154-1" qtype="information">What is (are) Imerslund-Grasbeck syndrome ?</Question>
+			<Answer>Imerslund-Grasbeck syndrome (IGS) is a rare condition characterized by vitamin B12 deficiency, often causing megaloblastic anemia. IGS usually appears in childhood. Other features may include failure to thrive, infections, and neurological damage. Mild proteinuria (with no signs of kidney disease) is present in about half of affected individuals. IGS is caused by mutations in either the CUBN or AMN gene and is inherited in an autosomal recessive manner. Treatment includes life-long vitamin B12 injections, with which affected individuals can stay healthy for decades.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003154-2" qtype="symptoms">What are the symptoms of Imerslund-Grasbeck syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Imerslund-Grasbeck syndrome? Affected individuals often first experience non-specific health problems, such as failure to thrive and grow, recurrent gastrointestinal or respiratory infections, pallor and fatigue. Individuals often have anemia, and about half of affected individuals also have mild proteinuria but no signs of kidney disease. Individuals may also have mild neurological damage. Congenital (present at birth) abnormalities of the urinary tract were present in some of the original reported cases. The age at diagnosis is usually anywhere from a few months of age to about 14 years of age. The Human Phenotype Ontology provides the following list of signs and symptoms for Imerslund-Grasbeck syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Childhood onset - Confusion - Dementia - Malabsorption of Vitamin B12 - Megaloblastic anemia - Paresthesia - Proteinuria - Sensory impairment - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003154-3" qtype="exams and tests">How to diagnose Imerslund-Grasbeck syndrome ?</Question>
+			<Answer>How is Imerslund-Grasbeck syndrome diagnosed? The diagnosis of Imerslund-Grasbeck syndrome (IGS) is made after a series of tests are performed. Cobalamin deficiency is typically detected first, followed by showing that cobalamin is poorly absorbed (the main cause of cobalamin deficiency). Other known causes of vitamin B12 malabsorption must then be ruled out. Lastly, it must be shown that after correcting the deficiency, the only nutrient to be poorly absorbed is vitamin B12. The diagnosis can also be confirmed by having genetic testing of the genes that are known to cause the condition. While the presence of proteinuria is strongly suggestive of IGS, not all affected individuals have proteinuria.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000661" source="GHR" url="https://ghr.nlm.nih.gov/condition/mitochondrial-complex-iii-deficiency">
+<Focus>mitochondrial complex III deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1852372</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>isolated CoQ-cytochrome c reductase deficiency</Synonym>
+		<Synonym>ubiquinone-cytochrome c oxidoreductase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000661-1" qtype="information">What is (are) mitochondrial complex III deficiency ?</Question>
+			<Answer>Mitochondrial complex III deficiency is a genetic condition that can affect several parts of the body, including the brain, kidneys, liver, heart, and the muscles used for movement (skeletal muscles). Signs and symptoms of mitochondrial complex III deficiency usually begin in infancy but can appear later.  The severity of mitochondrial complex III deficiency varies widely among affected individuals. People who are mildly affected tend to have muscle weakness (myopathy) and extreme tiredness (fatigue), particularly during exercise (exercise intolerance). More severely affected individuals have problems with multiple body systems, such as liver disease that can lead to liver failure, kidney abnormalities (tubulopathy), and brain dysfunction (encephalopathy). Encephalopathy can cause delayed development of mental and motor skills (psychomotor delay), movement problems, weak muscle tone (hypotonia), and difficulty with communication. Some affected individuals have a form of heart disease called cardiomyopathy, which can lead to heart failure. Most people with mitochondrial complex III deficiency have a buildup of a chemical called lactic acid in the body (lactic acidosis). Some affected individuals also have buildup of molecules called ketones (ketoacidosis) or high blood sugar levels (hyperglycemia). Abnormally high levels of these chemicals in the body can be life-threatening.  Mitochondrial complex III deficiency can be fatal in childhood, although individuals with mild signs and symptoms can survive into adolescence or adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000661-2" qtype="frequency">How many people are affected by mitochondrial complex III deficiency ?</Question>
+			<Answer>The prevalence of mitochondrial complex III deficiency is unknown, although the condition is thought to be rare.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000661-3" qtype="genetic changes">What are the genetic changes related to mitochondrial complex III deficiency ?</Question>
+			<Answer>Mitochondrial complex III deficiency can be caused by mutations in one of several genes. The proteins produced from these genes either are a part of or help assemble a group of proteins called complex III. The two most commonly mutated genes involved in mitochondrial complex III deficiency are MT-CYB and BCS1L. It is likely that genes that have not been identified are also involved in this condition.  Cytochrome b, produced from the MT-CYB gene, is one component of complex III, and the protein produced from the BCS1L gene is critical for the formation of the complex. Complex III is found in cell structures called mitochondria, which convert the energy from food into a form that cells can use. Complex III is one of several complexes that carry out a multistep process called oxidative phosphorylation, through which cells derive much of their energy. As a byproduct of its action in oxidative phosphorylation, complex III produces reactive oxygen species, which are harmful molecules that can damage DNA and tissues.  MT-CYB and BCS1L gene mutations impair the formation of complex III molecules. As a result, complex III activity and oxidative phosphorylation are reduced. Researchers believe that impaired oxidative phosphorylation can lead to cell death by reducing the amount of energy available in the cell. It is thought that tissues and organs that require a lot of energy, such as the brain, liver, kidneys, and skeletal muscles, are most affected by a reduction in oxidative phosphorylation. In addition, for unknown reasons, BCS1L gene mutations lead to increased overall production of reactive oxygen species, although production by complex III is reduced. Damage from reduced energy and from reactive oxygen species likely contributes to the signs and symptoms of mitochondrial complex III deficiency.  Unlike most genes, the MT-CYB gene is found in DNA located in mitochondria, called mitochondrial DNA (mtDNA). This location may help explain why some people have more severe features of the condition than others. Most of the body&apos;s cells contain thousands of mitochondria, each with one or more copies of mtDNA. These cells can have a mix of mitochondria containing mutated and unmutated DNA (heteroplasmy). When caused by MT-CYB gene mutations, the severity of mitochondrial complex III deficiency is thought to be associated with the percentage of mitochondria with the gene mutation. The other genes known to be involved in this condition are found in DNA packaged in chromosomes within the cell nucleus (nuclear DNA). It is not clear why the severity of the condition varies in people with mutations in these other genes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000661-4" qtype="inheritance">Is mitochondrial complex III deficiency inherited ?</Question>
+			<Answer>Mitochondrial complex III deficiency is usually inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  In some cases caused by mutations in the MT-CYB gene, the condition is not inherited; it is caused by new mutations in the gene that occur in people with no history of the condition in their family. Other cases caused by mutations in the MT-CYB gene are inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000661-5" qtype="treatment">What are the treatments for mitochondrial complex III deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of mitochondrial complex III deficiency:  - Gene Review: Gene Review: Mitochondrial Disorders Overview  - Genetic Testing Registry: MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 6  - Genetic Testing Registry: MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 7  - Genetic Testing Registry: MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 8  - Genetic Testing Registry: Mitochondrial complex III deficiency  - Genetic Testing Registry: Mitochondrial complex III deficiency, nuclear type 2  - Genetic Testing Registry: Mitochondrial complex III deficiency, nuclear type 3  - Genetic Testing Registry: Mitochondrial complex III deficiency, nuclear type 4  - Genetic Testing Registry: Mitochondrial complex III deficiency, nuclear type 5   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

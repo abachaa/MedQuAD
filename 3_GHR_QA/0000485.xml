@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000485" source="GHR" url="https://ghr.nlm.nih.gov/condition/holt-oram-syndrome">
+<Focus>Holt-Oram syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265264</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>atrio-digital syndrome</Synonym>
+		<Synonym>atriodigital dysplasia</Synonym>
+		<Synonym>cardiac-limb syndrome</Synonym>
+		<Synonym>heart-hand syndrome, type 1</Synonym>
+		<Synonym>HOS</Synonym>
+		<Synonym>ventriculo-radial syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000485-1" qtype="information">What is (are) Holt-Oram syndrome ?</Question>
+			<Answer>Holt-Oram syndrome is characterized by skeletal abnormalities of the hands and arms (upper limbs) and heart problems.  People with Holt-Oram syndrome have abnormally developed bones in their upper limbs. At least one abnormality in the bones of the wrist (carpal bones) is present in affected individuals. Often, these wrist bone abnormalities can be detected only by x-ray. Individuals with Holt-Oram syndrome may have additional bone abnormalities including a missing thumb, a long thumb that looks like a finger, partial or complete absence of bones in the forearm, an underdeveloped bone of the upper arm, and abnormalities of the collar bone or shoulder blades. These skeletal abnormalities may affect one or both of the upper limbs. If both upper limbs are affected, the bone abnormalities can be the same or different on each side. In cases where the skeletal abnormalities are not the same on both sides of the body, the left side is usually more severely affected than the right side.  About 75 percent of individuals with Holt-Oram syndrome have heart (cardiac) problems, which can be life-threatening. The most common problem is a defect in the muscular wall (septum) that separates the right and left sides of the heart. A hole in the septum between the upper chambers of the heart (atria) is called an atrial septal defect (ASD), and a hole in the septum between the lower chambers of the heart (ventricles) is called a ventricular septal defect (VSD). Some people with Holt-Oram syndrome have cardiac conduction disease, which is caused by abnormalities in the electrical system that coordinates contractions of the heart chambers. Cardiac conduction disease can lead to problems such as a slower-than-normal heart rate (bradycardia) or a rapid and uncoordinated contraction of the heart muscle (fibrillation). Cardiac conduction disease can occur along with other heart defects (such as ASD or VSD) or as the only heart problem in people with Holt-Oram syndrome.  The features of Holt-Oram syndrome are similar to those of a condition called Duane-radial ray syndrome; however, these two disorders are caused by mutations in different genes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000485-2" qtype="frequency">How many people are affected by Holt-Oram syndrome ?</Question>
+			<Answer>Holt-Oram syndrome is estimated to affect 1 in 100,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000485-3" qtype="genetic changes">What are the genetic changes related to Holt-Oram syndrome ?</Question>
+			<Answer>Mutations in the TBX5 gene cause Holt-Oram syndrome. This gene provides instructions for making a protein that plays a role in the development of the heart and upper limbs before birth. In particular, this gene appears to be important for the process that divides the developing heart into four chambers (cardiac septation). The TBX5 gene also appears to play a critical role in regulating the development of bones in the arm and hand. Mutations in this gene probably disrupt the development of the heart and upper limbs, leading to the characteristic features of Holt-Oram syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000485-4" qtype="inheritance">Is Holt-Oram syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000485-5" qtype="treatment">What are the treatments for Holt-Oram syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Holt-Oram syndrome:  - Gene Review: Gene Review: Holt-Oram Syndrome  - Genetic Testing Registry: Holt-Oram syndrome  - MedlinePlus Encyclopedia: Atrial Septal Defect  - MedlinePlus Encyclopedia: Skeletal Limb Abnormalities  - MedlinePlus Encyclopedia: Ventricular Septal Defect   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

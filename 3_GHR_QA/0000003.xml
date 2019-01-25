@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000003" source="GHR" url="https://ghr.nlm.nih.gov/condition/abetalipoproteinemia">
+<Focus>abetalipoproteinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000744</CUI>
+			<CUI>C1963709</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Abetalipoproteinemia neuropathy</Synonym>
+		<Synonym>acanthocytosis</Synonym>
+		<Synonym>Apolipoprotein B deficiency</Synonym>
+		<Synonym>Bassen-Kornzweig Syndrome</Synonym>
+		<Synonym>Betalipoprotein Deficiency Disease</Synonym>
+		<Synonym>Congenital betalipoprotein deficiency syndrome</Synonym>
+		<Synonym>Microsomal Triglyceride Transfer Protein Deficiency Disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000003-1" qtype="information">What is (are) abetalipoproteinemia ?</Question>
+			<Answer>Abetalipoproteinemia is an inherited disorder that affects the absorption of dietary fats, cholesterol, and fat-soluble vitamins. People affected by this disorder are not able to make certain lipoproteins, which are particles that carry fats and fat-like substances (such as cholesterol) in the blood. Specifically, people with abetalipoproteinemia are missing a group of lipoproteins called beta-lipoproteins. An inability to make beta-lipoproteins causes severely reduced absorption (malabsorption) of dietary fats and fat-soluble vitamins (vitamins A, D, E, and K) from the digestive tract into the bloodstream. Sufficient levels of fats, cholesterol, and vitamins are necessary for normal growth, development, and maintenance of the body&apos;s cells and tissues, particularly nerve cells and tissues in the eye.  The signs and symptoms of abetalipoproteinemia appear in the first few months of life. They can include failure to gain weight and grow at the expected rate (failure to thrive); diarrhea; abnormal star-shaped red blood cells (acanthocytosis); and fatty, foul-smelling stools (steatorrhea). Other features of this disorder may develop later in childhood and often impair the function of the nervous system. Disturbances in nerve function may cause affected people to eventually develop poor muscle coordination and difficulty with balance and movement (ataxia). Individuals with this condition may also develop an eye disorder called retinitis pigmentosa, in which progressive degeneration of the light-sensitive layer (retina) at the back of the eye can cause vision loss. Adults in their thirties or forties may have increasing difficulty with balance and walking. Many of the signs and symptoms of abetalipoproteinemia result from a severe vitamin deficiency, especially a deficiency of vitamin E.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000003-2" qtype="frequency">How many people are affected by abetalipoproteinemia ?</Question>
+			<Answer>Abetalipoproteinemia is a rare disorder with approximately 100 cases described worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000003-3" qtype="genetic changes">What are the genetic changes related to abetalipoproteinemia ?</Question>
+			<Answer>Mutations in the MTTP gene cause abetalipoproteinemia. The MTTP gene provides instructions for making a protein called microsomal triglyceride transfer protein, which is essential for creating beta-lipoproteins. These lipoproteins are necessary for the absorption of fats, cholesterol, and fat-soluble vitamins from the diet and the efficient transport of these substances in the bloodstream. Most of the mutations in the MTTP gene lead to the production of an abnormally short microsomal triglyceride transfer protein, which prevents the normal creation of beta-lipoproteins in the body. A lack of beta-lipoproteins causes the nutritional and neurological problems seen in people with abetalipoproteinemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000003-4" qtype="inheritance">Is abetalipoproteinemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000003-5" qtype="treatment">What are the treatments for abetalipoproteinemia ?</Question>
+			<Answer>These resources address the diagnosis or management of abetalipoproteinemia:  - Genetic Testing Registry: Abetalipoproteinaemia  - MedlinePlus Encyclopedia: Bassen-Kornzweig syndrome  - MedlinePlus Encyclopedia: Malabsorption  - MedlinePlus Encyclopedia: Retinitis pigmentosa  - MedlinePlus Encyclopedia: Stools - floating   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

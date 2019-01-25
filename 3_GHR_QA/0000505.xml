@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000505" source="GHR" url="https://ghr.nlm.nih.gov/condition/hypokalemic-periodic-paralysis">
+<Focus>hypokalemic periodic paralysis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714580</CUI>
+			<CUI>C0238358</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial Hypokalemic Periodic Paralysis</Synonym>
+		<Synonym>HOKPP</Synonym>
+		<Synonym>HypoKPP</Synonym>
+		<Synonym>HypoPP</Synonym>
+		<Synonym>Primary Hypokalemic Periodic Paralysis</Synonym>
+		<Synonym>Westphall disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000505-1" qtype="information">What is (are) hypokalemic periodic paralysis ?</Question>
+			<Answer>Hypokalemic periodic paralysis is a condition that causes episodes of extreme muscle weakness typically beginning in childhood or adolescence. Most often, these episodes involve a temporary inability to move muscles in the arms and legs. Attacks cause severe weakness or paralysis that usually lasts from hours to days. Some people may have episodes almost every day, while others experience them weekly, monthly, or only rarely. Attacks can occur without warning or can be triggered by factors such as rest after exercise, a viral illness, or certain medications. Often, a large, carbohydrate-rich meal or vigorous exercise in the evening can trigger an attack upon waking the following morning. Although affected individuals usually regain their muscle strength between attacks, repeated episodes can lead to persistent muscle weakness later in life.  People with hypokalemic periodic paralysis have reduced levels of potassium in their blood (hypokalemia) during episodes of muscle weakness. Researchers are investigating how low potassium levels may be related to the muscle abnormalities in this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000505-2" qtype="frequency">How many people are affected by hypokalemic periodic paralysis ?</Question>
+			<Answer>Although its exact prevalence is unknown, hypokalemic periodic paralysis is estimated to affect 1 in 100,000 people. Men tend to experience symptoms of this condition more often than women.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000505-3" qtype="genetic changes">What are the genetic changes related to hypokalemic periodic paralysis ?</Question>
+			<Answer>Mutations in the CACNA1S and SCN4A genes cause hypokalemic periodic paralysis.  The CACNA1S and SCN4A genes provide instructions for making proteins that play an essential role in muscles used for movement (skeletal muscles). For the body to move normally, these muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of certain positively charged atoms (ions) into muscle cells. The CACNA1S and SCN4A proteins form channels that control the flow of these ions. The channel formed by the CACNA1S protein transports calcium ions into cells, while the channel formed by the SCN4A protein transports sodium ions.  Mutations in the CACNA1S or SCN4A gene alter the usual structure and function of calcium or sodium channels. The altered channels cannot properly regulate the flow of ions into muscle cells, which reduces the ability of skeletal muscles to contract. Because muscle contraction is needed for movement, a disruption in normal ion transport leads to episodes of severe muscle weakness or paralysis.  A small percentage of people with the characteristic features of hypokalemic periodic paralysis do not have identified mutations in the CACNA1S or SCN4A gene. In these cases, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000505-4" qtype="inheritance">Is hypokalemic periodic paralysis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000505-5" qtype="treatment">What are the treatments for hypokalemic periodic paralysis ?</Question>
+			<Answer>These resources address the diagnosis or management of hypokalemic periodic paralysis:  - Gene Review: Gene Review: Hypokalemic Periodic Paralysis  - Genetic Testing Registry: Hypokalemic periodic paralysis  - MedlinePlus Encyclopedia: Hypokalemic periodic paralysis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

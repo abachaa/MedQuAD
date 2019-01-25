@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003395" source="GARD" url="https://rarediseases.info.nih.gov/gard/10175/klatskin-tumor">
+<Focus>Klatskin tumor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206702</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Klatskin's tumor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003395-1" qtype="information">What is (are) Klatskin tumor ?</Question>
+			<Answer>Klatskin tumors are tumors that affect the upper part of the bile duct where it divides to enter the right and left parts of the liver. One or both sides may be affected. Individuals with Klatskin tumors often present with jaundice and/or abnormal liver tests. Treatment may involve surgical removal of the tumor. Not all tumors can be removed. Prognosis for cases that cannot be removed (non-resectable tumors) is poor.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003395-2" qtype="symptoms">What are the symptoms of Klatskin tumor ?</Question>
+			<Answer>What are the signs and symptoms of Klatskin tumor? The symptoms associated with Klatskin tumors are usually due to blocked bile ducts. Symptoms may include: Jaundice Itching Light colored stools and/or dark urine Abdominal pain Loss of appetite / weight loss Fever Nausea / vomiting The Human Phenotype Ontology provides the following list of signs and symptoms for Klatskin tumor. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Biliary tract neoplasm 90% Hepatomegaly 50% Abdominal pain 7.5% Abnormality of temperature regulation 7.5% Lymphadenopathy 7.5% Thrombophlebitis 7.5% Weight loss 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

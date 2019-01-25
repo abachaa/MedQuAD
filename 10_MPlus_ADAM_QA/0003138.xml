@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003138" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000718.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Poisoning</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032343</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003138-1" qtype="information">What is (are) Poisoning ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003138-4" qtype="outlook">What is the outlook for Poisoning ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003138-5" qtype="prevention">How to prevent Poisoning ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

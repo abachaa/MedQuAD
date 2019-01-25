@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000250" source="GHR" url="https://ghr.nlm.nih.gov/condition/craniometaphyseal-dysplasia">
+<Focus>craniometaphyseal dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265292</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Autosomal dominant craniometaphyseal dysplasia</Synonym>
+		<Synonym>Autosomal recessive craniometaphyseal dysplasia</Synonym>
+		<Synonym>CMD</Synonym>
+		<Synonym>CMDD</Synonym>
+		<Synonym>CMDJ</Synonym>
+		<Synonym>CMDR</Synonym>
+		<Synonym>Craniometaphyseal dysplasia, Jackson type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000250-1" qtype="information">What is (are) craniometaphyseal dysplasia ?</Question>
+			<Answer>Craniometaphyseal dysplasia is a rare condition characterized by progressive thickening of bones in the skull (cranium) and abnormalities at the ends of long bones in the limbs (metaphyseal dysplasia). Except in the most severe cases, the lifespan of people with craniometaphyseal dysplasia is normal.  Bone overgrowth in the head causes many of the signs and symptoms of craniometaphyseal dysplasia. Affected individuals typically have distinctive facial features such as a wide nasal bridge, a prominent forehead, wide-set eyes (hypertelorism), and a prominent jaw. Excessive new bone formation (hyperostosis) in the jaw can delay teething (dentition) or result in absent (non-erupting) teeth. Infants with this condition may have breathing or feeding problems caused by narrow nasal passages. In severe cases, abnormal bone growth can compress the nerves that emerge from the brain and extend to various areas of the head and neck (cranial nerves). Compression of the cranial nerves can lead to paralyzed facial muscles (facial nerve palsy), blindness, or deafness.  The x-rays of individuals with craniometaphyseal dysplasia show unusually shaped long bones, particularly the large bones in the legs. The ends of these bones (metaphyses) are wider and appear less dense in people with this condition.  There are two types of craniometaphyseal dysplasia, which are distinguished by their pattern of inheritance. They are known as the autosomal dominant and autosomal recessive types. Autosomal recessive craniometaphyseal dysplasia is typically more severe than the autosomal dominant form.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000250-2" qtype="frequency">How many people are affected by craniometaphyseal dysplasia ?</Question>
+			<Answer>Craniometaphyseal dysplasia is a very rare disorder; its incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000250-3" qtype="genetic changes">What are the genetic changes related to craniometaphyseal dysplasia ?</Question>
+			<Answer>Mutations in the ANKH gene cause autosomal dominant craniometaphyseal dysplasia. The ANKH gene provides instructions for making a protein that is present in bone and transports a molecule called pyrophosphate out of cells. Pyrophosphate helps regulate bone formation by preventing mineralization, the process by which minerals such as calcium and phosphorus are deposited in developing bones. The ANKH protein may have other, unknown functions.  Mutations in the ANKH gene that cause autosomal dominant craniometaphyseal dysplasia may decrease the ANKH protein&apos;s ability to transport pyrophosphate out of cells. Reduced levels of pyrophosphate can increase bone mineralization, contributing to the bone overgrowth seen in craniometaphyseal dysplasia. Why long bones are shaped differently and only the skull bones become thicker in people with this condition remains unclear.  The genetic cause of autosomal recessive craniometaphyseal dysplasia is unknown. Researchers believe that mutations in an unidentified gene on chromosome 6 may be responsible for the autosomal recessive form of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000250-4" qtype="inheritance">Is craniometaphyseal dysplasia inherited ?</Question>
+			<Answer>Craniometaphyseal dysplasia can have different inheritance patterns. In most cases this condition is inherited in an autosomal dominant pattern, which means one altered copy of the ANKH gene in each cell is sufficient to cause the disorder. Individuals with autosomal dominant craniometaphyseal dysplasia typically have one parent who also has the condition. Less often, cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  Rarely, craniometaphyseal dysplasia is suspected to have autosomal recessive inheritance when unaffected parents have more than one child with the condition. Autosomal recessive disorders are caused by mutations in both copies of a gene in each cell. The parents of an individual with an autosomal recessive condition each carry one copy of a mutated gene, but they typically do not show signs and symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000250-5" qtype="treatment">What are the treatments for craniometaphyseal dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of craniometaphyseal dysplasia:  - Gene Review: Gene Review: Craniometaphyseal Dysplasia, Autosomal Dominant  - Genetic Testing Registry: Craniometaphyseal dysplasia, autosomal dominant  - Genetic Testing Registry: Craniometaphyseal dysplasia, autosomal recessive type  - MedlinePlus Encyclopedia: Facial Paralysis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

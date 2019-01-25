@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000102" source="NINDS" url="http://www.ninds.nih.gov/disorders/dyssynergia/dyssynergia.htm">
+<Focus>Dyssynergia Cerebellaris Myoclonica</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007761</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000102-1" qtype="information">What is (are) Dyssynergia Cerebellaris Myoclonica ?</Question>
+			<Answer>Dyssynergia Cerebellaris Myoclonica refers to a collection of rare, degenerative, neurological disorders characterized by epilepsy, cognitive impairment, myoclonus, and progressive ataxia. Symptoms include seizures, tremor, and reduced muscle coordination. Onset of the disorder generally occurs in early adulthood. Tremor may begin in one extremity and later spread to involve the entire voluntary muscular system. Arms are usually more affected than legs. Some of the cases are due to mitochondrial abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000102-2" qtype="treatment">What are the treatments for Dyssynergia Cerebellaris Myoclonica ?</Question>
+			<Answer>Treatment of Dyssynergia Cerebellaris Myoclonica is symptomatic. Myoclonus and seizures may be treated with drugs like valproate.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000102-3" qtype="outlook">What is the outlook for Dyssynergia Cerebellaris Myoclonica ?</Question>
+			<Answer>The progression of the disorder is usually 10 years or longer.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000102-4" qtype="research">what research (or clinical trials) is being done for Dyssynergia Cerebellaris Myoclonica ?</Question>
+			<Answer>The NINDS supports a broad range of research on neurodegenerative disorders such as Dyssynergia Cerebellaris Myoclonica. The goals of this research are to find ways to prevent, treat, and cure these kinds of disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

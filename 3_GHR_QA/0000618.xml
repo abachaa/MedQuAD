@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000618" source="GHR" url="https://ghr.nlm.nih.gov/condition/mal-de-meleda">
+<Focus>mal de Meleda</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025221</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acroerythrokeratoderma</Synonym>
+		<Synonym>keratosis palmoplantaris transgrediens of Siemens</Synonym>
+		<Synonym>Meleda disease</Synonym>
+		<Synonym>transgrediens palmoplantar keratoderma of Siemens</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000618-1" qtype="information">What is (are) mal de Meleda ?</Question>
+			<Answer>Mal de Meleda is a rare skin disorder that begins in early infancy. Affected individuals have a condition known as palmoplantar keratoderma, in which the skin of the palms of the hands and soles of the feet becomes thick, hard, and callused. In mal de Meleda, the thickened skin is also found on the back of the hands and feet and on the wrists and ankles. In addition, affected individuals may have rough, thick pads on the joints of the fingers and toes and on the elbows and knees. Some people with mal de Meleda have recurrent fungal infections in the thickened skin, which can lead to a strong odor. Other features of this disorder can include short fingers and toes (brachydactyly), nail abnormalities, red skin around the mouth, and excessive sweating (hyperhidrosis).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000618-2" qtype="frequency">How many people are affected by mal de Meleda ?</Question>
+			<Answer>Mal de Meleda is a rare disorder; its prevalence is unknown. The disorder was first identified on the Croatian island of Mjlet (called Meleda in Italian) and has since been found in populations worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000618-3" qtype="genetic changes">What are the genetic changes related to mal de Meleda ?</Question>
+			<Answer>Mal de Meleda is caused by mutations in the SLURP1 gene. This gene provides instructions for making a protein that interacts with other proteins, called receptors, and is likely involved in signaling within cells. Studies show that the SLURP-1 protein can attach (bind) to nicotinic acetylcholine receptors (nAChRs) in the skin. Through interaction with these receptors, the SLURP-1 protein is thought to be involved in controlling the growth and division (proliferation), maturation (differentiation), and survival of skin cells.  Mutations in the SLURP1 gene lead to little or no SLURP-1 protein in the body. It is unclear how a lack of this protein leads to the skin problems that occur in mal de Meleda. Researchers speculate that without SLURP-1, the activity of genes controlled by nAChR signaling is altered, leading to overgrowth of skin cells or survival of cells that normally would have died. The excess of cells can result in skin thickening. It is unclear why skin on the hands and feet is particularly affected.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000618-4" qtype="inheritance">Is mal de Meleda inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000618-5" qtype="treatment">What are the treatments for mal de Meleda ?</Question>
+			<Answer>These resources address the diagnosis or management of mal de Meleda:  - Foundation for Ichthyosis and Related Skin Types: Palmoplantar Keratodermas  - Genetic Testing Registry: Acroerythrokeratoderma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

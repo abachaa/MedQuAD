@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000860" source="GARD" url="https://rarediseases.info.nih.gov/gard/5964/brown-sequard-syndrome">
+<Focus>Brown-Sequard syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242644</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hemispinal cord syndrome</Synonym>
+		<Synonym>Hemicord syndrome</Synonym>
+		<Synonym>Hemiparaplegic syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000860-1" qtype="information">What is (are) Brown-Sequard syndrome ?</Question>
+			<Answer>Brown-Sequard syndrome is a rare neurological condition characterized by a lesion in the spinal cord. This condition results in weakness or paralysis on one side of the body (hemiparaplegia) and a loss of sensation  on the opposite side (hemianesthesia). Brown-Sequard syndrome may be caused by a spinal cord tumor, trauma (such as a puncture wound to the neck or back), obstructed blood vessel, or infectious or inflammatory diseases such as tuberculosis, or multiple sclerosis. Treatment and prognosis depends on the underlying cause of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000860-2" qtype="treatment">What are the treatments for Brown-Sequard syndrome ?</Question>
+			<Answer>How might Brown-Sequard syndrome be treated?</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

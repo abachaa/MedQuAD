@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000991" source="GHR" url="https://ghr.nlm.nih.gov/condition/trichothiodystrophy">
+<Focus>trichothiodystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1955934</CUI>
+			<CUI>C3495483</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Amish brittle hair syndrome</Synonym>
+		<Synonym>BIDS syndrome</Synonym>
+		<Synonym>brittle hair-intellectual impairment-decreased fertility-short stature syndrome</Synonym>
+		<Synonym>IBIDS</Synonym>
+		<Synonym>PIBIDS</Synonym>
+		<Synonym>TTD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000991-1" qtype="information">What is (are) trichothiodystrophy ?</Question>
+			<Answer>Trichothiodystrophy, which is commonly called TTD, is a rare inherited condition that affects many parts of the body. The hallmark of this condition is brittle hair that is sparse and easily broken. Tests show that the hair is lacking sulfur, an element that normally gives hair its strength.  The signs and symptoms of trichothiodystrophy vary widely. Mild cases may involve only the hair. More severe cases also cause delayed development, significant intellectual disability, and recurrent infections; severely affected individuals may survive only into infancy or early childhood.  Mothers of children with trichothiodystrophy may experience problems during pregnancy including pregnancy-induced high blood pressure (preeclampsia) and a related condition called HELLP syndrome that can damage the liver. Babies with trichothiodystrophy are at increased risk of premature birth, low birth weight, and slow growth.  Most affected children have short stature compared to others their age. Intellectual disability and delayed development are common, although most affected individuals are highly social with an outgoing and engaging personality. Some have brain abnormalities that can be seen with imaging tests. Trichothiodystrophy is also associated with recurrent infections, particularly respiratory infections, which can be life-threatening. Other features of trichothiodystrophy can include dry, scaly skin (ichthyosis); abnormalities of the fingernails and toenails; clouding of the lens in both eyes from birth (congenital cataracts); poor coordination; and skeletal abnormalities.  About half of all people with trichothiodystrophy have a photosensitive form of the disorder, which causes them to be extremely sensitive to ultraviolet (UV) rays from sunlight. They develop a severe sunburn after spending just a few minutes in the sun. However, for reasons that are unclear, they do not develop other sun-related problems such as excessive freckling of the skin or an increased risk of skin cancer. Many people with trichothiodystrophy report that they do not sweat.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000991-2" qtype="frequency">How many people are affected by trichothiodystrophy ?</Question>
+			<Answer>Trichothiodystrophy has an estimated incidence of about 1 in 1 million newborns in the United States and Europe. About 100 affected individuals have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000991-3" qtype="genetic changes">What are the genetic changes related to trichothiodystrophy ?</Question>
+			<Answer>Most cases of the photosensitive form of trichothiodystrophy result from mutations in one of three genes: ERCC2, ERCC3, or GTF2H5. The proteins produced from these genes work together as part of a group of proteins called the general transcription factor IIH (TFIIH) complex. This complex is involved in the repair of DNA damage, which can be caused by UV radiation from the sun. The TFIIH complex also plays an important role in gene transcription, which is the first step in protein production.  Mutations in the ERCC2, ERCC3, or GTF2H5 genes reduce the amount of TFIIH complex within cells, which impairs both DNA repair and gene transcription. An inability to repair DNA damage probably underlies the sun sensitivity in affected individuals. Studies suggest that many of the other features of trichothiodystrophy may result from problems with the transcription of genes needed for normal development before and after birth.  Mutations in at least one gene, MPLKIP, have been reported to cause a non-photosensitive form of trichothiodystrophy. Mutations in this gene account for fewer than 20 percent of all cases of non-photosensitive trichothiodystrophy. Little is known about the protein produced from the MPLKIP gene, although it does not appear to be involved in DNA repair. It is unclear how mutations in the MPLKIP gene lead to the varied features of trichothiodystrophy.  In some cases, the genetic cause of trichothiodystrophy is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000991-4" qtype="inheritance">Is trichothiodystrophy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000991-5" qtype="treatment">What are the treatments for trichothiodystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of trichothiodystrophy:  - Genetic Testing Registry: BIDS brittle hair-impaired intellect-decreased fertility-short stature syndrome  - Genetic Testing Registry: Photosensitive trichothiodystrophy  - Genetic Testing Registry: Trichothiodystrophy, nonphotosensitive 1  - The Merck Manual Home Edition for Patients and Caregivers: Photosensitivity Reactions  - The Merck Manual for Healthcare Professionals: Ichthyosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

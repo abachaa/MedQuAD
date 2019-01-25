@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000446" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/heartfailure.html">
+<Focus>Heart Failure</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018801</CUI>
+			<CUI>C0018802</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cardiac failure</Synonym>
+		<Synonym>CHF</Synonym>
+		<Synonym>Congestive heart failure</Synonym>
+		<Synonym>Left-sided heart failure</Synonym>
+		<Synonym>Right-sided heart failure</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000446-1" qtype="information">What is (are) Heart Failure ?</Question>
+			<Answer>Heart failure is a condition in which the heart can&apos;t pump enough blood to meet the body&apos;s needs. Heart failure does not mean that your heart has stopped or is about to stop working. It means that your heart is not able to pump blood the way it should. It can affect one or both sides of the heart.    The weakening of the heart&apos;s pumping ability causes       - Blood and fluid to back up into the lungs    - The buildup of fluid in the feet, ankles and legs - called edema    - Tiredness and shortness of breath       Common causes of heart failure are coronary artery disease, high blood pressure and diabetes. It is more common in people who are 65 years old or older, African Americans, people who are overweight, and people who have had a heart attack. Men have a higher rate of heart failure than women.    Your doctor will diagnose heart failure by doing a physical exam and heart tests. Treatment includes treating the underlying cause of your heart failure, medicines, and heart transplantation if other treatments fail.    NIH: National Heart, Lung, and Blood Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

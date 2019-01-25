@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000050" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/aphasia.html">
+<Focus>Aphasia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003537</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000050-1" qtype="information">What is (are) Aphasia ?</Question>
+			<Answer>Aphasia is a disorder caused by damage to the parts of the brain that control language. It can make it hard for you to read, write, and say what you mean to say. It is most common in adults who have had a stroke. Brain tumors, infections, injuries, and dementia can also cause it. The type of problem you have and how bad it is depends on which part of your brain is damaged and how much damage there is.     There are four main types:       -  Expressive aphasia - you know what you want to say, but you have trouble saying or writing what you mean     -  Receptive aphasia - you hear the voice or see the print, but you can&apos;t make sense of the words     -  Anomic aphasia - you have trouble using the correct word for objects, places, or events     -  Global aphasia - you can&apos;t speak, understand speech, read, or write        Some people recover from aphasia without treatment. Most, however, need language therapy as soon as possible.     NIH: National Institute of Neurological Disorders and Stroke</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

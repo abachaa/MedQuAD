@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000089" source="GHR" url="https://ghr.nlm.nih.gov/condition/autoimmune-polyglandular-syndrome-type-1">
+<Focus>autoimmune polyglandular syndrome, type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C0085859</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AIRE deficiency</Synonym>
+		<Synonym>APECED</Synonym>
+		<Synonym>APS type 1</Synonym>
+		<Synonym>APS1</Synonym>
+		<Synonym>Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy</Synonym>
+		<Synonym>Autoimmune Polyendocrinopathy Syndrome Type 1</Synonym>
+		<Synonym>Autoimmune polyendocrinopathy with candidiasis and ectodermal dystrophy</Synonym>
+		<Synonym>Autoimmune Syndrome Type I, Polyglandular</Synonym>
+		<Synonym>PGA I</Synonym>
+		<Synonym>Polyendocrinopathy-Candidiasis-Ectodermal-Dystrophy, Autoimmune</Synonym>
+		<Synonym>Polyglandular autoimmune syndrome, type 1</Synonym>
+		<Synonym>Polyglandular Type I Autoimmune Syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000089-1" qtype="information">What is (are) autoimmune polyglandular syndrome, type 1 ?</Question>
+			<Answer>Autoimmune polyglandular syndrome, type 1 is an inherited condition that affects many of the body&apos;s organs. It is one of many autoimmune diseases, which are disorders that occur when the immune system malfunctions and attacks the body&apos;s tissues and organs by mistake.  In most cases, the signs and symptoms of autoimmune polyglandular syndrome, type 1 begin in childhood or adolescence. This condition is characterized by three specific features: mucocutaneous candidiasis, hypoparathyroidism, and Addison disease. Affected individuals typically have at least two of these features, and many have all three.  Mucocutaneous candidiasis is a fungal infection that affects the skin and mucous membranes, such as the moist lining of the nose and mouth. In children with autoimmune polyglandular syndrome, type 1, these infections last a long time and tend to recur. Many affected children also develop hypoparathyroidism, which is a malfunction of the parathyroid glands. These glands secrete a hormone that regulates the body&apos;s use of calcium and phosphorus. Hypoparathyroidism can cause a tingling sensation in the lips, fingers, and toes; muscle pain and cramping; weakness; and fatigue. The third major feature, Addison disease, results from a malfunction of the small hormone-producing glands on top of each kidney (adrenal glands). The main features of Addison disease include fatigue, muscle weakness, loss of appetite, weight loss, low blood pressure, and changes in skin coloring.  Autoimmune polyglandular syndrome, type 1 can cause a variety of additional signs and symptoms, although they occur less often. Complications of this disorder can affect the skin and nails, the gonads (ovaries and testicles), the eyes, a butterfly-shaped gland at the base of the neck called the thyroid, and the digestive system. Type 1 diabetes also occurs in some patients with this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000089-2" qtype="frequency">How many people are affected by autoimmune polyglandular syndrome, type 1 ?</Question>
+			<Answer>Autoimmune polyglandular syndrome, type 1 is thought to be a rare condition, with about 500 cases reported worldwide. This condition occurs more frequently in certain populations, including Iranian Jews, Sardinians, and Finns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000089-3" qtype="genetic changes">What are the genetic changes related to autoimmune polyglandular syndrome, type 1 ?</Question>
+			<Answer>Mutations in the AIRE gene cause autoimmune polyglandular syndrome, type 1.  The AIRE gene provides instructions for making a protein called the autoimmune regulator. As its name suggests, this protein plays a critical role in regulating certain aspects of immune system function. Specifically, it helps the body distinguish its own proteins and cells from those of foreign invaders (such as bacteria and viruses). This distinction is critical because to remain healthy, a person&apos;s immune system must be able to identify and destroy potentially harmful invaders while sparing the body&apos;s normal tissues.  Mutations in the AIRE gene reduce or eliminate the function of the autoimmune regulator protein. Without enough of this protein, the immune system can turn against itself and attack the body&apos;s own organs. This reaction, which is known as autoimmunity, results in inflammation and can damage otherwise healthy cells and tissues. Damage to the adrenal glands, parathyroid glands, and other organs underlies many of the major features of autoimmune polyglandular syndrome, type 1. It remains unclear why people with this condition tend to get candidiasis infections.  Although most of the characteristic features of autoimmune polyglandular syndrome, type 1 result from mutations in the AIRE gene, researchers believe that variations in other genes may help explain why the signs and symptoms of this condition can vary among affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000089-4" qtype="inheritance">Is autoimmune polyglandular syndrome, type 1 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000089-5" qtype="treatment">What are the treatments for autoimmune polyglandular syndrome, type 1 ?</Question>
+			<Answer>These resources address the diagnosis or management of autoimmune polyglandular syndrome, type 1:  - Genetic Testing Registry: Autoimmune polyglandular syndrome type 1, autosomal dominant  - Genetic Testing Registry: Autoimmune polyglandular syndrome type 1, with reversible metaphyseal dysplasia  - Genetic Testing Registry: Polyglandular autoimmune syndrome, type 1  - MedlinePlus Encyclopedia: Addison&apos;s Disease  - MedlinePlus Encyclopedia: Autoimmune Disorders  - MedlinePlus Encyclopedia: Cutaneous Candidiasis  - MedlinePlus Encyclopedia: Hypoparathyroidism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

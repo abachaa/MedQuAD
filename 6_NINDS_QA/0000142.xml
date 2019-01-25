@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000142" source="NINDS" url="http://www.ninds.nih.gov/disorders/nbia/nbia.htm">
+<Focus>Neurodegeneration with Brain Iron Accumulation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027746</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T049</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000142-1" qtype="information">What is (are) Neurodegeneration with Brain Iron Accumulation ?</Question>
+			<Answer>Neurodegeneration with brain iron accumulation (NBIA) is a rare, inherited, neurological movement disorder characterized by an abnormal accumulation of iron in the brain and progressive degeneration of the nervous system. Symptoms, which vary greatly among patients and usually develop during childhood, may include dystonia (slow writhing, distorting muscle contractions of the limbs, face, or trunk), dysarthria (slurred or slow speech) choreoathetosis (involuntary, purposeless jerky muscle movements), muscle rigidity (uncontrolled tightness of the muscles), spasticity (sudden, involuntary muscle spasms), and/or ataxia (inability to coordinate movements), confusion, disorientation, seizures, stupor, and dementia. Visual changes are also common, most often due to atrophy of the optic nerve (optic atrophy) or degeneration of the retinal layer in the back of the eye (retinal degeneration Cognitive decline occurs in some forms of NBIA; the majority of individuals with NBIA do not have cognitive impairment. Several genes have been found that cause NBIA.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000142-2" qtype="treatment">What are the treatments for Neurodegeneration with Brain Iron Accumulation ?</Question>
+			<Answer>There is no cure for NBIA, nor is there a standard course of treatment. Treatment is symptomatic and supportive, and may include physical or occupational therapy, exercise physiology, and/or speech pathology. Many medications are available to treat the primary symptoms of dystonia and spasticity, including oral medications, intrathecal baclofen pump (in which a small pump is implanted under the skin and is programmed to deliver a specific amount of medication on a regular basis), deep brain stimulation, and botulinum toxin injection.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000142-3" qtype="outlook">What is the outlook for Neurodegeneration with Brain Iron Accumulation ?</Question>
+			<Answer>NBIA is a progressive condition. Most individuals experience periods of rapid decline lasting weeks to months, with relatively stable periods in between. The rate of progression correlates with the age at onset, meaning that children with early symptoms tend to fare more poorly. For those with early onset, dystonia and spasticity can eventually limit the ability to walk, usually leading to use of a wheelchair by the midteens. Life expectancy is variable, although premature death does occur in NBIA. Premature death usually occurs due to secondary complications such as impaired swallowing or confinement to a bed or wheelchair, which can lead to poor nutrition or aspiration pneumonia. With improved medical care, however, a greater number of affected individuals reach adulthood. For those with atypical, late-onset NBIA, many are diagnosed as adults and live well into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000142-4" qtype="research">what research (or clinical trials) is being done for Neurodegeneration with Brain Iron Accumulation ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. NINDS-funded researchers are developing a mouse model of an NBIA disorder to gain insight into the causes of the disease and accelerate ongoing efforts to identify therapeutics to treat it..</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

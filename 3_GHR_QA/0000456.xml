@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000456" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-antithrombin-deficiency">
+<Focus>hereditary antithrombin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3658294</CUI>
+			<CUI>C0272375</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Antithrombin III Deficiency</Synonym>
+		<Synonym>Congenital Antithrombin III Deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000456-1" qtype="information">What is (are) hereditary antithrombin deficiency ?</Question>
+			<Answer>Hereditary antithrombin deficiency is a disorder of blood clotting. People with this condition are at higher than average risk for developing abnormal blood clots, particularly a type of clot that occurs in the deep veins of the legs. This type of clot is called a deep vein thrombosis (DVT). Affected individuals also have an increased risk of developing a pulmonary embolism (PE), which is a clot that travels through the bloodstream and lodges in the lungs. In hereditary antithrombin deficiency, abnormal blood clots usually form only in veins, although they may rarely occur in arteries.  About half of people with hereditary antithrombin deficiency will develop at least one abnormal blood clot during their lifetime. These clots usually develop after adolescence.  Other factors can increase the risk of abnormal blood clots in people with hereditary antithrombin deficiency. These factors include increasing age, surgery, or immobility. The combination of hereditary antithrombin deficiency and other inherited disorders of blood clotting can also influence risk. Women with hereditary antithrombin deficiency are at increased risk of developing an abnormal blood clot during pregnancy or soon after delivery. They also may have an increased risk for pregnancy loss (miscarriage) or stillbirth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000456-2" qtype="frequency">How many people are affected by hereditary antithrombin deficiency ?</Question>
+			<Answer>Hereditary antithrombin deficiency is estimated to occur in about 1 in 2,000 to 3,000 individuals. Of people who have experienced an abnormal blood clot, about 1 in 20 to 200 have hereditary antithrombin deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000456-3" qtype="genetic changes">What are the genetic changes related to hereditary antithrombin deficiency ?</Question>
+			<Answer>Hereditary antithrombin deficiency is caused by mutations in the SERPINC1 gene. This gene provides instructions for producing a protein called antithrombin (previously known as antithrombin III). This protein is found in the bloodstream and is important for controlling blood clotting. Antithrombin blocks the activity of proteins that promote blood clotting, especially a protein called thrombin.  Most of the mutations that cause hereditary antithrombin deficiency change single protein building blocks (amino acids) in antithrombin, which disrupts its ability to control blood clotting. Individuals with this condition do not have enough functional antithrombin to inactivate clotting proteins, which results in the increased risk of developing abnormal blood clots.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000456-4" qtype="inheritance">Is hereditary antithrombin deficiency inherited ?</Question>
+			<Answer>Hereditary antithrombin deficiency is typically inherited in an autosomal dominant pattern, which means one altered copy of the SERPINC1 gene in each cell is sufficient to cause the disorder. Inheriting two altered copies of this gene in each cell is usually incompatible with life; however, a few severely affected individuals have been reported with mutations in both copies of the SERPINC1 gene in each cell.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000456-5" qtype="treatment">What are the treatments for hereditary antithrombin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary antithrombin deficiency:  - Genetic Testing Registry: Antithrombin III deficiency  - MedlinePlus Encyclopedia: Blood Clots  - MedlinePlus Encyclopedia: Congenital Antithrombin III Deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000079" source="NINDS" url="http://www.ninds.nih.gov/disorders/chronic_pain/chronic_pain.htm">
+<Focus>Chronic Pain</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0150055</CUI>
+			<CUI>C2020637</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000079-1" qtype="information">What is (are) Chronic Pain ?</Question>
+			<Answer>While acute pain is a normal sensation triggered in the nervous system to alert you to possible injury and the need to take care of yourself, chronic pain is different. Chronic pain persists. Pain signals keep firing in the nervous system for weeks, months, even years. There may have been an initial mishap -- sprained back, serious infection, or there may be an ongoing cause of pain -- arthritis, cancer, ear infection, but some people suffer chronic pain in the absence of any past injury or evidence of body damage. Many chronic pain conditions affect older adults. Common chronic pain complaints include headache, low back pain, cancer pain, arthritis pain, neurogenic pain (pain resulting from damage to the peripheral nerves or to the central nervous system itself), psychogenic pain (pain not due to past disease or injury or any visible sign of damage inside or outside the nervous system). A person may have two or more co-existing chronic pain conditions. Such conditions can include chronic fatigue syndrome, endometriosis, fibromyalgia, inflammatory bowel disease, interstitial cystitis, temporomandibular joint dysfunction, and vulvodynia. It is not known whether these disorders share a common cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000079-2" qtype="treatment">What are the treatments for Chronic Pain ?</Question>
+			<Answer>Medications, acupuncture, local electrical stimulation, and brain stimulation, as well as surgery, are some treatments for chronic pain. Some physicians use placebos, which in some cases has resulted in a lessening or elimination of pain. Psychotherapy, relaxation and medication therapies, biofeedback, and behavior modification may also be employed to treat chronic pain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000079-3" qtype="outlook">What is the outlook for Chronic Pain ?</Question>
+			<Answer>Many people with chronic pain can be helped if they understand all the causes of pain and the many and varied steps that can be taken to undo what chronic pain has done. Scientists believe that advances in neuroscience will lead to more and better treatments for chronic pain in the years to come.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000079-4" qtype="research">what research (or clinical trials) is being done for Chronic Pain ?</Question>
+			<Answer>Clinical investigators have tested chronic pain patients and found that they often have lower-than-normal levels of endorphins in their spinal fluid. Investigations of acupuncture include wiring the needles to stimulate nerve endings electrically (electroacupuncture), which some researchers believe activates endorphin systems. Other experiments with acupuncture have shown that there are higher levels of endorphins in cerebrospinal fluid following acupuncture. Investigators are studying the effect of stress on the experience of chronic pain. Chemists are synthesizing new analgesics and discovering painkilling virtues in drugs not normally prescribed for pain.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

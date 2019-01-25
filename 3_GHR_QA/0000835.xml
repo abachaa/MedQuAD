@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000835" source="GHR" url="https://ghr.nlm.nih.gov/condition/propionic-acidemia">
+<Focus>propionic acidemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268579</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hyperglycinemia with ketoacidosis and leukopenia</Synonym>
+		<Synonym>ketotic glycinemia</Synonym>
+		<Synonym>ketotic hyperglycinemia</Synonym>
+		<Synonym>PCC deficiency</Synonym>
+		<Synonym>PROP</Synonym>
+		<Synonym>propionicacidemia</Synonym>
+		<Synonym>propionyl-CoA carboxylase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000835-1" qtype="information">What is (are) propionic acidemia ?</Question>
+			<Answer>Propionic acidemia is an inherited disorder in which the body is unable to process certain parts of proteins and lipids (fats) properly. It is classified as an organic acid disorder, which is a condition that leads to an abnormal buildup of particular acids known as organic acids. Abnormal levels of organic acids in the blood (organic acidemia), urine (organic aciduria), and tissues can be toxic and can cause serious health problems.  In most cases, the features of propionic acidemia become apparent within a few days after birth. The initial symptoms include poor feeding, vomiting, loss of appetite, weak muscle tone (hypotonia), and lack of energy (lethargy). These symptoms sometimes progress to more serious medical problems, including heart abnormalities, seizures, coma, and possibly death.  Less commonly, the signs and symptoms of propionic acidemia appear during childhood and may come and go over time. Some affected children experience intellectual disability or delayed development. In children with this later-onset form of the condition, episodes of more serious health problems can be triggered by prolonged periods without food (fasting), fever, or infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000835-2" qtype="frequency">How many people are affected by propionic acidemia ?</Question>
+			<Answer>Propionic acidemia affects about 1 in 100,000 people in the United States. The condition appears to be more common in several populations worldwide, including the Inuit population of Greenland, some Amish communities, and Saudi Arabians.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000835-3" qtype="genetic changes">What are the genetic changes related to propionic acidemia ?</Question>
+			<Answer>Mutations in the PCCA and PCCB genes cause propionic acidemia.  The PCCA and PCCB genes provide instructions for making two parts (subunits) of an enzyme called propionyl-CoA carboxylase. This enzyme plays a role in the normal breakdown of proteins. Specifically, it helps process several amino acids, which are the building blocks of proteins. Propionyl-CoA carboxylase also helps break down certain types of fat and cholesterol in the body. Mutations in the PCCA or PCCB gene disrupt the function of the enzyme and prevent the normal breakdown of these molecules. As a result, a substance called propionyl-CoA and other potentially harmful compounds can build up to toxic levels in the body. This buildup damages the brain and nervous system, causing the serious health problems associated with propionic acidemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000835-4" qtype="inheritance">Is propionic acidemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000835-5" qtype="treatment">What are the treatments for propionic acidemia ?</Question>
+			<Answer>These resources address the diagnosis or management of propionic acidemia:  - Baby&apos;s First Test  - Gene Review: Gene Review: Propionic Acidemia  - Genetic Testing Registry: Propionic acidemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

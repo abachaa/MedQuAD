@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000533" source="GHR" url="https://ghr.nlm.nih.gov/condition/isolated-ectopia-lentis">
+<Focus>isolated ectopia lentis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013581</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital ectopia lentis</Synonym>
+		<Synonym>ectopia lentis</Synonym>
+		<Synonym>lens subluxation</Synonym>
+		<Synonym>subluxation of lens</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000533-1" qtype="information">What is (are) isolated ectopia lentis ?</Question>
+			<Answer>Isolated ectopia lentis is a condition that affects the eyes, specifically the positioning of the lens. The lens is a clear structure at the front of the eye that helps focus light. In people with isolated ectopia lentis, the lens in one or both eyes is not centrally positioned as it should be but is off-center (displaced). Isolated ectopia lentis usually becomes apparent in childhood. The lens may drift further off-center over time.  Vision problems are common in isolated ectopia lentis. Affected individuals often have nearsightedness (myopia) and can have an irregular curvature of the lens or a structure that covers the front of the eye (the cornea), which causes blurred vision (astigmatism). They may also develop clouding of the lenses (cataracts) or increased pressure in the eyes (glaucoma) at an earlier age than other adults. In a small number of people with isolated ectopia lentis, tearing of the back lining of the eye (retinal detachment) occurs, which can lead to further vision problems and possible blindness.  In individuals with isolated ectopia lentis, each eye can be affected differently. In addition, the eye problems vary among affected individuals, even those within the same family.  Ectopia lentis is classified as isolated when it occurs alone without signs and symptoms affecting other body systems. Ectopia lentis can also be classified as syndromic, when it is part of a syndrome that affects multiple parts of the body. Ectopia lentis is a common feature of genetic syndromes such as Marfan syndrome and Weill-Marchesani syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000533-2" qtype="frequency">How many people are affected by isolated ectopia lentis ?</Question>
+			<Answer>The prevalence of isolated ectopia lentis is unknown. In Denmark, an estimated 6.4 per 100,000 individuals have ectopia lentis, but a large proportion of these cases (about 75 percent) are syndromic.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000533-3" qtype="genetic changes">What are the genetic changes related to isolated ectopia lentis ?</Question>
+			<Answer>Mutations in the FBN1 or ADAMTSL4 gene cause isolated ectopia lentis. These genes provide instructions for making proteins that are necessary for the formation of threadlike filaments called microfibrils. Microfibrils provide support to many tissues, including the lenses of the eyes, which are held in position by these filaments.  Mutations in the FBN1 or ADAMTSL4 gene impair protein function and lead to a decrease in microfibril formation or result in the formation of impaired microfibrils. Without functional microfibrils to anchor the lens in its central position at the front of the eye, the lens becomes displaced. The displaced lens cannot focus light correctly, contributing to the vision problems that are common in people with isolated ectopia lentis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000533-4" qtype="inheritance">Is isolated ectopia lentis inherited ?</Question>
+			<Answer>When isolated ectopia lentis is caused by mutations in the FBN1 gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  When isolated ectopia lentis is caused by mutations in the ADAMTSL4 gene, it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000533-5" qtype="treatment">What are the treatments for isolated ectopia lentis ?</Question>
+			<Answer>These resources address the diagnosis or management of isolated ectopia lentis:  - Gene Review: Gene Review: ADAMTSL4-Related Eye Disorders  - Genetic Testing Registry: Ectopia lentis, isolated autosomal recessive  - Genetic Testing Registry: Ectopia lentis, isolated, autosomal dominant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

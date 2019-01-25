@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000201" source="NINDS" url="http://www.ninds.nih.gov/disorders/multifocal_neuropathy/multifocal_neuropathy.htm">
+<Focus>Multifocal Motor Neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393847</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000201-1" qtype="information">What is (are) Multifocal Motor Neuropathy ?</Question>
+			<Answer>Multifocal motor neuropathy is a progressive muscle disorder characterized by muscle weakness in the hands, with differences from one side of the body to the other in the specific muscles involved. It affects men much more than women. Symptoms also include muscle wasting, cramping, and involuntary contractions or twitching of the leg muscles. The disorder is sometimes mistaken for amyotrophic laterial sclerosis (ALS, or Lou Gehrig&apos;s disease) but unlike ALS, it is treatable. An early and accurate diagnosis allows patients to recover quickly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000201-2" qtype="treatment">What are the treatments for Multifocal Motor Neuropathy ?</Question>
+			<Answer>Treatment for multifocal motor neuropathy varies. Some individuals experience only mild, modest symptoms and require no treatment. For others, treatment generally consists of intravenous immunoglobulin (IVIg) or immunosuppressive therapy with cyclophosphamide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000201-3" qtype="outlook">What is the outlook for Multifocal Motor Neuropathy ?</Question>
+			<Answer>Improvement in muscle strength usually begins within 3 to 6 weeks after treatment is started. Most patients who receive treatment early experience little, if any, disability. However, there is evidence of slow progression over many years.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000201-4" qtype="research">what research (or clinical trials) is being done for Multifocal Motor Neuropathy ?</Question>
+			<Answer>The NINDS supports a broad range of research on neuromuscular disorders with the goal of finding ways to prevent, treat, and, ultimately, cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

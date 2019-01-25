@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000620" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/motionsickness.html">
+<Focus>Motion Sickness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026603</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Airsickness</Synonym>
+		<Synonym>Carsickness</Synonym>
+		<Synonym>Seasickness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000620-1" qtype="information">What is (are) Motion Sickness ?</Question>
+			<Answer>Motion sickness is a common problem in people traveling by car, train, airplanes and especially boats. Motion sickness can start suddenly, with a queasy feeling and cold sweats. It can then lead to dizziness and nausea and vomiting.    Your brain senses movement by getting signals from your inner ears, eyes, muscles and joints. When it gets signals that do not match, you can get motion sickness. For example, down below on a boat, your inner ear senses motion, but your eyes cannot tell you are moving.     Where you sit can make a difference. The front seat of a car, forward cars of a train, upper deck on a boat or wing seats in a plane may give you a smoother ride. Looking out into the distance - instead of trying to read or look at something in the vehicle - can also help.     Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

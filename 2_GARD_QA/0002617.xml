@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002617" source="GARD" url="https://rarediseases.info.nih.gov/gard/2515/glycogen-storage-disease-type-1b">
+<Focus>Glycogen storage disease type 1B</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017919</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>GSD1B</Synonym>
+		<Synonym>Glucose-6-phosphate transport defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002617-1" qtype="information">What is (are) Glycogen storage disease type 1B ?</Question>
+			<Answer>Glycogen storage disease type 1B (GSD1B) is an inherited condition in which the body is unable to break down a complex sugar called glycogen. As a result, glycogen accumulates in cells throughout the body. In GSD1B, specifically, glycogen and fats build up within the liver and kidneys which can cause these organs to be enlarged and not function properly. Signs and symptoms of the condition generally develop at age 3 to 4 months and may include hypoglycemia, seizures, lactic acidosis, hyperuricemia (high levels of a waste product called uric acid in the body), and hyperlipidemia. Affected people may also have short stature; thin arms and legs; a protruding abdomen; neutropenia (which may lead to frequent infections); inflammatory bowel disease and oral health problems. GSD1B is caused by changes (mutations) in the SLC37A4 gene and is inherited in an autosomal recessive manner. Although there is currently no cure for the condition, symptoms can often be managed with a special diet in combination with certain medications.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002617-2" qtype="symptoms">What are the symptoms of Glycogen storage disease type 1B ?</Question>
+			<Answer>What are the signs and symptoms of Glycogen storage disease type 1B? The Human Phenotype Ontology provides the following list of signs and symptoms for Glycogen storage disease type 1B. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Decreased glomerular filtration rate - Delayed puberty - Doll-like facies - Elevated hepatic transaminases - Enlarged kidneys - Focal segmental glomerulosclerosis - Gout - Hepatocellular carcinoma - Hepatomegaly - Hyperlipidemia - Hypertension - Hypoglycemia - Lactic acidosis - Lipemia retinalis - Nephrolithiasis - Neutropenia - Oral ulcer - Osteoporosis - Pancreatitis - Proteinuria - Protuberant abdomen - Recurrent bacterial infections - Short stature - Xanthomatosis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

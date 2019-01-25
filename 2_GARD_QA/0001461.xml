@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001461" source="GARD" url="https://rarediseases.info.nih.gov/gard/10790/cone-rod-dystrophy">
+<Focus>Cone-rod dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035334</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cone-rod dystrophy 1</Synonym>
+		<Synonym>Cone-rod dystrophy 2</Synonym>
+		<Synonym>Cone-rod dystrophy 3</Synonym>
+		<Synonym>Cone-rod dystrophy 5</Synonym>
+		<Synonym>Cone-rod dystrophy 6</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001461-1" qtype="information">What is (are) Cone-rod dystrophy ?</Question>
+			<Answer>Cone-rod dystrophies (CRDs) are a group of inherited eye disorders that affect both the cone and rod cells of the retina (photosenstitive receptor cells). In contrast to rod-cone dystrophies, individuals experience deterioration of the cone cells more severely than the rod cells. Initial signs and symptoms typically include decreased visual acuity when looking straight ahead (central vision loss); loss of color perception; and an abnormal sensitivity to light (photophobia). These signs are usually followed by progressive loss of peripheral vision and night blindness. Most cases occur due to mutations in any one of several genes, and CRDs can be inherited as autosomal recessive, autosomal dominant, X-linked or mitochondrial (maternally-inherited) traits. CRDs are usually non-syndromic, but they may also be part of several syndromes. Currently, there is no therapy that stops progression of the disease or restores vision; management aims at slowing the process, treating complications and helping individuals cope with the social and psychological impact of blindness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001461-2" qtype="symptoms">What are the symptoms of Cone-rod dystrophy ?</Question>
+			<Answer>What are the signs and symptoms of Cone-rod dystrophy? The Human Phenotype Ontology provides the following list of signs and symptoms for Cone-rod dystrophy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of retinal pigmentation 90% Nyctalopia 90% Photophobia 90% Abnormality of color vision 50% Visual impairment 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001461-3" qtype="treatment">What are the treatments for Cone-rod dystrophy ?</Question>
+			<Answer>How might cone-rod dystrophy be treated? Currently, there is no therapy that stops the evolution of cone-rod dystrophy or restores vision. There are a few treatment options, such as light avoidance and the use of low-vision aids that may help to slow down the degenerative process. It is important that people with cone-rod dystrophy recieve support and resources to help them cope with the social and psychological impact of vision loss.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

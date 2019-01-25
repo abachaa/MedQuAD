@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000197" source="NINDS" url="http://www.ninds.nih.gov/disorders/motor_neuron_diseases/motor_neuron_diseases.htm">
+<Focus>Motor Neuron Diseases</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085084</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000197-1" qtype="information">What is (are) Motor Neuron Diseases ?</Question>
+			<Answer>The motor neuron diseases (MNDs) are a group of progressive neurological disorders that destroy cells that control essential muscle activity such as speaking, walking, breathing, and swallowing. Normally, messages from nerve cells in the brain (called upper motor neurons) are transmitted to nerve cells in the brain stem and spinal cord (called lower motor neurons) and from them to particular muscles. When there are disruptions in these signals, the result can be gradual muscle weakening, wasting away, and uncontrollable twitching (called fasciculations). Eventually, the ability to control voluntary movement can be lost. MNDs may be inherited or acquired, and they occur in all age groups. MNDs occur more commonly in men than in women, and symptoms may appear after age 40. In children, particularly in inherited or familial forms of the disease, symptoms can be present at birth or appear before the child learns to walk.
+                
+The causes of sporadic (noninherited) MNDs are not known, but environmental, toxic, viral, or genetic factors may be implicated. Common MNDs include amyotrophic lateral sclerosis (ALS), progressive bulbar palsy, primary lateral sclerosis, and progressive muscular atrophy. Other MNDs include the many inherited forms of spinal muscular atrophy and post-polio syndrome, a condition that can strike polio survivors decades after their recovery from poliomyelitis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000197-2" qtype="treatment">What are the treatments for Motor Neuron Diseases ?</Question>
+			<Answer>There is no cure or standard treatment for the MNDs. Symptomatic and supportive treatment can help patients be more comfortable while maintaining their quality of life. The drug riluzole (Rilutek), which as of this date is the only drug approved by the U.S. Food and Drug Administration to treat ALS, prolongs life by 2-3 months but does not relieve symptoms. Other medicines that may help reduce symptoms include muscle relaxants such as baclofen, tizanidine, and the benzodiazepines for spasticity; glycopyrrolate and atropine to treat excessive saliva; and anticonvulsants and nonsteroidal anti-inflammatory drugs to relieve pain. Panic attacks can be treated with benzodiazepines. Some patients may require stronger medicines such as morphine to cope with musculoskeletal abnormalities or pain in later stages of the disorders, and opiates are used to provide comfort care in terminal stages of the disease.
+                
+Physical and speech therapy, occupational therapy, and rehabilitation may help to improve posture, prevent joint immobility, slow muscle weakness and atrophy, and cope with swallowing difficulties. Applying heat may relieve muscle pain. Assistive devices such as supports or braces, orthotics, speech synthesizers, and wheelchairs help some patients retain independence. Proper nutrition and a balanced diet are essential to maintaining weight and strength.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000197-3" qtype="outlook">What is the outlook for Motor Neuron Diseases ?</Question>
+			<Answer>Prognosis varies depending on the type of MND and the age of onset. Some MNDs, such as primary lateral sclerosis and Kennedy disease, are not fatal and progress slowly. Patients with spinal muscular atrophy may appear to be stable for long periods, but improvement should not be expected. Some MNDs, such as ALS and some forms of spinal muscular atrophy, are fatal.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000197-4" qtype="research">what research (or clinical trials) is being done for Motor Neuron Diseases ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS is a component of the National Institutes of Health (NIH), the leading supporter of biomedical research in the world. Researchers are testing whether different drugs, agents, or interventions are safe and effective in slowing the progression of motor neuron diseasess. NIH is also conducting clinical trials to study drugs to stimulate muscle growth in Kennedys disease and to suppress endogenous retroviruses in individuals with ALS. A large NIH-led collaborative study is investigating the genes and gene activity, proteins, and modifications of adult stem cell models from both healthy people and those with ALS,spinal muscular atrophy, and other neurodegenerative diseases to better understand the function of neurons and other support cells and identify candidate therapeutic compounds.
+                
+
+                
+conducts research related to the MNDs in its laboratories at the National Institutes of Health (NIH), and also supports additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders such as the MNDs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

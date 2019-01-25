@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000037" source="GARD" url="https://rarediseases.info.nih.gov/gard/5708/achalasia">
+<Focus>Achalasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1321756</CUI>
+			<CUI>C0014848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Esophageal achalasia</Synonym>
+		<Synonym>Primary achalasia</Synonym>
+		<Synonym>Achalasia cardia</Synonym>
+		<Synonym>Idiopathic achalasia</Synonym>
+		<Synonym>Idiopathic achalasia of esophagus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000037-1" qtype="information">What is (are) Achalasia ?</Question>
+			<Answer>Achalasia is a disorder of the esophagus, the tube that carries food from the mouth to the stomach. It is characterized by enlargement of the esophagus, impaired ability of the esophagus to push food down toward the stomach (peristalsis), and failure of the ring-shaped muscle at the bottom of the esophagus (the lower esophageal sphincter) to relax. Achalasia is typically diagnosed in individuals between 25 and 60 years of age. The exact etiology is unknown, however, symptoms are caused by damage to the nerves of the esophagus. Familial studies have shown evidence of a potential genetic influence. When a genetic influence is suspected, achalasia is called familial esophageal achalasia. Treatment is aimed at reducing the pressure at the lower esophageal sphincter and may include Botox, medications, or surgery.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000037-2" qtype="symptoms">What are the symptoms of Achalasia ?</Question>
+			<Answer>What are the signs and symptoms of achalasia? Most people with achalasia experience difficulty swallowing, also known as dysphagia and heartburn. Other symptoms might include: regurgitation or vomiting, noncardiac chest pain, odynophagia (painful swallowing), and pain in the upper central region of the abdomen. Non esophageal symptoms might include: coughing or asthma, chronic aspiration (breathing a foreign object such as food into the airway), hoarseness or sore throat, and unintentional weight loss.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000037-3" qtype="causes">What causes Achalasia ?</Question>
+			<Answer>What causes achalasia? The lower esophageal sphincter, the ring-shaped muscle at the bottom of the esophagus, normally relaxes during swallowing. In people with achalasia, this muscle ring does not relax as well. The reason for this problem is damage to the nerves of the esophagus. In some people, this problem appears to be inherited. There is additionally a suspected autoimmune component involved in the development of achalasia as individuals with achalasia are more likely to have a concomitant autoimmune disease than the general population.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000037-4" qtype="exams and tests">How to diagnose Achalasia ?</Question>
+			<Answer>How is achalasia diagnosed? Achalasia is suspected in individuals with dysphagia (difficulty swallowing) and in instances where regurgitation symptoms are not responsive to protein pump inhibitor medication.  The diagnosis of achalasia is confirmed by manometry (test that measures how well the esophagus is working); however, other tests such as upper endoscopy and upper GI X-ray can additionally be useful.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000037-5" qtype="treatment">What are the treatments for Achalasia ?</Question>
+			<Answer>How might achalasia be treated? The aim of treatment is to reduce the pressure at the lower esophageal sphincter. Therapy may involve: Injection with botulinum toxin (Botox) to help relax the sphincter muscles (used as a temporary fix)  Medications, such as long-acting nitrates (i.e. isosorbide dinitrate) or calcium channel blockers (i.e. nifedipine), to relax the lower esophagus sphincter Surgery (Heller myotomy) to decrease the pressure in the lower sphincter Pneumatic balloon dilation of the esophagus at the location of the narrowing (done during esophagogastroduodenoscopy) You can learn more about these treatment options by clicking on the following links: eMedicine Esophageal Motility Disorders Merck Manuals Motility Disorders A doctor should help to determine the best treatment for each individual situation.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

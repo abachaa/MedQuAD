@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000058" source="NINDS" url="http://www.ninds.nih.gov/disorders/carpal_tunnel/carpal_tunnel.htm">
+<Focus>Carpal Tunnel Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007286</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000058-1" qtype="information">What is (are) Carpal Tunnel Syndrome ?</Question>
+			<Answer>Carpal tunnel syndrome (CTS) occurs when the median nerve, which runs from the forearm into the palm of the hand, becomes pressed or squeezed at the wrist. The carpal tunnel is a narrow, rigid passageway of ligament and bones at the base of the hand that houses the median nerve and the tendons that bend the fingers. The median nerve provides feeling to the palm side of the thumb and to most of the fingers. Symptoms usually start gradually, with numbness, tingling, weakness, and sometimes pain in the hand and wrist. People might have difficulty with tasks such as driving or reading a book. Decreased hand strength may make it difficult to grasp small objects or perform other manual tasks. In some cases no direct cause of the syndrome can be identified. Contributing factors include trauma or injury to the wrist that causes swelling, thyroid disease, rheumatoid arthritis, and fluid retention during pregnancy. Women are three times more likely than men to develop carpal tunnel syndrome. The disorder usually occurs only in adults.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000058-2" qtype="treatment">What are the treatments for Carpal Tunnel Syndrome ?</Question>
+			<Answer>Initial treatment generally involves immobilizing the wrist in a splint, nonsteroidal anti-inflammatory drugs to temporarily reduce swelling, and injections of corticosteroid drugs (such as prednisone). For more severe cases, surgery may be recommended.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000058-3" qtype="outlook">What is the outlook for Carpal Tunnel Syndrome ?</Question>
+			<Answer>In general, carpal tunnel syndrome responds well to treatment, but less than half of individuals report their hand(s) feeling completely normal following surgery. Some residual numbness or weakness is common. At work, people can perform stretching exercises, take frequent rest breaks, wear splints to keep wrists straight, and use correct posture and wrist position to help prevent or worsen symptoms. Wearing fingerless gloves can help keep hands warm and flexible.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000058-4" qtype="research">what research (or clinical trials) is being done for Carpal Tunnel Syndrome ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to conduct fundamental research on the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. NINDS-funded scientists are studying the factors that lead to long-lasting nerve pain disorders, and how the affected nerves are related to symptoms of numbness, loss of function, and pain. Researchers also are examining biomechanical stresses that contribute to the nerve damage responsible for symptoms of carpal tunnel syndrome in order to better understand, treat, and prevent it.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

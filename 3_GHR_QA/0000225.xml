@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000225" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-fibrosis-of-the-extraocular-muscles">
+<Focus>congenital fibrosis of the extraocular muscles</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016059</CUI>
+			<CUI>C1302995</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CFEOM</Synonym>
+		<Synonym>congenital external ophthalmoplegia</Synonym>
+		<Synonym>congenital fibrosis of extraocular muscles</Synonym>
+		<Synonym>congenital fibrosis syndrome</Synonym>
+		<Synonym>general fibrosis syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000225-1" qtype="information">What is (are) congenital fibrosis of the extraocular muscles ?</Question>
+			<Answer>Congenital fibrosis of the extraocular muscles is a disorder that affects the muscles that surround the eyes. These muscles control eye movement and the position of the eyes (for example, looking straight ahead). Congenital fibrosis of the extraocular muscles prevents the normal development and function of these muscles. As a result, affected individuals are unable to move their eyes normally. Most people with this condition have difficulty looking upward, and their side-to-side eye movement may also be limited. The eyes may be misaligned such that they look in different directions (strabismus). Instead of moving their eyes, affected individuals may need to turn their head to track moving objects. Additionally, many people with congenital fibrosis of the extraocular muscles have droopy eyelids (ptosis), which further limits their vision.  Researchers have identified at least four forms of congenital fibrosis of the extraocular muscles, designated CFEOM1, CFEOM2, CFEOM3, and Tukel syndrome. The specific problems with eye movement vary among the types. Tukel syndrome is characterized by missing fingers (oligodactyly) and other hand abnormalities in addition to problems with eye movement.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000225-2" qtype="frequency">How many people are affected by congenital fibrosis of the extraocular muscles ?</Question>
+			<Answer>CFEOM1 is the most common form of congenital fibrosis of the extraocular muscles, affecting at least 1 in 230,000 people. CFEOM1 and CFEOM3 have been reported worldwide, whereas CFEOM2 has been seen in only a few families of Turkish, Saudi Arabian, and Iranian descent. Tukel syndrome appears to be very rare; it has been diagnosed in only one large Turkish family.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000225-3" qtype="genetic changes">What are the genetic changes related to congenital fibrosis of the extraocular muscles ?</Question>
+			<Answer>CFEOM1 and rare cases of CFEOM3 result from mutations in the KIF21A gene. This gene provides instructions for making a protein called a kinesin, which is essential for the transport of materials within cells. Researchers believe that this protein plays an important role in the normal development and function of nerves in the head and face. In particular, this protein plays a critical role in the development of a particular branch of cranial nerve III, which emerges from the brain and controls muscles that raise the eyes and eyelids. Mutations in the KIF21A gene likely alter the protein&apos;s ability to transport materials within nerve cells, preventing the normal development of these cranial nerves and the extraocular muscles they control. Abnormal function of the extraocular muscles leads to restricted eye movement and related problems with vision.  Mutations in the PHOX2A gene cause CFEOM2. This gene provides instructions for making a protein that is found in the developing nervous system. Studies suggest that the PHOX2A protein plays a critical role in the development of cranial nerves III and IV, which are necessary for normal eye movement. Mutations likely eliminate the function of the PHOX2A protein, which prevents the normal development of these cranial nerves and the extraocular muscles they control.  In most cases of CFEOM3, the genetic cause of the condition is unknown. Studies suggest that a gene associated with CFEOM3 may be located near one end of chromosome 16. The gene associated with Tukel syndrome has not been identified either, although researchers think that it may be located near one end of chromosome 21.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000225-4" qtype="inheritance">Is congenital fibrosis of the extraocular muscles inherited ?</Question>
+			<Answer>The different types of congenital fibrosis of the extraocular muscles have different patterns of inheritance. CFEOM1 and CFEOM3 are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  CFEOM2 is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Tukel syndrome also appears to have an autosomal recessive pattern of inheritance, although the genetic change responsible for this disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000225-5" qtype="treatment">What are the treatments for congenital fibrosis of the extraocular muscles ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital fibrosis of the extraocular muscles:  - Gene Review: Gene Review: Congenital Fibrosis of the Extraocular Muscles  - Genetic Testing Registry: Fibrosis of extraocular muscles, congenital, 1  - Genetic Testing Registry: Fibrosis of extraocular muscles, congenital, 2  - Genetic Testing Registry: Fibrosis of extraocular muscles, congenital, 3a, with or without extraocular involvement  - Genetic Testing Registry: Tukel syndrome  - MedlinePlus Encyclopedia: Extraocular Muscle Function Testing  - MedlinePlus Encyclopedia: Strabismus   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

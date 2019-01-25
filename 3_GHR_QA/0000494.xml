@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000494" source="GHR" url="https://ghr.nlm.nih.gov/condition/hyperkalemic-periodic-paralysis">
+<Focus>hyperkalemic periodic paralysis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238357</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>adynamia episodica hereditaria</Synonym>
+		<Synonym>familial hyperkalemic periodic paralysis</Synonym>
+		<Synonym>Gamstorp disease</Synonym>
+		<Synonym>Gamstorp episodic adynamy</Synonym>
+		<Synonym>hyperKPP</Synonym>
+		<Synonym>hyperPP</Synonym>
+		<Synonym>primary hyperkalemic periodic paralysis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000494-1" qtype="information">What is (are) hyperkalemic periodic paralysis ?</Question>
+			<Answer>Hyperkalemic periodic paralysis is a condition that causes episodes of extreme muscle weakness or paralysis, usually beginning in infancy or early childhood. Most often, these episodes involve a temporary inability to move muscles in the arms and legs. Episodes tend to increase in frequency until mid-adulthood, after which they occur less frequently. Factors that can trigger attacks include rest after exercise, potassium-rich foods such as bananas and potatoes, stress, fatigue, alcohol, pregnancy, exposure to cold temperatures, certain medications, and periods without food (fasting). Muscle strength usually returns to normal between attacks, although many affected people continue to experience mild stiffness (myotonia), particularly in muscles of the face and hands.  Most people with hyperkalemic periodic paralysis have increased levels of potassium in their blood (hyperkalemia) during attacks. Hyperkalemia results when the weak or paralyzed muscles release potassium ions into the bloodstream. In other cases, attacks are associated with normal blood potassium levels (normokalemia). Ingesting potassium can trigger attacks in affected individuals, even if blood potassium levels do not go up.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000494-2" qtype="frequency">How many people are affected by hyperkalemic periodic paralysis ?</Question>
+			<Answer>Hyperkalemic periodic paralysis affects an estimated 1 in 200,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000494-3" qtype="genetic changes">What are the genetic changes related to hyperkalemic periodic paralysis ?</Question>
+			<Answer>Mutations in the SCN4A gene can cause hyperkalemic periodic paralysis. The SCN4A gene provides instructions for making a protein that plays an essential role in muscles used for movement (skeletal muscles). For the body to move normally, these muscles must tense (contract) and relax in a coordinated way. One of the changes that helps trigger muscle contractions is the flow of positively charged atoms (ions), including sodium, into muscle cells. The SCN4A protein forms channels that control the flow of sodium ions into these cells.  Mutations in the SCN4A gene alter the usual structure and function of sodium channels. The altered channels stay open too long or do not stay closed long enough, allowing more sodium ions to flow into muscle cells. This increase in sodium ions triggers the release of potassium from muscle cells, which causes more sodium channels to open and stimulates the flow of even more sodium ions into these cells. These changes in ion transport reduce the ability of skeletal muscles to contract, leading to episodes of muscle weakness or paralysis.  In 30 to 40 percent of cases, the cause of hyperkalemic periodic paralysis is unknown. Changes in other genes, which have not been identified, likely cause the disorder in these cases.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000494-4" qtype="inheritance">Is hyperkalemic periodic paralysis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000494-5" qtype="treatment">What are the treatments for hyperkalemic periodic paralysis ?</Question>
+			<Answer>These resources address the diagnosis or management of hyperkalemic periodic paralysis:  - Gene Review: Gene Review: Hyperkalemic Periodic Paralysis  - Genetic Testing Registry: Familial hyperkalemic periodic paralysis  - Genetic Testing Registry: Hyperkalemic Periodic Paralysis Type 1  - MedlinePlus Encyclopedia: Hyperkalemic Periodic Paralysis  - Periodic Paralysis International: How is Periodic Paralysis Diagnosed?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

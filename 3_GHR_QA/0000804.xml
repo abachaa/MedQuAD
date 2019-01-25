@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000804" source="GHR" url="https://ghr.nlm.nih.gov/condition/polycystic-kidney-disease">
+<Focus>polycystic kidney disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022680</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PKD</Synonym>
+		<Synonym>polycystic renal disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000804-1" qtype="information">What is (are) polycystic kidney disease ?</Question>
+			<Answer>Polycystic kidney disease is a disorder that affects the kidneys and other organs. Clusters of fluid-filled sacs, called cysts, develop in the kidneys and interfere with their ability to filter waste products from the blood. The growth of cysts causes the kidneys to become enlarged and can lead to kidney failure. Cysts may also develop in other organs, particularly the liver.  Frequent complications of polycystic kidney disease include dangerously high blood pressure (hypertension), pain in the back or sides, blood in the urine (hematuria), recurrent urinary tract infections, kidney stones, and heart valve abnormalities. Additionally, people with polycystic kidney disease have an increased risk of an abnormal bulging (an aneurysm) in a large blood vessel called the aorta or in blood vessels at the base of the brain. Aneurysms can be life-threatening if they tear or rupture.  The two major forms of polycystic kidney disease are distinguished by the usual age of onset and the pattern in which it is passed through families. The autosomal dominant form (sometimes called ADPKD) has signs and symptoms that typically begin in adulthood, although cysts in the kidney are often present from birth or childhood. Autosomal dominant polycystic kidney disease can be further divided into type 1 and type 2, depending on the genetic cause. The autosomal recessive form of polycystic kidney disease (sometimes called ARPKD) is much rarer and is often lethal early in life. The signs and symptoms of this condition are usually apparent at birth or in early infancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000804-2" qtype="frequency">How many people are affected by polycystic kidney disease ?</Question>
+			<Answer>Polycystic kidney disease is a fairly common genetic disorder. It affects about 500,000 people in the United States. The autosomal dominant form of the disease is much more common than the autosomal recessive form. Autosomal dominant polycystic kidney disease affects 1 in 500 to 1,000 people, while the autosomal recessive type occurs in an estimated 1 in 20,000 to 40,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000804-3" qtype="genetic changes">What are the genetic changes related to polycystic kidney disease ?</Question>
+			<Answer>Mutations in the PKD1, PKD2, and PKHD1 genes cause polycystic kidney disease.  Mutations in either the PKD1 or PKD2 gene can cause autosomal dominant polycystic kidney disease; PKD1 gene mutations cause ADPKD type 1, and PKD2 gene mutations cause ADPKD type 2. These genes provide instructions for making proteins whose functions are not fully understood. Researchers believe that they are involved in transmitting chemical signals from outside the cell to the cell&apos;s nucleus. The two proteins work together to promote normal kidney development, organization, and function. Mutations in the PKD1 or PKD2 gene lead to the formation of thousands of cysts, which disrupt the normal functions of the kidneys and other organs. People with mutations in the PKD2 gene, particularly women, typically have a less severe form of the disease than people with PKD1 mutations. The signs and symptoms, including a decline in kidney function, tend to appear later in adulthood in people with a PKD2 mutation.  Mutations in the PKHD1 gene cause autosomal recessive polycystic kidney disease. This gene provides instructions for making a protein whose exact function is unknown; however, the protein likely transmits chemical signals from outside the cell to the cell nucleus. Researchers have not determined how mutations in the PKHD1 gene lead to the formation of numerous cysts characteristic of polycystic kidney disease.  Although polycystic kidney disease is usually a genetic disorder, a small percentage of cases are not caused by gene mutations. These cases are called acquired polycystic kidney disease. This form of the disorder occurs most often in people with other types of kidney disease who have been treated for several years with hemodialysis (a procedure that filters waste products from the blood).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000804-4" qtype="inheritance">Is polycystic kidney disease inherited ?</Question>
+			<Answer>Most cases of polycystic kidney disease have an autosomal dominant pattern of inheritance. People with this condition are born with one mutated copy of the PKD1 or PKD2 gene in each cell. In about 90 percent of these cases, an affected person inherits the mutation from one affected parent. The other 10 percent of cases result from a new mutation in one of the genes and occur in people with no history of the disorder in their family.  Although one altered copy of a gene in each cell is sufficient to cause the disorder, an additional mutation in the second copy of the PKD1 or PKD2 gene may make cysts grow faster and increase the severity of the disease. The rate at which cysts enlarge and cause a loss of kidney function varies widely, and may be influenced by mutations in other genes that have not been identified.  Polycystic kidney disease also can be inherited in an autosomal recessive pattern. People with this form of the condition have two altered copies of the PKHD1 gene in each cell. The parents of a child with an autosomal recessive disorder are not affected but are carriers of one copy of the altered gene.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000804-5" qtype="treatment">What are the treatments for polycystic kidney disease ?</Question>
+			<Answer>These resources address the diagnosis or management of polycystic kidney disease:  - Gene Review: Gene Review: Polycystic Kidney Disease, Autosomal Dominant  - Gene Review: Gene Review: Polycystic Kidney Disease, Autosomal Recessive  - Genetic Testing Registry: Polycystic kidney disease 2  - Genetic Testing Registry: Polycystic kidney disease 3, autosomal dominant  - Genetic Testing Registry: Polycystic kidney disease, adult type  - Genetic Testing Registry: Polycystic kidney disease, infantile type  - MedlinePlus Encyclopedia: Polycystic kidney disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

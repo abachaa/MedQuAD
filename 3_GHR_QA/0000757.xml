@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000757" source="GHR" url="https://ghr.nlm.nih.gov/condition/osteogenesis-imperfecta">
+<Focus>osteogenesis imperfecta</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029434</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Brittle bone disease</Synonym>
+		<Synonym>Fragilitas ossium</Synonym>
+		<Synonym>OI</Synonym>
+		<Synonym>Vrolik disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000757-1" qtype="information">What is (are) osteogenesis imperfecta ?</Question>
+			<Answer>Osteogenesis imperfecta (OI) is a group of genetic disorders that mainly affect the bones. The term &quot;osteogenesis imperfecta&quot; means imperfect bone formation. People with this condition have bones that break easily, often from mild trauma or with no apparent cause. Multiple fractures are common, and in severe cases, can occur even before birth. Milder cases may involve only a few fractures over a person&apos;s lifetime.  There are at least eight recognized forms of osteogenesis imperfecta, designated type I through type VIII. The types can be distinguished by their signs and symptoms, although their characteristic features overlap. Type I is the mildest form of osteogenesis imperfecta and type II is the most severe; other types of this condition have signs and symptoms that fall somewhere between these two extremes. Increasingly, genetic factors are used to define the different forms of osteogenesis imperfecta.  The milder forms of osteogenesis imperfecta, including type I, are characterized by bone fractures during childhood and adolescence that often result from minor trauma. Fractures occur less frequently in adulthood. People with mild forms of the condition typically have a blue or grey tint to the part of the eye that is usually white (the sclera), and may develop hearing loss in adulthood. Affected individuals are usually of normal or near normal height.  Other types of osteogenesis imperfecta are more severe, causing frequent bone fractures that may begin before birth and result from little or no trauma. Additional features of these conditions can include blue sclerae, short stature, hearing loss, respiratory problems, and a disorder of tooth development called dentinogenesis imperfecta. The most severe forms of osteogenesis imperfecta, particularly type II, can include an abnormally small, fragile rib cage and underdeveloped lungs. Infants with these abnormalities have life-threatening problems with breathing and often die shortly after birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000757-2" qtype="frequency">How many people are affected by osteogenesis imperfecta ?</Question>
+			<Answer>This condition affects an estimated 6 to 7 per 100,000 people worldwide. Types I and IV are the most common forms of osteogenesis imperfecta, affecting 4 to 5 per 100,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000757-3" qtype="genetic changes">What are the genetic changes related to osteogenesis imperfecta ?</Question>
+			<Answer>Mutations in the COL1A1, COL1A2, CRTAP, and P3H1 genes cause osteogenesis imperfecta.  Mutations in the COL1A1 and COL1A2 genes are responsible for more than 90 percent of all cases of osteogenesis imperfecta. These genes provide instructions for making proteins that are used to assemble type I collagen. This type of collagen is the most abundant protein in bone, skin, and other connective tissues that provide structure and strength to the body.  Most of the mutations that cause osteogenesis imperfecta type I occur in the COL1A1 gene. These genetic changes reduce the amount of type I collagen produced in the body, which causes bones to be brittle and to fracture easily. The mutations responsible for most cases of osteogenesis imperfecta types II, III, and IV occur in either the COL1A1 or COL1A2 gene. These mutations typically alter the structure of type I collagen molecules. A defect in the structure of type I collagen weakens connective tissues, particularly bone, resulting in the characteristic features of osteogenesis imperfecta.  Mutations in the CRTAP and P3H1 genes are responsible for rare, often severe cases of osteogenesis imperfecta. Cases caused by CRTAP mutations are usually classified as type VII; when P3H1 mutations underlie the condition, it is classified as type VIII. The proteins produced from these genes work together to process collagen into its mature form. Mutations in either gene disrupt the normal folding, assembly, and secretion of collagen molecules. These defects weaken connective tissues, leading to severe bone abnormalities and problems with growth.  In cases of osteogenesis imperfecta without identified mutations in one of the genes described above, the cause of the disorder is unknown. These cases include osteogenesis imperfecta types V and VI. Researchers are working to identify additional genes that may be responsible for these conditions.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000757-4" qtype="inheritance">Is osteogenesis imperfecta inherited ?</Question>
+			<Answer>Most cases of osteogenesis imperfecta have an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the condition. Many people with type I or type IV osteogenesis imperfecta inherit a mutation from a parent who has the disorder. Most infants with more severe forms of osteogenesis imperfecta (such as type II and type III) have no history of the condition in their family. In these infants, the condition is caused by new (sporadic) mutations in the COL1A1 or COL1A2 gene.  Less commonly, osteogenesis imperfecta has an autosomal recessive pattern of inheritance. Autosomal recessive inheritance means two copies of the gene in each cell are altered. The parents of a child with an autosomal recessive disorder typically are not affected, but each carry one copy of the altered gene. Some cases of osteogenesis imperfecta type III are autosomal recessive; these cases usually result from mutations in genes other than COL1A1 and COL1A2. When osteogenesis imperfecta is caused by mutations in the CRTAP or P3H1 gene, the condition also has an autosomal recessive pattern of inheritance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000757-5" qtype="treatment">What are the treatments for osteogenesis imperfecta ?</Question>
+			<Answer>These resources address the diagnosis or management of osteogenesis imperfecta:  - Gene Review: Gene Review: COL1A1/2-Related Osteogenesis Imperfecta  - Genetic Testing Registry: Osteogenesis imperfecta  - Genetic Testing Registry: Osteogenesis imperfecta type 5  - Genetic Testing Registry: Osteogenesis imperfecta type 6  - Genetic Testing Registry: Osteogenesis imperfecta type 7  - Genetic Testing Registry: Osteogenesis imperfecta type 8  - Genetic Testing Registry: Osteogenesis imperfecta type I  - Genetic Testing Registry: Osteogenesis imperfecta type III  - Genetic Testing Registry: Osteogenesis imperfecta with normal sclerae, dominant form  - Genetic Testing Registry: Osteogenesis imperfecta, recessive perinatal lethal  - MedlinePlus Encyclopedia: Osteogenesis Imperfecta   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001043" source="GHR" url="https://ghr.nlm.nih.gov/condition/wolman-disease">
+<Focus>Wolman disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043208</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acid lipase deficiency</Synonym>
+		<Synonym>Familial Xanthomatosis</Synonym>
+		<Synonym>LAL deficiency</Synonym>
+		<Synonym>LIPA deficiency</Synonym>
+		<Synonym>Liposomal Acid Lipase Deficiency, Wolman Type</Synonym>
+		<Synonym>Lysosomal acid lipase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001043-1" qtype="information">What is (are) Wolman disease ?</Question>
+			<Answer>Wolman disease is a rare inherited condition involving the breakdown and use of fats and cholesterol in the body (lipid metabolism). In affected individuals, harmful amounts of lipids accumulate in the spleen, liver, bone marrow, small intestine, small hormone-producing glands on top of each kidney (adrenal glands), and lymph nodes. In addition to fat deposits, calcium deposits in the adrenal glands are also seen.  Infants with Wolman disease are healthy and active at birth but soon develop signs and symptoms of the disorder. These may include an enlarged liver and spleen (hepatosplenomegaly), poor weight gain, low muscle tone, a yellow tint to the skin and the whites of the eyes (jaundice), vomiting, diarrhea, developmental delay, low amounts of iron in the blood (anemia), and poor absorption of nutrients from food. Children affected by this condition develop severe malnutrition and generally do not survive past early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001043-2" qtype="frequency">How many people are affected by Wolman disease ?</Question>
+			<Answer>Wolman disease is estimated to occur in 1 in 350,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001043-3" qtype="genetic changes">What are the genetic changes related to Wolman disease ?</Question>
+			<Answer>Mutations in the LIPA gene cause Wolman disease.  The LIPA gene provides instructions for producing an enzyme called lysosomal acid lipase. This enzyme is found in the lysosomes (compartments that digest and recycle materials in the cell), where it processes lipids such as cholesteryl esters and triglycerides so they can be used by the body.  Mutations in this gene lead to a shortage of lysosomal acid lipase and the accumulation of triglycerides, cholesteryl esters, and other kinds of fats within the cells and tissues of affected individuals. This accumulation as well as malnutrition caused by the body&apos;s inability to use lipids properly result in the signs and symptoms of Wolman disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001043-4" qtype="inheritance">Is Wolman disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001043-5" qtype="treatment">What are the treatments for Wolman disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Wolman disease:  - Genetic Testing Registry: Lysosomal acid lipase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

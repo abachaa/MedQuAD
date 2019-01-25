@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003774" source="GARD" url="https://rarediseases.info.nih.gov/gard/10872/malignant-peripheral-nerve-sheath-tumor">
+<Focus>Malignant peripheral nerve sheath tumor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751690</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MPNST</Synonym>
+		<Synonym>Malignant neurilemmoma</Synonym>
+		<Synonym>Malignant neurofibroma</Synonym>
+		<Synonym>Malignant schwannoma</Synonym>
+		<Synonym>Neurofibrosarcoma</Synonym>
+		<Synonym>Tumor of cranial and spinal nerves</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003774-1" qtype="information">What is (are) Malignant peripheral nerve sheath tumor ?</Question>
+			<Answer>A malignant peripheral nerve sheath tumor (MPNST) is a tumor that develops from nerve tissue.  The first symptom of MPNST is a lump or mass that increases in size, sometimes causing pain or a tingling sensation.  MPNST is considered an aggressive tumor because there is up to a 65% chance of the tumor regrowing after surgery (a recurrence), and approximately 40% chance of spreading to distant parts of the body (a metastasis), most commonly to the lung.  Treatment of MPNST begins with surgery to remove as much of the tumor as possible.  Radiation therapy may be used to decrease the chance of a recurrence.  Chemotherapy might be used if the whole tumor cannot be removed during surgery, or to treat a metastasis.  MPNSTs are quite rare, occurring in 0.001% of the general population.  Approximately 25-50% of MPNSTs are associated with a genetic condition known as neurofibromatosis type 1.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

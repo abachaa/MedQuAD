@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000654" source="GHR" url="https://ghr.nlm.nih.gov/condition/microcephaly-capillary-malformation-syndrome">
+<Focus>microcephaly-capillary malformation syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0340803</CUI>
+			<CUI>C3280296</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MIC-CAP syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000654-1" qtype="information">What is (are) microcephaly-capillary malformation syndrome ?</Question>
+			<Answer>Microcephaly-capillary malformation syndrome is an inherited disorder characterized by an abnormally small head size (microcephaly) and abnormalities of small blood vessels in the skin called capillaries (capillary malformations).  In people with microcephaly-capillary malformation syndrome, microcephaly begins before birth and is associated with an unusually small brain and multiple brain abnormalities. Affected individuals develop seizures that can occur many times per day and are difficult to treat (intractable epilepsy). The problems with brain development and epilepsy lead to profound developmental delay and intellectual impairment. Most affected individuals do not develop skills beyond those of a 1- or 2-month-old infant. For example, most children with this condition are never able to control their head movements or sit unassisted.  Capillary malformations are composed of enlarged capillaries that increase blood flow near the surface of the skin. These malformations look like pink or red spots on the skin. People with microcephaly-capillary malformation syndrome are born with anywhere from a few to hundreds of these spots, which can occur anywhere on the body. The spots are usually round or oval-shaped and range in size from the head of a pin to a large coin.  Other signs and symptoms of microcephaly-capillary malformation syndrome include abnormal movements, feeding difficulties, slow growth, and short stature. Most affected individuals have abnormalities of the fingers and toes, including digits with tapered ends and abnormally small or missing fingernails and toenails. Some affected children also have distinctive facial features and an unusual pattern of hair growth on the scalp.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000654-2" qtype="frequency">How many people are affected by microcephaly-capillary malformation syndrome ?</Question>
+			<Answer>Microcephaly-capillary malformation syndrome is rare. About a dozen people have been diagnosed with the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000654-3" qtype="genetic changes">What are the genetic changes related to microcephaly-capillary malformation syndrome ?</Question>
+			<Answer>Microcephaly-capillary malformation syndrome results from mutations in the STAMBP gene. This gene provides instructions for making a protein called STAM binding protein. This protein plays a role in sorting damaged or unneeded proteins so they can be transported from the cell surface to specialized cell compartments that break down (degrade) or recycle them. This process helps to maintain the proper balance of protein production and breakdown (protein homeostasis) that cells need to function and survive. Studies suggest that STAM binding protein is also involved in multiple chemical signaling pathways within cells, including pathways needed for overall growth and the formation of new blood vessels (angiogenesis).  Mutations in the STAMBP gene reduce or eliminate the production of STAM binding protein. This shortage allows damaged or unneeded proteins to build up inside cells instead of being degraded or recycled, which may damage cells and cause them to self-destruct (undergo apoptosis). Researchers suspect that abnormal apoptosis of brain cells starting before birth may cause microcephaly and the underlying brain abnormalities found in people with microcephaly-capillary malformation syndrome. A lack of STAM binding protein also alters multiple signaling pathways that are necessary for normal development, which may underlie the capillary malformations and other signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000654-4" qtype="inheritance">Is microcephaly-capillary malformation syndrome inherited ?</Question>
+			<Answer>This condition has an autosomal recessive pattern of inheritance, which means both copies of the STAMBP gene in each cell have mutations. An affected individual usually inherits one altered copy of the gene from each parent. Parents of an individual with an autosomal recessive condition typically do not show signs and symptoms of the condition.  At least one individual with microcephaly-capillary malformation syndrome inherited two mutated copies of the STAMBP gene through a mechanism called uniparental isodisomy. In this case, an error occurred during the formation of egg or sperm cells, and the child received two copies of the mutated gene from one parent instead of one copy from each parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000654-5" qtype="treatment">What are the treatments for microcephaly-capillary malformation syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of microcephaly-capillary malformation syndrome:  - Gene Review: Gene Review: Microcephaly-Capillary Malformation Syndrome  - Genetic Testing Registry: Microcephaly-capillary malformation syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

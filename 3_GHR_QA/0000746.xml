@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000746" source="GHR" url="https://ghr.nlm.nih.gov/condition/oculofaciocardiodental-syndrome">
+<Focus>oculofaciocardiodental syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1846265</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MCOPS2</Synonym>
+		<Synonym>Microphthalmia, cataracts, radiculomegaly, and septal heart defects</Synonym>
+		<Synonym>Microphthalmia, syndromic 2</Synonym>
+		<Synonym>Oculo-facio-cardio-dental syndrome</Synonym>
+		<Synonym>OFCD syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000746-1" qtype="information">What is (are) oculofaciocardiodental syndrome ?</Question>
+			<Answer>Oculofaciocardiodental (OFCD) syndrome is a condition that affects the development of the eyes (oculo-), facial features (facio-), heart (cardio-) and teeth (dental). This condition occurs only in females.  The eye abnormalities associated with OFCD syndrome can affect one or both eyes. Many people with this condition are born with eyeballs that are abnormally small (microphthalmia). Other eye problems can include clouding of the lens (cataract) and a higher risk of glaucoma, an eye disease that increases the pressure in the eye. These abnormalities can lead to vision loss or blindness.  People with OFCD syndrome often have a long, narrow face with distinctive facial features, including deep-set eyes and a broad nasal tip that is divided by a cleft. Some affected people have an opening in the roof of the mouth called a cleft palate.  Heart defects are another common feature of OFCD syndrome. Babies with this condition may be born with a hole between two chambers of the heart (an atrial or ventricular septal defect) or a leak in one of the valves that controls blood flow through the heart (mitral valve prolapse).  Teeth with very large roots (radiculomegaly) are characteristic of OFCD syndrome. Additional dental abnormalities can include delayed loss of primary (baby) teeth, missing or abnormally small teeth, misaligned teeth, and defective tooth enamel.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000746-2" qtype="frequency">How many people are affected by oculofaciocardiodental syndrome ?</Question>
+			<Answer>OFCD syndrome is very rare; the incidence is estimated to be less than 1 in 1 million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000746-3" qtype="genetic changes">What are the genetic changes related to oculofaciocardiodental syndrome ?</Question>
+			<Answer>Mutations in the BCOR gene cause OFCD syndrome. The BCOR gene provides instructions for making a protein called the BCL6 corepressor. This protein helps regulate the activity of other genes. Little is known about the protein&apos;s function, although it appears to play an important role in early embryonic development. Several mutations in the BCOR gene have been found in people with OFCD syndrome. These mutations prevent the production of any functional protein from the altered gene, which disrupts the normal development of the eyes and several other organs and tissues before birth.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000746-4" qtype="inheritance">Is oculofaciocardiodental syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked dominant pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell is sufficient to cause the disorder. Some cells produce a normal amount of BCL6 corepressor protein and other cells produce none. The resulting overall reduction in the amount of this protein leads to the signs and symptoms of OFCD syndrome.  In males (who have only one X chromosome), mutations result in a total loss of the BCL6 corepressor protein. A lack of this protein appears to be lethal very early in development, so no males are born with OFCD syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000746-5" qtype="treatment">What are the treatments for oculofaciocardiodental syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of oculofaciocardiodental syndrome:  - Genetic Testing Registry: Oculofaciocardiodental syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

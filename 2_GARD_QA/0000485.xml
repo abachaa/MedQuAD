@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000485" source="GARD" url="https://rarediseases.info.nih.gov/gard/5856/aspergillosis">
+<Focus>Aspergillosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004030</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000485-1" qtype="information">What is (are) Aspergillosis ?</Question>
+			<Answer>Aspergillosis is an infection, growth, or allergic response caused by the Aspergillus fungus. There are several different kinds of aspergillosis. One kind is allergic bronchopulmonary aspergillosis (also called ABPA), a condition where the fungus causes allergic respiratory symptoms similar to asthma, such as wheezing and coughing, but does not actually invade and destroy tissue. Another kind of aspergillosis is invasive aspergillosis. This infection usually affects people with weakened immune systems due to cancer, AIDS, leukemia, organ transplantation, chemotherapy, or other conditions or events that reduce the number of normal white blood cells. In this condition, the fungus invades and damages tissues in the body. Invasive aspergillosis most commonly affects the lungs, but can also cause infection in many other organs and can spread throughout the body (commonly affecting the kidneys and brain). Aspergilloma, a growth (fungus ball) that develops in an area of previous lung disease such as tuberculosis or lung abscess, is a third kind of aspergillosis. This type of aspergillosis is composed of a tangled mass of fungus fibers, blood clots, and white blood cells. The fungus ball gradually enlarges, destroying lung tissue in the process, but usually does not spread to other areas.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000485-2" qtype="treatment">What are the treatments for Aspergillosis ?</Question>
+			<Answer>How might aspergillosis be treated? If the infection is widespread or the person appears seriously ill, treatment is started immediately. Voriconazole is currently first-line treatment for invasive aspergillosis and is usually given intravenously. There are other antifungal drugs that can be used to treat invasive aspergillosis in patients who cannot take voriconazole or who have not responded to voriconazole. These include itraconazole, lipid amphotericin formulations, caspofungin, micafungin, and posaconazole. Whenever possible, immunosuppressive medications should be discontinued or decreased. A fungus ball usually does not require treatment unless bleeding into the lung tissue is associated with the infection, then surgery is required. Antifungal agents do not help people with allergic aspergillosis. Allergic aspergillosis is treated with prednisone taken by mouth.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

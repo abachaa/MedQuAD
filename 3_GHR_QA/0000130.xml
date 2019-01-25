@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000130" source="GHR" url="https://ghr.nlm.nih.gov/condition/blepharophimosis-ptosis-and-epicanthus-inversus-syndrome">
+<Focus>blepharophimosis, ptosis, and epicanthus inversus syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0005744</CUI>
+			<CUI>C1303003</CUI>
+			<CUI>C0033377</CUI>
+			<CUI>C0039082</CUI>
+			<CUI>C0005745</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>blepharophimosis syndrome</Synonym>
+		<Synonym>blepharophimosis, ptosis, and epicanthus inversus</Synonym>
+		<Synonym>BPES</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000130-1" qtype="information">What is (are) blepharophimosis, ptosis, and epicanthus inversus syndrome ?</Question>
+			<Answer>Blepharophimosis, ptosis, and epicanthus inversus syndrome (BPES) is a condition that mainly affects development of the eyelids. People with this condition have a narrowing of the eye opening (blepharophimosis), droopy eyelids (ptosis), and an upward fold of the skin of the lower eyelid near the inner corner of the eye (epicanthus inversus). In addition, there is an increased distance between the inner corners of the eyes (telecanthus). Because of these eyelid abnormalities, the eyelids cannot open fully, and vision may be limited.  Other structures in the eyes and face may be mildly affected by BPES. Affected individuals are at an increased risk of developing vision problems such as nearsightedness (myopia) or farsightedness (hyperopia) beginning in childhood. They may also have eyes that do not point in the same direction (strabismus) or &quot;lazy eye&quot; (amblyopia) affecting one or both eyes. People with BPES may also have distinctive facial features including a broad nasal bridge, low-set ears, or a shortened distance between the nose and upper lip (a short philtrum).  There are two types of BPES, which are distinguished by their signs and symptoms. Both types I and II include the eyelid malformations and other facial features. Type I is also associated with an early loss of ovarian function (primary ovarian insufficiency) in women, which causes their menstrual periods to become less frequent and eventually stop before age 40. Primary ovarian insufficiency can lead to difficulty conceiving a child (subfertility) or a complete inability to conceive (infertility).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000130-2" qtype="frequency">How many people are affected by blepharophimosis, ptosis, and epicanthus inversus syndrome ?</Question>
+			<Answer>The prevalence of BPES is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000130-3" qtype="genetic changes">What are the genetic changes related to blepharophimosis, ptosis, and epicanthus inversus syndrome ?</Question>
+			<Answer>Mutations in the FOXL2 gene cause BPES types I and II. The FOXL2 gene provides instructions for making a protein that is active in the eyelids and ovaries. The FOXL2 protein is likely involved in the development of muscles in the eyelids. Before birth and in adulthood, the protein regulates the growth and development of certain ovarian cells and the breakdown of specific molecules.  It is difficult to predict the type of BPES that will result from the many FOXL2 gene mutations. However, mutations that result in a partial loss of FOXL2 protein function generally cause BPES type II. These mutations probably impair regulation of normal development of muscles in the eyelids, resulting in malformed eyelids that cannot open fully. Mutations that lead to a complete loss of FOXL2 protein function often cause BPES type I. These mutations impair the regulation of eyelid development as well as various activities in the ovaries, resulting in eyelid malformation and abnormally accelerated maturation of certain ovarian cells and the premature death of egg cells.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000130-4" qtype="inheritance">Is blepharophimosis, ptosis, and epicanthus inversus syndrome inherited ?</Question>
+			<Answer>This condition is typically inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000130-5" qtype="treatment">What are the treatments for blepharophimosis, ptosis, and epicanthus inversus syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of BPES:  - Gene Review: Gene Review: Blepharophimosis, Ptosis, and Epicanthus Inversus  - Genetic Testing Registry: Blepharophimosis, ptosis, and epicanthus inversus  - MedlinePlus Encyclopedia: Ptosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

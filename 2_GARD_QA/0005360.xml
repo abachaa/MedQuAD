@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005360" source="GARD" url="https://rarediseases.info.nih.gov/gard/5699/rheumatic-fever">
+<Focus>Rheumatic Fever</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035436</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acute Rheumatic Fever</Synonym>
+		<Synonym>Inflammatory Rheumatism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005360-1" qtype="information">What is (are) Rheumatic Fever ?</Question>
+			<Answer>Rheumatic fever is an inflammatory condition that may develop after infection with group A Streptococcus bacteria, such as strep throat or scarlet fever. It is primarily diagnosed in children between the ages of 6 and 16 and can affect the heart, joints, nervous system and/or skin. Early signs and symptoms include sore throat; swollen red tonsils; fever; headache; and/or muscle and joint aches. Some affected people develop rheumatic heart disease, which can lead to serious inflammation and scarring of the heart valves. It is not clear why some people who are infected with group A Streptococcus bacteria go on to develop rheumatic fever, while others do not; however, it appears that some families may have a genetic susceptibility to develop the condition. Treatment usually includes antibiotics and/or anti-inflammatory medications.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005360-2" qtype="symptoms">What are the symptoms of Rheumatic Fever ?</Question>
+			<Answer>What are the signs and symptoms of Rheumatic Fever? Rheumatic fever is primarily diagnosed in children between the ages of 6 and 16 and can affect many different systems of the body, including the heart, joints, nervous system and/or skin. The condition usually develops approximately 14-28 days after infection with group A Streptococcus bacteria, such as strep throat or scarlet fever. Early signs and symptoms may include sore throat; swollen red tonsils; fever; headache; and/or muscle aches. Affected people may also experience: Abdominal pain Rheumatic heart disease Joint pain and/or swelling Nosebleeds Skin nodules (painless, firm, round lumps underneath the skin) Skin rash Sydenham chorea (abrupt, non-repetitive limb movements and grimaces) People with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition. This can cause progressive (worsening over time) heart damage. The Human Phenotype Ontology provides the following list of signs and symptoms for Rheumatic Fever. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of temperature regulation 90% Anorexia 90% Arthritis 90% Hypermelanotic macule 90% Nausea and vomiting 90% Recurrent pharyngitis 90% Abdominal pain 50% Abnormality of the aortic valve 50% Abnormality of the endocardium 50% Abnormality of the mitral valve 50% Abnormality of the myocardium 50% Arrhythmia 50% Arthralgia 50% Chest pain 50% Chorea 50% Pallor 50% Sinusitis 50% Abnormality of the pericardium 7.5% Abnormality of the pleura 7.5% Aplasia/Hypoplasia of the abdominal wall musculature 7.5% Behavioral abnormality 7.5% Constipation 7.5% Epistaxis 7.5% Gait disturbance 7.5% Hemiballismus 7.5% Migraine 7.5% Nephrotic syndrome 7.5% Neurological speech impairment 7.5% Respiratory insufficiency 7.5% Abnormality of the immune system - Fever - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005360-3" qtype="causes">What causes Rheumatic Fever ?</Question>
+			<Answer>What causes rheumatic fever? Rheumatic fever is an inflammatory condition that may develop approximately 14-28 days after infection with group A Streptococcus bacteria, such as strep throat or scarlet fever. About 5% of those with untreated strep infection will develop rheumatic fever. Although group A Streptococcus bacterial infections are highly contagious, rheumatic fever is not spread from person to person. The exact underlying cause of the condition is not well understood and it is unclear why some people with strep infections go on to develop rheumatic fever, while others do not. However, some scientists suspect that an exaggerated immune response in genetically susceptible people may play a role in the development of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005360-4" qtype="inheritance">Is Rheumatic Fever inherited ?</Question>
+			<Answer>Is rheumatic fever inherited? Rheumatic fever is likely inherited in a multifactorial manner, which means it is caused by multiple genes interacting with each other and with environmental factors. The condition is thought to occur in genetically susceptible children who are infected with group A Streptococcus bacteria and live in poor social conditions. Some studies suggest that differences in the expression of various genes involved in the immune response may contribute to rheumatic fever susceptibility.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005360-5" qtype="exams and tests">How to diagnose Rheumatic Fever ?</Question>
+			<Answer>How is rheumatic fever diagnosed? A diagnosis of rheumatic fever is usually based on the following: Characteristic signs and symptoms identified by physical examination and/or specialized testing such as a blood test, chest X-ray and echocardiogram Confirmation of group A Streptococcus bacterial infection with a throat culture or blood tests The diagnosis can also be supported by blood tests that confirm the presence of certain proteins that increase in response to inflammation (called acute-phase reactants) and tend to be elevated in rheumatic fever. Additional tests may be recommended to rule out other conditions that cause similar features.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0005360-6" qtype="treatment">What are the treatments for Rheumatic Fever ?</Question>
+			<Answer>How might rheumatic fever be treated? Treatment of rheumatic fever usually consists of antibiotics to treat the underlying group A Streptococcus bacterial infection and anti-inflammatory medications such as aspirin or corticosteroids. Because people with a history of rheumatic fever have a high risk of developing recurrent episodes of the condition, low dose antibiotics are often continued over a long period of time to prevent recurrence.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

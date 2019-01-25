@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000930" source="GHR" url="https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-4">
+<Focus>spastic paraplegia type 4</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030486</CUI>
+			<CUI>C3711371</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>spastic paraplegia 4</Synonym>
+		<Synonym>SPG4</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000930-1" qtype="information">What is (are) spastic paraplegia type 4 ?</Question>
+			<Answer>Spastic paraplegia type 4 is part of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the lower limbs (paraplegia). Hereditary spastic paraplegias are divided into two types: pure and complex. The pure types involve only the lower limbs, whereas the complex types also involve the upper limbs (to a lesser degree) and the nervous system. Spastic paraplegia type 4 is a pure hereditary spastic paraplegia.  Like all hereditary spastic paraplegias, spastic paraplegia type 4 involves spasticity of the leg muscles and muscle weakness. People with this condition can also experience exaggerated reflexes (hyperreflexia), ankle spasms, high-arched feet (pes cavus), and reduced bladder control. Spastic paraplegia type 4 generally affects nerve and muscle function in the lower half of the body only.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000930-2" qtype="frequency">How many people are affected by spastic paraplegia type 4 ?</Question>
+			<Answer>The prevalence of spastic paraplegia type 4 is estimated to be 2 to 6 in 100,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000930-3" qtype="genetic changes">What are the genetic changes related to spastic paraplegia type 4 ?</Question>
+			<Answer>Mutations in the SPAST gene cause spastic paraplegia type 4. The SPAST gene provides instructions for producing a protein called spastin. Spastin is found throughout the body, particularly in certain nerve cells (neurons). The spastin protein plays a role in the function of microtubules, which are rigid, hollow fibers that make up the cell&apos;s structural framework (the cytoskeleton). Microtubules are also involved in transporting cell components and facilitating cell division. Spastin likely helps restrict microtubule length and disassemble microtubule structures when they are no longer needed. Mutations in spastin impair the microtubules&apos; ability to transport cell components, especially in nerve cells; researchers believe this contributes to the major signs and symptoms of spastic paraplegia type 4.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000930-4" qtype="inheritance">Is spastic paraplegia type 4 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. The remaining cases may result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000930-5" qtype="treatment">What are the treatments for spastic paraplegia type 4 ?</Question>
+			<Answer>These resources address the diagnosis or management of spastic paraplegia type 4:  - Gene Review: Gene Review: Hereditary Spastic Paraplegia Overview  - Gene Review: Gene Review: Spastic Paraplegia 4  - Genetic Testing Registry: Spastic paraplegia 4, autosomal dominant  - Spastic Paraplegia Foundation, Inc.: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

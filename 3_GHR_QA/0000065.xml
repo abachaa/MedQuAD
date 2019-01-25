@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000065" source="GHR" url="https://ghr.nlm.nih.gov/condition/arginase-deficiency">
+<Focus>arginase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268548</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ARG1 deficiency</Synonym>
+		<Synonym>Arginase Deficiency Disease</Synonym>
+		<Synonym>Argininemia</Synonym>
+		<Synonym>Hyperargininemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000065-1" qtype="information">What is (are) arginase deficiency ?</Question>
+			<Answer>Arginase deficiency is an inherited disorder that causes the amino acid arginine (a building block of proteins) and ammonia to accumulate gradually in the blood. Ammonia, which is formed when proteins are broken down in the body, is toxic if levels become too high. The nervous system is especially sensitive to the effects of excess ammonia.  Arginase deficiency usually becomes evident by about the age of 3. It most often appears as stiffness, especially in the legs, caused by abnormal tensing of the muscles (spasticity). Other symptoms may include slower than normal growth, developmental delay and eventual loss of developmental milestones, intellectual disability, seizures, tremor, and difficulty with balance and coordination (ataxia). Occasionally, high protein meals or stress caused by illness or periods without food (fasting) may cause ammonia to accumulate more quickly in the blood. This rapid increase in ammonia may lead to episodes of irritability, refusal to eat, and vomiting.  In some affected individuals, signs and symptoms of arginase deficiency may be less severe, and may not appear until later in life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000065-2" qtype="frequency">How many people are affected by arginase deficiency ?</Question>
+			<Answer>Arginase deficiency is a very rare disorder; it has been estimated to occur once in every 300,000 to 1,000,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000065-3" qtype="genetic changes">What are the genetic changes related to arginase deficiency ?</Question>
+			<Answer>Mutations in the ARG1 gene cause arginase deficiency.  Arginase deficiency belongs to a class of genetic diseases called urea cycle disorders. The urea cycle is a sequence of reactions that occurs in liver cells. This cycle processes excess nitrogen, generated when protein is used by the body, to make a compound called urea that is excreted by the kidneys.  The ARG1 gene provides instructions for making an enzyme called arginase. This enzyme controls the final step of the urea cycle, which produces urea by removing nitrogen from arginine. In people with arginase deficiency, arginase is damaged or missing, and arginine is not broken down properly. As a result, urea cannot be produced normally, and excess nitrogen accumulates in the blood in the form of ammonia. The accumulation of ammonia and arginine are believed to cause the neurological problems and other signs and symptoms of arginase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000065-4" qtype="inheritance">Is arginase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000065-5" qtype="treatment">What are the treatments for arginase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of arginase deficiency:  - Baby&apos;s First Test  - Gene Review: Gene Review: Arginase Deficiency  - Gene Review: Gene Review: Urea Cycle Disorders Overview  - Genetic Testing Registry: Arginase deficiency  - MedlinePlus Encyclopedia: Hereditary urea cycle abnormality   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

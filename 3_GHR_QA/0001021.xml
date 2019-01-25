@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001021" source="GHR" url="https://ghr.nlm.nih.gov/condition/von-willebrand-disease">
+<Focus>von Willebrand disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042974</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>angiohemophilia</Synonym>
+		<Synonym>vascular pseudohemophilia</Synonym>
+		<Synonym>von Willebrand disorder</Synonym>
+		<Synonym>von Willebrand's factor deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001021-1" qtype="information">What is (are) von Willebrand disease ?</Question>
+			<Answer>Von Willebrand disease is a bleeding disorder that slows the blood clotting process, causing prolonged bleeding after an injury. People with this condition often experience easy bruising, long-lasting nosebleeds, and excessive bleeding or oozing following an injury, surgery, or dental work. Mild forms of von Willebrand disease may become apparent only when abnormal bleeding occurs following surgery or a serious injury. Women with this condition typically have heavy or prolonged bleeding during menstruation (menorrhagia), and some may also experience reproductive tract bleeding during pregnancy and childbirth. In severe cases of von Willebrand disease, heavy bleeding occurs after minor trauma or even in the absence of injury (spontaneous bleeding). Symptoms of von Willebrand disease may change over time. Increased age, pregnancy, exercise, and stress may cause bleeding symptoms to become less frequent.  Von Willebrand disease is divided into three types, with type 2 being further divided into four subtypes. Type 1 is the mildest and most common of the three types, accounting for 75 percent of affected individuals. Type 3 is the most severe and rarest form of the condition. The four subtypes of type 2 von Willebrand disease are intermediate in severity. Another form of the disorder, acquired von Willebrand syndrome, is not caused by inherited gene mutations. Acquired von Willebrand syndrome is typically seen along with other disorders, such as diseases that affect bone marrow or immune cell function. This rare form of the condition is characterized by abnormal bleeding into the skin and other soft tissues, usually beginning in adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001021-2" qtype="frequency">How many people are affected by von Willebrand disease ?</Question>
+			<Answer>Von Willebrand disease is estimated to affect 1 in 100 to 10,000 individuals. Because people with mild signs and symptoms may not come to medical attention, it is thought that this condition is underdiagnosed. Most researchers agree that von Willebrand disease is the most common genetic bleeding disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001021-3" qtype="genetic changes">What are the genetic changes related to von Willebrand disease ?</Question>
+			<Answer>Mutations in the VWF gene cause von Willebrand disease. The VWF gene provides instructions for making a blood clotting protein called von Willebrand factor, which is essential for the formation of blood clots. After an injury, clots protect the body by sealing off damaged blood vessels and preventing further blood loss. Von Willebrand factor acts as a glue to hold blood clots together and prevents the breakdown of other blood clotting proteins. If von Willebrand factor does not function normally or too little of the protein is available, blood clots cannot form properly. Abnormally slow blood clotting causes the prolonged bleeding episodes seen in von Willebrand disease.  The three types of von Willebrand disease are based upon the amount of von Willebrand factor that is produced. Mutations in the VWF gene that reduce the amount of von Willebrand factor cause type 1 von Willebrand disease. People with type 1 have varying amounts of von Willebrand factor in their bloodstream. Some people with a mild case of type 1 never experience a prolonged bleeding episode. Mutations that disrupt the function of von Willebrand factor cause the four subtypes of type 2 von Willebrand disease. People with type 2 von Willebrand disease have bleeding episodes of varying severity depending on the extent of von Willebrand factor dysfunction, but the bleeding episodes are typically similar to those seen in type 1. Mutations that result in an abnormally short, nonfunctional von Willebrand factor generally cause type 3 von Willebrand disease. Because there is no functional protein, people with type 3 von Willebrand disease usually have severe bleeding episodes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001021-4" qtype="inheritance">Is von Willebrand disease inherited ?</Question>
+			<Answer>Von Willebrand disease can have different inheritance patterns.  Most cases of type 1 and type 2 von Willebrand disease are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  Type 3, some cases of type 2, and a small number of type 1 cases of von Willebrand disease are inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001021-5" qtype="treatment">What are the treatments for von Willebrand disease ?</Question>
+			<Answer>These resources address the diagnosis or management of von Willebrand disease:  - Gene Review: Gene Review: von Willebrand Disease  - Genetic Testing Registry: von Willebrand disorder  - MedlinePlus Encyclopedia: von Willebrand Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000254" source="GHR" url="https://ghr.nlm.nih.gov/condition/crohn-disease">
+<Focus>Crohn disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010346</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Colitis, Granulomatous</Synonym>
+		<Synonym>Crohn's Disease</Synonym>
+		<Synonym>Crohn's enteritis</Synonym>
+		<Synonym>Enteritis, Granulomatous</Synonym>
+		<Synonym>Enteritis, Regional</Synonym>
+		<Synonym>Ileitis</Synonym>
+		<Synonym>Ileocolitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000254-1" qtype="information">What is (are) Crohn disease ?</Question>
+			<Answer>Crohn disease is a complex, chronic disorder that primarily affects the digestive system. This condition typically involves abnormal inflammation of the intestinal walls, particularly in the lower part of the small intestine (the ileum) and portions of the large intestine (the colon). Inflammation can occur in any part of the digestive system, however. The inflamed tissues become thick and swollen, and the inner surface of the intestine may develop open sores (ulcers).  Crohn disease most commonly appears in a person&apos;s late teens or twenties, although the disease can appear at any age. Signs and symptoms tend to flare up multiple times throughout life. The most common features of this condition are persistent diarrhea, abdominal pain and cramping, loss of appetite, weight loss, and fever. Some people with Crohn disease have chronic bleeding from inflamed tissues in the intestine; over time, this bleeding can lead to a low number of red blood cells (anemia). In some cases, Crohn disease can also cause medical problems affecting the joints, eyes, or skin.  Intestinal blockage is a common complication of Crohn disease. Blockages are caused by swelling or a buildup of scar tissue in the intestinal walls. Some affected individuals also develop fistulae, which are abnormal connections between the intestine and other tissues. Fistulae occur when ulcers break through the intestinal wall to form passages between loops of the intestine or between the intestine and nearby structures (such as the bladder, vagina, or skin).  Crohn disease is one common form of inflammatory bowel disease (IBD). Another type of IBD, ulcerative colitis, also causes chronic inflammation of the intestinal lining. Unlike Crohn disease, which can affect any part of the digestive system, ulcerative colitis typically causes inflammation only in the colon. In addition, the two disorders involve different patterns of inflammation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000254-2" qtype="frequency">How many people are affected by Crohn disease ?</Question>
+			<Answer>Crohn disease is most common in western Europe and North America, where it affects 100 to 150 in 100,000 people. About one million Americans are currently affected by this disorder. Crohn disease occurs more often in whites and people of eastern and central European (Ashkenazi) Jewish descent than among people of other ethnic backgrounds.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000254-3" qtype="genetic changes">What are the genetic changes related to Crohn disease ?</Question>
+			<Answer>Crohn disease is related to chromosomes 5 and 10.  Variations of the ATG16L1, IRGM, and NOD2 genes increase the risk of developing Crohn disease.  The IL23R gene is associated with Crohn disease.  A variety of genetic and environmental factors likely play a role in causing Crohn disease. Although researchers are studying risk factors that may contribute to this complex disorder, many of these factors remain unknown. Cigarette smoking is thought to increase the risk of developing this disease, and it may also play a role in periodic flare-ups of signs and symptoms.  Studies suggest that Crohn disease may result from a combination of certain genetic variations, changes in the immune system, and the presence of bacteria in the digestive tract. Recent studies have identified variations in specific genes, including ATG16L1, IL23R, IRGM, and NOD2, that influence the risk of developing Crohn disease. These genes provide instructions for making proteins that are involved in immune system function. Variations in any of these genes may disrupt the ability of cells in the intestine to respond normally to bacteria. An abnormal immune response to bacteria in the intestinal walls may lead to chronic inflammation and the digestive problems characteristic of Crohn disease.  Researchers have also discovered genetic variations in certain regions of chromosome 5 and chromosome 10 that appear to contribute to Crohn disease risk. One area of chromosome 5, known as the IBD5 locus, contains several genetic changes that may increase the risk of developing this condition. Other regions of chromosome 5 and chromosome 10 identified in studies of Crohn disease risk are known as &quot;gene deserts&quot; because they include no known genes. Instead, these regions may contain stretches of DNA that regulate nearby genes. Additional research is needed to determine how genetic variations in these chromosomal regions are related to a person&apos;s chance of developing Crohn disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000254-4" qtype="inheritance">Is Crohn disease inherited ?</Question>
+			<Answer>The inheritance pattern of Crohn disease is unclear because many genetic and environmental factors are likely to be involved. This condition tends to cluster in families, however, and having an affected family member is a significant risk factor for the disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000254-5" qtype="treatment">What are the treatments for Crohn disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Crohn disease:  - Genetic Testing Registry: Inflammatory bowel disease 1  - MedlinePlus Encyclopedia: Crohn&apos;s disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001540" source="GARD" url="https://rarediseases.info.nih.gov/gard/11902/congenital-myasthenic-syndrome">
+<Focus>Congenital myasthenic syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751882</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CMS</Synonym>
+		<Synonym>Congenital Myasthenia</Synonym>
+		<Synonym>Congenital myasthenic syndrome associated with acetylcholine receptor deficiency</Synonym>
+		<Synonym>Congenital myasthenic syndrome with episodic apnea</Synonym>
+		<Synonym>Lambert Eaton myasthenic syndrome</Synonym>
+		<Synonym>Slow-channel congenital myasthenic syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001540-1" qtype="information">What is (are) Congenital myasthenic syndrome ?</Question>
+			<Answer>Congenital myasthenic syndrome (CMS) is a group of genetic disorders that result in muscle weakness and fatigue. Symptoms can range from mild weakness to progressive disabling weakness. There are three main subtypes of CMS, which are defined by how they affect the connection between muscles and the nervous system: postsynaptic (75-80% of patients), synaptic (14-15% of patients), and presynaptic (7-8% of patients). Identification of the specific subtype is important in patient care for determining the most effective treatment. Mutations in many genes have been found to cause CMS, and most forms of CMS are inherited in an autosomal recessive pattern. One form of CMS, a postsynaptic form known as slow-channel syndrome congenital myasthenic syndrome is inherited in an autosomal dominant manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001540-2" qtype="inheritance">Is Congenital myasthenic syndrome inherited ?</Question>
+			<Answer>How is congenital myasthenic syndrome inherited? Almost all types of CMS are inherited in an autosomal recessive manner. In order to have the autosomal recessive form of CMS, both parents of an affected individual must be carriers of the disease causing mutation. If a person has CMS, but their partner is not a carrier of a CMS mutation, then their children will be carriers but will not have CMS. If one person has CMS and one person is a carrier of CMS, each child has a 50% chance of either being a carrier of CMS or having the disorder. Only one form of CMS (slow-channel syndrome congenital myasthenic syndrome) has been shown to be inherited in an autosomal dominant manner. This means that if one parent has slow-channel syndrome congenital myasthenic syndrome then all of their children have a 50% chance of inheriting the disorder as well. It is important to discuss this information with your health care provider, such as a genetic counselor, to accurately determine a person&apos;s risk for passing on this disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

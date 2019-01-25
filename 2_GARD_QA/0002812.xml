@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002812" source="GARD" url="https://rarediseases.info.nih.gov/gard/10889/hereditary-angiopathy-with-nephropathy-aneurysms-and-muscle-cramps-syndrome">
+<Focus>Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042373</CUI>
+			<CUI>C0039082</CUI>
+			<CUI>C0022658</CUI>
+			<CUI>C0026821</CUI>
+			<CUI>C0002940</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HANAC syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002812-1" qtype="information">What is (are) Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome ?</Question>
+			<Answer>Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps (HANAC) syndrome is a genetic condition that causes blood vessels to become fragile. Signs and symptoms include muscle cramps, Raynaud phenomenon, kidney cysts, blood in the urine (typically not visible to the eye), leukoencephalopathy (a change in brain tissue that can be seen on MRI), arteries in the back of the eye that twist and turn abnormally, headaches, and supraventricular arrhythmia. These signs and symptoms do not often cause serious complications, however temporary vision loss due to bleeding in the back of the eye, minor ischemic stroke, and bleeding complications with blood thinner use has been described. While muscle cramps may begin in childhood, many of the other symptoms do not appear until later in life. HANAC syndrome is caused by mutations in the COL4A1 gene. It is passed through families in a autosomal dominant fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002812-2" qtype="symptoms">What are the symptoms of Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Stroke 5% Autosomal dominant inheritance - Cerebral aneurysm - Hematuria - Leukoencephalopathy - Muscle cramps - Nephropathy - Renal cyst - Renal insufficiency - Retinal arteriolar tortuosity - Retinal hemorrhage - Supraventricular arrhythmia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002812-3" qtype="treatment">What are the treatments for Hereditary angiopathy with nephropathy, aneurysms, and muscle cramps syndrome ?</Question>
+			<Answer>How might HANAC syndrome be treated? In order to know how HANAC syndrome is affecting you, your doctor may recommend that you undergo a series of imaging tests of the brain and kidney, an eye exam, and blood tests (e.g., serum CK concentration). While there is not a targeted treatment for HANAC syndrome, treatments are available to manage its signs and symptoms, such as drugs to reduce high blood pressure, manage headaches, and treat arrhythmia. People with HANAC syndrome may be regularly monitored (e.g., once a year) for signs and symptoms. In order to reduce the risk for health complications, your doctor may advise you to avoid smoking, activities that can cause head trauma, and blood thinners (anticoagulants).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000898" source="GHR" url="https://ghr.nlm.nih.gov/condition/sepiapterin-reductase-deficiency">
+<Focus>sepiapterin reductase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1291316</CUI>
+			<CUI>C0268468</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dopa-responsive dystonia due to sepiapterin reductase deficiency</Synonym>
+		<Synonym>SPR deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000898-1" qtype="information">What is (are) sepiapterin reductase deficiency ?</Question>
+			<Answer>Sepiapterin reductase deficiency is a condition characterized by movement problems, most often a pattern of involuntary, sustained muscle contractions known as dystonia. Other movement problems can include muscle stiffness (spasticity), tremors, problems with coordination and balance (ataxia), and involuntary jerking movements (chorea). People with sepiapterin reductase deficiency can experience episodes called oculogyric crises. These episodes involve abnormal rotation of the eyeballs; extreme irritability and agitation; and pain, muscle spasms, and uncontrolled movements, especially of the head and neck. Movement abnormalities are often worse late in the day. Most affected individuals have delayed development of motor skills such as sitting and crawling, and they typically are not able to walk unassisted. The problems with movement tend to worsen over time.  People with sepiapterin reductase deficiency may have additional signs and symptoms including an unusually small head size (microcephaly), intellectual disability, seizures, excessive sleeping, and mood swings.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000898-2" qtype="frequency">How many people are affected by sepiapterin reductase deficiency ?</Question>
+			<Answer>Sepiapterin reductase deficiency appears to be a rare condition. At least 30 cases have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000898-3" qtype="genetic changes">What are the genetic changes related to sepiapterin reductase deficiency ?</Question>
+			<Answer>Mutations in the SPR gene cause sepiapterin reductase deficiency. The SPR gene provides instructions for making the sepiapterin reductase enzyme. This enzyme is involved in the production of a molecule called tetrahydrobiopterin (also known as BH4). Specifically, sepiapterin reductase is responsible for the last step in the production of tetrahydrobiopterin. Tetrahydrobiopterin helps process several building blocks of proteins (amino acids), and is involved in the production of chemicals called neurotransmitters, which transmit signals between nerve cells in the brain.  SPR gene mutations disrupt the production of sepiapterin reductase. Most SPR gene mutations result in an enzyme with little or no function. A nonfunctional sepiapterin reductase leads to a lack of tetrahydrobiopterin. In most parts of the body, there are alternate pathways that do not use sepiapterin reductase for the production of tetrahydrobiopterin, but these pathways are not found in the brain. Therefore, people with sepiapterin reductase deficiency have a lack of tetrahydrobiopterin in the brain. When no tetrahydrobiopterin is produced in the brain, production of dopamine and serotonin is greatly reduced. Among their many functions, dopamine transmits signals within the brain to produce smooth physical movements, and serotonin regulates mood, emotion, sleep, and appetite. The lack of these two neurotransmitters causes the problems with movement and other features of sepiapterin reductase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000898-4" qtype="inheritance">Is sepiapterin reductase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000898-5" qtype="treatment">What are the treatments for sepiapterin reductase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of sepiapterin reductase deficiency:  - Gene Review: Gene Review: Sepiapterin Reductase Deficiency  - Genetic Testing Registry: Sepiapterin reductase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

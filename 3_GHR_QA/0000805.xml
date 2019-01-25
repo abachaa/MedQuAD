@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000805" source="GHR" url="https://ghr.nlm.nih.gov/condition/polycystic-lipomembranous-osteodysplasia-with-sclerosing-leukoencephalopathy">
+<Focus>polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0410533</CUI>
+			<CUI>C1857316</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Nasu-Hakola disease</Synonym>
+		<Synonym>NHD</Synonym>
+		<Synonym>PLO-SL</Synonym>
+		<Synonym>PLOSL</Synonym>
+		<Synonym>Presenile dementia with bone cysts</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000805-1" qtype="information">What is (are) polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy ?</Question>
+			<Answer>Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy, commonly known as PLOSL, is a progressive disorder that affects the bones and brain. &quot;Polycystic lipomembranous osteodysplasia&quot; refers to cyst-like bone changes that can be seen on x-rays. &quot;Sclerosing leukoencephalopathy&quot; describes specific changes in the brain that are found in people with this disorder.  The bone abnormalities associated with PLOSL usually become apparent in a person&apos;s twenties. In most affected individuals, pain and tenderness in the ankles and feet are the first symptoms of the disease. Several years later, broken bones (fractures) begin to occur frequently, particularly in bones of the ankles, feet, wrists, and hands. Bone pain and fractures are caused by thinning of the bones (osteoporosis) and cyst-like changes. These abnormalities weaken bones and make them more likely to break.  The brain abnormalities characteristic of PLOSL typically appear in a person&apos;s thirties. Personality changes are among the first noticeable problems, followed by a loss of judgment, feelings of intense happiness (euphoria), a loss of inhibition, and poor concentration. These neurologic changes cause significant problems in an affected person&apos;s social and family life. As the disease progresses, it causes a severe decline in thinking and reasoning abilities (dementia). Affected people ultimately become unable to walk, speak, or care for themselves. People with this disease usually live only into their thirties or forties.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000805-2" qtype="frequency">How many people are affected by polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy ?</Question>
+			<Answer>PLOSL is a very rare condition. It was first reported in the Finnish population, where it has an estimated prevalence of 1 to 2 per million people. This condition has also been diagnosed in more than 100 people in the Japanese population. Although affected individuals have been reported worldwide, PLOSL appears to be less common in other countries.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000805-3" qtype="genetic changes">What are the genetic changes related to polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy ?</Question>
+			<Answer>Mutations in the TREM2 gene or the TYROBP gene (also called DAP12) can cause PLOSL. The proteins produced from these two genes work together to activate certain kinds of cells. These proteins appear to be particularly important in osteoclasts, which are specialized cells that break down and remove (resorb) bone tissue that is no longer needed. These cells are involved in bone remodeling, which is a normal process that replaces old bone tissue with new bone. The TREM2 and TYROBP proteins are also critical for the normal function of microglia, which are a type of immune cell in the brain and spinal cord (central nervous system). Although these proteins play essential roles in osteoclasts and microglia, their exact function in these cells is unclear.  Mutations in the TREM2 or TYROBP gene disrupt normal bone growth and lead to progressive brain abnormalities in people with PLOSL. Researchers believe that the bone changes seen with this disorder are related to malfunctioning osteoclasts, which are less able to resorb bone tissue during bone remodeling. In the central nervous system, TREM2 or TYROBP mutations cause widespread abnormalities of microglia. Researchers are working to determine how these abnormalities lead to the progressive neurological problems associated with PLOSL.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000805-4" qtype="inheritance">Is polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000805-5" qtype="treatment">What are the treatments for polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of PLOSL:  - Gene Review: Gene Review: Polycystic Lipomembranous Osteodysplasia with Sclerosing Leukoencephalopathy (PLOSL)  - Genetic Testing Registry: Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy  - MedlinePlus Encyclopedia: Dementia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

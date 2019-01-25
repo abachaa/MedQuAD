@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000146" source="NINDS" url="http://www.ninds.nih.gov/disorders/neuropathy_hereditary/neuropathy_hereditary.htm">
+<Focus>Hereditary Neuropathies</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0598589</CUI>
+			<CUI>C0442874</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000146-1" qtype="information">What is (are) Hereditary Neuropathies ?</Question>
+			<Answer>Hereditary neuropathies are a group of inherited disorders affecting the peripheral nervous system. The hereditary neuropathies are divided into four major subcategories: hereditary motor and sensory neuropathy, hereditary sensory neuropathy, hereditary motor neuropathy, and hereditary sensory and autonomic neuropathy. The most common type is Charcot-Marie-Tooth disease, one of the hereditary motor and sensory neuropathies. Symptoms of the hereditary neuropathies vary according to the type and may include sensory symptoms such as numbness, tingling, and pain in the feet and hands; or motor symptoms such as weakness and loss of muscle bulk, particularly in the lower leg and feet muscles. Certain types of hereditary neuropathies can affect the autonomic nerves, resulting in impaired sweating, postural hypotension, or insensitivity to pain. Some people may have foot deformities such as high arches and hammer toes, thin calf muscles (having the appearance of an inverted champagne glass) or scoliosis (curvature of the spine). The symptoms of hereditary neuropathies may be apparent at birth or appear in middle or late life. They can vary among different family members, with some family members being more severely affected than others. The hereditary neuropathies can be diagnosed by blood tests for genetic testing, nerve conduction studies, and nerve biopsies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000146-2" qtype="treatment">What are the treatments for Hereditary Neuropathies ?</Question>
+			<Answer>There are no standard treatments for hereditary neuropathies. Treatment is mainly symptomatic and supportive. Medical treatment includes physical therapy and if needed, pain medication. Orthopedic surgery may be needed to correct severe foot or other skeletal deformities. Bracing may also be used to improve mobility.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000146-3" qtype="outlook">What is the outlook for Hereditary Neuropathies ?</Question>
+			<Answer>The prognosis for individuals with hereditary neuropathies depends upon the type of neuropathy. Some hereditary neuropathies have very mild symptoms and may go undiagnosed for many years. Other types are more severe and are associated with more disabilities. Genetic counseling is important to understand further details about the disease and prognosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000146-4" qtype="research">what research (or clinical trials) is being done for Hereditary Neuropathies ?</Question>
+			<Answer>The NINDS supports research on neuromuscular disorders, such as hereditary neuropathies, aimed at learning more about these disorders and finding ways to prevent and treat them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

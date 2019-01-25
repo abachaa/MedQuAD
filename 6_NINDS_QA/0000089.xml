@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000089" source="NINDS" url="http://www.ninds.nih.gov/disorders/cjd/cjd.htm">
+<Focus>Creutzfeldt-Jakob Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022336</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000089-1" qtype="information">What is (are) Creutzfeldt-Jakob Disease ?</Question>
+			<Answer>Creutzfeldt-Jakob disease (CJD) is a rare, degenerative,fatal brain disorder. Typically, onset of symptoms occurs at about age 60. There are three major categories of CJD: sporadic (the most common form, in which people do not have any risk factors for the disease); hereditary (in which the person has a family member with the disease and tests positive for a genetic mutation), and acquired (in which the disease is transmitted by exposure to brain and nervous system tissue, usually through certain medical procedures. A form called variant CJD can be acquired by eating meat from cattle affected by a disease similar to CJD, called bovine spongiform encephalopathy (commonly called mad cow disease). Symptoms of CJD include problems with muscular coordination, personality changes including progressive and severe mental impairment, impaired vision that may lead to blindness, and involuntary muscle jerks called myoclonus. People eventually lose the ability to move and speak and enter a coma. Tests that help in the diagnosis of CJD include electroencephalography (which measures brain waves), detection of certain proteins in the fluid that surrounds the brain and spinal cord, and magnetic resonance imaging.. The first concern is to rule out treatable forms of dementia such as encephalitis or chronic meningitis. The only way to confirm a diagnosis of CJD is by brain biopsy or autopsy. In a brain biopsy, a neurosurgeon removes a small piece of tissue from the person&apos;s brain so that it can be examined by a neurologist. Because a correct diagnosis of CJD does not help the individual, a brain biopsy is discouraged unless it is need to rule out a treatable disorder. .</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000089-2" qtype="treatment">What are the treatments for Creutzfeldt-Jakob Disease ?</Question>
+			<Answer>There is no treatment that can cure or control CJD, although studies of a variety of drugs are now in progress. Current treatment is aimed at alleviating symptoms and making the person as comfortable as possible. Opiate drugs can help relieve pain, and the drugs clonazepam and sodium valproate may help relieve involuntary muscle jerks.Intravenous fluids and artificial feeding may be needed in later stages of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000089-3" qtype="outlook">What is the outlook for Creutzfeldt-Jakob Disease ?</Question>
+			<Answer>About 70 percent of individuals die within one year. In the early stages of disease, people may have failing memory, behavioral changes, lack of coordination and visual disturbances. As the illness progresses, mental deterioration becomes pronounced and involuntary movements, blindness, weakness of extremities, and coma may occur.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000089-4" qtype="research">what research (or clinical trials) is being done for Creutzfeldt-Jakob Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. The leading scientific theory at this time maintains that CJD is caused by a type of protein called a prion. The harmless and the infectious forms of the prion protein are nearly identical, but the infectious form takes a different folded shape than the normal protein. Researchers are trying to discover factors that influence prion infectivity and how the disorder damages the brain. Using rodent models of the disease and brain tissue from autopsies, researchers are also trying to develop improved diagnostic tests for CJD and to learn what changes ultimately kill the neurons so that effective treatments can be developed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

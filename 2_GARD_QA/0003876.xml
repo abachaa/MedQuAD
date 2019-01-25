@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003876" source="GARD" url="https://rarediseases.info.nih.gov/gard/9688/meesmann-corneal-dystrophy">
+<Focus>Meesmann corneal dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339277</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Meesmann corneal epithelial dystrophy</Synonym>
+		<Synonym>Corneal dystrophy, juvenile epithelial of Meesmann</Synonym>
+		<Synonym>Juvenile hereditary epithelial dystrophy</Synonym>
+		<Synonym>Meesman dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003876-1" qtype="information">What is (are) Meesmann corneal dystrophy ?</Question>
+			<Answer>Meesmann corneal dystrophy is a rare genetic condition affecting the epithelial membrane of the cornea. A slit-lamp examination of the cornea shows diffuse clusters of tiny round cysts in the epithelial membrane.  Over time these cysts can rupture and cause erosions. The erosions may result in light sensitivity, redness, and pain. Vision remains good in most, but not all, cases. Meesmann corneal dystrophy can be caused by mutations in the KRT3 or KRT12 gene. It is inherited in an autosomal dominant fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003876-2" qtype="symptoms">What are the symptoms of Meesmann corneal dystrophy ?</Question>
+			<Answer>What are the signs and symptoms of Meesmann corneal dystrophy? Patients are usually asymptomatic until adulthood when rupture of the tiny cysts on the cornea cause recurrent erosions. Symptoms may include light sensitivity, contact lens intolerance, redness, pain, and occasionally blurred vision (i.e., irregular corneal astigmatism). Some people with Meesman corneal dystrophy experience no symptoms. The Human Phenotype Ontology provides the following list of signs and symptoms for Meesmann corneal dystrophy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Corneal dystrophy - Nonprogressive - Punctate opacification of the cornea - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003876-3" qtype="causes">What causes Meesmann corneal dystrophy ?</Question>
+			<Answer>What causes Meesmann corneal dystrophy? Meesmann corneal dystrophy is a genetic disease. It can be caused by mutations in either the KRT12 or KRT3 gene. These genes are thought to play an important role in maintaining normal corneal epithelial function. Meesmann corneal dystrophy is passed through families in an autosomal dominant fashion.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003876-4" qtype="treatment">What are the treatments for Meesmann corneal dystrophy ?</Question>
+			<Answer>How might Meesmann corneal dystrophy be treated? Treatment is usually not needed unless a person is experiencing symptoms. Most people only need lubricating eye drops. If symptoms are more severe, therapeutic contact lenses or cycloplegic eye drops may be used for severe sensitivity to light (photophobia). Hypertonic saline may be given if symptoms get worse when a person wakes up. Surgical procedures are sometimes tried when these treatments do not help, and may include epithelial debridement, or keratectomy. There is a high risk of recurrence with these procedures. Researchers are also evaluating a form of gene therapy called RNA interference (RNAi) which is also called therapeutic siRNA. This therapy may be able to silence the mutated gene that causes Meesman corneal dystrophy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

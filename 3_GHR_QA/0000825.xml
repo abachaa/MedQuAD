@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000825" source="GHR" url="https://ghr.nlm.nih.gov/condition/primary-spontaneous-pneumothorax">
+<Focus>primary spontaneous pneumothorax</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1868193</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>pneumothorax</Synonym>
+		<Synonym>PSP</Synonym>
+		<Synonym>spontaneous pneumothorax</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000825-1" qtype="information">What is (are) primary spontaneous pneumothorax ?</Question>
+			<Answer>Primary spontaneous pneumothorax is an abnormal accumulation of air in the space between the lungs and the chest cavity (called the pleural space) that can result in the partial or complete collapse of a lung. This type of pneumothorax is described as primary because it occurs in the absence of lung disease such as emphysema. Spontaneous means the pneumothorax was not caused by an injury such as a rib fracture. Primary spontaneous pneumothorax is likely due to the formation of small sacs of air (blebs) in lung tissue that rupture, causing air to leak into the pleural space. Air in the pleural space creates pressure on the lung and can lead to its collapse. A person with this condition may feel chest pain on the side of the collapsed lung and shortness of breath.  Blebs may be present on an individual&apos;s lung (or lungs) for a long time before they rupture. Many things can cause a bleb to rupture, such as changes in air pressure or a very sudden deep breath. Often, people who experience a primary spontaneous pneumothorax have no prior sign of illness; the blebs themselves typically do not cause any symptoms and are visible only on medical imaging. Affected individuals may have one bleb to more than thirty blebs. Once a bleb ruptures and causes a pneumothorax, there is an estimated 13 to 60 percent chance that the condition will recur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000825-2" qtype="frequency">How many people are affected by primary spontaneous pneumothorax ?</Question>
+			<Answer>Primary spontaneous pneumothorax is more common in men than in women. This condition occurs in 7.4 to 18 per 100,000 men each year and 1.2 to 6 per 100,000 women each year.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000825-3" qtype="genetic changes">What are the genetic changes related to primary spontaneous pneumothorax ?</Question>
+			<Answer>Mutations in the FLCN gene can cause primary spontaneous pneumothorax, although these mutations appear to be a very rare cause of this condition. The FLCN gene provides instructions for making a protein called folliculin. In the lungs, folliculin is found in the connective tissue cells that allow the lungs to contract and expand when breathing. Folliculin is also produced in cells that line the small air sacs (alveoli). Researchers have not determined the protein&apos;s function, but they believe it may help control the growth and division of cells. Folliculin may play a role in repairing and re-forming lung tissue following damage. Researchers have not determined how FLCN gene mutations lead to the formation of blebs and increase the risk of primary spontaneous pneumothorax. One theory is that the altered folliculin protein may trigger inflammation within the lung tissue that could alter and damage the tissue, causing blebs.  Primary spontaneous pneumothorax most often occurs in people without an identified gene mutation. The cause of the condition in these individuals is often unknown. Tall young men are at increased risk of developing primary spontaneous pneumothorax; researchers suggest that rapid growth of the chest during growth spurts may increase the likelihood of forming blebs. Smoking can also contribute to the development of primary spontaneous pneumothorax.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000825-4" qtype="inheritance">Is primary spontaneous pneumothorax inherited ?</Question>
+			<Answer>When this condition is caused by mutations in the FLCN gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, a person inherits the FLCN gene mutation from an affected parent. People who have an FLCN gene mutation associated with primary spontaneous pneumothorax all appear to develop blebs, but it is estimated that only 40 percent of those individuals go on to have a primary spontaneous pneumothorax.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000825-5" qtype="treatment">What are the treatments for primary spontaneous pneumothorax ?</Question>
+			<Answer>These resources address the diagnosis or management of primary spontaneous pneumothorax:  - Genetic Testing Registry: Pneumothorax, primary spontaneous  - MedlinePlus Encyclopedia: Chest Tube Insertion  - MedlinePlus Encyclopedia: Collapsed Lung  - Merck Manual for Patients and Caregivers   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

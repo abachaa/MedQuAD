@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006423" source="GARD" url="https://rarediseases.info.nih.gov/gard/6843/wernicke-korsakoff-syndrome">
+<Focus>Wernicke-Korsakoff syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0349464</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Transketolase defect</Synonym>
+		<Synonym>Wernicke's encephalopathy</Synonym>
+		<Synonym>Alcohol induced encephalopathy</Synonym>
+		<Synonym>Korsakoff's amnesic syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006423-1" qtype="information">What is (are) Wernicke-Korsakoff syndrome ?</Question>
+			<Answer>Wernicke-Korsakoff syndrome is a brain disorder due to thiamine deficiency that has been associated with both Wernicke&apos;s encephalopathy and Korsakoff syndrome. Wernicke&apos;s encephalopathy can result from alcohol abuse, dietary deficiencies, prolonged vomiting, eating disorders, or the effects of chemotherapy. Korsakoff&apos;s amnesic syndrome is a memory disorder that is associated with alcoholism and involvement of the heart, vascular, and nervous system. Although these conditions may appear to be two different disorders, they are generally considered to be different stages of Wernicke-Korsakoff syndrome. Wernicke&apos;s encephalopathy represents the &quot;acute&quot; phase and Korsakoff&apos;s amnesic syndrome represents the &quot;chronic&quot; phase.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006423-2" qtype="symptoms">What are the symptoms of Wernicke-Korsakoff syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Wernicke-Korsakoff syndrome? The symptoms of Wernicke encephalopathy include mental confusion, vision problems (including double vision, abnormal eye movements, and eyelid drooping), inability to think clearly, coma, hypothermia, hypotension, and loss of muscle coordination (ataxia). The symptoms of Korsakoff&apos;s amnesia include loss of memory, inability to form new memories, making of stories (confabulation), seeing or hearing things that are not really there (hallucinations), disorientation, and vision impairment. The main features of Korsakoff&apos;s amnesic syndrome are impairments in acquiring new information or establishing new memories, and in retrieving previous memories. The Human Phenotype Ontology provides the following list of signs and symptoms for Wernicke-Korsakoff syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Ataxia - Autosomal recessive inheritance - Coma - Confusion - Horizontal nystagmus - Memory impairment - Ophthalmoplegia - Polyneuropathy - Psychosis - Ptosis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006423-3" qtype="treatment">What are the treatments for Wernicke-Korsakoff syndrome ?</Question>
+			<Answer>How might Wernicke-Korsakoff syndrome be treated?</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

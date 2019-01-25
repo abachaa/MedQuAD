@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000072" source="NINDS" url="http://www.ninds.nih.gov/disorders/cerebral_palsy/cerebral_palsy.htm">
+<Focus>Cerebral Palsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007789</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000072-1" qtype="information">What is (are) Cerebral Palsy ?</Question>
+			<Answer>The term cerebral palsy refers to a group of neurological disorders that appear in infancy or early childhood and permanently affect body movement, muscle coordination, and balance.CP affects the part of the brain that controls muscle movements. The majority of children with cerebral palsy are born with it, although it may not be detected until months or years later.The early signs of cerebral palsy usually appear before a child reaches 3 years of age.The most common are a lack of muscle coordination when performing voluntary movements (ataxia); stiff or tight muscles and exaggerated reflexes (spasticity); walking with one foot or leg dragging; walking on the toes, a crouched gait, or a scissored gait; and muscle tone that is either too stiff or too floppy.Other neurological symptoms that commonly occur in individuals with CP include seizures, hearing loss and impaired vision, bladder and bowel control issues, and pain and abnormal sensations. A small number of children have CP as the result of brain damage in the first few months or years of life, brain infections such as bacterial meningitis or viral encephalitis, or head injury from a motor vehicle accident, a fall, or child abuse. The disorder isn&apos;t progressive, meaning that the brain damage typically doesn&apos;t get worse over time. Risk factors associated with CP do not cause the disorder but can increase a child&apos;s chance of being born with the disorder.CP is not hereditary.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000072-2" qtype="treatment">What are the treatments for Cerebral Palsy ?</Question>
+			<Answer>Cerebral palsy cant be cured, but treatment will often improve a child&apos;s capabilities. In general, the earlier treatment begins the better chance children have of overcoming developmental disabilities or learning new ways to accomplish the tasks that challenge them.Early intervention, supportive treatments, medications, and surgery can help many individuals improve their muscle control. Treatment may include physical and occupational therapy, speech therapy, drugs to control seizures, relax muscle spasms, and alleviate pain; surgery to correct anatomical abnormalities or release tight muscles; braces and other orthotic devices; wheelchairs and rolling walkers; and communication aids such as computers with attached voice synthesizers.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000072-3" qtype="outlook">What is the outlook for Cerebral Palsy ?</Question>
+			<Answer>Cerebral palsy doesnt always cause profound disabilities and for most people with CP the disorder does not affect life expectancy. Many children with CP have average to above average intelligence and attend the same schools as other children their age. Supportive treatments, medications, and surgery can help many individuals improve their motor skills and ability to communicate with the world..While one child with CP might not require special assistance, a child with severe CP might be unable to walk and need extensive, lifelong care.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000072-4" qtype="research">what research (or clinical trials) is being done for Cerebral Palsy ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease.The NINDS is a component of the National Institutes of Health, the leading supporter of biomedical research in the world. Researchers supported by the NINDS are investigating the roles of mishaps early in brain development, including genetic defects, which are sometimes responsible for the brain malformations and abnormalities that result in cerebral palsy.Scientists are also looking at traumatic events in newborn babies brains, such as bleeding, epileptic seizures, and breathing and circulation problems, which can cause the abnormal release of chemicals that trigger the kind of damage that causes cerebral palsy. NINDS-supported researchers also hope to find ways to prevent white matter disease, the most common cause of cerebral palsy. To make sure children are getting the right kinds of therapies, studies are also being done that evaluate both experimental treatments and treatments already in use so that physicians and parents have valid information to help them choose the best therapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

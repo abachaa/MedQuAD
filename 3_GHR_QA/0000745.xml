@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000745" source="GHR" url="https://ghr.nlm.nih.gov/condition/oculodentodigital-dysplasia">
+<Focus>oculodentodigital dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0812437</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>oculo-dento-digital dysplasia</Synonym>
+		<Synonym>oculo-dento-osseous dysplasia</Synonym>
+		<Synonym>oculodentodigital syndrome</Synonym>
+		<Synonym>oculodentoosseous dysplasia</Synonym>
+		<Synonym>ODD syndrome</Synonym>
+		<Synonym>ODDD</Synonym>
+		<Synonym>ODOD</Synonym>
+		<Synonym>osseous-oculo-dental dysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000745-1" qtype="information">What is (are) oculodentodigital dysplasia ?</Question>
+			<Answer>Oculodentodigital dysplasia is a condition that affects many parts of the body, particularly the eyes (oculo-), teeth (dento-), and fingers (digital). Common features in people with this condition are small eyes (microphthalmia) and other eye abnormalities that can lead to vision loss. Affected individuals also frequently have tooth abnormalities, such as small or missing teeth, weak enamel, multiple cavities, and early tooth loss. Other common features of this condition include a thin nose and webbing of the skin (syndactyly) between the fourth and fifth fingers.  Less common features of oculodentodigital dysplasia include sparse hair growth (hypotrichosis), brittle nails, an unusual curvature of the fingers (camptodactyly), syndactyly of the toes, small head size (microcephaly), and an opening in the roof of the mouth (cleft palate). Some affected individuals experience neurological problems such as a lack of bladder or bowel control, difficulty coordinating movements (ataxia), abnormal muscle stiffness (spasticity), hearing loss, and impaired speech (dysarthria). A few people with oculodentodigital dysplasia also have a skin condition called palmoplantar keratoderma. Palmoplantar keratoderma causes the skin on the palms and the soles of the feet to become thick, scaly, and calloused.  Some features of oculodentodigital dysplasia are evident at birth, while others become apparent with age.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000745-2" qtype="frequency">How many people are affected by oculodentodigital dysplasia ?</Question>
+			<Answer>The exact incidence of oculodentodigital dysplasia is unknown. It has been diagnosed in fewer than 1,000 people worldwide. More cases are likely undiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000745-3" qtype="genetic changes">What are the genetic changes related to oculodentodigital dysplasia ?</Question>
+			<Answer>Mutations in the GJA1 gene cause oculodentodigital dysplasia. The GJA1 gene provides instructions for making a protein called connexin43. This protein forms one part (a subunit) of channels called gap junctions, which allow direct communication between cells. Gap junctions formed by connexin43 proteins are found in many tissues throughout the body.  GJA1 gene mutations result in abnormal connexin43 proteins. Channels formed with abnormal proteins are often permanently closed. Some mutations prevent connexin43 proteins from traveling to the cell surface where they are needed to form channels between cells. Impaired functioning of these channels disrupts cell-to-cell communication, which likely interferes with normal cell growth and cell specialization, processes that determine the shape and function of many different parts of the body. These developmental problems cause the signs and symptoms of oculodentodigital dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000745-4" qtype="inheritance">Is oculodentodigital dysplasia inherited ?</Question>
+			<Answer>Most cases of oculodentodigital dysplasia are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  Less commonly, oculodentodigital dysplasia can be inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Fewer than ten cases of autosomal recessive oculodentodigital dysplasia have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000745-5" qtype="treatment">What are the treatments for oculodentodigital dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of oculodentodigital dysplasia:  - Genetic Testing Registry: Oculodentodigital dysplasia  - MedlinePlus Encyclopedia: Webbing of the fingers or toes  - UC Davis Children&apos;s Hospital: Cleft and Craniofacial Reconstruction   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000376" source="GHR" url="https://ghr.nlm.nih.gov/condition/fibronectin-glomerulopathy">
+<Focus>fibronectin glomerulopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1866075</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial glomerular nephritis with fibronectin deposits</Synonym>
+		<Synonym>familial lobular glomerulopathy</Synonym>
+		<Synonym>GFND</Synonym>
+		<Synonym>glomerulopathy with fibronectin deposits</Synonym>
+		<Synonym>glomerulopathy with giant fibrillar deposits</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000376-1" qtype="information">What is (are) fibronectin glomerulopathy ?</Question>
+			<Answer>Fibronectin glomerulopathy is a kidney disease that usually develops between early and mid-adulthood but can occur at any age. It eventually leads to irreversible kidney failure (end-stage renal disease).  Individuals with fibronectin glomerulopathy usually have blood and excess protein in their urine (hematuria and proteinuria, respectively). They also have high blood pressure (hypertension). Some affected individuals develop renal tubular acidosis, which occurs when the kidneys are unable to remove enough acid from the body and the blood becomes too acidic.  The kidneys of people with fibronectin glomerulopathy have large deposits of the protein fibronectin-1 in structures called glomeruli. These structures are clusters of tiny blood vessels in the kidneys that filter waste products from blood. The waste products are then released in urine. The fibronectin-1 deposits impair the glomeruli&apos;s filtration ability.  Fifteen to 20 years following the appearance of signs and symptoms, individuals with fibronectin glomerulopathy often develop end-stage renal disease. Affected individuals may receive treatment in the form of a kidney transplant; in some cases, fibronectin glomerulopathy comes back (recurs) following transplantation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000376-2" qtype="frequency">How many people are affected by fibronectin glomerulopathy ?</Question>
+			<Answer>Fibronectin glomerulopathy is likely a rare condition, although its prevalence is unknown. At least 45 cases have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000376-3" qtype="genetic changes">What are the genetic changes related to fibronectin glomerulopathy ?</Question>
+			<Answer>Fibronectin glomerulopathy can be caused by mutations in the FN1 gene. The FN1 gene provides instructions for making the fibronectin-1 protein. Fibronectin-1 is involved in the continual formation of the extracellular matrix, which is an intricate lattice of proteins and other molecules that forms in the spaces between cells. During extracellular matrix formation, fibronectin-1 helps individual cells expand (spread) and move (migrate) to cover more space, and it also influences cell shape and maturation (differentiation).  FN1 gene mutations lead to production of an abnormal fibronectin-1 protein that gets deposited in the glomeruli of the kidneys, probably as the body attempts to filter it out as waste. Even though there is an abundance of fibronectin-1 in the glomeruli, the extracellular matrix that supports the blood vessels is weak because the altered fibronectin-1 cannot assist in the matrix&apos;s continual formation. Without a strong cellular support network, the glomeruli are less able to filter waste. As a result, products that normally are retained by the body, such as protein and blood, get released in the urine, and acids are not properly filtered from the blood. Over time, the kidneys&apos; ability to filter waste decreases until the kidneys can no longer function, resulting in end-stage renal disease.  It is estimated that mutations in the FN1 gene are responsible for 40 percent of cases of fibronectin glomerulopathy. The cause of the remaining cases of this condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000376-4" qtype="inheritance">Is fibronectin glomerulopathy inherited ?</Question>
+			<Answer>When fibronectin glomerulopathy is caused by mutations in the FN1 gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some of these cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family. Some people who have the altered FN1 gene never develop the condition, a situation known as reduced penetrance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000376-5" qtype="treatment">What are the treatments for fibronectin glomerulopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of fibronectin glomerulopathy:  - Genetic Testing Registry: Glomerulopathy with fibronectin deposits 2  - MedlinePlus Encyclopedia: Protein Urine Test   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

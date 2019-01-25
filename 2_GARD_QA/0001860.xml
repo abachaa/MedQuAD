@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001860" source="GARD" url="https://rarediseases.info.nih.gov/gard/4319/dihydropteridine-reductase-deficiency">
+<Focus>Dihydropteridine reductase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268465</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DHPR deficiency</Synonym>
+		<Synonym>Hyperphenylalaninemia, BH-4-deficient, C</Synonym>
+		<Synonym>Hyperphenylalaninemia due to dihydropteridine reductase deficiency</Synonym>
+		<Synonym>Phenylketonuria type 2</Synonym>
+		<Synonym>Quinoid dihydropteridine reductase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001860-1" qtype="information">What is (are) Dihydropteridine reductase deficiency ?</Question>
+			<Answer>Dihydropteridine reductase deficiency (DHPR) is a severe form of hyperphenylalaninemia (high levels of the amino acid phenylalanine in the blood) due to impaired renewal of a substance known as tetrahydrobiopterin (BH4). Tetrahydrobiopterin normally helps process several amino acids, including phenylalanine, and it is also involved in the production of neurotransmitters. If little or no tetrahydrobiopterin is available to help process phenylalanine, this amino acid can build up in the blood and other tissues and the levels of neurotransmitters (dopamine, serotonin) and folate in cerebrospinal fluid are also decreased. This results in neurological symptoms such as psychomotor delay, low muscle tone (hypotonia), seizures, abnormal movements, too much salivation, and swallowing difficulties. DHPR deficiency is caused by mutations in the QDPR gene. It is inherited in an autosomal recessive manner. Treatment should be started as soon as possible and includes BH4 supplementation usually combined with a diet without phenylalanine, folate supplementation, and specific medications to restore the levels of neurotransmitters in the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001860-2" qtype="symptoms">What are the symptoms of Dihydropteridine reductase deficiency ?</Question>
+			<Answer>What are the signs and symptoms of Dihydropteridine reductase deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for Dihydropteridine reductase deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cognitive impairment 90% Microcephaly 90% Autosomal recessive inheritance - Cerebral calcification - Choreoathetosis - Dysphagia - Dystonia - Episodic fever - Excessive salivation - Hyperphenylalaninemia - Hypertonia - Infantile onset - Intellectual disability - Irritability - Muscular hypotonia - Myoclonus - Progressive neurologic deterioration - Seizures - Tremor - Variable expressivity - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

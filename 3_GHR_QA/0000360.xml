@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000360" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-male-limited-precocious-puberty">
+<Focus>familial male-limited precocious puberty</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034013</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial gonadotrophin-independent sexual precocity</Synonym>
+		<Synonym>GIPP</Synonym>
+		<Synonym>gonadotrophin-independent precocious puberty</Synonym>
+		<Synonym>precocious pseudopuberty</Synonym>
+		<Synonym>pubertas praecox</Synonym>
+		<Synonym>testotoxicosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000360-1" qtype="information">What is (are) familial male-limited precocious puberty ?</Question>
+			<Answer>Familial male-limited precocious puberty is a condition that causes early sexual development in males; females are not affected. Boys with this disorder begin exhibiting the signs of puberty in early childhood, between the ages of 2 and 5. Signs of male puberty include a deepening voice, acne, increased body hair, underarm odor, growth of the penis and testes, and spontaneous erections. Changes in behavior, such as increased aggression and early interest in sex, may also occur. Without treatment, affected boys grow quickly at first, but they stop growing earlier than usual. As a result, they tend to be shorter in adulthood compared with other members of their family.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000360-2" qtype="frequency">How many people are affected by familial male-limited precocious puberty ?</Question>
+			<Answer>Familial male-limited precocious puberty is a rare disorder; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000360-3" qtype="genetic changes">What are the genetic changes related to familial male-limited precocious puberty ?</Question>
+			<Answer>Familial male-limited precocious puberty can be caused by mutations in the LHCGR gene. This gene provides instructions for making a receptor protein called the luteinizing hormone/chorionic gonadotropin receptor. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. Together, ligands and their receptors trigger signals that affect cell development and function.  The protein produced from the LHCGR gene acts as a receptor for two ligands: luteinizing hormone and a similar hormone called chorionic gonadotropin. The receptor allows the body to respond appropriately to these hormones. In males, chorionic gonadotropin stimulates the development of cells in the testes called Leydig cells, and luteinizing hormone triggers these cells to produce androgens. Androgens, including testosterone, are the hormones that control male sexual development and reproduction. In females, luteinizing hormone triggers the release of egg cells from the ovaries (ovulation); chorionic gonadotropin is produced during pregnancy and helps maintain conditions necessary for the pregnancy to continue.  Certain LHCGR gene mutations result in a receptor protein that is constantly turned on (constitutively activated), even when not attached (bound) to luteinizing hormone or chorionic gonadotropin. In males, the overactive receptor causes excess production of testosterone, which triggers male sexual development and lead to early puberty in affected individuals. The overactive receptor has no apparent effect on females.  Approximately 18 percent of individuals with familial male-limited precocious puberty have no identified LHCGR gene mutation. In these individuals, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000360-4" qtype="inheritance">Is familial male-limited precocious puberty inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant, male-limited pattern, which means one copy of the altered LHCGR gene in each cell is sufficient to cause the disorder in males. Females with mutations associated with familial male-limited precocious puberty appear to be unaffected. In some cases, an affected male inherits the mutation from either his mother or his father. Other cases result from new mutations in the gene and occur in males with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000360-5" qtype="treatment">What are the treatments for familial male-limited precocious puberty ?</Question>
+			<Answer>These resources address the diagnosis or management of familial male-limited precocious puberty:  - Boston Children&apos;s Hospital: Precocious Puberty  - Genetic Testing Registry: Gonadotropin-independent familial sexual precocity   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

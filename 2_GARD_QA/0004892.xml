@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004892" source="GARD" url="https://rarediseases.info.nih.gov/gard/8207/pineocytoma">
+<Focus>Pineocytoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0917890</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pinealocytoma</Synonym>
+		<Synonym>Pinealoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004892-1" qtype="information">What is (are) Pineocytoma ?</Question>
+			<Answer>A pineocytoma is a tumor of the pineal gland, a small organ in the brain that makes melatonin (a sleep-regulating hormone). Pineocytomas most often occur in adults as a solid mass, although they may appear to have fluid-filled (cystic) spaces on images of the brain. Signs and symptoms of pineocytomas include headaches, nausea, hydrocephalus, vision abnormalities, and Parinaud syndrome. Pineocytomas are usually slow-growing and rarely spread to other parts of the body. Treatment includes surgery to remove the pineocytoma; most of these tumors do not regrow (recur) after surgery.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004892-2" qtype="treatment">What are the treatments for Pineocytoma ?</Question>
+			<Answer>How might a pineocytoma be treated? Because pineocytomas are quite rare, there are no consensus guidelines on the best treatment for these tumors. However, surgery to remove the entire tumor is considered the standard treatment. Because these tumors are located deep in the brain, it is important that the risks of surgery be carefully considered in each person.  Radiation therapy is sometimes used following surgery to destroy any tumor cells that may remain, but the benefit of this additional treatment is questionable.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

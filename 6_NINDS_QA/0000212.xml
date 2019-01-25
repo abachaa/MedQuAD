@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000212" source="NINDS" url="http://www.ninds.nih.gov/disorders/neurofibromatosis/neurofibromatosis.htm">
+<Focus>Neurofibromatosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162678</CUI>
+			<CUI>C0027831</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000212-1" qtype="information">What is (are) Neurofibromatosis ?</Question>
+			<Answer>The neurofibromatoses are genetic disorders that cause tumors to grow in the nervous system. The tumors begin in the supporting cells that make up the nerves and the myelin sheath--the thin membrane that envelops and protects the nerves. These disorders cause tumors to grow on nerves and, less frequently, in the brain and spinal cord, and produce other abnormalities such as skin changes and bone deformities. Although many affected persons inherit the disorder, between 30 and 50 percent of new cases arise spontaneously through mutation (change) in an individual&apos;s genes. Once this change has taken place, the mutant gene can be passed on to succeeding generations. There are three forms of neurofibromatosis (NF):
+                
+- NF1 is the more common type of the disorder. Symptoms of NF1, which may be evident at birth and nearly always by the time the child is 10 years old, may include light brown spots on the skin (&quot;cafe-au-lait&quot; spots), two or more growths on the iris of the eye, a tumor on the optic nerve, a larger than normal head circumference, and abnormal development of the spine, a skull bone, or the tibia.   - NF2 is less common and is characterized by slow-growing tumors on the vestibular branch of the right and left eighth cranial nerves, which are called vestibular schwannomas or acoustic neuromas.. The tumors press on and damage neighboring nerves and reduce hearing.  - The distinctive feature of schwannomatosis is the development of multiple schwannomas (tumors made up of certain cells) everywhere in the body except on the vestibular branch of the 8th cranial nerve. The dominant symptom is pain, which develops as a schwannoma enlarges or compresses nerves or adjacent tissue. Some people may develop numbness, tingling, or weakness in the fingers and toes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000212-2" qtype="treatment">What are the treatments for Neurofibromatosis ?</Question>
+			<Answer>Treatment may include surgery, focused radiation, or chemotherapy. Surgery to remove NF2 tumors completely is one option. Surgery for vestibular schwannomas does not restore hearing and usually reduces hearing. Sometimes surgery is not performed until functional hearing is lost completely. Surgery may result in damage to the facial nerve and some degree of facial paralysis. Focused radiation of vestibular schwannoma carries of a lower risk of facial paralysis than open surgery, but is more effective o shrinking small to moderate tumors than larger tumors. Chemotherapy with a drug that targets the blood vessels of vestibular schwannoma can reduce the size of the tumor and improves hearing, but some tumors do not respond at all and sometimes respond only temporarily. Bone malformations can often be corrected surgically, and surgery can also correct cataracts and retinal abnormalities. Pain usually subsides when tumors are removed completely.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000212-3" qtype="outlook">What is the outlook for Neurofibromatosis ?</Question>
+			<Answer>In most cases, symptoms of NF1 are mild, and individuals live normal and productive lives. In some cases, however, NF1 can be severely debilitating and may cause cosmetic and psychological issues. The course of NF2 varies greatly among individuals. Loss of hearing in both ears develops in most individuals with NF2. In some cases of NF2, the damage to nearby vital structures, such as other cranial nerves and the brain stem, can be life-threatening. Most individuals with schwannomatosis have significant pain. In some extreme cases the pain will be severe and disabling.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000212-4" qtype="research">what research (or clinical trials) is being done for Neurofibromatosis ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. NINDS researchers are working to identify signaling pathways in the nervous system, with the hope of eventually developing drugs and techniques to help diagnose and treat NF. Understanding the natural history of tumors in NF and determining possible factors that may regulate their growth patterns is another aim of NIH researchers Ongoing research continues to discover additional genes that appear to play a role in NF-related tumor suppression or growth Continuing research on these genes and their proteins is beginning to reveal how this novel family of growth regulators controls how and where tumors form and grow Researchers also hope to develop new and more effective treatments for neurofibromatosis. Several agents have been tested or are under investigation for NF2, including the monoclonal antibody, bevacizumab, which improves hearing in some individuals with NF2.Because schwannomas are particularly hard to treat tumors, NINDS researchers are developing a new treatment option, which uses a virus to kill tumor cells. Additional NINDS-funded researchers are testing novel radiation and chemotherapy regimens for NF1-related malignant tumors of the peripheral nerves.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

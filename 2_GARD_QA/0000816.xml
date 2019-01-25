@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000816" source="GARD" url="https://rarediseases.info.nih.gov/gard/985/brachydactyly-type-b">
+<Focus>Brachydactyly type B</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221357</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Brachydactyly</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000816-1" qtype="information">What is (are) Brachydactyly type B ?</Question>
+			<Answer>Brachydactyly type B is a very rare genetic condition characterized by disproportionately short fingers and toes. The ends of the second and fifth fingers are usually underdeveloped with complete absence of the fingernails. The thumb bones are always intact but are frequently flattened and/or split. The feet are usually similarly affected, but less severely. Other features that may be present include webbed fingers (syndactyly) and fusion of the joints (symphalangism) and bones in the hands and feet. Only a few cases have been reported in the literature. This condition is caused by mutations in the ROR2 gene. Most cases have been shown to be inherited in an autosomal dominant fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000816-2" qtype="symptoms">What are the symptoms of Brachydactyly type B ?</Question>
+			<Answer>What are the signs and symptoms of Brachydactyly type B? The Human Phenotype Ontology provides the following list of signs and symptoms for Brachydactyly type B. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the metacarpal bones 90% Anonychia 90% Aplasia/Hypoplasia of the distal phalanges of the toes 90% Short distal phalanx of finger 90% Short toe 90% Abnormality of thumb phalanx 7.5% Preaxial foot polydactyly 7.5% Symphalangism affecting the phalanges of the hand 7.5% Synostosis of carpal bones 7.5% Cutaneous finger syndactyly 5% Abnormality of the foot - Aplasia/Hypoplasia of the distal phalanges of the hand - Autosomal dominant inheritance - Broad thumb - Camptodactyly - Delayed cranial suture closure - Delayed eruption of permanent teeth - Hemivertebrae - Hypoplastic sacrum - Joint contracture of the hand - Micropenis - Short long bone - Short middle phalanx of finger - Syndactyly - Thoracolumbar scoliosis - Type B brachydactyly - Ventricular septal defect - Vertebral fusion - Wide anterior fontanel - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000816-3" qtype="inheritance">Is Brachydactyly type B inherited ?</Question>
+			<Answer>How is brachydactyly type B inherited? Brachydactyly type B is caused by mutations in the ROR2 gene. It is inherited in an autosomal dominant fashion, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Individuals with brachydactyly type B have a 50% chance of passing on this condition to their children.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

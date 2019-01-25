@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000301" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/drugreactions.html">
+<Focus>Drug Reactions</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0041755</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Side effects</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000301-1" qtype="information">What is (are) Drug Reactions ?</Question>
+			<Answer>Most of the time, medicines make our lives better. They reduce aches and pains, fight infections, and control problems such as high blood pressure or diabetes. But medicines can also cause unwanted reactions.    One problem is interactions, which may occur between       - Two drugs, such as aspirin and blood thinners    - Drugs and food, such as statins and grapefruit    - Drugs and supplements, such as gingko and blood thinners    - Drugs and diseases, such as aspirin and peptic ulcers       Interactions can change the actions of one or both drugs. The drugs might not work, or you could get side effects.    Side effects are unwanted effects caused by the drugs. Most are mild, such as a stomach aches or drowsiness, and go away after you stop taking the drug. Others can be more serious.    Drug allergies are another type of reaction. They can be mild or life-threatening. Skin reactions, such as hives and rashes, are the most common type. Anaphylaxis, a serious allergic reaction, is more rare.    When you start a new prescription or over-the-counter medication, make sure you understand how to take it correctly. Know which other medications and foods you need to avoid. Ask your health care provider or pharmacist if you have questions.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

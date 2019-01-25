@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000088" source="GHR" url="https://ghr.nlm.nih.gov/condition/autoimmune-lymphoproliferative-syndrome">
+<Focus>autoimmune lymphoproliferative syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1328840</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ALPS</Synonym>
+		<Synonym>Canale-Smith syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000088-1" qtype="information">What is (are) autoimmune lymphoproliferative syndrome ?</Question>
+			<Answer>Autoimmune lymphoproliferative syndrome (ALPS) is an inherited disorder in which the body cannot properly regulate the number of immune system cells (lymphocytes). ALPS is characterized by the production of an abnormally large number of lymphocytes (lymphoproliferation). Accumulation of excess lymphocytes results in enlargement of the lymph nodes (lymphadenopathy), the liver (hepatomegaly), and the spleen (splenomegaly).  People with ALPS have an increased risk of developing cancer of the immune system cells (lymphoma) and may also be at increased risk of developing other cancers.  Autoimmune disorders are also common in ALPS. Autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. Most of the autoimmune disorders associated with ALPS target and damage blood cells. For example, the immune system may attack red blood cells (autoimmune hemolytic anemia), white blood cells (autoimmune neutropenia), or platelets (autoimmune thrombocytopenia). Less commonly, autoimmune disorders that affect other organs and tissues occur in people with ALPS. These disorders can damage the kidneys (glomerulonephritis), liver (autoimmune hepatitis), eyes (uveitis), nerves (Guillain-Barre syndrome), or the connective tissues (systemic lupus erythematosus) that provide strength and flexibility to structures throughout the body.  Skin problems, usually rashes or hives (urticaria), can occur in ALPS. Occasionally, affected individuals develop hardened skin with painful lumps or patches (panniculitis). Other rare signs and symptoms of ALPS include joint inflammation (arthritis), inflammation of blood vessels (vasculitis), mouth sores (oral ulcers), or an early loss of ovarian function (premature ovarian failure) may also occur in this disorder. Affected individuals can also develop neurological damage (organic brain syndrome) with symptoms that may include headaches, seizures, or a decline in intellectual functions (dementia).  ALPS can have different patterns of signs and symptoms, which are sometimes considered separate forms of the disorder. In the most common form, lymphoproliferation generally becomes apparent during childhood. Enlargement of the lymph nodes and spleen frequently occur in affected individuals. Autoimmune disorders typically develop several years later, most frequently as a combination of hemolytic anemia and thrombocytopenia, also called Evans syndrome. People with this classic form of ALPS have a greatly increased risk of developing lymphoma compared with the general population.  Other types of ALPS are very rare. In some affected individuals, severe lymphoproliferation begins around the time of birth, and autoimmune disorders and lymphoma develop at an early age. People with this pattern of signs and symptoms generally do not live beyond childhood. Another form of ALPS involves lymphoproliferation and the tendency to develop systemic lupus erythematosus. Individuals with this form of the disorder do not have an enlarged spleen.  Some people have signs and symptoms that resemble those of ALPS, but the specific pattern of these signs and symptoms or the genetic cause may be different than in other forms. Researchers disagree whether individuals with these non-classic forms should be considered to have ALPS or a separate condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000088-2" qtype="frequency">How many people are affected by autoimmune lymphoproliferative syndrome ?</Question>
+			<Answer>ALPS is a rare disorder; its prevalence is unknown. More than 200 affected individuals have been identified worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000088-3" qtype="genetic changes">What are the genetic changes related to autoimmune lymphoproliferative syndrome ?</Question>
+			<Answer>Mutations in the FAS gene cause ALPS in approximately 75 percent of affected individuals. The FAS gene provides instructions for making a protein involved in cell signaling that results in the self-destruction of cells (apoptosis).  When the immune system is turned on (activated) to fight an infection, large numbers of lymphocytes are produced. Normally, these lymphocytes undergo apoptosis when they are no longer required. FAS gene mutations result in an abnormal protein that interferes with apoptosis. Excess lymphocytes accumulate in the body&apos;s tissues and organs and often begin attacking them, leading to autoimmune disorders. Interference with apoptosis allows cells to multiply without control, leading to the lymphomas and other cancers that occur in people with this disorder.  ALPS may also be caused by mutations in additional genes, some of which have not been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000088-4" qtype="inheritance">Is autoimmune lymphoproliferative syndrome inherited ?</Question>
+			<Answer>In most people with ALPS, including the majority of those with FAS gene mutations, this condition is inherited in an autosomal dominant pattern, which means one copy of an altered gene in each cell is sufficient to cause the disorder. In these cases, an affected person usually inherits the mutation from one affected parent. Other cases with an autosomal dominant pattern result from new (de novo) gene mutations that occur early in embryonic development in people with no history of the disorder in their family.  In a small number of cases, including some cases caused by FAS gene mutations, ALPS is inherited in an autosomal recessive pattern, which means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  ALPS can also arise from a mutation in lymphocytes that is not inherited but instead occurs during an individual&apos;s lifetime. This alteration is called a somatic mutation.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000088-5" qtype="treatment">What are the treatments for autoimmune lymphoproliferative syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of ALPS:  - Gene Review: Gene Review: Autoimmune Lymphoproliferative Syndrome  - Genetic Testing Registry: Autoimmune lymphoproliferative syndrome  - Genetic Testing Registry: Autoimmune lymphoproliferative syndrome type 1, autosomal recessive  - Genetic Testing Registry: Autoimmune lymphoproliferative syndrome, type 1a  - Genetic Testing Registry: Autoimmune lymphoproliferative syndrome, type 1b  - Genetic Testing Registry: Autoimmune lymphoproliferative syndrome, type 2  - Genetic Testing Registry: RAS-associated autoimmune leukoproliferative disorder  - National Institute of Allergy and Infectious Diseases (NIAID): ALPS Treatment   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

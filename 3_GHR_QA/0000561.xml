@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000561" source="GHR" url="https://ghr.nlm.nih.gov/condition/klinefelter-syndrome">
+<Focus>Klinefelter syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432474</CUI>
+			<CUI>C0022735</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Klinefelter's syndrome</Synonym>
+		<Synonym>XXY syndrome</Synonym>
+		<Synonym>XXY trisomy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000561-1" qtype="information">What is (are) Klinefelter syndrome ?</Question>
+			<Answer>Klinefelter syndrome is a chromosomal condition that affects male physical and cognitive development. Its signs and symptoms vary among affected individuals.  Affected individuals typically have small testes that do not produce as much testosterone as usual. Testosterone is the hormone that directs male sexual development before birth and during puberty. A shortage of testosterone can lead to delayed or incomplete puberty, breast enlargement (gynecomastia), reduced facial and body hair, and an inability to have biological children (infertility). Some affected individuals also have genital differences including undescended testes (cryptorchidism), the opening of the urethra on the underside of the penis (hypospadias), or an unusually small penis (micropenis).  Older children and adults with Klinefelter syndrome tend to be taller than their peers. Compared with unaffected men, adults with Klinefelter syndrome have an increased risk of developing breast cancer and a chronic inflammatory disease called systemic lupus erythematosus. Their chance of developing these disorders is similar to that of women in the general population.  Children with Klinefelter syndrome may have learning disabilities and delayed speech and language development. They tend to be quiet, sensitive, and unassertive, but personality characteristics vary among affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000561-2" qtype="frequency">How many people are affected by Klinefelter syndrome ?</Question>
+			<Answer>Klinefelter syndrome affects 1 in 500 to 1,000 newborn males. Most variants of Klinefelter syndrome are much rarer, occurring in 1 in 50,000 or fewer newborns.  Researchers suspect that Klinefelter syndrome is underdiagnosed because the condition may not be identified in people with mild signs and symptoms. Additionally, the features of the condition vary and overlap significantly with those of other conditions.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000561-3" qtype="genetic changes">What are the genetic changes related to Klinefelter syndrome ?</Question>
+			<Answer>Klinefelter syndrome is a condition related to the X and Y chromosomes (the sex chromosomes). People typically have two sex chromosomes in each cell: females have two X chromosomes (46,XX), and males have one X and one Y chromosome (46,XY). Most often, Klinefelter syndrome results from the presence of one extra copy of the X chromosome in each cell (47,XXY). Extra copies of genes on the X chromosome interfere with male sexual development, often preventing the testes from functioning normally and reducing the levels of testosterone. Most people with an extra X chromosome have the features described above, although some have few or no associated signs and symptoms.  Some people with features of Klinefelter syndrome have more than one extra sex chromosome in each cell (for example, 48,XXXY or 49,XXXXY). These conditions, which are often called variants of Klinefelter syndrome, tend to cause more severe signs and symptoms than classic Klinefelter syndrome. In addition to affecting male sexual development, variants of Klinefelter syndrome are associated with intellectual disability, distinctive facial features, skeletal abnormalities, poor coordination, and severe problems with speech. As the number of extra sex chromosomes increases, so does the risk of these health problems.  Some people with features of Klinefelter syndrome have the extra X chromosome in only some of their cells; in these individuals, the condition is described as mosaic Klinefelter syndrome (46,XY/47,XXY). Individuals with mosaic Klinefelter syndrome may have milder signs and symptoms, depending on how many cells have an additional X chromosome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000561-4" qtype="inheritance">Is Klinefelter syndrome inherited ?</Question>
+			<Answer>Klinefelter syndrome and its variants are not inherited; these chromosomal changes usually occur as random events during the formation of reproductive cells (eggs and sperm) in a parent. An error in cell division called nondisjunction results in a reproductive cell with an abnormal number of chromosomes. For example, an egg or sperm cell may gain one or more extra copies of the X chromosome as a result of nondisjunction. If one of these atypical reproductive cells contributes to the genetic makeup of a child, the child will have one or more extra X chromosomes in each of the body&apos;s cells.  Mosaic 46,XY/47,XXY is also not inherited. It occurs as a random event during cell division early in fetal development. As a result, some of the body&apos;s cells have one X chromosome and one Y chromosome (46,XY), and other cells have an extra copy of the X chromosome (47,XXY).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000561-5" qtype="treatment">What are the treatments for Klinefelter syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Klinefelter syndrome:  - Genetic Testing Registry: Klinefelter&apos;s syndrome, XXY  - MedlinePlus Encyclopedia: Klinefelter Syndrome  - MedlinePlus Encyclopedia: Testicular Failure   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

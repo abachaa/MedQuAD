@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004251" source="GARD" url="https://rarediseases.info.nih.gov/gard/7132/myelodysplastic-syndromes">
+<Focus>Myelodysplastic syndromes</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026986</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MDS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004251-1" qtype="information">What is (are) Myelodysplastic syndromes ?</Question>
+			<Answer>Myelodysplastic syndromes (MDS) are a rare group of blood disorders characterized by abnormal development of blood cells within the bone marrow. Individuals with MDS have abnormally low blood cell levels (low blood counts). Signs and symptoms associated with MDS include dizziness, fatigue, weakness, shortness of breath, bruising and bleeding, frequent infections, and headaches. In some cases, MDS may progress to bone marrow failure or an acute leukemia. The exact cause of MDS is unknown. It sometimes runs in families, but no disease-causing gene has been identified. Treatment depends on the affected individual&apos;s age, general health, and type of MDS and may include red cell and/or platelet transfusions and antibiotics.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004251-2" qtype="symptoms">What are the symptoms of Myelodysplastic syndromes ?</Question>
+			<Answer>What are the signs and symptoms of Myelodysplastic syndromes? The Human Phenotype Ontology provides the following list of signs and symptoms for Myelodysplastic syndromes. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Myelodysplasia - Somatic mutation - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004251-3" qtype="causes">What causes Myelodysplastic syndromes ?</Question>
+			<Answer>What causes myelodysplastic syndromes? It is known that the abnormal development of blood cells associated with myelodysplastic syndromes (MDS) develops as the result of a series of somatic genetic changes - mutations that are not inherited that arise after conception - in cells that later become blood cells. These changes alter normal cell growth and differentiation, resulting in the accumulation of abnormal, immature cells in the bone marrow, thus leading to the signs and symptoms of MDS. Some recurring chromosome abnormalities and translocations have been identified and can affect treatment planning and prognosis. Many times the underlying cause of MDS is unknown (idiopathic MDS). Sometimes, MDS can develop after chemotherapy and radiation treatment for cancer or autoimmune diseases (secondary MDS). There are also some possible risk factors for developing the condition. Having a risk factor does not mean that an individual will get MDS; not having risk factors doesnt mean that an individual will not get MDS. Possible risk factors for MDS may include past treatment with chemotherapy or radiation therapy; exposure to some chemicals (pesticides and benzene); exposure to heavy metals (such as mercury or lead); cigarette smoking; viral infections; being over 60 years of age; and being male or white. The majority of individuals developing MDS have no obvious connection with environmental hazards. MDS also sometimes runs in families, which suggests a potential genetic link with the disease; however, no disease causing gene has been identified.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000035" source="GHR" url="https://ghr.nlm.nih.gov/condition/alkaptonuria">
+<Focus>alkaptonuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002066</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AKU</Synonym>
+		<Synonym>alcaptonuria</Synonym>
+		<Synonym>homogentisic acid oxidase deficiency</Synonym>
+		<Synonym>homogentisic acidura</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000035-1" qtype="information">What is (are) alkaptonuria ?</Question>
+			<Answer>Alkaptonuria is an inherited condition that causes urine to turn black when exposed to air. Ochronosis, a buildup of dark pigment in connective tissues such as cartilage and skin, is also characteristic of the disorder. This blue-black pigmentation usually appears after age 30. People with alkaptonuria typically develop arthritis, particularly in the spine and large joints, beginning in early adulthood. Other features of this condition can include heart problems, kidney stones, and prostate stones.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000035-2" qtype="frequency">How many people are affected by alkaptonuria ?</Question>
+			<Answer>This condition is rare, affecting 1 in 250,000 to 1 million people worldwide. Alkaptonuria is more common in certain areas of Slovakia (where it has an incidence of about 1 in 19,000 people) and in the Dominican Republic.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000035-3" qtype="genetic changes">What are the genetic changes related to alkaptonuria ?</Question>
+			<Answer>Mutations in the HGD gene cause alkaptonuria. The HGD gene provides instructions for making an enzyme called homogentisate oxidase. This enzyme helps break down the amino acids phenylalanine and tyrosine, which are important building blocks of proteins. Mutations in the HGD gene impair the enzyme&apos;s role in this process. As a result, a substance called homogentisic acid, which is produced as phenylalanine and tyrosine are broken down, accumulates in the body. Excess homogentisic acid and related compounds are deposited in connective tissues, which causes cartilage and skin to darken. Over time, a buildup of this substance in the joints leads to arthritis. Homogentisic acid is also excreted in urine, making the urine turn dark when exposed to air.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000035-4" qtype="inheritance">Is alkaptonuria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000035-5" qtype="treatment">What are the treatments for alkaptonuria ?</Question>
+			<Answer>These resources address the diagnosis or management of alkaptonuria:  - Gene Review: Gene Review: Alkaptonuria  - Genetic Testing Registry: Alkaptonuria  - MedlinePlus Encyclopedia: Alkaptonuria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

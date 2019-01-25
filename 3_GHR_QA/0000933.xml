@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000933" source="GHR" url="https://ghr.nlm.nih.gov/condition/spina-bifida">
+<Focus>spina bifida</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0080178</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cleft spine</Synonym>
+		<Synonym>open spine</Synonym>
+		<Synonym>rachischisis</Synonym>
+		<Synonym>spinal dysraphism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000933-1" qtype="information">What is (are) spina bifida ?</Question>
+			<Answer>Spina bifida is a condition in which the neural tube, a layer of cells that ultimately develops into the brain and spinal cord, fails to close completely during the first few weeks of embryonic development. As a result, when the spine forms, the bones of the spinal column do not close completely around the developing nerves of the spinal cord. Part of the spinal cord may stick out through an opening in the spine, leading to permanent nerve damage. Because spina bifida is caused by abnormalities of the neural tube, it is classified as a neural tube defect.  Children born with spina bifida often have a fluid-filled sac on their back that is covered by skin, called a meningocele. If the sac contains part of the spinal cord and its protective covering, it is known as a myelomeningocele. The signs and symptoms of these abnormalities range from mild to severe, depending on where the opening in the spinal column is located and how much of the spinal cord is affected. Related problems can include a loss of feeling below the level of the opening, weakness or paralysis of the feet or legs, and problems with bladder and bowel control. Some affected individuals have additional complications, including a buildup of excess fluid around the brain (hydrocephalus) and learning problems. With surgery and other forms of treatment, many people with spina bifida live into adulthood.  In a milder form of the condition, called spina bifida occulta, the bones of the spinal column are abnormally formed, but the nerves of the spinal cord usually develop normally. Unlike in the more severe form of spina bifida, the nerves do not stick out through an opening in the spine. Spina bifida occulta most often causes no health problems, although rarely it can cause back pain or changes in bladder function.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000933-2" qtype="frequency">How many people are affected by spina bifida ?</Question>
+			<Answer>Spina bifida is one of the most common types of neural tube defect, affecting an estimated 1 in 2,500 newborns worldwide. For unknown reasons, the prevalence of spina bifida varies among different geographic regions and ethnic groups. In the United States, this condition occurs more frequently in Hispanics and non-Hispanic whites than in African Americans.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000933-3" qtype="genetic changes">What are the genetic changes related to spina bifida ?</Question>
+			<Answer>Spina bifida is a complex condition that is likely caused by the interaction of multiple genetic and environmental factors. Some of these factors have been identified, but many remain unknown.  Changes in dozens of genes in individuals with spina bifida and in their mothers may influence the risk of developing this type of neural tube defect. The best-studied of these genes is MTHFR, which provides instructions for making a protein that is involved in processing the vitamin folate (also called vitamin B9). A shortage (deficiency) of this vitamin is an established risk factor for neural tube defects. Changes in other genes related to folate processing and genes involved in the development of the neural tube have also been studied as potential risk factors for spina bifida. However, none of these genes appears to play a major role in causing the condition.  Researchers have also examined environmental factors that could contribute to the risk of spina bifida. As mentioned above, folate deficiency appears to play a significant role. Studies have shown that women who take supplements containing folic acid (the synthetic form of folate) before they get pregnant and very early in their pregnancy are significantly less likely to have a baby with spina bifida or a related neural tube defect. Other possible maternal risk factors for spina bifida include diabetes mellitus, obesity, exposure to high heat (such as a fever or use of a hot tub or sauna) in early pregnancy, and the use of certain anti-seizure medications during pregnancy. However, it is unclear how these factors may influence the risk of spina bifida.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000933-4" qtype="inheritance">Is spina bifida inherited ?</Question>
+			<Answer>Most cases of spina bifida are sporadic, which means they occur in people with no history of the disorder in their family. A small percentage of cases have been reported to run in families; however, the condition does not have a clear pattern of inheritance. First-degree relatives (such as siblings and children) of people with spina bifida have an increased risk of the condition compared with people in the general population.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000933-5" qtype="treatment">What are the treatments for spina bifida ?</Question>
+			<Answer>These resources address the diagnosis or management of spina bifida:  - Benioff Children&apos;s Hospital, University of California, San Francisco: Treatment of Spina Bifida  - Centers for Disease Control and Prevention: Living with Spina Bifida  - GeneFacts: Spina Bifida: Diagnosis  - GeneFacts: Spina Bifida: Management  - Genetic Testing Registry: Neural tube defect  - Genetic Testing Registry: Neural tube defects, folate-sensitive  - Spina Bifida Association: Urologic Care and Management  - University of California, San Francisco Fetal Treatment Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

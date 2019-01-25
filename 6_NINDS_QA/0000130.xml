@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000130" source="NINDS" url="http://www.ninds.nih.gov/disorders/miller_fisher/miller_fisher.htm">
+<Focus>Miller Fisher Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393799</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000130-1" qtype="information">What is (are) Miller Fisher Syndrome ?</Question>
+			<Answer>Miller Fisher syndrome is a rare, acquired nerve disease that is considered to be a variant of Guillain-Barr syndrome. It is characterized by abnormal muscle coordination, paralysis of the eye muscles, and absence of the tendon reflexes. Like Guillain-Barr syndrome, symptoms may be preceded by a viral illness. Additional symptoms include generalized muscle weakness and respiratory failure. The majority of individuals with Miller Fisher syndrome have a unique antibody that characterizes the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000130-2" qtype="treatment">What are the treatments for Miller Fisher Syndrome ?</Question>
+			<Answer>Treatment for Miller Fisher syndrome is identical to treatment for Guillain-Barr syndrome: intravenous immunoglobulin (IVIg) or plasmapheresis (a procedure in which antibodies are removed from the blood) and supportive care.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000130-3" qtype="outlook">What is the outlook for Miller Fisher Syndrome ?</Question>
+			<Answer>The prognosis for most individuals with Miller Fisher syndrome is good. In most cases, recovery begins within 2 to 4 weeks of the onset of symptoms, and may be almost complete within 6 months. Some individuals are left with residual deficits. Relapses may occur rarely (in less than 3 percent of cases).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000130-4" qtype="research">what research (or clinical trials) is being done for Miller Fisher Syndrome ?</Question>
+			<Answer>The NINDS supports research aimed at discovering new ways to diagnose, treat, and, ultimately, cure neuropathies such as Miller Fisher syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

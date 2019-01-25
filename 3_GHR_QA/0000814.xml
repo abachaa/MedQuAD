@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000814" source="GHR" url="https://ghr.nlm.nih.gov/condition/ppm-x-syndrome">
+<Focus>PPM-X syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3713418</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PPMX</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000814-1" qtype="information">What is (are) PPM-X syndrome ?</Question>
+			<Answer>PPM-X syndrome is a condition characterized by psychotic disorders (most commonly bipolar disorder), a pattern of movement abnormalities known as parkinsonism, and mild to severe intellectual disability. Other symptoms include increased muscle tone and exaggerated reflexes. Affected males may have enlarged testes (macro-orchidism). Not all affected individuals have all these symptoms, but most have intellectual disability. Males with this condition are typically more severely affected than females, who usually have only mild intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000814-2" qtype="frequency">How many people are affected by PPM-X syndrome ?</Question>
+			<Answer>The prevalence of PPM-X syndrome is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000814-3" qtype="genetic changes">What are the genetic changes related to PPM-X syndrome ?</Question>
+			<Answer>Mutations in the MECP2 gene cause PPM-X syndrome. The MECP2 gene provides instructions for making a protein called MeCP2 that is critical for normal brain function. Researchers believe that this protein has several functions, including regulating other genes in the brain by switching them off when they are not needed. The MeCP2 protein likely plays a role in maintaining connections (synapses) between nerve cells. The MeCP2 protein may also control the production of different versions of certain proteins in nerve cells. Although mutations in the MECP2 gene disrupt the normal function of nerve cells, it is unclear how these mutations lead to the signs and symptoms of PPM-X syndrome.  Some MECP2 gene mutations that cause PPM-X syndrome disrupt attachment (binding) of the MeCP2 protein to DNA, and other mutations alter the 3-dimensional shape of the protein. These mutations lead to the production of a MeCP2 protein that cannot properly interact with DNA or other proteins and so cannot control the expression of genes. It is unclear how MECP2 gene mutations lead to the signs and symptoms of PPM-X syndrome, but misregulation of genes in the brain likely plays a role.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000814-4" qtype="inheritance">Is PPM-X syndrome inherited ?</Question>
+			<Answer>More than 99 percent of PPM-X syndrome cases occur in people with no history of the disorder in their family. Many of these cases result from new mutations in the MECP2 gene.  A few families with more than one affected family member have been described. These cases helped researchers determine that PPM-X syndrome has an X-linked pattern of inheritance. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. One copy of the altered gene in each cell is sufficient to cause the condition, although females with one altered copy of the gene are usually less severely affected than males.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000814-5" qtype="treatment">What are the treatments for PPM-X syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of PPM-X syndrome:  - Cincinnati Children&apos;s Hospital: MECP2-Related Disorders  - Gene Review: Gene Review: MECP2-Related Disorders   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

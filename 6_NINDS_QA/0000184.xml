@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000184" source="NINDS" url="http://www.ninds.nih.gov/disorders/lissencephaly/lissencephaly.htm">
+<Focus>Lissencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266463</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000184-1" qtype="information">What is (are) Lissencephaly ?</Question>
+			<Answer>Lissencephaly, which literally means &quot;smooth brain,&quot; is a rare, gene-linked brain malformation characterized by the absence of normal convolutions (folds) in the cerebral cortex and an abnormally small head (microcephaly). In the usual condition of lissencephaly, children usually have a normal sized head at birth. In children with reduced head size at birth, the condition microlissencephaly is typically diagnosed. Lissencephaly is caused by defective neuronal migration during embryonic development, the process in which nerve cells move from their place of origin to their permanent location within the cerebral cortex gray matter. Symptoms of the disorder may include unusual facial appearance, difficulty swallowing, failure to thrive, muscle spasms, seizures, and severe psychomotor retardation. Hands, fingers, or toes may be deformed. Lissencephaly may be associated with other diseases including isolated lissencephaly sequence, Miller-Dieker syndrome, and Walker-Warburg syndrome. Sometimes it can be difficult to distinguish between these conditions clinically so consultation with national experts is recommended to help ensure correct diagnosis and possible molecular testing.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000184-2" qtype="treatment">What are the treatments for Lissencephaly ?</Question>
+			<Answer>There is no cure for lissencephaly, but children can show progress in their development over time. Supportive care may be needed to help with comfort, feeding, and nursing needs. Seizures may be particularly problematic but anticonvulsant medications can help. Progressive hydrocephalus (an excessive accumulation of cerebrospinal fluid in the brain) is very rare, seen only in the subtype of Walker-Warburg syndrome, but may require shunting. If feeding becomes difficult, a gastrostomy tube may be considered.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000184-3" qtype="outlook">What is the outlook for Lissencephaly ?</Question>
+			<Answer>The prognosis for children with lissencephaly depends on the degree of brain malformation. Many will die before the age of 10 years. The cause of death is usually aspiration of food or fluids, respiratory disease, or severe seizures. Some will survive, but show no significant development -- usually not beyond a 3- to 5-month-old level. Others may have near-normal development and intelligence. Because of this range, it is important to seek the opinion of specialists in lissencephaly and support from family groups with connection to these specialists.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000184-4" qtype="research">what research (or clinical trials) is being done for Lissencephaly ?</Question>
+			<Answer>The NINDS conducts and supports a wide range of studies that explore the complex systems of normal brain development, including neuronal migration. Recent studies have identified genes that are responsible for lissencephaly. The knowledge gained from these studies provides the foundation for developing treatments and preventive measures for neuronal migration disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

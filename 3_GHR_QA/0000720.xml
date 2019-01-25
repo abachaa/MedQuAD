@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000720" source="GHR" url="https://ghr.nlm.nih.gov/condition/nephronophthisis">
+<Focus>nephronophthisis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0687120</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NPH</Synonym>
+		<Synonym>NPHP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000720-1" qtype="information">What is (are) nephronophthisis ?</Question>
+			<Answer>Nephronophthisis is a disorder that affects the kidneys. It is characterized by inflammation and scarring (fibrosis) that impairs kidney function. These abnormalities lead to increased urine production (polyuria), excessive thirst (polydipsia), general weakness, and extreme tiredness (fatigue). In addition, affected individuals develop fluid-filled cysts in the kidneys, usually in an area known as the corticomedullary region. Another feature of nephronophthisis is a shortage of red blood cells, a condition known as anemia.  Nephronophthisis eventually leads to end-stage renal disease (ESRD), a life-threatening failure of kidney function that occurs when the kidneys are no longer able to filter fluids and waste products from the body effectively. Nephronophthisis can be classified by the approximate age at which ESRD begins: around age 1 (infantile), around age 13 (juvenile), and around age 19 (adolescent).  About 85 percent of all cases of nephronophthisis are isolated, which means they occur without other signs and symptoms. Some people with nephronophthisis have additional features, which can include liver fibrosis, heart abnormalities, or mirror image reversal of the position of one or more organs inside the body (situs inversus).  Nephronophthisis can occur as part of separate syndromes that affect other areas of the body; these are often referred to as nephronophthisis-associated ciliopathies. For example, Senior-Lken syndrome is characterized by the combination of nephronophthisis and a breakdown of the light-sensitive tissue at the back of the eye (retinal degeneration); Joubert syndrome affects many parts of the body, causing neurological problems and other features, which can include nephronophthisis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000720-2" qtype="frequency">How many people are affected by nephronophthisis ?</Question>
+			<Answer>Nephronophthisis is found in populations worldwide. It occurs in an estimated 1 in 50,000 newborns in Canada, 1 in 100,000 in Finland, and 1 in 922,000 in the United States. Its incidence in other populations is unknown. Nephronophthisis is the most common genetic cause of ESRD in children and young adults.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000720-3" qtype="genetic changes">What are the genetic changes related to nephronophthisis ?</Question>
+			<Answer>Nephronophthisis has several genetic causes, which are used to split the condition into distinct types. Nephronophthisis type 1, which is the most common type of the disorder and one cause of juvenile nephronophthisis, results from changes affecting the NPHP1 gene. The proteins produced from NPHP1 and the other genes involved in nephronophthisis are known or suspected to play roles in cell structures called cilia. Cilia are microscopic, finger-like projections that stick out from the surface of cells and are involved in chemical signaling. Cilia are important for the structure and function of many types of cells and tissues, including cells in the kidneys, liver, and brain and the light-sensitive tissue at the back of the eye (the retina).  The genetic mutations involved in nephronophthisis are thought to impair the structure or function of cilia in some way, which likely disrupts important chemical signaling pathways during development. Although researchers believe that defective cilia lead to the features of nephronophthisis, the mechanism remains unclear. It is unknown why some people with mutations in nephronophthisis-associated genes have only kidney problems, while others develop additional signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000720-4" qtype="inheritance">Is nephronophthisis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000720-5" qtype="treatment">What are the treatments for nephronophthisis ?</Question>
+			<Answer>These resources address the diagnosis or management of nephronophthisis:  - Genetic Testing Registry: Adolescent nephronophthisis  - Genetic Testing Registry: Infantile nephronophthisis  - Genetic Testing Registry: Nephronophthisis  - Genetic Testing Registry: Nephronophthisis 1  - Genetic Testing Registry: Nephronophthisis 11  - Genetic Testing Registry: Nephronophthisis 12  - Genetic Testing Registry: Nephronophthisis 14  - Genetic Testing Registry: Nephronophthisis 15  - Genetic Testing Registry: Nephronophthisis 16  - Genetic Testing Registry: Nephronophthisis 18  - Genetic Testing Registry: Nephronophthisis 4  - Genetic Testing Registry: Nephronophthisis 7  - Genetic Testing Registry: Nephronophthisis 9  - Merck Manual Professional Edition   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

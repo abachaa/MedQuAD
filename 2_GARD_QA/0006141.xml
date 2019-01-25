@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006141" source="GARD" url="https://rarediseases.info.nih.gov/gard/7792/tracheoesophageal-fistula">
+<Focus>Tracheoesophageal fistula</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040588</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tracheoesophageal fistula with or without esophageal atresia</Synonym>
+		<Synonym>TE fistula</Synonym>
+		<Synonym>TEF</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006141-1" qtype="information">What is (are) Tracheoesophageal fistula ?</Question>
+			<Answer>Tracheoesophageal fistula (TEF) is a life-threatening condition in which there is an abnormal connection between the esophagus and trachea (windpipe). The esophagus and trachea run next to each other through the chest cavity. The esophagus carries food and saliva to the stomach, while the trachea carries air to the lungs. TEF can lead to severe and fatal lung complications. Saliva and gastric secretions can be aspirated into the lungs, and normal swallowing and digestion of food cannot occur. Most affected people are diagnosed immediately after birth or during infancy. Symptoms may include frothy bubbles of mucus in the mouth and nose; episodes of coughing and choking; and worsening symptoms during feeding. TEF may be isolated, or it may occur with other physical or developmental abnormalities (most commonly, esophageal atresia). In many cases the cause is unknown but it has been associated with some chromosome disorders. In some cases it may be acquired later in life after a cancer, infection, ruptured diverticula, or trauma. Treatment includes immediate surgical repair with survival rates of almost 100%.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006141-2" qtype="symptoms">What are the symptoms of Tracheoesophageal fistula ?</Question>
+			<Answer>What are the signs and symptoms of Tracheoesophageal fistula? The Human Phenotype Ontology provides the following list of signs and symptoms for Tracheoesophageal fistula. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Esophageal atresia - Tracheoesophageal fistula - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006141-3" qtype="inheritance">Is Tracheoesophageal fistula inherited ?</Question>
+			<Answer>Is tracheoesophageal fistula inherited? In most cases, tracheoesophageal fistula (TEF) is not inherited and there is only one affected person in a family. When TEF is isolated (i.e. does not occur with any other abnormalities), it is considered a multifactorial condition (caused by a combination of various genetic and environmental factors). However, in most isolated cases, no specific genetic changes or environmental factors have been proven to cause the condition. When TEF occurs as a feature of a specific genetic syndrome or chromosome abnormality, it may follow the inheritance pattern and recurrence risk for the underlying condition. In these cases, it may be caused by changes in single genes or chromosomes, or it may be multifactorial.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

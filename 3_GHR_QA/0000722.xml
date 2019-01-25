@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000722" source="GHR" url="https://ghr.nlm.nih.gov/condition/neuroblastoma">
+<Focus>neuroblastoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027819</CUI>
+			<CUI>C0700095</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NB</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000722-1" qtype="information">What is (are) neuroblastoma ?</Question>
+			<Answer>Neuroblastoma is a type of cancer that most often affects children. Neuroblastoma occurs when immature nerve cells called neuroblasts become abnormal and multiply uncontrollably to form a tumor. Most commonly, the tumor originates in the nerve tissue of the adrenal gland located above each kidney. Other common sites for tumors to form include the nerve tissue in the abdomen, chest, neck, or pelvis. Neuroblastoma can spread (metastasize) to other parts of the body such as the bones, liver, or skin.  Individuals with neuroblastoma may develop general signs and symptoms such as irritability, fever, tiredness (fatigue), pain, loss of appetite, weight loss, or diarrhea. More specific signs and symptoms depend on the location of the tumor and where it has spread. A tumor in the abdomen can cause abdominal swelling. A tumor in the chest may lead to difficulty breathing. A tumor in the neck can cause nerve damage known as Horner syndrome, which leads to drooping eyelids, small pupils, decreased sweating, and red skin. Tumor metastasis to the bone can cause bone pain, bruises, pale skin, or dark circles around the eyes. Tumors in the backbone can press on the spinal cord and cause weakness, numbness, or paralysis in the arms or legs. A rash of bluish or purplish bumps that look like blueberries indicates that the neuroblastoma has spread to the skin.  In addition, neuroblastoma tumors can release hormones that may cause other signs and symptoms such as high blood pressure, rapid heartbeat, flushing of the skin, and sweating. In rare instances, individuals with neuroblastoma may develop opsoclonus myoclonus syndrome, which causes rapid eye movements and jerky muscle motions. This condition occurs when the immune system malfunctions and attacks nerve tissue.  Neuroblastoma occurs most often in children before age 5 and rarely occurs in adults.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000722-2" qtype="frequency">How many people are affected by neuroblastoma ?</Question>
+			<Answer>Neuroblastoma is the most common cancer in infants younger than 1 year. It occurs in 1 in 100,000 children and is diagnosed in about 650 children each year in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000722-3" qtype="genetic changes">What are the genetic changes related to neuroblastoma ?</Question>
+			<Answer>Neuroblastoma and other cancers occur when a buildup of genetic mutations in critical genesthose that control cell growth and division (proliferation) or maturation (differentiation)allow cells to grow and divide uncontrollably to form a tumor. In most cases, these genetic changes are acquired during a person&apos;s lifetime and are called somatic mutations. Somatic mutations are present only in certain cells and are not inherited. When neuroblastoma is associated with somatic mutations, it is called sporadic neuroblastoma. It is thought that somatic mutations in at least two genes are required to cause sporadic neuroblastoma. Less commonly, gene mutations that increase the risk of developing cancer can be inherited from a parent. When the mutation associated with neuroblastoma is inherited, the condition is called familial neuroblastoma. Mutations in the ALK and PHOX2B genes have been shown to increase the risk of developing sporadic and familial neuroblastoma. It is likely that there are other genes involved in the formation of neuroblastoma.  Several mutations in the ALK gene are involved in the development of sporadic and familial neuroblastoma. The ALK gene provides instructions for making a protein called anaplastic lymphoma kinase. Although the specific function of this protein is unknown, it appears to play an important role in cell proliferation. Mutations in the ALK gene result in an abnormal version of anaplastic lymphoma kinase that is constantly turned on (constitutively activated). Constitutively active anaplastic lymphoma kinase may induce abnormal proliferation of immature nerve cells and lead to neuroblastoma.  Several mutations in the PHOX2B gene have been identified in sporadic and familial neuroblastoma. The PHOX2B gene is important for the formation and differentiation of nerve cells. Mutations in this gene are believed to interfere with the PHOX2B protein&apos;s role in promoting nerve cell differentiation. This disruption of differentiation results in an excess of immature nerve cells and leads to neuroblastoma.  Deletion of certain regions of chromosome 1 and chromosome 11 are associated with neuroblastoma. Researchers believe the deleted regions in these chromosomes could contain a gene that keeps cells from growing and dividing too quickly or in an uncontrolled way, called a tumor suppressor gene. When a tumor suppressor gene is deleted, cancer can occur. The KIF1B gene is a tumor suppressor gene located in the deleted region of chromosome 1, and mutations in this gene have been identified in some people with familial neuroblastoma, indicating it is involved in neuroblastoma development or progression. There are several other possible tumor suppressor genes in the deleted region of chromosome 1. No tumor suppressor genes have been identified in the deleted region of chromosome 11.  Another genetic change found in neuroblastoma is associated with the severity of the disease but not thought to cause it. About 25 percent of people with neuroblastoma have extra copies of the MYCN gene, a phenomenon called gene amplification. It is unknown how amplification of this gene contributes to the aggressive nature of neuroblastoma.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000722-4" qtype="inheritance">Is neuroblastoma inherited ?</Question>
+			<Answer>Most people with neuroblastoma have sporadic neuroblastoma, meaning the condition arose from somatic mutations in the body&apos;s cells and was not inherited.  About 1 to 2 percent of affected individuals have familial neuroblastoma. This form of the condition has an autosomal dominant inheritance pattern, which means one copy of the altered gene in each cell increases the risk of developing the disorder. However, the inheritance is considered to have incomplete penetrance because not everyone who inherits the altered gene from a parent develops neuroblastoma. Having the altered gene predisposes an individual to develop neuroblastoma, but an additional somatic mutation is probably needed to cause the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000722-5" qtype="treatment">What are the treatments for neuroblastoma ?</Question>
+			<Answer>These resources address the diagnosis or management of neuroblastoma:  - American Cancer Society: Diagnosis of Neuroblastoma  - Gene Review: Gene Review: ALK-Related Neuroblastic Tumor Susceptibility  - Genetic Testing Registry: Neuroblastoma  - Genetic Testing Registry: Neuroblastoma 2  - Genetic Testing Registry: Neuroblastoma 3  - National Cancer Institute  - The Children&apos;s Hospital of Pennsylvania   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

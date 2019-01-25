@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000647" source="GHR" url="https://ghr.nlm.nih.gov/condition/metachromatic-leukodystrophy">
+<Focus>metachromatic leukodystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023522</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ARSA deficiency</Synonym>
+		<Synonym>arylsulfatase A deficiency disease</Synonym>
+		<Synonym>cerebral sclerosis, diffuse, metachromatic form</Synonym>
+		<Synonym>cerebroside sulphatase deficiency disease</Synonym>
+		<Synonym>Greenfield disease</Synonym>
+		<Synonym>metachromatic leukoencephalopathy</Synonym>
+		<Synonym>MLD</Synonym>
+		<Synonym>sulfatide lipidosis</Synonym>
+		<Synonym>sulfatidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000647-1" qtype="information">What is (are) metachromatic leukodystrophy ?</Question>
+			<Answer>Metachromatic leukodystrophy is an inherited disorder characterized by the accumulation of fats called sulfatides in cells. This accumulation especially affects cells in the nervous system that produce myelin, the substance that insulates and protects nerves. Nerve cells covered by myelin make up a tissue called white matter. Sulfatide accumulation in myelin-producing cells causes progressive destruction of white matter (leukodystrophy) throughout the nervous system, including in the brain and spinal cord (the central nervous system) and the nerves connecting the brain and spinal cord to muscles and sensory cells that detect sensations such as touch, pain, heat, and sound (the peripheral nervous system).  In people with metachromatic leukodystrophy, white matter damage causes progressive deterioration of intellectual functions and motor skills, such as the ability to walk. Affected individuals also develop loss of sensation in the extremities (peripheral neuropathy), incontinence, seizures, paralysis, an inability to speak, blindness, and hearing loss. Eventually they lose awareness of their surroundings and become unresponsive. While neurological problems are the primary feature of metachromatic leukodystrophy, effects of sulfatide accumulation on other organs and tissues have been reported, most often involving the gallbladder.  The most common form of metachromatic leukodystrophy, affecting about 50 to 60 percent of all individuals with this disorder, is called the late infantile form. This form of the disorder usually appears in the second year of life. Affected children lose any speech they have developed, become weak, and develop problems with walking (gait disturbance). As the disorder worsens, muscle tone generally first decreases, and then increases to the point of rigidity. Individuals with the late infantile form of metachromatic leukodystrophy typically do not survive past childhood.  In 20 to 30 percent of individuals with metachromatic leukodystrophy, onset occurs between the age of 4 and adolescence. In this juvenile form, the first signs of the disorder may be behavioral problems and increasing difficulty with schoolwork. Progression of the disorder is slower than in the late infantile form, and affected individuals may survive for about 20 years after diagnosis.  The adult form of metachromatic leukodystrophy affects approximately 15 to 20 percent of individuals with the disorder. In this form, the first symptoms appear during the teenage years or later. Often behavioral problems such as alcoholism, drug abuse, or difficulties at school or work are the first symptoms to appear. The affected individual may experience psychiatric symptoms such as delusions or hallucinations. People with the adult form of metachromatic leukodystrophy may survive for 20 to 30 years after diagnosis. During this time there may be some periods of relative stability and other periods of more rapid decline.  Metachromatic leukodystrophy gets its name from the way cells with an accumulation of sulfatides appear when viewed under a microscope. The sulfatides form granules that are described as metachromatic, which means they pick up color differently than surrounding cellular material when stained for examination.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000647-2" qtype="frequency">How many people are affected by metachromatic leukodystrophy ?</Question>
+			<Answer>Metachromatic leukodystrophy is reported to occur in 1 in 40,000 to 160,000 individuals worldwide. The condition is more common in certain genetically isolated populations: 1 in 75 in a small group of Jews who immigrated to Israel from southern Arabia (Habbanites), 1 in 2,500 in the western portion of the Navajo Nation, and 1 in 8,000 among Arab groups in Israel.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000647-3" qtype="genetic changes">What are the genetic changes related to metachromatic leukodystrophy ?</Question>
+			<Answer>Most individuals with metachromatic leukodystrophy have mutations in the ARSA gene, which provides instructions for making the enzyme arylsulfatase A. This enzyme is located in cellular structures called lysosomes, which are the cell&apos;s recycling centers. Within lysosomes, arylsulfatase A helps break down sulfatides. A few individuals with metachromatic leukodystrophy have mutations in the PSAP gene. This gene provides instructions for making a protein that is broken up (cleaved) into smaller proteins that assist enzymes in breaking down various fats. One of these smaller proteins is called saposin B; this protein works with arylsulfatase A to break down sulfatides.  Mutations in the ARSA or PSAP genes result in a decreased ability to break down sulfatides, resulting in the accumulation of these substances in cells. Excess sulfatides are toxic to the nervous system. The accumulation gradually destroys myelin-producing cells, leading to the impairment of nervous system function that occurs in metachromatic leukodystrophy.  In some cases, individuals with very low arylsulfatase A activity show no symptoms of metachromatic leukodystrophy. This condition is called pseudoarylsulfatase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000647-4" qtype="inheritance">Is metachromatic leukodystrophy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000647-5" qtype="treatment">What are the treatments for metachromatic leukodystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of metachromatic leukodystrophy:  - Gene Review: Gene Review: Arylsulfatase A Deficiency  - Genetic Testing Registry: Metachromatic leukodystrophy  - Genetic Testing Registry: Sphingolipid activator protein 1 deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000719" source="GHR" url="https://ghr.nlm.nih.gov/condition/nephrogenic-diabetes-insipidus">
+<Focus>nephrogenic diabetes insipidus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162283</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ADH-resistant diabetes insipidus</Synonym>
+		<Synonym>congenital nephrogenic diabetes insipidus</Synonym>
+		<Synonym>diabetes insipidus renalis</Synonym>
+		<Synonym>diabetes insipidus, nephrogenic</Synonym>
+		<Synonym>NDI</Synonym>
+		<Synonym>vasopressin-resistant diabetes insipidus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000719-1" qtype="information">What is (are) nephrogenic diabetes insipidus ?</Question>
+			<Answer>Nephrogenic diabetes insipidus is a disorder of water balance. The body normally balances fluid intake with the excretion of fluid in urine. However, people with nephrogenic diabetes insipidus produce too much urine (polyuria), which causes them to be excessively thirsty (polydipsia). Affected individuals can quickly become dehydrated if they do not drink enough water, especially in hot weather or when they are sick.  Nephrogenic diabetes insipidus can be either acquired or hereditary. The acquired form is brought on by certain drugs and chronic diseases and can occur at any time during life. The hereditary form is caused by genetic mutations, and its signs and symptoms usually become apparent within the first few months of life.  Infants with hereditary nephrogenic diabetes insipidus may eat poorly and fail to gain weight and grow at the expected rate (failure to thrive). They may also be irritable and experience fevers, diarrhea, and vomiting. Recurrent episodes of dehydration can lead to slow growth and delayed development. If the condition is not well-managed, over time it can damage the bladder and kidneys leading to pain, infections, and kidney failure. With appropriate treatment, affected individuals usually have few complications and a normal lifespan.  Nephrogenic diabetes insipidus should not be confused with diabetes mellitus, which is much more common. Diabetes mellitus is characterized by high blood sugar levels resulting from a shortage of the hormone insulin or an insensitivity to this hormone. Although nephrogenic diabetes insipidus and diabetes mellitus have some features in common, they are separate disorders with different causes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000719-2" qtype="frequency">How many people are affected by nephrogenic diabetes insipidus ?</Question>
+			<Answer>The prevalence of nephrogenic diabetes insipidus is unknown, although the condition is thought to be rare. The acquired form occurs more frequently than the hereditary form.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000719-3" qtype="genetic changes">What are the genetic changes related to nephrogenic diabetes insipidus ?</Question>
+			<Answer>The hereditary form of nephrogenic diabetes insipidus can be caused by mutations in at least two genes. About 90 percent of all cases of hereditary nephrogenic diabetes insipidus result from mutations in the AVPR2 gene. Most of the remaining 10 percent of cases are caused by mutations in the AQP2 gene. Both of these genes provide instructions for making proteins that help determine how much water is excreted in urine.  The acquired form of nephrogenic diabetes insipidus can result from chronic kidney disease, certain medications (such as lithium), low levels of potassium in the blood (hypokalemia), high levels of calcium in the blood (hypercalcemia), or an obstruction of the urinary tract.  The kidneys filter the blood to remove waste and excess fluid, which are stored in the bladder as urine. The balance between fluid intake and urine excretion is controlled by a hormone called vasopressin or antidiuretic hormone (ADH). ADH directs the kidneys to concentrate urine by reabsorbing some of the water into the bloodstream. Normally, when a person&apos;s fluid intake is low or when a lot of fluid is lost (for example, through sweating), increased levels of ADH in the blood tell the kidneys to make less urine. When fluid intake is adequate, lower levels of ADH tell the kidneys to make more urine.  Mutations in the AVPR2 or AQP2 genes prevent the kidneys from responding to signals from ADH. Chronic kidney disease, certain drugs, and other factors can also impair the kidneys&apos; ability to respond to this hormone. As a result, the kidneys do not reabsorb water as they should, and the body makes excessive amounts of urine. These problems with water balance are characteristic of nephrogenic diabetes insipidus.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000719-4" qtype="inheritance">Is nephrogenic diabetes insipidus inherited ?</Question>
+			<Answer>When nephrogenic diabetes insipidus results from mutations in the AVPR2 gene, the condition has an X-linked recessive pattern of inheritance. The AVPR2 gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation usually has to occur in both copies of the gene to cause the disorder. However, some females who carry a single mutated copy of the AVPR2 gene have features of nephrogenic diabetes insipidus, including polyuria and polydipsia. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  When nephrogenic diabetes insipidus is caused by mutations in the AQP2 gene, it can have either an autosomal recessive or, less commonly, an autosomal dominant pattern of inheritance. In autosomal recessive inheritance, both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. In autosomal dominant inheritance, one mutated copy of the AQP2 gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000719-5" qtype="treatment">What are the treatments for nephrogenic diabetes insipidus ?</Question>
+			<Answer>These resources address the diagnosis or management of nephrogenic diabetes insipidus:  - Gene Review: Gene Review: Nephrogenic Diabetes Insipidus  - Genetic Testing Registry: Nephrogenic diabetes insipidus  - Genetic Testing Registry: Nephrogenic diabetes insipidus, X-linked  - Genetic Testing Registry: Nephrogenic diabetes insipidus, autosomal  - MedlinePlus Encyclopedia: ADH  - MedlinePlus Encyclopedia: Diabetes Insipidus - Nephrogenic   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

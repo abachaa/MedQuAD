@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000663" source="GHR" url="https://ghr.nlm.nih.gov/condition/mitochondrial-membrane-protein-associated-neurodegeneration">
+<Focus>mitochondrial membrane protein-associated neurodegeneration</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027746</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T049</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>mitochondrial membrane protein-associated neurodegeneration due to C19orf12 mutation</Synonym>
+		<Synonym>mitochondrial protein-associated neurodegeneration</Synonym>
+		<Synonym>MPAN</Synonym>
+		<Synonym>NBIA4</Synonym>
+		<Synonym>neurodegeneration with brain iron accumulation 4</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000663-1" qtype="information">What is (are) mitochondrial membrane protein-associated neurodegeneration ?</Question>
+			<Answer>Mitochondrial membrane protein-associated neurodegeneration (MPAN) is a disorder of the nervous system. The condition typically begins in childhood or early adulthood and worsens (progresses) over time.  MPAN commonly begins with difficulty walking. As the condition progresses, affected individuals usually develop other movement problems, including muscle stiffness (spasticity) and involuntary muscle cramping (dystonia). Many people with MPAN have a pattern of movement abnormalities known as parkinsonism. These abnormalities include unusually slow movement (bradykinesia), muscle rigidity, involuntary trembling (tremors), and an inability to hold the body upright and balanced (postural instability).  Other neurological problems that occur in individuals with MPAN include degeneration of the nerve cells that carry visual information from the eyes to the brain (optic atrophy), which can impair vision; problems with speech (dysarthria); difficulty swallowing (dysphagia); and, in later stages of the condition, an inability to control the bowels or the flow of urine (incontinence). Additionally, affected individuals may experience a loss of intellectual function (dementia) and psychiatric symptoms such as behavioral problems, mood swings, hyperactivity, and depression.  MPAN is characterized by an abnormal buildup of iron in certain regions of the brain. Because of these deposits, MPAN is considered part of a group of conditions known as neurodegeneration with brain iron accumulation (NBIA).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000663-2" qtype="frequency">How many people are affected by mitochondrial membrane protein-associated neurodegeneration ?</Question>
+			<Answer>MPAN is a rare condition that is estimated to affect less than 1 in 1 million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000663-3" qtype="genetic changes">What are the genetic changes related to mitochondrial membrane protein-associated neurodegeneration ?</Question>
+			<Answer>Mutations in the C19orf12 gene cause MPAN. The protein produced from this gene is found in the membrane of cellular structures called mitochondria, which are the energy-producing centers of the cell. Although its function is unknown, researchers suggest that the C19orf12 protein plays a role in the maintenance of fat (lipid) molecules, a process known as lipid homeostasis.  The gene mutations that cause this condition lead to an altered C19orf12 protein that likely has little or no function. It is unclear how these genetic changes lead to the neurological problems associated with MPAN. Researchers are working to determine whether there is a link between problems with lipid homeostasis and brain iron accumulation and how these abnormalities might contribute to the features of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000663-4" qtype="inheritance">Is mitochondrial membrane protein-associated neurodegeneration inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000663-5" qtype="treatment">What are the treatments for mitochondrial membrane protein-associated neurodegeneration ?</Question>
+			<Answer>These resources address the diagnosis or management of mitochondrial membrane protein-associated neurodegeneration:  - Gene Review: Gene Review: Mitochondrial Membrane Protein-Associated Neurodegeneration  - Gene Review: Gene Review: Neurodegeneration with Brain Iron Accumulation Disorders Overview  - Genetic Testing Registry: Neurodegeneration with brain iron accumulation 4  - Spastic Paraplegia Foundation: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

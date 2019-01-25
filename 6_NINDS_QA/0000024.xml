@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000024" source="NINDS" url="http://www.ninds.nih.gov/disorders/antiphosphlipid/antiphospholipid.htm">
+<Focus>Antiphospholipid Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085278</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000024-1" qtype="information">What is (are) Antiphospholipid Syndrome ?</Question>
+			<Answer>Antiphospholipid syndrome (APS) is an autoimmune disorder caused when antibodies -- immune system cells that fight off bacteria and viruses -- mistakenly attack healthy body tissues and organs. In APS, specific antibodies activate the inner lining of blood vessels, which leads to the formation of blood clots in arteries or veins. APS is sometimes called sticky blood syndrome, because of the increased tendency to form blood clots in the veins and arteries. The symptoms of APS are due to the abnormal blood clotting. Clots can develop in the veins of the legs and lungs, or in the placenta of pregnant women. One of the most serious complications of APS occurs when a clot forms in the brain and causes a stroke. Other neurological symptoms include chronic headaches, dementia (similar to the dementia of Alzheimers disease), and seizures. Infrequently, individuals will develop chorea (a movement disorder in which the body and limbs writhe uncontrollably), cognitive dysfunction (such as poor memory), transverse myelitis, depression or psychosis, optic neuropathy, or sudden hearing loss. In pregnant women, clots in the placenta can cause miscarriages. APS is diagnosed by the presence of a positive antiphospholipid antibody and either a history of blood clots in an artery or vein or a history of multiple miscarriages or other pregnancy problems. Some individuals will have a characteristic lacy, net-like red rash called livedo reticularis over their wrists and knees.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000024-2" qtype="treatment">What are the treatments for Antiphospholipid Syndrome ?</Question>
+			<Answer>The main goal of treatment is to thin the blood to reduce clotting. At present, the recommended treatment is low-dose aspirin. For individuals who have already had a stroke or experience recurrent clots, doctors recommend treatment with the anticoagulant warfarin. Pregnant women are treated with either aspirin or another anticoagulant -- heparin -- since warfarin can cause birth defects.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000024-3" qtype="outlook">What is the outlook for Antiphospholipid Syndrome ?</Question>
+			<Answer>APS improves significantly with anticoagulation therapy, which reduces the risk of further clots in veins and arteries. Treatment should be lifelong, since there is a high risk of further clots in individuals who stop warfarin treatment. Doctors often recommend that individuals stop smoking, exercise regularly, and eat a healthy diet to prevent high blood pressure and diabetes, which are diseases that increase the risk for stroke. Treating pregnant women with aspirin or heparin usually prevents miscarriages related to APS.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000024-4" qtype="research">what research (or clinical trials) is being done for Antiphospholipid Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) support research on APS through grants to major medical institutions across the country.NINDS-funded research is looking at ways to reduce clotting and prevent stroke. Among other NIH-funded research efforts, scientists are examining the role of antiphospholipid antibodies in clotting and pregnancy loss, which is commonly seen in individuals with lupus. Another project hopes to identify potential inherited risk factors for the development of APS.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

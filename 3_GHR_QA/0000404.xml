@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000404" source="GHR" url="https://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia">
+<Focus>Ghosal hematodiaphyseal dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1856465</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>diaphyseal dysplasia associated with anemia</Synonym>
+		<Synonym>GHDD</Synonym>
+		<Synonym>Ghosal hemato-diaphyseal dysplasia</Synonym>
+		<Synonym>Ghosal syndrome</Synonym>
+		<Synonym>Ghosal-type hemato-diaphyseal dysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000404-1" qtype="information">What is (are) Ghosal hematodiaphyseal dysplasia ?</Question>
+			<Answer>Ghosal hematodiaphyseal dysplasia is a rare inherited condition characterized by abnormally thick bones and a shortage of red blood cells (anemia). Signs and symptoms of the condition become apparent in early childhood.  In affected individuals, the long bones in the arms and legs are unusually dense and wide. The bone changes specifically affect the shafts of the long bones, called diaphyses, and areas near the ends of the bones called metaphyses. The bone abnormalities can lead to bowing of the legs and difficulty walking.  Ghosal hematodiaphyseal dysplasia also causes scarring (fibrosis) of the bone marrow, which is the spongy tissue inside long bones where blood cells are formed. The abnormal bone marrow cannot produce enough red blood cells, which leads to anemia.Signs and symptoms of anemia that have been reported in people with Ghosal hematodiaphyseal dysplasia include extremely pale skin (pallor) and excessive tiredness (fatigue).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000404-2" qtype="frequency">How many people are affected by Ghosal hematodiaphyseal dysplasia ?</Question>
+			<Answer>Ghosal hematodiaphyseal dysplasia is a rare disorder; only a few cases have been reported in the medical literature. Most affected individuals have been from the Middle East and India.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000404-3" qtype="genetic changes">What are the genetic changes related to Ghosal hematodiaphyseal dysplasia ?</Question>
+			<Answer>Ghosal hematodiaphyseal dysplasia results from mutations in the TBXAS1 gene. This gene provides instructions for making an enzyme called thromboxane A synthase 1, which acts as part of a chemical signaling pathway involved in normal blood clotting (hemostasis). Based on its role in Ghosal hematodiaphyseal dysplasia, researchers suspect that thromboxane A synthase 1 may also be important for bone remodeling, which is a normal process in which old bone is removed and new bone is created to replace it, and for the production of red blood cells in bone marrow.  Mutations in the TBXAS1 gene severely reduce the activity of thromboxane A synthase 1. Studies suggest that a lack of this enzyme&apos;s activity may lead to abnormal bone remodeling and fibrosis of the bone marrow. However, the mechanism by which a shortage of thromboxane A synthase 1 activity leads to the particular abnormalities characteristic of Ghosal hematodiaphyseal dysplasia is unclear.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000404-4" qtype="inheritance">Is Ghosal hematodiaphyseal dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000404-5" qtype="treatment">What are the treatments for Ghosal hematodiaphyseal dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of Ghosal hematodiaphyseal dysplasia:  - Genetic Testing Registry: Ghosal syndrome  - National Heart, Lung, and Blood Institute: How is Anemia Diagnosed?  - National Heart, Lung, and Blood Institute: How is Anemia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

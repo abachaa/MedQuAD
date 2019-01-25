@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000695" source="GHR" url="https://ghr.nlm.nih.gov/condition/multiple-sulfatase-deficiency">
+<Focus>multiple sulfatase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268263</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Austin syndrome</Synonym>
+		<Synonym>juvenile sulfatidosis, Austin type</Synonym>
+		<Synonym>MSD</Synonym>
+		<Synonym>mucosulfatidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000695-1" qtype="information">What is (are) multiple sulfatase deficiency ?</Question>
+			<Answer>Multiple sulfatase deficiency is a condition that mainly affects the brain, skin, and skeleton. Because the signs and symptoms of multiple sulfatase deficiency vary widely, researchers have split the condition into three types: neonatal, late-infantile, and juvenile.  The neonatal type is the most severe form, with signs and symptoms appearing soon after birth. Affected individuals have deterioration of tissue in the nervous system (leukodystrophy), which can contribute to movement problems, seizures, developmental delay, and slow growth. They also have dry, scaly skin (ichthyosis) and excess hair growth (hypertrichosis). Skeletal abnormalities can include abnormal side-to-side curvature of the spine (scoliosis), joint stiffness, and dysostosis multiplex, which refers to a specific pattern of skeletal abnormalities seen on x-ray. Individuals with the neonatal type typically have facial features that can be described as &quot;coarse.&quot; Affected individuals may also have hearing loss, heart malformations, and an enlarged liver and spleen (hepatosplenomegaly). Many of the signs and symptoms of neonatal multiple sulfatase deficiency worsen over time.  The late-infantile type is the most common form of multiple sulfatase deficiency. It is characterized by normal cognitive development in early childhood followed by a progressive loss of mental abilities and movement (psychomotor regression) due to leukodystrophy or other brain abnormalities. Individuals with this form of the condition do not have as many features as those with the neonatal type, but they often have ichthyosis, skeletal abnormalities, and coarse facial features.  The juvenile type is the rarest form of multiple sulfatase deficiency. Signs and symptoms of the juvenile type appear in mid- to late childhood. Affected individuals have normal early cognitive development but then experience psychomotor regression; however, the regression in the juvenile type usually occurs at a slower rate than in the late-infantile type. Ichthyosis is also common in the juvenile type of multiple sulfatase deficiency.  Life expectancy is shortened in individuals with all types of multiple sulfatase deficiency. Typically, affected individuals survive only a few years after the signs and symptoms of the condition appear, but life expectancy varies depending on the severity of the condition and how quickly the neurological problems worsen.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000695-2" qtype="frequency">How many people are affected by multiple sulfatase deficiency ?</Question>
+			<Answer>Multiple sulfatase deficiency is estimated to occur in 1 per million individuals worldwide. Approximately 50 cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000695-3" qtype="genetic changes">What are the genetic changes related to multiple sulfatase deficiency ?</Question>
+			<Answer>Multiple sulfatase deficiency is caused by mutations in the SUMF1 gene. This gene provides instructions for making an enzyme called formylglycine-generating enzyme (FGE). This enzyme is found in a cell structure called the endoplasmic reticulum, which is involved in protein processing and transport. The FGE enzyme modifies other enzymes called sulfatases, which aid in breaking down substances that contain chemical groups known as sulfates. These substances include a variety of sugars, fats, and hormones.  Most SUMF1 gene mutations severely reduce the function of the FGE enzyme or lead to the production of an unstable enzyme that is quickly broken down. The activity of multiple sulfatases is impaired because the FGE enzyme modifies all known sulfatase enzymes. Sulfate-containing molecules that are not broken down build up in cells, often resulting in cell death. The death of cells in particular tissues, specifically the brain, skeleton, and skin, cause many of the signs and symptoms of multiple sulfatase deficiency.  Research indicates that mutations that lead to reduced FGE enzyme function are associated with the less severe cases of the condition, whereas mutations that lead to the production of an unstable FGE enzyme tend to be associated with the more severe cases of multiple sulfatase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000695-4" qtype="inheritance">Is multiple sulfatase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000695-5" qtype="treatment">What are the treatments for multiple sulfatase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of multiple sulfatase deficiency:  - Genetic Testing Registry: Multiple sulfatase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

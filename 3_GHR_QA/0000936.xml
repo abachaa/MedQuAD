@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000936" source="GHR" url="https://ghr.nlm.nih.gov/condition/spinal-muscular-atrophy-with-progressive-myoclonic-epilepsy">
+<Focus>spinal muscular atrophy with progressive myoclonic epilepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1834569</CUI>
+			<CUI>C3813730</CUI>
+			<CUI>C0026846</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hereditary myoclonus with progressive distal muscular atrophy</Synonym>
+		<Synonym>Jankovic-Rivera syndrome</Synonym>
+		<Synonym>SMA-PME</Synonym>
+		<Synonym>SMAPME</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000936-1" qtype="information">What is (are) spinal muscular atrophy with progressive myoclonic epilepsy ?</Question>
+			<Answer>Spinal muscular atrophy with progressive myoclonic epilepsy (SMA-PME) is a neurological condition that causes muscle weakness and wasting (atrophy) and a combination of seizures and uncontrollable muscle jerks (myoclonic epilepsy).  In individuals with SMA-PME, spinal muscular atrophy results from a loss of specialized nerve cells, called motor neurons, in the spinal cord and the part of the brain that is connected to the spinal cord (the brainstem). After a few years of normal development, affected children begin experiencing muscle weakness and atrophy in the lower limbs, causing difficulty walking and frequent falls. The muscles in the upper limbs are later affected, and soon the muscle weakness and atrophy spreads throughout the body. Once weakness reaches the muscles used for breathing and swallowing, it leads to life-threatening breathing problems and increased susceptibility to pneumonia.  A few years after the muscle weakness begins, affected individuals start to experience recurrent seizures (epilepsy). Most people with SMA-PME have a variety of seizure types. In addition to myoclonic epilepsy, they may have generalized tonic-clonic seizures (also known as grand mal seizures), which cause muscle rigidity, convulsions, and loss of consciousness. Affected individuals can also have absence seizures, which cause loss of consciousness for a short period that may or may not be accompanied by muscle jerks. In SMA-PME, seizures often increase in frequency over time and are usually not well-controlled with medication. Individuals with SMA-PME may also have episodes of rhythmic shaking (tremors), usually in the hands; these tremors are not thought to be related to epilepsy.  Some people with SMA-PME develop hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss).  Individuals with SMA-PME have a shortened lifespan; they generally live into late childhood or early adulthood. The cause of death is often respiratory failure or pneumonia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000936-2" qtype="frequency">How many people are affected by spinal muscular atrophy with progressive myoclonic epilepsy ?</Question>
+			<Answer>SMA-PME is a rare disorder; approximately a dozen affected families have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000936-3" qtype="genetic changes">What are the genetic changes related to spinal muscular atrophy with progressive myoclonic epilepsy ?</Question>
+			<Answer>SMA-PME is caused by mutations in the ASAH1 gene. This gene provides instructions for making an enzyme called acid ceramidase. This enzyme is found in lysosomes, which are cell compartments that digest and recycle materials. Within lysosomes, acid ceramidase breaks down fats called ceramides into a fat called sphingosine and a fatty acid. These two breakdown products are recycled to create new ceramides for the body to use. Ceramides have several roles within cells. For example, they are a component of a fatty substance called myelin that insulates and protects nerve cells.  ASAH1 gene mutations that cause SMA-PME result in a reduction of acid ceramidase activity to a level less than one-third of normal. Inefficient breakdown of ceramides and impaired production of its breakdown products likely play a role in the nerve cell damage that leads to the features of SMA-PME, but the exact mechanism is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000936-4" qtype="inheritance">Is spinal muscular atrophy with progressive myoclonic epilepsy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000936-5" qtype="treatment">What are the treatments for spinal muscular atrophy with progressive myoclonic epilepsy ?</Question>
+			<Answer>These resources address the diagnosis or management of spinal muscular atrophy with progressive myoclonic epilepsy:  - Genetic Testing Registry: Jankovic Rivera syndrome  - Muscular Dystrophy Association: Spinal Muscular Atrophy Types   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

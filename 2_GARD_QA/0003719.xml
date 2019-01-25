@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003719" source="GARD" url="https://rarediseases.info.nih.gov/gard/3335/lysinuric-protein-intolerance">
+<Focus>Lysinuric protein intolerance</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268647</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LPI</Synonym>
+		<Synonym>Dibasicamino aciduria II</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003719-1" qtype="information">What is (are) Lysinuric protein intolerance ?</Question>
+			<Answer>Lysinuric protein intolerance is a metabolic disorder caused by the body&apos;s inability to digest and use the amino acids lysine, arginine, and ornithine. Because the body cannot effectively break down these amino acids, which are found in many protein-rich foods, individuals experience nausea and vomiting after ingesting protein. Other features associated with protein intolerance may also occur, including short stature, muscle weakness, impaired immune function, and osteoporosis. A lung disorder called pulmonary alveolar proteinosis may develop in some individuals, as can end-stage renal disease, coma and intellectual disability. Symptoms usually develop after infants are weaned and begin to eat solid foods. Lysinuric protein intolerance is caused by mutations in the SLC7A7 gene. It is inherited in an autosomal recessive manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003719-2" qtype="symptoms">What are the symptoms of Lysinuric protein intolerance ?</Question>
+			<Answer>What are the signs and symptoms of Lysinuric protein intolerance? The Human Phenotype Ontology provides the following list of signs and symptoms for Lysinuric protein intolerance. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Psychotic episodes 5% Alveolar proteinosis - Aminoaciduria - Anemia - Autosomal recessive inheritance - Cutis laxa - Delayed skeletal maturation - Diarrhea - Failure to thrive - Fine hair - Hemophagocytosis - Hepatomegaly - Hyperammonemia - Hyperextensible skin - Increased serum ferritin - Infantile onset - Leukopenia - Malnutrition - Muscle weakness - Muscular hypotonia - Nausea - Oroticaciduria - Osteoporosis - Pancreatitis - Phenotypic variability - Respiratory insufficiency - Short stature - Skeletal muscle atrophy - Sparse hair - Splenomegaly - Stage 5 chronic kidney disease - Thrombocytopenia - Truncal obesity - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

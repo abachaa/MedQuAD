@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003856" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000902.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Targeted therapies for cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006826</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Molecularly targeted anticancer agents</Synonym>
+		<Synonym>MTAs</Synonym>
+		<Synonym>Chemotherapy-targeted</Synonym>
+		<Synonym>Vascular endothelial growth factor-targeted</Synonym>
+		<Synonym>VEGF-targeted</Synonym>
+		<Synonym>VEGFR-targeted</Synonym>
+		<Synonym>Tyrosine kinase inhibitor-targeted</Synonym>
+		<Synonym>TKI-targeted</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003856-1" qtype="information">What is (are) Targeted therapies for cancer ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

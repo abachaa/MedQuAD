@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000249" source="NINDS" url="http://www.ninds.nih.gov/disorders/sydenham/sydenham.htm">
+<Focus>Sydenham Chorea</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152113</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000249-1" qtype="information">What is (are) Sydenham Chorea ?</Question>
+			<Answer>Sydenham chorea (SD) is a neurological disorder of childhood resulting from infection via Group A beta-hemolytic streptococcus (GABHS), the bacterium that causes rheumatic fever. SD is characterized by rapid, irregular, and aimless involuntary movements of the arms and legs, trunk, and facial muscles. It affects girls more often than boys and typically occurs between 5 and 15 years of age. Some children will have a sore throat several weeks before the symptoms begin, but the disorder can also strike up to 6 months after the fever or infection has cleared. Symptoms can appear gradually or all at once, and also may include uncoordinated movements, muscular weakness, stumbling and falling, slurred speech, difficulty concentrating and writing, and emotional instability. The symptoms of SD can vary from a halting gait and slight grimacing to involuntary movements that are frequent and severe enough to be incapacitating. The random, writhing movements of chorea are caused by an auto-immune reaction to the bacterium that interferes with the normal function of a part of the brain (the basal ganglia) that controls motor movements. Due to better sanitary conditions and the use of antibiotics to treat streptococcal infections, rheumatic fever, and consequently SD, are rare in North America and Europe. The disease can still be found in developing nations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000249-2" qtype="treatment">What are the treatments for Sydenham Chorea ?</Question>
+			<Answer>There is no specific treatment for SD. For people with the mildest form, bed rest during the period of active movements is sufficient. When the severity of movements interferes with rest, sedative drugs, such as barbiturates or benzodiazepines, may be needed. Antiepileptic medications, such as valproic acid, are often prescribed. Doctors also recommend that children who have had SD take penicillin over the course of the next 10 years to prevent additional manifestations of rheumatic fever.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000249-3" qtype="outlook">What is the outlook for Sydenham Chorea ?</Question>
+			<Answer>Most children recover completely from SD, although a small number will continue to have disabling, persistent chorea despite treatment. The duration of symptoms varies, generally from 3 to 6 weeks, but some children will have symptoms for several months. Cardiac complications may occur in a small minority of children, usually in the form of endocarditis. In a third of the children with the disease, SD will recur, typically 1  to 2  years after the initial attack. Researchers have noted an association between recurrent SD and the later development of the abrupt onset forms of obsessive-compulsive disorder, attention deficit/hyperactivity disorder, tic disorders, and autism, which they call PANDAS, for Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcus infection. Further studies are needed to determine the nature of the association and the biological pathways that connect streptococcal infection, autoimmune response, and the later development of these specific behavioral disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000249-4" qtype="research">what research (or clinical trials) is being done for Sydenham Chorea ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to SD in laboratories at the NIH, and support additional research through grants to major medical institutions across the country. Currently, researchers are studying how the interplay of genetic, developmental, and environmental factors could determine a childs vulnerability to SD after a GABHS infection. Other researchers are exploring whether children whose symptoms either begin or get worse following a GABHS infection share a common set of abnormal biomolecular pathways responsible for their similar clinical symptoms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

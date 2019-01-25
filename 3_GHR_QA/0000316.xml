@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000316" source="GHR" url="https://ghr.nlm.nih.gov/condition/emery-dreifuss-muscular-dystrophy">
+<Focus>Emery-Dreifuss muscular dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0410189</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Benign scapuloperoneal muscular dystrophy with early contractures</Synonym>
+		<Synonym>EDMD</Synonym>
+		<Synonym>Emery-Dreifuss Syndrome</Synonym>
+		<Synonym>Muscular Dystrophy, Emery-Dreifuss</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000316-1" qtype="information">What is (are) Emery-Dreifuss muscular dystrophy ?</Question>
+			<Answer>Emery-Dreifuss muscular dystrophy is a condition that chiefly affects muscles used for movement (skeletal muscles) and heart (cardiac) muscle. Among the earliest features of this disorder are joint deformities called contractures, which restrict the movement of certain joints. Contractures become noticeable in early childhood and most often involve the elbows, ankles, and neck. Most affected individuals also experience slowly progressive muscle weakness and wasting, beginning in muscles of the upper arms and lower legs and progressing to muscles in the shoulders and hips.  Almost all people with Emery-Dreifuss muscular dystrophy have heart problems by adulthood. In many cases, these heart problems stem from abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects) and abnormal heart rhythms (arrhythmias). If untreated, these abnormalities can lead to an unusually slow heartbeat (bradycardia), fainting (syncope), and an increased risk of stroke and sudden death.  The types of Emery-Dreifuss muscular dystrophy are distinguished by their pattern of inheritance: X-linked, autosomal dominant, and autosomal recessive. Although the three types have similar signs and symptoms, researchers believe that the features of autosomal dominant Emery-Dreifuss muscular dystrophy are more variable than the other types. A small percentage of people with the autosomal dominant form experience heart problems without any weakness or wasting of skeletal muscles.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000316-2" qtype="frequency">How many people are affected by Emery-Dreifuss muscular dystrophy ?</Question>
+			<Answer>X-linked Emery-Dreifuss muscular dystrophy is the most common form of this condition, affecting an estimated 1 in 100,000 people. The autosomal recessive type of this disorder appears to be very rare; only a few cases have been reported worldwide. The incidence of the autosomal dominant form is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000316-3" qtype="genetic changes">What are the genetic changes related to Emery-Dreifuss muscular dystrophy ?</Question>
+			<Answer>Mutations in the EMD and LMNA genes cause Emery-Dreifuss muscular dystrophy.  The EMD and LMNA genes provide instructions for making proteins that are components of the nuclear envelope, which surrounds the nucleus in cells. The nuclear envelope regulates the movement of molecules into and out of the nucleus, and researchers believe it may play a role in regulating the activity of certain genes.  Most cases of Emery-Dreifuss muscular dystrophy are caused by mutations in the EMD gene. This gene provides instructions for making a protein called emerin, which appears to be essential for the normal function of skeletal and cardiac muscle. Most EMD gene mutations prevent the production of any functional emerin. It remains unclear how a lack of this protein results in the signs and symptoms of Emery-Dreifuss muscular dystrophy.  Less commonly, Emery-Dreifuss muscular dystrophy results from mutations in the LMNA gene. This gene provides instructions for making two very similar proteins, lamin A and lamin C. Most of the LMNA mutations that cause this condition result in the production of an altered version of these proteins. Researchers are investigating how the altered versions of lamins A and C lead to muscle wasting and heart problems in people with Emery-Dreifuss muscular dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000316-4" qtype="inheritance">Is Emery-Dreifuss muscular dystrophy inherited ?</Question>
+			<Answer>Emery-Dreifuss muscular dystrophy can have several different patterns of inheritance. When this condition is caused by mutations in the EMD gene, it is inherited in an X-linked recessive pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In females (who have two X chromosomes), a mutation typically must be present in both copies of the EMD gene to cause X-linked Emery-Dreifuss muscular dystrophy. Females who carry one altered copy of the EMD gene usually do not experience the muscle weakness and wasting that are characteristic of this condition. In some cases, however, they may experience heart problems associated with this disorder.  Other cases of Emery-Dreifuss muscular dystrophy result from mutations in the LMNA gene and are considered to have an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. About 75 percent of autosomal dominant Emery-Dreifuss muscular dystrophy cases are caused by new mutations in the LMNA gene and occur in people with no history of the disorder in their family. In the remaining cases, people with this form of the condition inherit the altered LMNA gene from an affected parent.  Rarely, LMNA gene mutations can cause a form of Emery-Dreifuss muscular dystrophy that is inherited in an autosomal recessive pattern. Autosomal recessive inheritance means two copies of the gene in each cell are altered. Most often, the parents of an individual with an autosomal recessive disorder are carriers of one copy of the altered gene but do not show signs and symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000316-5" qtype="treatment">What are the treatments for Emery-Dreifuss muscular dystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of Emery-Dreifuss muscular dystrophy:  - Gene Review: Gene Review: Emery-Dreifuss Muscular Dystrophy  - Genetic Testing Registry: Emery-Dreifuss muscular dystrophy  - Genetic Testing Registry: Emery-Dreifuss muscular dystrophy 1, X-linked  - MedlinePlus Encyclopedia: Arrhythmias  - MedlinePlus Encyclopedia: Contracture deformity  - MedlinePlus Encyclopedia: Muscular dystrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

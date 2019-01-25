@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000355" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/fatigue.html">
+<Focus>Fatigue</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015672</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tiredness</Synonym>
+		<Synonym>Weariness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000355-1" qtype="information">What is (are) Fatigue ?</Question>
+			<Answer>Everyone feels tired now and then. Sometimes you may just want to stay in bed. But, after a good night&apos;s sleep, most people feel refreshed and ready to face a new day. If you continue to feel tired for weeks, it&apos;s time to see your doctor. He or she may be able to help you find out what&apos;s causing your fatigue and recommend ways to relieve it.    Fatigue itself is not a disease. Medical problems, treatments, and personal habits can add to fatigue. These include       - Taking certain medicines, such as antidepressants, antihistamines, and medicines for nausea and pain    - Having medical treatments, like chemotherapy and radiation    - Recovering from major surgery    - Anxiety, stress, or depression    - Staying up too late    - Drinking too much alcohol or too many caffeinated drinks    - Pregnancy       One disorder that causes extreme fatigue is chronic fatigue syndrome (CFS). This fatigue is not the kind of tired feeling that goes away after you rest. Instead, it lasts a long time and limits your ability to do ordinary daily activities.    NIH: National Institute on Aging</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

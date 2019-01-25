@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000961" source="GHR" url="https://ghr.nlm.nih.gov/condition/sudden-infant-death-with-dysgenesis-of-the-testes-syndrome">
+<Focus>sudden infant death with dysgenesis of the testes syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038644</CUI>
+			<CUI>C0425045</CUI>
+			<CUI>C1837371</CUI>
+			<CUI>C0039082</CUI>
+			<CUI>C0266423</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SIDDT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000961-1" qtype="information">What is (are) sudden infant death with dysgenesis of the testes syndrome ?</Question>
+			<Answer>Sudden infant death with dysgenesis of the testes syndrome (SIDDT) is a rare condition that is fatal in the first year of life; its major features include abnormalities of the reproductive system in males, feeding difficulties, and breathing problems.  Infants with SIDDT who are genetically male, with one X chromosome and one Y chromosome in each cell, have underdeveloped or abnormal testes. They may also have external genitalia that appear female or that do not look clearly male or clearly female (ambiguous genitalia). In affected infants who are genetically female, with two X chromosomes in each cell, development of the internal and external reproductive organs is normal.  SIDDT is associated with abnormal development of the brain, particularly the brainstem, which is the part of the brain that is connected to the spinal cord. The brainstem regulates many basic body functions, including heart rate, breathing, eating, and sleeping. It also relays information about movement and the senses between the brain and the rest of the body. Many features of SIDDT appear to be related to brainstem malfunction, including a slow or uneven heart rate, abnormal breathing patterns, difficulty controlling body temperature, unusual tongue and eye movements, abnormal reflexes, seizures, and feeding difficulties. Affected infants also have an unusual cry that has been described as similar to the bleating of a goat, which is probably a result of abnormal nerve connections between the brain and the voicebox (larynx).  The brainstem abnormalities lead to death in the first year of life, when affected infants suddenly stop breathing or their heart stops beating (cardiorespiratory arrest).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000961-2" qtype="frequency">How many people are affected by sudden infant death with dysgenesis of the testes syndrome ?</Question>
+			<Answer>SIDDT has been diagnosed in more than 20 infants from a single Old Order Amish community in Pennsylvania. The condition has not been reported outside this community.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000961-3" qtype="genetic changes">What are the genetic changes related to sudden infant death with dysgenesis of the testes syndrome ?</Question>
+			<Answer>A single mutation in the TSPYL1 gene has caused all identified cases of SIDDT. This gene provides instructions for making a protein called TSPY-like 1, whose function is unknown. Based on its role in SIDDT, researchers propose that TSPY-like 1 is involved in the development of the male reproductive system and the brain.  The TSPYL1 gene mutation that causes SIDDT eliminates the function of TSPY-like 1. The loss of this protein&apos;s function appears to cause the major features of the disorder by disrupting the normal development of the male reproductive system and the brain, particularly the brainstem.  Research findings suggest that mutations in the TSPYL1 gene are not associated with sudden infant death syndrome (SIDS) in the general population. SIDS is a major cause of death in children younger than 1 year.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000961-4" qtype="inheritance">Is sudden infant death with dysgenesis of the testes syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000961-5" qtype="treatment">What are the treatments for sudden infant death with dysgenesis of the testes syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of SIDDT:  - Clinic for Special Children (Strasburg, Pennsylvania)  - Genetic Testing Registry: Sudden infant death with dysgenesis of the testes syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

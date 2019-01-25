@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000003" source="NINDS" url="http://www.ninds.nih.gov/disorders/pompe/pompe.htm">
+<Focus>Pompe Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017921</CUI>
+			<CUI>C0342751</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000003-1" qtype="information">What is (are) Pompe Disease ?</Question>
+			<Answer>Pompe disease is a rare (estimated at 1 in every 40,000 births), inherited and often fatal disorder that disables the heart and skeletal muscles. It is caused by mutations in a gene that makes an enzyme called acid alpha-glucosidase (GAA). Normally, the body uses GAA to break down glycogen, a stored form of sugar used for energy. The enzyme performs its function in intracellular compartments called lysosomes. Lysosomes are known to function as cellular clearinghouses; they ingest multiple substances including glycogen, which is converted by the GAA into glucose, a sugar that fuels muscles. In Pompe disease, mutations in the GAA gene reduce or completely eliminate this essential enzyme. Excessive amounts of lysosomal glycogen accumulate everywhere in the body, but the cells of the heart and skeletal muscles are the most seriously affected. Researchers have identified up to 300 different mutations in the GAA gene that cause the symptoms of Pompe disease, which can vary widely in terms of age of onset and severity. The severity of the disease and the age of onset are related to the degree of enzyme deficiency.
+                
+Early onset (or the infantile form) is the result of complete or near complete deficiency of GAA. Symptoms begin in the first months of life, with feeding problems, poor weight gain, muscle weakness, floppiness, and head lag. Respiratory difficulties are often complicated by lung infections. The heart is grossly enlarged. Many infants with Pompe disease also have enlarged tongues. Most babies die from cardiac or respiratory complications before their first birthday.
+                
+Late onset (or juvenile/adult) Pompe disease is the result of a partial deficiency of GAA. The onset can be as early as the first decade of childhood or as late as the sixth decade of adulthood. The primary symptom is muscle weakness progressing to respiratory weakness and death from respiratory failure after a course lasting several years. The heart is usually not involved. A diagnosis of Pompe disease can be confirmed by screening for the common genetic mutations or measuring the level of GAA enzyme activity in a blood sample. Once Pompe disease is diagnosed, testing of all family members and a consultation with a professional geneticist are recommended. Carriers are most reliably identified via genetic mutation analysis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000003-2" qtype="treatment">What are the treatments for Pompe Disease ?</Question>
+			<Answer>Individuals with Pompe disease are best treated by a team of specialists (such as cardiologist, neurologist, and respiratory therapist) knowledgeable about the disease, who can offer supportive and symptomatic care. The discovery of the GAA gene has led to rapid progress in understanding the biological mechanisms and properties of the GAA enzyme. As a result, an enzyme replacement therapy has been developed that has shown, in clinical trials with infantile-onset patients, to decrease heart size, maintain normal heart function, improve muscle function, tone, and strength, and reduce glycogen accumulation. A drug called alglucosidase alfa (Myozyme), has received FDA approval for the treatment of infants and children with Pompe disease. Another algluosidase alfa drug, Lumizyme, has been approved for late-onset (non-infantile) Pompe disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000003-3" qtype="outlook">What is the outlook for Pompe Disease ?</Question>
+			<Answer>Without enzyme replacement therapy, the hearts of babies with infantile onset Pompe disease progressively thicken and enlarge. These babies die before the age of one year from either cardiorespiratory failure or respiratory infection. For individuals with late onset Pompe disease, the prognosis is dependent upon the age of onset. In general, the later the age of onset, the slower the progression of the disease. Ultimately, the prognosis is dependent upon the extent of respiratory muscle involvement.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000003-4" qtype="research">what research (or clinical trials) is being done for Pompe Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) supports Pompe research through grants to major research institutions across the country. Research related to Pompe disease is conducted in one of the laboratories of the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) at the National Institutes of Health. Much of Pompe-related research focuses on finding better ways to prevent, treat, and ultimately cure this disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000755" source="GHR" url="https://ghr.nlm.nih.gov/condition/ornithine-transcarbamylase-deficiency">
+<Focus>ornithine transcarbamylase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268542</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ornithine Carbamoyltransferase Deficiency Disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000755-1" qtype="information">What is (are) ornithine transcarbamylase deficiency ?</Question>
+			<Answer>Ornithine transcarbamylase deficiency is an inherited disorder that causes ammonia to accumulate in the blood. Ammonia, which is formed when proteins are broken down in the body, is toxic if the levels become too high. The nervous system is especially sensitive to the effects of excess ammonia.  Ornithine transcarbamylase deficiency often becomes evident in the first few days of life. An infant with ornithine transcarbamylase deficiency may be lacking in energy (lethargic) or unwilling to eat, and have poorly-controlled breathing rate or body temperature. Some babies with this disorder may experience seizures or unusual body movements, or go into a coma. Complications from ornithine transcarbamylase deficiency may include developmental delay and intellectual disability. Progressive liver damage, skin lesions, and brittle hair may also be seen.  In some affected individuals, signs and symptoms of ornithine transcarbamylase may be less severe, and may not appear until later in life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000755-2" qtype="frequency">How many people are affected by ornithine transcarbamylase deficiency ?</Question>
+			<Answer>Ornithine transcarbamylase deficiency is believed to occur in approximately 1 in every 80,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000755-3" qtype="genetic changes">What are the genetic changes related to ornithine transcarbamylase deficiency ?</Question>
+			<Answer>Mutations in the OTC gene cause ornithine transcarbamylase deficiency.  Ornithine transcarbamylase deficiency belongs to a class of genetic diseases called urea cycle disorders. The urea cycle is a sequence of reactions that occurs in liver cells. It processes excess nitrogen, generated when protein is used by the body, to make a compound called urea that is excreted by the kidneys.  In ornithine transcarbamylase deficiency, the enzyme that starts a specific reaction within the urea cycle is damaged or missing. The urea cycle cannot proceed normally, and nitrogen accumulates in the bloodstream in the form of ammonia.  Ammonia is especially damaging to the nervous system, so ornithine transcarbamylase deficiency causes neurological problems as well as eventual damage to the liver.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000755-4" qtype="inheritance">Is ornithine transcarbamylase deficiency inherited ?</Question>
+			<Answer>Ornithine transcarbamylase deficiency is an X-linked disorder. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), mutations in both copies of the gene will cause the disorder. Some females with only one altered copy of the OTC gene also show signs and symptoms of ornithine transcarbamylase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000755-5" qtype="treatment">What are the treatments for ornithine transcarbamylase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of ornithine transcarbamylase deficiency:  - Baby&apos;s First Test  - Gene Review: Gene Review: Ornithine Transcarbamylase Deficiency  - Gene Review: Gene Review: Urea Cycle Disorders Overview  - Genetic Testing Registry: Ornithine carbamoyltransferase deficiency  - MedlinePlus Encyclopedia: Hereditary urea cycle abnormality   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001002" source="GHR" url="https://ghr.nlm.nih.gov/condition/turner-syndrome">
+<Focus>Turner syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0041408</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>45,X</Synonym>
+		<Synonym>monosomy X</Synonym>
+		<Synonym>TS</Synonym>
+		<Synonym>Turner's syndrome</Synonym>
+		<Synonym>Ullrich-Turner syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001002-1" qtype="information">What is (are) Turner syndrome ?</Question>
+			<Answer>Turner syndrome is a chromosomal condition that affects development in females. The most common feature of Turner syndrome is short stature, which becomes evident by about age 5. An early loss of ovarian function (ovarian hypofunction or premature ovarian failure) is also very common. The ovaries develop normally at first, but egg cells (oocytes) usually die prematurely and most ovarian tissue degenerates before birth. Many affected girls do not undergo puberty unless they receive hormone therapy, and most are unable to conceive (infertile). A small percentage of females with Turner syndrome retain normal ovarian function through young adulthood.  About 30 percent of females with Turner syndrome have extra folds of skin on the neck (webbed neck), a low hairline at the back of the neck, puffiness or swelling (lymphedema) of the hands and feet, skeletal abnormalities, or kidney problems. One third to one half of individuals with Turner syndrome are born with a heart defect, such as a narrowing of the large artery leaving the heart (coarctation of the aorta) or abnormalities of the valve that connects the aorta with the heart (the aortic valve). Complications associated with these heart defects can be life-threatening.  Most girls and women with Turner syndrome have normal intelligence. Developmental delays, nonverbal learning disabilities, and behavioral problems are possible, although these characteristics vary among affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001002-2" qtype="frequency">How many people are affected by Turner syndrome ?</Question>
+			<Answer>This condition occurs in about 1 in 2,500 newborn girls worldwide, but it is much more common among pregnancies that do not survive to term (miscarriages and stillbirths).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001002-3" qtype="genetic changes">What are the genetic changes related to Turner syndrome ?</Question>
+			<Answer>Turner syndrome is related to the X chromosome, which is one of the two sex chromosomes. People typically have two sex chromosomes in each cell: females have two X chromosomes, while males have one X chromosome and one Y chromosome. Turner syndrome results when one normal X chromosome is present in a female&apos;s cells and the other sex chromosome is missing or structurally altered. The missing genetic material affects development before and after birth.  About half of individuals with Turner syndrome have monosomy X, which means each cell in the individual&apos;s body has only one copy of the X chromosome instead of the usual two sex chromosomes. Turner syndrome can also occur if one of the sex chromosomes is partially missing or rearranged rather than completely absent. Some women with Turner syndrome have a chromosomal change in only some of their cells, which is known as mosaicism. Women with Turner syndrome caused by X chromosome mosaicism are said to have mosaic Turner syndrome.  Researchers have not determined which genes on the X chromosome are associated with most of the features of Turner syndrome. They have, however, identified one gene called SHOX that is important for bone development and growth. The loss of one copy of this gene likely causes short stature and skeletal abnormalities in women with Turner syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001002-4" qtype="inheritance">Is Turner syndrome inherited ?</Question>
+			<Answer>Most cases of Turner syndrome are not inherited. When this condition results from monosomy X, the chromosomal abnormality occurs as a random event during the formation of reproductive cells (eggs and sperm) in the affected person&apos;s parent. An error in cell division called nondisjunction can result in reproductive cells with an abnormal number of chromosomes. For example, an egg or sperm cell may lose a sex chromosome as a result of nondisjunction. If one of these atypical reproductive cells contributes to the genetic makeup of a child, the child will have a single X chromosome in each cell and will be missing the other sex chromosome.  Mosaic Turner syndrome is also not inherited. In an affected individual, it occurs as a random event during cell division in early fetal development. As a result, some of an affected person&apos;s cells have the usual two sex chromosomes, and other cells have only one copy of the X chromosome. Other sex chromosome abnormalities are also possible in females with X chromosome mosaicism.  Rarely, Turner syndrome caused by a partial deletion of the X chromosome can be passed from one generation to the next.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001002-5" qtype="treatment">What are the treatments for Turner syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Turner syndrome:  - Genetic Testing Registry: Turner syndrome  - MedlinePlus Encyclopedia: Ovarian Hypofunction  - MedlinePlus Encyclopedia: Turner Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

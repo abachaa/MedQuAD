@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000650" source="GHR" url="https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia">
+<Focus>methylmalonic acidemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268583</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>isolated methylmalonic acidemia</Synonym>
+		<Synonym>methylmalonic aciduria</Synonym>
+		<Synonym>MMA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000650-1" qtype="information">What is (are) methylmalonic acidemia ?</Question>
+			<Answer>Methylmalonic acidemia is an inherited disorder in which the body is unable to process certain proteins and fats (lipids) properly. The effects of methylmalonic acidemia, which usually appear in early infancy, vary from mild to life-threatening. Affected infants can experience vomiting, dehydration, weak muscle tone (hypotonia), developmental delay, excessive tiredness (lethargy), an enlarged liver (hepatomegaly), and failure to gain weight and grow at the expected rate (failure to thrive). Long-term complications can include feeding problems, intellectual disability, chronic kidney disease, and inflammation of the pancreas (pancreatitis). Without treatment, this disorder can lead to coma and death in some cases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000650-2" qtype="frequency">How many people are affected by methylmalonic acidemia ?</Question>
+			<Answer>This condition occurs in an estimated 1 in 50,000 to 100,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000650-3" qtype="genetic changes">What are the genetic changes related to methylmalonic acidemia ?</Question>
+			<Answer>Mutations in the MUT, MMAA, MMAB, MMADHC, and MCEE genes cause methylmalonic acidemia. The long term effects of methylmalonic acidemia depend on which gene is mutated and the severity of the mutation.  About 60 percent of methylmalonic acidemia cases are caused by mutations in the MUT gene. This gene provides instructions for making an enzyme called methylmalonyl CoA mutase. This enzyme works with vitamin B12 (also called cobalamin) to break down several protein building blocks (amino acids), certain lipids, and cholesterol. Mutations in the MUT gene alter the enzyme&apos;s structure or reduce the amount of the enzyme, which prevents these molecules from being broken down properly. As a result, a substance called methylmalonyl CoA and other potentially toxic compounds can accumulate in the body&apos;s organs and tissues, causing the signs and symptoms of methylmalonic acidemia.  Mutations in the MUT gene that prevent the production of any functional enzyme result in a form of the condition designated mut0. Mut0 is the most severe form of methylmalonic acidemia and has the poorest outcome. Mutations that change the structure of methylmalonyl CoA mutase but do not eliminate its activity cause a form of the condition designated mut-. The mut- form is typically less severe, with more variable symptoms than the mut0 form.  Some cases of methylmalonic acidemia are caused by mutations in the MMAA, MMAB, or MMADHC gene. Proteins produced from the MMAA, MMAB, and MMADHC genes are needed for the proper function of methylmalonyl CoA mutase. Mutations that affect proteins produced from these three genes can impair the activity of methylmalonyl CoA mutase, leading to methylmalonic acidemia.  A few other cases of methylmalonic acidemia are caused by mutations in the MCEE gene. This gene provides instructions for producing an enzyme called methylmalonyl CoA epimerase. Like methylmalonyl CoA mutase, this enzyme also plays a role in the breakdown of amino acids, certain lipids, and cholesterol. Disruption in the function of methylmalonyl CoA epimerase leads to a mild form of methylmalonic acidemia.  It is likely that mutations in other, unidentified genes also cause methylmalonic acidemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000650-4" qtype="inheritance">Is methylmalonic acidemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the MUT, MMAA, MMAB, MMADHC, or MCEE gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition are carriers of one copy of the mutated gene but do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000650-5" qtype="treatment">What are the treatments for methylmalonic acidemia ?</Question>
+			<Answer>These resources address the diagnosis or management of methylmalonic acidemia:  - Baby&apos;s First Test: Methylmalonic Acidemia (Cobalamin Disorders)  - Baby&apos;s First Test: Methylmalonic Acidemia (Methymalonyl-CoA Mutase Deficiency)  - Gene Review: Gene Review: Isolated Methylmalonic Acidemia  - Genetic Testing Registry: Methylmalonic acidemia  - Genetic Testing Registry: Methylmalonic acidemia with homocystinuria cblD  - Genetic Testing Registry: Methylmalonic aciduria cblA type  - Genetic Testing Registry: Methylmalonic aciduria cblB type  - Genetic Testing Registry: Methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency  - Genetic Testing Registry: Methylmalonyl-CoA epimerase deficiency  - MedlinePlus Encyclopedia: Methylmalonic acid  - MedlinePlus Encyclopedia: Methylmalonic acidemia  - New England Consortium of Metabolic Programs   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000340" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-adenomatous-polyposis">
+<Focus>familial adenomatous polyposis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032580</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>adenomatous familial polyposis</Synonym>
+		<Synonym>adenomatous familial polyposis syndrome</Synonym>
+		<Synonym>adenomatous polyposis coli</Synonym>
+		<Synonym>familial multiple polyposis syndrome</Synonym>
+		<Synonym>FAP</Synonym>
+		<Synonym>MYH-associated polyposis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000340-1" qtype="information">What is (are) familial adenomatous polyposis ?</Question>
+			<Answer>Familial adenomatous polyposis (FAP) is an inherited disorder characterized by cancer of the large intestine (colon) and rectum. People with the classic type of familial adenomatous polyposis may begin to develop multiple noncancerous (benign) growths (polyps) in the colon as early as their teenage years. Unless the colon is removed, these polyps will become malignant (cancerous). The average age at which an individual develops colon cancer in classic familial adenomatous polyposis is 39 years. Some people have a variant of the disorder, called attenuated familial adenomatous polyposis, in which polyp growth is delayed. The average age of colorectal cancer onset for attenuated familial adenomatous polyposis is 55 years.  In people with classic familial adenomatous polyposis, the number of polyps increases with age, and hundreds to thousands of polyps can develop in the colon. Also of particular significance are noncancerous growths called desmoid tumors. These fibrous tumors usually occur in the tissue covering the intestines and may be provoked by surgery to remove the colon. Desmoid tumors tend to recur after they are surgically removed. In both classic familial adenomatous polyposis and its attenuated variant, benign and malignant tumors are sometimes found in other places in the body, including the duodenum (a section of the small intestine), stomach, bones, skin, and other tissues. People who have colon polyps as well as growths outside the colon are sometimes described as having Gardner syndrome.  A milder type of familial adenomatous polyposis, called autosomal recessive familial adenomatous polyposis, has also been identified. People with the autosomal recessive type of this disorder have fewer polyps than those with the classic type. Fewer than 100 polyps typically develop, rather than hundreds or thousands. The autosomal recessive type of this disorder is caused by mutations in a different gene than the classic and attenuated types of familial adenomatous polyposis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000340-2" qtype="frequency">How many people are affected by familial adenomatous polyposis ?</Question>
+			<Answer>The reported incidence of familial adenomatous polyposis varies from 1 in 7,000 to 1 in 22,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000340-3" qtype="genetic changes">What are the genetic changes related to familial adenomatous polyposis ?</Question>
+			<Answer>Mutations in the APC gene cause both classic and attenuated familial adenomatous polyposis. These mutations affect the ability of the cell to maintain normal growth and function. Cell overgrowth resulting from mutations in the APC gene leads to the colon polyps seen in familial adenomatous polyposis. Although most people with mutations in the APC gene will develop colorectal cancer, the number of polyps and the time frame in which they become malignant depend on the location of the mutation in the gene.  Mutations in the MUTYH gene cause autosomal recessive familial adenomatous polyposis (also called MYH-associated polyposis). Mutations in this gene prevent cells from correcting mistakes that are made when DNA is copied (DNA replication) in preparation for cell division. As these mistakes build up in a person&apos;s DNA, the likelihood of cell overgrowth increases, leading to colon polyps and the possibility of colon cancer.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000340-4" qtype="inheritance">Is familial adenomatous polyposis inherited ?</Question>
+			<Answer>Familial adenomatous polyposis can have different inheritance patterns.  When familial adenomatous polyposis results from mutations in the APC gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.  When familial adenomatous polyposis results from mutations in the MUTYH gene, it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000340-5" qtype="treatment">What are the treatments for familial adenomatous polyposis ?</Question>
+			<Answer>These resources address the diagnosis or management of familial adenomatous polyposis:  - American Medical Association and National Coalition for Health Professional Education in Genetics: Understand the Basics of Genetic Testing for Hereditary Colorectal Cancer  - Gene Review: Gene Review: APC-Associated Polyposis Conditions  - Gene Review: Gene Review: MUTYH-Associated Polyposis  - GeneFacts: Familial Adenomatous Polyposis: Diagnosis  - GeneFacts: Familial Adenomatous Polyposis: Management  - Genetic Testing Registry: Desmoid disease, hereditary  - Genetic Testing Registry: Familial adenomatous polyposis 1  - Genetic Testing Registry: Familial multiple polyposis syndrome  - Genetic Testing Registry: MYH-associated polyposis  - Genomics Education Programme (UK): Familial Adenomatous Polyposis  - Genomics Education Programme (UK): MYH-Associated Polyposis  - MedlinePlus Encyclopedia: Colon Cancer  - MedlinePlus Encyclopedia: Colorectal polyps  - National Cancer Institute: Genetic Testing for Hereditary Cancer Syndromes   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

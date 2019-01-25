@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001060" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-myotubular-myopathy">
+<Focus>X-linked myotubular myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0410203</CUI>
+			<CUI>C0175709</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CNM</Synonym>
+		<Synonym>MTMX</Synonym>
+		<Synonym>X-linked centronuclear myopathy</Synonym>
+		<Synonym>XLMTM</Synonym>
+		<Synonym>XMTM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001060-1" qtype="information">What is (are) X-linked myotubular myopathy ?</Question>
+			<Answer>X-linked myotubular myopathy is a condition that primarily affects muscles used for movement (skeletal muscles) and occurs almost exclusively in males. People with this condition have muscle weakness (myopathy) and decreased muscle tone (hypotonia) that are usually evident at birth.  The muscle problems in X-linked myotubular myopathy impair the development of motor skills such as sitting, standing, and walking. Affected infants may also have difficulties with feeding due to muscle weakness. Individuals with this condition often do not have the muscle strength to breathe on their own and must be supported with a machine to help them breathe (mechanical ventilation). Some affected individuals need breathing assistance only periodically, typically during sleep, while others require it continuously. People with X-linked myotubular myopathy may also have weakness in the muscles that control eye movement (ophthalmoplegia), weakness in other muscles of the face, and absent reflexes (areflexia).  In X-linked myotubular myopathy, muscle weakness often disrupts normal bone development and can lead to fragile bones, an abnormal curvature of the spine (scoliosis), and joint deformities (contractures) of the hips and knees. People with X-linked myotubular myopathy may have a large head with a narrow and elongated face and a high, arched roof of the mouth (palate). They may also have liver disease, recurrent ear and respiratory infections, or seizures.  Because of their severe breathing problems, individuals with X-linked myotubular myopathy usually survive only into early childhood; however, some people with this condition have lived into adulthood.  X-linked myotubular myopathy is a member of a group of disorders called centronuclear myopathies. In centronuclear myopathies, the nucleus is found at the center of many rod-shaped muscle cells instead of at either end, where it is normally located.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001060-2" qtype="frequency">How many people are affected by X-linked myotubular myopathy ?</Question>
+			<Answer>The incidence of X-linked myotubular myopathy is estimated to be 1 in 50,000 newborn males worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001060-3" qtype="genetic changes">What are the genetic changes related to X-linked myotubular myopathy ?</Question>
+			<Answer>Mutations in the MTM1 gene cause X-linked myotubular myopathy. The MTM1 gene provides instructions for producing an enzyme called myotubularin. Myotubularin is thought to be involved in the development and maintenance of muscle cells.  MTM1 gene mutations probably disrupt myotubularin&apos;s role in muscle cell development and maintenance, causing muscle weakness and other signs and symptoms of X-linked myotubular myopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001060-4" qtype="inheritance">Is X-linked myotubular myopathy inherited ?</Question>
+			<Answer>X-linked myotubular myopathy is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked myotubular myopathy, the affected male inherits one altered copy from his mother in 80 to 90 percent of cases. In the remaining 10 to 20 percent of cases, the disorder results from a new mutation in the gene that occurs during the formation of a parent&apos;s reproductive cells (eggs or sperm) or in early embryonic development. Females with one altered copy of the MTM1 gene generally do not experience signs and symptoms of the disorder. In rare cases, however, females who have one altered copy of the MTM1 gene experience some mild muscle weakness.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001060-5" qtype="treatment">What are the treatments for X-linked myotubular myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked myotubular myopathy:  - Gene Review: Gene Review: X-Linked Centronuclear Myopathy  - Genetic Testing Registry: Severe X-linked myotubular myopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

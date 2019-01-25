@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000458" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-diffuse-gastric-cancer">
+<Focus>hereditary diffuse gastric cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024623</CUI>
+			<CUI>C0699791</CUI>
+			<CUI>C1708349</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>E-cadherin-associated hereditary gastric cancer</Synonym>
+		<Synonym>familial diffuse gastric cancer</Synonym>
+		<Synonym>FDGC</Synonym>
+		<Synonym>HDGC</Synonym>
+		<Synonym>hereditary diffuse gastric adenocarcinoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000458-1" qtype="information">What is (are) hereditary diffuse gastric cancer ?</Question>
+			<Answer>Hereditary diffuse gastric cancer (HDGC) is an inherited disorder that greatly increases the chance of developing a form of stomach (gastric) cancer. In this form, known as diffuse gastric cancer, there is no solid tumor. Instead cancerous (malignant) cells multiply underneath the stomach lining, making the lining thick and rigid. The invasive nature of this type of cancer makes it highly likely that these cancer cells will spread (metastasize) to other tissues, such as the liver or nearby bones.  Symptoms of diffuse gastric cancer occur late in the disease and can include stomach pain, nausea, vomiting, difficulty swallowing (dysphagia), decreased appetite, and weight loss. If the cancer metastasizes to other tissues, it may lead to an enlarged liver, yellowing of the eyes and skin (jaundice), an abnormal buildup of fluid in the abdominal cavity (ascites), firm lumps under the skin, or broken bones.  In HDGC, gastric cancer usually occurs in a person&apos;s late thirties or early forties, although it can develop anytime during adulthood. If diffuse gastric cancer is detected early, the survival rate is high; however, because this type of cancer is hidden underneath the stomach lining, it is usually not diagnosed until the cancer has become widely invasive. At that stage of the disease, the survival rate is approximately 20 percent.  Some people with HDGC have an increased risk of developing other types of cancer, such as a form of breast cancer in women that begins in the milk-producing glands (lobular breast cancer); prostate cancer; and cancers of the colon (large intestine) and rectum, which are collectively referred to as colorectal cancer. Most people with HDGC have family members who have had one of the types of cancer associated with HDGC. In some families, all the affected members have diffuse gastric cancer. In other families, some affected members have diffuse gastric cancer and others have another associated form of cancer, such as lobular breast cancer. Frequently, HDGC-related cancers develop in individuals before the age of 50.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000458-2" qtype="frequency">How many people are affected by hereditary diffuse gastric cancer ?</Question>
+			<Answer>Gastric cancer is the fourth most common form of cancer worldwide, affecting 900,000 people per year. HDGC probably accounts for less than 1 percent of these cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000458-3" qtype="genetic changes">What are the genetic changes related to hereditary diffuse gastric cancer ?</Question>
+			<Answer>It is likely that 30 to 40 percent of individuals with HDGC have a mutation in the CDH1 gene. The CDH1 gene provides instructions for making a protein called epithelial cadherin or E-cadherin. This protein is found within the membrane that surrounds epithelial cells, which are the cells that line the surfaces and cavities of the body. E-cadherin helps neighboring cells stick to one another (cell adhesion) to form organized tissues. E-cadherin has many other functions including acting as a tumor suppressor protein, which means it prevents cells from growing and dividing too rapidly or in an uncontrolled way.  People with HDGC caused by CDH1 gene mutations are born with one mutated copy of the gene in each cell. These mutations cause the production of an abnormally short, nonfunctional version of E-cadherin or alter the protein&apos;s structure. For diffuse gastric cancer to develop, a second mutation involving the other copy of the CDH1 gene must occur in the cells of the stomach lining during a person&apos;s lifetime. People who are born with one mutated copy of the CDH1 gene have a 80 percent chance of acquiring a second mutation in the other copy of the gene and developing gastric cancer in their lifetimes.  When both copies of the CDH1 gene are mutated in a particular cell, that cell cannot produce any functional E-cadherin. The loss of this protein prevents it from acting as a tumor suppressor, contributing to the uncontrollable growth and division of cells. A lack of E-cadherin also impairs cell adhesion, increasing the likelihood that cancer cells will not come together to form a tumor but will invade the stomach wall and metastasize as small clusters of cancer cells into nearby tissues.  These CDH1 gene mutations also lead to a 40 to 50 percent chance of lobular breast cancer in women, a slightly increased risk of prostate cancer in men, and a slightly increased risk of colorectal cancer. It is unclear why CDH1 gene mutations primarily occur in the stomach lining and these other tissues.  About 60 to 70 percent of individuals with HDGC do not have an identified mutation in the CDH1 gene. The cancer-causing mechanism in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000458-4" qtype="inheritance">Is hereditary diffuse gastric cancer inherited ?</Question>
+			<Answer>HDGC is inherited in an autosomal dominant pattern, which means one copy of the altered CDH1 gene in each cell is sufficient to increase the risk of developing cancer.  In most cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000458-5" qtype="treatment">What are the treatments for hereditary diffuse gastric cancer ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary diffuse gastric cancer:  - American Cancer Society: How is Stomach Cancer Diagnosed?  - Gene Review: Gene Review: Hereditary Diffuse Gastric Cancer  - Genetic Testing Registry: Hereditary diffuse gastric cancer  - MedlinePlus Encyclopedia: Gastric Cancer  - Memorial Sloan-Kettering Cancer Center: Early Onset and Familial Gastric Cancer Registry  - National Cancer Institute: Gastric Cancer Treatment Option Overview   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001798" source="GARD" url="https://rarediseases.info.nih.gov/gard/9569/dermatofibrosarcoma-protuberans">
+<Focus>Dermatofibrosarcoma protuberans</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0392784</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DFSP</Synonym>
+		<Synonym>Giant cell fibroblastoma</Synonym>
+		<Synonym>Familial dermatofibrosarcoma protuberans (subtype)</Synonym>
+		<Synonym>Metastatic dermatofibrosarcoma protuberans (subtype)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001798-1" qtype="information">What is (are) Dermatofibrosarcoma protuberans ?</Question>
+			<Answer>Dermatofibrosarcoma protuberans is an uncommon cancer in which tumors arise in the deeper layers of skin. The tumor usually starts as a small, firm patch of skin; it may be purplish, reddish, or flesh-colored. It is commonly found on the torso, usually in the shoulder and chest area. The tumor typically grows slowly but has a tendency to recur after being removed. It rarely spreads to other parts of the body. The cause of DFSP is unknown, but injury to the affected skin may be a predisposing factor. Treatment usually involves surgically removing the tumor. If the tumor is unable to be removed completely, additional therapy may be needed. Regular follow-up is important to monitor for recurrence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001798-2" qtype="symptoms">What are the symptoms of Dermatofibrosarcoma protuberans ?</Question>
+			<Answer>What are the signs and symptoms of Dermatofibrosarcoma protuberans? The Human Phenotype Ontology provides the following list of signs and symptoms for Dermatofibrosarcoma protuberans. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Neoplasm of the skin 90% Sarcoma 90% Thickened skin 90% Skin ulcer 50% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001798-3" qtype="causes">What causes Dermatofibrosarcoma protuberans ?</Question>
+			<Answer>What causes Dermatofibrosarcoma protuberans? The cause of DFSP is unknown but an injury to the affected skin may be a predisposing factor. Trauma at the affected site has been reported in approximately 10-20% of patients. Recent advances have shown that in approximately 90% of cases, dermatofibrosarcoma protuberans is associated with a rearrangement (translocation) of genetic material between chromosomes 17 and 22 which results in the fusion of two genes. The fused gene produces a protein which some believe may stimulate cells to multiply, leading to the tumor formation seen in dermatofibrosarcoma protuberans. This type of gene change is generally found only in tumor cells and is not inherited.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

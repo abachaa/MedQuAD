@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000900" source="GHR" url="https://ghr.nlm.nih.gov/condition/severe-congenital-neutropenia">
+<Focus>severe congenital neutropenia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1853118</CUI>
+			<CUI>C0340970</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital agranulocytosis</Synonym>
+		<Synonym>congenital neutropenia</Synonym>
+		<Synonym>infantile genetic agranulocytosis</Synonym>
+		<Synonym>Kostmann disease</Synonym>
+		<Synonym>Kostmann's agranulocytosis</Synonym>
+		<Synonym>Kostmann's syndrome</Synonym>
+		<Synonym>severe infantile genetic neutropenia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000900-1" qtype="information">What is (are) severe congenital neutropenia ?</Question>
+			<Answer>Severe congenital neutropenia is a condition that causes affected individuals to be prone to recurrent infections. People with this condition have a shortage (deficiency) of neutrophils, a type of white blood cell that plays a role in inflammation and in fighting infection. The deficiency of neutrophils, called neutropenia, is apparent at birth or soon afterward. It leads to recurrent infections beginning in infancy, including infections of the sinuses, lungs, and liver. Affected individuals can also develop fevers and inflammation of the gums (gingivitis) and skin. Approximately 40 percent of affected people have decreased bone density (osteopenia) and may develop osteoporosis, a condition that makes bones progressively more brittle and prone to fracture. In people with severe congenital neutropenia, these bone disorders can begin at any time from infancy through adulthood.  Approximately 20 percent of people with severe congenital neutropenia develop cancer of the blood-forming tissue (leukemia) or a disease of the blood and bone marrow (myelodysplastic syndrome) during adolescence.  Some people with severe congenital neutropenia have additional health problems such as seizures, developmental delay, or heart and genital abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000900-2" qtype="frequency">How many people are affected by severe congenital neutropenia ?</Question>
+			<Answer>The incidence of severe congenital neutropenia is estimated to be 1 in 200,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000900-3" qtype="genetic changes">What are the genetic changes related to severe congenital neutropenia ?</Question>
+			<Answer>Severe congenital neutropenia can result from mutations in at least five different genes. These genes play a role in the maturation and function of neutrophils, which are cells produced by the bone marrow. Neutrophils secrete immune molecules and ingest and break down foreign invaders.  Gene mutations that cause severe congenital neutropenia lead to the production of neutrophils that die off quickly or do not function properly. Some gene mutations result in unstable proteins that build up in neutrophils, leading to cell death. Other gene mutations result in proteins that impair the maturation or function of neutrophils, preventing these cells from responding appropriately to immune signals.  About half of all cases of severe congenital neutropenia are caused by mutations in the ELANE gene. Another 15 percent are caused by mutations in the HAX1 gene. The other genes each account for only a small percentage of all cases of this condition. In about one-third of people with severe congenital neutropenia, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000900-4" qtype="inheritance">Is severe congenital neutropenia inherited ?</Question>
+			<Answer>Most cases of severe congenital neutropenia are classified as sporadic and occur in people with no apparent history of the disorder in their family. Some of these cases are associated with changes in specific genes; however in some cases the cause of the disorder is unknown.  Many cases of severe congenital neutropenia are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  Less often, this condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  In rare cases, severe congenital neutropenia is inherited in an X-linked recessive pattern. In these cases, the gene that causes the condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000900-5" qtype="treatment">What are the treatments for severe congenital neutropenia ?</Question>
+			<Answer>These resources address the diagnosis or management of severe congenital neutropenia:  - Cincinnati Children&apos;s Hospital: The Severe Congenital Neutropenia International Registry  - Gene Review: Gene Review: ELANE-Related Neutropenia  - Gene Review: Gene Review: G6PC3 Deficiency  - Genetic Testing Registry: Severe congenital neutropenia  - Genetic Testing Registry: Severe congenital neutropenia 2, autosomal dominant  - Genetic Testing Registry: Severe congenital neutropenia 4, autosomal recessive  - Genetic Testing Registry: Severe congenital neutropenia X-linked  - Genetic Testing Registry: Severe congenital neutropenia autosomal dominant  - MedlinePlus Encyclopedia: Neutropenia--infants   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

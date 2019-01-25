@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000317" source="GHR" url="https://ghr.nlm.nih.gov/condition/enlarged-parietal-foramina">
+<Focus>enlarged parietal foramina</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1868598</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Catlin marks</Synonym>
+		<Synonym>cranium bifidum</Synonym>
+		<Synonym>cranium bifidum occultum</Synonym>
+		<Synonym>fenestrae parietals symmetricae</Synonym>
+		<Synonym>foramina parietalia permagna</Synonym>
+		<Synonym>FPP</Synonym>
+		<Synonym>giant parietal foramina</Synonym>
+		<Synonym>hereditary cranium bifidum</Synonym>
+		<Synonym>parietal foramina</Synonym>
+		<Synonym>PFM</Synonym>
+		<Synonym>symmetric parietal foramina</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000317-1" qtype="information">What is (are) enlarged parietal foramina ?</Question>
+			<Answer>Enlarged parietal foramina is an inherited condition of impaired skull development. It is characterized by enlarged openings (foramina) in the parietal bones, which are the two bones that form the top and sides of the skull. This condition is due to incomplete bone formation (ossification) within the parietal bones. The openings are symmetrical and circular in shape, ranging in size from a few millimeters to several centimeters wide. Parietal foramina are a normal feature of fetal development, but typically they close before the baby is born, usually by the fifth month of pregnancy. However, in people with this condition, the parietal foramina remain open throughout life.  The enlarged parietal foramina are soft to the touch due to the lack of bone at those areas of the skull. People with enlarged parietal foramina usually do not have any related health problems; however, scalp defects, seizures, and structural brain abnormalities have been noted in a small percentage of affected people. Pressure applied to the openings can lead to severe headaches, and individuals with this condition have an increased risk of brain damage or skull fractures if any trauma is experienced in the area of the openings.  There are two forms of enlarged parietal foramina, called type 1 and type 2, which differ in their genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000317-2" qtype="frequency">How many people are affected by enlarged parietal foramina ?</Question>
+			<Answer>The prevalence of enlarged parietal foramina is estimated to be 1 in 15,000 to 50,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000317-3" qtype="genetic changes">What are the genetic changes related to enlarged parietal foramina ?</Question>
+			<Answer>Mutations in the ALX4 gene account for 60 percent of cases of enlarged parietal foramina and mutations in the MSX2 gene account for 40 percent of cases. These genes provide instructions for producing proteins called transcription factors, which are required for proper development throughout the body. Transcription factors attach (bind) to specific regions of DNA and help control the activity of particular genes. The ALX4 and MSX2 transcription factor proteins are involved in regulating genes that are needed in various cell processes in early development.  Mutations in either the ALX4 or MSX2 gene likely impair the ability of their respective transcription factors to bind to DNA. As a result, the regulation of multiple genes is altered, which disrupts a number of necessary cell functions. The processes that guide skull development seem to be particularly sensitive to changes in the activity of these transcription factors.  If the condition is caused by a mutation in the MSX2 gene, it is called enlarged parietal foramina type 1. Mutations in the ALX4 gene cause enlarged parietal foramina type 2. There appears to be no difference in the size of the openings between enlarged parietal foramina types 1 and 2.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000317-4" qtype="inheritance">Is enlarged parietal foramina inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.  However, in rare cases, people who inherit an altered gene do not have enlarged parietal foramina. (This situation is known as reduced penetrance.)</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000317-5" qtype="treatment">What are the treatments for enlarged parietal foramina ?</Question>
+			<Answer>These resources address the diagnosis or management of enlarged parietal foramina:  - Gene Review: Gene Review: Enlarged Parietal Foramina  - Genetic Testing Registry: Parietal foramina  - Genetic Testing Registry: Parietal foramina 1  - Genetic Testing Registry: Parietal foramina 2  - MedlinePlus Encyclopedia: Skull of a Newborn   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

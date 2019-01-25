@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000500" source="GHR" url="https://ghr.nlm.nih.gov/condition/hyperprolinemia">
+<Focus>hyperprolinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268529</CUI>
+			<CUI>C0268528</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>proline oxidase deficiency</Synonym>
+		<Synonym>prolinemia</Synonym>
+		<Synonym>pyrroline-5-carboxylate dehydrogenase deficiency</Synonym>
+		<Synonym>pyrroline carboxylate dehydrogenase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000500-1" qtype="information">What is (are) hyperprolinemia ?</Question>
+			<Answer>Hyperprolinemia is an excess of a particular protein building block (amino acid), called proline, in the blood. This condition generally occurs when proline is not broken down properly by the body. There are two inherited forms of hyperprolinemia, called type I and type II.  People with hyperprolinemia type I often do not show any symptoms, although they have proline levels in their blood between 3 and 10 times the normal level. Some individuals with hyperprolinemia type I exhibit seizures, intellectual disability, or other neurological or psychiatric problems.  Hyperprolinemia type II results in proline levels in the blood between 10 and 15 times higher than normal, and high levels of a related compound called pyrroline-5-carboxylate. This form of the disorder has signs and symptoms that vary in severity, and is more likely than type I to involve seizures or intellectual disability.  Hyperprolinemia can also occur with other conditions, such as malnutrition or liver disease. In particular, individuals with conditions that cause elevated levels of lactic acid in the blood (lactic acidemia) may have hyperprolinemia as well, because lactic acid inhibits the breakdown of proline.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000500-2" qtype="frequency">How many people are affected by hyperprolinemia ?</Question>
+			<Answer>It is difficult to determine the prevalence of hyperprolinemia type I because most people with the condition do not have any symptoms. Hyperprolinemia type II is a rare condition; its prevalence is also unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000500-3" qtype="genetic changes">What are the genetic changes related to hyperprolinemia ?</Question>
+			<Answer>Mutations in the ALDH4A1 and PRODH genes cause hyperprolinemia.  Inherited hyperprolinemia is caused by deficiencies in the enzymes that break down (degrade) proline. Hyperprolinemia type I is caused by a mutation in the PRODH gene, which provides instructions for producing the enzyme proline oxidase. This enzyme begins the process of degrading proline by starting the reaction that converts it to pyrroline-5-carboxylate.  Hyperprolinemia type II is caused by a mutation in the ALDH4A1 gene, which provides instructions for producing the enzyme pyrroline-5-carboxylate dehydrogenase. This enzyme helps to break down the pyrroline-5-carboxylate produced in the previous reaction, converting it to the amino acid glutamate. The conversion between proline and glutamate, and the reverse reaction controlled by different enzymes, are important in maintaining a supply of the amino acids needed for protein production, and for energy transfer within the cell.  A deficiency of either proline oxidase or pyrroline-5-carboxylate dehydrogenase results in a buildup of proline in the body. A deficiency of the latter enzyme leads to higher levels of proline and a buildup of the intermediate breakdown product pyrroline-5-carboxylate, causing the signs and symptoms of hyperprolinemia type II.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000500-4" qtype="inheritance">Is hyperprolinemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition. In about one-third of cases, individuals carrying one copy of an altered PRODH gene have moderately elevated levels of proline in their blood, but these levels do not cause any health problems. Individuals with one altered ALDH4A1 gene have normal levels of proline in their blood.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000500-5" qtype="treatment">What are the treatments for hyperprolinemia ?</Question>
+			<Answer>These resources address the diagnosis or management of hyperprolinemia:  - Baby&apos;s First Test  - Genetic Testing Registry: Deficiency of pyrroline-5-carboxylate reductase  - Genetic Testing Registry: Proline dehydrogenase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000020" source="NINDS" url="http://www.ninds.nih.gov/disorders/cerebral_aneurysm/cerebral_aneurysms.htm">
+<Focus>Cerebral Aneurysms</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0917996</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000020-1" qtype="information">What is (are) Cerebral Aneurysms ?</Question>
+			<Answer>A cerebral aneurysm is a weak or thin spot on a blood vessel in the brain that balloons out and fills with blood. An aneurysm can press on a nerve or surrounding tissue, and also leak or burst, which lets blood spill into surrounding tissues (called a hemorrhage). Cerebral aneurysms can occur at any age, although they are more common in adults than in children and are slightly more common in women than in men. The signs and symptoms of an unruptured cerebral aneurysm will partly depend on its size and rate of growth. For example, a small, unchanging aneurysm will generally produce no symptoms, whereas a larger aneurysm that is steadily growing may produce symptoms such as headache, numbness, loss of feeling in the face or problems with the eyes. Immediately after an aneurysm ruptures, an individual may experience such symptoms as a sudden and unusually severe headache, nausea, vision impairment, vomiting, and loss of consciousness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000020-2" qtype="treatment">What are the treatments for Cerebral Aneurysms ?</Question>
+			<Answer>For unruptured aneurysms, treatment may be recommended for large or irregularly-shaped aneurysms or for those causing symptoms. Emergency treatment for individuals with a ruptured cerebral aneurysm may be required to restore deteriorating respiration and reduce abnormally high pressure within the brain. Treatment is necessary to prevent the aneurysm from rupturing again. Surgical treatment prevents repeat aneurysm rupture by placing a metal clip at the base of the aneurysm. Individuals for whom surgery is considered too risky may be treated by inserting the tip of a catheter into an artery in the groin and advancing it through the blood stream to the site of the aneurysm, where it is used to insert metal coils that induce clot formation within the aneurysm.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000020-3" qtype="outlook">What is the outlook for Cerebral Aneurysms ?</Question>
+			<Answer>The prognosis for a individual with a ruptured cerebral aneurysm depends on the location of the aneurysm, extent of bleeding or rebleeding, the person&apos;s age, general health, pre-existing neurological conditions, adn time between rupture and medical attention. Early diagnosis and treatment are important. A burst cerebral aneurysm may be fatal or could lead to hemorrhagic stroke, vasospasm (in which other blood vessels in the brain contract and limit blood flow), hydrocephalus, coma, or short-term and/or permanent brain damage. Recovery from treatment or rupture may take weeks to months.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000020-4" qtype="research">what research (or clinical trials) is being done for Cerebral Aneurysms ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research in its laboratories at the National Institutes of Health (NIH) and also supports additional research through grants to major medical institutions. The NINDS supports a broad range of basic and clinical research on intracranial aneurysms and other vascular lesions of the nervous system. The Familial Intracranial Aneurysm study seeks to identify possible genes that may increase the risk of development of aneurysms in blood vessels in the brain. Other research projects include genome-wide studies to identify genes or DNA sequences that may indicate families harboring one type of aneurysm may be at increased risk of another type; studies of chromosomes to identify aneurysm-related genes; and additional research on microsurgical clipping and endovascular surgery to treat various types of ruptured and unruptured aneurysms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

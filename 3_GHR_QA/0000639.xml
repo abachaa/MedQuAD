@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000639" source="GHR" url="https://ghr.nlm.nih.gov/condition/meesmann-corneal-dystrophy">
+<Focus>Meesmann corneal dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339277</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>corneal dystrophy, juvenile epithelial of Meesmann</Synonym>
+		<Synonym>corneal dystrophy, Meesmann epithelial</Synonym>
+		<Synonym>juvenile hereditary epithelial dystrophy</Synonym>
+		<Synonym>MECD</Synonym>
+		<Synonym>Meesman's corneal dystrophy</Synonym>
+		<Synonym>Meesmann corneal epithelial dystrophy</Synonym>
+		<Synonym>Meesmann epithelial corneal dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000639-1" qtype="information">What is (are) Meesmann corneal dystrophy ?</Question>
+			<Answer>Meesmann corneal dystrophy is an eye disease that affects the cornea, which is the clear front covering of the eye. This condition is characterized by the formation of tiny round cysts in the outermost layer of the cornea, called the corneal epithelium. This part of the cornea acts as a barrier to help prevent foreign materials, such as dust and bacteria, from entering the eye.  In people with Meesmann corneal dystrophy, cysts can appear as early as the first year of life. They usually affect both eyes and increase in number over time. The cysts usually do not cause any symptoms until late adolescence or adulthood, when they start to break open (rupture) on the surface of the cornea and cause irritation. The resulting symptoms typically include increased sensitivity to light (photophobia), twitching of the eyelids (blepharospasm), increased tear production, the sensation of having a foreign object in the eye, and an inability to tolerate wearing contact lenses. Some affected individuals also have temporary episodes of blurred vision.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000639-2" qtype="frequency">How many people are affected by Meesmann corneal dystrophy ?</Question>
+			<Answer>Meesmann corneal dystrophy is a rare disorder whose prevalence is unknown. It was first described in a large, multi-generational German family with more than 100 affected members. Since then, the condition has been reported in individuals and families worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000639-3" qtype="genetic changes">What are the genetic changes related to Meesmann corneal dystrophy ?</Question>
+			<Answer>Meesmann corneal dystrophy can result from mutations in either the KRT12 gene or the KRT3 gene. These genes provide instructions for making proteins called keratin 12 and keratin 3, which are found in the corneal epithelium. The two proteins interact to form the structural framework of this layer of the cornea. Mutations in either the KRT12 or KRT3 gene weaken this framework, causing the corneal epithelium to become fragile and to develop the cysts that characterize the disorder. The cysts likely contain clumps of abnormal keratin proteins and other cellular debris. When the cysts rupture, they cause eye irritation and the other symptoms of Meesmann corneal dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000639-4" qtype="inheritance">Is Meesmann corneal dystrophy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of an altered KRT12 or KRT3 gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the condition from an affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000639-5" qtype="treatment">What are the treatments for Meesmann corneal dystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of Meesmann corneal dystrophy:  - Genetic Testing Registry: Meesman&apos;s corneal dystrophy  - Merck Manual Home Health Handbook: Tests for Eye Disorders: The Eye Examination   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

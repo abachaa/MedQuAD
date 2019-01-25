@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000103" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-recessive-spastic-ataxia-of-charlevoix-saguenay">
+<Focus>autosomal recessive spastic ataxia of Charlevoix-Saguenay</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1849140</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ARSACS</Synonym>
+		<Synonym>Charlevoix-Saguenay spastic ataxia</Synonym>
+		<Synonym>spastic ataxia of Charlevoix-Saguenay</Synonym>
+		<Synonym>spastic ataxia, Charlevoix-Saguenay type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000103-1" qtype="information">What is (are) autosomal recessive spastic ataxia of Charlevoix-Saguenay ?</Question>
+			<Answer>Autosomal recessive spastic ataxia of Charlevoix-Saguenay, more commonly known as ARSACS, is a condition affecting muscle movement. People with ARSACS typically have abnormal tensing of the muscles (spasticity), difficulty coordinating movements (ataxia), muscle wasting (amyotrophy), involuntary eye movements (nystagmus), and speech difficulties (dysarthria). Other problems may include deformities of the fingers and feet, reduced sensation and weakness in the arms and legs (peripheral neuropathy), yellow streaks of fatty tissue in the light-sensitive tissue at the back of the eye (hypermyelination of the retina), and less commonly, leaks in one of the valves that control blood flow through the heart (mitral valve prolapse). An unsteady gait is the first symptom of ARSACS. It usually appears between the age of 12 months and 18 months, as toddlers are learning to walk. The signs and symptoms worsen over the years, with increased spasticity and ataxia of the arms and legs. In some cases spasticity disappears, but this apparent improvement is thought to be due to degeneration of nerves in the arms and legs. Most affected individuals require a wheelchair by the time they are in their thirties or forties.  This condition was first seen in people of the Charlevoix-Saguenay region of Quebec, Canada. The majority of people with ARSACS live in Quebec or have recent ancestors from Quebec. People with ARSACS have also been identified in Japan, Turkey, Tunisia, Spain, Italy, and Belgium. The signs and symptoms of ARSACS seen in other countries differ from those in Quebec. In people with ARSACS outside of Quebec, hypermyelination of the retina is seen less often, intelligence may be below normal, and symptoms tend to appear at a later age.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000103-2" qtype="frequency">How many people are affected by autosomal recessive spastic ataxia of Charlevoix-Saguenay ?</Question>
+			<Answer>The incidence of ARSACS in the Charlevoix-Saguenay region of Quebec is estimated to be 1 in 1,500 to 2,000 individuals. Outside of Quebec, ARSACS is rare, but the incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000103-3" qtype="genetic changes">What are the genetic changes related to autosomal recessive spastic ataxia of Charlevoix-Saguenay ?</Question>
+			<Answer>Mutations in the SACS gene cause ARSACS. The SACS gene provides instructions for producing a protein called sacsin. Sacsin is found in the brain, skin cells, muscles used for movement (skeletal muscles), and at low levels in the pancreas, but the specific function of the protein is unknown. Research suggests that sacsin might play a role in folding newly produced proteins into the proper 3-dimensional shape because it shares similar regions with other proteins that perform this function. Mutations in the SACS gene cause the production of an unstable sacsin protein that does not function normally. It is unclear how the abnormal sacsin protein affects the brain and skeletal muscles and results in the signs and symptoms of ARSACS.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000103-4" qtype="inheritance">Is autosomal recessive spastic ataxia of Charlevoix-Saguenay inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000103-5" qtype="treatment">What are the treatments for autosomal recessive spastic ataxia of Charlevoix-Saguenay ?</Question>
+			<Answer>These resources address the diagnosis or management of ARSACS:  - Gene Review: Gene Review: ARSACS  - Genetic Testing Registry: Spastic ataxia Charlevoix-Saguenay type   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

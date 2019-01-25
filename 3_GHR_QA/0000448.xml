@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000448" source="GHR" url="https://ghr.nlm.nih.gov/condition/hashimoto-thyroiditis">
+<Focus>Hashimoto thyroiditis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040147</CUI>
+			<CUI>C0677607</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autoimmune chronic lymphocytic thyroiditis</Synonym>
+		<Synonym>autoimmune thyroiditis</Synonym>
+		<Synonym>chronic lymphocytic thyroiditides</Synonym>
+		<Synonym>chronic lymphocytic thyroiditis</Synonym>
+		<Synonym>Hashimoto disease</Synonym>
+		<Synonym>Hashimoto struma</Synonym>
+		<Synonym>Hashimoto syndrome</Synonym>
+		<Synonym>Hashimoto's disease</Synonym>
+		<Synonym>lymphocytic thyroiditis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000448-1" qtype="information">What is (are) Hashimoto thyroiditis ?</Question>
+			<Answer>Hashimoto thyroiditis is a condition that affects the function of the thyroid, which is a butterfly-shaped gland in the lower neck. The thyroid makes hormones that help regulate a wide variety of critical body functions. For example, thyroid hormones influence growth and development, body temperature, heart rate, menstrual cycles, and weight. Hashimoto thyroiditis is a form of chronic inflammation that can damage the thyroid, reducing its ability to produce hormones.  One of the first signs of Hashimoto thyroiditis is an enlargement of the thyroid called a goiter. Depending on its size, the enlarged thyroid can cause the neck to look swollen and may interfere with breathing and swallowing. As damage to the thyroid continues, the gland can shrink over a period of years and the goiter may eventually disappear.  Other signs and symptoms resulting from an underactive thyroid can include excessive tiredness (fatigue), weight gain or difficulty losing weight, hair that is thin and dry, a slow heart rate, joint or muscle pain, and constipation. People with this condition may also have a pale, puffy face and feel cold even when others around them are warm. Affected women can have heavy or irregular menstrual periods and difficulty conceiving a child (impaired fertility). Difficulty concentrating and depression can also be signs of a shortage of thyroid hormones.  Hashimoto thyroiditis usually appears in mid-adulthood, although it can occur earlier or later in life. Its signs and symptoms tend to develop gradually over months or years.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000448-2" qtype="frequency">How many people are affected by Hashimoto thyroiditis ?</Question>
+			<Answer>Hashimoto thyroiditis affects 1 to 2 percent of people in the United States. It occurs more often in women than in men, which may be related to hormonal factors. The condition is the most common cause of thyroid underactivity (hypothyroidism) in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000448-3" qtype="genetic changes">What are the genetic changes related to Hashimoto thyroiditis ?</Question>
+			<Answer>Hashimoto thyroiditis is thought to result from a combination of genetic and environmental factors. Some of these factors have been identified, but many remain unknown.  Hashimoto thyroiditis is classified as an autoimmune disorder, one of a large group of conditions that occur when the immune system attacks the body&apos;s own tissues and organs. In people with Hashimoto thyroiditis, white blood cells called lymphocytes accumulate abnormally in the thyroid, which can damage it. The lymphocytes make immune system proteins called antibodies that attack and destroy thyroid cells. When too many thyroid cells become damaged or die, the thyroid can no longer make enough hormones to regulate body functions. This shortage of thyroid hormones underlies the signs and symptoms of Hashimoto thyroiditis. However, some people with thyroid antibodies never develop hypothyroidism or experience any related signs or symptoms.  People with Hashimoto thyroiditis have an increased risk of developing other autoimmune disorders, including vitiligo, rheumatoid arthritis, Addison disease, type 1 diabetes, multiple sclerosis, and pernicious anemia.  Variations in several genes have been studied as possible risk factors for Hashimoto thyroiditis. Some of these genes are part of a family called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). Other genes that have been associated with Hashimoto thyroiditis help regulate the immune system or are involved in normal thyroid function. Most of the genetic variations that have been discovered are thought to have a small impact on a person&apos;s overall risk of developing this condition.  Other, nongenetic factors also play a role in Hashimoto thyroiditis. These factors may trigger the condition in people who are at risk, although the mechanism is unclear. Potential triggers include changes in sex hormones (particularly in women), viral infections, certain medications, exposure to ionizing radiation, and excess consumption of iodine (a substance involved in thyroid hormone production).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000448-4" qtype="inheritance">Is Hashimoto thyroiditis inherited ?</Question>
+			<Answer>The inheritance pattern of Hashimoto thyroiditis is unclear because many genetic and environmental factors appear to be involved. However, the condition can cluster in families, and having a close relative with Hashimoto thyroiditis or another autoimmune disorder likely increases a person&apos;s risk of developing the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000448-5" qtype="treatment">What are the treatments for Hashimoto thyroiditis ?</Question>
+			<Answer>These resources address the diagnosis or management of Hashimoto thyroiditis:  - American Thyroid Association: Thyroid Function Tests  - Genetic Testing Registry: Hashimoto thyroiditis  - National Institute of Diabetes and Digestive and Kidney Diseases: Thyroid Function Tests   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000668" source="GHR" url="https://ghr.nlm.nih.gov/condition/molybdenum-cofactor-deficiency">
+<Focus>molybdenum cofactor deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268119</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>combined deficiency of sulfite oxidase, xanthine dehydrogenase, and aldehyde oxidase</Synonym>
+		<Synonym>combined molybdoflavoprotein enzyme deficiency</Synonym>
+		<Synonym>combined xanthine oxidase and sulfite oxidase and aldehyde oxidase deficiency</Synonym>
+		<Synonym>deficiency of molybdenum cofactor</Synonym>
+		<Synonym>MOCOD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000668-1" qtype="information">What is (are) molybdenum cofactor deficiency ?</Question>
+			<Answer>Molybdenum cofactor deficiency is a rare condition characterized by brain dysfunction (encephalopathy) that worsens over time. Babies with this condition appear normal at birth, but within a week they have difficulty feeding and develop seizures that do not improve with treatment (intractable seizures). Brain abnormalities, including deterioration (atrophy) of brain tissue, lead to severe developmental delay; affected individuals usually do not learn to sit unassisted or to speak. A small percentage of affected individuals have an exaggerated startle reaction (hyperekplexia) to unexpected stimuli such as loud noises. Other features of molybdenum cofactor deficiency can include a small head size (microcephaly) and facial features that are described as &quot;coarse.&quot;  Tests reveal that affected individuals have high levels of chemicals called sulfite, S-sulfocysteine, xanthine, and hypoxanthine in the urine and low levels of a chemical called uric acid in the blood.  Because of the serious health problems caused by molybdenum cofactor deficiency, affected individuals usually do not survive past early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000668-2" qtype="frequency">How many people are affected by molybdenum cofactor deficiency ?</Question>
+			<Answer>Molybdenum cofactor deficiency is a rare condition that is estimated to occur in 1 in 100,000 to 200,000 newborns worldwide. More than 100 cases have been reported in the medical literature, although it is thought that the condition is underdiagnosed, so the number of affected individuals may be higher.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000668-3" qtype="genetic changes">What are the genetic changes related to molybdenum cofactor deficiency ?</Question>
+			<Answer>Molybdenum cofactor deficiency is caused by mutations in the MOCS1, MOCS2, or GPHN gene. There are three forms of the disorder, named types A, B, and C (or complementation groups A, B, and C). The forms have the same signs and symptoms but are distinguished by their genetic cause: MOCS1 gene mutations cause type A, MOCS2 gene mutations cause type B, and GPHN gene mutations cause type C. The proteins produced from each of these genes are involved in the formation (biosynthesis) of a molecule called molybdenum cofactor. Molybdenum cofactor, which contains the element molybdenum, is essential to the function of several enzymes. These enzymes help break down (metabolize) different substances in the body, some of which are toxic if not metabolized.  Mutations in the MOCS1, MOCS2, or GPHN gene reduce or eliminate the function of the associated protein, which impairs molybdenum cofactor biosynthesis. Without the cofactor, the metabolic enzymes that rely on it cannot function.  The resulting loss of enzyme activity leads to buildup of certain chemicals, including sulfite, S-sulfocysteine, xanthine, and hypoxanthine (which can be identified in urine), and low levels of uric acid in the blood. Sulfite, which is normally broken down by one of the molybdenum cofactor-dependent enzymes, is toxic, especially to the brain. Researchers suggest that damage caused by the abnormally high levels of sulfite (and possibly other chemicals) leads to encephalopathy, seizures, and the other features of molybdenum cofactor deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000668-4" qtype="inheritance">Is molybdenum cofactor deficiency inherited ?</Question>
+			<Answer>Molybdenum cofactor deficiency has an autosomal recessive pattern of inheritance, which means both copies of the gene in each cell have mutations. An affected individual usually inherits one altered copy of the gene from each parent. Parents of an individual with an autosomal recessive condition typically do not show signs and symptoms of the condition.  At least one individual with molybdenum cofactor deficiency inherited two mutated copies of the MOCS1 gene through a mechanism called uniparental isodisomy. In this case, an error occurred during the formation of egg or sperm cells, and the child received two copies of the mutated gene from one parent instead of one copy from each parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000668-5" qtype="treatment">What are the treatments for molybdenum cofactor deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of molybdenum cofactor deficiency:  - Genetic Testing Registry: Combined molybdoflavoprotein enzyme deficiency  - Genetic Testing Registry: Molybdenum cofactor deficiency, complementation group A  - Genetic Testing Registry: Molybdenum cofactor deficiency, complementation group B  - Genetic Testing Registry: Molybdenum cofactor deficiency, complementation group C   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

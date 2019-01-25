@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000781" source="GHR" url="https://ghr.nlm.nih.gov/condition/pendred-syndrome">
+<Focus>Pendred syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C0271829</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal recessive sensorineural hearing impairment, enlarged vestibular aqueduct, and goiter</Synonym>
+		<Synonym>deafness with goiter</Synonym>
+		<Synonym>goiter-deafness syndrome</Synonym>
+		<Synonym>Pendred's syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000781-1" qtype="information">What is (are) Pendred syndrome ?</Question>
+			<Answer>Pendred syndrome is a disorder typically associated with hearing loss and a thyroid condition called a goiter. A goiter is an enlargement of the thyroid gland, which is a butterfly-shaped organ at the base of the neck that produces hormones. If a goiter develops in a person with Pendred syndrome, it usually forms between late childhood and early adulthood. In most cases, this enlargement does not cause the thyroid to malfunction.  In most people with Pendred syndrome, severe to profound hearing loss caused by changes in the inner ear (sensorineural hearing loss) is evident at birth. Less commonly, hearing loss does not develop until later in infancy or early childhood. Some affected individuals also have problems with balance caused by dysfunction of the vestibular system, which is the part of the inner ear that helps maintain the body&apos;s balance and orientation.  An inner ear abnormality called an enlarged vestibular aqueduct (EVA) is a characteristic feature of Pendred syndrome. The vestibular aqueduct is a bony canal that connects the inner ear with the inside of the skull. Some affected individuals also have an abnormally shaped cochlea, which is a snail-shaped structure in the inner ear that helps process sound. The combination of an enlarged vestibular aqueduct and an abnormally shaped cochlea is known as Mondini malformation.  Pendred syndrome shares features with other hearing loss and thyroid conditions, and it is unclear whether they are best considered as separate disorders or as a spectrum of related signs and symptoms. These conditions include a form of nonsyndromic hearing loss (hearing loss that does not affect other parts of the body) called DFNB4, and, in a small number of people, a form of congenital hypothyroidism resulting from an abnormally small thyroid gland (thyroid hypoplasia). All of these conditions are caused by mutations in the same gene.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000781-2" qtype="frequency">How many people are affected by Pendred syndrome ?</Question>
+			<Answer>The prevalence of Pendred syndrome is unknown. However, researchers estimate that it accounts for 7 to 8 percent of all hearing loss that is present from birth (congenital hearing loss).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000781-3" qtype="genetic changes">What are the genetic changes related to Pendred syndrome ?</Question>
+			<Answer>Mutations in the SLC26A4 gene cause about half of all cases of Pendred syndrome. The SLC26A4 gene provides instructions for making a protein called pendrin. This protein transports negatively charged particles (ions), including chloride, iodide, and bicarbonate, into and out of cells. Although the function of pendrin is not fully understood, this protein is important for maintaining the proper levels of ions in the thyroid and the inner ear. Mutations in the SLC26A4 gene alter the structure or function of pendrin, which disrupts ion transport. An imbalance of particular ions disrupts the development and function of the thyroid gland and structures in the inner ear, which leads to the characteristic features of Pendred syndrome.  In people with Pendred syndrome who do not have mutations in the SLC26A4 gene, the cause of the condition is unknown. Researchers suspect that other genetic and environmental factors may influence the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000781-4" qtype="inheritance">Is Pendred syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000781-5" qtype="treatment">What are the treatments for Pendred syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Pendred syndrome:  - Children&apos;s Hospital of Philadelphia, Center for Childhood Communication  - Gene Review: Gene Review: Pendred Syndrome/DFNB4  - Genetic Testing Registry: Pendred&apos;s syndrome  - MedlinePlus Encyclopedia: Goiter  - MedlinePlus Encyclopedia: Hearing Loss   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

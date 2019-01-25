@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000280" source="GHR" url="https://ghr.nlm.nih.gov/condition/dermatofibrosarcoma-protuberans">
+<Focus>dermatofibrosarcoma protuberans</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0392784</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Darier-Ferrand tumor</Synonym>
+		<Synonym>Darier-Hoffmann tumor</Synonym>
+		<Synonym>dermatofibrosarcoma</Synonym>
+		<Synonym>DFSP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000280-1" qtype="information">What is (are) dermatofibrosarcoma protuberans ?</Question>
+			<Answer>Dermatofibrosarcoma protuberans is a rare type of cancer that causes a tumor in the deep layers of skin. This condition is a type of soft tissue sarcoma, which are cancers that affect skin, fat, muscle, and similar tissues.  In dermatofibrosarcoma protuberans, the tumor most often starts as a small, firm patch of skin, usually 1 to 5 centimeters in diameter, that is usually purplish, reddish, or flesh-colored. The tumor typically grows slowly and can become a raised nodule. Occasionally, the tumor begins as a flat or depressed patch of skin (plaque). Tumors are most commonly found on the torso and can also be found on the arms, legs, head, or neck. Affected individuals usually first show signs of this condition in their thirties, but the age at which a tumor appears varies widely.  In dermatofibrosarcoma protuberans, the tumor has a tendency to return after being removed. However, it does not often spread to other parts of the body (metastasize).  There are several variants of dermatofibrosarcoma protuberans in which different cell types are involved in the tumor. Bednar tumors, often called pigmented dermatofibrosarcoma protuberans, contain dark-colored (pigmented) cells called melanin-containing dendritic cells. Myxoid dermatofibrosarcoma protuberans tumors contain an abnormal type of connective tissue known as myxoid stroma. Giant cell fibroblastoma, which is sometimes referred to as juvenile dermatofibrosarcoma protuberans because it typically affects children and adolescents, is characterized by giant cells in the tumor.  Rarely, the tumors involved in the different types of dermatofibrosarcoma protuberans can have regions that look similar to fibrosarcoma, a more aggressive type of soft tissue sarcoma. In these cases, the condition is called fibrosarcomatous dermatofibrosarcoma protuberans or FS-DFSP. FS-DFSP tumors are more likely to metastasize than tumors in the other types of dermatofibrosarcoma protuberans.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000280-2" qtype="frequency">How many people are affected by dermatofibrosarcoma protuberans ?</Question>
+			<Answer>Dermatofibrosarcoma protuberans is estimated to occur in 1 in 100,000 to 1 in 1 million people per year.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000280-3" qtype="genetic changes">What are the genetic changes related to dermatofibrosarcoma protuberans ?</Question>
+			<Answer>Dermatofibrosarcoma protuberans is associated with a rearrangement (translocation) of genetic material between chromosomes 17 and 22. This translocation, written as t(17;22), fuses part of the COL1A1 gene from chromosome 17 with part of the PDGFB gene from chromosome 22. The translocation is found on one or more extra chromosomes that can be either the normal linear shape or circular. When circular, the extra chromosomes are known as supernumerary ring chromosomes. Ring chromosomes occur when a chromosome breaks in two places and the ends of the chromosome arms fuse together to form a circular structure. Other genes from chromosomes 17 and 22 can be found on the extra chromosomes, but the role these genes play in development of the condition is unclear. The translocation is acquired during a person&apos;s lifetime and the chromosomes containing the translocation are present only in the tumor cells. This type of genetic change is called a somatic mutation.  In normal cells, the COL1A1 gene provides instructions for making part of a large molecule called type I collagen, which strengthens and supports many tissues in the body. The PDGFB gene provides instructions for making one version (isoform) of the platelet derived growth factor (PDGF) protein. By attaching to its receptor, the active PDGFB protein stimulates many cellular processes, including cell growth and division (proliferation) and maturation (differentiation).  The abnormally fused COL1A1-PDGFB gene provides instructions for making an abnormal combined (fusion) protein that researchers believe ultimately functions like the PDGFB protein. The gene fusion leads to the production of an excessive amount of protein that functions like the PDGFB protein. In excess, this fusion protein stimulates cells to proliferate and differentiate abnormally, leading to the tumor formation seen in dermatofibrosarcoma protuberans.  The COL1A1-PDGFB fusion gene is found in more than 90 percent of dermatofibrosarcoma protuberans cases. In the remaining cases, changes in other genes may be associated with this condition. These genes have not been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000280-4" qtype="inheritance">Is dermatofibrosarcoma protuberans inherited ?</Question>
+			<Answer>Dermatofibrosarcoma protuberans results from a new mutation that occurs in the body&apos;s cells after conception and is found only in the tumor cells. This type of genetic change is called a somatic mutation and is generally not inherited.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000280-5" qtype="treatment">What are the treatments for dermatofibrosarcoma protuberans ?</Question>
+			<Answer>These resources address the diagnosis or management of dermatofibrosarcoma protuberans:  - American Cancer Society: How are Soft Tissue Sarcomas Diagnosed?  - American Cancer Society: Treatment of Soft Tissue Sarcomas  - Genetic Testing Registry: Dermatofibrosarcoma protuberans  - National Cancer Institute: Adult Soft Tissue Sarcoma  - National Cancer Institute: Targeted Cancer Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004611" source="GARD" url="https://rarediseases.info.nih.gov/gard/1017/osteogenesis-imperfecta">
+<Focus>Osteogenesis imperfecta</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029434</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>OI</Synonym>
+		<Synonym>Brittle bone disease</Synonym>
+		<Synonym>Vrolik disease</Synonym>
+		<Synonym>Fragilitas ossium</Synonym>
+		<Synonym>Lobstein disease</Synonym>
+		<Synonym>Osteogenesis imperfecta Levin type</Synonym>
+		<Synonym>Osteogenesis imperfecta type I</Synonym>
+		<Synonym>Osteogenesis imperfecta type II</Synonym>
+		<Synonym>Osteogenesis imperfecta type III</Synonym>
+		<Synonym>Osteogenesis imperfecta type IV</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004611-1" qtype="information">What is (are) Osteogenesis imperfecta ?</Question>
+			<Answer>Osteogenesis imperfecta (OI) is a group of genetic disorders that mainly affect the bones. People with this condition have bones that break easily, often from little or no trauma. Severity varies among affected people. Multiple fractures are common, and in severe cases, can even occur before birth. Milder cases may involve only a few fractures over a person&apos;s lifetime. People with OI also have dental problems (dentinogenesis imperfecta) and hearing loss in adulthood. Other features may include muscle weakness, loose joints, and skeletal malformations. There are various recognized forms of OI which are distinguished by their features and genetic causes. Depending on the genetic cause, OI may be inherited in an autosomal dominant (more commonly) or autosomal recessive manner. Treatment is supportive and aims to decrease the number of fractures and disabilities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004611-2" qtype="symptoms">What are the symptoms of Osteogenesis imperfecta ?</Question>
+			<Answer>What are the signs and symptoms of Osteogenesis imperfecta? The Human Phenotype Ontology provides the following list of signs and symptoms for Osteogenesis imperfecta. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of dental color 90% Abnormality of dentin 90% Abnormality of the metaphyses 90% Abnormality of the ribs 90% Abnormality of the tibia 90% Blue sclerae 90% Carious teeth 90% Convex nasal ridge 90% Decreased skull ossification 90% Gait disturbance 90% Intrauterine growth retardation 90% Macrocephaly 90% Pectus carinatum 90% Prominent occiput 90% Abnormal cortical bone morphology 50% Abnormal form of the vertebral bodies 50% Abnormality of the femur 50% Abnormality of the hip bone 50% Genu valgum 50% Glaucoma 50% Hyperhidrosis 50% Joint hypermobility 50% Narrow chest 50% Opacification of the corneal stroma 50% Reduced bone mineral density 50% Scoliosis 50% Slender long bone 50% Triangular face 50% Visual impairment 50% Abnormality of the endocardium 7.5% Hearing impairment 7.5% Kyphosis 7.5% Micromelia 7.5% Pectus excavatum 7.5% Recurrent fractures 7.5% Short stature 7.5% Subcutaneous hemorrhage 7.5% Thrombocytopenia 7.5% Umbilical hernia 7.5% Visceral angiomatosis 7.5% Wormian bones 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004611-3" qtype="causes">What causes Osteogenesis imperfecta ?</Question>
+			<Answer>What causes osteogenesis imperfecta? Osteogenesis imperfecta (OI) may be caused by changes (mutations) in any of several genes. OI is most commonly due to a mutation in either the COL1A1 or COL1A2 gene, causing OI types I through IV. These genes play a role in how the body makes collagen, a material that helps to strengthen the bones. The type and severity of OI depends on the effect that the specific mutation has on normal collagen production. OI caused by mutations in these genes is inherited in an autosomal dominant manner. In about 10% of people with OI, the COL1A1 and COL1A2 genes are normal and the condition is due to mutations in other genes; many of these people have an autosomal recessive form of OI. Other genes in which mutations may be responsible for less common types of OI, some of which have been reported in only one individual or family, include: IFITM5 (type V) SERPINF1 (type VI) CRTAP (type VII) LEPRE1, also called P3H1 (type VIII) PPIB (type IX) SERPINH1 (type X) FKBP10 (type XI) SP7 (type XII) BMP1 (type XIII) TMEM38B (type XIV) WNT1 (type XV) SPARC (type XVII)</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004611-4" qtype="inheritance">Is Osteogenesis imperfecta inherited ?</Question>
+			<Answer>How is osteogenesis imperfecta inherited? Osteogenesis imperfecta (OI) is most commonly inherited in an autosomal dominant manner. This means that having only one changed (mutated) copy of the responsible gene in each cell is enough to cause features of OI. The mutated copy of the gene may be inherited from an affected parent, or it may occur for the first time in an affected person (a de novo mutation). When a person with an autosomal dominant form of OI has children, each child has a 50% (1 in 2) chance of inheriting the mutated gene. If the child inherits the mutated gene, the child&apos;s symptoms may be milder, or more severe, than those of the parent. Less commonly, OI is inherited in an autosomal recessive manner. This means that both copies of the responsible gene in each cell must have a mutation for a person to be affected. The parents of a person with an autosomal recessive condition typically are unaffected, but each carry one mutated copy of the gene. When two carriers of an autosomal recessive form of OI have children, each child has a 25% (1 in 4) chance to be affected, a 50% (1 in 2) chance to be a carrier like each parent, and a 25% chance to be unaffected and not be a carrier.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004611-5" qtype="exams and tests">How to diagnose Osteogenesis imperfecta ?</Question>
+			<Answer>Is genetic testing available for osteogenesis imperfecta? Genetic testing is available for individuals with osteogenesis imperfecta. The rate for detecting mutations in the genes that are responsible for OI varies depending on the type. Carrier testing may be available to relatives of affected individuals if the type of OI, disease-causing gene, and specific mutation in the affected individual are known. Prenatal testing for at-risk pregnancies can be performed by analysis of collagen made by fetal cells obtained by chorionic villus sampling (CVS) at about ten to 12 weeks&apos; gestation if an abnormality of collagen has been identified in cells from the affected individual. Analysis of collagen after an amniocentesis (usually performed at 15-20 weeks gestation) is not useful, because the cells obtained do not produce type I collagen. However, prenatal testing can be performed by analyzing the genes (molecular genetic testing) if the specific mutation has been identified in the affected relative. GeneTests lists the names of laboratories that are performing genetic testing for different types of osteogenesis imperfecta. To view the contact information for the clinical laboratories conducting testing, click here and click on &quot;Testing&quot; next to the type of OI in which you are interested. Please note that most of the laboratories listed through GeneTests do not accept direct contact from patients and their families; therefore, if you are interested in learning more, you will need to work with a health care provider or genetics professional. Genetics professionals, such as genetic counselors, can also explain the inheritance of OI in detail including information about genetic risks to specific family members.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

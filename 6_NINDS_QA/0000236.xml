@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000236" source="NINDS" url="http://www.ninds.nih.gov/disorders/porencephaly/porencephaly.htm">
+<Focus>Porencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714587</CUI>
+			<CUI>C0151860</CUI>
+			<CUI>C1867983</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000236-1" qtype="information">What is (are) Porencephaly ?</Question>
+			<Answer>Porencephaly is an extremely rare disorder of the central nervous system in which a cyst or cavity filled with cerebrospinal fluid develops in the brain. It is usually the result of damage from stroke or infection after birth (the more common type), but it can also be caused by abnormal development before birth (which is inherited and less common). Diagnosis is usually made before an infant reaches his or her first birthday. Symptoms of porencephaly include delayed growth and development, spastic hemiplegia (slight or incomplete paralysis), hypotonia (low muscle tone), seizures (often infantile spasms), and macrocephaly (large head) or microcephaly (small head). Children with porencephaly may have poor or absent speech development, epilepsy, hydrocephalus (accumulation of fluid in the brain), spastic contractures (shrinkage or shortening of the muscles), and cognitive impairment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000236-2" qtype="treatment">What are the treatments for Porencephaly ?</Question>
+			<Answer>Treatment may include physical therapy, medication for seizures, and the placement of a shunt in the brain to remove excess fluid in the brain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000236-3" qtype="outlook">What is the outlook for Porencephaly ?</Question>
+			<Answer>The prognosis for children with porencephaly varies according to the location and extent of the cysts or cavities. Some children with this disorder develop only minor neurological problems and have normal intelligence, while others may be severely disabled and die before their second decade of life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000236-4" qtype="research">what research (or clinical trials) is being done for Porencephaly ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to porencephaly in laboratories at the NIH and also support additional research through grants to major medical institutions across the country. Much of this research explores the complex mechanisms of normal brain development. The knowledge gained from these fundamental studies will provide a foundation for developing ways to prevent porecephaly and the other cephalic disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

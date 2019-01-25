@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000355" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-hypobetalipoproteinemia">
+<Focus>familial hypobetalipoproteinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1862596</CUI>
+			<CUI>C0020597</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FHBL</Synonym>
+		<Synonym>hypobetalipoproteinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000355-1" qtype="information">What is (are) familial hypobetalipoproteinemia ?</Question>
+			<Answer>Familial hypobetalipoproteinemia (FHBL) is a disorder that impairs the body&apos;s ability to absorb and transport fats. This condition is characterized by low levels of a fat-like substance called cholesterol in the blood. The severity of signs and symptoms experienced by people with FHBL vary widely. The most mildly affected individuals have few problems with absorbing fats from the diet and no related signs and symptoms. Many individuals with FHBL develop an abnormal buildup of fats in the liver called hepatic steatosis or fatty liver. In more severely affected individuals, fatty liver may progress to chronic liver disease (cirrhosis). Individuals with severe FHBL have greater difficulty absorbing fats as well as fat-soluble vitamins such as vitamin E and vitamin A. This difficulty in fat absorption leads to excess fat in the feces (steatorrhea). In childhood, these digestive problems can result in an inability to grow or gain weight at the expected rate (failure to thrive).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000355-2" qtype="frequency">How many people are affected by familial hypobetalipoproteinemia ?</Question>
+			<Answer>FHBL is estimated to occur in 1 in 1,000 to 3,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000355-3" qtype="genetic changes">What are the genetic changes related to familial hypobetalipoproteinemia ?</Question>
+			<Answer>Most cases of FHBL are caused by mutations in the APOB gene. This gene provides instructions for making two versions of the apolipoprotein B protein: a short version called apolipoprotein B-48 and a longer version known as apolipoprotein B-100. Both of these proteins are components of lipoproteins, which transport fats and cholesterol in the blood.  Most APOB gene mutations that lead to FHBL cause both versions of apolipoprotein B to be abnormally short. The severity of the condition largely depends on the length of these two versions of apolipoprotein B. Severely shortened versions cannot partner with lipoproteins and transport fats and cholesterol. Proteins that are only slightly shortened retain some function but partner less effectively with lipoproteins. Generally, the signs and symptoms of FHBL are worse if both versions of apolipoprotein B are severely shortened. Mild or no signs and symptoms result when the proteins are only slightly shortened. All of these protein changes lead to a reduction of functional apolipoprotein B. As a result, the transportation of dietary fats and cholesterol is decreased or absent. A decrease in fat transport reduces the body&apos;s ability to absorb fats and fat-soluble vitamins from the diet.  Although APOB gene mutations are responsible for most cases of FHBL, mutations in a few other genes account for a small number of cases. Some people with FHBL do not have identified mutations in any of these genes. Changes in other, unidentified genes are likely involved in this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000355-4" qtype="inheritance">Is familial hypobetalipoproteinemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal codominant pattern. Codominance means that copies of the gene from both parents are active (expressed), and both copies influence the genetic trait. In FHBL, a change in one copy of the APOB gene in each cell can cause the condition, but changes in both copies of the gene cause more severe health problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000355-5" qtype="treatment">What are the treatments for familial hypobetalipoproteinemia ?</Question>
+			<Answer>These resources address the diagnosis or management of familial hypobetalipoproteinemia:  - Genetic Testing Registry: Familial hypobetalipoproteinemia  - Genetic Testing Registry: Hypobetalipoproteinemia, familial, 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

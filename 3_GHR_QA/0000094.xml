@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000094" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-dominant-partial-epilepsy-with-auditory-features">
+<Focus>autosomal dominant partial epilepsy with auditory features</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1838062</CUI>
+			<CUI>C0014547</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ADLTE</Synonym>
+		<Synonym>ADPEAF</Synonym>
+		<Synonym>Autosomal dominant lateral temporal lobe epilepsy</Synonym>
+		<Synonym>Epilepsy, partial, with auditory features</Synonym>
+		<Synonym>ETL1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000094-1" qtype="information">What is (are) autosomal dominant partial epilepsy with auditory features ?</Question>
+			<Answer>Autosomal dominant partial epilepsy with auditory features (ADPEAF) is an uncommon form of epilepsy that runs in families. This disorder causes seizures usually characterized by sound-related (auditory) symptoms such as buzzing, humming, or ringing. Some people experience more complex sounds during a seizure, such as specific voices or music, or changes in the volume of sounds. Some people with ADPEAF suddenly become unable to understand language before losing consciousness during a seizure. This inability to understand speech is known as receptive aphasia. Less commonly, seizures may cause visual hallucinations, a disturbance in the sense of smell, a feeling of dizziness or spinning (vertigo), or other symptoms affecting the senses.  Seizures associated with ADPEAF usually begin in adolescence or young adulthood. They may be triggered by specific sounds, such as a ringing telephone or speech, but in most cases the seizures do not have any recognized triggers. In most affected people, seizures are infrequent and effectively controlled with medication.  Most people with ADPEAF have seizures described as simple partial seizures, which do not cause a loss of consciousness. These seizures are thought to begin in a part of the brain called the lateral temporal lobe. In some people, seizure activity may spread from the lateral temporal lobe to affect other regions of the brain. If seizure activity spreads to affect the entire brain, it causes a loss of consciousness, muscle stiffening, and rhythmic jerking. Episodes that begin as partial seizures and spread throughout the brain are known as secondarily generalized seizures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000094-2" qtype="frequency">How many people are affected by autosomal dominant partial epilepsy with auditory features ?</Question>
+			<Answer>This condition appears to be uncommon, although its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000094-3" qtype="genetic changes">What are the genetic changes related to autosomal dominant partial epilepsy with auditory features ?</Question>
+			<Answer>Mutations in the LGI1 gene cause ADPEAF. This gene provides instructions for making a protein called Lgi1 or epitempin, which is found primarily in nerve cells (neurons) in the brain. Although researchers have proposed several functions for this protein, its precise role in the brain remains uncertain.  Mutations in the LGI1 gene likely disrupt the function of epitempin. It is unclear how the altered protein leads to seizure activity in the brain.  LGI1 mutations have been identified in about half of all families diagnosed with ADPEAF. In the remaining families, the cause of the condition is unknown. Researchers are searching for other genetic changes that may underlie the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000094-4" qtype="inheritance">Is autosomal dominant partial epilepsy with auditory features inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered LGI1 gene in each cell is sufficient to raise the risk of developing epilepsy. About two-thirds of people who inherit a mutation in this gene will develop seizures. In most cases, an affected person has one affected parent and other relatives with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000094-5" qtype="treatment">What are the treatments for autosomal dominant partial epilepsy with auditory features ?</Question>
+			<Answer>These resources address the diagnosis or management of ADPEAF:  - Gene Review: Gene Review: Autosomal Dominant Partial Epilepsy with Auditory Features  - Genetic Testing Registry: Epilepsy, lateral temporal lobe, autosomal dominant  - MedlinePlus Encyclopedia: Partial (Focal) Seizure  - MedlinePlus Encyclopedia: Seizures   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

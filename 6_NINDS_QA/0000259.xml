@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000259" source="NINDS" url="http://www.ninds.nih.gov/disorders/stiffperson/stiffperson.htm">
+<Focus>Stiff-Person Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085292</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000259-1" qtype="information">What is (are) Stiff-Person Syndrome ?</Question>
+			<Answer>Stiff-person syndrome (SPS) is a rare neurological disorder with features of an autoimmune disease. SPS is characterized by fluctuating muscle rigidity in the trunk and limbs and a heightened sensitivity to stimuli such as noise, touch, and emotional distress, which can set off muscle spasms. Abnormal postures, often hunched over and stiffened, are characteristic of the disorder. People with SPS can be too disabled to walk or move, or they are afraid to leave the house because street noises, such as the sound of a horn, can trigger spasms and falls. SPS affects twice as many women as men.  It is frequently associated with other autoimmune diseases such as diabetes, thyroiditis, vitiligo, and pernicious anemia. Scientists dont yet understand what causes SPS, but research indicates that it is the result of an autoimmune response gone awry in the brain and spinal cord. The disorder is often misdiagnosed as Parkinsons disease, multiple sclerosis, fibromyalgia, psychosomatic illness, or anxiety and phobia. A definitive diagnosis can be made with a blood test that measures the level of glutamic acid decarboxylase (GAD) antibodies in the blood. People with SPS have elevated levels of GAD, an antibody that works against an enzyme involved in the synthesis of an important neurotransmitter in the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000259-2" qtype="treatment">What are the treatments for Stiff-Person Syndrome ?</Question>
+			<Answer>People with SPS respond to high doses of diazepam and several anti-convulsants, gabapentin and tiagabine. A recent study funded by the NINDS demonstrated the effectiveness of intravenous immunoglobulin (IVIg) treatment in reducing stiffness and lowering sensitivity to noise, touch, and stress in people with SPS.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000259-3" qtype="outlook">What is the outlook for Stiff-Person Syndrome ?</Question>
+			<Answer>Treatment with IVIg, anti-anxiety drugs, muscle relaxants, anti-convulsants, and pain relievers will improve the symptoms of SPS, but will not cure the disorder. Most individuals with SPS have frequent falls and because they lack the normal defensive reflexes; injuries can be severe. With appropriate treatment, the symptoms are usually well controlled.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000259-4" qtype="research">what research (or clinical trials) is being done for Stiff-Person Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to SPS in its laboratories at the National Institutes of Health (NIH), and also supports additional research through grants to major medical institutions across the country. A study using the drug rituximab proved ineffective in treating individuals with the disorder. Current research is focused on understanding the cause of the disease and the role of the anti-GAD antibodies.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

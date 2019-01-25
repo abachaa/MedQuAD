@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000863" source="GHR" url="https://ghr.nlm.nih.gov/condition/ren-related-kidney-disease">
+<Focus>REN-related kidney disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022658</CUI>
+			<CUI>C2751310</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial juvenile hyperuricemic nephropathy 2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000863-1" qtype="information">What is (are) REN-related kidney disease ?</Question>
+			<Answer>REN-related kidney disease is an inherited condition that affects kidney function. This condition causes slowly progressive kidney disease that usually becomes apparent during childhood. As this condition progresses, the kidneys become less able to filter fluids and waste products from the body, resulting in kidney failure. Individuals with REN-related kidney disease typically require dialysis (to remove wastes from the blood) or a kidney transplant between ages 40 and 70.  People with REN-related kidney disease sometimes have low blood pressure. They may also have mildly increased levels of potassium in their blood (hyperkalemia). In childhood, people with REN-related kidney disease develop a shortage of red blood cells (anemia), which can cause pale skin, weakness, and fatigue. In this disorder, anemia is usually mild and begins to improve during adolescence.  Many individuals with this condition develop high blood levels of a waste product called uric acid. Normally, the kidneys remove uric acid from the blood and transfer it to urine so it can be excreted from the body. In REN-related kidney disease, the kidneys are unable to remove uric acid from the blood effectively. A buildup of uric acid can cause gout, which is a form of arthritis resulting from uric acid crystals in the joints. Individuals with REN-related kidney disease may begin to experience the signs and symptoms of gout during their twenties.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000863-2" qtype="frequency">How many people are affected by REN-related kidney disease ?</Question>
+			<Answer>REN-related kidney disease is a rare condition. At least three families with this condition have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000863-3" qtype="genetic changes">What are the genetic changes related to REN-related kidney disease ?</Question>
+			<Answer>Mutations in the REN gene cause REN-related kidney disease. This gene provides instructions for making a protein called renin that is produced in the kidneys. Renin plays an important role in regulating blood pressure and water levels in the body.  Mutations in the REN gene that cause REN-related kidney disease result in the production of an abnormal protein that is toxic to the cells that normally produce renin. These kidney cells gradually die off, which causes progressive kidney disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000863-4" qtype="inheritance">Is REN-related kidney disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000863-5" qtype="treatment">What are the treatments for REN-related kidney disease ?</Question>
+			<Answer>These resources address the diagnosis or management of REN-related kidney disease:  - Gene Review: Gene Review: Autosomal Dominant Tubulointerstitial Kidney Disease, REN-Related (ADTKD-REN)  - Genetic Testing Registry: Hyperuricemic nephropathy, familial juvenile, 2  - MedlinePlus Encyclopedia: Hyperkalemia  - MedlinePlus Encyclopedia: Renin   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005330" source="GARD" url="https://rarediseases.info.nih.gov/gard/1217/retinal-vasculopathy-with-cerebral-leukodystrophy">
+<Focus>Retinal vasculopathy with cerebral leukodystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023520</CUI>
+			<CUI>C2674995</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cerebroretinal vasculopathy, hereditary</Synonym>
+		<Synonym>CRV</Synonym>
+		<Synonym>Retinopathy, vascular, with cerebral and renal involvement and Raynaud and migraine phenomena</Synonym>
+		<Synonym>RVCL</Synonym>
+		<Synonym>Autosomal Dominant Retinal Vasculopathy with Cerebral Leukodystrophy</Synonym>
+		<Synonym>Hereditary endotheliopathy, retinopathy, nephropathy, and stroke</Synonym>
+		<Synonym>Hereditary vascular retinopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005330-1" qtype="information">What is (are) Retinal vasculopathy with cerebral leukodystrophy ?</Question>
+			<Answer>Retinal vasculopathy with cerebral leukodystrophy (RVCL) is a rare, genetic condition that primarily affects the central nervous system. Symptoms begin in adulthood (usually in the 40s) and may include loss of vision, mini-strokes, and dementia. Death can sometimes occur within 10 years of the first symptoms appearing. RVCL is inherited in an autosomal dominant manner and is caused by mutations in the TREX1 gene. Treatments currently aim to manage or alleviate the symptoms rather than treating the underlying cause. RVCL is now considered to include the following 3 conditions which were previously thought to be distinct: hereditary endotheliopathy, retinopathy, nephropathy, and stroke (HERNS); cerebroretinal vasculopathy (CRV); and hereditary vascular retinopathy (HVR).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005330-2" qtype="symptoms">What are the symptoms of Retinal vasculopathy with cerebral leukodystrophy ?</Question>
+			<Answer>What are the signs and symptoms of Retinal vasculopathy with cerebral leukodystrophy? The Human Phenotype Ontology provides the following list of signs and symptoms for Retinal vasculopathy with cerebral leukodystrophy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the retinal vasculature 90% Visual impairment 90% Abnormality of movement 50% Behavioral abnormality 50% Cerebral ischemia 50% Developmental regression 50% Hematuria 50% Hemiplegia/hemiparesis 50% Migraine 50% Nephropathy 50% Neurological speech impairment 50% Proteinuria 50% Retinopathy 50% Seizures 50% Cataract 7.5% Glaucoma 7.5% Incoordination 7.5% Micronodular cirrhosis 5% Abnormality of the musculature of the lower limbs - Abnormality of the periventricular white matter - Adult onset - Apraxia - Autosomal dominant inheritance - Central nervous system degeneration - Dementia - Dysarthria - Elevated erythrocyte sedimentation rate - Elevated hepatic transaminases - Hemiparesis - Limb pain - Lower limb hyperreflexia - Macular edema - Pigmentary retinal degeneration - Progressive - Progressive forgetfulness - Progressive visual loss - Punctate vasculitis skin lesions - Retinal exudate - Retinal hemorrhage - Stroke - Telangiectasia - Vasculitis in the skin - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

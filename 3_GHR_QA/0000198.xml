@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000198" source="GHR" url="https://ghr.nlm.nih.gov/condition/cohen-syndrome">
+<Focus>Cohen syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265223</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hypotonia, obesity, and prominent incisors</Synonym>
+		<Synonym>Norio syndrome</Synonym>
+		<Synonym>obesity-hypotonia syndrome</Synonym>
+		<Synonym>Pepper syndrome</Synonym>
+		<Synonym>prominent incisors-obesity-hypotonia syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000198-1" qtype="information">What is (are) Cohen syndrome ?</Question>
+			<Answer>Cohen syndrome is an inherited disorder that affects many parts of the body and is characterized by developmental delay, intellectual disability, small head size (microcephaly), and weak muscle tone (hypotonia). Other features include progressive nearsightedness (myopia), degeneration of the light-sensitive tissue at the back of the eye (retinal dystrophy), an unusually large range of joint movement (hypermobility), and distinctive facial features. Characteristic facial features include thick hair and eyebrows, long eyelashes, unusually-shaped eyes (down-slanting and wave-shaped), a bulbous nasal tip, a smooth or shortened area between the nose and the upper lip (philtrum), and prominent upper central teeth. The combination of the last two facial features results in an open-mouth appearance.  The features of Cohen syndrome vary widely among affected individuals. Additional signs and symptoms in some individuals with this disorder include low levels of white blood cells (neutropenia), overly friendly behavior, and obesity that develops in late childhood or adolescence. When obesity is present, it typically develops around the torso, with the arms and legs remaining slender. Individuals with Cohen syndrome may also have narrow hands and feet, and slender fingers.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000198-2" qtype="frequency">How many people are affected by Cohen syndrome ?</Question>
+			<Answer>The exact incidence of Cohen syndrome is unknown. It has been diagnosed in fewer than 1,000 people worldwide. More cases are likely undiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000198-3" qtype="genetic changes">What are the genetic changes related to Cohen syndrome ?</Question>
+			<Answer>Mutations in the VPS13B gene (frequently called the COH1 gene) cause Cohen syndrome. The function of the protein produced from the VPS13B gene is unknown; however, researchers suggest it may be involved in sorting and transporting proteins inside the cell. Most mutations in the VPS13B gene are believed to prevent cells from producing a functional VPS13B protein. It is unclear how loss of functional VPS13B protein leads to the signs and symptoms of Cohen syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000198-4" qtype="inheritance">Is Cohen syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000198-5" qtype="treatment">What are the treatments for Cohen syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Cohen syndrome:  - Gene Review: Gene Review: Cohen Syndrome  - Genetic Testing Registry: Cohen syndrome  - MedlinePlus Encyclopedia: Hypotonia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

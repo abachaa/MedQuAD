@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000895" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/tinnitus.html">
+<Focus>Tinnitus</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040264</CUI>
+			<CUI>C1963249</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000895-1" qtype="information">What is (are) Tinnitus ?</Question>
+			<Answer>Tinnitus is often described as a ringing in the ears. It also can sound like roaring, clicking, hissing, or buzzing. It may be soft or loud, high pitched or low pitched. You might hear it in either one or both ears.    Millions of Americans have tinnitus. People with severe tinnitus may have trouble hearing, working or even sleeping.    Causes of tinnitus include       - Hearing loss in older people    - Exposure to loud noises    - Ear and sinus infections    - Heart or blood vessel problems    - Meniere&apos;s disease    - Brain tumors    - Hormonal changes in women    - Thyroid problems    - Certain medicines       Treatment depends on the cause. Treatments may include hearing aids, sound-masking devices, medicines, and ways to learn how to cope with the noise.    NIH: National Institute on Deafness and Other Communication Disorders</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

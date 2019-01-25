@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000021" source="NINDS" url="http://www.ninds.nih.gov/disorders/angelman/angelman.htm">
+<Focus>Angelman Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162635</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000021-1" qtype="information">What is (are) Angelman Syndrome ?</Question>
+			<Answer>Angelman syndrome is a genetic disorder that causes developmental delay and neurological problems. The physician Harry Angelman first delineated the syndrome in 1965, when he described several children in his practice as having &quot;flat heads, jerky movements, protruding tongues, and bouts of laughter.&quot; Infants with Angelman syndrome appear normal at birth, but often have feeding problems in the first months of life and exhibit noticeable developmental delays by 6 to 12 months. Seizures often begin between 2 and 3 years of age. Speech impairment is pronounced, with little to no use of words. Individuals with this syndrome often display hyperactivity, small head size, sleep disorders, and movement and balance disorders that can cause severe functional deficits. Angelman syndrome results from absence of a functional copy of the UBE3A gene inherited from the mother.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000021-2" qtype="treatment">What are the treatments for Angelman Syndrome ?</Question>
+			<Answer>There is no specific therapy for Angelman syndrome. Medical therapy for seizures is usually necessary. Physical and occupational therapies, communication therapy, and behavioral therapies are important in allowing individuals with Angelman syndrome to reach their maximum developmental potential.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000021-3" qtype="outlook">What is the outlook for Angelman Syndrome ?</Question>
+			<Answer>Most individuals with Angelman syndrome will have severe developmental delays, speech limitations, and motor difficulties. However, individuals with Angelman syndrome can have normal life spans and generally do not show developmental regression as they age. Early diagnosis and tailored interventions and therapies help improve quality of life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000021-4" qtype="research">what research (or clinical trials) is being done for Angelman Syndrome ?</Question>
+			<Answer>The NINDS supports and conducts research on neurogenetic disorders such as Angelman syndrome, to develop techniques to diagnose, treat, prevent, and ultimately cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

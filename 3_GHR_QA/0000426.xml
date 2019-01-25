@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000426" source="GHR" url="https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-v">
+<Focus>glycogen storage disease type V</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0267971</CUI>
+			<CUI>C0017924</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>glycogen storage disease type 5</Synonym>
+		<Synonym>glycogenosis 5</Synonym>
+		<Synonym>GSD type V</Synonym>
+		<Synonym>GSD V</Synonym>
+		<Synonym>McArdle disease</Synonym>
+		<Synonym>McArdle syndrome</Synonym>
+		<Synonym>McArdle type glycogen storage disease</Synonym>
+		<Synonym>McArdle's disease</Synonym>
+		<Synonym>muscle glycogen phosphorylase deficiency</Synonym>
+		<Synonym>muscle phosphorylase deficiency</Synonym>
+		<Synonym>myophosphorylase deficiency</Synonym>
+		<Synonym>PYGM deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000426-1" qtype="information">What is (are) glycogen storage disease type V ?</Question>
+			<Answer>Glycogen storage disease type V (also known as GSDV or McArdle disease) is an inherited disorder caused by an inability to break down a complex sugar called glycogen in muscle cells. A lack of glycogen breakdown interferes with the function of muscle cells.  People with GSDV typically experience fatigue, muscle pain, and cramps during the first few minutes of exercise (exercise intolerance). Exercise such as weight lifting or jogging usually triggers these symptoms in affected individuals. The discomfort is generally alleviated with rest. If individuals rest after brief exercise and wait for their pain to go away, they can usually resume exercising with little or no discomfort (a characteristic phenomenon known as &quot;second wind&quot;).  Prolonged or intense exercise can cause muscle damage in people with GSDV. About half of people with GSDV experience breakdown of muscle tissue (rhabdomyolysis). In severe episodes, the destruction of muscle tissue releases a protein called myoglobin, which is filtered through the kidneys and released in the urine (myoglobinuria). Myoglobin causes the urine to be red or brown. This protein can also damage the kidneys, and it is estimated that half of those individuals with GSDV who have myoglobinuria will develop life-threatening kidney failure.  The signs and symptoms of GSDV can vary significantly in affected individuals. The features of this condition typically begin in a person&apos;s teens or twenties, but they can appear anytime from infancy to adulthood. In most people with GSDV, the muscle weakness worsens over time; however, in about one-third of affected individuals, the muscle weakness is stable. Some people with GSDV experience mild symptoms such as poor stamina; others do not experience any symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000426-2" qtype="frequency">How many people are affected by glycogen storage disease type V ?</Question>
+			<Answer>GSDV is a rare disorder; however, its prevalence is unknown. In the Dallas-Fort Worth area of Texas, where the prevalence of GSDV has been studied, the condition is estimated to affect 1 in 100,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000426-3" qtype="genetic changes">What are the genetic changes related to glycogen storage disease type V ?</Question>
+			<Answer>Mutations in the PYGM gene cause GSDV. The PYGM gene provides instructions for making an enzyme called myophosphorylase. This enzyme is found only in muscle cells, where it breaks down glycogen into a simpler sugar called glucose-1-phosphate. Additional steps convert glucose-1-phosphate into glucose, a simple sugar that is the main energy source for most cells.  PYGM gene mutations prevent myophosphorylase from breaking down glycogen effectively. As a result, muscle cells cannot produce enough energy, so muscles become easily fatigued. Reduced energy production in muscle cells leads to the major features of GSDV.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000426-4" qtype="inheritance">Is glycogen storage disease type V inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000426-5" qtype="treatment">What are the treatments for glycogen storage disease type V ?</Question>
+			<Answer>These resources address the diagnosis or management of glycogen storage disease type V:  - Gene Review: Gene Review: Glycogen Storage Disease Type V  - Genetic Testing Registry: Glycogen storage disease, type V  - MedlinePlus Encyclopedia: McArdle syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

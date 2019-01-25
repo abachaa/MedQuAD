@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000891" source="GHR" url="https://ghr.nlm.nih.gov/condition/sandhoff-disease">
+<Focus>Sandhoff disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036161</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Beta-hexosaminidase-beta-subunit deficiency</Synonym>
+		<Synonym>GM2 gangliosidosis, type 2</Synonym>
+		<Synonym>GM2 Gangliosidosis, Type II</Synonym>
+		<Synonym>Hexosaminidase A and B Deficiency Disease</Synonym>
+		<Synonym>Sandhoff-Jatzkewitz-Pilz disease</Synonym>
+		<Synonym>Total hexosaminidase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000891-1" qtype="information">What is (are) Sandhoff disease ?</Question>
+			<Answer>Sandhoff disease is a rare inherited disorder that progressively destroys nerve cells (neurons) in the brain and spinal cord.  The most common and severe form of Sandhoff disease becomes apparent in infancy. Infants with this disorder typically appear normal until the age of 3 to 6 months, when their development slows and muscles used for movement weaken. Affected infants lose motor skills such as turning over, sitting, and crawling. They also develop an exaggerated startle reaction to loud noises. As the disease progresses, children with Sandhoff disease experience seizures, vision and hearing loss, intellectual disability, and paralysis. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. Some affected children also have enlarged organs (organomegaly) or bone abnormalities. Children with the severe infantile form of Sandhoff disease usually live only into early childhood.  Other forms of Sandhoff disease are very rare. Signs and symptoms can begin in childhood, adolescence, or adulthood and are usually milder than those seen with the infantile form. Characteristic features include muscle weakness, loss of muscle coordination (ataxia) and other problems with movement, speech problems, and mental illness. These signs and symptoms vary widely among people with late-onset forms of Sandhoff disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000891-2" qtype="frequency">How many people are affected by Sandhoff disease ?</Question>
+			<Answer>Sandhoff disease is a rare disorder; its frequency varies among populations. This condition appears to be more common in the Creole population of northern Argentina; the Metis Indians in Saskatchewan, Canada; and people from Lebanon.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000891-3" qtype="genetic changes">What are the genetic changes related to Sandhoff disease ?</Question>
+			<Answer>Mutations in the HEXB gene cause Sandhoff disease. The HEXB gene provides instructions for making a protein that is part of two critical enzymes in the nervous system, beta-hexosaminidase A and beta-hexosaminidase B. These enzymes are located in lysosomes, which are structures in cells that break down toxic substances and act as recycling centers. Within lysosomes, these enzymes break down fatty substances, complex sugars, and molecules that are linked to sugars. In particular, beta-hexosaminidase A helps break down a fatty substance called GM2 ganglioside.  Mutations in the HEXB gene disrupt the activity of beta-hexosaminidase A and beta-hexosaminidase B, which prevents these enzymes from breaking down GM2 ganglioside and other molecules. As a result, these compounds can accumulate to toxic levels, particularly in neurons of the brain and spinal cord. A buildup of GM2 ganglioside leads to the progressive destruction of these neurons, which causes many of the signs and symptoms of Sandhoff disease.  Because Sandhoff disease impairs the function of lysosomal enzymes and involves the buildup of GM2 ganglioside, this condition is sometimes referred to as a lysosomal storage disorder or a GM2-gangliosidosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000891-4" qtype="inheritance">Is Sandhoff disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000891-5" qtype="treatment">What are the treatments for Sandhoff disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Sandhoff disease:  - Genetic Testing Registry: Sandhoff disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

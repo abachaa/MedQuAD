@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000806" source="GHR" url="https://ghr.nlm.nih.gov/condition/polycythemia-vera">
+<Focus>polycythemia vera</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032463</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Osler-Vaquez disease</Synonym>
+		<Synonym>polycythemia ruba vera</Synonym>
+		<Synonym>primary polycythemia</Synonym>
+		<Synonym>PRV</Synonym>
+		<Synonym>PV</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000806-1" qtype="information">What is (are) polycythemia vera ?</Question>
+			<Answer>Polycythemia vera is a condition characterized by an increased number of red blood cells in the bloodstream. Affected individuals may also have excess white blood cells and blood clotting cells called platelets. These extra cells cause the blood to be thicker than normal. As a result, abnormal blood clots are more likely to form and block the flow of blood through arteries and veins. Individuals with polycythemia vera have an increased risk of deep vein thrombosis (DVT), a type of blood clot that occurs in the deep veins of the arms or legs. If a DVT travels through the bloodstream and lodges in the lungs, it can cause a life-threatening clot known as a pulmonary embolism (PE). Affected individuals also have an increased risk of heart attack and stroke caused by blood clots in the heart and brain.  Polycythemia vera typically develops in adulthood, around age 60, although in rare cases it occurs in children and young adults. This condition may not cause any symptoms in its early stages. Some people with polycythemia vera experience headaches, dizziness, ringing in the ears (tinnitus), impaired vision, or itchy skin. Affected individuals frequently have reddened skin because of the extra red blood cells. Other complications of polycythemia vera include an enlarged spleen (splenomegaly), stomach ulcers, gout (a form of arthritis caused by a buildup of uric acid in the joints), heart disease, and cancer of blood-forming cells (leukemia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000806-2" qtype="frequency">How many people are affected by polycythemia vera ?</Question>
+			<Answer>The prevalence of polycythemia vera varies worldwide. The condition affects an estimated 44 to 57 per 100,000 individuals in the United States. For unknown reasons, men develop polycythemia vera more frequently than women.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000806-3" qtype="genetic changes">What are the genetic changes related to polycythemia vera ?</Question>
+			<Answer>Mutations in the JAK2 and TET2 genes are associated with polycythemia vera. Although it remains unclear exactly what initiates polycythemia vera, researchers believe that it begins when mutations occur in the DNA of a hematopoietic stem cell. These stem cells are located in the bone marrow and have the potential to develop into red blood cells, white blood cells, and platelets. JAK2 gene mutations seem to be particularly important for the development of polycythemia vera, as nearly all affected individuals have a mutation in this gene. The JAK2 gene provides instructions for making a protein that promotes the growth and division (proliferation) of cells. The JAK2 protein is especially important for controlling the production of blood cells from hematopoietic stem cells.  JAK2 gene mutations result in the production of a JAK2 protein that is constantly turned on (constitutively activated), which increases production of blood cells and prolongs their survival. With so many extra cells in the bloodstream, abnormal blood clots are more likely to form. Thicker blood also flows more slowly throughout the body, which prevents organs from receiving enough oxygen. Many of the signs and symptoms of polycythemia vera are related to a shortage of oxygen in body tissues.  The function of the TET2 gene is unknown. Although mutations in the TET2 gene have been found in approximately 16 percent of people with polycythemia vera, it is unclear what role these mutations play in the development of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000806-4" qtype="inheritance">Is polycythemia vera inherited ?</Question>
+			<Answer>Most cases of polycythemia vera are not inherited. This condition is associated with genetic changes that are somatic, which means they are acquired during a person&apos;s lifetime and are present only in certain cells.  In rare instances, polycythemia vera has been found to run in families. In some of these families, the risk of developing polycythemia vera appears to have an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means that one copy of an altered gene in each cell is sufficient to increase the risk of developing polycythemia vera, although the cause of this condition in familial cases is unknown. In these families, people seem to inherit an increased risk of polycythemia vera, not the disease itself.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000806-5" qtype="treatment">What are the treatments for polycythemia vera ?</Question>
+			<Answer>These resources address the diagnosis or management of polycythemia vera:  - Genetic Testing Registry: Polycythemia vera  - MPN Research Foundation: Diagnosis  - MedlinePlus Encyclopedia: Polycythemia Vera   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

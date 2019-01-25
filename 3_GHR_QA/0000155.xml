@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000155" source="GHR" url="https://ghr.nlm.nih.gov/condition/carnitine-acylcarnitine-translocase-deficiency">
+<Focus>carnitine-acylcarnitine translocase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342791</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CACT deficiency</Synonym>
+		<Synonym>carnitine-acylcarnitine carrier deficiency</Synonym>
+		<Synonym>carnitine acylcarnitine translocase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000155-1" qtype="information">What is (are) carnitine-acylcarnitine translocase deficiency ?</Question>
+			<Answer>Carnitine-acylcarnitine translocase (CACT) deficiency is a condition that prevents the body from using certain fats for energy, particularly during periods without food (fasting). Signs and symptoms of this disorder usually begin soon after birth and may include breathing problems, seizures, and an irregular heartbeat (arrhythmia). Affected individuals typically have low blood sugar (hypoglycemia) and a low level of ketones, which are produced during the breakdown of fats and used for energy. Together these signs are called hypoketotic hypoglycemia. People with CACT deficiency also usually have excess ammonia in the blood (hyperammonemia), an enlarged liver (hepatomegaly), and a weakened heart muscle (cardiomyopathy).  Many infants with CACT deficiency do not survive the newborn period. Some affected individuals have a less severe form of the condition and do not develop signs and symptoms until early childhood. These individuals are at risk for liver failure, nervous system damage, coma, and sudden death.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000155-2" qtype="frequency">How many people are affected by carnitine-acylcarnitine translocase deficiency ?</Question>
+			<Answer>CACT deficiency is very rare; at least 30 cases have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000155-3" qtype="genetic changes">What are the genetic changes related to carnitine-acylcarnitine translocase deficiency ?</Question>
+			<Answer>Mutations in the SLC25A20 gene cause CACT deficiency. This gene provides instructions for making a protein called carnitine-acylcarnitine translocase (CACT). This protein is essential for fatty acid oxidation, a multistep process that breaks down (metabolizes) fats and converts them into energy. Fatty acid oxidation takes place within mitochondria, which are the energy-producing centers in cells. A group of fats called long-chain fatty acids must be attached to a substance known as carnitine to enter mitochondria. Once these fatty acids are joined with carnitine, the CACT protein transports them into mitochondria. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.  Although mutations in the SLC25A20 gene change the structure of the CACT protein in different ways, they all lead to a shortage (deficiency) of the transporter. Without enough functional CACT protein, long-chain fatty acids cannot be transported into mitochondria. As a result, these fatty acids are not converted to energy. Reduced energy production can lead to some of the features of CACT deficiency, such as hypoketotic hypoglycemia. Fatty acids and long-chain acylcarnitines (fatty acids still attached to carnitine) may also build up in cells and damage the liver, heart, and muscles. This abnormal buildup causes the other signs and symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000155-4" qtype="inheritance">Is carnitine-acylcarnitine translocase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000155-5" qtype="treatment">What are the treatments for carnitine-acylcarnitine translocase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of CACT deficiency:  - Baby&apos;s First Test  - FOD (Fatty Oxidation Disorders) Family Support Group: Diagnostic Approach to Disorders of Fat Oxidation - Information for Clinicians  - Genetic Testing Registry: Carnitine acylcarnitine translocase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

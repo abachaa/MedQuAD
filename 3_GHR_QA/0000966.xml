@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000966" source="GHR" url="https://ghr.nlm.nih.gov/condition/systemic-lupus-erythematosus">
+<Focus>systemic lupus erythematosus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024141</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>disseminated lupus erythematosus</Synonym>
+		<Synonym>LE syndrome</Synonym>
+		<Synonym>Libman-Sacks disease</Synonym>
+		<Synonym>lupus</Synonym>
+		<Synonym>SLE</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000966-1" qtype="information">What is (are) systemic lupus erythematosus ?</Question>
+			<Answer>Systemic lupus erythematosus (SLE) is a chronic disease that causes inflammation in connective tissues, such as cartilage and the lining of blood vessels, which provide strength and flexibility to structures throughout the body. The signs and symptoms of SLE vary among affected individuals, and can involve many organs and systems, including the skin, joints, kidneys, lungs, central nervous system, and blood-forming (hematopoietic) system. SLE is one of a large group of conditions called autoimmune disorders that occur when the immune system attacks the body&apos;s own tissues and organs.  SLE may first appear as extreme tiredness (fatigue), a vague feeling of discomfort or illness (malaise), fever, loss of appetite, and weight loss. Most affected individuals also have joint pain, typically affecting the same joints on both sides of the body, and muscle pain and weakness. Skin problems are common in SLE. A characteristic feature is a flat red rash across the cheeks and bridge of the nose, called a &quot;butterfly rash&quot; because of its shape. The rash, which generally does not hurt or itch, often appears or becomes more pronounced when exposed to sunlight. Other skin problems that may occur in SLE include calcium deposits under the skin (calcinosis), damaged blood vessels (vasculitis) in the skin, and tiny red spots called petechiae. Petechiae are caused by a shortage of blood clotting cells called platelets that leads to bleeding under the skin. Affected individuals may also have hair loss (alopecia) and open sores (ulcerations) in the moist lining (mucosae) of the mouth, nose, or, less commonly, the genitals.  About a third of people with SLE develop kidney disease (nephritis). Heart problems may also occur in SLE, including inflammation of the sac-like membrane around the heart (pericarditis) and abnormalities of the heart valves, which control blood flow in the heart. Heart disease caused by fatty buildup in the blood vessels (atherosclerosis), which is very common in the general population, is even more common in people with SLE. The inflammation characteristic of SLE can also damage the nervous system, and may result in abnormal sensation and weakness in the limbs (peripheral neuropathy); seizures; stroke; and difficulty processing, learning, and remembering information (cognitive impairment). Anxiety and depression are also common in SLE.  People with SLE have episodes in which the condition gets worse (exacerbations) and other times when it gets better (remissions). Overall, SLE gradually gets worse over time, and damage to the major organs of the body can be life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000966-2" qtype="frequency">How many people are affected by systemic lupus erythematosus ?</Question>
+			<Answer>For unknown reasons, in industrialized Western countries SLE has become 10 times more common over the past 50 years. While estimates of its prevalence vary, SLE is believed to affect 14.6 to 68 per 100,000 people in the United States, with females developing SLE more often than males. It is most common in younger women; however, 20 percent of SLE cases occur in people over age 50. Because many of the signs and symptoms of SLE resemble those of other disorders, diagnosis may be delayed for years, and the condition may never be diagnosed in some affected individuals.  In industrialized Western countries, people of African and Asian descent are two to four times more likely to develop SLE than are people of European descent. However, while the prevalence of SLE in Africa and Asia is unknown, it is believed to be much lower than in Western nations. Researchers suggest that factors such as ethnic mixing, tobacco use in industrialized countries, and the different types of infections people acquire in different regions may help account for the discrepancy. For example malaria, which occurs often in tropical regions, is thought to be protective against SLE, while the Epstein-Barr virus, more common in the West, increases SLE risk.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000966-3" qtype="genetic changes">What are the genetic changes related to systemic lupus erythematosus ?</Question>
+			<Answer>Normal variations (polymorphisms) in many genes can affect the risk of developing SLE, and in most cases multiple genetic factors are thought to be involved. In rare cases, SLE is caused by mutations in single genes. Most of the genes associated with SLE are involved in immune system function, and variations in these genes likely affect proper targeting and control of the immune response. Sex hormones and a variety of environmental factors including viral infections, diet, stress, chemical exposures, and sunlight are also thought to play a role in triggering this complex disorder. About 10 percent of SLE cases are thought to be triggered by drug exposure, and more than 80 drugs that may be involved have been identified.  In people with SLE, cells that have undergone self-destruction (apoptosis) because they are damaged or no longer needed are not cleared away properly. The relationship of this loss of function to the cause or features of SLE is unclear. Researchers suggest that these dead cells may release substances that cause the immune system to react inappropriately and attack the body&apos;s tissues, resulting in the signs and symptoms of SLE.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000966-4" qtype="inheritance">Is systemic lupus erythematosus inherited ?</Question>
+			<Answer>SLE and other autoimmune disorders tend to run in families, but the inheritance pattern is usually unknown. People may inherit a gene variation that increases or decreases the risk of SLE, but in most cases do not inherit the condition itself. Not all people with SLE have a gene variation that increases the risk, and not all people with such a gene variation will develop the disorder.  In rare cases, SLE can be inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000966-5" qtype="treatment">What are the treatments for systemic lupus erythematosus ?</Question>
+			<Answer>These resources address the diagnosis or management of systemic lupus erythematosus:  - MedlinePlus Encyclopedia: Antinuclear Antibody Panel   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

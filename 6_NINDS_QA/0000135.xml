@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000135" source="NINDS" url="http://www.ninds.nih.gov/disorders/gangliosidoses/Gangliosidoses.htm">
+<Focus>Generalized Gangliosidoses</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017083</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000135-1" qtype="information">What is (are) Generalized Gangliosidoses ?</Question>
+			<Answer>The gangliosidoses are a group of inherited metabolic diseases caused by a deficiency of the different proteins needed to break down fatty substances called lipids. Excess buildup of these fatty materials (oils, waxes, steroids, and other compounds) can cause permanent damage in the cells and tissues in the brain and nervous systems, particularly in nerve cells. There are two distinct groups of the gangliosidoses, which affect males and females equally.
+                
+The GM1 gangliosidoses are caused by a deficiency of the enzyme beta-galactosidase. Signs of early infantile GM1 gangliodisosis (the most severe subtype, with onset shortly after birth) may include neurodegeneration, seizures, liver and spleen enlargement, coarsening of facial features, skeletal irregularities, joint stiffness, distended abdomen, muscle weakness, exaggerated startle response, and problems with gait. About half of affected persons develop cherry-red spots in the eye. Children may be deaf and blind by age 1.Onset of late infantile GM1 gangliosidosisis typically between ages 1 and 3 years. Signs include an inability to control movement, seizures, dementia, and difficulties with speech. Adult GM1 gangliosidosis strikes between ages 3 and 30, with symptoms that include the wasting away of muscles, cloudiness in the corneas, and dystonia (sustained moscle contractions that case twisting and repetitive movements or abnormal postures). Non-cancerous skin blemishes may develop on the lower part of the trunk of the body. Adult GM1 is usually less severe and progresses more slowly than other forms of the disorder.
+                
+The GM2 gangliosidoses include Tay-Sachs disease and its more severe form, called Sandhoff disease, both of whichresult from a deficiency of the enzyme beta-hexosaminidase. Symptoms begin by age 6 months and include progressive mental deterioration, cherry-red spots in the retina, marked startle reflex, and seizures. Children with Tay-Sachs may also have dementia, progressive loss of hearing, some paralysis, and difficulty in swallowing that may require a feeding tube. A rarer form of the disorder, which occurs in individuals in their twenties and early thirties, is characterized by an unsteady gait and progressive neurological deterioration. Additional signs of Sandhoff disease include weakness in nerve signaling that causes muscles to contract, early blindness, spasticity, muscle contractions, an abnormally enlarged head, and an enlarged liver and spleen.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000135-2" qtype="treatment">What are the treatments for Generalized Gangliosidoses ?</Question>
+			<Answer>No specific treatment exists for the gangliosidoses. Anticonvulsants may initially control seizures. Other supportive treatment includes proper nutrition and hydration and keeping the airway open.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000135-3" qtype="outlook">What is the outlook for Generalized Gangliosidoses ?</Question>
+			<Answer>Children with early infantile GM1 often die by age 3 from cardiac complications or pneumonia. Children with the early-onset form of Tay-Sachs disease may eventually need a feeding tube and often die by age 4 from recurring infection. Children with Sandhoff disease generally die by age 3 from respiratory infections.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000135-4" qtype="research">what research (or clinical trials) is being done for Generalized Gangliosidoses ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS is a part of the National Institutes of Health (NIH), the largest supporter of biomedical research in the world. Scientists are studying the mechanisms by which the lipids accumulating in these disorders cause harm to the body. NINDS-funded research on the gangliosidoses also includes using variations of magnetic resonance imaging to develop a biomarker (a sign that may indicate risk of a disease and improve diagnosis) to effectively evaluate brain chemistry and disease progression, and expanding the use of virus-delivered gene therapy seen in an animal model of Tay-Sachs and Sandhoff diseases for use in humans.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

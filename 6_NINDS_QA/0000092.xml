@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000092" source="NINDS" url="http://www.ninds.nih.gov/disorders/cytomegalic/cytomegalic.htm">
+<Focus>Neurological Consequences of Cytomegalovirus Infection</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010823</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000092-1" qtype="information">What is (are) Neurological Consequences of Cytomegalovirus Infection ?</Question>
+			<Answer>Cytomegalovirus (CMV) is a virus found throughout the world that infects between 50 to 80 percent of all adults in the United States by the age of 40. CMV is in the same family of viruses that causes cold sores (herpes simplex virus), infectious mononucleosis (Epstein-Barr virus), and chickenpox/shingles (varicella zoster virus).  Most people who acquire CVM as children or adults display no signs of illness or have mild symptoms such as fever, fatigue, or tender lymph nodes. People with a compromised immune system may have more severe forms of infection involving the nervous system.
+                
+A hallmark of CMV infection is that the virus cycles through periods of dormancy and active infection during the life of the individual Infected persons of any age periodically shed the virus in their body fluids, such as saliva, urine, blood, tears, semen, or breast milk. CMV is most commonly transmitted when infected body fluids come in contact with the mucous membranes of an uninfected person, but the virus can also pass from mother to fetus during pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000092-2" qtype="treatment">What are the treatments for Neurological Consequences of Cytomegalovirus Infection ?</Question>
+			<Answer>Since the virus remains in the person for life, there is no treatment to eliminate CMV infection. However, minimizing contact with infected body fluids can decrease the risk of viral transmission between individuals or from mother to fetus. Contact can be minimized by using gloves or other protective barriers when handling body fluids or contaminated materials (such as diapers or tissues), avoiding shared dishes, utensils, and other personal items, and consistent and thorough hand-washing. 
+                
+Antiviral drugs (ganciclovir and others)can be used to prevent or control the symptoms of CMV infection in immunocompromised individuals or some infants with congenital infection. CMV immunoglobulin may also be used in some patients. Vaccines are in the development and human clinical trial stages, which shows that vaccines may help prevent initial CMV infection or decrease the severity of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000092-3" qtype="outlook">What is the outlook for Neurological Consequences of Cytomegalovirus Infection ?</Question>
+			<Answer>For most people CMV infection is not a problem. However, two groups of people are at high risk of neurological or other severe symptoms that may lead to long-term effects:
+                
+- Unborn infants whose mothers have CMV infection. CMVis the most common congenital infection in the U.S. Most infants will have no permanent health consequences, but a small number will have at birth or will develop long-term neurological conditions, such as hearing loss, visual impairment, seizures, or disabilities f mental or physical function. The highest risk of these severe effects on the fetus is for women who acquire CMV infection for the first time during pregnancy. The risk is much lower for women who have had CMV infection in the past before pregnancy. - Immunocompromised individuals. CMV infection may be severe in solid organ or blood cell transplant recipients, people with untreated or end-stage HIV-AIDS, or others with altered immune function. Infection may affect the brain (encephalitis), spinal cord (myelitis), eye (retinitis), or other organs such as the lungs (pneumonia) or intestinal gract (gastritis, enteritis, or colitis). In addition, transplant recipients may develop organ rejection or graft-versus-host disease associated with CMV infection.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000092-4" qtype="research">what research (or clinical trials) is being done for Neurological Consequences of Cytomegalovirus Infection ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), and other institutes of the National Institutes of Health (NIH), conduct research related to CMV infection in laboratories at the NIH, and support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent and treat CMV infection in people at risk of severe neurological consequences, especially a safe and effective CMV vaccine.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

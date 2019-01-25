@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001489" source="GARD" url="https://rarediseases.info.nih.gov/gard/10001/congenital-chloride-diarrhea">
+<Focus>Congenital chloride diarrhea</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0267662</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CLD</Synonym>
+		<Synonym>Diarrhea 1, secretory chloride, congenital</Synonym>
+		<Synonym>DIAR1</Synonym>
+		<Synonym>Chloridorrhea, congenital</Synonym>
+		<Synonym>Congenital chloridorrhea</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001489-1" qtype="information">What is (are) Congenital chloride diarrhea ?</Question>
+			<Answer>Congenital chloride diarrhea is a condition characterized by large, watery stools containing an excess of chloride. Individuals have intrauterine (pre-birth) and lifelong diarrhea; infants with the condition are often premature. The excessive diarrhea causes electrolyte and water deficits, which in turn cause volume depletion, hyperreninemia (elevated levels of renin in the blood), hyperaldosteronism, renal potassium wasting, and sometimes nephropathy. Mutations in the SLC26A3 gene have been found to cause the condition. It is inherited in an autosomal recessive manner. Treatment generally focuses on the individual symptoms of the condition and typically includes taking oral supplements of sodium and potassium chloride.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001489-2" qtype="symptoms">What are the symptoms of Congenital chloride diarrhea ?</Question>
+			<Answer>What are the signs and symptoms of Congenital chloride diarrhea? The Human Phenotype Ontology provides the following list of signs and symptoms for Congenital chloride diarrhea. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal distention - Abnormality of the cardiovascular system - Autosomal recessive inheritance - Dehydration - Diarrhea - Failure to thrive - Growth delay - Hyperactive renin-angiotensin system - Hyperaldosteronism - Hypochloremia - Hypokalemia - Hyponatremia - Metabolic alkalosis - Polyhydramnios - Premature birth - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001489-3" qtype="treatment">What are the treatments for Congenital chloride diarrhea ?</Question>
+			<Answer>How might congenital chloride diarrhea be treated? There is no cure for the underlying condition, so treatment mainly focuses on the symptoms. Studies have shown that early diagnosis and aggressive salt replacement therapy (replacing sodium and chloride, the 2 things that make up salt) are associated with normal growth and development, in addition to reduced mortality rates. In individuals with this condition, the goal is for the oral intake of chloride, sodium, and potassium to be greater than the amount lost through the feces (i.e., there must be a positive gastrointestinal balance) so that losses in sweat can be replaced. Replacement therapy with NaCl (sodium chloride) and KCl (potassium chloride) has been shown to be effective in children. One study showed that a medication called omeprazole, a proton-pump inhibitor, reduces electrolyte losses in individuals and thus promotes a positive gastrointestinal balance. However, this treatment does not reduce the need for careful monitoring of dietary intake, electrolyte concentrations, and urinary chloride loss. Another study discussed how butyrate could be effective in treating the condition, and that it is easily administered, useful in preventing severe dehydration episodes, and may be a promising approach for a long-term treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

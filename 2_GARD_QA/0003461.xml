@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003461" source="GARD" url="https://rarediseases.info.nih.gov/gard/10803/lamellar-ichthyosis">
+<Focus>Lamellar ichthyosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079154</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital lamellar ichthyosis</Synonym>
+		<Synonym>LI</Synonym>
+		<Synonym>Ichthyosis lamellar 1</Synonym>
+		<Synonym>Ichthyosis lamellar 2</Synonym>
+		<Synonym>Ichthyosis lamellar 3</Synonym>
+		<Synonym>Ichthyosis lamellar, autosomal dominant</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003461-1" qtype="information">What is (are) Lamellar ichthyosis ?</Question>
+			<Answer>Lamellar ichthyosis is a rare genetic condition that affects the skin. Infants affected by lamellar ichthyosis are generally born with a shiny, waxy layer of skin (called a collodian membrane) that is typically shed within the first two weeks of life. The skin beneath the collodian membrane is red and scaly. Other signs and symptoms of the condition may include ectropion, lips that turn outwards, hair loss, palmoplantar hyperkeratosis (thick skin on the palms of the hands and/or soles of the feet), nail abnormalities, dehydration and respiratory problems. Although the condition may be caused by changes (mutations) in one of several different genes, approximately 90% of cases are caused by mutations in the TGM1 gene. Lamellar ichthyosis is generally inherited in an autosomal recessive manner. Treatment is based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003461-2" qtype="symptoms">What are the symptoms of Lamellar ichthyosis ?</Question>
+			<Answer>What are the signs and symptoms of Lamellar ichthyosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Lamellar ichthyosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal hair quantity 90% Abnormality of the eyelid 90% Abnormality of the nail 90% Aplasia/Hypoplasia of the eyebrow 90% Dry skin 90% Hyperkeratosis 90% Ichthyosis 90% Lack of skin elasticity 90% Pruritus 90% Abnormality of the helix 50% Abnormality of the teeth 7.5% Cognitive impairment 7.5% Dehydration 7.5% Gangrene 7.5% Otitis media 7.5% Recurrent respiratory infections 7.5% Renal insufficiency 7.5% Sepsis 7.5% Short stature 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003461-3" qtype="treatment">What are the treatments for Lamellar ichthyosis ?</Question>
+			<Answer>How might lamellar ichthyosis be treated? Unfortunately, there is currently no cure for lamellar ichthyosis. Management is generally supportive and based on the signs and symptoms present in each person. For infants, providing a moist environment in an isolette (incubator) and preventing infection are most important. Petrolatum-based creams and ointments are used to keep the skin soft, supple, and hydrated. As affected children become older, treatments to promote peeling and thinning of the stratum corneum (the outermost layer of skin cells) are often recommended. This may include humidification with long baths, lubrication, and keratolytic agents such as alpha-hydroxy acid or urea preparations. For people with ectropion (turning out of the eyelid), lubrication of the cornea with artificial tears or prescription ointments is helpful to prevent the cornea from drying out. Topical or oral retinoid therapy may be recommended for those with severe skin involvement; however, these medications can be associated with undesired side effects and are, therefore, generally prescribed with caution.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

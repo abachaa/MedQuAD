@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003141" source="GARD" url="https://rarediseases.info.nih.gov/gard/9128/idiopathic-inflammatory-myopathy">
+<Focus>Idiopathic inflammatory myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751356</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Idiopathic inflammatory myopathy, familial</Synonym>
+		<Synonym>IIM</Synonym>
+		<Synonym>Myositis</Synonym>
+		<Synonym>Antisynthetase syndrome</Synonym>
+		<Synonym>Dermatomyositis</Synonym>
+		<Synonym>Eosinophilic fasciitis</Synonym>
+		<Synonym>Inclusion body myositis</Synonym>
+		<Synonym>Juvenile dermatomyositis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003141-1" qtype="information">What is (are) Idiopathic inflammatory myopathy ?</Question>
+			<Answer>Idiopathic inflammatory myopathy refers to a group of conditions that affect the skeletal muscles (muscles used for movement). Although the condition can be diagnosed at any age, idiopathic inflammatory myopathy most commonly occurs in adults between ages 40 and 60 years or in children between ages 5 and 15 years. Signs and symptoms of the condition include muscle weakness, joint pain and fatigue. There are several forms of idiopathic inflammatory myopathy, including polymyositis, dermatomyositis, and sporadic inclusion body myositis, which are each associated with unique features. As the name suggests, the cause of the condition is currently unknown (idiopathic). However, researchers suspect that it may occur due to a combination of genetic and environmental factors. Treatment is supportive and based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003141-2" qtype="symptoms">What are the symptoms of Idiopathic inflammatory myopathy ?</Question>
+			<Answer>What are the signs and symptoms of Idiopathic inflammatory myopathy? The Human Phenotype Ontology provides the following list of signs and symptoms for Idiopathic inflammatory myopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Myositis - Proximal muscle weakness - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

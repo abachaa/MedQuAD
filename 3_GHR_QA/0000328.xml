@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000328" source="GHR" url="https://ghr.nlm.nih.gov/condition/essential-pentosuria">
+<Focus>essential pentosuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268162</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>essential benign pentosuria</Synonym>
+		<Synonym>L-xylulose reductase deficiency</Synonym>
+		<Synonym>L-xylulosuria</Synonym>
+		<Synonym>pentosuria</Synonym>
+		<Synonym>xylitol dehydrogenase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000328-1" qtype="information">What is (are) essential pentosuria ?</Question>
+			<Answer>Essential pentosuria is a condition characterized by high levels of a sugar called L-xylulose in urine. The condition is so named because L-xylulose is a type of sugar called a pentose. Despite the excess sugar, affected individuals have no associated health problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000328-2" qtype="frequency">How many people are affected by essential pentosuria ?</Question>
+			<Answer>Essential pentosuria occurs almost exclusively in individuals with Ashkenazi Jewish ancestry. Approximately 1 in 3,300 people in this population are affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000328-3" qtype="genetic changes">What are the genetic changes related to essential pentosuria ?</Question>
+			<Answer>Essential pentosuria is caused by mutations in the DCXR gene. This gene provides instructions for making a protein called dicarbonyl/L-xylulose reductase (DCXR), which plays multiple roles in the body. One of its functions is to perform a chemical reaction that converts a sugar called L-xylulose to a molecule called xylitol. This reaction is one step in a process by which the body can use sugars for energy.  DCXR gene mutations lead to the production of altered DCXR proteins that are quickly broken down. Without this protein, L-xylulose is not converted to xylitol, and the excess sugar is released in the urine.  While essential pentosuria is caused by genetic mutations, some people develop a non-inherited form of pentosuria if they eat excessive amounts of fruits high in L-xylulose or another pentose called L-arabinose. This form of the condition, which disappears if the diet is changed, is referred to as alimentary pentosuria. Studies show that some drugs can also cause a form of temporary pentosuria called drug-induced pentosuria. These non-inherited forms of the condition also do not cause any health problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000328-4" qtype="inheritance">Is essential pentosuria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000328-5" qtype="treatment">What are the treatments for essential pentosuria ?</Question>
+			<Answer>These resources address the diagnosis or management of essential pentosuria:  - Genetic Testing Registry: Essential pentosuria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

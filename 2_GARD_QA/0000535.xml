@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000535" source="GARD" url="https://rarediseases.info.nih.gov/gard/5870/autoimmune-hemolytic-anemia">
+<Focus>Autoimmune hemolytic anemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002880</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anemia hemolytic autoimmune</Synonym>
+		<Synonym>Acquired autoimmune hemolytic anemia</Synonym>
+		<Synonym>Idiopathic autoimmune hemolytic anemia</Synonym>
+		<Synonym>Familial auto-immune hemolytic anemia (subtype)</Synonym>
+		<Synonym>Immuno-hemolytic anemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000535-1" qtype="information">What is (are) Autoimmune hemolytic anemia ?</Question>
+			<Answer>Autoimmune hemolytic anemia (AIHA) occurs when your immune system makes antibodies that attack your red blood cells. This causes a drop in the number of red blood cells, leading to hemolytic anemia. Symptoms may include unusual weakness and fatigue with tachycardia and breathing difficulties, jaundice, dark urine and/or splenomegaly. AIHA can be primary (idiopathic) or result from an underlying disease or medication. The condition may develop gradually or occur suddenly. There are two main types of autoimmune hemolytic anemia: warm antibody hemolytic anemia and cold antibody hemolytic anemia. Treatment may include corticosteroids such as prednisone, splenectomy, immunosuppressive drugs and/or blood transfusions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000535-2" qtype="symptoms">What are the symptoms of Autoimmune hemolytic anemia ?</Question>
+			<Answer>What are the signs and symptoms of Autoimmune hemolytic anemia? The Human Phenotype Ontology provides the following list of signs and symptoms for Autoimmune hemolytic anemia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autoimmunity 90% Hemolytic anemia 90% Migraine 90% Muscle weakness 90% Pallor 90% Respiratory insufficiency 90% Abnormality of the liver 50% Lymphoma 50% Abdominal pain 7.5% Abnormality of temperature regulation 7.5% Abnormality of urine homeostasis 7.5% Arrhythmia 7.5% Congestive heart failure 7.5% Splenomegaly 7.5% Abnormality of metabolism/homeostasis - Autoimmune hemolytic anemia - Autosomal recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000535-3" qtype="causes">What causes Autoimmune hemolytic anemia ?</Question>
+			<Answer>What causes autoimmune hemolytic anemia? In about half of cases, the cause of autoimmune hemolytic anemia cannot be determined (idiopathic or primary). This condition can also be caused by or occur with another disorder (secondary) or rarely, occur following the use of certain drugs (such as penicillin) or after a person has a blood and marrow stem cell transplant. Secondary causes of autoimmune hemolytic anemia include:  Autoimmune diseases, such as lupus Chronic lymphocytic leukemia Non-Hodgkin&apos;s lymphoma and other blood cancers Epstein-Barr virus Cytomegalovirus Mycoplasma pneumonia Hepatitis HIV</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000535-4" qtype="inheritance">Is Autoimmune hemolytic anemia inherited ?</Question>
+			<Answer>Is autoimmune hemolytic anemia inherited? In many cases, the cause of autoimmune hemolytic anemia remains unknown. Some researchers believe that there are multiple factors involved, including genetic and environmental influences (multifactorial). In a very small number of cases, autoimmune hemolytic anemia appears to run in families. In these cases, it appears to follow an autosomal recessive pattern of inheritance. If you have concerns about the specific risks in your family, we encourage you to consult with a genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000153" source="NINDS" url="http://www.ninds.nih.gov/disorders/hydranencephaly/hydranencephaly.htm">
+<Focus>Hydranencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020225</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000153-1" qtype="information">What is (are) Hydranencephaly ?</Question>
+			<Answer>Hydranencephaly is a rare condition in which the brain&apos;s cerebral hemispheres are absent and replaced by sacs filled with cerebrospinal fluid. An infant with hydranencephaly may appear normal at birth. The infant&apos;s head size and spontaneous reflexes such as sucking, swallowing, crying, and moving the arms and legs may all seem normal. However, after a few weeks the infant usually becomes irritable and has increased muscle tone. After a few months of life, seizures and hydrocephalus (excessive accumulation of cerebrospinal fluid in the brain) may develop. Other symptoms may include visual impairment, lack of growth, deafness, blindness, spastic quadriparesis (paralysis), and intellectual deficits. Hydranencephaly is considered to be an extreme form of porencephaly (a rare disorder characterized by a cyst or cavity in the cerebral hemispheres) and may be caused by vascular infections or traumatic disorders after the 12th week of pregnancy. Diagnosis may be delayed for several months because early behavior appears to be relatively normal. Some infants may have additional abnormalities at birth including seizures, myoclonus (spasm or twitching of a muscle or group of muscles), and respiratory problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000153-2" qtype="treatment">What are the treatments for Hydranencephaly ?</Question>
+			<Answer>There is no definitive treatment for hydranencephaly. Treatment is symptomatic and supportive. Hydrocephalus may be treated with a shunt (a surgically implanted tube that diverts fluid from one pathway to another).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000153-3" qtype="outlook">What is the outlook for Hydranencephaly ?</Question>
+			<Answer>The outlook for children with hydranencephaly is generally poor, and many children with this disorder die before age 1. However, in rare cases, children with hydranencephaly may survive for several years or more.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000153-4" qtype="research">what research (or clinical trials) is being done for Hydranencephaly ?</Question>
+			<Answer>The NINDS conducts and supports a wide range of studies that explore the complex mechanisms of normal brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how this process can go awry and, thus, offers hope for new means to treat and prevent developmental brain disorders, including hydranencephaly.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000046" source="GARD" url="https://rarediseases.info.nih.gov/gard/8173/achondroplasia">
+<Focus>Achondroplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001080</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACH</Synonym>
+		<Synonym>Achondroplastic dwarfism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000046-1" qtype="information">What is (are) Achondroplasia ?</Question>
+			<Answer>Achondroplasia is a disorder of bone growth that prevents the changing of cartilage (particularly in the long bones of the arms and legs) to bone. It is characterized by dwarfism, limited range of motion at the elbows, large head size, small fingers, and normal intelligence. Achondroplasia can cause health complications such as apnea, obesity, recurrent ear infections, and lordosis of the spine. Achondroplasia is caused by mutations in the FGFR3 gene. It is inherited in an autosomal dominant fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000046-2" qtype="symptoms">What are the symptoms of Achondroplasia ?</Question>
+			<Answer>What are the signs and symptoms of Achondroplasia? In babies, apnea occurs when breathing stops for more than 15 seconds. Snoring is often a sign of apnea, however most children with achondroplasia snore. Obstructive apnea or disordered breathing in sleep may be suspected if the child has increased retraction, glottal stops, choking, intermittent breathing, deep compensatory sighs, secondary bed wetting, recurrent night-time awakening or vomiting. If these signs are present then additional lung and sleep studies are recommended. The Human Phenotype Ontology provides the following list of signs and symptoms for Achondroplasia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the metaphyses 90% Abnormality of the ribs 90% Anteverted nares 90% Brachydactyly syndrome 90% Depressed nasal bridge 90% Frontal bossing 90% Genu varum 90% Hyperlordosis 90% Limb undergrowth 90% Macrocephaly 90% Skeletal dysplasia 90% Abnormal form of the vertebral bodies 50% Abnormality of the teeth 50% Apnea 50% Conductive hearing impairment 50% Hyperhidrosis 50% Intrauterine growth retardation 50% Joint hypermobility 50% Kyphosis 50% Long thorax 50% Malar flattening 50% Muscular hypotonia 50% Narrow chest 50% Obesity 50% Ventriculomegaly 50% Acanthosis nigricans 7.5% Elbow dislocation 7.5% Hydrocephalus 7.5% Neurological speech impairment 7.5% Spinal canal stenosis 7.5% Sudden cardiac death 7.5% Autosomal dominant inheritance - Brain stem compression - Flared metaphysis - Generalized joint laxity - Hypoplasia of midface - Infantile muscular hypotonia - Limited elbow extension - Limited hip extension - Lumbar hyperlordosis - Lumbar kyphosis in infancy - Megalencephaly - Motor delay - Neonatal short-limb short stature - Recurrent otitis media - Rhizomelia - Short femoral neck - Small foramen magnum - Spinal stenosis with reduced interpedicular distance - Trident hand - Upper airway obstruction - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000046-3" qtype="causes">What causes Achondroplasia ?</Question>
+			<Answer>What causes achondroplasia? Achondroplasia is caused by mutations in the FGFR3 gene. This gene provides instructions for making a protein that is involved in the development and maintenance of bone and brain tissue. Two specific mutations in the FGFR3 gene are responsible for almost all cases of achondroplasia. Researchers believe that these mutations cause the FGFR3 protein to be overly active, which interferes with skeletal development and leads to the disturbances in bone growth seen in this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000046-4" qtype="inheritance">Is Achondroplasia inherited ?</Question>
+			<Answer>Is achondroplasia inherited? Most cases of achondroplasia are not inherited. When it is inherited, it follows an autosomal dominant pattern of inheritance. About 80% of individuals who have achondroplasia have parents with normal stature and are born with the condition as a result of a new (de novo) gene alteration (mutation). Each individual with achondroplasia has a 50% chance, with each pregnancy, to pass on the mutated gene.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000046-5" qtype="treatment">What are the treatments for Achondroplasia ?</Question>
+			<Answer>How might children with achondroplasia be treated? Recommendations for management of children with achondroplasia were outlined by the American Academy of Pediatrics Committee on Genetics in the article, Health Supervision for Children with Achondroplasia. We recommend that you review this article with your childs health care provider(s). These recommendations include:  Monitoring of height, weight, and head circumference using growth curves standardized for achondroplasia  Measures to avoid obesity starting in early childhood.  Careful neurologic examinations, with referral to a pediatric neurologist as necessary  MRI or CT of the foramen magnum region for evaluation of severe hypotonia or signs of spinal cord compression  Obtaining history for possible sleep apnea, with sleep studies as necessary  Evaluation for low thoracic or high lumbar gibbus if truncal weakness is present  Referral to a pediatric orthopedist if bowing of the legs interferes with walking  Management of frequent middle-ear infections  Speech evaluation by age two years  Careful monitoring of social adjustment The GeneReview article on achondroplasia also provides information on medical management.  http://www.ncbi.nlm.nih.gov/books/NBK1152/#achondroplasia.Management</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

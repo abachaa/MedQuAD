@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000833" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/sorethroat.html">
+<Focus>Sore Throat</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031350</CUI>
+			<CUI>C0242429</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pharyngitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000833-1" qtype="information">What is (are) Sore Throat ?</Question>
+			<Answer>Your throat is a tube that carries food to your esophagus and air to your windpipe and larynx (also called the voice box). The technical name for the throat is pharynx.    You can have a sore throat for many reasons. Often, colds and flu cause sore throats. Other causes can include:       - Allergies    - Mononucleosis    - Smoking    - Strep throat    - Tonsillitis - an infection in the tonsils       Treatment depends on the cause. Sucking on lozenges, drinking lots of liquids, and gargling may ease the pain. Over-the-counter pain relievers can also help, but children should not take aspirin.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

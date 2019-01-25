@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002677" source="GARD" url="https://rarediseases.info.nih.gov/gard/10897/gray-zone-lymphoma">
+<Focus>Gray zone lymphoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1333878</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mediastinal gray zone lymphoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002677-1" qtype="information">What is (are) Gray zone lymphoma ?</Question>
+			<Answer>Gray zone lymphoma is a cancer of the immune system.  The name of this lymphoma refers to the fact that cancer cells in this condition are in a &quot;gray zone&quot; (an uncertain category) because they appear similar to that of two other types of lymphoma, classical Hodgkin lymphoma and mediastinal large B-cell lymphoma.  Because features of gray zone lymphoma overlap with these two other types of lymphoma, diagnosing this condition can be difficult.  Gray zone lymphoma is most often diagnosed in young adults when an unusual lump (mass) is found in the chest in the space between the lungs (mediastinum).  This condition affects men and women equally.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002677-2" qtype="treatment">What are the treatments for Gray zone lymphoma ?</Question>
+			<Answer>How might gray zone lymphoma be treated? Gray zone lymphoma shares features with two other types of lymphoma, classical Hodgkin lymphoma (cHL) and mediastinal large B-cell lymphoma (MLBCL).  Because MLBCL and cHL are treated differently, it is unclear how gray zone lymphoma should be treated.  At this time, there are no guidelines for the best treatment of gray zone lymphoma; treatment is determined based on each individual&apos;s diagnosis.  Treatment usually begins with chemotherapy, which may be followed by radiation therapy in some cases.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

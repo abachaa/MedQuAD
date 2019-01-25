@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000300" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/drugabuse.html">
+<Focus>Drug Abuse</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013146</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Substance abuse</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000300-1" qtype="information">What is (are) Drug Abuse ?</Question>
+			<Answer>Drug abuse is a serious public health problem that affects almost every community and family in some way. Each year drug abuse causes millions of serious illnesses or injuries among Americans. Abused drugs include       - Methamphetamine    - Anabolic steroids    - Club drugs    - Cocaine    - Heroin    - Inhalants    - Marijuana    - Prescription drugs       Drug abuse also plays a role in many major social problems, such as drugged driving, violence, stress, and child abuse. Drug abuse can lead to homelessness, crime, and missed work or problems with keeping a job. It harms unborn babies and destroys families. There are different types of treatment for drug abuse. But the best is to prevent drug abuse in the first place.     NIH: National Institute on Drug Abuse</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

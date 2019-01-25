@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000969" source="GHR" url="https://ghr.nlm.nih.gov/condition/tangier-disease">
+<Focus>Tangier disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039292</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>A-alphalipoprotein Neuropathy</Synonym>
+		<Synonym>alpha High Density Lipoprotein Deficiency Disease</Synonym>
+		<Synonym>Analphalipoproteinemia</Synonym>
+		<Synonym>Cholesterol thesaurismosis</Synonym>
+		<Synonym>Familial High Density Lipoprotein Deficiency Disease</Synonym>
+		<Synonym>Familial Hypoalphalipoproteinemia</Synonym>
+		<Synonym>HDL Lipoprotein Deficiency Disease</Synonym>
+		<Synonym>Lipoprotein Deficiency Disease, HDL, Familial</Synonym>
+		<Synonym>Tangier Disease Neuropathy</Synonym>
+		<Synonym>Tangier Hereditary Neuropathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000969-1" qtype="information">What is (are) Tangier disease ?</Question>
+			<Answer>Tangier disease is an inherited disorder characterized by significantly reduced levels of high-density lipoprotein (HDL) in the blood. HDL transports cholesterol and certain fats called phospholipids from the body&apos;s tissues to the liver, where they are removed from the blood. HDL is often referred to as &quot;good cholesterol&quot; because high levels of this substance reduce the chances of developing heart and blood vessel (cardiovascular) disease. Because people with Tangier disease have very low levels of HDL, they have a moderately increased risk of cardiovascular disease.  Additional signs and symptoms of Tangier disease include a slightly elevated amount of fat in the blood (mild hypertriglyceridemia); disturbances in nerve function (neuropathy); and enlarged, orange-colored tonsils. Affected individuals often develop atherosclerosis, which is an accumulation of fatty deposits and scar-like tissue in the lining of the arteries. Other features of this condition may include an enlarged spleen (splenomegaly), an enlarged liver (hepatomegaly), clouding of the clear covering of the eye (corneal clouding), and type 2 diabetes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000969-2" qtype="frequency">How many people are affected by Tangier disease ?</Question>
+			<Answer>Tangier disease is a rare disorder with approximately 100 cases identified worldwide. More cases are likely undiagnosed. This condition is named after an island off the coast of Virginia where the first affected individuals were identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000969-3" qtype="genetic changes">What are the genetic changes related to Tangier disease ?</Question>
+			<Answer>Mutations in the ABCA1 gene cause Tangier disease. This gene provides instructions for making a protein that releases cholesterol and phospholipids from cells. These substances are used to make HDL, which transports them to the liver.  Mutations in the ABCA1 gene prevent the release of cholesterol and phospholipids from cells. As a result, these substances accumulate within cells, causing certain body tissues to enlarge and the tonsils to acquire a yellowish-orange color. A buildup of cholesterol can be toxic to cells, leading to impaired cell function or cell death. In addition, the inability to transport cholesterol and phospholipids out of cells results in very low HDL levels, which increases the risk of cardiovascular disease. These combined factors cause the signs and symptoms of Tangier disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000969-4" qtype="inheritance">Is Tangier disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000969-5" qtype="treatment">What are the treatments for Tangier disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Tangier disease:  - Genetic Testing Registry: Tangier disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

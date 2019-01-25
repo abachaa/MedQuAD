@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000732" source="GHR" url="https://ghr.nlm.nih.gov/condition/nijmegen-breakage-syndrome">
+<Focus>Nijmegen breakage syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0398791</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ataxia-telangiectasia variant 1</Synonym>
+		<Synonym>Berlin breakage syndrome</Synonym>
+		<Synonym>microcephaly, normal intelligence and immunodeficiency</Synonym>
+		<Synonym>Seemanova syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000732-1" qtype="information">What is (are) Nijmegen breakage syndrome ?</Question>
+			<Answer>Nijmegen breakage syndrome is a condition characterized by short stature, an unusually small head size (microcephaly), distinctive facial features, recurrent respiratory tract infections, an increased risk of cancer, intellectual disability, and other health problems.  People with this condition typically grow slowly during infancy and early childhood. After this period of slow growth, affected individuals grow at a normal rate but remain shorter than their peers. Microcephaly is apparent from birth in the majority of affected individuals. The head does not grow at the same rate as the rest of the body, so it appears that the head is getting smaller as the body grows (progressive microcephaly). Individuals with Nijmegen breakage syndrome have distinctive facial features that include a sloping forehead, a prominent nose, large ears, a small jaw, and outside corners of the eyes that point upward (upslanting palpebral fissures). These facial features typically become apparent by age 3.  People with Nijmegen breakage syndrome have a malfunctioning immune system (immunodeficiency) with abnormally low levels of immune system proteins called immunoglobulin G (IgG) and immunoglobulin A (IgA). Affected individuals also have a shortage of immune system cells called T cells. The immune system abnormalities increase susceptibility to recurrent infections, such as bronchitis, pneumonia, sinusitis, and other infections affecting the upper respiratory tract and lungs.  Individuals with Nijmegen breakage syndrome have an increased risk of developing cancer, most commonly a cancer of immune system cells called non-Hodgkin lymphoma. About half of individuals with Nijmegen breakage syndrome develop non-Hodgkin lymphoma, usually before age 15. Other cancers seen in people with Nijmegen breakage syndrome include brain tumors such as medulloblastoma and glioma, and a cancer of muscle tissue called rhabdomyosarcoma. People with Nijmegen breakage syndrome are 50 times more likely to develop cancer than people without this condition.  Intellectual development is normal in most people with this condition for the first year or two of life, but then development becomes delayed. Skills decline over time, and most affected children and adults have mild to moderate intellectual disability.  Most affected woman have premature ovarian failure and do not begin menstruation by age 16 (primary amenorrhea) or have infrequent menstrual periods. Most women with Nijmegen breakage syndrome are unable to have biological children (infertile).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000732-2" qtype="frequency">How many people are affected by Nijmegen breakage syndrome ?</Question>
+			<Answer>The exact prevalence of Nijmegen breakage syndrome is unknown. This condition is estimated to affect one in 100,000 newborns worldwide, but is thought to be most common in the Slavic populations of Eastern Europe.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000732-3" qtype="genetic changes">What are the genetic changes related to Nijmegen breakage syndrome ?</Question>
+			<Answer>Mutations in the NBN gene cause Nijmegen breakage syndrome. The NBN gene provides instructions for making a protein called nibrin. This protein is involved in several critical cellular functions, including the repair of damaged DNA. Nibrin interacts with two other proteins as part of a larger protein complex. This protein complex works to mend broken strands of DNA. DNA can be damaged by agents such as toxic chemicals or radiation. Breaks in DNA strands also occur naturally when chromosomes exchange genetic material in preparation for cell division. Repairing DNA prevents cells from accumulating genetic damage that can cause them to die or to divide uncontrollably. The nibrin protein and the proteins with which it interacts help maintain the stability of a cell&apos;s genetic information through its roles in repairing damaged DNA and regulating cell division.  The NBN gene mutations that cause this condition typically lead to the production of an abnormally short version of the nibrin protein. The defective protein is missing important regions, preventing it from responding to DNA damage effectively. As a result, affected individuals are sensitive to the effects of radiation exposure and other agents that can cause breaks in DNA. Nijmegen breakage syndrome gets its name from numerous breaks in DNA that occur in affected people&apos;s cells. A buildup of mistakes in DNA can trigger cells to grow and divide abnormally, increasing the risk of cancer in people with Nijmegen breakage syndrome. Nibrin&apos;s role in regulating cell division and cell growth (proliferation) is thought to lead to the immunodeficiency seen in affected individuals. A lack of functional nibrin results in less immune cell proliferation. A decrease in the amount of immune cells that are produced leads to reduced amounts of immunoglobulins and other features of immunodeficiency. It is unclear how mutations in the NBN gene cause the other features of Nijmegen breakage syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000732-4" qtype="inheritance">Is Nijmegen breakage syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000732-5" qtype="treatment">What are the treatments for Nijmegen breakage syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Nijmegen breakage syndrome:  - Boston Children&apos;s Hospital: Pneumonia in Children  - Boston Children&apos;s Hospital: Sinusitis in Children  - Cleveland Clinic: Bronchitis  - Gene Review: Gene Review: Nijmegen Breakage Syndrome  - Genetic Testing Registry: Microcephaly, normal intelligence and immunodeficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

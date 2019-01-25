@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000350" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-hdl-deficiency">
+<Focus>familial HDL deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2931838</CUI>
+			<CUI>C1704429</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial hypoalphalipoproteinemia</Synonym>
+		<Synonym>FHA</Synonym>
+		<Synonym>HDL deficiency, type 2</Synonym>
+		<Synonym>HDLD</Synonym>
+		<Synonym>low serum HDL cholesterol</Synonym>
+		<Synonym>primary hypoalphalipoproteinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000350-1" qtype="information">What is (are) familial HDL deficiency ?</Question>
+			<Answer>Familial HDL deficiency is a condition characterized by low levels of high-density lipoprotein (HDL) in the blood. HDL is a molecule that transports cholesterol and certain fats called phospholipids through the bloodstream from the body&apos;s tissues to the liver. Once in the liver, cholesterol and phospholipids are redistributed to other tissues or removed from the body. HDL is often referred to as &quot;good cholesterol&quot; because high levels of this substance reduce the chances of developing heart and blood vessel (cardiovascular) disease. People with familial HDL deficiency may develop cardiovascular disease at a relatively young age, often before age 50.  Severely reduced levels of HDL in the blood is a characteristic feature of a related disorder called Tangier disease. People with Tangier disease have additional signs and symptoms, such as disturbances in nerve function; enlarged, orange-colored tonsils; and clouding of the clear covering of the eye (corneal clouding). However, people with familial HDL deficiency do not have these additional features.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000350-2" qtype="frequency">How many people are affected by familial HDL deficiency ?</Question>
+			<Answer>Familial HDL deficiency is a rare disorder, although the prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000350-3" qtype="genetic changes">What are the genetic changes related to familial HDL deficiency ?</Question>
+			<Answer>Mutations in the ABCA1 gene or the APOA1 gene cause familial HDL deficiency. The proteins produced from these genes work together to remove cholesterol and phospholipids from cells.  The ABCA1 gene provides instructions for making a protein that removes cholesterol and phospholipids from cells by moving them across the cell membrane. The movement of these substances across the membrane is enhanced by another protein called apolipoprotein A-I (apoA-I), which is produced by the APOA1 gene. Once outside the cell, the cholesterol and phospholipids combine with apoA-I to form HDL. ApoA-I also triggers a reaction that converts cholesterol to a form that can be fully integrated into HDL and transported through the bloodstream.  ABCA1 gene mutations and some APOA1 gene mutations prevent the release of cholesterol and phospholipids from cells. Other mutations in the APOA1 gene reduce the protein&apos;s ability to stimulate the conversion of cholesterol. These ABCA1 and APOA1 gene mutations decrease the amount of cholesterol or phospholipids available to form HDL, resulting in low levels of HDL in the blood. A shortage (deficiency) of HDL is believed to increase the risk of cardiovascular disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000350-4" qtype="inheritance">Is familial HDL deficiency inherited ?</Question>
+			<Answer>Familial HDL deficiency is inherited in an autosomal dominant pattern, which means an alteration in one copy of either the ABCA1 or the APOA1 gene in each cell is sufficient to cause the disorder. People with alterations in both copies of the ABCA1 gene develop the related disorder Tangier disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000350-5" qtype="treatment">What are the treatments for familial HDL deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of familial HDL deficiency:  - Genetic Testing Registry: Familial hypoalphalipoproteinemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

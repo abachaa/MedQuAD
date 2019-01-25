@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000246" source="GARD" url="https://rarediseases.info.nih.gov/gard/613/alopecia-totalis">
+<Focus>Alopecia totalis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0263504</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Loss of all scalp hair</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000246-1" qtype="information">What is (are) Alopecia totalis ?</Question>
+			<Answer>Alopecia totalis (AT) is a condition characterized by the complete loss of hair on the scalp. It is an advanced form of alopecia areata a condition that causes round patches of hair loss. Although the exact cause of AT is unknown, it is thought to be an autoimmune condition in which the immune system mistakenly attacks the hair follicles. Roughly 20% of affected people have a family member with alopecia, suggesting that genetic factors may contribute to the development of AT. There is currently no cure for AT, but sometimes hair regrowth occurs on it&apos;s own, even after many years.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000246-2" qtype="symptoms">What are the symptoms of Alopecia totalis ?</Question>
+			<Answer>What are the signs and symptoms of Alopecia totalis? The Human Phenotype Ontology provides the following list of signs and symptoms for Alopecia totalis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Alopecia areata - Alopecia totalis - Autoimmunity - Multifactorial inheritance - Nail pits - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

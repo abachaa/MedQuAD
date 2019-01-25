@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000889" source="GARD" url="https://rarediseases.info.nih.gov/gard/1049/cadasil">
+<Focus>CADASIL</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751587</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy</Synonym>
+		<Synonym>Dementia, hereditary multi-infarct type</Synonym>
+		<Synonym>Familial vascular leukoencephalopathy</Synonym>
+		<Synonym>Cerebral arteriopathy with subcortical infarcts and leukoencephalopathy</Synonym>
+		<Synonym>CASIL</Synonym>
+		<Synonym>Leukodystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000889-1" qtype="information">What is (are) CADASIL ?</Question>
+			<Answer>CADASIL (Cerebral Autosomal Dominant Arteriopathy with Sub-cortical Infarcts and Leukoencephalopathy) is an inherited disease of the blood vessels that occurs when the thickening of blood vessel walls blocks the flow of blood to the brain. The disease primarily affects the small blood vessels in the white matter of the brain. CADASIL is characterized by migraine headaches and multiple strokes, which progresses to dementia. Other symptoms include white matter lesions throughout the brain, cognitive deterioration, seizures, vision problems, and psychiatric problems such as severe depression and changes in behavior and personality. Individuals may also be at higher risk of heart attack. Symptoms and disease onset vary widely, with signs typically appearing in the mid-30s. Some individuals may not show signs of the disease until later in life. CADASIL is caused by a change (or mutation) in a gene called NOTCH3 and is inherited in an autosomal dominant manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000889-2" qtype="symptoms">What are the symptoms of CADASIL ?</Question>
+			<Answer>What are the signs and symptoms of CADASIL? Strokes are the main feature of CADASIL and often occur repeatedly. Strokes may lead to severe disability such as an inability to walk and urinary incontinence. The average age at onset for stroke-like episodes is 46 years. A decline in thinking ability (cognitive deficit) is the second most common feature and occurs in over half of affected people. This may begin as early as 35 years of age. CADASIL typically causes a slow decline in thought processes, and approximately 75% of affected people eventually develop dementia (including significant difficulty with reasoning and memory). Thirty percent of people with CADASIL also experience psychiatric issues, varying from personality changes to severe depression. Migraines with aura occur in about 35% of people with CADASIL, with the first attack occurring at an average age of 26 years. Epilepsy is present in 10% of affected people and usually presents at middle age. The Human Phenotype Ontology provides the following list of signs and symptoms for CADASIL. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of temperature regulation 90% Abnormality of the retinal vasculature 90% Amaurosis fugax 90% Behavioral abnormality 90% Developmental regression 90% Hemiplegia/hemiparesis 90% Migraine 90% Neurological speech impairment 90% Reduced consciousness/confusion 90% Cerebral cortical atrophy 50% Cerebral ischemia 50% Cranial nerve paralysis 50% EEG abnormality 50% Gait disturbance 50% Hypertonia 50% Memory impairment 50% Visual impairment 50% Abnormality of extrapyramidal motor function 7.5% Atherosclerosis 7.5% Hearing impairment 7.5% Hypertension 7.5% Hypoglycemia 7.5% Intracranial hemorrhage 7.5% Peripheral neuropathy 7.5% Recurrent respiratory infections 7.5% Seizures 7.5% Subcutaneous hemorrhage 7.5% Venous insufficiency 7.5% Visual loss 5% Abnormal electroretinogram - Abnormality of the skin - Abnormality of visual evoked potentials - Adult onset - Autosomal dominant inheritance - Leukoencephalopathy - Nonarteritic anterior ischemic optic neuropathy - Pseudobulbar paralysis - Recurrent subcortical infarcts - Stroke - Subcortical dementia - Urinary incontinence - Varicose veins - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000889-3" qtype="causes">What causes CADASIL ?</Question>
+			<Answer>What causes CADASIL? CADASIL is caused by a mutation in the NOTCH3 gene. The NOTCH3 gene gives the body instructions to make the Notch3 receptor protein, needed for normal function and survival of vascular smooth muscle cells. Mutations in NOTCH3 cause the body to make an abnormal protein, thus impairing the function and survival of vascular smooth muscle cells and causing these cells to self-destruct. The loss of vascular smooth muscle cells in the brain causes blood vessel damage that leads to the characteristic features of CADASIL.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000889-4" qtype="inheritance">Is CADASIL inherited ?</Question>
+			<Answer>How is CADASIL inherited? CADASIL is inherited in an autosomal dominant manner. This means that having a mutation in only one copy of the responsible gene in each cell is enough to cause CADASIL. In most cases, an affected person inherits the mutated gene from an affected parent. In rare cases, CADASIL may result from having a new mutation in the gene, in which case it is not inherited from a parent. When a person with an autosomal dominant condition has children, each child has a 50% (1 in 2) chance to inherit the mutated copy of the gene.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000889-5" qtype="treatment">What are the treatments for CADASIL ?</Question>
+			<Answer>How might CADASIL be treated? There is currently no treatment for CADASIL that is proven to be effective. While antiplatelet treatment is often used, it is also not proven to be useful. Migraine should be treated both symptomatically and prophylactically (with preventative methods), depending on the frequency of symptoms. When hypertension, diabetes or hypercholesterolemia (high cholesterol) are also present, they should be treated. Supportive care, including practical help, emotional support, and counseling, is useful for affected people and their families. Smoking increases the risk of stroke, so affected people who smoke should quit.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000311" source="GHR" url="https://ghr.nlm.nih.gov/condition/early-onset-glaucoma">
+<Focus>early-onset glaucoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3711383</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hereditary glaucoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000311-1" qtype="information">What is (are) early-onset glaucoma ?</Question>
+			<Answer>Glaucoma is a group of eye disorders in which the optic nerves connecting the eyes and the brain are progressively damaged. This damage can lead to reduction in side (peripheral) vision and eventual blindness. Other signs and symptoms may include bulging eyes, excessive tearing, and abnormal sensitivity to light (photophobia). The term &quot;early-onset glaucoma&quot; may be used when the disorder appears before the age of 40.  In most people with glaucoma, the damage to the optic nerves is caused by increased pressure within the eyes (intraocular pressure). Intraocular pressure depends on a balance between fluid entering and leaving the eyes.  Usually glaucoma develops in older adults, in whom the risk of developing the disorder may be affected by a variety of medical conditions including high blood pressure (hypertension) and diabetes mellitus, as well as family history. The risk of early-onset glaucoma depends mainly on heredity.  Structural abnormalities that impede fluid drainage in the eye may be present at birth and usually become apparent during the first year of life. Such abnormalities may be part of a genetic disorder that affects many body systems, called a syndrome. If glaucoma appears before the age of 5 without other associated abnormalities, it is called primary congenital glaucoma.  Other individuals experience early onset of primary open-angle glaucoma, the most common adult form of glaucoma. If primary open-angle glaucoma develops during childhood or early adulthood, it is called juvenile open-angle glaucoma.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000311-2" qtype="frequency">How many people are affected by early-onset glaucoma ?</Question>
+			<Answer>Primary congenital glaucoma affects approximately 1 in 10,000 people. Its frequency is higher in the Middle East. Juvenile open-angle glaucoma affects about 1 in 50,000 people. Primary open-angle glaucoma is much more common after the age of 40, affecting about 1 percent of the population worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000311-3" qtype="genetic changes">What are the genetic changes related to early-onset glaucoma ?</Question>
+			<Answer>Approximately 10 percent to 33 percent of people with juvenile open-angle glaucoma have mutations in the MYOC gene. MYOC gene mutations have also been detected in some people with primary congenital glaucoma. The MYOC gene provides instructions for producing a protein called myocilin. Myocilin is found in certain structures of the eye, called the trabecular meshwork and the ciliary body, that regulate the intraocular pressure.  Researchers believe that myocilin functions together with other proteins as part of a protein complex. Mutations may alter the protein in such a way that the complex cannot be formed. Defective myocilin that is not incorporated into functional complexes may accumulate in the trabecular meshwork and ciliary body. The excess protein may prevent sufficient flow of fluid from the eye, resulting in increased intraocular pressure and causing the signs and symptoms of early-onset glaucoma.  Between 20 percent and 40 percent of people with primary congenital glaucoma have mutations in the CYP1B1 gene. CYP1B1 gene mutations have also been detected in some people with juvenile open-angle glaucoma. The CYP1B1 gene provides instructions for producing a form of the cytochrome P450 protein. Like myocilin, this protein is found in the trabecular meshwork, ciliary body, and other structures of the eye.  It is not well understood how defects in the CYP1B1 protein cause signs and symptoms of glaucoma. Recent studies suggest that the defects may interfere with the early development of the trabecular meshwork. In the clear covering of the eye (the cornea), the CYP1B1 protein may also be involved in a process that regulates the secretion of fluid inside the eye. If this fluid is produced in excess, the high intraocular pressure characteristic of glaucoma may develop.  The CYP1B1 protein may interact with myocilin. Individuals with mutations in both the MYOC and CYP1B1 genes may develop glaucoma at an earlier age and have more severe symptoms than do those with mutations in only one of the genes. Mutations in other genes may also be involved in early-onset glaucoma.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000311-4" qtype="inheritance">Is early-onset glaucoma inherited ?</Question>
+			<Answer>Early-onset glaucoma can have different inheritance patterns. Primary congenital glaucoma is usually inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.  Juvenile open-angle glaucoma is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some families, primary congenital glaucoma may also be inherited in an autosomal dominant pattern.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000311-5" qtype="treatment">What are the treatments for early-onset glaucoma ?</Question>
+			<Answer>These resources address the diagnosis or management of early-onset glaucoma:  - Gene Review: Gene Review: Primary Congenital Glaucoma  - Genetic Testing Registry: Glaucoma, congenital  - Genetic Testing Registry: Primary open angle glaucoma juvenile onset 1  - MedlinePlus Encyclopedia: Glaucoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

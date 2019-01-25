@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000978" source="GHR" url="https://ghr.nlm.nih.gov/condition/thiopurine-s-methyltransferase-deficiency">
+<Focus>thiopurine S-methyltransferase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342801</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>poor metabolism of thiopurines</Synonym>
+		<Synonym>thiopurine methyltransferase deficiency</Synonym>
+		<Synonym>TPMT deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000978-1" qtype="information">What is (are) thiopurine S-methyltransferase deficiency ?</Question>
+			<Answer>Thiopurine S-methyltransferase (TPMT) deficiency is a condition characterized by significantly reduced activity of an enzyme that helps the body process drugs called thiopurines. These drugs, which include 6-thioguanine, 6-mercaptopurine, and azathioprine, inhibit (suppress) the body&apos;s immune system. Thiopurine drugs are used to treat some autoimmune disorders, including Crohn disease and rheumatoid arthritis, which occur when the immune system malfunctions. These drugs are also used to treat several forms of cancer, particularly cancers of blood-forming tissue (leukemias) and cancers of immune system cells (lymphomas). Additionally, thiopurine drugs are used in organ transplant recipients to help prevent the immune system from attacking the transplanted organ.  A potential complication of treatment with thiopurine drugs is damage to the bone marrow (hematopoietic toxicity). Although this complication can occur in anyone who takes these drugs, people with TPMT deficiency are at highest risk. Bone marrow normally makes several types of blood cells, including red blood cells, which carry oxygen; white blood cells, which help protect the body from infection; and platelets, which are involved in blood clotting. Damage to the bone marrow results in myelosuppression, a condition in which the bone marrow is unable to make enough of these cells. A shortage of red blood cells (anemia) can cause pale skin (pallor), weakness, shortness of breath, and extreme tiredness (fatigue). Low numbers of white blood cells (neutropenia) can lead to frequent and potentially life-threatening infections. A shortage of platelets (thrombocytopenia) can cause easy bruising and bleeding.  Many healthcare providers recommend that patients&apos; TPMT activity levels be tested before thiopurine drugs are prescribed. In people who are found to have reduced enzyme activity, the drugs may be given at a significantly lower dose or different medications can be used to reduce the risk of hematopoietic toxicity.  TPMT deficiency does not appear to cause any health problems other than those associated with thiopurine drug treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000978-2" qtype="frequency">How many people are affected by thiopurine S-methyltransferase deficiency ?</Question>
+			<Answer>Studies suggest that less than 1 percent of individuals in the general population have TPMT deficiency. Another 11 percent have moderately reduced levels of TPMT activity that increase their risk of hematopoietic toxicity with thiopurine drug treatment.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000978-3" qtype="genetic changes">What are the genetic changes related to thiopurine S-methyltransferase deficiency ?</Question>
+			<Answer>TPMT deficiency results from changes in the TPMT gene. This gene provides instructions for making the TPMT enzyme, which plays a critical role in breaking down (metabolizing) thiopurine drugs. Once inside the body, these drugs are converted to toxic compounds that kill immune system cells in the bone marrow. The TPMT enzyme &quot;turns off&quot; thiopurine drugs by breaking them down into inactive, nontoxic compounds. Changes in the TPMT gene reduce the stability and activity of the TPMT enzyme. Without enough of this enzyme, the drugs cannot be &quot;turned off,&quot; so they stay in the body longer and continue to destroy cells unchecked. The resulting damage to the bone marrow leads to potentially life-threatening myelosuppression.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000978-4" qtype="inheritance">Is thiopurine S-methyltransferase deficiency inherited ?</Question>
+			<Answer>The activity of the TPMT enzyme is inherited in a pattern described as autosomal codominant. Codominance means that two different versions of the gene are active (expressed), and both versions influence the genetic trait.  The TPMT gene can be classified as either low-activity or high-activity. When the gene is altered in a way that impairs the activity of the TPMT enzyme, it is described as low-activity. When the gene is unaltered and TPMT activity is normal, it is described as high-activity. Because two copies of the gene are present in each cell, each person can have two low-activity copies, one low-activity copy and one high-activity copy, or two high-activity copies.  People with two low-activity copies of the TPMT gene in each cell have TPMT deficiency and are at the greatest risk of developing hematopoietic toxicity when treated with thiopurine drugs unless they are given much less than the usual dose. People with one high-activity copy and one low-activity copy have moderately reduced enzyme activity and are also at increased risk of this complication unless given a significantly lower dose of the drug. People with two high-activity copies have normal TPMT activity and do not have an increased risk of hematopoietic toxicity with thiopurine drug treatment.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000978-5" qtype="treatment">What are the treatments for thiopurine S-methyltransferase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of thiopurine S-methyltransferase deficiency:  - MedlinePlus Drug: Azathioprine  - MedlinePlus Drug: Mercaptopurine  - MedlinePlus Drug: Thioguanine   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004303" source="GARD" url="https://rarediseases.info.nih.gov/gard/3912/naegeli-syndrome">
+<Focus>Naegeli syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0343111</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Naegeli-Franceschetti-Jadassohn syndrome</Synonym>
+		<Synonym>NFJ syndrome</Synonym>
+		<Synonym>Reticular skin changes, dental anomalies, decreased function of sweat glands, strabismus, and optic atrophy</Synonym>
+		<Synonym>NFJS</Synonym>
+		<Synonym>Palmoplantar keratoderma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004303-1" qtype="information">What is (are) Naegeli syndrome ?</Question>
+			<Answer>Naegeli syndrome belongs to a group of disorders known as ectodermal dysplasias. This condition is characterized by absent fingerprints, thickening of the palms and soles (palmoplantar keratoderma), decreased sweating (hypohidrosis), heat intolerance, patches of darker (hyperpigmented) skin, brittle nails, abnormally colored teeth, and early tooth loss. Naegeli syndrome is caused by mutations in the KRT14 gene and inherited in an autosomal dominant manner. Treatment is based on an individual&apos;s symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004303-2" qtype="symptoms">What are the symptoms of Naegeli syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Naegeli syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Naegeli syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of dental enamel 90% Abnormality of the fingernails 90% Abnormality of the toenails 90% Irregular hyperpigmentation 90% Palmoplantar keratoderma 90% Autosomal dominant inheritance - Carious teeth - Fragile nails - Heat intolerance - Hypohidrosis - Premature loss of teeth - Reticular hyperpigmentation - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004303-3" qtype="exams and tests">How to diagnose Naegeli syndrome ?</Question>
+			<Answer>How is Naegeli syndrome diagnosed? In most cases of Naegeli syndrome, a diagnosis is made based on the typical clinical features of this condition. The clinical diagnosis may be confirmed by genetic testing of the KRT14 gene.  GeneTests lists a laboratory that performs genetic testing of the KRT14 gene. If you are interested in genetic testing for this condition, we recommend that you consult with a genetics professional.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004303-4" qtype="treatment">What are the treatments for Naegeli syndrome ?</Question>
+			<Answer>Is there a treatment for Naegeli syndrome? Treatment for Naegeli syndrome is based on an individual&apos;s symptoms. Dry skin can be moisturized with creams. To avoid overheating, affected individuals should wear appropriate clothing and use wet dressings. Dental care is needed treat cavities and tooth loss.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

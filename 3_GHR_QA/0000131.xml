@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000131" source="GHR" url="https://ghr.nlm.nih.gov/condition/bloom-syndrome">
+<Focus>Bloom syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0005859</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bloom-Torre-Machacek syndrome</Synonym>
+		<Synonym>Bloom's syndrome</Synonym>
+		<Synonym>congenital telangiectatic erythema</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000131-1" qtype="information">What is (are) Bloom syndrome ?</Question>
+			<Answer>Bloom syndrome is an inherited disorder characterized by short stature, a skin rash that develops after exposure to the sun, and a greatly increased risk of cancer.  People with Bloom syndrome are usually smaller than 97 percent of the population in both height and weight from birth, and they rarely exceed 5 feet tall in adulthood.  Affected individuals have skin that is sensitive to sun exposure, and they usually develop a butterfly-shaped patch of reddened skin across the nose and cheeks. A skin rash can also appear on other areas that are typically exposed to the sun, such as the back of the hands and the forearms. Small clusters of enlarged blood vessels (telangiectases) often appear in the rash; telangiectases can also occur in the eyes. Other skin features include patches of skin that are lighter or darker than the surrounding areas (hypopigmentation or hyperpigmentation respectively). These patches appear on areas of the skin that are not exposed to the sun, and their development is not related to the rashes.  People with Bloom syndrome have an increased risk of cancer. They can develop any type of cancer, but the cancers arise earlier in life than they do in the general population, and affected individuals often develop more than one type of cancer.  Individuals with Bloom syndrome have a high-pitched voice and distinctive facial features including a long, narrow face; a small lower jaw; and prominent nose and ears. Other features can include learning disabilities, an increased risk of diabetes, chronic obstructive pulmonary disease (COPD), and mild immune system abnormalities leading to recurrent infections of the upper respiratory tract, ears, and lungs during infancy. Men with Bloom syndrome usually do not produce sperm and as a result are unable to father children (infertile). Women with the disorder generally have reduced fertility and experience menopause at an earlier age than usual.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000131-2" qtype="frequency">How many people are affected by Bloom syndrome ?</Question>
+			<Answer>Bloom syndrome is a rare disorder. Only a few hundred affected individuals have been described in the medical literature, about one-third of whom are of Central and Eastern European (Ashkenazi) Jewish background.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000131-3" qtype="genetic changes">What are the genetic changes related to Bloom syndrome ?</Question>
+			<Answer>Mutations in the BLM gene cause Bloom syndrome. The BLM gene provides instructions for making a member of a protein family called RecQ helicases. Helicases are enzymes that attach (bind) to DNA and unwind the two spiral strands (double helix) of the DNA molecule. This unwinding is necessary for several processes in the cell nucleus, including copying (replicating) DNA in preparation for cell division and repairing damaged DNA. Because RecQ helicases help maintain the structure and integrity of DNA, they are known as the &quot;caretakers of the genome.&quot;  When a cell prepares to divide to form two cells, the DNA that makes up the chromosomes is copied so that each new cell will have two copies of each chromosome, one from each parent. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. Sister chromatids occasionally exchange small sections of DNA during this time, a process known as sister chromatid exchange. Researchers suggest that these exchanges may be a response to DNA damage during the copying process. The BLM protein helps to prevent excess sister chromatid exchanges and is also involved in other processes that help maintain the stability of the DNA during the copying process.  BLM gene mutations result in the absence of functional BLM protein. As a result, the frequency of sister chromatid exchange is about 10 times higher than average. Exchange of DNA between chromosomes derived from the individual&apos;s mother and father are also increased in people with BLM gene mutations. In addition, chromosome breakage occurs more frequently in affected individuals. All of these changes are associated with gaps and breaks in the genetic material that impair normal cell activities and cause the health problems associated with this condition. Without the BLM protein, the cell is less able to repair DNA damage caused by ultraviolet light, which results in increased sun sensitivity. Genetic changes that allow cells to divide in an uncontrolled way lead to the cancers that occur in people with Bloom syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000131-4" qtype="inheritance">Is Bloom syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000131-5" qtype="treatment">What are the treatments for Bloom syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Bloom syndrome:  - Gene Review: Gene Review: Bloom&apos;s Syndrome  - Genetic Testing Registry: Bloom syndrome  - MedlinePlus Encyclopedia: Short Stature   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

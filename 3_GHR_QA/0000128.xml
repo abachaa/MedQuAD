@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000128" source="GHR" url="https://ghr.nlm.nih.gov/condition/bladder-cancer">
+<Focus>bladder cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0699885</CUI>
+			<CUI>C0005684</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cancer of the bladder</Synonym>
+		<Synonym>Malignant tumor of urinary bladder</Synonym>
+		<Synonym>Urinary bladder cancer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000128-1" qtype="information">What is (are) bladder cancer ?</Question>
+			<Answer>Bladder cancer is a disease in which certain cells in the bladder become abnormal and multiply without control or order. The bladder is a hollow, muscular organ in the lower abdomen that stores urine until it is ready to be excreted from the body. The most common type of bladder cancer begins in cells lining the inside of the bladder and is called transitional cell carcinoma (TCC).  Bladder cancer may cause blood in the urine, pain during urination, frequent urination, or the feeling that one needs to urinate without results. These signs and symptoms are not specific to bladder cancer, however. They also can be caused by noncancerous conditions such as infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000128-2" qtype="frequency">How many people are affected by bladder cancer ?</Question>
+			<Answer>In the United States, bladder cancer is the fourth most common type of cancer in men and the ninth most common cancer in women. About 45,000 men and 17,000 women are diagnosed with bladder cancer each year.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000128-3" qtype="genetic changes">What are the genetic changes related to bladder cancer ?</Question>
+			<Answer>As with most cancers, the exact causes of bladder cancer are not known; however, many risk factors are associated with this disease. Many of the major risk factors are environmental, such as smoking and exposure to certain industrial chemicals. Studies suggest that chronic bladder inflammation, a parasitic infection called schistosomiasis, and some medications used to treat cancer are other environmental risk factors associated with bladder cancer.  Genetic factors are also likely to play an important role in determining bladder cancer risk. Researchers have studied the effects of mutations in several genes, including FGFR3, RB1, HRAS, TP53, and TSC1, on the formation and growth of bladder tumors. Each of these genes plays a critical role in regulating cell division by preventing cells from dividing too rapidly or in an uncontrolled way. Alterations in these genes may help explain why some bladder cancers grow and spread more rapidly than others.  Deletions of part or all of chromosome 9 are common events in bladder tumors. Researchers believe that several genes that control cell growth and division are probably located on chromosome 9. They are working to determine whether a loss of these genes plays a role in the development and progression of bladder cancer.  Most of the genetic changes associated with bladder cancer develop in bladder tissue during a person&apos;s lifetime, rather than being inherited from a parent. Some people, however, appear to inherit a reduced ability to break down certain chemicals, which makes them more sensitive to the cancer-causing effects of tobacco smoke and industrial chemicals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000128-4" qtype="inheritance">Is bladder cancer inherited ?</Question>
+			<Answer>Bladder cancer is typically not inherited. Most often, tumors result from genetic mutations that occur in bladder cells during a person&apos;s lifetime. These noninherited genetic changes are called somatic mutations.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000128-5" qtype="treatment">What are the treatments for bladder cancer ?</Question>
+			<Answer>These resources address the diagnosis or management of bladder cancer:  - Genetic Testing Registry: Malignant tumor of urinary bladder  - MedlinePlus Encyclopedia: Bladder Cancer   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

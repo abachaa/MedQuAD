@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000716" source="GHR" url="https://ghr.nlm.nih.gov/condition/narcolepsy">
+<Focus>narcolepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027404</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Gelineau syndrome</Synonym>
+		<Synonym>narcoleptic syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000716-1" qtype="information">What is (are) narcolepsy ?</Question>
+			<Answer>Narcolepsy is a chronic sleep disorder that disrupts the normal sleep-wake cycle. Although this condition can appear at any age, it most often begins in adolescence.  Narcolepsy is characterized by excessive daytime sleepiness. Affected individuals feel tired during the day, and several times a day they may experience an overwhelming urge to sleep. &quot;Sleep attacks&quot; can occur at unusual times, such as during a meal or in the middle of a conversation. They last from a few seconds to a few minutes and often lead to a longer nap, after which affected individuals wake up feeling refreshed.  Another common feature of narcolepsy is cataplexy, which is a sudden loss of muscle tone in response to strong emotion (such as laughing, surprise, or anger). These episodes of muscle weakness can cause an affected person to slump over or fall, which occasionally leads to injury. Episodes of cataplexy usually last just a few seconds, and they may occur from several times a day to a few times a year. Most people diagnosed with narcolepsy also have cataplexy. However, some do not, which has led researchers to distinguish two major forms of the condition: narcolepsy with cataplexy and narcolepsy without cataplexy.  Narcolepsy also affects nighttime sleep. Most affected individuals have trouble sleeping for more than a few hours at night. They often experience vivid hallucinations while falling asleep (hypnogogic hallucinations) or while waking up (hypnopompic hallucinations). Affected individuals often have realistic and distressing dreams, and they may act out their dreams by moving excessively or talking in their sleep. Many people with narcolepsy also experience sleep paralysis, which is an inability to move or speak for a short period while falling asleep or awakening. The combination of hallucinations, vivid dreams, and sleep paralysis is often frightening and unpleasant for affected individuals.  Some people with narcolepsy have all of the major features of the disorder, while others have only one or two. Most of the signs and symptoms persist throughout life, although episodes of cataplexy may become less frequent with age and treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000716-2" qtype="frequency">How many people are affected by narcolepsy ?</Question>
+			<Answer>Narcolepsy affects about 1 in 2,000 people in the United States and Western Europe. However, the disorder is likely underdiagnosed, particularly in people with mild symptoms. Worldwide, narcolepsy appears to be most common in Japan, where it affects an estimated 1 in 600 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000716-3" qtype="genetic changes">What are the genetic changes related to narcolepsy ?</Question>
+			<Answer>Narcolepsy probably results from a combination of genetic and environmental factors, some of which have been identified, but many of which remain unknown.  In most cases of narcolepsy with cataplexy, and in some cases without cataplexy, sleep abnormalities result from a loss of particular brain cells (neurons) in a part of the brain called the hypothalamus. These cells normally produce chemicals called hypocretins (also known as orexins), which have many important functions in the body. In particular, hypocretins regulate the daily sleep-wake cycle. It is unclear what triggers the death of hypocretin-producing neurons in people with narcolepsy, although evidence increasingly points to an abnormality of the immune system.  Researchers have identified changes in several genes that influence the risk of developing narcolepsy. The most well-studied of these genes is HLA-DQB1, which provides instructions for making part of a protein that plays an important role in the immune system. The HLA-DQB1 gene is part of a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). The HLA-DQB1 gene has many different normal variations, allowing each person&apos;s immune system to react to a wide range of foreign proteins. A variation of the HLA-DQB1 gene called HLA-DQB1*06:02 has been strongly associated with narcolepsy, particularly in people who also have cataplexy and a loss of hypocretins. Most people with narcolepsy have the HLA-DQB1*06:02 variation, and many also have specific versions of other, closely related HLA genes. It is unclear how these genetic changes influence the risk of developing the condition.  Variations in several additional genes have also been associated with narcolepsy. Many of these genes are thought to play roles in immune system function. However, variations in these genes probably make only a small contribution to the overall risk of developing narcolepsy. Other genetic and environmental factors are also likely to influence a person&apos;s chances of developing this disorder. For example, studies suggest that bacterial or viral infections such as strep throat (streptococcus), colds, and influenza may be involved in triggering narcolepsy in people who are at risk.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000716-4" qtype="inheritance">Is narcolepsy inherited ?</Question>
+			<Answer>Most cases of narcolepsy are sporadic, which means they occur in people with no history of the disorder in their family. A small percentage of all cases have been reported to run in families; however, the condition does not have a clear pattern of inheritance. First-degree relatives (parents, siblings, and children) of people with narcolepsy with cataplexy have a 40 times greater risk of developing the condition compared with people in the general population.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000716-5" qtype="treatment">What are the treatments for narcolepsy ?</Question>
+			<Answer>These resources address the diagnosis or management of narcolepsy:  - Genetic Testing Registry: Narcolepsy 1  - Genetic Testing Registry: Narcolepsy 2, susceptibility to  - Genetic Testing Registry: Narcolepsy 3  - Genetic Testing Registry: Narcolepsy 4, susceptibility to  - Genetic Testing Registry: Narcolepsy 5, susceptibility to  - Narcolepsy Network: Treatment   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

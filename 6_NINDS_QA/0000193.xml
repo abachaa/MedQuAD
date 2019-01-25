@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000193" source="NINDS" url="http://www.ninds.nih.gov/disorders/microcephaly/microcephaly.htm">
+<Focus>Microcephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025958</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000193-1" qtype="information">What is (are) Microcephaly ?</Question>
+			<Answer>Microcephaly is a medical condition in which the circumference of the head is smaller than normal because the brain has not developed properly or has stopped growing. Microcephaly can be present at birth or it may develop in the first few years of life. It is most often caused by genetic abnormalities that interfere with the growth of the cerebral cortex during the early months of fetal development. Babies may also be born with microcephaly if, during pregnancy, their mother abused drugs or alcohol; became infected with a cytomegalovirus, rubella (German measles), varicella (chicken pox) virus, or possibly Zika virus; was exposed to certain toxic chemicals; or had untreated phenylketonuria (PKU, a harmful buildup of the amino acid phenylalanine in the blood). Microcephaly is associated with Downs syndrome, chromosomal syndromes, and neurometabolic syndromes.
+                
+With viral-induced brain injury, such as with the Zika virus, there is often widespread tissue and cell death leading to brain shrinkage rather than simply impaired growth. The Zika virus is also associated with retinal lesions in about a third of cases, often leading to blindness.
+                
+Depending on the severity of the accompanying syndrome, children with microcephaly may have impaired cognitive development, delayed motor functions and speech, facial distortions, dwarfism or short stature, hyperactivity, seizures, difficulties with coordination and balance, and other brain or neurological abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000193-2" qtype="treatment">What are the treatments for Microcephaly ?</Question>
+			<Answer>There is no treatment for microcephaly that can return a childs head to a normal size or shape. Treatment focuses on ways to decrease the impact of the associated deformities and neurological disabilities. Children with microcephaly and developmental delays are usually evaluated by a pediatric neurologist and followed by a medical management team. Early childhood intervention programs that involve physical, speech, and occupational therapists help to maximize abilities and minimize dysfunction. Medications are often used to control seizures, hyperactivity, and neuromuscular symptoms. Genetic counseling may help families understand the risk for microcephaly in subsequent pregnancies.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000193-3" qtype="outlook">What is the outlook for Microcephaly ?</Question>
+			<Answer>Some children with microcephaly will have normal intelligence and a head that will grow bigger, but they may track below the normal growth curves for head circumference. Some children may have only mild disability, while those with more severe cases may face significant learning disabilities, cognitive delays, or develop other neurological disorders. Many, if not most, cases if Zika microcephaly will be very severe, possibly requiring lifelong intensive care.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000193-4" qtype="research">what research (or clinical trials) is being done for Microcephaly ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), one of several institutes of the National Institutes of Health (NIH), conducts and funds research aimed at understanding normal brain development, as well as disease-related disorders of the brain and nervous system. Other NIH institutes and centers also support research on disorders that may affect development. Among several projects, scientists are studying genetic mechanisms and identifying novel genes involved with brain development. Animal models are helping scientists to better understand the pathology of human disease, and to discover how the sizes of tissues and organs are impacted by developmental variability. Other researchers hope to gain a better understanding of normal brain development and the molecular and cellular mechanisms of microcephaly.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

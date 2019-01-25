@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000939" source="GHR" url="https://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-2">
+<Focus>spinocerebellar ataxia type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0752121</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SCA2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000939-1" qtype="information">What is (are) spinocerebellar ataxia type 2 ?</Question>
+			<Answer>Spinocerebellar ataxia type 2 (SCA2) is a condition characterized by progressive problems with movement. People with this condition initially experience problems with coordination and balance (ataxia). Other early signs and symptoms of SCA2 include speech and swallowing difficulties, rigidity, tremors, and weakness in the muscles that control eye movement (ophthalmoplegia). Eye muscle weakness leads to a decreased ability to make rapid eye movements (saccadic slowing).  Over time, individuals with SCA2 may develop loss of sensation and weakness in the limbs (peripheral neuropathy), muscle wasting (atrophy), uncontrolled muscle tensing (dystonia), and involuntary jerking movements (chorea). Individuals with SCA2 may have problems with short term memory, planning, and problem solving, or experience an overall decline in intellectual function (dementia).  Signs and symptoms of the disorder typically begin in mid-adulthood but can appear anytime from childhood to late adulthood. People with SCA2 usually survive 10 to 20 years after symptoms first appear.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000939-2" qtype="frequency">How many people are affected by spinocerebellar ataxia type 2 ?</Question>
+			<Answer>The prevalence of SCA2 is unknown. This condition is estimated to be one of the most common types of spinocerebellar ataxia; however, all types of spinocerebellar ataxia are relatively rare. SCA2 is more common in Cuba, particularly in the Holgun province, where approximately 40 per 100,000 individuals are affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000939-3" qtype="genetic changes">What are the genetic changes related to spinocerebellar ataxia type 2 ?</Question>
+			<Answer>Mutations in the ATXN2 gene cause SCA2. The ATXN2 gene provides instructions for making a protein called ataxin-2. This protein is found throughout the body, but its function is unknown. Ataxin-2 is found in the fluid inside cells (cytoplasm), where it appears to interact with a cell structure called the endoplasmic reticulum. The endoplasmic reticulum is involved in protein production, processing, and transport. Researchers believe that ataxin-2 may be involved in processing RNA, a chemical cousin of DNA. Ataxin-2 is also thought to play a role in the production of proteins from RNA (translation of DNA&apos;s genetic information).  The ATXN2 gene mutations that cause SCA2 involve a DNA segment known as a CAG trinucleotide repeat. This segment is made up of a series of three DNA building blocks (cytosine, adenine, and guanine) that appear multiple times in a row. Normally, the CAG segment is repeated approximately 22 times within the gene, but it can be repeated up to 31 times without causing any health problems. Individuals with 32 or more CAG repeats in the ATXN2 gene develop SCA2. People with 32 or 33 repeats tend to first experience signs and symptoms of SCA2 in late adulthood, while people with more than 45 repeats usually have signs and symptoms by their teens.  It is unclear how the abnormally long CAG segment affects the function of the ataxin-2 protein. The abnormal protein apparently leads to cell death, as people with SCA2 show loss of brain cells in different parts of the brain. Over time, the loss of brain cells causes the movement problems characteristic of SCA2.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000939-4" qtype="inheritance">Is spinocerebellar ataxia type 2 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. An affected person usually inherits the altered gene from one affected parent. However, some people with SCA2 do not have a parent with the disorder. Individuals who have an increase in the number of CAG repeats in the ATXN2 gene, but do not develop SCA2, are at risk of having children who will develop the disorder.  As the altered ATXN2 gene is passed down from one generation to the next, the length of the CAG trinucleotide repeat often increases. A larger number of repeats is usually associated with an earlier onset of signs and symptoms. This phenomenon is called anticipation. Anticipation tends to be more prominent when the ATXN2 gene is inherited from a person&apos;s father (paternal inheritance) than when it is inherited from a person&apos;s mother (maternal inheritance).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000939-5" qtype="treatment">What are the treatments for spinocerebellar ataxia type 2 ?</Question>
+			<Answer>These resources address the diagnosis or management of SCA2:  - Gene Review: Gene Review: Spinocerebellar Ataxia Type 2  - Genetic Testing Registry: Spinocerebellar ataxia 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

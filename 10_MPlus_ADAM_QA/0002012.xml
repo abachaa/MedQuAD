@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002012" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000909.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Hormone therapy for breast cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006142</CUI>
+			<CUI>C0678222</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hormonal therapy - breast cancer</Synonym>
+		<Synonym>Hormone treatment - breast cancer</Synonym>
+		<Synonym>Endocrine therapy</Synonym>
+		<Synonym>Hormone-sensitive cancers-therapy</Synonym>
+		<Synonym>ER positive-therapy</Synonym>
+		<Synonym>Aromatase inhibitors-breast cancer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002012-1" qtype="information">What is (are) Hormone therapy for breast cancer ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000309" source="GHR" url="https://ghr.nlm.nih.gov/condition/dystonia-6">
+<Focus>dystonia 6</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1414216</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DYT6</Synonym>
+		<Synonym>DYT6 dystonia</Synonym>
+		<Synonym>idiopathic torsion dystonia of mixed type</Synonym>
+		<Synonym>primary dystonia, DYT6 type</Synonym>
+		<Synonym>THAP1 dystonia</Synonym>
+		<Synonym>torsion dystonia 6</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000309-1" qtype="information">What is (are) dystonia 6 ?</Question>
+			<Answer>Dystonia 6 is one of many forms of dystonia, which is a group of conditions characterized by involuntary movements, twisting (torsion) and tensing of various muscles, and unusual positioning of affected body parts. Dystonia 6 can appear at any age from childhood through adulthood; the average age of onset is 18.  The signs and symptoms of dystonia 6 vary among affected individuals. The disorder usually first impacts muscles of the head and neck, causing problems with speaking (dysarthria) and eating (dysphagia). Eyelid twitching (blepharospasm) may also occur. Involvement of one or more limbs is common, and in some cases occurs before the head and neck problems. Dystonia 6 gradually gets worse, and it may eventually involve most of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000309-2" qtype="frequency">How many people are affected by dystonia 6 ?</Question>
+			<Answer>The prevalence of dystonia 6 is unknown. Studies indicate that it likely accounts for between 1 and 3 percent of all cases of dystonia. For reasons that are unclear, the disorder appears to be slightly more prevalent in females than in males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000309-3" qtype="genetic changes">What are the genetic changes related to dystonia 6 ?</Question>
+			<Answer>Dystonia 6 is caused by mutations in the THAP1 gene. This gene provides instructions for making a protein that is a transcription factor, which means that it attaches (binds) to specific regions of DNA and regulates the activity of other genes. Through this function, it is thought to help control several processes in the body, including the growth and division (proliferation) of endothelial cells, which line the inside surface of blood vessels and other circulatory system structures called lymphatic vessels. The THAP1 protein also plays a role in the self-destruction of cells that are no longer needed (apoptosis).  Studies indicate that most of the THAP1 gene mutations that cause dystonia 6 affect the stability of the THAP1 protein, reducing the amount of functional THAP1 protein available for DNA binding. Other mutations may impair the protein&apos;s ability to bind with the correct regions of DNA. Problems with DNA binding likely disrupt the proper regulation of gene activity, leading to the signs and symptoms of dystonia 6.  A particular THAP1 gene mutation is specific to a Mennonite population in the Midwestern United States in which dystonia 6 was first described. This mutation changes the DNA sequence in a region of the gene known as exon 2. Some researchers use the term DYT6 dystonia to refer to dystonia caused by this particular mutation, and the broader term THAP1 dystonia to refer to dystonia caused by any THAP1 gene mutation. In general, mutations affecting the region of the THAP1 protein that binds to DNA, including the mutation found in the Mennonite population, tend to result in more severe signs and symptoms than mutations affecting other regions of the protein.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000309-4" qtype="inheritance">Is dystonia 6 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell can be sufficient to cause the disorder. Some people who inherit the altered gene never develop the condition, a situation known as reduced penetrance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000309-5" qtype="treatment">What are the treatments for dystonia 6 ?</Question>
+			<Answer>These resources address the diagnosis or management of dystonia 6:  - Gene Review: Gene Review: Dystonia Overview  - Genetic Testing Registry: Dystonia 6, torsion   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

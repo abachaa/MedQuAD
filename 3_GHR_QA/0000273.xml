@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000273" source="GHR" url="https://ghr.nlm.nih.gov/condition/deafness-and-myopia-syndrome">
+<Focus>deafness and myopia syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C3806275</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deafness and myopia</Synonym>
+		<Synonym>deafness, cochlear, plus</Synonym>
+		<Synonym>DFNMYP</Synonym>
+		<Synonym>high myopia and sensorineural deafness</Synonym>
+		<Synonym>high myopia-sensorineural deafness syndrome</Synonym>
+		<Synonym>myopia and deafness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000273-1" qtype="information">What is (are) deafness and myopia syndrome ?</Question>
+			<Answer>Deafness and myopia syndrome is a disorder that causes problems with both hearing and vision. People with this disorder have moderate to profound hearing loss in both ears that may worsen over time. The hearing loss may be described as sensorineural, meaning that it is related to changes in the inner ear, or it may be caused by auditory neuropathy, which is a problem with the transmission of sound (auditory) signals from the inner ear to the brain. The hearing loss is either present at birth (congenital) or begins in infancy, before the child learns to speak (prelingual).  Affected individuals also have severe nearsightedness (high myopia). These individuals are able to see nearby objects clearly, but objects that are farther away appear blurry. The myopia is usually diagnosed by early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000273-2" qtype="frequency">How many people are affected by deafness and myopia syndrome ?</Question>
+			<Answer>The prevalence of deafness and myopia syndrome is unknown. Only a few affected families have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000273-3" qtype="genetic changes">What are the genetic changes related to deafness and myopia syndrome ?</Question>
+			<Answer>Deafness and myopia syndrome is caused by mutations in the SLITRK6 gene. The protein produced from this gene is found primarily in the inner ear and the eye. This protein promotes growth and survival of nerve cells (neurons) in the inner ear that transmit auditory signals. It also controls (regulates) the growth of the eye after birth. In particular, the SLITRK6 protein influences the length of the eyeball (axial length), which affects whether a person will be nearsighted or farsighted, or will have normal vision. The SLITRK6 protein spans the cell membrane, where it is anchored in the proper position to perform its function.  SLITRK6 gene mutations that cause deafness and myopia syndrome result in an abnormally short SLITRK6 protein that is not anchored properly to the cell membrane. As a result, the protein is unable to function normally. Impaired SLITRK6 protein function leads to abnormal nerve development in the inner ear and improperly controlled eyeball growth, resulting in the hearing loss and nearsightedness that occur in deafness and myopia syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000273-4" qtype="inheritance">Is deafness and myopia syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000273-5" qtype="treatment">What are the treatments for deafness and myopia syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of deafness and myopia syndrome:  - Baby&apos;s First Test: Hearing Loss  - EyeSmart: Eyeglasses for Vision Correction  - Gene Review: Gene Review: Deafness and Myopia Syndrome  - Harvard Medical School Center for Hereditary Deafness  - KidsHealth: Hearing Evaluation in Children  - MedlinePlus Encyclopedia: Cochlear Implant  - MedlinePlus Health Topic: Cochlear Implants  - MedlinePlus Health Topic: Hearing Aids  - MedlinePlus Health Topic: Newborn Screening   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

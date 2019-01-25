@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001030" source="GHR" url="https://ghr.nlm.nih.gov/condition/weaver-syndrome">
+<Focus>Weaver syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265210</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>camptodactyly-overgrowth-unusual facies</Synonym>
+		<Synonym>Weaver-Smith syndrome</Synonym>
+		<Synonym>WSS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001030-1" qtype="information">What is (are) Weaver syndrome ?</Question>
+			<Answer>Weaver syndrome is a condition that involves tall stature with or without a large head size (macrocephaly), a variable degree of intellectual disability (usually mild), and characteristic facial features. These features can include a broad forehead; widely spaced eyes (hypertelorism); large, low-set ears; a dimpled chin, and a small lower jaw (micrognathia).  People with Weaver syndrome can also have joint deformities called contractures that restrict the movement of affected joints. The contractures may particularly affect the fingers and toes, resulting in permanently bent digits (camptodactyly). Other features of this disorder can include abnormal curvature of the spine (kyphoscoliosis); muscle tone that is either reduced (hypotonia) or increased (hypertonia); loose, saggy skin; and a soft-outpouching around the belly-button (umbilical hernia). Some affected individuals have abnormalities in the folds (gyri) of the brain, which can be seen by medical imaging; the relationship between these brain abnormalities and the intellectual disability associated with Weaver syndrome is unclear.  Researchers suggest that people with Weaver syndrome may have an increased risk of developing cancer, in particular a slightly increased risk of developing a tumor called neuroblastoma in early childhood, but the small number of affected individuals makes it difficult to determine the exact risk.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001030-2" qtype="frequency">How many people are affected by Weaver syndrome ?</Question>
+			<Answer>The prevalence of Weaver syndrome is unknown. About 50 affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001030-3" qtype="genetic changes">What are the genetic changes related to Weaver syndrome ?</Question>
+			<Answer>Weaver syndrome is usually caused by mutations in the EZH2 gene. The EZH2 gene provides instructions for making a type of enzyme called a histone methyltransferase. Histone methyltransferases modify proteins called histones, which are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones (methylation), histone methyltransferases can turn off the activity of certain genes, which is an essential process in normal development. It is unclear how mutations in the EZH2 gene result in the abnormalities characteristic of Weaver syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001030-4" qtype="inheritance">Is Weaver syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family. In a small number of cases, an affected person inherits the mutation from one affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001030-5" qtype="treatment">What are the treatments for Weaver syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Weaver syndrome:  - Genetic Testing Registry: Weaver syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

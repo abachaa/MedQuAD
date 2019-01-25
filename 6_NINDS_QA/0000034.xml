@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000034" source="NINDS" url="http://www.ninds.nih.gov/disorders/atrial_fibrillation_and_stroke/atrial_fibrillation_and_stroke.htm">
+<Focus>Atrial Fibrillation and Stroke</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038454</CUI>
+			<CUI>C1963067</CUI>
+			<CUI>C0004238</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000034-1" qtype="information">What is (are) Atrial Fibrillation and Stroke ?</Question>
+			<Answer>Atrial fibrillation (AF) describes the rapid, irregular beating of the left atrium (upper chamber) of the heart. These rapid contractions of the heart are weaker than normal contractions, resulting in slow flow of blood in the atrium. The blood pools and becomes sluggish and can result in the formation of blood clots. If a clot leaves the heart and travels to the brain, it can cause a stroke by blocking the flow of blood through cerebral arteries. Some people with AF have no symptoms, but others may experience a fluttering feeling in the area of the chest above the heart, chest pain, lightheadness or fainting, shortness of breath, and fatigue. AF is diagnosed by an electrocardiogram (ECG), a device that records the hearts electrical activity. Other tests are often performed to rule out contributing causes, such as high blood pressure, an overactive thyroid gland, heart failure, faulty heart valves, lung disease, and stimulant or alcohol abuse. Some people will have no identifiable cause for their AF.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000034-2" qtype="treatment">What are the treatments for Atrial Fibrillation and Stroke ?</Question>
+			<Answer>Within a few hours after onset of a stroke, treatment with drugs or devices that dissolve or break up the clot can restore blood flow to the brain and lead to a better recovery. To prevent strokes related to AF, doctors often prescribe medications to prevent formation of clots in the heart, which can travel to the brain and cause stroke. Immediately after a stroke, doctors may temporarily administer heparin by injection, while starting an oral medication for long-term protection from clots. The most commonly used drug has been warfarin. People taking warfarin must be closely monitored to make sure their blood is thin enough to prevent clots, but not so thin as to promote bleeding. Since some foods, vitamin supplements, and medications can affect warfarin action, keeping the blood just thin enough can be tricky. More recently, a number of new blood thinners, including dabigatran, rivaroxaban, and apixaban, have been shown to be as effective as warfarin in stroke prevention. These newer medications do not require regular blood test monitoring and may have less tendency to cause bleeding due to making the blood too thin. Some individuals with AF may have a lower risk of stroke and may be treated with aspirin, either alone or with another antiplatelet agency like clopidogrel. Other treatments for AF include medications such as beta blockers or calcium channel blockers to slow the heartbeat, and anti-arrhythmic drugs or electrical cardioversion (which delivers an electrical shock to the heart) to normalize the heartbeat.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000034-3" qtype="outlook">What is the outlook for Atrial Fibrillation and Stroke ?</Question>
+			<Answer>AF, which affects as many as 2.2 million Americans, increases an individuals risk of stroke by 4 to 6 times on average. The risk increases with age. In people over 80 years old, AF is the direct cause of 1 in 4 strokes. Treating individuals with warfarin or new blood thinners reduces the rate of stroke for those who have AF by approximately one-half to two- thirds. People with AF can have multiple strokes, including silent strokes (strokes that don&apos;t show physical symptoms but show up on a brain scan) that, over time, can cause dementia, so prevention is important.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000034-4" qtype="research">what research (or clinical trials) is being done for Atrial Fibrillation and Stroke ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) is the leading Federal agency directing and funding research relevant to AF and stroke prevention. The NINDS conducts basic and clinical research in its laboratories and clinics at the National Institutes of Health (NIH), and also supports additional research through grants to major research institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders such as AF that can increase the risk of stroke.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

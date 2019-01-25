@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000474" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-sensory-and-autonomic-neuropathy-type-v">
+<Focus>hereditary sensory and autonomic neuropathy type V</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0259749</CUI>
+			<CUI>C0020075</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital insensitivity to pain</Synonym>
+		<Synonym>congenital sensory neuropathy with selective loss of small myelinated fibers</Synonym>
+		<Synonym>hereditary sensory and autonomic neuropathy, type 5</Synonym>
+		<Synonym>HSAN type V</Synonym>
+		<Synonym>HSAN V</Synonym>
+		<Synonym>HSAN5</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000474-1" qtype="information">What is (are) hereditary sensory and autonomic neuropathy type V ?</Question>
+			<Answer>Hereditary sensory and autonomic neuropathy type V (HSAN5) is a condition that primarily affects the sensory nerve cells (sensory neurons), which transmit information about sensations such as pain, temperature, and touch. These sensations are impaired in people with HSAN5.  The signs and symptoms of HSAN5 appear early, usually at birth or during infancy. People with HSAN5 lose the ability to feel pain, heat, and cold. Deep pain perception, the feeling of pain from injuries to bones, ligaments, or muscles, is especially affected in people with HSAN5. Because of the inability to feel deep pain, affected individuals suffer repeated severe injuries such as bone fractures and joint injuries that go unnoticed. Repeated trauma can lead to a condition called Charcot joints, in which the bones and tissue surrounding joints are destroyed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000474-2" qtype="frequency">How many people are affected by hereditary sensory and autonomic neuropathy type V ?</Question>
+			<Answer>HSAN5 is very rare. Only a few people with the condition have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000474-3" qtype="genetic changes">What are the genetic changes related to hereditary sensory and autonomic neuropathy type V ?</Question>
+			<Answer>Mutations in the NGF gene cause HSAN5. The NGF gene provides instructions for making a protein called nerve growth factor beta (NGF) that is important in the development and survival of nerve cells (neurons), including sensory neurons. The NGF protein functions by attaching (binding) to its receptors, which are found on the surface of neurons. Binding of the NGF protein to its receptor transmits signals to the cell to grow and to mature and take on specialized functions (differentiate). This binding also blocks signals in the cell that initiate the process of self-destruction (apoptosis). Additionally, NGF signaling plays a role in pain sensation. Mutation of the NGF gene leads to the production of a protein that cannot bind to the receptor and does not transmit signals properly. Without the proper signaling, sensory neurons die and pain sensation is altered, resulting in the inability of people with HSAN5 to feel pain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000474-4" qtype="inheritance">Is hereditary sensory and autonomic neuropathy type V inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000474-5" qtype="treatment">What are the treatments for hereditary sensory and autonomic neuropathy type V ?</Question>
+			<Answer>These resources address the diagnosis or management of HSAN5:  - Genetic Testing Registry: Congenital sensory neuropathy with selective loss of small myelinated fibers   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

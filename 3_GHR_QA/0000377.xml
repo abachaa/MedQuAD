@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000377" source="GHR" url="https://ghr.nlm.nih.gov/condition/fish-eye-disease">
+<Focus>fish-eye disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342895</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alpha-LCAT deficiency</Synonym>
+		<Synonym>alpha-lecithin:cholesterol acyltransferase deficiency</Synonym>
+		<Synonym>dyslipoproteinemic corneal dystrophy</Synonym>
+		<Synonym>FED</Synonym>
+		<Synonym>LCATA deficiency</Synonym>
+		<Synonym>partial LCAT deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000377-1" qtype="information">What is (are) fish-eye disease ?</Question>
+			<Answer>Fish-eye disease, also called partial LCAT deficiency, is a disorder that causes the clear front surface of the eyes (the corneas) to gradually become cloudy. The cloudiness, which generally first appears in adolescence or early adulthood, consists of small grayish dots of cholesterol (opacities) distributed across the corneas. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals; it aids in many functions of the body but can become harmful in excessive amounts. As fish-eye disease progresses, the corneal cloudiness worsens and can lead to severely impaired vision.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000377-2" qtype="frequency">How many people are affected by fish-eye disease ?</Question>
+			<Answer>Fish-eye disease is a rare disorder. Approximately 30 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000377-3" qtype="genetic changes">What are the genetic changes related to fish-eye disease ?</Question>
+			<Answer>Fish-eye disease is caused by mutations in the LCAT gene. This gene provides instructions for making an enzyme called lecithin-cholesterol acyltransferase (LCAT).  The LCAT enzyme plays a role in removing cholesterol from the blood and tissues by helping it attach to molecules called lipoproteins, which carry it to the liver. Once in the liver, the cholesterol is redistributed to other tissues or removed from the body. The enzyme has two major functions, called alpha- and beta-LCAT activity. Alpha-LCAT activity helps attach cholesterol to a lipoprotein called high-density lipoprotein (HDL). Beta-LCAT activity helps attach cholesterol to other lipoproteins called very low-density lipoprotein (VLDL) and low-density lipoprotein (LDL).  LCAT gene mutations that cause fish-eye disease impair alpha-LCAT activity, reducing the enzyme&apos;s ability to attach cholesterol to HDL. Impairment of this mechanism for reducing cholesterol in the body leads to cholesterol-containing opacities in the corneas. It is not known why the cholesterol deposits affect only the corneas in this disorder. Mutations that affect both alpha-LCAT activity and beta-LCAT activity lead to a related disorder called complete LCAT deficiency, which involves corneal opacities in combination with features affecting other parts of the body.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000377-4" qtype="inheritance">Is fish-eye disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000377-5" qtype="treatment">What are the treatments for fish-eye disease ?</Question>
+			<Answer>These resources address the diagnosis or management of fish-eye disease:  - Genetic Testing Registry: Fish-eye disease  - MedlinePlus Encyclopedia: Corneal Transplant  - Oregon Health and Science University: Corneal Dystrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

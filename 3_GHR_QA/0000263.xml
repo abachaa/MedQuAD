@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000263" source="GHR" url="https://ghr.nlm.nih.gov/condition/cystinosis">
+<Focus>cystinosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2931187</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cystine storage disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000263-1" qtype="information">What is (are) cystinosis ?</Question>
+			<Answer>Cystinosis is a condition characterized by accumulation of the amino acid cystine (a building block of proteins) within cells. Excess cystine damages cells and often forms crystals that can build up and cause problems in many organs and tissues. The kidneys and eyes are especially vulnerable to damage; the muscles, thyroid, pancreas, and testes may also be affected.  There are three distinct types of cystinosis. In order of decreasing severity, they are nephropathic cystinosis, intermediate cystinosis, and non-nephropathic or ocular cystinosis.  Nephropathic cystinosis begins in infancy, causing poor growth and a particular type of kidney damage (renal Fanconi syndrome) in which certain molecules that should be reabsorbed into the bloodstream are instead eliminated in the urine. The kidney problems lead to the loss of important minerals, salts, fluids, and many other nutrients. The loss of nutrients impairs growth and may result in soft, bowed bones (hypophosphatemic rickets), especially in the legs. The nutrient imbalances in the body lead to increased urination, thirst, dehydration, and abnormally acidic blood (acidosis). By about the age of 2, cystine crystals may be present in the clear covering of the eye (cornea). The buildup of these crystals in the eye causes pain and an increased sensitivity to light (photophobia). Untreated children will experience complete kidney failure by about the age of 10. Other signs and symptoms that may occur in untreated people, especially after adolescence, include muscle deterioration, blindness, inability to swallow, diabetes, thyroid and nervous system problems, and an inability to father children (infertility) in affected men.  The signs and symptoms of intermediate cystinosis are the same as nephropathic cystinosis, but they occur at a later age. Intermediate cystinosis typically becomes apparent in affected individuals in adolescence. Malfunctioning kidneys and corneal crystals are the main initial features of this disorder. If intermediate cystinosis is left untreated, complete kidney failure will occur, but usually not until the late teens to mid-twenties.  People with non-nephropathic or ocular cystinosis typically experience photophobia due to cystine crystals in the cornea, but usually do not develop kidney malfunction or most of the other signs and symptoms of cystinosis. Due to the absence of severe symptoms, the age at which this form of cystinosis is diagnosed varies widely.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000263-2" qtype="frequency">How many people are affected by cystinosis ?</Question>
+			<Answer>Cystinosis affects approximately 1 in 100,000 to 200,000 newborns worldwide. The incidence is higher in the province of Brittany, France, where the disorder affects 1 in 26,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000263-3" qtype="genetic changes">What are the genetic changes related to cystinosis ?</Question>
+			<Answer>All three types of cystinosis are caused by mutations in the CTNS gene. Mutations in this gene lead to a deficiency of a transporter protein called cystinosin. Within cells, this protein normally moves cystine out of the lysosomes, which are compartments in the cell that digest and recycle materials. When cystinosin is defective or missing, cystine accumulates and forms crystals in the lysosomes. The buildup of cystine damages cells in the kidneys and eyes and may also affect other organs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000263-4" qtype="inheritance">Is cystinosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000263-5" qtype="treatment">What are the treatments for cystinosis ?</Question>
+			<Answer>These resources address the diagnosis or management of cystinosis:  - Cystinosis Research Foundation: Treatment  - Cystinosis Research Network: Symptoms and Treatment  - Gene Review: Gene Review: Cystinosis  - Genetic Testing Registry: Cystinosis  - Genetic Testing Registry: Cystinosis, ocular nonnephropathic  - Genetic Testing Registry: Juvenile nephropathic cystinosis  - MedlinePlus Encyclopedia: Fanconi Syndrome  - MedlinePlus Encyclopedia: Photophobia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

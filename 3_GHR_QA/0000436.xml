@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000436" source="GHR" url="https://ghr.nlm.nih.gov/condition/graves-disease">
+<Focus>Graves disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018213</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autoimmune hyperthyroidism</Synonym>
+		<Synonym>Basedow disease</Synonym>
+		<Synonym>Basedow's disease</Synonym>
+		<Synonym>exophthalmic goiter</Synonym>
+		<Synonym>Graves' disease</Synonym>
+		<Synonym>toxic diffuse goiter</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000436-1" qtype="information">What is (are) Graves disease ?</Question>
+			<Answer>Graves disease is a condition that affects the function of the thyroid, which is a butterfly-shaped gland in the lower neck. The thyroid makes hormones that help regulate a wide variety of critical body functions. For example, thyroid hormones influence growth and development, body temperature, heart rate, menstrual cycles, and weight. In people with Graves disease, the thyroid is overactive and makes more hormones than the body needs. The condition usually appears in mid-adulthood, although it may occur at any age.  Excess thyroid hormones can cause a variety of signs and symptoms. These include nervousness or anxiety, extreme tiredness (fatigue), a rapid and irregular heartbeat, hand tremors, frequent bowel movements or diarrhea, increased sweating and difficulty tolerating hot conditions, trouble sleeping, and weight loss in spite of an increased appetite. Affected women may have menstrual irregularities, such as an unusually light menstrual flow and infrequent periods. Some people with Graves disease develop an enlargement of the thyroid called a goiter. Depending on its size, the enlarged thyroid can cause the neck to look swollen and may interfere with breathing and swallowing.  Between 25 and 50 percent of people with Graves disease have eye abnormalities, which are known as Graves ophthalmopathy. These eye problems can include swelling and inflammation, redness, dryness, puffy eyelids, and a gritty sensation like having sand or dirt in the eyes. Some people develop bulging of the eyes caused by inflammation of tissues behind the eyeball and &quot;pulling back&quot; (retraction) of the eyelids. Rarely, affected individuals have more serious eye problems, such as pain, double vision, and pinching (compression) of the optic nerve connecting the eye and the brain, which can cause vision loss.  A small percentage of people with Graves disease develop a skin abnormality called pretibial myxedema or Graves dermopathy. This abnormality causes the skin on the front of the lower legs and the tops of the feet to become thick, lumpy, and red. It is not usually painful.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000436-2" qtype="frequency">How many people are affected by Graves disease ?</Question>
+			<Answer>Graves disease affects about 1 in 200 people. The disease occurs more often in women than in men, which may be related to hormonal factors. Graves disease is the most common cause of thyroid overactivity (hyperthyroidism) in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000436-3" qtype="genetic changes">What are the genetic changes related to Graves disease ?</Question>
+			<Answer>Graves disease is thought to result from a combination of genetic and environmental factors. Some of these factors have been identified, but many remain unknown.  Graves disease is classified as an autoimmune disorder, one of a large group of conditions that occur when the immune system attacks the body&apos;s own tissues and organs. In people with Graves disease, the immune system creates a protein (antibody) called thyroid-stimulating immunoglobulin (TSI). TSI signals the thyroid to increase its production of hormones abnormally. The resulting overactivity of the thyroid causes many of the signs and symptoms of Graves disease. Studies suggest that immune system abnormalities also underlie Graves ophthalmopathy and pretibial myxedema.  People with Graves disease have an increased risk of developing other autoimmune disorders, including rheumatoid arthritis, pernicious anemia, systemic lupus erythematosus, Addison disease, celiac disease, type 1 diabetes, and vitiligo.  Variations in many genes have been studied as possible risk factors for Graves disease. Some of these genes are part of a family called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). Other genes that have been associated with Graves disease help regulate the immune system or are involved in normal thyroid function. Most of the genetic variations that have been discovered are thought to have a small impact on a person&apos;s overall risk of developing this condition.  Other, nongenetic factors are also believed to play a role in Graves disease. These factors may trigger the condition in people who are at risk, although the mechanism is unclear. Potential triggers include changes in sex hormones (particularly in women), viral or bacterial infections, certain medications, and having too much or too little iodine (a substance critical for thyroid hormone production). Smoking increases the risk of eye problems and is associated with more severe eye abnormalities in people with Graves disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000436-4" qtype="inheritance">Is Graves disease inherited ?</Question>
+			<Answer>The inheritance pattern of Graves disease is unclear because many genetic and environmental factors appear to be involved. However, the condition can cluster in families, and having a close relative with Graves disease or another autoimmune disorder likely increases a person&apos;s risk of developing the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000436-5" qtype="treatment">What are the treatments for Graves disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Graves disease:  - American Thyroid Association: Thyroid Function Tests  - Genetic Testing Registry: Graves disease 2  - Genetic Testing Registry: Graves disease 3  - Genetic Testing Registry: Graves disease, susceptibility to, X-linked 1  - Genetic Testing Registry: Graves&apos; disease  - Graves&apos; Disease &amp; Thyroid Foundation: Treatment Options  - MedlinePlus Encyclopedia: TSI  - National Institute of Diabetes and Digestive and Kidney Diseases: Thyroid Function Tests  - Thyroid Disease Manager: Diagnosis and Treatment of Graves Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

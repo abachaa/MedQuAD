@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006502" source="GARD" url="https://rarediseases.info.nih.gov/gard/12943/x-linked-hypophosphatemia">
+<Focus>X-linked hypophosphatemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085682</CUI>
+			<CUI>C0595888</CUI>
+			<CUI>C3540852</CUI>
+			<CUI>C3536984</CUI>
+			<CUI>C0733682</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>X-linked hypophosphatemic rickets</Synonym>
+		<Synonym>XLH</Synonym>
+		<Synonym>Hypophosphatemic rickets, X-linked dominant</Synonym>
+		<Synonym>Hypophophatemia, X-linked</Synonym>
+		<Synonym>Vitamin D-Resistant Rickets, X-linked</Synonym>
+		<Synonym>Hypophosphatemic rickets</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006502-1" qtype="information">What is (are) X-linked hypophosphatemia ?</Question>
+			<Answer>X-linked Hypophosphatemia (XLH) is an inherited metabolic disorder characterized by low phosphate levels in the blood that can lead to softening and weakening of bones (rickets) as a result of improper processing of phosphate in the kidneys leading to phosphate wasting. XLH is usually diagnosed in childhood, and clinical features include bone abnormalities such as bowed or bent legs, short stature, bone pain, and spontaneous dental abscesses. The condition is caused by mutations in the PHEX gene on the X chromosome, and is inherited in an X-linked dominant manner. Treatment generally involves phosphate supplementation along with high-dose calcitriol (active Vitamin D) and may also included growth hormones supplementation, corrective surgery, and dental treatment. With consistent treatment, prognosis is typically good, though growth rate may still be low.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006502-2" qtype="symptoms">What are the symptoms of X-linked hypophosphatemia ?</Question>
+			<Answer>What are the signs and symptoms of X-linked hypophosphatemia? Symptoms of X-linked hypophosphatemia (XLH) usually begin in early childhood, though severity varies case by case. Early signs include skeletal abnormalities such as noticeably bowed or bent legs, short stature, and irregular growth of the skull. Overtime, symptoms may progress to include bone pain, joint pain caused by the calcification of tendons and ligaments, and spontaneous dental abscesses. Some people with XLH may also experience hearing loss, though this is highly variable and appears to be rare. The Human Phenotype Ontology provides the following list of signs and symptoms for X-linked hypophosphatemia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of dental enamel 90% Abnormality of the metaphyses 90% Bone pain 90% Genu varum 90% Premature loss of teeth 90% Craniofacial hyperostosis 50% Enthesitis 50% Osteoarthritis 50% Short stature 50% Hearing impairment 7.5% Recurrent fractures 7.5% Abnormality of pelvic girdle bone morphology - Arthralgia - Bowing of the legs - Elevated alkaline phosphatase - Elevated circulating parathyroid hormone (PTH) level - Femoral bowing - Fibular bowing - Flattening of the talar dome - Frontal bossing - Hypomineralization of enamel - Hypophosphatemia - Hypophosphatemic rickets - Metaphyseal irregularity - Osteomalacia - Phenotypic variability - Renal phosphate wasting - Renal tubular dysfunction - Shortening of the talar neck - Spinal canal stenosis - Spinal cord compression - Tibial bowing - Trapezoidal distal femoral condyles - X-linked dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006502-3" qtype="causes">What causes X-linked hypophosphatemia ?</Question>
+			<Answer>What causes X-linked hypophosphatemia? X-linked hypophosphatemia (XLH) is caused by mutations in the PHEX  gene on the X chromosome. Nearly 300 PHEX mutations have been associated with XLH. Mutations in this gene lead to an increase in the bodily concentration of fibroblast growth factor 23 (FGF23), a growth hormone that regulates phosphate reabsorption in the kidneys. Too much FGF23 causes phosphate wasting in the kidneys that prevents maintenance of proper phosphate levels in the blood and is responsible for the symptoms of XLH.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0006502-4" qtype="inheritance">Is X-linked hypophosphatemia inherited ?</Question>
+			<Answer>How is X-linked hypophosphatemia inherited? X-linked hypophosphatemia (XLH) is caused by mutations in the PHEX gene, and is inherited in an X-linked dominant manner. This means that the gene responsible for the condition is located on the X chromosome, and having only one mutated copy of the gene is enough to cause the condition in both males and females. A female with XLH has a 50% chance of passing along a mutation to each of her children. Since males only have one X-chromosome, a male with XLH will pass along the condition to all of his daughters, but not to his sons. PHEX mutations are inherited through families, but they can also occur spontaneously, explaining why some people with XLH may not have a previous family history.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0006502-5" qtype="exams and tests">How to diagnose X-linked hypophosphatemia ?</Question>
+			<Answer>How is X-linked hypophosphatemia diagnosed? X-linked hypophosphatemia (XLH) is diagnosed based on clinical observations, biochemical testing, imaging, and family history. Observable signs include low growth rate and noticeable bowing of the legs. X-rays provide more information that can rule out other potential causes for these symptoms. Biochemical findings include low concentrations of phosphate in the blood accompanied by unexpectedly normal levels of vitamin Dand calcium. Elevated levels of FGF23 and phosphate excretion can also be measured. Genetic testing is also available, but is not required to make a diagnosis. Is genetic testing available for X-linked hypophosphatemia? X-linked hypophosphatemia is generally diagnosed based upon clinical findings. Genetic testing is available to confirm a suspected diagnosis, but is not required. Available methods include single gene sequencing and deletion/duplication analysis of the PHEX gene. However, these tests are not able to detect a causal genetic change in all people affected with XLH. Panel testing is also available that looks for variants in a number of genes associated with other types of hypophosphatemic rickets.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0006502-6" qtype="treatment">What are the treatments for X-linked hypophosphatemia ?</Question>
+			<Answer>How might X-linked hypophosphatemia be treated? X-linked hypophosphatemia is different from other types of rickets because it cannot be treated by increasing vitamin D alone. Phosphate supplementation is generally required and is typically combined with a high dose of calcitriol, the activated form of vitamin D. Calcitriol increases calcium levels by promoting calcium absorption in the intestines, and calcium retention in kidneys. In children, treatment is usually initiated at the time of diagnosis and continues until bone growth is complete. The amount of phosphate and calcitriol are carefully monitored and adjusted to prevent the accumulation of calcium in the blood and kidneys, as these effects can harm the kidneys and other tissues.  Hyperparathyroidism, an endocrine disorder characterized by weakness and fatigue, can also occur as a result of treatment, and doses may be modified to manage this secondary complication. The main treatment goal for adults is to help improve pain. As such, treatment duration and dosage vary based on individual needs. Other treatment options may include administration of growth hormones to improve short-term growth in children. Corrective surgery may be necessary to fix leg curvatures for children whose diagnosis was delayed, or whose initial treatment was not adequate. Additionally, skull abnormalities may require treatment for synostosis (premature closing of sutures in the brain). Spontaneous abscesses in the mouth may require dental procedures periodically.  Recent clinical trials have investigated the potential of a new therapeutic antibody that inhibits fibroblast growth factor 23 (FGF23), a circulating hormone that causes phosphate wasting in the kidneys and is usually found in at high concentrations in people with XLH. These trials are ongoing, and more information can be found at clinicaltrials.gov.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

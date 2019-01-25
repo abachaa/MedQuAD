@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000059" source="NINDS" url="http://www.ninds.nih.gov/disorders/reflex_sympathetic_dystrophy/reflex_sympathetic_dystrophy.htm">
+<Focus>Complex Regional Pain Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0458219</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000059-1" qtype="information">What is (are) Complex Regional Pain Syndrome ?</Question>
+			<Answer>Complex regional pain syndrome (CRPS) is a chronic pain condition. The key symptom of CRPS is continuous, intense pain out of proportion to the severity of the injury, which gets worse rather than better over time. CRPS most often affects one of the arms, legs, hands, or feet. Often the pain spreads to include the entire arm or leg. Typical features include dramatic changes in the color and temperature of the skin over the affected limb or body part, accompanied by intense burning pain, skin sensitivity, sweating, and swelling. Doctors arent sure what causes CRPS. In some cases the sympathetic nervous system plays an important role in sustaining the pain. Another theory is that CRPS is caused by a triggering of the immune response, which leads to the characteristic inflammatory symptoms of redness, warmth, and swelling in the affected area.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000059-2" qtype="treatment">What are the treatments for Complex Regional Pain Syndrome ?</Question>
+			<Answer>Because there is no cure for CRPS, treatment is aimed at relieving painful symptoms. Doctors may prescribe topical analgesics, antidepressants, corticosteroids, and opioids to relieve pain. However, no single drug or combination of drugs has produced consistent long-lasting improvement in symptoms. Other treatments may include physical therapy, sympathetic nerve block, spinal cord stimulation, and intrathecal drug pumps to deliver opioids and local anesthetic agents via the spinal cord.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000059-3" qtype="outlook">What is the outlook for Complex Regional Pain Syndrome ?</Question>
+			<Answer>The prognosis for CRPS varies from person to person. Spontaneous remission from symptoms occurs in certain individuals. Others can have unremitting pain and crippling, irreversible changes in spite of treatment.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000059-4" qtype="research">what research (or clinical trials) is being done for Complex Regional Pain Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research relating to CRPS and also support additional research through grants to major medical institutions across the country. NINDS-supported scientists are studying new approaches to treat CRPS and intervene more aggressively after traumatic injury to lower the chances of developing the disorder. Researchers hope to identify specific cellular and molecular changes in sensory neurons following peripheral nerve injury to better understand the processes that underlie neuroplasticity (the brains ability to reorganize or form new nerve connections and pathways following injury or death of nerve cells). Identifying these mechanisms could provide targets for new drug therapies that could improve recovery following regeneration. Other researchers hope to better understand how CRPS develops by studying immune system activation and peripheral nerve signaling using an animal model of the disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

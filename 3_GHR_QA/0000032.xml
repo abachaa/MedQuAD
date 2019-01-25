@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000032" source="GHR" url="https://ghr.nlm.nih.gov/condition/alg1-congenital-disorder-of-glycosylation">
+<Focus>ALG1-congenital disorder of glycosylation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242354</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ALG1-CDG</Synonym>
+		<Synonym>carbohydrate deficient glycoprotein syndrome type Ik</Synonym>
+		<Synonym>CDG1K</Synonym>
+		<Synonym>CDGIk</Synonym>
+		<Synonym>congenital disorder of glycosylation type 1K</Synonym>
+		<Synonym>mannosyltransferase 1 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000032-1" qtype="information">What is (are) ALG1-congenital disorder of glycosylation ?</Question>
+			<Answer>ALG1-congenital disorder of glycosylation (ALG1-CDG, also known as congenital disorder of glycosylation type Ik) is an inherited disorder with varying signs and symptoms that typically develop during infancy and can affect several body systems.  Individuals with ALG1-CDG often have intellectual disability, delayed development, and weak muscle tone (hypotonia). Many affected individuals develop seizures that can be difficult to treat. Individuals with ALG1-CDG may also have movement problems such as involuntary rhythmic shaking (tremor) or difficulties with movement and balance (ataxia).  People with ALG1-CDG often have problems with blood clotting, which can lead to abnormal clotting or bleeding episodes. Additionally, affected individuals may produce abnormally low levels of proteins called antibodies (or immunoglobulins), particularly immunoglobulin G (IgG). Antibodies help protect the body against infection by foreign particles and germs. A reduction in antibodies can make it difficult for affected individuals to fight infections.  Some people with ALG1-CDG have physical abnormalities such as a small head size (microcephaly); unusual facial features; joint deformities called contractures; long, slender fingers and toes (arachnodactyly); or unusually fleshy pads at the tips of the fingers and toes. Eye problems that may occur in people with this condition include eyes that do not point in the same direction (strabismus) or involuntary eye movements (nystagmus). Rarely, affected individuals develop vision loss.  Less common abnormalities that occur in people with ALG1-CDG include respiratory problems, reduced sensation in their arms and legs (peripheral neuropathy), swelling (edema), and gastrointestinal difficulties.  The signs and symptoms of ALG1-CDG are often severe, with affected individuals surviving only into infancy or childhood. However, some people with this condition are more mildly affected and survive into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000032-2" qtype="frequency">How many people are affected by ALG1-congenital disorder of glycosylation ?</Question>
+			<Answer>ALG1-CDG appears to be a rare disorder; fewer than 30 affected individuals have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000032-3" qtype="genetic changes">What are the genetic changes related to ALG1-congenital disorder of glycosylation ?</Question>
+			<Answer>Mutations in the ALG1 gene cause ALG1-CDG. This gene provides instructions for making an enzyme that is involved in a process called glycosylation. During this process, complex chains of sugar molecules (oligosaccharides) are added to proteins and fats (lipids). Glycosylation modifies proteins and lipids so they can fully perform their functions. The enzyme produced from the ALG1 gene transfers a simple sugar called mannose to growing oligosaccharides at a particular step in the formation of the sugar chain. Once the correct number of sugar molecules are linked together, the oligosaccharide is attached to a protein or lipid.  ALG1 gene mutations lead to the production of an abnormal enzyme with reduced activity. The poorly functioning enzyme cannot add mannose to sugar chains efficiently, and the resulting oligosaccharides are often incomplete. Although the short oligosaccharides can be transferred to proteins and fats, the process is not as efficient as with the full-length oligosaccharide. The wide variety of signs and symptoms in ALG1-CDG are likely due to impaired glycosylation of proteins and lipids that are needed for normal function of many organs and tissues.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000032-4" qtype="inheritance">Is ALG1-congenital disorder of glycosylation inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000032-5" qtype="treatment">What are the treatments for ALG1-congenital disorder of glycosylation ?</Question>
+			<Answer>These resources address the diagnosis or management of ALG1-congenital disorder of glycosylation:  - Gene Review: Gene Review: Congenital Disorders of N-Linked Glycosylation Pathway Overview  - Genetic Testing Registry: Congenital disorder of glycosylation type 1K   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

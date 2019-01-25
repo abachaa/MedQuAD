@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001001" source="GHR" url="https://ghr.nlm.nih.gov/condition/tumor-necrosis-factor-receptor-associated-periodic-syndrome">
+<Focus>tumor necrosis factor receptor-associated periodic syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0585274</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal dominant familial periodic fever</Synonym>
+		<Synonym>familial Hibernian fever</Synonym>
+		<Synonym>FPF</Synonym>
+		<Synonym>TNF receptor-associated periodic fever syndrome</Synonym>
+		<Synonym>TRAPS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001001-1" qtype="information">What is (are) tumor necrosis factor receptor-associated periodic syndrome ?</Question>
+			<Answer>Tumor necrosis factor receptor-associated periodic syndrome (commonly known as TRAPS) is a condition characterized by recurrent episodes of fever. These fevers typically last about 3 weeks but can last from a few days to a few months. The frequency of the episodes varies greatly among affected individuals; fevers can occur anywhere between every 6 weeks to every few years. Some individuals can go many years without having a fever episode. Fever episodes usually occur spontaneously, but sometimes they can be brought on by a variety of triggers, such as minor injury, infection, stress, exercise, or hormonal changes.  During episodes of fever, people with TRAPS can have additional signs and symptoms. These include abdominal and muscle pain and a spreading skin rash, typically found on the limbs. Affected individuals may also experience puffiness or swelling in the skin around the eyes (periorbital edema); joint pain; and inflammation in various areas of the body including the eyes, heart muscle, certain joints, throat, or mucous membranes such as the moist lining of the mouth and digestive tract. Occasionally, people with TRAPS develop amyloidosis, an abnormal buildup of a protein called amyloid in the kidneys that can lead to kidney failure. It is estimated that 15 to 20 percent of people with TRAPS develop amyloidosis, typically in mid-adulthood.  The fever episodes characteristic of TRAPS can begin at any age, from infancy to late adulthood, but most people have their first episode in childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001001-2" qtype="frequency">How many people are affected by tumor necrosis factor receptor-associated periodic syndrome ?</Question>
+			<Answer>TRAPS has an estimated prevalence of one per million individuals; it is the second most common inherited recurrent fever syndrome, following a similar condition called familial Mediterranean fever. More than 1,000 people worldwide have been diagnosed with TRAPS.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001001-3" qtype="genetic changes">What are the genetic changes related to tumor necrosis factor receptor-associated periodic syndrome ?</Question>
+			<Answer>TRAPS is caused by mutations in the TNFRSF1A gene. This gene provides instructions for making a protein called tumor necrosis factor receptor 1 (TNFR1). This protein is found within the membrane of cells, where it attaches (binds) to another protein called tumor necrosis factor (TNF). This binding sends signals that can trigger the cell either to initiate inflammation or to self-destruct. Signaling within the cell initiates a pathway that turns on a protein called nuclear factor kappa B that triggers inflammation and leads to the production of immune system proteins called cytokines. The self-destruction of the cell (apoptosis) is initiated when the TNFR1 protein, bound to the TNF protein, is brought into the cell and triggers a process known as the caspase cascade.  Most TNFRSF1A gene mutations that cause TRAPS result in a TNFR1 protein that is folded into an incorrect 3-dimensional shape. These misfolded proteins are trapped within the cell and are not able to get to the cell surface to interact with TNF. Inside the cell, these proteins clump together and are thought to trigger alternative pathways that initiate inflammation. The clumps of protein constantly activate these alternative inflammation pathways, leading to excess inflammation in people with TRAPS. Additionally, because only one copy of the TNFRSF1A gene has a mutation, some normal TNFR1 proteins are produced and can bind to the TNF protein, leading to additional inflammation. It is unclear if disruption of the apoptosis pathway plays a role in the signs and symptoms of TRAPS.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001001-4" qtype="inheritance">Is tumor necrosis factor receptor-associated periodic syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, some people who inherit the altered gene never develop features of TRAPS. (This situation is known as reduced penetrance.) It is unclear why some people with a mutated gene develop the disease and other people with the mutated gene do not.  In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001001-5" qtype="treatment">What are the treatments for tumor necrosis factor receptor-associated periodic syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of TRAPS:  - Genetic Testing Registry: TNF receptor-associated periodic fever syndrome (TRAPS)  - University College London: National Amyloidosis Center (UK)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

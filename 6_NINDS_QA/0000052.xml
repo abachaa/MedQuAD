@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000052" source="NINDS" url="http://www.ninds.nih.gov/disorders/brainandspinaltumors/brainandspinaltumors.htm">
+<Focus>Brain and Spinal Tumors</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037930</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000052-1" qtype="information">What is (are) Brain and Spinal Tumors ?</Question>
+			<Answer>Tumors of the brain and spinal cord are abnormal growths of tissue found inside the skull or the bony spinal column. The brain and spinal cord are the primary components of the central nervous system (CNS). Benign tumors are noncancerous, and malignant tumors are cancerous. The CNS is housed within rigid, bony quarters (i.e., the skull and spinal column), so any abnormal growth, whether benign or malignant, can place pressure on sensitive tissues and impair function. Tumors that originate in the brain or spinal cord are called primary tumors. Most primary tumors are caused by out-of-control growth among cells that surround and support neuron, specific genetic disease (such as neurofibromatosis type 1 and tuberous sclerosis), or from exposure to radiation or cancer-causing chemicals. Metastatic, or secondary, tumors in the CNS are caused by cancer cells that break away from a primary tumor located in another region of the body. Tumors can place pressure on sensitive tissues and impair function..Symptoms of brain tumors include headaches, seizures, nausea and vomiting, poor vision or hearing, changes in behavior, unclear thinking, and unsteadiness. Spinal cord tumor symptoms include pain, numbness, and paralysis. Diagnosis is made after a neurological examination, special imaging techniques (computed tomography, and magnetic resonance imaging, positron emission tomography), laboratory tests, and a biopsy (in which a sample of tissue is taken from a suspected tumor and examined).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000052-2" qtype="treatment">What are the treatments for Brain and Spinal Tumors ?</Question>
+			<Answer>The three most commonly used treatments are surgery, radiation, and chemotherapy. Doctors also may prescribe steroids to reduce the tumor-related swelling inside the CNS.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000052-3" qtype="outlook">What is the outlook for Brain and Spinal Tumors ?</Question>
+			<Answer>Symptoms of brain and spinal cord tumors generally develop slowly and worsen over time unless they are treated. The tumor may be classified as benign or malignant and given a numbered score that reflects its rate of malignancy. This score can help doctors determine how to treat the tumor and predict the likely outcome, or prognosis, for the individual.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000052-4" qtype="research">what research (or clinical trials) is being done for Brain and Spinal Tumors ?</Question>
+			<Answer>Scientists continue to investigate ways to better understand, diagnose, and treat CNS tumors. Experimental treatment options may include new drugs, gene therapy, surgery , radiation, biologic modulators that enhance the body&apos;s overall immune system to recognize and fight cancer cells, and a combination of therapies. Of particular interest to scientists is the development of tailored therapeutics--involving a combination of targeted agents that use different molecules to reduce tumor gene activity and suppress uncontrolled growth by killing or reducing the production of tumor cells--to treat tumors based on their genetic makeup. Researchers continue to search for additional clinical biomarkers (molecules or other substances in the blood or tissue that can be used to diagnose or monitor a particular disorder) of CNS tumors. Other researchers are testing different drugs and molecules to see if they can modulate the normal activity of the blood-brain barrier and better target tumor cells and associated blood vessels. Also under investigation are ways to improve drug delivery to the tumor and to prevent the side-effects of cancer treatments.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

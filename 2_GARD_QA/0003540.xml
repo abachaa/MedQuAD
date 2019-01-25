@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003540" source="GARD" url="https://rarediseases.info.nih.gov/gard/6882/lemierre-syndrome">
+<Focus>Lemierre syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0343525</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Oropharyngeal infection leading to secondary septic thrombophlebitis of the internal jugular vein</Synonym>
+		<Synonym>Necrobacillosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003540-1" qtype="information">What is (are) Lemierre syndrome ?</Question>
+			<Answer>Lemierre syndrome is a rare and potentially life-threatening illness. The bacterium responsible for this disease is typically Fusobacterium necrophorum, although a wide variety of bacteria have been reported as causing the disease.  The bacterial infection begins in the oropharynx then spreads through the lymphatic vessels. Following this primary infection, thrombophlebitis of the internal jugular vein (IJV) develops. The final phase of the disease occurs when septic emboli (pus-containing tissue) migrate from their original location in the body to various organs. The lungs are most commonly involved, however other sites may include the joints, muscle, skin and soft tissue, liver, and spleen.  The symptoms of Lemierre syndrome include fever, sore throat, neck swelling, pulmonary involvement and joint pain. It is an uncommon disease that occurs in about one person per million per year. The disease primarily affects healthy young people before age 40. Diagnosis of Lemierre syndrome rests on the presence of a blood clot (or clots) in the IJV and blood cultures that show the presence of Fusobacterium necrophorum. Intravenous antibiotics are the mainstay of treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003540-2" qtype="symptoms">What are the symptoms of Lemierre syndrome ?</Question>
+			<Answer>What are the symptoms reported in children who have Lemierre syndrome? In children and adolescents, Lemierre syndrome usually begins with a severe sore throat, persistent fever, and possibly chills. Some cases begin with acute otitis media. As the syndrome progresses, there is neck pain and tender swelling along the internal jugular vein.[ If undiagnosed, the next stage is the &quot;metastasis&quot; of septic emboli to the lungs, abdominal organs, brain or heart. Lung involvement typically results in a productive cough (a cough that brings up mucus or phlegm) and chest pain. Girls may report abdominal pain and have enlargement of the liver (hepatomegaly) and jaundice, all of which indicate involvement of the liver.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003540-3" qtype="causes">What causes Lemierre syndrome ?</Question>
+			<Answer>What causes Lemierre syndrome? In about 90% of cases, Lemierre syndrome is caused by Fusobacterium necrophorum; however, the syndrome has also been reported with other bacteria, including Stapylococcus aureus, Bacteroides, Eikenella, Porphyromonas, Prevotella, Proteus, Peptostreptococcus and Streptococcus pyogenes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003540-4" qtype="exams and tests">How to diagnose Lemierre syndrome ?</Question>
+			<Answer>How is Lemierre syndrome diagnosed? After performing blood cultures and complete blood counts, contrast computed tomography (CT) of the neck provides the definitive diagnosis. Ultrasound can also confirm internal jugular vein thrombosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003540-5" qtype="treatment">What are the treatments for Lemierre syndrome ?</Question>
+			<Answer>How is Lemierre syndrome treated? Most cases of internal jugular thrombophlebitis can be managed medically without the need for surgery of the infected vein. Prolonged courses of intravenous antibiotics (3 to 6 weeks) is usually required. Anticoagulants have sometimes been used, but efficacy is unconfirmed. Surgery of the internal jugular vein may be required only in the rare patient who fails to respond to antibiotic treatment alone.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

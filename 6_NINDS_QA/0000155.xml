@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000155" source="NINDS" url="http://www.ninds.nih.gov/disorders/normal_pressure_hydrocephalus/normal_pressure_hydrocephalus.htm">
+<Focus>Normal Pressure Hydrocephalus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0460139</CUI>
+			<CUI>C0020258</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000155-1" qtype="information">What is (are) Normal Pressure Hydrocephalus ?</Question>
+			<Answer>Normal pressure hydrocephalus (NPH) is an abnormal buildup of cerebrospinal fluid (CSF) in the brain&apos;s ventricles, or cavities. It occurs if the normal flow of CSF throughout the brain and spinal cord is blocked in some way. This causes the ventricles to enlarge, putting pressure on the brain. Normal pressure hydrocephalus can occur in people of any age, but it is most common in the elderly. It may result from a subarachnoid hemorrhage, head trauma, infection, tumor, or complications of surgery. However, many people develop NPH even when none of these factors are present. In these cases the cause of the disorder is unknown.
+                
+Symptoms of NPH include progressive mental impairment and dementia, problems with walking, and impaired bladder control. The person also may have a general slowing of movements or may complain that his or her feet feel &quot;stuck.&quot; Because these symptoms are similar to those of other disorders such as Alzheimer&apos;s disease, Parkinson&apos;s disease, and Creutzfeldt-Jakob disease, the disorder is often misdiagnosed. Many cases go unrecognized and are never properly treated. Doctors may use a variety of tests, including brain scans (CT and/or MRI), a spinal tap or lumbar catheter, intracranial pressure monitoring, and neuropsychological tests, to help them diagnose NPH and rule out other conditions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000155-2" qtype="treatment">What are the treatments for Normal Pressure Hydrocephalus ?</Question>
+			<Answer>Treatment for NPH involves surgical placement of a shunt in the brain to drain excess CSF into the abdomen where it can be absorbed as part of the normal circulatory process. This allows the brain ventricles to return to their normal size. Regular follow-up care by a physician is important in order to identify subtle changes that might indicate problems with the shunt.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000155-3" qtype="outlook">What is the outlook for Normal Pressure Hydrocephalus ?</Question>
+			<Answer>The symptoms of NPH usually get worse over time if the condition is not treated, although some people may experience temporary improvements. While the success of treatment with shunts varies from person to person, some people recover almost completely after treatment and have a good quality of life. Early diagnosis and treatment improves the chance of a good recovery. Without treatment, symptoms may worsen and cause death.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000155-4" qtype="research">what research (or clinical trials) is being done for Normal Pressure Hydrocephalus ?</Question>
+			<Answer>The NINDS conducts and supports research on neurological disorders, including normal pressure hydrocephalus. Research on disorders such as normal pressure hydrocephalus focuses on increasing knowledge and understanding of the disorder, improving diagnostic techniques and neuroimaging, and finding improved treatments and preventions.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

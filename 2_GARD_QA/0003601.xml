@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003601" source="GARD" url="https://rarediseases.info.nih.gov/gard/6907/limb-girdle-muscular-dystrophy">
+<Focus>Limb-girdle muscular dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026850</CUI>
+			<CUI>C0686353</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Limb girdle muscular dystrophy</Synonym>
+		<Synonym>Epidermolysa bullosa simplex with muscular dystrophy</Synonym>
+		<Synonym>Limb-girdle muscular dystrophy type 1A</Synonym>
+		<Synonym>Limb-girdle muscular dystrophy type 1B</Synonym>
+		<Synonym>Limb-girdle muscular dystrophy type 1C</Synonym>
+		<Synonym>Limb-girdle muscular dystrophy type 1D</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003601-1" qtype="information">What is (are) Limb-girdle muscular dystrophy ?</Question>
+			<Answer>Limb-girdle muscular dystrophy is a group of disorders which affect the voluntary muscles around the hips and shoulders. The conditions are progressive, leading to a loss of muscle strength and bulk over a number of years. Onset may occur in childhood, adolescence, young adulthood, or even later. Males and females are affected in equal numbers. Most forms of limb girdle muscular dystrophy are inherited in an autosomal recessive manner. Several rare forms are inherited in an autosomal dominant pattern. While there are no treatments which directly reverse the muscle weakness associated with this condition, supportive treatment can decrease the complications. There are at least 20 different types of limb-girdle muscular dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003601-2" qtype="inheritance">Is Limb-girdle muscular dystrophy inherited ?</Question>
+			<Answer>How is limb-girdle muscular dystrophy inherited? Limb-girdle muscular dystrophy (LGMD) is most often inherited in an autosomal recessive manner; less commonly, rare sub-types may be inherited in an autosomal dominant manner.  There may be difficulties diagnosing the condition accurately, and often the mode of inheritance cannot be determined. Therefore, it may be challenging to determine the exact recurrence risks for some families. Establishing the type of LGMD in an affected individual can be useful for discussing the clinical course of the disease as well as for determining who else in the family may be at risk for the condition.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003601-3" qtype="treatment">What are the treatments for Limb-girdle muscular dystrophy ?</Question>
+			<Answer>How might limb-girdle muscular dystrophy be treated? Unfortunately, no definitive treatments or effective medications for the limb-girdle muscular dystrophies (LGMDs) currently exist. Management depends on each individual and the specific type of LGMD that the individual has. However, a general approach to managing LGMD has been proposed, based on the typical progression and complications of affected individuals. This approach may include: weight control to avoid obesity; physical therapy and stretching exercises to promote mobility and prevent contractures (fixed tightening of the muscles); use of mechanical aids such as canes, walkers, orthotics, and wheelchairs as needed to help ambulation and mobility; monitoring and surgical intervention as needed for orthopedic complications such as foot deformity and scoliosis; monitoring respiratory function and use of respiratory aids when needed; monitoring for evidence of cardiomyopathy in the types of LGMD with known occurrence of cardiac involvement; and social and emotional support and stimulation to maximize a sense of social involvement and productivity, and to reduce the sense of social isolation common in these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

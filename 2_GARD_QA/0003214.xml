@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003214" source="GARD" url="https://rarediseases.info.nih.gov/gard/10627/insulin-like-growth-factor-i-deficiency">
+<Focus>Insulin-like growth factor I deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1837475</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>IGF1 deficiency</Synonym>
+		<Synonym>Growth retardation with sensorineural deafness and mental retardation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003214-1" qtype="symptoms">What are the symptoms of Insulin-like growth factor I deficiency ?</Question>
+			<Answer>What are the signs and symptoms of Insulin-like growth factor I deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for Insulin-like growth factor I deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis - Autosomal recessive inheritance - Clinodactyly - Congenital onset - Decreased body weight - Delayed skeletal maturation - Hyperactivity - Intellectual disability - Intrauterine growth retardation - Microcephaly - Motor delay - Osteopenia - Ptosis - Radial deviation of finger - Sensorineural hearing impairment - Short attention span - Short stature - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

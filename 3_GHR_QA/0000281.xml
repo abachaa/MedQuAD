@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000281" source="GHR" url="https://ghr.nlm.nih.gov/condition/desmoid-tumor">
+<Focus>desmoid tumor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079218</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>aggressive fibromatosis</Synonym>
+		<Synonym>deep fibromatosis</Synonym>
+		<Synonym>desmoid fibromatosis</Synonym>
+		<Synonym>familial infiltrative fibromatosis</Synonym>
+		<Synonym>hereditary desmoid disease</Synonym>
+		<Synonym>musculoaponeurotic fibromatosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000281-1" qtype="information">What is (are) desmoid tumor ?</Question>
+			<Answer>A desmoid tumor is an abnormal growth that arises from connective tissue, which is the tissue that provides strength and flexibility to structures such as bones, ligaments, and muscles. Typically, a single tumor develops, although some people have multiple tumors. The tumors can occur anywhere in the body. Tumors that form in the abdominal wall are called abdominal desmoid tumors; those that arise from the tissue that connects the abdominal organs are called intra-abdominal desmoid tumors; and tumors found in other regions of the body are called extra-abdominal desmoid tumors. Extra-abdominal tumors occur most often in the shoulders, upper arms, and upper legs.  Desmoid tumors are fibrous, much like scar tissue. They are generally not considered cancerous (malignant) because they do not spread to other parts of the body (metastasize); however, they can aggressively invade the surrounding tissue and can be very difficult to remove surgically. These tumors often recur, even after apparently complete removal.  The most common symptom of desmoid tumors is pain. Other signs and symptoms, which are often caused by growth of the tumor into surrounding tissue, vary based on the size and location of the tumor. Intra-abdominal desmoid tumors can block the bowel, causing constipation. Extra-abdominal desmoid tumors can restrict the movement of affected joints and cause limping or difficulty moving the arms or legs.  Desmoid tumors occur frequently in people with an inherited form of colon cancer called familial adenomatous polyposis (FAP). These individuals typically develop intra-abdominal desmoid tumors in addition to abnormal growths (called polyps) and cancerous tumors in the colon. Desmoid tumors that are not part of an inherited condition are described as sporadic.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000281-2" qtype="frequency">How many people are affected by desmoid tumor ?</Question>
+			<Answer>Desmoid tumors are rare, affecting an estimated 1 to 2 per 500,000 people worldwide. In the United States, 900 to 1,500 new cases are diagnosed per year. Sporadic desmoid tumors are more common than those associated with familial adenomatous polyposis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000281-3" qtype="genetic changes">What are the genetic changes related to desmoid tumor ?</Question>
+			<Answer>Mutations in the CTNNB1 gene or the APC gene cause desmoid tumors. CTNNB1 gene mutations account for around 85 percent of sporadic desmoid tumors. APC gene mutations cause desmoid tumors associated with familial adenomatous polyposis as well as 10 to 15 percent of sporadic desmoid tumors. Both genes are involved in an important cell signaling pathway that controls the growth and division (proliferation) of cells and the process by which cells mature to carry out specific functions (differentiation).  The CTNNB1 gene provides instructions for making a protein called beta-catenin. As part of the cell-signaling pathway, beta-catenin interacts with other proteins to control the activity (expression) of particular genes, which helps promote cell proliferation and differentiation. CTNNB1 gene mutations lead to an abnormally stable beta-catenin protein that is not broken down when it is no longer needed. The protein accumulates in cells, where it continues to function in an uncontrolled way.  The protein produced from the APC gene helps regulate levels of beta-catenin in the cell. When beta-catenin is no longer needed, the APC protein attaches (binds) to it, which signals for it to be broken down. Mutations in the APC gene that cause desmoid tumors lead to a short APC protein that is unable to interact with beta-catenin. As a result, beta-catenin is not broken down and, instead, accumulates in cells. Excess beta-catenin, whether caused by CTNNB1 or APC gene mutations, promotes uncontrolled growth and division of cells, allowing the formation of desmoid tumors.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000281-4" qtype="inheritance">Is desmoid tumor inherited ?</Question>
+			<Answer>Most desmoid tumors are sporadic and are not inherited. Sporadic tumors result from gene mutations that occur during a person&apos;s lifetime, called somatic mutations. A somatic mutation in one copy of the gene is sufficient to cause the disorder. Somatic mutations in either the CTNNB1 or the APC gene can cause sporadic desmoid tumors.  An inherited mutation in one copy of the APC gene causes familial adenomatous polyposis and predisposes affected individuals to develop desmoid tumors. The desmoid tumors occur when a somatic mutation occurs in the second copy of the APC gene. In these cases, the condition is sometimes called hereditary desmoid disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000281-5" qtype="treatment">What are the treatments for desmoid tumor ?</Question>
+			<Answer>These resources address the diagnosis or management of desmoid tumor:  - Dana-Farber Cancer Institute  - Desmoid Tumor Research Foundation: About Desmoid Tumors  - Genetic Testing Registry: Desmoid disease, hereditary   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

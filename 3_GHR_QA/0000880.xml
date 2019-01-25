@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000880" source="GHR" url="https://ghr.nlm.nih.gov/condition/rippling-muscle-disease">
+<Focus>rippling muscle disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026848</CUI>
+			<CUI>C1838254</CUI>
+			<CUI>C1853698</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>rippling muscle syndrome</Synonym>
+		<Synonym>RMD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000880-1" qtype="information">What is (are) rippling muscle disease ?</Question>
+			<Answer>Rippling muscle disease is a condition in which the muscles are unusually sensitive to movement or pressure (irritable). The muscles near the center of the body (proximal muscles) are most affected, especially the thighs. In most people with this condition, stretching the muscle causes visible ripples to spread across the muscle, lasting 5 to 20 seconds. A bump or other sudden impact on the muscle causes it to bunch up (percussion-induced muscle mounding) or exhibit repetitive tensing (percussion-induced rapid contraction). The rapid contractions can continue for up to 30 seconds and may be painful.  People with rippling muscle disease may have overgrowth (hypertrophy) of some muscles, especially in the calf. Some affected individuals have an abnormal pattern of walking (gait), such as walking on tiptoe. They may experience fatigue, cramps, or muscle stiffness, especially after exercise or in cold temperatures.  The age of onset of rippling muscle disease varies widely, but it often begins in late childhood or adolescence. Rippling muscles may also occur as a feature of other muscle disorders such as limb-girdle muscular dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000880-2" qtype="frequency">How many people are affected by rippling muscle disease ?</Question>
+			<Answer>The prevalence of rippling muscle disease is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000880-3" qtype="genetic changes">What are the genetic changes related to rippling muscle disease ?</Question>
+			<Answer>Rippling muscle disease can be caused by mutations in the CAV3 gene. Muscle conditions caused by CAV3 gene mutations are called caveolinopathies. The CAV3 gene provides instructions for making a protein called caveolin-3, which is found in the membrane surrounding muscle cells. This protein is the main component of caveolae, which are small pouches in the muscle cell membrane. Within the caveolae, the caveolin-3 protein acts as a scaffold to organize other molecules that are important for cell signaling and maintenance of the cell structure. It may also help regulate calcium levels in muscle cells, which play a role in controlling muscle contraction and relaxation.  CAV3 gene mutations that cause rippling muscle disease result in a shortage of caveolin-3 protein in the muscle cell membrane. Researchers suggest that the reduction in caveolin-3 protein disrupts the normal control of calcium levels in muscle cells, leading to abnormal muscle contractions in response to stimulation.  In addition to rippling muscle disease, CAV3 gene mutations can cause other caveolinopathies including CAV3-related distal myopathy, limb-girdle muscular dystrophy, isolated hyperCKemia, and a heart disorder called hypertrophic cardiomyopathy. Several CAV3 gene mutations have been found to cause different caveolinopathies in different individuals. It is unclear why a single CAV3 gene mutation may cause different patterns of signs and symptoms, even within the same family.  Some people with rippling muscle disease do not have mutations in the CAV3 gene. The cause of the disorder in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000880-4" qtype="inheritance">Is rippling muscle disease inherited ?</Question>
+			<Answer>Rippling muscle disease is usually inherited in an autosomal dominant pattern, but it is occasionally inherited in an autosomal recessive pattern.  Autosomal dominant inheritance means that one copy of an altered CAV3 gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with rippling muscle disease or another caveolinopathy. Rare cases result from new mutations in the gene and occur in people with no history of caveolinopathies in their family.  Autosomal recessive inheritance means that both copies of the CAV3 gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. People with autosomal recessive rippling muscle disease generally have more severe signs and symptoms than do people with the autosomal dominant form.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000880-5" qtype="treatment">What are the treatments for rippling muscle disease ?</Question>
+			<Answer>These resources address the diagnosis or management of rippling muscle disease:  - Gene Review: Gene Review: Caveolinopathies  - Genetic Testing Registry: Rippling muscle disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

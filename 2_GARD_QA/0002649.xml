@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002649" source="GARD" url="https://rarediseases.info.nih.gov/gard/8622/good-syndrome">
+<Focus>Good syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221027</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Immunodeficiency with thymoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002649-1" qtype="information">What is (are) Good syndrome ?</Question>
+			<Answer>Good syndrome is a rare, adult-onset primary immunodeficiency suspected in patients who exhibit hypogammaglobulinemia and low levels of B cells along with a benign thymic tumor (thymoma) on chest X-ray. Symptoms include frequent opportunistic infections involving the sinuses and lungs, including severe CMV disease, P. carinii pneumonia, and mucocutaneous candidiasis. While the cause of Good syndrome remains unknown, there is some evidence that a defect of the bone marrow is involved. Treatment includes removal of the thymic tumor and immunoglobulin replacement.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

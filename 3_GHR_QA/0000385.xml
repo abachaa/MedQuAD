@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000385" source="GHR" url="https://ghr.nlm.nih.gov/condition/fraser-syndrome">
+<Focus>Fraser syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265233</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cryptophthalmos syndactyly syndrome</Synonym>
+		<Synonym>cryptophthalmos syndrome</Synonym>
+		<Synonym>cryptophthalmos with other malformations</Synonym>
+		<Synonym>Fraser-Francois syndrome</Synonym>
+		<Synonym>Fraser's syndrome</Synonym>
+		<Synonym>Meyer-Schwickerath syndrome</Synonym>
+		<Synonym>Ullrich-Feichtiger syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000385-1" qtype="information">What is (are) Fraser syndrome ?</Question>
+			<Answer>Fraser syndrome is a rare disorder that affects development starting before birth. Characteristic features of this condition include eyes that are completely covered by skin and usually malformed (cryptophthalmos), fusion of the skin between the fingers and toes (cutaneous syndactyly), and abnormalities of the genitalia and the urinary tract (genitourinary anomalies). Other tissues and organs can also be affected. Depending on the severity of the signs and symptoms, Fraser syndrome can be fatal before or shortly after birth; less severely affected individuals can live into childhood or adulthood.  Cryptophthalmos is the most common abnormality in people with Fraser syndrome. Both eyes are usually completely covered by skin, but in some cases, only one eye is covered or one or both eyes are partially covered. In cryptophthalmos, the eyes can also be malformed; for example, the eyeballs may be fused to the skin covering them, or they may be small (microphthalmia) or missing (anophthalmia). Eye abnormalities typically lead to impairment or loss of vision in people with Fraser syndrome. Affected individuals can have other problems related to abnormal eye development, including missing eyebrows or eyelashes or a patch of hair extending from the side hairline to the eyebrow.  Cutaneous syndactyly typically occurs in both the hands and the feet in Fraser syndrome. In most people with this feature, the skin between the middle three fingers and toes are fused, but the other digits can also be involved. Other abnormalities of the hands and feet can occur in people with Fraser syndrome.  Individuals with Fraser syndrome can have abnormalities of the genitalia, such as an enlarged clitoris in females or undescended testes (cryptorchidism) in males. Some affected individuals have external genitalia that do not appear clearly female or male (ambiguous genitalia).  The most common urinary tract abnormality in Fraser syndrome is the absence of one or both kidneys (renal agenesis). Affected individuals can have other kidney problems or abnormalities of the bladder and other parts of the urinary tract.  A variety of other signs and symptoms can be involved in Fraser syndrome, including heart malformations or abnormalities of the voicebox (larynx) or other parts of the respiratory tract. Some affected individuals have facial abnormalities, including ear or nose abnormalities or an opening in the upper lip (cleft lip) with or without an opening in the roof of the mouth (cleft palate).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000385-2" qtype="frequency">How many people are affected by Fraser syndrome ?</Question>
+			<Answer>Fraser syndrome affects an estimated 1 in 200,000 newborns. The condition occurs in approximately 1 in 10,000 fetuses that do not survive to birth.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000385-3" qtype="genetic changes">What are the genetic changes related to Fraser syndrome ?</Question>
+			<Answer>Mutations in the FRAS1, FREM2, or GRIP1 gene can cause Fraser syndrome. FRAS1 gene mutations are the most common cause, accounting for about half of cases of Fraser syndrome. FREM2 and GRIP1 gene mutations are each found in a small percentage of cases.  The FRAS1 and FREM2 proteins (produced from the FRAS1 and FREM2 genes, respectively) are part of a group of proteins called the FRAS/FREM complex. The GRIP1 protein (produced from the GRIP1 gene) ensures that FRAS1 and FREM2 get to the correct location of the cell to form the FRAS/FREM complex.  The FRAS/FREM complex is found in basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. This complex is particularly important during development before birth. One of the complex&apos;s roles is to anchor the top layer of skin by connecting its basement membrane to the layer of skin below. The FRAS/FREM complex is also involved in the proper development of other organs and tissues, including the kidneys, although the mechanism is unclear.  Mutations in any of these genes prevent formation of the FRAS/FREM complex. Lack of this complex in the basement membrane of the skin leads to detachment of the top layer of skin, causing blisters to form during development. These blisters likely impair the proper formation of certain structures before birth, leading to cryptophthalmos and cutaneous syndactyly. It is unknown how lack of the FRAS/FREM complex leads to kidney and genital abnormalities and other problems in Fraser syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000385-4" qtype="inheritance">Is Fraser syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000385-5" qtype="treatment">What are the treatments for Fraser syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Fraser syndrome:  - Genetic Testing Registry: Cryptophthalmos syndrome  - University of Arizona College of Medicine: Cryptophthalmos   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002593" source="GARD" url="https://rarediseases.info.nih.gov/gard/2790/glucocorticoid-remediable-aldosteronism">
+<Focus>Glucocorticoid-remediable aldosteronism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1260386</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial hyperaldosteronism type 1</Synonym>
+		<Synonym>Hyperaldosteronism, familial type 1</Synonym>
+		<Synonym>Dexamethasone sensitive hypertension</Synonym>
+		<Synonym>Glucocorticoid sensitive hypertension</Synonym>
+		<Synonym>Primary hyperaldosteronism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002593-1" qtype="information">What is (are) Glucocorticoid-remediable aldosteronism ?</Question>
+			<Answer>Glucocorticoid-remediable aldosteronism is one of three types of familial hyperaldosteronism and was first described in 1966. Aldosterone is a hormone manufactured by the adrenal glands which helps the body retain water and sodium and excrete potassium. It is caused by a fusion of the CYP11B1 and CYP11B2 genes and is inherited in an autosomal dominant manner. Individuals with this condition usually have hypertension (high blood pressure) before age 21. These individuals are also at an increased risk for a certain type of stroke known as a hemorrhagic stroke. First-line therapy consists of a steroid such as prednisone, dexamethasone, or hydrocortisone. This will often correct the overproduction of aldosterone, lower the blood pressure, and correct the potassium levels.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002593-2" qtype="symptoms">What are the symptoms of Glucocorticoid-remediable aldosteronism ?</Question>
+			<Answer>What are the signs and symptoms of Glucocorticoid-remediable aldosteronism? The Human Phenotype Ontology provides the following list of signs and symptoms for Glucocorticoid-remediable aldosteronism. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the urinary system - Adrenal hyperplasia - Adrenogenital syndrome - Autosomal dominant inheritance - Decreased circulating renin level - Hyperaldosteronism - Hypertension - Onset - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

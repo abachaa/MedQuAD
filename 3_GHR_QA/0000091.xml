@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000091" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-dominant-hyper-ige-syndrome">
+<Focus>autosomal dominant hyper-IgE syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022398</CUI>
+		</CUIs>
+		<SemanticTypes>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AD-HIES</Synonym>
+		<Synonym>autosomal dominant HIES</Synonym>
+		<Synonym>autosomal dominant hyper-IgE recurrent infection syndrome</Synonym>
+		<Synonym>autosomal dominant hyperimmunoglobulin E recurrent infection syndrome</Synonym>
+		<Synonym>autosomal dominant Job syndrome</Synonym>
+		<Synonym>Buckley syndrome</Synonym>
+		<Synonym>Job-Buckley syndrome</Synonym>
+		<Synonym>Job syndrome</Synonym>
+		<Synonym>Job's Syndrome</Synonym>
+		<Synonym>STAT3 deficiency</Synonym>
+		<Synonym>STAT3-deficient hyper IgE syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000091-1" qtype="information">What is (are) autosomal dominant hyper-IgE syndrome ?</Question>
+			<Answer>Autosomal dominant hyper-IgE syndrome (AD-HIES), also known as Job syndrome, is a condition that affects several body systems, particularly the immune system. Recurrent infections are common in people with this condition. Affected individuals tend to have frequent bouts of pneumonia, which are caused by certain kinds of bacteria that infect the lungs and cause inflammation. These infections often result in the formation of air-filled cysts (pneumatoceles) in the lungs. Recurrent skin infections and an inflammatory skin disorder called eczema are also very common in AD-HIES. These skin problems cause rashes, blisters, accumulations of pus (abscesses), open sores, and scaling.  AD-HIES is characterized by abnormally high levels of an immune system protein called immunoglobulin E (IgE) in the blood. IgE normally triggers an immune response against foreign invaders in the body, particularly parasitic worms, and plays a role in allergies. It is unclear why people with AD-HIES have such high levels of IgE.  AD-HIES also affects other parts of the body, including the bones and teeth. Many people with AD-HIES have skeletal abnormalities such as an unusually large range of joint movement (hyperextensibility), an abnormal curvature of the spine (scoliosis), reduced bone density (osteopenia), and a tendency for bones to fracture easily. Dental abnormalities are also common in this condition. The primary (baby) teeth do not fall out at the usual time during childhood but are retained as the adult teeth grow in. Other signs and symptoms of AD-HIES can include abnormalities of the arteries that supply blood to the heart muscle (coronary arteries), distinctive facial features, and structural abnormalities of the brain, which do not affect a person&apos;s intelligence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000091-2" qtype="frequency">How many people are affected by autosomal dominant hyper-IgE syndrome ?</Question>
+			<Answer>This condition is rare, affecting fewer than 1 per million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000091-3" qtype="genetic changes">What are the genetic changes related to autosomal dominant hyper-IgE syndrome ?</Question>
+			<Answer>Mutations in the STAT3 gene cause most cases of AD-HIES. This gene provides instructions for making a protein that plays an important role in several body systems. To carry out its roles, the STAT3 protein attaches to DNA and helps control the activity of particular genes. In the immune system, the STAT3 protein regulates genes that are involved in the maturation of immune system cells, especially T cells. These cells help control the body&apos;s response to foreign invaders such as bacteria and fungi.  Changes in the STAT3 gene alter the structure and function of the STAT3 protein, impairing its ability to control the activity of other genes. A shortage of functional STAT3 blocks the maturation of T cells (specifically a subset known as Th17 cells) and other immune cells. The resulting immune system abnormalities make people with AD-HIES highly susceptible to infections, particularly bacterial and fungal infections of the lungs and skin. The STAT3 protein is also involved in the formation of cells that build and break down bone tissue, which could help explain why STAT3 gene mutations lead to the skeletal and dental abnormalities characteristic of this condition. It is unclear how STAT3 gene mutations lead to increased IgE levels.  When AD-HIES is not caused by STAT3 gene mutations, the genetic cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000091-4" qtype="inheritance">Is autosomal dominant hyper-IgE syndrome inherited ?</Question>
+			<Answer>AD-HIES has an autosomal dominant pattern of inheritance, which means one copy of an altered gene in each cell is sufficient to cause the disorder. In about half of all cases caused by STAT3 gene mutations, an affected person inherits the genetic change from an affected parent. Other cases result from new mutations in this gene. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000091-5" qtype="treatment">What are the treatments for autosomal dominant hyper-IgE syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of autosomal dominant hyper-IgE syndrome:  - Gene Review: Gene Review: Autosomal Dominant Hyper IgE Syndrome  - Genetic Testing Registry: Hyperimmunoglobulin E syndrome  - MedlinePlus Encyclopedia: Hyperimmunoglobulin E syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

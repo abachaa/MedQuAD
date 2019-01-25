@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000506" source="GHR" url="https://ghr.nlm.nih.gov/condition/hypomagnesemia-with-secondary-hypocalcemia">
+<Focus>hypomagnesemia with secondary hypocalcemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1865974</CUI>
+			<CUI>C0027627</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial primary hypomagnesemia with hypocalcuria</Synonym>
+		<Synonym>HOMG</Synonym>
+		<Synonym>HSH</Synonym>
+		<Synonym>hypomagnesemic tetany</Synonym>
+		<Synonym>intestinal hypomagnesemia 1</Synonym>
+		<Synonym>intestinal hypomagnesemia with secondary hypocalcemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000506-1" qtype="information">What is (are) hypomagnesemia with secondary hypocalcemia ?</Question>
+			<Answer>Hypomagnesemia with secondary hypocalcemia is an inherited condition caused by the body&apos;s inability to absorb and retain magnesium that is taken in through the diet. As a result, magnesium levels in the blood are severely low (hypomagnesemia).  Hypomagnesemia impairs the function of the parathyroid glands, which are small hormone-producing glands located in the neck. Normally, the parathyroid glands release a hormone that increases blood calcium levels when they are low. Magnesium is required for the production and release of parathyroid hormone, so when magnesium is too low, insufficient parathyroid hormone is produced and blood calcium levels are also reduced (hypocalcemia). The hypocalcemia is described as &quot;secondary&quot; because it occurs as a consequence of hypomagnesemia.  Shortages of magnesium and calcium can cause neurological problems that begin in infancy, including painful muscle spasms (tetany) and seizures. If left untreated, hypomagnesemia with secondary hypocalcemia can lead to developmental delay, intellectual disability, a failure to gain weight and grow at the expected rate (failure to thrive), and heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000506-2" qtype="frequency">How many people are affected by hypomagnesemia with secondary hypocalcemia ?</Question>
+			<Answer>Hypomagnesemia with secondary hypocalcemia is thought to be a rare condition, but its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000506-3" qtype="genetic changes">What are the genetic changes related to hypomagnesemia with secondary hypocalcemia ?</Question>
+			<Answer>Hypomagnesemia with secondary hypocalcemia is caused by mutations in the TRPM6 gene. This gene provides instructions for making a protein that acts as a channel, which allows charged atoms (ions) of magnesium (Mg2+) to flow into cells; the channel may also allow small amounts of calcium ions (Ca2+) to pass into cells. Magnesium is involved in many cell processes, including production of cellular energy, maintenance of DNA building blocks (nucleotides), protein production, and cell growth and death. Magnesium and calcium are also required for the normal functioning of nerve cells that control muscle movement (motor neurons).  The TRPM6 channel is embedded in the membrane of epithelial cells that line the large intestine, structures in the kidneys known as distal convoluted tubules, the lungs, and the testes in males. When the body needs additional Mg2+, the TRPM6 channel allows it to be absorbed in the intestine and filtered from the fluids that pass through the kidneys by the distal convoluted tubules. When the body has sufficient or too much Mg2+, the TRPM6 channel does not filter out the Mg2+ from fluids but allows the ion to be released from the kidney cells into the urine. The channel also helps to regulate Ca2+, but to a lesser degree.  Most TRPM6 gene mutations that cause hypomagnesemia with secondary hypocalcemia result in a lack of functional protein. A loss of functional TRPM6 channels prevent Mg2+ absorption in the intestine and cause excessive amounts of Mg2+ to be excreted by the kidneys and released in the urine. A lack of Mg2+ in the body impairs the production of parathyroid hormone, which likely reduces blood Ca2+ levels. Additionally, hypomagnesemia and hypocalcemia can disrupt many cell processes and impair the function of motor neurons, leading to neurological problems and movement disorders. If the condition is not effectively treated and low Mg2+ levels persist, signs and symptoms can worsen over time and may lead to early death.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000506-4" qtype="inheritance">Is hypomagnesemia with secondary hypocalcemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000506-5" qtype="treatment">What are the treatments for hypomagnesemia with secondary hypocalcemia ?</Question>
+			<Answer>These resources address the diagnosis or management of hypomagnesemia with secondary hypocalcemia:  - Genetic Testing Registry: Hypomagnesemia 1, intestinal  - MedlinePlus Encyclopedia: Hypomagnesemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

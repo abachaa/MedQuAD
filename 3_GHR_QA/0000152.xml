@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000152" source="GHR" url="https://ghr.nlm.nih.gov/condition/carney-complex">
+<Focus>Carney complex</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0406810</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Carney Syndrome</Synonym>
+		<Synonym>LAMB - Lentigines, atrial myxoma, mucocutaneous myoma, blue nevus syndrome</Synonym>
+		<Synonym>NAME - Nevi, atrial myxoma, skin myxoma, ephelides syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000152-1" qtype="information">What is (are) Carney complex ?</Question>
+			<Answer>Carney complex is a disorder characterized by an increased risk of several types of tumors. Affected individuals also usually have changes in skin coloring (pigmentation). Signs and symptoms of this condition commonly begin in the teens or early adulthood.  Individuals with Carney complex are at increased risk of developing noncancerous (benign) tumors called myxomas in the heart (cardiac myxoma) and other parts of the body. Cardiac myxomas may be found in any of the four chambers of the heart and can develop in more than one chamber. These tumors can block the flow of blood through the heart, causing serious complications or sudden death. Myxomas may also develop on the skin and in internal organs. Skin myxomas appear as small bumps on the surface of the skin or as lumps underneath the skin. In Carney complex, myxomas have a tendency to recur after they are removed.  Individuals with Carney complex also develop tumors in hormone-producing (endocrine) glands, such as the adrenal glands located on top of each kidney. People with this condition may develop a specific type of adrenal disease called primary pigmented nodular adrenocortical disease (PPNAD). PPNAD causes the adrenal glands to produce an excess of the hormone cortisol. High levels of cortisol (hypercortisolism) can lead to the development of Cushing syndrome. This syndrome causes weight gain in the face and upper body, slowed growth in children, fragile skin, fatigue, and other health problems.  People with Carney complex may also develop tumors of other endocrine tissues, including the thyroid, testes, and ovaries. A tumor called an adenoma may form in the pituitary gland, which is located at the base of the brain. A pituitary adenoma usually results in the production of too much growth hormone. Excess growth hormone leads to acromegaly, a condition characterized by large hands and feet, arthritis, and &quot;coarse&quot; facial features.  Some people with Carney complex develop a rare tumor called psammomatous melanotic schwannoma. This tumor occurs in specialized cells called Schwann cells, which wrap around and insulate nerves. This tumor is usually benign, but in some cases it can become cancerous (malignant).  Almost all people with Carney complex have areas of unusual skin pigmentation. Brown skin spots called lentigines may appear anywhere on the body but tend to occur around the lips, eyes, or genitalia. In addition, some affected individuals have at least one blue-black mole called a blue nevus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000152-2" qtype="frequency">How many people are affected by Carney complex ?</Question>
+			<Answer>Carney complex is a rare disorder; fewer than 750 affected individuals have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000152-3" qtype="genetic changes">What are the genetic changes related to Carney complex ?</Question>
+			<Answer>Mutations in the PRKAR1A gene cause most cases of Carney complex. This gene provides instructions for making one part (subunit) of an enzyme called protein kinase A, which promotes cell growth and division (proliferation). The subunit produced from the PRKAR1A gene, called type 1 alpha, helps control whether protein kinase A is turned on or off.  Most mutations in the PRKAR1A gene that cause Carney complex result in an abnormal type 1 alpha subunit that is quickly broken down (degraded) by the cell. The lack of this subunit causes protein kinase A to be turned on more often than normal, which leads to uncontrolled cell proliferation. The signs and symptoms of Carney complex are related to the unregulated growth of cells in many parts of the body.  Some individuals with Carney complex do not have identified mutations in the PRKAR1A gene. In many of these cases, the disorder is associated with a specific region on the short (p) arm of chromosome 2, designated as 2p16. Researchers have not discovered the gene within this region that is responsible for Carney complex.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000152-4" qtype="inheritance">Is Carney complex inherited ?</Question>
+			<Answer>Carney complex is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In approximately 80 percent of cases, an affected person inherits the mutation from one affected parent. The remaining cases result from new mutations in the gene and occur in people with no history of Carney complex in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000152-5" qtype="treatment">What are the treatments for Carney complex ?</Question>
+			<Answer>These resources address the diagnosis or management of Carney complex:  - Gene Review: Gene Review: Carney Complex  - Genetic Testing Registry: Carney complex  - Genetic Testing Registry: Carney complex, type 1  - Genetic Testing Registry: Carney complex, type 2  - MedlinePlus Encyclopedia: Atrial Myxoma  - MedlinePlus Encyclopedia: Pituitary Tumor   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000453" source="GHR" url="https://ghr.nlm.nih.gov/condition/hepatic-veno-occlusive-disease-with-immunodeficiency">
+<Focus>hepatic veno-occlusive disease with immunodeficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1856128</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial veno-occlusive disease with immunodeficiency</Synonym>
+		<Synonym>hepatic venoocclusive disease with immunodeficiency</Synonym>
+		<Synonym>veno-occlusive disease and immunodeficiency syndrome</Synonym>
+		<Synonym>VODI</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000453-1" qtype="information">What is (are) hepatic veno-occlusive disease with immunodeficiency ?</Question>
+			<Answer>Hepatic veno-occlusive disease with immunodeficiency (also called VODI) is a hereditary disorder of the liver and immune system. Its signs and symptoms appear after the first few months of life.  Hepatic veno-occlusive disease is a condition that blocks (occludes) small veins in the liver, disrupting blood flow in this organ. This condition can lead to enlargement of the liver (hepatomegaly), a buildup of scar tissue (hepatic fibrosis), and liver failure.  Children with VODI are prone to recurrent infections caused by certain bacteria, viruses, and fungi. The organisms that cause infection in people with this disorder are described as opportunistic because they ordinarily do not cause illness in healthy people. These infections are usually serious and may be life-threatening. In most people with VODI, infections occur before hepatic veno-occlusive disease becomes evident.  Many people with VODI live only into childhood, although some affected individuals have lived to early adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000453-2" qtype="frequency">How many people are affected by hepatic veno-occlusive disease with immunodeficiency ?</Question>
+			<Answer>VODI appears to be a rare disorder; approximately 20 affected families have been reported worldwide. Most people diagnosed with the condition have been of Lebanese ancestry. However, the disorder has also been identified in several individuals with other backgrounds in the United States and Italy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000453-3" qtype="genetic changes">What are the genetic changes related to hepatic veno-occlusive disease with immunodeficiency ?</Question>
+			<Answer>VODI results from mutations in the SP110 gene. This gene provides instructions for making a protein called SP110 nuclear body protein, which is involved in the normal function of the immune system. This protein likely helps regulate the activity of genes needed for the body&apos;s immune response to foreign invaders (such as viruses and bacteria).  Mutations in the SP110 gene prevent cells from making functional SP110 nuclear body protein, which impairs the immune system&apos;s ability to fight off infections. It is unclear how a lack of this protein affects blood flow in the liver.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000453-4" qtype="inheritance">Is hepatic veno-occlusive disease with immunodeficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000453-5" qtype="treatment">What are the treatments for hepatic veno-occlusive disease with immunodeficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of VODI:  - Gene Review: Gene Review: Hepatic Veno-Occlusive Disease with Immunodeficiency  - Genetic Testing Registry: Hepatic venoocclusive disease with immunodeficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

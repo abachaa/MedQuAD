@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000299" source="GHR" url="https://ghr.nlm.nih.gov/condition/dopa-responsive-dystonia">
+<Focus>dopa-responsive dystonia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1851920</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DRD</Synonym>
+		<Synonym>dystonia 5, dopa-responsive type</Synonym>
+		<Synonym>hereditary progressive dystonia with marked diurnal fluctuation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000299-1" qtype="information">What is (are) dopa-responsive dystonia ?</Question>
+			<Answer>Dopa-responsive dystonia is a disorder that involves involuntary muscle contractions, tremors, and other uncontrolled movements (dystonia). The features of this condition range from mild to severe. This form of dystonia is called dopa-responsive dystonia because the signs and symptoms typically improve with sustained use of a medication known as L-Dopa.  Signs and symptoms of dopa-responsive dystonia usually appear during childhood, most commonly around age 6. The first signs of the condition are typically the development of inward- and upward-turning feet (clubfeet) and dystonia in the lower limbs. The dystonia spreads to the upper limbs over time; beginning in adolescence, the whole body is typically involved. Affected individuals may have unusual limb positioning and a lack of coordination when walking or running. Some people with this condition have sleep problems or episodes of depression more frequently than would normally be expected.  Over time, affected individuals often develop a group of movement abnormalities called parkinsonism. These abnormalities include unusually slow movement (bradykinesia), muscle rigidity, tremors, and an inability to hold the body upright and balanced (postural instability).  The movement difficulties associated with dopa-responsive dystonia usually worsen with age but stabilize around age 30. A characteristic feature of dopa-responsive dystonia is worsening of movement problems later in the day and an improvement of symptoms in the morning, after sleep (diurnal fluctuation).  Rarely, the movement problems associated with dopa-responsive dystonia do not appear until adulthood. In these adult-onset cases, parkinsonism usually develops before dystonia, and movement problems are slow to worsen and do not show diurnal fluctuations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000299-2" qtype="frequency">How many people are affected by dopa-responsive dystonia ?</Question>
+			<Answer>Dopa-responsive dystonia is estimated to affect 1 per million people worldwide. However, the disorder is likely underdiagnosed because the condition may not be identified in people with mild symptoms, or it may be misdiagnosed in people who have symptoms similar to other movement disorders.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000299-3" qtype="genetic changes">What are the genetic changes related to dopa-responsive dystonia ?</Question>
+			<Answer>Mutations in the GCH1 gene are the most common cause of dopa-responsive dystonia. Less often, mutations in the TH or SPR gene cause this condition.  The GCH1 gene provides instructions for making an enzyme called GTP cyclohydrolase. This enzyme is involved in the first of three steps in the production of a molecule called tetrahydrobiopterin (BH4). The SPR gene, which provides instructions for making the sepiapterin reductase enzyme, is involved in the last step of tetrahydrobiopterin production. Tetrahydrobiopterin helps process several protein building blocks (amino acids), and is involved in the production of chemicals called neurotransmitters, which transmit signals between nerve cells in the brain. Specifically, tetrahydrobiopterin is involved in the production of two neurotransmitters called dopamine and serotonin. Among their many functions, dopamine transmits signals within the brain to produce smooth physical movements, and serotonin regulates mood, emotion, sleep, and appetite.  The protein produced from the TH gene is also involved in dopamine production. The TH gene provides instructions for making the enzyme tyrosine hydroxylase, which helps convert the amino acid tyrosine to dopamine.  Mutations in the GCH1 or SPR gene impair the production of tetrahydrobiopterin, which leads to a decrease in the amount of available dopamine. TH gene mutations result in the production of a tyrosine hydroxylase enzyme with reduced function, which leads to a decrease in dopamine production. A reduction in the amount of dopamine interferes with the brain&apos;s ability to produce smooth physical movements, resulting in the dystonia, tremor, and other movement problems associated with dopa-responsive dystonia. Sleep and mood disorders also occur in some individuals with GCH1 or SPR gene mutations; these disorders likely result from a disruption in the production of serotonin. Problems with sleep and episodes of depression are not seen in people with dopa-responsive dystonia caused by TH gene mutations, which is sometimes referred to as Segawa syndrome.  Some people with dopa-responsive dystonia do not have an identified mutation in the GCH1, TH, or SPR gene. The cause of the condition in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000299-4" qtype="inheritance">Is dopa-responsive dystonia inherited ?</Question>
+			<Answer>When dopa-responsive dystonia is caused by mutations in the GCH1 gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  Some people who inherit the altered GCH1 gene never develop features of dopa-responsive dystonia. (This situation is known as reduced penetrance.) It is unclear why some people with a mutated gene develop the disease and other people with a mutated gene do not. For unknown reasons, dopa-responsive dystonia caused by mutations in the GCH1 gene affects females two to four times more often than males.  When TH gene mutations are responsible for causing dopa-responsive dystonia, it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  When dopa-responsive dystonia is caused by mutations in the SPR gene, it can have either an autosomal recessive or, less commonly, an autosomal dominant pattern of inheritance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000299-5" qtype="treatment">What are the treatments for dopa-responsive dystonia ?</Question>
+			<Answer>These resources address the diagnosis or management of dopa-responsive dystonia:  - Dartmouth-Hitchcock Children&apos;s Hospital at Dartmouth  - Gene Review: Gene Review: Dystonia Overview  - Gene Review: Gene Review: GTP Cyclohydrolase 1-Deficient Dopa-Responsive Dystonia  - Genetic Testing Registry: Dystonia 5, Dopa-responsive type  - Genetic Testing Registry: Segawa syndrome, autosomal recessive  - Genetic Testing Registry: Sepiapterin reductase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000041" source="NINDS" url="http://www.ninds.nih.gov/disorders/behcet/behcet.htm">
+<Focus>Behcet's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004943</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000041-1" qtype="information">What is (are) Behcet's Disease ?</Question>
+			<Answer>Behcet&apos;s disease is a rare, chronic inflammatory disorder. The cause of Behcet&apos;s disease is unknown, but current research suggests that both genetic and environmental factors play a role. Behcet&apos;s disease generally begins when individuals are in their 20s or 30s, although it can happen at any age. It tends to occur more often in men than in women. Symptoms of Behcet&apos;s disease include recurrent ulcers in the mouth (resembling canker sores) and on the genitals, and eye inflammation. The disorder may also cause various types of skin lesions, arthritis, bowel inflammation, meningitis (inflammation of the membranes of the brain and spinal cord), and cranial nerve palsies. Behcet&apos;s is a multi-system disease; it may involve all organs and affect the central nervous system, causing memory loss and impaired speech, balance, and movement.
+                
+The effects of the disease may include blindness, stroke, swelling of the spinal cord, and intestinal complications. The disease is common in the Middle East, particularly in Turkey, and in Far Eastern nations such as Japan and Korean, but is less common in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000041-2" qtype="treatment">What are the treatments for Behcet's Disease ?</Question>
+			<Answer>Treatment for Behcet&apos;s disease is symptomatic and supportive. Medication may be prescribed to reduce inflammation and/or regulate the immune system. Immunosuppressive therapy may be considered.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000041-3" qtype="outlook">What is the outlook for Behcet's Disease ?</Question>
+			<Answer>Behcet&apos;s disease is a lifelong disorder that comes and goes. Permanent remission of symptoms has not been reported.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000041-4" qtype="research">what research (or clinical trials) is being done for Behcet's Disease ?</Question>
+			<Answer>The NINDS supports research on painful neurological disorders such as Behcet&apos;s disease. The National Human Genome Research Institute, another Institute of the National Institutes of Health, conducts research into the genomic basis of Behcet&apos;s disease. This research is aimed at discovering the causes of these disorders and finding ways to treat, prevent, and, ultimately, cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

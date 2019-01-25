@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000199" source="NINDS" url="http://www.ninds.nih.gov/disorders/mucolipidoses/mucolipidoses.htm">
+<Focus>Mucolipidoses</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026697</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000199-1" qtype="information">What is (are) Mucolipidoses ?</Question>
+			<Answer>The mucolipidoses (ML) are a group of inherited metabolic diseases that affect the bodys ability to carry out the normal turnover of various materials within cells. In ML, abnormal amounts of carbohydrates and fatty materials (lipids) accumulate in cells. Because our cells are not able to handle such large amounts of these substances, damage to the cells occurs, causing symptoms that range from mild learning disabilities to severe intellectual impairment and skeletal deformities.
+                
+The group includes four diseases:
+                
+- Mucolipidosis I (sialidosis)  - Mucolipidosis II (inclusion-cell, or I-cell, disease)  - Mucolipidosis III (pseudo-Hurler polydystrophy)  - Mucolipidosis IV
+                
+The MLs are classified as lysosomal storage diseases because they involve increased storage of substances in the lysosomes, which are specialized sac-like components within most cells. Individuals with ML are born with a genetic defect in which their bodies either do not produce enough enzymes or, in some instances, produce ineffective forms of enzymes. Without functioning enzymes, lysosomes cannot break down carbohydrates and lipids and transport them to their normal destination. The molecules then accumulate in the cells of various tissues in the body, leading to swelling and damage of organs.
+                
+The mucolipidoses occur only when a child inherits two copies of the defective gene, one from each parent. When both parents carry a defective gene, each of their children faces a one in four chance of developing one of the MLs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000199-2" qtype="treatment">What are the treatments for Mucolipidoses ?</Question>
+			<Answer>No cures or specific therapies for ML currently exists. Therapies are generally geared toward treating symptoms and providing supportive care to the child. For individuals with corneal clouding, surgery to remove the thin layer over the eye has been shown to reduce the cloudiness in the eye. However, this improvement may be only temporary. Physical and occupational therapy may help children with motor delays. Children with language delays may benefit from speech therapy. Children at risk for failure to thrive (growth failure) may need nutritional supplements, especially iron and vitamin B12 for persons with ML IV. Respiratory infections should be treated immediately and fully with antibiotics.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000199-3" qtype="outlook">What is the outlook for Mucolipidoses ?</Question>
+			<Answer>Symptoms of ML can be congenital (present at birth) or begin in early childhood or adolescence. Early symptoms can include skeletal abnormalities, vision problems and developmental delays. Over time, many children with ML develop poor mental capacities, have difficulty reaching normal developmental milestones, and, in many cases, eventually die of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000199-4" qtype="research">what research (or clinical trials) is being done for Mucolipidoses ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. Investigators are conducting studies to determine the effects of ML genetic mutations in various animal models of the disease. Studying the disease mechanisms in these models may allow scientists to develop treatments for people with an ML disorder.Clinical trials include a natural history of individuals with ML IV, to better understand the disease and identify potential outcomes, and longitudinal studies to better understand disease progression, assess current therapies, and identify potential treatments.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

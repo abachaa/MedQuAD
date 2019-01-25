@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000664" source="GHR" url="https://ghr.nlm.nih.gov/condition/mitochondrial-neurogastrointestinal-encephalopathy-disease">
+<Focus>mitochondrial neurogastrointestinal encephalopathy disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085584</CUI>
+			<CUI>C0872218</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MEPOP</Synonym>
+		<Synonym>Mitochondrial myopathy with sensorimotor polyneuropathy, ophthalmoplegia, and pseudo-obstruction</Synonym>
+		<Synonym>Mitochondrial neurogastrointestinal encephalopathy syndrome</Synonym>
+		<Synonym>MNGIE disease</Synonym>
+		<Synonym>MNGIE syndrome</Synonym>
+		<Synonym>Myoneurogastrointestinal encephalopathy syndrome</Synonym>
+		<Synonym>Oculogastrointestinal muscular dystrophy</Synonym>
+		<Synonym>OGIMD</Synonym>
+		<Synonym>POLIP</Synonym>
+		<Synonym>Polyneuropathy, ophthalmoplegia, leukoencephalopathy, and intestinal pseudo-obstruction</Synonym>
+		<Synonym>Thymidine phosphorylase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000664-1" qtype="information">What is (are) mitochondrial neurogastrointestinal encephalopathy disease ?</Question>
+			<Answer>Mitochondrial neurogastrointestinal encephalopathy (MNGIE) disease is a condition that affects several parts of the body, particularly the digestive system and nervous system. The major features of MNGIE disease can appear anytime from infancy to adulthood, but signs and symptoms most often begin by age 20. The medical problems associated with this disorder worsen with time.  Abnormalities of the digestive system are among the most common and severe features of MNGIE disease. Almost all affected people have a condition known as gastrointestinal dysmotility, in which the muscles and nerves of the digestive system do not move food through the digestive tract efficiently. The resulting digestive problems include feelings of fullness (satiety) after eating only a small amount, trouble swallowing (dysphagia), nausea and vomiting after eating, episodes of abdominal pain, diarrhea, and intestinal blockage. These gastrointestinal problems lead to extreme weight loss and reduced muscle mass (cachexia).  MNGIE disease is also characterized by abnormalities of the nervous system, although these tend to be milder than the gastrointestinal problems. Affected individuals experience tingling, numbness, and weakness in their limbs (peripheral neuropathy), particularly in the hands and feet. Additional neurological signs and symptoms can include droopy eyelids (ptosis), weakness of the muscles that control eye movement (ophthalmoplegia), and hearing loss. Leukoencephalopathy, which is the deterioration of a type of brain tissue known as white matter, is a hallmark of MNGIE disease. These changes in the brain can be seen with magnetic resonance imaging (MRI), though they usually do not cause symptoms in people with this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000664-2" qtype="frequency">How many people are affected by mitochondrial neurogastrointestinal encephalopathy disease ?</Question>
+			<Answer>The prevalence of MNGIE disease is unknown. About 70 people with this disorder have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000664-3" qtype="genetic changes">What are the genetic changes related to mitochondrial neurogastrointestinal encephalopathy disease ?</Question>
+			<Answer>Mutations in the TYMP gene (previously known as ECGF1) cause MNGIE disease. This gene provides instructions for making an enzyme called thymidine phosphorylase. Thymidine is a molecule known as a nucleoside, which (after a chemical modification) is used as a building block of DNA. Thymidine phosphorylase breaks down thymidine into smaller molecules, which helps regulate the level of nucleosides in cells.  TYMP mutations greatly reduce or eliminate the activity of thymidine phosphorylase. A shortage of this enzyme allows thymidine to build up to very high levels in the body. Researchers believe that an excess of this molecule is damaging to a particular kind of DNA known as mitochondrial DNA or mtDNA. Mitochondria are structures within cells that convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA.  Mitochondria use nucleosides, including thymidine, to build new molecules of mtDNA as needed. A loss of thymidine phosphorylase activity and the resulting buildup of thymidine disrupt the usual maintenance and repair of mtDNA. As a result, mutations can accumulate in mtDNA, causing it to become unstable. Additionally, mitochondria may have less mtDNA than usual (mtDNA depletion). These genetic changes impair the normal function of mitochondria. Although mtDNA abnormalities underlie the digestive and neurological problems characteristic of MNGIE disease, it is unclear how defective mitochondria cause the specific features of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000664-4" qtype="inheritance">Is mitochondrial neurogastrointestinal encephalopathy disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the TYMP gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000664-5" qtype="treatment">What are the treatments for mitochondrial neurogastrointestinal encephalopathy disease ?</Question>
+			<Answer>These resources address the diagnosis or management of MNGIE disease:  - Gene Review: Gene Review: Mitochondrial Neurogastrointestinal Encephalopathy Disease  - Genetic Testing Registry: Myoneural gastrointestinal encephalopathy syndrome  - MedlinePlus Encyclopedia: Leukoencephalopathy (image)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

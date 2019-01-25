@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004114" source="GARD" url="https://rarediseases.info.nih.gov/gard/7034/monoclonal-gammopathy-of-undetermined-significance">
+<Focus>Monoclonal gammopathy of undetermined significance</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0178650</CUI>
+			<CUI>C0026470</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MGUS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004114-1" qtype="information">What is (are) Monoclonal gammopathy of undetermined significance ?</Question>
+			<Answer>Monoclonal gammopathy of undetermined significance (MGUS) is a condition in which an abnormal protein called monoclonal protein is detected in the blood. MGUS typically does not cause any problems, although some affected people may experience numbness, tingling or weakness. In some cases, MGUS may progress over time to certain forms of blood cancer (such as multiple myeloma, macroglobulinemia, or B-cell lymphoma). MGUS is thought to be a multifactorial condition that is likely associated with the effects of multiple genes in combination with lifestyle and environmental factors. People with MGUS are usually monitored closely to ensure that the levels of monoclonal protein do not rise and other problems do not develop. Those with stable levels of monoclonal protein typically do not require treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

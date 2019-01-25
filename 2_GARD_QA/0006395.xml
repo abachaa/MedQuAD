@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006395" source="GARD" url="https://rarediseases.info.nih.gov/gard/328/wandering-spleen">
+<Focus>Wandering spleen</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0272414</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Displaced spleen</Synonym>
+		<Synonym>Drifting spleen</Synonym>
+		<Synonym>Splenoptosis</Synonym>
+		<Synonym>Floating spleen</Synonym>
+		<Synonym>Splenic ptosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006395-1" qtype="information">What is (are) Wandering spleen ?</Question>
+			<Answer>Wandering spleen is a rare condition that occurs when the spleen lacks one or more of the ligments that hold the spleen in its normal position in the upper left abdomen. If a person is born with this condition it is referred to as congenital wandering spleen. The condition is not hereditary. Acquired wandering spleen may occur during adulthood due to injuries or other underlying conditions that may weaken the ligaments that hold the spleen. Symptoms of wandering spleen may include englargement of the spleen (splenomegaly), abdominal pain, intestinal obstruction, nausea, vomiting, fever, and a lump in the abdomen or the pelvis. Some individuals with this condition do not have symptoms. Treatment for this condition involes removal of the spleen (splenectomy).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006395-2" qtype="treatment">What are the treatments for Wandering spleen ?</Question>
+			<Answer>How might wandering spleen be treated? Because wandering spleen can cause life-threatening complications (such as splenic infarction, portal hypertension, and hemorrhage), surgery to remove the spleen is the preferred treatment method for patients. Laparoscopic splenectomy is the typical method used for spleen removal. Splenopexy (surgically fixing the floating spleen) is associated with a high risk of recurrence and complications and is not the preferred treatment choice.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000218" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-cataracts-facial-dysmorphism-and-neuropathy">
+<Focus>congenital cataracts, facial dysmorphism, and neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0086543</CUI>
+			<CUI>C0266617</CUI>
+			<CUI>C1858726</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CCFDN</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000218-1" qtype="information">What is (are) congenital cataracts, facial dysmorphism, and neuropathy ?</Question>
+			<Answer>Congenital cataracts, facial dysmorphism, and neuropathy (CCFDN) is a rare disorder that affects several parts of the body. It is characterized by a clouding of the lens of the eyes at birth (congenital cataracts) and other eye abnormalities, such as small or poorly developed eyes (microphthalmia) and abnormal eye movements (nystagmus). Affected individuals, particularly males, often have distinctive facial features that become more apparent as they reach adulthood. These features include a prominent midface, a large nose, protruding teeth, and a small lower jaw.  CCFDN causes progressive damage to the peripheral nerves, which connect the brain and spinal cord to muscles and sensory cells. This nerve damage is known as peripheral neuropathy. Weakness in the legs, followed by the arms, begins in the first few years of life, and as a result children with CCFDN have delayed development of motor skills such as standing and walking. In adolescence, affected individuals develop sensory abnormalities such as numbness and tingling, mainly in the legs. By adulthood they typically have significant difficulties with mobility. Muscle weakness can also lead to skeletal abnormalities such as hand and foot deformities and abnormal curvature of the spine.  People with CCFDN may have problems with balance and coordination (ataxia), tremors, and difficulty with movements that involve judging distance or scale (dysmetria). Some have mild intellectual disability. Individuals with CCFDN have short stature, are typically underweight, and have reduced bone density.  A complication called rhabdomyolysis occurs in some people with CCFDN, typically following a viral infection or, in rare cases, during or after surgery. Rhabdomyolysis is a breakdown of muscle tissue that results in severe muscle weakness. The destruction of muscle tissue releases a protein called myoglobin, which is processed by the kidneys and released in the urine (myoglobinuria). The presence of myoglobin causes the urine to be red or brown. The muscles may take up to a year to recover, and the episodes may worsen the muscle weakness caused by the neuropathy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000218-2" qtype="frequency">How many people are affected by congenital cataracts, facial dysmorphism, and neuropathy ?</Question>
+			<Answer>The prevalence of CCFDN is unknown. The disorder has been identified in about 150 individuals of Romani ethnicity. Thus far, no affected individuals have been observed outside this community.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000218-3" qtype="genetic changes">What are the genetic changes related to congenital cataracts, facial dysmorphism, and neuropathy ?</Question>
+			<Answer>A mutation in the CTDP1 gene causes CCFDN. The CTDP1 gene provides instructions for making a protein called carboxy-terminal domain phosphatase 1. This protein helps regulate the process of transcription, which is a key step in using the information carried by genes to direct the production (synthesis) of proteins.  All known individuals with CCFDN have the same mutation in both copies of the CTDP1 gene in each cell. This mutation alters the way the gene&apos;s instructions are pieced together to produce the carboxy-terminal domain phosphatase 1 protein. The altered instructions introduce a premature stop signal, resulting in an abnormally short, nonfunctional protein that cannot regulate transcription. Defective regulation of the transcription process affects the development and function of many parts of the body. It is not known how nonfunctional carboxy-terminal domain phosphatase 1 protein results in the specific signs and symptoms of CCFDN.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000218-4" qtype="inheritance">Is congenital cataracts, facial dysmorphism, and neuropathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000218-5" qtype="treatment">What are the treatments for congenital cataracts, facial dysmorphism, and neuropathy ?</Question>
+			<Answer>These resources address the diagnosis or management of CCFDN:  - Gene Review: Gene Review: Congenital Cataracts, Facial Dysmorphism, and Neuropathy  - Genetic Testing Registry: Congenital Cataracts, Facial Dysmorphism, and Neuropathy  - MedlinePlus Encyclopedia: Congenital Cataract  - MedlinePlus Encyclopedia: Peripheral Neuropathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

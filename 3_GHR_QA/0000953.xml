@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000953" source="GHR" url="https://ghr.nlm.nih.gov/condition/stevens-johnson-syndrome-toxic-epidermal-necrolysis">
+<Focus>Stevens-Johnson syndrome/toxic epidermal necrolysis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038325</CUI>
+			<CUI>C0014518</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>drug-induced Stevens Johnson syndrome</Synonym>
+		<Synonym>Lyell's syndrome</Synonym>
+		<Synonym>mycoplasma-induced Stevens Johnson syndrome</Synonym>
+		<Synonym>Stevens-Johnson syndrome</Synonym>
+		<Synonym>Stevens-Johnson syndrome toxic epidermal necrolysis spectrum</Synonym>
+		<Synonym>toxic epidermal necrolysis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000953-1" qtype="information">What is (are) Stevens-Johnson syndrome/toxic epidermal necrolysis ?</Question>
+			<Answer>Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) is a severe skin reaction most often triggered by particular medications. Although Stevens-Johnson syndrome and toxic epidermal necrolysis were once thought to be separate conditions, they are now considered part of a continuum. Stevens-Johnson syndrome represents the less severe end of the disease spectrum, and toxic epidermal necrolysis represents the more severe end.  SJS/TEN often begins with a fever and flu-like symptoms. Within a few days, the skin begins to blister and peel, forming very painful raw areas called erosions that resemble a severe hot-water burn. The skin erosions usually start on the face and chest before spreading to other parts of the body. In most affected individuals, the condition also damages the mucous membranes, including the lining of the mouth and the airways, which can cause trouble with swallowing and breathing. The painful blistering can also affect the urinary tract and genitals. SJS/TEN often affects the eyes as well, causing irritation and redness of the conjunctiva, which are the mucous membranes that protect the white part of the eye and line the eyelids, and damage to the clear front covering of the eye (the cornea).  Severe damage to the skin and mucous membranes makes SJS/TEN a life-threatening disease. Because the skin normally acts as a protective barrier, extensive skin damage can lead to a dangerous loss of fluids and allow infections to develop. Serious complications can include pneumonia, overwhelming bacterial infections (sepsis), shock, multiple organ failure, and death. About 10 percent of people with Stevens-Johnson syndrome die from the disease, while the condition is fatal in up to 50 percent of those with toxic epidermal necrolysis.  Among people who survive, long-term effects of SJS/TEN can include changes in skin coloring (pigmentation), dryness of the skin and mucous membranes (xerosis), excess sweating (hyperhidrosis), hair loss (alopecia), and abnormal growth or loss of the fingernails and toenails. Other long-term problems can include impaired taste, difficulty urinating, and genital abnormalities. A small percentage of affected individuals develop chronic dryness or inflammation of the eyes, which can lead to increased sensitivity to light (photophobia) and vision impairment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000953-2" qtype="frequency">How many people are affected by Stevens-Johnson syndrome/toxic epidermal necrolysis ?</Question>
+			<Answer>SJS/TEN is a rare disease, affecting 1 to 2 per million people each year. Stevens-Johnson syndrome (the less severe form of the condition) is more common than toxic epidermal necrolysis.  People who are HIV-positive and those with a chronic inflammatory disease called systemic lupus erythematosus are more likely to develop SJS/TEN than the general population. The reason for the increased risk is unclear, but immune system factors and exposure to multiple medications may play a role.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000953-3" qtype="genetic changes">What are the genetic changes related to Stevens-Johnson syndrome/toxic epidermal necrolysis ?</Question>
+			<Answer>Several genetic changes have been found to increase the risk of SJS/TEN in response to triggering factors such as medications. Most of these changes occur in genes that are involved in the normal function of the immune system.  The genetic variations most strongly associated with SJS/TEN occur in the HLA-B gene. This gene is part of a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). The HLA-B gene has many different normal variations, allowing each person&apos;s immune system to react to a wide range of foreign proteins. Certain variations in this gene occur much more often in people with SJS/TEN than in people without the condition.  Studies suggest that the HLA-B gene variations associated with SJS/TEN cause the immune system to react abnormally to certain medications. In a process that is not well understood, the drug causes immune cells called cytotoxic T cells and natural killer (NK) cells to release a substance called granulysin that destroys cells in the skin and mucous membranes. The death of these cells causes the blistering and peeling that is characteristic of SJS/TEN.  Variations in several other HLA and non-HLA genes have also been studied as potential risk factors for SJS/TEN. However, most people with genetic variations that increase the risk of SJS/TEN never develop the disease, even if they are exposed to drugs that can trigger it. Researchers believe that additional genetic and nongenetic factors, many of which are unknown, likely play a role in whether a particular individual develops SJS/TEN.  The drugs most frequently associated with SJS/TEN include several medications that are used to treat seizures (particularly carbamazepine, lamotrigine, and phenytoin); allopurinol, which is used to treat kidney stones and a form of arthritis called gout; a class of antibiotic drugs called sulfonamides; nevirapine, which is used to treat HIV infection; and a type of non-steroidal anti-inflammatory drugs (NSAIDs) called oxicams. Other factors may also trigger SJS/TEN. In particular, these skin reactions have occurred in people with an unusual form of pneumonia caused by infection with Mycoplasma pneumoniae and in people with viral infections, including cytomegalovirus. Researchers suspect that a combination of infections and drugs could contribute to the disease in some individuals. In many cases, no definitive trigger for an individual&apos;s SJS/TEN is ever discovered.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000953-4" qtype="inheritance">Is Stevens-Johnson syndrome/toxic epidermal necrolysis inherited ?</Question>
+			<Answer>SJS/TEN is not an inherited condition. However, the genetic changes that increase the risk of developing SJS/TEN can be passed from one generation to the next.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000953-5" qtype="treatment">What are the treatments for Stevens-Johnson syndrome/toxic epidermal necrolysis ?</Question>
+			<Answer>These resources address the diagnosis or management of Stevens-Johnson syndrome/toxic epidermal necrolysis:  - Genetic Testing Registry: Stevens-Johnson syndrome  - Genetic Testing Registry: Toxic epidermal necrolysis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

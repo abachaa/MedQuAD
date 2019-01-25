@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000376" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/foodborneillness.html">
+<Focus>Foodborne Illness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0679360</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Food Poisoning</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000376-1" qtype="information">What is (are) Foodborne Illness ?</Question>
+			<Answer>Each year, 48 million people in the U.S. get sick from contaminated food. Common culprits include bacteria, parasites and viruses. Symptoms range from mild to serious. They include       -  Upset stomach    -  Abdominal cramps    -  Nausea and vomiting    -  Diarrhea    -  Fever    -  Dehydration       Harmful bacteria are the most common cause of foodborne illness. Foods may have some bacteria on them when you buy them. Raw meat may become contaminated during slaughter. Fruits and vegetables may become contaminated when they are growing or when they are processed. But it can also happen in your kitchen if you leave food out for more than 2 hours at room temperature. Handling food safely can help prevent foodborne illnesses.     The treatment in most cases is increasing your fluid intake. For more serious illness, you may need treatment at a hospital.     NIH: National Institute of Diabetes and Digestive and Kidney Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

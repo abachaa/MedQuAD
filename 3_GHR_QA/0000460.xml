@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000460" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-fructose-intolerance">
+<Focus>hereditary fructose intolerance</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016751</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ALDOB deficiency</Synonym>
+		<Synonym>aldolase B deficiency</Synonym>
+		<Synonym>fructose-1-phosphate aldolase deficiency</Synonym>
+		<Synonym>fructose-1,6-biphosphate aldolase deficiency</Synonym>
+		<Synonym>fructose aldolase B deficiency</Synonym>
+		<Synonym>fructose intolerance</Synonym>
+		<Synonym>fructosemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000460-1" qtype="information">What is (are) hereditary fructose intolerance ?</Question>
+			<Answer>Hereditary fructose intolerance is a condition that affects a person&apos;s ability to digest the sugar fructose. Fructose is a simple sugar found primarily in fruits. Affected individuals develop signs and symptoms of the disorder in infancy when fruits, juices, or other foods containing fructose are introduced into the diet. After ingesting fructose, individuals with hereditary fructose intolerance may experience nausea, bloating, abdominal pain, diarrhea, vomiting, and low blood sugar (hypoglycemia). Affected infants may fail to grow and gain weight at the expected rate (failure to thrive).  Repeated ingestion of fructose-containing foods can lead to liver and kidney damage. The liver damage can result in a yellowing of the skin and whites of the eyes (jaundice), an enlarged liver (hepatomegaly), and chronic liver disease (cirrhosis). Continued exposure to fructose may result in seizures, coma, and ultimately death from liver and kidney failure. Due to the severity of symptoms experienced when fructose is ingested, most people with hereditary fructose intolerance develop a dislike for fruits, juices, and other foods containing fructose.  Hereditary fructose intolerance should not be confused with a condition called fructose malabsorption. In people with fructose malabsorption, the cells of the intestine cannot absorb fructose normally, leading to bloating, diarrhea or constipation, flatulence, and stomach pain. Fructose malabsorption is thought to affect approximately 40 percent of individuals in the Western hemisphere; its cause is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000460-2" qtype="frequency">How many people are affected by hereditary fructose intolerance ?</Question>
+			<Answer>The incidence of hereditary fructose intolerance is estimated to be 1 in 20,000 to 30,000 individuals each year worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000460-3" qtype="genetic changes">What are the genetic changes related to hereditary fructose intolerance ?</Question>
+			<Answer>Mutations in the ALDOB gene cause hereditary fructose intolerance. The ALDOB gene provides instructions for making the aldolase B enzyme. This enzyme is found primarily in the liver and is involved in the breakdown (metabolism) of fructose so this sugar can be used as energy. Aldolase B is responsible for the second step in the metabolism of fructose, which breaks down the molecule fructose-1-phosphate into other molecules called glyceraldehyde and dihydroxyacetone phosphate.  ALDOB gene mutations reduce the function of the enzyme, impairing its ability to metabolize fructose. A lack of functional aldolase B results in an accumulation of fructose-1-phosphate in liver cells. This buildup is toxic, resulting in the death of liver cells over time. Additionally, the breakdown products of fructose-1-phosphase are needed in the body to produce energy and to maintain blood sugar levels. The combination of decreased cellular energy, low blood sugar, and liver cell death leads to the features of hereditary fructose intolerance.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000460-4" qtype="inheritance">Is hereditary fructose intolerance inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000460-5" qtype="treatment">What are the treatments for hereditary fructose intolerance ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary fructose intolerance:  - Boston University: Specifics of Hereditary Fructose Intolerance and Its Diagnosis  - Gene Review: Gene Review: Hereditary Fructose Intolerance  - Genetic Testing Registry: Hereditary fructosuria  - MedlinePlus Encyclopedia: Hereditary Fructose Intolerance   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

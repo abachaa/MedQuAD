@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003182" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000778.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Prediabetes</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0362046</CUI>
+			<CUI>C0271650</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Impaired fasting glucose - prediabetes</Synonym>
+		<Synonym>Impaired glucose tolerance - prediabetes</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003182-1" qtype="information">What is (are) Prediabetes ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003182-2" qtype="information">What is (are) Prediabetes ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003182-3" qtype="prevention">How to prevent Prediabetes ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003182-4" qtype="susceptibility">Who is at risk for Prediabetes? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000956" source="GHR" url="https://ghr.nlm.nih.gov/condition/stormorken-syndrome">
+<Focus>Stormorken syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1861451</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Stormorken-Sjaastad-Langslet syndrome</Synonym>
+		<Synonym>thrombocytopathy, asplenia, and miosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000956-1" qtype="information">What is (are) Stormorken syndrome ?</Question>
+			<Answer>Stormorken syndrome is a rare condition that affects many body systems. Affected individuals usually have thrombocytopenia, in which there are abnormally low numbers of blood cells called platelets. Platelets are involved in normal blood clotting; a shortage of platelets typically results in easy bruising and abnormal bleeding. In addition, affected individuals often have a muscle disorder, called tubular aggregate myopathy, that leads to muscle weakness. Another feature of Stormorken syndrome is permanent constriction of the pupils of the eyes (miosis), which may be caused by abnormalities in the muscles that control the size of the pupils. Other features include lack of a functioning spleen (asplenia), scaly skin (ichthyosis), headaches, and difficulty with reading and spelling (dyslexia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000956-2" qtype="frequency">How many people are affected by Stormorken syndrome ?</Question>
+			<Answer>Stormorken syndrome is a rare disorder. Approximately a dozen cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000956-3" qtype="genetic changes">What are the genetic changes related to Stormorken syndrome ?</Question>
+			<Answer>Stormorken syndrome is caused by a mutation in the STIM1 gene. The protein produced from this gene is involved in controlling the entry of positively charged calcium atoms (calcium ions) into cells. The STIM1 protein recognizes when calcium ion levels are low and stimulates the flow of ions into the cell through special channels in the cell membrane called calcium-release activated calcium (CRAC) channels. The flow of calcium ions through CRAC channels triggers signaling within cells that helps control gene activity, cell growth and division, and immune function.  The STIM1 gene mutation involved in Stormorken syndrome leads to production of a STIM1 protein that is constantly turned on (constitutively active), which means it continually stimulates calcium ion entry through CRAC channels regardless of ion levels. Researchers suggest that the abnormal ion flow in platelets causes the cells to die earlier than usual, leading to thrombocytopenia and bleeding problems in people with Stormorken syndrome. It is unknown how constitutively active STIM1 leads to the other features of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000956-4" qtype="inheritance">Is Stormorken syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000956-5" qtype="treatment">What are the treatments for Stormorken syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Stormorken syndrome:  - Genetic Testing Registry: Stormorken syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

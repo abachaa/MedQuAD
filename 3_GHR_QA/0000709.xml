@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000709" source="GHR" url="https://ghr.nlm.nih.gov/condition/myotonia-congenita">
+<Focus>myotonia congenita</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2936781</CUI>
+			<CUI>C0027127</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital myotonia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000709-1" qtype="information">What is (are) myotonia congenita ?</Question>
+			<Answer>Myotonia congenita is a disorder that affects muscles used for movement (skeletal muscles). Beginning in childhood, people with this condition experience bouts of sustained muscle tensing (myotonia) that prevent muscles from relaxing normally. Although myotonia can affect any skeletal muscles, including muscles of the face and tongue, it occurs most often in the legs. Myotonia causes muscle stiffness that can interfere with movement. In some people the stiffness is very mild, while in other cases it may be severe enough to interfere with walking, running, and other activities of daily life. These muscle problems are particularly noticeable during movement following a period of rest. Many affected individuals find that repeated movements can temporarily alleviate their muscle stiffness, a phenomenon known as the warm-up effect.  The two major types of myotonia congenita are known as Thomsen disease and Becker disease. These conditions are distinguished by the severity of their symptoms and their patterns of inheritance. Becker disease usually appears later in childhood than Thomsen disease and causes more severe muscle stiffness, particularly in males. People with Becker disease often experience temporary attacks of muscle weakness, particularly in the arms and hands, brought on by movement after periods of rest. They may also develop mild, permanent muscle weakness over time. This muscle weakness is not seen in people with Thomsen disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000709-2" qtype="frequency">How many people are affected by myotonia congenita ?</Question>
+			<Answer>Myotonia congenita is estimated to affect 1 in 100,000 people worldwide. This condition is more common in northern Scandinavia, where it occurs in approximately 1 in 10,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000709-3" qtype="genetic changes">What are the genetic changes related to myotonia congenita ?</Question>
+			<Answer>Mutations in the CLCN1 gene cause myotonia congenita.  The CLCN1 gene provides instructions for making a protein that is critical for the normal function of skeletal muscle cells. For the body to move normally, skeletal muscles must tense (contract) and relax in a coordinated way. Muscle contraction and relaxation are controlled by the flow of charged atoms (ions) into and out of muscle cells. Specifically, the protein produced from the CLCN1 gene forms a channel that controls the flow of negatively charged chlorine atoms (chloride ions) into these cells. The main function of this channel is to stabilize the cells&apos; electrical charge, which prevents muscles from contracting abnormally.  Mutations in the CLCN1 gene alter the usual structure or function of chloride channels. The altered channels cannot properly regulate ion flow, reducing the movement of chloride ions into skeletal muscle cells. This disruption in chloride ion flow triggers prolonged muscle contractions, which are the hallmark of myotonia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000709-4" qtype="inheritance">Is myotonia congenita inherited ?</Question>
+			<Answer>The two forms of myotonia congenita have different patterns of inheritance. Thomsen disease is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.  Becker disease is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.  Because several CLCN1 mutations can cause either Becker disease or Thomsen disease, doctors usually rely on characteristic signs and symptoms to distinguish the two forms of myotonia congenita.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000709-5" qtype="treatment">What are the treatments for myotonia congenita ?</Question>
+			<Answer>These resources address the diagnosis or management of myotonia congenita:  - Gene Review: Gene Review: Myotonia Congenita  - Genetic Testing Registry: Congenital myotonia, autosomal dominant form  - Genetic Testing Registry: Congenital myotonia, autosomal recessive form  - Genetic Testing Registry: Myotonia congenita  - MedlinePlus Encyclopedia: Myotonia congenita   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

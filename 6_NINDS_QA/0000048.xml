@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000048" source="NINDS" url="http://www.ninds.nih.gov/disorders/incontinentia_pigmenti/incontinentia_pigmenti.htm">
+<Focus>Incontinentia Pigmenti</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2930820</CUI>
+			<CUI>C0021171</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000048-1" qtype="information">What is (are) Incontinentia Pigmenti ?</Question>
+			<Answer>Incontinentia pigmenti (IP) is an inherited disorder of skin pigmentation that is also associated with abnormalities of the teeth, skeletal system, eyes, and central nervous system. It is one of a group of gene-linked diseases known as neurocutaneous disorders. In most cases, IP is caused by mutations in a gene called NEMO (NF-kappaB essential modulator). Males are more severely affected than females. Discolored skin is caused by excessive deposits of melanin (normal skin pigment). Most newborns with IP will develop discolored skin within the first two weeks. The pigmentation involves the trunk and extremities, is slate-grey, blue or brown, and is distributed in irregular marbled or wavy lines. The discoloration fades with age. Neurological problems include loss of brain tissue (known as cerebral atrophy), the formation of small cavities in the central white matter of the brain, and the loss of neurons in the cerebellar cortex. About 20% of children with IP will have slow motor development, muscle weakness in one or both sides of the body, impaired cognitive development, and seizures. They are also likely to have visual problems, including crossed eyes, cataracts, and severe visual loss. Dental problems are also common, including missing or peg-shaped teeth. A related disorder, incontinentia pigmenti achromians, features skin patterns of light, unpigmented swirls and streaks that are the reverse of IP. Associated neurological problems are similar.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000048-2" qtype="treatment">What are the treatments for Incontinentia Pigmenti ?</Question>
+			<Answer>The skin abnormalities of IP usually disappear by adolescence or adulthood without treatment. Diminished vision may be treated with corrective lenses, medication, or, in severe cases, surgery. A specialist may treat dental problems. Neurological symptoms such as seizures, muscle spasms, or mild paralysis may be controlled with medication and/or medical devices and with the advice of a neurologist.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000048-3" qtype="outlook">What is the outlook for Incontinentia Pigmenti ?</Question>
+			<Answer>Although the skin abnormalities usually regress, and sometimes disappear completely, there may be residual neurological difficulties.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000048-4" qtype="research">what research (or clinical trials) is being done for Incontinentia Pigmenti ?</Question>
+			<Answer>Researchers have begun to use genetic linkage studies to map the location of genes associated with the neurocutaneous disorders. Research supported by the NINDS includes studies to understand how the brain and nervous system normally develop and function and how they are affected by genetic mutations. These studies contribute to a greater understanding of gene-linked disorders such as IP, and have the potential to open promising new avenues of treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

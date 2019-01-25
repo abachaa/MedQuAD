@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000666" source="GHR" url="https://ghr.nlm.nih.gov/condition/miyoshi-myopathy">
+<Focus>Miyoshi myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1850808</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>distal muscular dystrophy, Miyoshi type</Synonym>
+		<Synonym>Miyoshi distal myopathy</Synonym>
+		<Synonym>Miyoshi muscular dystrophy</Synonym>
+		<Synonym>MMD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000666-1" qtype="information">What is (are) Miyoshi myopathy ?</Question>
+			<Answer>Miyoshi myopathy is a muscle disorder that primarily affects muscles away from the center of the body (distal muscles), such as those in the legs. During early to mid-adulthood, affected individuals typically begin to experience muscle weakness and wasting (atrophy) in one or both calves. If only one leg is affected, the calves appear different in size (asymmetrical). Calf weakness can make it difficult to stand on tiptoe.  As Miyoshi myopathy slowly progresses, the muscle weakness and atrophy spread up the leg to the muscles in the thigh and buttock. Eventually, affected individuals may have difficulty climbing stairs or walking for an extended period of time. Some people with Miyoshi myopathy may eventually need wheelchair assistance.  Rarely, the upper arm or shoulder muscles are mildly affected in Miyoshi myopathy. In a few cases, abnormal heart rhythms (arrhythmias) have developed. Individuals with Miyoshi myopathy have highly elevated levels of an enzyme called creatine kinase (CK) in their blood, which often indicates muscle disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000666-2" qtype="frequency">How many people are affected by Miyoshi myopathy ?</Question>
+			<Answer>The exact prevalence of Miyoshi myopathy is unknown. In Japan, where the condition was first described, it is estimated to affect 1 in 440,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000666-3" qtype="genetic changes">What are the genetic changes related to Miyoshi myopathy ?</Question>
+			<Answer>Miyoshi myopathy is caused by mutations in the DYSF or ANO5 gene. When this condition is caused by ANO5 gene mutations it is sometimes referred to as distal anoctaminopathy. The DYSF and ANO5 genes provide instructions for making proteins primarily found in muscles that are used for movement (skeletal muscles). The protein produced from the DYSF gene, called dysferlin, is found in the thin membrane called the sarcolemma that surrounds muscle fibers. Dysferlin is thought to aid in repairing the sarcolemma when it becomes damaged or torn due to muscle strain.  The ANO5 gene provides instructions for making a protein called anoctamin-5. This protein is located within the membrane of a cell structure called the endoplasmic reticulum, which is involved in protein production, processing, and transport. Anoctamin-5 is thought to act as a channel, allowing charged chlorine atoms (chloride ions) to flow in and out of the endoplasmic reticulum. The regulation of chloride flow within muscle cells plays a role in controlling muscle tensing (contraction) and relaxation.  DYSF or ANO5 gene mutations often result in a decrease or elimination of the corresponding protein. A lack of dysferlin leads to a reduced ability to repair damage done to the sarcolemma of muscle fibers. As a result, damage accumulates and leads to atrophy of the muscle fiber. It is unclear why this damage leads to the specific pattern of weakness and atrophy that is characteristic of Miyoshi myopathy. The effects of the loss of anoctamin-5 are also unclear. While chloride is necessary for normal muscle function, it is unknown how a lack of this chloride channel causes the signs and symptoms of Miyoshi myopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000666-4" qtype="inheritance">Is Miyoshi myopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000666-5" qtype="treatment">What are the treatments for Miyoshi myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of Miyoshi myopathy:  - Gene Review: Gene Review: ANO5-Related Muscle Diseases  - Gene Review: Gene Review: Dysferlinopathy  - Genetic Testing Registry: Miyoshi muscular dystrophy 1  - Genetic Testing Registry: Miyoshi muscular dystrophy 3   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000171" source="NINDS" url="http://www.ninds.nih.gov/disorders/klippel_trenaunay/klippel_trenaunay.htm">
+<Focus>Klippel-Trenaunay Syndrome (KTS)</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000171-1" qtype="information">What is (are) Klippel-Trenaunay Syndrome (KTS) ?</Question>
+			<Answer>Klippel-Trenaunay syndrome (KTS) is a rare congenital malformation involving blood and lymph vessels and abnormal growth of soft and bone tissue. Typical symptoms include hemangiomas (abnormal benign growths on the skin consisting of masses of blood vessels) and varicose veins. Fused toes or fingers, or extra toes or fingers, may be present. In some cases, internal bleeding may occur as a result of blood vessel malformations involving organs such as the stomach, rectum, vagina, liver, spleen, bladder, kidneys, lungs, or heart. Individuals are also at risk for blood clots. The cause of the disorder is unknown. A similar port-wine stain disorder in which individuals have vascular anomalies on the face as well as in the brain is Sturge-Weber syndrome. These individuals may experience seizures and mental deficiency. In some cases, features of the Klippel-Trenaunay syndrome and Sturge-Weber syndrome coincide. Another overlapping condition is the Parkes-Weber syndrome, which is characterized by abnormal connectivity between the arterial and venous system (arteriovenous fistulas).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000171-2" qtype="treatment">What are the treatments for Klippel-Trenaunay Syndrome (KTS) ?</Question>
+			<Answer>There is no cure for KTS. Treatment is symptomatic. Laser surgery can diminish or erase some skin lesions. Surgery may correct discrepancies in limb size, but orthopedic devices may be more appropriate.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000171-3" qtype="outlook">What is the outlook for Klippel-Trenaunay Syndrome (KTS) ?</Question>
+			<Answer>KTS is often a progressive disorder, and complications may be life-threatening. However, many individuals can live well while managing their symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000171-4" qtype="research">what research (or clinical trials) is being done for Klippel-Trenaunay Syndrome (KTS) ?</Question>
+			<Answer>The NINDS supports research on congenital disorders such as KTS with the goal of finding new means to treat and prevent them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

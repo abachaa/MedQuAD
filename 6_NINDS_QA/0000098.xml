@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000098" source="NINDS" url="http://www.ninds.nih.gov/disorders/dementias/dementia.htm">
+<Focus>Dementia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0497327</CUI>
+			<CUI>C0011265</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000098-1" qtype="information">What is (are) Dementia ?</Question>
+			<Answer>Dementia is not a specific disease. It is a descriptive term for a collection of symptoms that can be caused by a number of disorders that affect the brain. People with dementia have significantly impaired intellectual functioning that interferes with normal activities and relationships. They also lose their ability to solve problems and maintain emotional control, and they may experience personality changes and behavioral problems, such as agitation, delusions, and hallucinations. While memory loss is a common symptom of dementia, memory loss by itself does not mean that a person has dementia. Doctors diagnose dementia only if two or more brain functions - such as memory and language skills -- are significantly impaired without loss of consciousness. Some of the diseases that can cause symptoms of dementia are Alzheimers disease, vascular dementia, Lewy body dementia, frontotemporal dementia, Huntingtons disease, and Creutzfeldt-Jakob disease. Doctors have identified other conditions that can cause dementia or dementia-like symptoms including reactions to medications, metabolic problems and endocrine abnormalities, nutritional deficiencies, infections, poisoning, brain tumors, anoxia or hypoxia (conditions in which the brains oxygen supply is either reduced or cut off entirely), and heart and lung problems. Although it is common in very elderly individuals, dementia is not a normal part of the aging process.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000098-2" qtype="treatment">What are the treatments for Dementia ?</Question>
+			<Answer>Drugs to specifically treat Alzheimers disease and some other progressive dementias are now available. Although these drugs do not halt the disease or reverse existing brain damage, they can improve symptoms and slow the progression of the disease. This may improve an individuals quality of life, ease the burden on caregivers, or delay admission to a nursing home. Many researchers are also examining whether these drugs may be useful for treating other types of dementia. Many people with dementia, particularly those in the early stages, may benefit from practicing tasks designed to improve performance in specific aspects of cognitive functioning. For example, people can sometimes be taught to use memory aids, such as mnemonics, computerized recall devices, or note taking.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000098-3" qtype="outlook">What is the outlook for Dementia ?</Question>
+			<Answer>There are many disorders that can cause dementia. Some, such as Alzheimers disease or Huntingtons disease, lead to a progressive loss of mental functions. But other types of dementia can be halted or reversed with appropriate treatment. People with moderate or advanced dementia typically need round-the-clock care and supervision to prevent them from harming themselves or others. They also may need assistance with daily activities such as eating, bathing, and dressing.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000098-4" qtype="research">what research (or clinical trials) is being done for Dementia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to dementia in laboratories at the NIH and also support additional dementia research through grants to major medical institutions across the country. Current research focuses on many different aspects of dementia. This research promises to improve the lives of people affected by the dementias and may eventually lead to ways of preventing or curing these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

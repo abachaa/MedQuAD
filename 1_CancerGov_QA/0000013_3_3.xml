@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000013_3" source="CancerGov" url="https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq">
+<Focus>Atypical Chronic Myelogenous Leukemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1292772</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000013_3-1" qtype="information">What is (are) Atypical Chronic Myelogenous Leukemia ?</Question>
+			<Answer>Key Points
+                    - Atypical chronic myelogenous leukemia is a disease in which too many granulocytes (immature white blood cells) are made in the bone marrow.    - Signs and symptoms of atypical chronic myelogenous leukemia include easy bruising or bleeding and feeling tired and weak.    - Certain factors affect prognosis (chance of recovery).
+                
+                
+                    Atypical chronic myelogenous leukemia is a disease in which too many granulocytes (immature white blood cells) are made in the bone marrow.
+                    In atypical chronic myelogenous leukemia (CML), the body tells too many blood stem cells to become a type of white blood cell called granulocytes. Some of these blood stem cells never become mature white blood cells. These immature white blood cells are called blasts. Over time, the granulocytes and blasts crowd out the red blood cells and platelets in the bone marrow.   The leukemia cells in atypical CML and CML look alike under a microscope. However, in atypical CML a certain chromosome change, called the &quot;Philadelphia chromosome&quot; is not there.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000013_3-2" qtype="symptoms">What are the symptoms of Atypical Chronic Myelogenous Leukemia ?</Question>
+			<Answer>Signs and symptoms of atypical chronic myelogenous leukemia include easy bruising or bleeding and feeling tired and weak. These and other signs and symptoms may be caused by atypical CML or by other conditions. Check with your doctor if you have any of the following:         - Shortness of breath.    - Pale skin.    - Feeling very tired and weak.    - Easy bruising or bleeding.    -  Petechiae (flat, pinpoint spots under the skin caused by bleeding).    - Pain or a feeling of fullness below the ribs on the left side.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000013_3-3" qtype="outlook">What is the outlook for Atypical Chronic Myelogenous Leukemia ?</Question>
+			<Answer>Certain factors affect prognosis (chance of recovery). The prognosis (chance of recovery) for atypical CML depends on the number of red blood cells and platelets in the blood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000013_3-4" qtype="treatment">What are the treatments for Atypical Chronic Myelogenous Leukemia ?</Question>
+			<Answer>Treatment of atypical chronic myelogenous leukemia (CML) may include chemotherapy.   Check the list of NCI-supported cancer clinical trials that are now accepting patients with atypical chronic myeloid leukemia, BCR-ABL1 negative. For more specific results, refine the search by using other search features, such as the location of the trial, the type of treatment, or the name of the drug. Talk with your doctor about clinical trials that may be right for you. General information about clinical trials is available from the NCI website.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

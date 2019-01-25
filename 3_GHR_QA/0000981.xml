@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000981" source="GHR" url="https://ghr.nlm.nih.gov/condition/tibial-muscular-dystrophy">
+<Focus>tibial muscular dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1450052</CUI>
+			<CUI>C1838244</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>tardive tibial muscular dystrophy</Synonym>
+		<Synonym>TMD</Synonym>
+		<Synonym>Udd distal myopathy</Synonym>
+		<Synonym>Udd-Markesbery muscular dystrophy</Synonym>
+		<Synonym>Udd myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000981-1" qtype="information">What is (are) tibial muscular dystrophy ?</Question>
+			<Answer>Tibial muscular dystrophy is a condition that affects the muscles at the front of the lower leg. The signs and symptoms of this condition typically appear after age 35. The first sign is usually weakness and wasting (atrophy) of a muscle in the lower leg called the tibialis anterior. This muscle helps control up-and-down movement of the foot. Weakness in the tibialis anterior muscle makes it difficult or impossible to walk on the heels, but it usually does not interfere significantly with regular walking.  Muscle weakness worsens very slowly in people with tibial muscular dystrophy. Ten to 20 years after the onset of symptoms, weakness may develop in muscles that help extend the toes (long-toe extensors). Weakness in these muscles makes it difficult to lift the toes while walking, a condition known as foot drop. Later in life, about one third of people with tibial muscular dystrophy experience mild to moderate difficulty with walking because of weakness in other leg muscles. However, most affected individuals remain able to walk throughout their lives.  A small percentage of people with tibial muscular dystrophy have a somewhat different pattern of signs and symptoms than those described above. Starting in childhood, these individuals may have generalized muscle weakness, weakness and atrophy of the thigh muscles (quadriceps) or other muscles in the legs, and weakness affecting muscles in the arms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000981-2" qtype="frequency">How many people are affected by tibial muscular dystrophy ?</Question>
+			<Answer>Tibial muscular dystrophy is most common in Finland, where it is estimated to affect at least 10 per 100,000 people. This condition has also been found in people of Finnish descent living in other countries.  Additionally, tibial muscular dystrophy has been identified in several European families without Finnish ancestry.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000981-3" qtype="genetic changes">What are the genetic changes related to tibial muscular dystrophy ?</Question>
+			<Answer>Mutations in the TTN gene cause tibial muscular dystrophy. This gene provides instructions for making a protein called titin. Titin plays an important role in muscles the body uses for movement (skeletal muscles) and in heart (cardiac) muscle.  Within muscle cells, titin is an essential component of structures called sarcomeres. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract. Titin has several functions within sarcomeres. One of its most important jobs is to provide structure, flexibility, and stability to these cell structures. Titin also plays a role in chemical signaling and in assembling new sarcomeres.  Mutations in the TTN gene alter the structure and function of titin. Researchers suspect that these changes may disrupt titin&apos;s interactions with other proteins within sarcomeres. Mutations may also interfere with the protein&apos;s role in chemical signaling. The altered titin protein disrupts normal muscle contraction, which causes muscles to weaken and waste away over time. It is unclear why these effects are usually limited to muscles in the lower legs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000981-4" qtype="inheritance">Is tibial muscular dystrophy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000981-5" qtype="treatment">What are the treatments for tibial muscular dystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of tibial muscular dystrophy:  - Gene Review: Gene Review: Udd Distal Myopathy  - Genetic Testing Registry: Distal myopathy Markesbery-Griggs type   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

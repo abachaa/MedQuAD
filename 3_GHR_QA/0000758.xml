@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000758" source="GHR" url="https://ghr.nlm.nih.gov/condition/osteoglophonic-dysplasia">
+<Focus>osteoglophonic dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432283</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fairbank-Keats syndrome</Synonym>
+		<Synonym>OGD</Synonym>
+		<Synonym>osteoglophonic dwarfism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000758-1" qtype="information">What is (are) osteoglophonic dysplasia ?</Question>
+			<Answer>Osteoglophonic dysplasia is a condition characterized by abnormal bone growth that leads to severe head and face (craniofacial) abnormalities, dwarfism, and other features. The term osteoglophonic refers to the bones (osteo-) having distinctive hollowed out (-glophonic) areas that appear as holes on x-ray images.  Premature fusion of certain bones in the skull (craniosynostosis) typically occurs in osteoglophonic dysplasia. The craniosynostosis associated with this disorder may give the head a tall appearance, often referred to in the medical literature as a tower-shaped skull, or a relatively mild version of a deformity called a cloverleaf skull. Characteristic facial features in people with osteoglophonic dysplasia include a prominent forehead (frontal bossing), widely spaced eyes (hypertelorism), flattening of the bridge of the nose and of the middle of the face (midface hypoplasia), a large tongue (macroglossia), a protruding jaw (prognathism), and a short neck. People with this condition usually have no visible teeth because the teeth never emerge from the jaw (clinical anodontia). In addition, the gums are often overgrown (hypertrophic gingiva).  Infants with osteoglophonic dysplasia often experience failure to thrive, which means they do not gain weight and grow at the expected rate. Affected individuals have short, bowed legs and arms and are short in stature. They also have flat feet and short, broad hands and fingers.  The life expectancy of people with osteoglophonic dysplasia depends on the extent of their craniofacial abnormalities; those that obstruct the air passages and affect the mouth and teeth can lead to respiratory problems and cause difficulty with eating and drinking. Despite the skull abnormalities, intelligence is generally not affected in this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000758-2" qtype="frequency">How many people are affected by osteoglophonic dysplasia ?</Question>
+			<Answer>Osteoglophonic dysplasia is a rare disorder; its prevalence is unknown. Only about 15 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000758-3" qtype="genetic changes">What are the genetic changes related to osteoglophonic dysplasia ?</Question>
+			<Answer>Osteoglophonic dysplasia is caused by mutations in the FGFR1 gene, which provides instructions for making a protein called fibroblast growth factor receptor 1. This protein is one of four fibroblast growth factor receptors, which are related proteins that bind (attach) to other proteins called fibroblast growth factors. The growth factors and their receptors are involved in important processes such as cell division, regulation of cell growth and maturation, formation of blood vessels, wound healing, and embryonic development. In particular, they play a major role in skeletal development.  The FGFR1 protein spans the cell membrane, so that one end of the protein remains inside the cell and the other end projects from the outer surface of the cell. When a fibroblast growth factor binds to the part of the FGFR1 protein outside the cell, the receptor triggers a cascade of chemical reactions inside the cell that instruct the cell to undergo certain changes, such as maturing to take on specialized functions. The FGFR1 protein is thought to play an important role in the development of the nervous system. This protein may also help regulate the growth of long bones, such as the large bones in the arms and legs.  FGFR1 gene mutations that cause osteoglophonic dysplasia change single building blocks (amino acids) in the FGFR1 protein. The altered FGFR1 protein appears to cause prolonged signaling, which promotes premature fusion of bones in the skull and disrupts the regulation of bone growth in the arms and legs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000758-4" qtype="inheritance">Is osteoglophonic dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family. However, some affected individuals inherit the mutation from an affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000758-5" qtype="treatment">What are the treatments for osteoglophonic dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of osteoglophonic dysplasia:  - Genetic Testing Registry: Osteoglophonic dysplasia  - Seattle Children&apos;s Hospital: Dwarfism and Bone Dysplasias   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

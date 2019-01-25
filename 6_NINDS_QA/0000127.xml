@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000127" source="NINDS" url="http://www.ninds.nih.gov/disorders/hereditary_spastic_paraplegia/hereditary_spastic_paraplegia.htm">
+<Focus>Hereditary Spastic Paraplegia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037772</CUI>
+			<CUI>C0037773</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000127-1" qtype="information">What is (are) Hereditary Spastic Paraplegia ?</Question>
+			<Answer>Hereditary spastic paraplegia (HSP), also called familial spastic paraparesis (FSP), refers to a group of inherited disorders that are characterized by progressive weakness and spasticity (stiffness) of the legs. Early in the disease course, there may be mild gait difficulties and stiffness. These symptoms typically slowly progress so that eventually individuals with HSP may require the assistance of a cane, walker, or wheelchair. Though the primary features of &quot;pure&quot; HSP are progressive lower limb spasticity and weakness, complicated forms may be accompanied by other symptoms. These additional symptoms include impaired vision due to cataracts and problems with the optic nerve and retina of the eye, ataxia (lack of muscle coordination), epilepsy, cognitive impairment, peripheral neuropathy, and deafness. The diagnosis of HSP is primarily by neurological examination and testing to rule out other disorders. Brain MRI abnormalities, such as a thin corpus callosum, may be seen in some of the complicated forms of HSP. Several genetic mutations have been identified which underlie various forms of HSP, and specialized genetic testing and diagnosis are available at some medical centers. HSP has several forms of inheritance. Not all children in a family will necessarily develop symptoms, although they may be carriers of the abnormal gene. Symptoms may begin in childhood or adulthood, depending on the particular HSP gene involved.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000127-2" qtype="treatment">What are the treatments for Hereditary Spastic Paraplegia ?</Question>
+			<Answer>There are no specific treatments to prevent, slow, or reverse HSP. Symptomatic treatments used for spasticity, such as muscle relaxants, are sometimes helpful. Regular physical therapy is important for muscle strength and to preserve range of motion.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000127-3" qtype="outlook">What is the outlook for Hereditary Spastic Paraplegia ?</Question>
+			<Answer>The prognosis for individuals with HSP varies Some individuals are very disabled and others have only mild disability. The majority of individuals with uncomplicated HSP have a normal life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000127-4" qtype="research">what research (or clinical trials) is being done for Hereditary Spastic Paraplegia ?</Question>
+			<Answer>The NINDS supports research on genetic disorders such as HSP. More than 30 genes that are responsible for several forms of HSP have been identified, and many more will likely be identified in the future. These genes generally encode proteins that normally help maintain the function of axons in the spinal cord. Understanding how mutations of these genes cause HSP should lead to ways to prevent, treat, and cure HSP.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

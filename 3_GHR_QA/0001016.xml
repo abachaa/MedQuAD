@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001016" source="GHR" url="https://ghr.nlm.nih.gov/condition/vitelliform-macular-dystrophy">
+<Focus>vitelliform macular dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339510</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>vitelliform dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001016-1" qtype="information">What is (are) vitelliform macular dystrophy ?</Question>
+			<Answer>Vitelliform macular dystrophy is a genetic eye disorder that can cause progressive vision loss. This disorder affects the retina, the specialized light-sensitive tissue that lines the back of the eye. Specifically, vitelliform macular dystrophy disrupts cells in a small area near the center of the retina called the macula. The macula is responsible for sharp central vision, which is needed for detailed tasks such as reading, driving, and recognizing faces.  Vitelliform macular dystrophy causes a fatty yellow pigment (lipofuscin) to build up in cells underlying the macula. Over time, the abnormal accumulation of this substance can damage cells that are critical for clear central vision. As a result, people with this disorder often lose their central vision, and their eyesight may become blurry or distorted. Vitelliform macular dystrophy typically does not affect side (peripheral) vision or the ability to see at night.  Researchers have described two forms of vitelliform macular dystrophy with similar features. The early-onset form (known as Best disease) usually appears in childhood; the onset of symptoms and the severity of vision loss vary widely. The adult-onset form begins later, usually in mid-adulthood, and tends to cause vision loss that worsens slowly over time. The two forms of vitelliform macular dystrophy each have characteristic changes in the macula that can be detected during an eye examination.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001016-2" qtype="frequency">How many people are affected by vitelliform macular dystrophy ?</Question>
+			<Answer>Vitelliform macular dystrophy is a rare disorder; its incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001016-3" qtype="genetic changes">What are the genetic changes related to vitelliform macular dystrophy ?</Question>
+			<Answer>Mutations in the BEST1 and PRPH2 genes cause vitelliform macular dystrophy. BEST1 mutations are responsible for Best disease and for some cases of the adult-onset form of vitelliform macular dystrophy. Changes in the PRPH2 gene can also cause the adult-onset form of vitelliform macular dystrophy; however, less than a quarter of all people with this form of the condition have mutations in the BEST1 or PRPH2 gene. In most cases, the cause of the adult-onset form is unknown.  The BEST1 gene provides instructions for making a protein called bestrophin. This protein acts as a channel that controls the movement of charged chlorine atoms (chloride ions) into or out of cells in the retina. Mutations in the BEST1 gene probably lead to the production of an abnormally shaped channel that cannot properly regulate the flow of chloride. Researchers have not determined how these malfunctioning channels are related to the buildup of lipofuscin in the macula and progressive vision loss.  The PRPH2 gene provides instructions for making a protein called peripherin 2. This protein is essential for the normal function of light-sensing (photoreceptor) cells in the retina. Mutations in the PRPH2 gene cause vision loss by disrupting structures in these cells that contain light-sensing pigments. It is unclear why PRPH2 mutations affect only central vision in people with adult-onset vitelliform macular dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001016-4" qtype="inheritance">Is vitelliform macular dystrophy inherited ?</Question>
+			<Answer>Best disease is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.  The inheritance pattern of adult-onset vitelliform macular dystrophy is uncertain. Some studies have suggested that this disorder may be inherited in an autosomal dominant pattern. It is difficult to be sure, however, because many affected people have no history of the disorder in their family, and only a small number of affected families have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001016-5" qtype="treatment">What are the treatments for vitelliform macular dystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of vitelliform macular dystrophy:  - Gene Review: Gene Review: Best Vitelliform Macular Dystrophy  - Genetic Testing Registry: Macular dystrophy, vitelliform, adult-onset  - Genetic Testing Registry: Vitelliform dystrophy  - MedlinePlus Encyclopedia: Macula (image)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

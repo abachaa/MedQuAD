@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000065" source="NINDS" url="http://www.ninds.nih.gov/disorders/Farbers/farbers.htm">
+<Focus>Farber's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268255</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000065-1" qtype="information">What is (are) Farber's Disease ?</Question>
+			<Answer>Farbers disease, also known as Farber&apos;s lipogranulomatosis, describes a group of inherited metabolic disorders called lipid storage diseases, in which excess amounts of lipids (oils, fatty acids, and related compounds) build up to harmful levels in the joints, tissues, and central nervous system. The liver, heart, and kidneys may also be affected. Disease onset is typically seen in early infancy but may occur later in life. Symptoms of the classic form may have moderately impaired mental ability and difficulty with swallowing. Other symptoms may include chronic shortening of muscles or tendons around joints. arthritis, swollen lymph nodes and joints, hoarseness, nodules under the skin (and sometimes in the lungs and other parts of the body), and vomiting. Affected persons may require the insertion of a breathing tube. In severe cases, the liver and spleen are enlarged. Farber&apos;s disease is caused by a deficiency of the enzyme ceramidase. The disease occurs when both parents carry and pass on the defective gene that regulates the protein sphingomyelin. Children born to these parents have a 25 percent chance of inheriting the disorder and a 50 percent chance of carrying the faulty gene. The disorder affects both males and females.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000065-2" qtype="treatment">What are the treatments for Farber's Disease ?</Question>
+			<Answer>Currently there is no specific treatment for Farbers disease. Corticosteroids may help relieve pain. Bone marrow transplants may improve granulomas (small masses of inflamed tissue) on individuals with little or no lung or nervous system complications. Older persons may have granulomas surgically reduced or removed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000065-3" qtype="outlook">What is the outlook for Farber's Disease ?</Question>
+			<Answer>Most children with the classic form of Farbers disease die by age 2, usually from lung disease. Children born with the most severe form of the disease usually die within 6 months, while individuals having a milder form of the disease may live into their teenage years or young adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000065-4" qtype="research">what research (or clinical trials) is being done for Farber's Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. Research funded by the NINDS focuses on better understanding of how neurological deficits arise in lipid storage diseases and on the development of new treatments targeting disease mechanisms, including gene therapies, cell-based therapies and pharmacological approaches. The NINDS, along with other Institutes and Centers at the National Institutes of Health, supports the Lysosomal Disease network of centers that addresses some of the major challenges in the diagnosis, management, and therapy of rare diseases, including the lipid storage diseases.Research on lipid storage diseases within the Network includes longitudinal studies of the natural history and/or treatment of these disorders. Additional studies will emphasize the quantitative analysis of the central nervous system structure and function, and develop biomarkers (signs that can indicate the diagnosis or progression of a disease) for these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

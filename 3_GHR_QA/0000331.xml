@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000331" source="GHR" url="https://ghr.nlm.nih.gov/condition/ethylmalonic-encephalopathy">
+<Focus>ethylmalonic encephalopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1865349</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>EME</Synonym>
+		<Synonym>Encephalopathy, petechiae, and ethylmalonic aciduria</Synonym>
+		<Synonym>EPEMA syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000331-1" qtype="information">What is (are) ethylmalonic encephalopathy ?</Question>
+			<Answer>Ethylmalonic encephalopathy is an inherited disorder that affects several body systems, particularly the nervous system. Neurologic signs and symptoms include progressively delayed development, weak muscle tone (hypotonia), seizures, and abnormal movements. The body&apos;s network of blood vessels (the vascular system) is also affected. Children with this disorder may experience rashes of tiny red spots (petechiae) caused by bleeding under the skin and blue discoloration in the hands and feet due to reduced oxygen in the blood (acrocyanosis). Chronic diarrhea is another common feature of ethylmalonic encephalopathy.  The signs and symptoms of ethylmalonic encephalopathy are apparent at birth or begin in the first few months of life. Problems with the nervous system typically worsen over time, and most affected individuals survive only into early childhood. A few children with a milder, chronic form of this disorder have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000331-2" qtype="frequency">How many people are affected by ethylmalonic encephalopathy ?</Question>
+			<Answer>About 30 individuals with this condition have been identified worldwide, mostly in Mediterranean and Arab populations. Although ethylmalonic encephalopathy appears to be very rare, researchers suggest that some cases have been misdiagnosed as other neurologic disorders.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000331-3" qtype="genetic changes">What are the genetic changes related to ethylmalonic encephalopathy ?</Question>
+			<Answer>Mutations in the ETHE1 gene cause ethylmalonic encephalopathy.  The ETHE1 gene provides instructions for making an enzyme that plays an important role in energy production. It is active in mitochondria, which are the energy-producing centers within cells. Little is known about the enzyme&apos;s exact function, however.  Mutations in the ETHE1 gene lead to the production of a nonfunctional version of the enzyme or prevent any enzyme from being made. A lack of the ETHE1 enzyme impairs the body&apos;s ability to make energy in mitochondria. Additionally, a loss of this enzyme allows potentially toxic compounds, including ethylmalonic acid and lactic acid, to build up in the body. Excess amounts of these compounds can be detected in urine. It remains unclear how a loss of the ETHE1 enzyme leads to progressive brain dysfunction and the other features of ethylmalonic encephalopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000331-4" qtype="inheritance">Is ethylmalonic encephalopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000331-5" qtype="treatment">What are the treatments for ethylmalonic encephalopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of ethylmalonic encephalopathy:  - Baby&apos;s First Test  - Genetic Testing Registry: Ethylmalonic encephalopathy  - MedlinePlus Encyclopedia: Skin discoloration - bluish   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

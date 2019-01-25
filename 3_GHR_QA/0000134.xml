@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000134" source="GHR" url="https://ghr.nlm.nih.gov/condition/bradyopsia">
+<Focus>bradyopsia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1842073</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PERRS</Synonym>
+		<Synonym>prolonged electroretinal response suppression</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000134-1" qtype="information">What is (are) bradyopsia ?</Question>
+			<Answer>Bradyopsia is a rare condition that affects vision. The term &quot;bradyopsia&quot; is from the Greek words for slow vision. In affected individuals, the eyes adapt more slowly than usual to changing light conditions. For example, people with this condition are blinded for several seconds when going from a dark environment into a bright one, such as when walking out of a darkened movie theater into daylight. Their eyes also have trouble adapting from bright light to dark conditions, such as when driving into a dark tunnel on a sunny day.  Some people with bradyopsia also have difficulty seeing some moving objects, particularly small objects moving against a bright background. As a result, they often have trouble watching or participating in sports with a ball, such as soccer or tennis. People with bradyopsia can have reduced sharpness (acuity) of vision, although acuity may depend on the conditions under which vision is tested. Visual acuity may appear to be severely affected if it is tested under bright lights, but it can be near normal if tested in a dim environment. The ability to see colors and distinguish between them is normal.  The vision problems associated with bradyopsia become apparent in early childhood. They are usually stable, which means they do not worsen over time.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000134-2" qtype="frequency">How many people are affected by bradyopsia ?</Question>
+			<Answer>Bradyopsia appears to be rare. Only a few affected individuals worldwide have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000134-3" qtype="genetic changes">What are the genetic changes related to bradyopsia ?</Question>
+			<Answer>Bradyopsia can be caused by mutations in the RGS9 gene or in the RGS9BP gene (which is also known as R9AP). These genes provide instructions for making proteins that are necessary for normal vision. The proteins are found in light-detecting cells in the eye called photoreceptors. When light enters the eye, it stimulates specialized pigments in these cells. This stimulation triggers a series of chemical reactions that produce an electrical signal, which is interpreted by the brain as vision. Once photoreceptors have been stimulated by light, they must return to their resting state before they can be stimulated again. The RGS9 and RGS9BP proteins play an essential role in returning photoreceptors to their resting state quickly after light exposure.  Mutations in either the RGS9 or RGS9BP gene prevent photoreceptors from recovering quickly after responding to light. Normally they return to their resting state in a fraction of a second, but in people with mutations in one of these genes, it can take ten seconds or longer. During that time, the photoreceptors cannot respond to light. This delay causes temporary blindness in response to changing light conditions and interferes with seeing small objects when they are in motion.  In some people with bradyopsia, no mutations in the RGS9 or RGS9BP gene have been found. The cause of the condition in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000134-4" qtype="inheritance">Is bradyopsia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000134-5" qtype="treatment">What are the treatments for bradyopsia ?</Question>
+			<Answer>These resources address the diagnosis or management of bradyopsia:  - Children&apos;s Hospital of Pittsburgh: Electroretinogram  - Genetic Testing Registry: Prolonged electroretinal response suppression  - MedlinePlus Encyclopedia: Electroretinography  - Prevent Blindness: Living Well with Low Vision   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

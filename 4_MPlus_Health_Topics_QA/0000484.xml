@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000484" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/homecareservices.html">
+<Focus>Home Care Services</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0580931</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>In-home care</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000484-1" qtype="information">What is (are) Home Care Services ?</Question>
+			<Answer>Home care is care that allows a person with special needs stay in their home. It might be for people who are getting older, are chronically ill, recovering from surgery, or disabled. Home care services include       - Personal care, such as help with bathing, washing your hair, or getting dressed    - Homemaking, such as cleaning, yard work, and laundry    - Cooking or delivering meals    - Health care, such as having a home health aide come to your home       You can get almost any type of help you want in your home. Some types of care and community services are free or donated. Many other types you have to pay for. Sometimes government programs or your health insurance will help cover the cost of certain home care services.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000926" source="GHR" url="https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-15">
+<Focus>spastic paraplegia type 15</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037772</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal recessive spastic paraplegia 15</Synonym>
+		<Synonym>Kjellin syndrome</Synonym>
+		<Synonym>spastic paraplegia and retinal degeneration</Synonym>
+		<Synonym>SPG15</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000926-1" qtype="information">What is (are) spastic paraplegia type 15 ?</Question>
+			<Answer>Spastic paraplegia type 15 is part of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the lower limbs (paraplegia). Spastic paraplegia type 15 is classified as a complex hereditary spastic paraplegia because it involves all four limbs as well as additional features, including abnormalities of the brain. In addition to the muscles and brain, spastic paraplegia type 15 affects the peripheral nervous system, which consists of nerves connecting the brain and spinal cord to muscles and sensory cells that detect sensations such as touch, pain, heat, and sound.  Spastic paraplegia type 15 usually becomes apparent in childhood or adolescence with the development of weak muscle tone (hypotonia), difficulty walking, or intellectual disability. In almost all affected individuals, the tissue connecting the left and right halves of the brain (corpus callosum) is abnormally thin and becomes thinner over time. Additionally, there is often a loss (atrophy) of nerve cells in several parts of the brain, including the cerebral cortex, which controls thinking and emotions, and the cerebellum, which coordinates movement.  People with this form of spastic paraplegia can have numbness, tingling, or pain in the arms and legs (sensory neuropathy); impairment of the nerves used for muscle movement (motor neuropathy); exaggerated reflexes (hyperreflexia) of the lower limbs; muscle wasting (amyotrophy); or reduced bladder control. Rarely, spastic paraplegia type 15 is associated with a group of movement abnormalities called parkinsonism, which includes tremors, rigidity, and unusually slow movement (bradykinesia). People with spastic paraplegia type 15 may have an eye condition called pigmentary maculopathy that often impairs vision. This condition results from the breakdown (degeneration) of tissue at the back of the eye called the macula, which is responsible for sharp central vision.  Most people with spastic paraplegia type 15 experience a decline in intellectual ability and an increase in muscle weakness and nerve abnormalities over time. As the condition progresses, many people require walking aids or wheelchair assistance in adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000926-2" qtype="frequency">How many people are affected by spastic paraplegia type 15 ?</Question>
+			<Answer>Spastic paraplegia type 15 is a rare condition, although its exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000926-3" qtype="genetic changes">What are the genetic changes related to spastic paraplegia type 15 ?</Question>
+			<Answer>Mutations in the ZFYVE26 gene cause spastic paraplegia type 15. This gene provides instructions for making a protein called spastizin. This protein is important in a process called autophagy, in which worn-out cell parts and unneeded proteins are recycled within cells. Specifically, spastizin is involved in the formation and maturation of sacs called autophagosomes (or autophagic vacuoles) that transport unneeded materials to be broken down. Spastizin also plays a role in the process by which dividing cells separate from one another (cytokinesis).  Many ZFYVE26 gene mutations that cause spastic paraplegia type 15 result in a shortened spastizin protein that is quickly broken down. As a result, functional autophagosomes are not produced, autophagy cannot occur, and recycling of materials within cells is decreased. An inability to break down unneeded materials, and the subsequent accumulation of these materials in cells, leads to cell dysfunction and often cell death. The loss of cells in the brain and other parts of the body is responsible for many of the features of spastic paraplegia type 15.  It is unclear whether a lack of spastizin protein interferes with normal cytokinesis and whether impaired cell division contributes to the signs and symptoms of spastic paraplegia type 15.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000926-4" qtype="inheritance">Is spastic paraplegia type 15 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000926-5" qtype="treatment">What are the treatments for spastic paraplegia type 15 ?</Question>
+			<Answer>These resources address the diagnosis or management of spastic paraplegia type 15:  - Gene Review: Gene Review: Hereditary Spastic Paraplegia Overview  - Spastic Paraplegia Foundation, Inc: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

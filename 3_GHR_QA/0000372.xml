@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000372" source="GHR" url="https://ghr.nlm.nih.gov/condition/feingold-syndrome">
+<Focus>Feingold syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0796068</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>microcephaly-mesobrachyphalangy-tracheoesophageal fistula (MMT) syndrome</Synonym>
+		<Synonym>microcephaly-oculo-digito-esophageal-duodenal (MODED) syndrome</Synonym>
+		<Synonym>oculo-digito-esophagoduodental (ODED) syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000372-1" qtype="information">What is (are) Feingold syndrome ?</Question>
+			<Answer>Feingold syndrome is a disorder that affects many parts of the body. The signs and symptoms of this condition vary among affected individuals, even among members of the same family.  Individuals with Feingold syndrome have characteristic abnormalities of their fingers and toes. Almost all people with this condition have a specific hand abnormality called brachymesophalangy, which refers to shortening of the second and fifth fingers. Other common abnormalities include fifth fingers that curve inward (clinodactyly), underdeveloped thumbs (thumb hypoplasia), and fusion (syndactyly) of the second and third toes or the fourth and fifth toes.  People with Feingold syndrome are frequently born with a blockage in part of their digestive system called gastrointestinal atresia. In most cases, the blockage occurs in the esophagus (esophageal atresia) or in part of the small intestine (duodenal atresia). Additional common features of Feingold syndrome include an unusually small head size (microcephaly), a small jaw (micrognathia), a narrow opening of the eyelids (short palpebral fissures), and mild to moderate learning disability. Less often, affected individuals have hearing loss, impaired growth, and kidney and heart abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000372-2" qtype="frequency">How many people are affected by Feingold syndrome ?</Question>
+			<Answer>Feingold syndrome appears to be a rare condition, although its exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000372-3" qtype="genetic changes">What are the genetic changes related to Feingold syndrome ?</Question>
+			<Answer>Mutations in the MYCN gene cause Feingold syndrome. This gene provides instructions for making a protein that plays an important role in the formation of tissues and organs during embryonic development. Studies in animals suggest that this protein is necessary for normal development of the limbs, heart, kidneys, nervous system, digestive system, and lungs. The MYCN protein regulates the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, this protein is called a transcription factor.  Mutations in the MYCN gene that cause Feingold syndrome prevent one copy of the gene in each cell from producing any functional MYCN protein. As a result, only half the normal amount of this protein is available to control the activity of specific genes during embryonic development. It remains unclear how a reduced amount of the MYCN protein causes the specific features of Feingold syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000372-4" qtype="inheritance">Is Feingold syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000372-5" qtype="treatment">What are the treatments for Feingold syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Feingold syndrome:  - Gene Review: Gene Review: Feingold Syndrome 1  - Genetic Testing Registry: Feingold syndrome 1  - Genetic Testing Registry: Feingold syndrome 2  - MedlinePlus Encyclopedia: Duodenal Atresia  - MedlinePlus Encyclopedia: Esophageal Atresia  - MedlinePlus Encyclopedia: Microcephaly  - MedlinePlus Encyclopedia: Webbing of the Fingers or Toes   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

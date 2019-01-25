@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000899" source="GHR" url="https://ghr.nlm.nih.gov/condition/septo-optic-dysplasia">
+<Focus>septo-optic dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338503</CUI>
+			<CUI>C1855042</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>De Morsier syndrome</Synonym>
+		<Synonym>septooptic dysplasia</Synonym>
+		<Synonym>SOD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000899-1" qtype="information">What is (are) septo-optic dysplasia ?</Question>
+			<Answer>Septo-optic dysplasia is a disorder of early brain development. Although its signs and symptoms vary, this condition is traditionally defined by three characteristic features: underdevelopment (hypoplasia) of the optic nerves, abnormal formation of structures along the midline of the brain, and pituitary hypoplasia.  The first major feature, optic nerve hypoplasia, is the underdevelopment of the optic nerves, which carry visual information from the eyes to the brain. In affected individuals, the optic nerves are abnormally small and make fewer connections than usual between the eyes and the brain. As a result, people with optic nerve hypoplasia have impaired vision in one or both eyes. Optic nerve hypoplasia can also be associated with unusual side-to-side eye movements (nystagmus) and other eye abnormalities.  The second characteristic feature of septo-optic dysplasia is the abnormal development of structures separating the right and left halves of the brain. These structures include the corpus callosum, which is a band of tissue that connects the two halves of the brain, and the septum pellucidum, which separates the fluid-filled spaces called ventricles in the brain. In the early stages of brain development, these structures may form abnormally or fail to develop at all. Depending on which structures are affected, abnormal brain development can lead to intellectual disability and other neurological problems.  The third major feature of this disorder is pituitary hypoplasia. The pituitary is a gland at the base of the brain that produces several hormones. These hormones help control growth, reproduction, and other critical body functions. Underdevelopment of the pituitary can lead to a shortage (deficiency) of many essential hormones. Most commonly, pituitary hypoplasia causes growth hormone deficiency, which results in slow growth and unusually short stature. Severe cases cause panhypopituitarism, a condition in which the pituitary produces no hormones. Panhypopituitarism is associated with slow growth, low blood sugar (hypoglycemia), genital abnormalities, and problems with sexual development.  The signs and symptoms of septo-optic dysplasia can vary significantly. Some researchers suggest that septo-optic dysplasia should actually be considered a group of related conditions rather than a single disorder. About one-third of people diagnosed with septo-optic dysplasia have all three major features; most affected individuals have two of the major features. In rare cases, septo-optic dysplasia is associated with additional signs and symptoms, including recurrent seizures (epilepsy), delayed development, and abnormal movements.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000899-2" qtype="frequency">How many people are affected by septo-optic dysplasia ?</Question>
+			<Answer>Septo-optic dysplasia has a reported incidence of 1 in 10,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000899-3" qtype="genetic changes">What are the genetic changes related to septo-optic dysplasia ?</Question>
+			<Answer>In most cases of septo-optic dysplasia, the cause of the disorder is unknown. Researchers suspect that a combination of genetic and environmental factors may play a role in causing this disorder. Proposed environmental risk factors include viral infections, specific medications, and a disruption in blood flow to certain areas of the brain during critical periods of development.  At least three genes have been associated with septo-optic dysplasia, although mutations in these genes appear to be rare causes of this disorder. The three genes, HESX1, OTX2, and SOX2, all play important roles in embryonic development. In particular, they are essential for the formation of the eyes, the pituitary gland, and structures at the front of the brain (the forebrain) such as the optic nerves. Mutations in any of these genes disrupt the early development of these structures, which leads to the major features of septo-optic dysplasia.  Researchers are looking for additional genetic changes that contribute to septo-optic dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000899-4" qtype="inheritance">Is septo-optic dysplasia inherited ?</Question>
+			<Answer>Septo-optic dysplasia is usually sporadic, which means that the condition typically occurs in people with no history of the disorder in their family.  Less commonly, septo-optic dysplasia has been found to run in families. Most familial cases appear to have an autosomal recessive pattern of inheritance, which means that both copies of an associated gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. In a few affected families, the disorder has had an autosomal dominant pattern of inheritance, which means one copy of an altered gene in each cell is sufficient to cause the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000899-5" qtype="treatment">What are the treatments for septo-optic dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of septo-optic dysplasia:  - Genetic Testing Registry: Septo-optic dysplasia sequence  - MedlinePlus Encyclopedia: Growth Hormone Deficiency  - MedlinePlus Encyclopedia: Hypopituitarism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000848" source="GHR" url="https://ghr.nlm.nih.gov/condition/pulmonary-alveolar-microlithiasis">
+<Focus>pulmonary alveolar microlithiasis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0155912</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PAM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000848-1" qtype="information">What is (are) pulmonary alveolar microlithiasis ?</Question>
+			<Answer>Pulmonary alveolar microlithiasis is a disorder in which many tiny fragments (microliths) of a compound called calcium phosphate gradually accumulate in the small air sacs (alveoli) located throughout the lungs. These deposits eventually cause widespread damage to the alveoli and surrounding lung tissue (interstitial lung disease) that leads to breathing problems. People with this disorder can develop a persistent cough and difficulty breathing (dyspnea), especially during physical exertion. Affected individuals may also experience chest pain that worsens when coughing, sneezing, or taking deep breaths.  Pulmonary alveolar microlithiasis is usually diagnosed before age 40. Often the disorder is discovered before symptoms develop, when medical imaging is done for other reasons. The condition typically worsens slowly over many years, although some affected individuals have signs and symptoms that remain stable for long periods of time.  People with pulmonary alveolar microlithiasis can also develop calcium phosphate deposits in other organs and tissues of the body, including the kidneys, gallbladder, testes, and the valve that connects a large blood vessel called the aorta with the heart (the aortic valve). In rare cases, affected individuals have complications related to accumulation of these deposits, such as a narrowing (stenosis) of the aortic valve that can impede normal blood flow.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000848-2" qtype="frequency">How many people are affected by pulmonary alveolar microlithiasis ?</Question>
+			<Answer>Pulmonary alveolar microlithiasis is a rare disorder; its prevalence is unknown. About 600 affected individuals have been described in the medical literature, of whom about a quarter are of Turkish descent. The remainder come from populations worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000848-3" qtype="genetic changes">What are the genetic changes related to pulmonary alveolar microlithiasis ?</Question>
+			<Answer>Pulmonary alveolar microlithiasis is caused by mutations in the SLC34A2 gene. This gene provides instructions for making a protein called the type IIb sodium-phosphate cotransporter, which plays a role in the regulation of phosphate levels (phosphate homeostasis). Although this protein can be found in several organs and tissues in the body, it is located mainly in the lungs, specifically in cells in the alveoli called alveolar type II cells. These cells produce and recycle surfactant, which is a mixture of certain phosphate-containing fats (called phospholipids) and proteins that lines the lung tissue and makes breathing easy.  The recycling of surfactant releases phosphate into the alveoli. Research suggests that the type IIb sodium-phosphate cotransporter normally helps clear this phosphate. SLC34A2 gene mutations are thought to impair the activity of the type IIb sodium-phosphate cotransporter, resulting in the accumulation of phosphate in the alveoli. The accumulated phosphate forms the microliths that cause the signs and symptoms of pulmonary alveolar microlithiasis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000848-4" qtype="inheritance">Is pulmonary alveolar microlithiasis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000848-5" qtype="treatment">What are the treatments for pulmonary alveolar microlithiasis ?</Question>
+			<Answer>These resources address the diagnosis or management of pulmonary alveolar microlithiasis:  - Genetic Testing Registry: Pulmonary alveolar microlithiasis  - MedlinePlus Health Topic: Oxygen Therapy  - MedlinePlus Health Topic: Pulmonary Rehabilitation  - National Jewish Health: Interstitial Lung Disease  - Rare Diseases Clinical Research Network: Rare Lung Disease Consortium   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

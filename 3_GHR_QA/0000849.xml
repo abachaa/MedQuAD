@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000849" source="GHR" url="https://ghr.nlm.nih.gov/condition/pulmonary-arterial-hypertension">
+<Focus>pulmonary arterial hypertension</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152171</CUI>
+			<CUI>C3714844</CUI>
+			<CUI>C2973725</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ayerza syndrome</Synonym>
+		<Synonym>familial primary pulmonary hypertension</Synonym>
+		<Synonym>FPPH</Synonym>
+		<Synonym>idiopathic pulmonary hypertension</Synonym>
+		<Synonym>PAH</Synonym>
+		<Synonym>PPH</Synonym>
+		<Synonym>PPHT</Synonym>
+		<Synonym>primary pulmonary hypertension</Synonym>
+		<Synonym>sporadic primary pulmonary hypertension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000849-1" qtype="information">What is (are) pulmonary arterial hypertension ?</Question>
+			<Answer>Pulmonary arterial hypertension is a progressive disorder characterized by abnormally high blood pressure (hypertension) in the pulmonary artery, the blood vessel that carries blood from the heart to the lungs. Pulmonary arterial hypertension is one form of a broader condition known as pulmonary hypertension. Pulmonary hypertension occurs when most of the very small arteries throughout the lungs narrow in diameter, which increases the resistance to blood flow through the lungs. To overcome the increased resistance, blood pressure increases in the pulmonary artery and in the right ventricle of the heart, which is the chamber that pumps blood into the pulmonary artery. Ultimately, the increased blood pressure can damage the right ventricle of the heart.  Signs and symptoms of pulmonary arterial hypertension occur when increased blood pressure cannot fully overcome the elevated resistance. As a result, the flow of oxygenated blood from the lungs to the rest of the body is insufficient. Shortness of breath (dyspnea) during exertion and fainting spells are the most common symptoms of pulmonary arterial hypertension. People with this disorder may experience additional symptoms, particularly as the condition worsens. Other symptoms include dizziness, swelling (edema) of the ankles or legs, chest pain, and a rapid heart rate.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000849-2" qtype="frequency">How many people are affected by pulmonary arterial hypertension ?</Question>
+			<Answer>In the United States, about 1,000 new cases of pulmonary arterial hypertension are diagnosed each year. This disorder is twice as common in females as in males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000849-3" qtype="genetic changes">What are the genetic changes related to pulmonary arterial hypertension ?</Question>
+			<Answer>Mutations in the BMPR2 gene are the most common genetic cause of pulmonary arterial hypertension. This gene plays a role in regulating the number of cells in certain tissues. Researchers suggest that a mutation in this gene promotes cell division or prevents cell death, resulting in an overgrowth of cells in small arteries throughout the lungs. As a result, these arteries narrow in diameter, which increases the resistance to blood flow. Blood pressure in the pulmonary artery and the right ventricle of the heart increases to overcome the increased resistance to blood flow.  Mutations in several additional genes have also been found to cause pulmonary arterial hypertension, but they are much less common causes of the disorder than are BMPR2 gene mutations. Variations in other genes may increase the risk of developing pulmonary arterial hypertension or modify the course of the disease (usually making it more severe). Changes in as-yet-unidentified genes may also be associated with this condition.  Although pulmonary arterial hypertension often occurs on its own, it can also be part of syndromes that affect many parts of the body. For example, this condition is occasionally found in people with systemic scleroderma, systemic lupus erythematosus, critical congenital heart disease, or Down syndrome.  Researchers have also identified nongenetic factors that increase the risk of developing pulmonary arterial hypertension. These include certain drugs used as appetite suppressants and several illegal drugs, such as cocaine and methamphetamine. Pulmonary arterial hypertension is also a rare complication of certain infectious diseases, including HIV and schistosomiasis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000849-4" qtype="inheritance">Is pulmonary arterial hypertension inherited ?</Question>
+			<Answer>Pulmonary arterial hypertension is usually sporadic, which means it occurs in individuals with no known family history of the disorder. These non-familial cases are described as idiopathic pulmonary arterial hypertension. About 20 percent of these cases are caused by mutations in one of the genes known to be associated with the disease, but most of the time a causative gene mutation has not been identified.  Inherited cases of this disorder are known as familial pulmonary arterial hypertension. When the condition is inherited, it most often has an autosomal dominant pattern of inheritance, which means one copy of an altered gene in each cell is sufficient to cause the disorder. However, many people with an altered gene never develop pulmonary arterial hypertension; this phenomenon is called reduced penetrance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000849-5" qtype="treatment">What are the treatments for pulmonary arterial hypertension ?</Question>
+			<Answer>These resources address the diagnosis or management of pulmonary arterial hypertension:  - Gene Review: Gene Review: Heritable Pulmonary Arterial Hypertension  - Genetic Testing Registry: Primary pulmonary hypertension  - Genetic Testing Registry: Primary pulmonary hypertension 2  - Genetic Testing Registry: Primary pulmonary hypertension 3  - Genetic Testing Registry: Primary pulmonary hypertension 4  - MedlinePlus Encyclopedia: Pulmonary hypertension   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

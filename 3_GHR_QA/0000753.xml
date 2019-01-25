@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000753" source="GHR" url="https://ghr.nlm.nih.gov/condition/optic-atrophy-type-1">
+<Focus>optic atrophy type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338508</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ADOA</Synonym>
+		<Synonym>autosomal dominant optic atrophy</Synonym>
+		<Synonym>autosomal dominant optic atrophy Kjer type</Synonym>
+		<Synonym>DOA</Synonym>
+		<Synonym>dominant optic atrophy</Synonym>
+		<Synonym>Kjer type optic atrophy</Synonym>
+		<Synonym>Kjer's optic atrophy</Synonym>
+		<Synonym>optic atrophy, autosomal dominant</Synonym>
+		<Synonym>optic atrophy, hereditary, autosomal dominant</Synonym>
+		<Synonym>optic atrophy, juvenile</Synonym>
+		<Synonym>optic atrophy, Kjer type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000753-1" qtype="information">What is (are) optic atrophy type 1 ?</Question>
+			<Answer>Optic atrophy type 1 is a condition that affects vision. Individuals with this condition have progressive vision loss that typically begins within the first decade of life. The severity of the vision loss varies widely among affected people, even among members of the same family. People with this condition can range from having nearly normal vision to complete blindness. The vision loss usually progresses slowly.  People with optic atrophy type 1 frequently have problems with color vision that make it difficult or impossible to distinguish between shades of blue and green. Other vision problems associated with this condition include a progressive narrowing of the field of vision (tunnel vision) and an abnormally pale appearance (pallor) of the nerve that relays visual information from the eye to the brain (optic nerve). Optic nerve pallor can be detected during an eye examination.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000753-2" qtype="frequency">How many people are affected by optic atrophy type 1 ?</Question>
+			<Answer>Optic atrophy type 1 is estimated to affect 1 in 50,000 people worldwide. This condition is more common in Denmark, where it affects approximately 1 in 10,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000753-3" qtype="genetic changes">What are the genetic changes related to optic atrophy type 1 ?</Question>
+			<Answer>Optic atrophy type 1 is caused by mutations in the OPA1 gene. The protein produced from this gene is made in many types of cells and tissues throughout the body. The OPA1 protein is found inside mitochondria, which are the energy-producing centers of cells. The OPA1 protein plays a key role in the organization of the shape and structure of the mitochondria and in the self-destruction of cells (apoptosis). The OPA1 protein is also involved in a process called oxidative phosphorylation, from which cells derive much of their energy. Additionally, the protein plays a role in the maintenance of the small amount of DNA within mitochondria, called mitochondrial DNA (mtDNA).  Mutations in the OPA1 gene lead to overall dysfunction of mitochondria. The structure of the mitochondria become disorganized and cells are more susceptible to self-destruction. OPA1 gene mutations lead to mitochondria with reduced energy-producing capabilities. The maintenance of mtDNA is also sometimes impaired, resulting in mtDNA mutations.  The vision problems experienced by people with optic atrophy type 1 are due to mitochondrial dysfunction, leading to the breakdown of structures that transmit visual information from the eyes to the brain. Affected individuals first experience a progressive loss of nerve cells within the retina, called retinal ganglion cells. The loss of these cells is followed by the degeneration (atrophy) of the optic nerve. The optic nerve is partly made up of specialized extensions of retinal ganglion cells called axons; when the retinal ganglion cells die, the optic nerve cannot transmit visual information to the brain normally.  It is unclear why the OPA1 gene mutations that cause optic atrophy type 1 only affect the eyes. Retinal ganglion cells have many mitochondria and especially high energy requirements, which researchers believe may make them particularly vulnerable to mitochondrial dysfunction and decreases in energy production.  Some individuals with optic atrophy type 1 do not have identified mutations in the OPA1 gene. In these cases, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000753-4" qtype="inheritance">Is optic atrophy type 1 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000753-5" qtype="treatment">What are the treatments for optic atrophy type 1 ?</Question>
+			<Answer>These resources address the diagnosis or management of optic atrophy type 1:  - Gene Review: Gene Review: Optic Atrophy Type 1  - Genetic Testing Registry: Dominant hereditary optic atrophy  - MedlinePlus Encyclopedia: Optic Nerve Atrophy  - MedlinePlus Encyclopedia: Visual Acuity Test   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

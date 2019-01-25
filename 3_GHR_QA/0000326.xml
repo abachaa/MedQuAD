@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000326" source="GHR" url="https://ghr.nlm.nih.gov/condition/erythromelalgia">
+<Focus>erythromelalgia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014804</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>erythermalgia</Synonym>
+		<Synonym>familial erythromelalgia</Synonym>
+		<Synonym>primary erythromelalgia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000326-1" qtype="information">What is (are) erythromelalgia ?</Question>
+			<Answer>Erythromelalgia is a condition characterized by episodes of pain, redness, and swelling in various parts of the body, particularly the hands and feet. These episodes are usually triggered by increased body temperature, which may be caused by exercise or entering a warm room. Ingesting alcohol or spicy foods may also trigger an episode. Wearing warm socks, tight shoes, or gloves can cause a pain episode so debilitating that it can impede everyday activities such as wearing shoes and walking. Pain episodes can prevent an affected person from going to school or work regularly.  The signs and symptoms of erythromelalgia typically begin in childhood, although mildly affected individuals may have their first pain episode later in life. As individuals with erythromelalgia get older and the disease progresses, the hands and feet may be constantly red, and the affected areas can extend from the hands to the arms, shoulders, and face, and from the feet to the entire legs.  Erythromelalgia is often considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000326-2" qtype="frequency">How many people are affected by erythromelalgia ?</Question>
+			<Answer>The prevalence of erythromelalgia is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000326-3" qtype="genetic changes">What are the genetic changes related to erythromelalgia ?</Question>
+			<Answer>Mutations in the SCN9A gene can cause erythromelalgia. The SCN9A gene provides instructions for making one part (the alpha subunit) of a sodium channel called NaV1.7. Sodium channels transport positively charged sodium atoms (sodium ions) into cells and play a key role in a cell&apos;s ability to generate and transmit electrical signals. NaV1.7 sodium channels are found in nerve cells called nociceptors that transmit pain signals to the spinal cord and brain.  The SCN9A gene mutations that cause erythromelalgia result in NaV1.7 sodium channels that open more easily than usual and stays open longer than normal, increasing the flow of sodium ions into nociceptors. This increase in sodium ions enhances transmission of pain signals, leading to the signs and symptoms of erythromelalgia. It is unknown why the pain episodes associated with erythromelalgia mainly occur in the hands and feet.  An estimated 15 percent of cases of erythromelalgia are caused by mutations in the SCN9A gene. Other cases are thought to have a nongenetic cause or may be caused by mutations in one or more as-yet unidentified genes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000326-4" qtype="inheritance">Is erythromelalgia inherited ?</Question>
+			<Answer>Some cases of erythromelalgia occur in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some of these instances, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000326-5" qtype="treatment">What are the treatments for erythromelalgia ?</Question>
+			<Answer>These resources address the diagnosis or management of erythromelalgia:  - Gene Review: Gene Review: SCN9A-Related Inherited Erythromelalgia  - Genetic Testing Registry: Primary erythromelalgia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

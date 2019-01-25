@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000025" source="NINDS" url="http://www.ninds.nih.gov/disorders/aphasia/aphasia.htm">
+<Focus>Aphasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003537</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000025-1" qtype="information">What is (are) Aphasia ?</Question>
+			<Answer>Aphasia is a neurological disorder caused by damage to the portions of the brain that are responsible for language production or processing. It may occur suddenly or progressively, depending on the type and location of brain tissue involved. Primary signs of the disorder include difficulty in expressing oneself when speaking, trouble understanding speech, and difficulty with reading and writing. Aphasia is not a disease, but a symptom of brain damage. Although it is primarily seen in individuals who have suffered a stroke, aphasia can also result from a brain tumor, infection, inflammation, head injury, or dementia that affect language-associated regions of the brain. It is estimated that about 1 million people in the United States today suffer from aphasia. The type and severity of language dysfunction depends on the precise location and extent of the damaged brain tissue.
+                
+Generally, aphasia can be divided into four broad categories: (1) Expressive aphasia (also called Broca&apos;s aphasia) involves difficulty in conveying thoughts through speech or writing. The person knows what she/he wants to say, but cannot find the words he needs. (2) Receptive aphasia (Wernicke&apos;s aphasia) involves difficulty understanding spoken or written language. The individual hears the voice or sees the print but cannot make sense of the words. (3) Global aphasia results from severe and extensive damage to the language areas of the brain. People lose almost all language function, both comprehension and expression. They cannot speak or understand speech, nor can they read or write. (4) Indiivfduals with anomic or amnesia aphasia, the least severe form of aphasia, have difficulty in using the correct names for particular objects, people, places, or events.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000025-2" qtype="treatment">What are the treatments for Aphasia ?</Question>
+			<Answer>In some instances, an individual will completely recover from aphasia without treatment. In most cases, however, language therapy should begin as soon as possible and be tailored to the individual needs of the person. Rehabilitation with a speech pathologist involves extensive exercises in which individuals read, write, follow directions, and repeat what they hear. Computer-aided therapy may supplement standard language therapy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000025-3" qtype="outlook">What is the outlook for Aphasia ?</Question>
+			<Answer>The outcome of aphasia is difficult to predict given the wide range of variability of the condition. Generally, people who are younger or have less extensive brain damage fare better. The location of the injury is also important and is another clue to prognosis. In general, people tend to recover skills in language comprehension more completely than those skills involving expression.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000025-4" qtype="research">what research (or clinical trials) is being done for Aphasia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke and the National Institute on Deafness and Other Communication Disorders conduct and support a broad range of scientific investigations to increase our understanding of aphasia, find better treatments, and discover improved methods to restore lost function to people who have aphasia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

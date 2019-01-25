@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003911" source="GARD" url="https://rarediseases.info.nih.gov/gard/7015/meningioma">
+<Focus>Meningioma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025286</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003911-1" qtype="information">What is (are) Meningioma ?</Question>
+			<Answer>Meningiomas originate in the meninges, the membranes that surround the brain and spinal cord. Most meningiomas are benign, though a minority of meningiomas can be classified as atypical or malignant. Though rare, malignant meningiomas can be highly aggressive. However, even benign meningiomas can cause problems if their growth affects the neighboring areas of the brain. Though most meningiomas grow slowly, there is no way to predict the rate of growth for a particular meningioma or to know how long a specific meningioma was growing before it was diagnosed. Signs and symptoms can vary but may include seizures, headaches, weakness in the arms and legs, and vision loss. Sometimes memory loss, carelessness, and unsteadiness are the only symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003911-2" qtype="treatment">What are the treatments for Meningioma ?</Question>
+			<Answer>How might meningiomas be treated? The treatment varies depending on the location of the meningioma and the symptoms caused by the tumor. Careful observation is sometimes the best course of action for people with a meningioma. When treatment is necessary, surgery and radiation are the most common forms of treatment. Radiation may be used if the meningioma cannot be operated on or if the meningioma is only partially removed by surgery. Radiation may also be used in cases of malignant, atypical, or recurrent tumors. Other treatments that have been tried or are being explored include hydroxyurea, epidermal growth factor receptor inhibitors, platelet-derived growth factor receptor inhibitors, vascular endothelial growth factor inhibitors, immunotherapy to stimulate the immune system, and somatostatin analogs which prevent the release of growth hormones.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

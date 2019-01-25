@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000347" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-erythrocytosis">
+<Focus>familial erythrocytosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152264</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>benign familial polycythemia</Synonym>
+		<Synonym>congenital erythrocytosis</Synonym>
+		<Synonym>familial polycythemia</Synonym>
+		<Synonym>hereditary erythrocytosis</Synonym>
+		<Synonym>primary familial polycythemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000347-1" qtype="information">What is (are) familial erythrocytosis ?</Question>
+			<Answer>Familial erythrocytosis is an inherited condition characterized by an increased number of red blood cells (erythrocytes). The primary function of these cells is to carry oxygen from the lungs to tissues and organs throughout the body. Signs and symptoms of familial erythrocytosis can include headaches, dizziness, nosebleeds, and shortness of breath. The excess red blood cells also increase the risk of developing abnormal blood clots that can block the flow of blood through arteries and veins. If these clots restrict blood flow to essential organs and tissues (particularly the heart, lungs, or brain), they can cause life-threatening complications such as a heart attack or stroke. However, many people with familial erythrocytosis experience only mild signs and symptoms or never have any problems related to their extra red blood cells.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000347-2" qtype="frequency">How many people are affected by familial erythrocytosis ?</Question>
+			<Answer>Familial erythrocytosis is a rare condition; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000347-3" qtype="genetic changes">What are the genetic changes related to familial erythrocytosis ?</Question>
+			<Answer>Familial erythrocytosis can result from mutations in the EPOR, VHL, EGLN1, or EPAS1 gene. Researchers define four types of familial erythrocytosis, ECYT1 through ECYT4, based on which of these genes is altered.  The EPOR gene provides instructions for making a protein known as the erythropoietin receptor, which is found on the surface of certain blood-forming cells in the bone marrow. Erythropoietin is a hormone that directs the production of new red blood cells. Erythropoietin fits into the receptor like a key into a lock, triggering signaling pathways that lead to the formation of red blood cells. Mutations in the EPOR gene cause the erythropoietin receptor to be turned on for an abnormally long time after attaching to erythropoietin. The overactive receptor signals the production of red blood cells even when they are not needed, which results in an excess of these cells in the bloodstream. When familial erythrocytosis is caused by mutations in the EPOR gene, it is known as ECYT1.  The proteins produced from the VHL, EGLN1, and EPAS1 genes are also involved in red blood cell production; they each play a role in regulating erythropoietin. The protein produced from the EPAS1 gene is one component of a protein complex called hypoxia-inducible factor (HIF). When oxygen levels are lower than normal (hypoxia), HIF activates genes that help the body adapt, including the gene that provides instructions for making erythropoietin. Erythropoietin stimulates the production of more red blood cells to carry oxygen to organs and tissues. The proteins produced from the VHL and EGLN1 genes indirectly regulate erythropoietin by controlling the amount of available HIF. Mutations in any of these three genes can disrupt the regulation of red blood cell formation, leading to an overproduction of these cells. When familial erythrocytosis results from VHL gene mutations it is known as ECYT2; when the condition is caused by EGLN1 gene mutations it is called ECYT3; and when the condition results from EPAS1 gene mutations it is known as ECYT4.  Researchers have also described non-familial (acquired) forms of erythrocytosis. Causes of acquired erythrocytosis include long-term exposure to high altitude, chronic lung or heart disease, episodes in which breathing slows or stops for short periods during sleep (sleep apnea), and certain types of tumors. Another form of acquired erythrocytosis, called polycythemia vera, results from somatic (non-inherited) mutations in other genes involved in red blood cell production. In some cases, the cause of erythrocytosis is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000347-4" qtype="inheritance">Is familial erythrocytosis inherited ?</Question>
+			<Answer>Familial erythrocytosis can have different inheritance patterns depending on the gene involved.  When the condition is caused by mutations in the EPOR, EGLN1, or EPAS1 gene, it has an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. Most affected individuals inherit the altered gene from one affected parent.  When familial erythrocytosis is caused by mutations in the VHL gene, it has an autosomal recessive pattern of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000347-5" qtype="treatment">What are the treatments for familial erythrocytosis ?</Question>
+			<Answer>These resources address the diagnosis or management of familial erythrocytosis:  - Genetic Testing Registry: Erythrocytosis, familial, 2  - Genetic Testing Registry: Erythrocytosis, familial, 3  - Genetic Testing Registry: Erythrocytosis, familial, 4  - Genetic Testing Registry: Familial erythrocytosis, 1  - MedlinePlus Encyclopedia: Erythropoietin Test   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

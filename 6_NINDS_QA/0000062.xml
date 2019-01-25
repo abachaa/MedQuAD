@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000062" source="NINDS" url="http://www.ninds.nih.gov/disorders/central_pain/central_pain.htm">
+<Focus>Central Pain Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1536114</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000062-1" qtype="information">What is (are) Central Pain Syndrome ?</Question>
+			<Answer>Central pain syndrome is a neurological condition caused by damage to or dysfunction of the central nervous system (CNS), which includes the brain, brainstem, and spinal cord. This syndrome can be caused by stroke, multiple sclerosis, tumors, epilepsy, brain or spinal cord trauma, or Parkinson&apos;s disease. The character of the pain associated with this syndrome differs widely among individuals partly because of the variety of potential causes. Central pain syndrome may affect a large portion of the body or may be more restricted to specific areas, such as hands or feet. The extent of pain is usually related to the cause of the CNS injury or damage. Pain is typically constant, may be moderate to severe in intensity, and is often made worse by touch, movement, emotions, and temperature changes, usually cold temperatures. Individuals experience one or more types of pain sensations, the most prominent being burning. Mingled with the burning may be sensations of &quot;pins and needles;&quot; pressing, lacerating, or aching pain; and brief, intolerable bursts of sharp pain similar to the pain caused by a dental probe on an exposed nerve. Individuals may have numbness in the areas affected by the pain. The burning and loss of touch sensations are usually most severe on the distant parts of the body, such as the feet or hands. Central pain syndrome often begins shortly after the causative injury or damage, but may be delayed by months or even years, especially if it is related to post-stroke pain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000062-2" qtype="treatment">What are the treatments for Central Pain Syndrome ?</Question>
+			<Answer>Pain medications often provide some reduction of pain, but not complete relief of pain, for those affected by central pain syndrome. Tricyclic antidepressants such as nortriptyline or anticonvulsants such as neurontin (gabapentin) can be useful. Lowering stress levels appears to reduce pain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000062-3" qtype="outlook">What is the outlook for Central Pain Syndrome ?</Question>
+			<Answer>Central pain syndrome is not a fatal disorder, but the syndrome causes disabling chronic pain and suffering among the majority of individuals who have it.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000062-4" qtype="research">what research (or clinical trials) is being done for Central Pain Syndrome ?</Question>
+			<Answer>The NINDS vigorously pursues a research program seeking new treatments for chronic pain and nervous system damage. The goals of this research are to develop ways to more effectively treat and potentially reverse debilitating conditions such as central pain syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

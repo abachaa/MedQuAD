@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000234" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-mirror-movement-disorder">
+<Focus>congenital mirror movement disorder</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026650</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>bimanual synergia</Synonym>
+		<Synonym>bimanual synkinesis</Synonym>
+		<Synonym>CMM</Synonym>
+		<Synonym>congenital mirror movements</Synonym>
+		<Synonym>mirror movements</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000234-1" qtype="information">What is (are) congenital mirror movement disorder ?</Question>
+			<Answer>Congenital mirror movement disorder is a condition in which intentional movements of one side of the body are mirrored by involuntary movements of the other side. For example, when an affected individual makes a fist with the right hand, the left hand makes a similar movement. The mirror movements in this disorder primarily involve the upper limbs, especially the hands and fingers. This pattern of movements is present from infancy or early childhood and usually persists throughout life, without other associated signs and symptoms. Intelligence and lifespan are not affected.  People with congenital mirror movement disorder can have some difficulty with certain activities of daily living, particularly with those requiring different movements in each hand, such as typing on a keyboard. They may experience discomfort or pain in the upper limbs during prolonged use of the hands.  The extent of the mirror movements in this disorder can vary, even within the same family. In most cases, the involuntary movements are noticeable but less pronounced than the corresponding voluntary movements. The extent of the movements typically stay the same throughout the lifetime of an affected individual.  Mirror movements can also occur in people who do not have congenital mirror movement disorder. Mild mirror movements are common during the normal development of young children and typically disappear before age 7. They can also develop later in life in people with neurodegenerative disorders such as Parkinson disease. Mirror movements may also be present in certain other conditions with a wider range of signs and symptoms (syndromes).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000234-2" qtype="frequency">How many people are affected by congenital mirror movement disorder ?</Question>
+			<Answer>Congenital mirror movement disorder is a very rare disorder. Its prevalence is thought to be less than 1 in 1 million. Researchers suggest that some mildly affected individuals may never be diagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000234-3" qtype="genetic changes">What are the genetic changes related to congenital mirror movement disorder ?</Question>
+			<Answer>Congenital mirror movement disorder can be caused by mutations in the DCC or RAD51 gene; mutations in these genes account for a total of about 35 percent of cases. Mutations in other genes that have not been identified likely account for other cases of this disorder.  The DCC gene provides instructions for making a protein called the netrin-1 receptor, which is involved in the development of the nervous system. This receptor attaches (binds) to a substance called netrin-1, fitting together like a lock and its key. The binding of netrin-1 to its receptor triggers signaling that helps direct the growth of specialized nerve cell extensions called axons, which transmit nerve impulses that signal muscle movement. Normally, signals from each half of the brain control movements on the opposite side of the body. Binding of netrin-1 to its receptor inhibits axons from developing in ways that would carry movement signals from each half of the brain to the same side of the body.  Mutations in the DCC gene result in an impaired or missing netrin-1 receptor protein. A shortage of functional netrin-1 receptor protein impairs control of axon growth during nervous system development. As a result, movement signals from each half of the brain are abnormally transmitted to both sides of the body, leading to mirror movements.  The RAD51 gene provides instructions for making a protein that is also thought to be involved in the development of nervous system functions that control movement, but its role in this development is unclear. Mutations in the RAD51 gene result in a missing or impaired RAD51 protein, but it is unknown how a shortage of functional RAD51 protein affects nervous system development and leads to the signs and symptoms of congenital mirror movement disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000234-4" qtype="inheritance">Is congenital mirror movement disorder inherited ?</Question>
+			<Answer>In most cases, including those caused by mutations in the DCC or RAD51 gene, this condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the altered gene. Some people who have the altered gene never develop the condition, a situation known as reduced penetrance.  Research suggests that in rare cases, this condition may be inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000234-5" qtype="treatment">What are the treatments for congenital mirror movement disorder ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital mirror movement disorder:  - Gene Review: Gene Review: Congenital Mirror Movements  - Genetic Testing Registry: Mirror movements 2  - Genetic Testing Registry: Mirror movements, congenital  - KidsHealth: Occupational Therapy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

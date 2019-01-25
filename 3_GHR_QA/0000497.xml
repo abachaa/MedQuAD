@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000497" source="GHR" url="https://ghr.nlm.nih.gov/condition/hypermethioninemia">
+<Focus>hypermethioninemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268621</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Deficiency of methionine adenosyltransferase</Synonym>
+		<Synonym>glycine N-methyltransferase deficiency</Synonym>
+		<Synonym>GNMT deficiency</Synonym>
+		<Synonym>Hepatic methionine adenosyltransferase deficiency</Synonym>
+		<Synonym>MAT deficiency</Synonym>
+		<Synonym>MET</Synonym>
+		<Synonym>methionine adenosyltransferase deficiency</Synonym>
+		<Synonym>methioninemia</Synonym>
+		<Synonym>S-adenosylhomocysteine hydrolase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000497-1" qtype="information">What is (are) hypermethioninemia ?</Question>
+			<Answer>Hypermethioninemia is an excess of a particular protein building block (amino acid), called methionine, in the blood. This condition can occur when methionine is not broken down (metabolized) properly in the body.  People with hypermethioninemia often do not show any symptoms. Some individuals with hypermethioninemia exhibit intellectual disability and other neurological problems; delays in motor skills such as standing or walking; sluggishness; muscle weakness; liver problems; unusual facial features; and their breath, sweat, or urine may have a smell resembling boiled cabbage.  Hypermethioninemia can occur with other metabolic disorders, such as homocystinuria, tyrosinemia and galactosemia, which also involve the faulty breakdown of particular molecules. It can also result from liver disease or excessive dietary intake of methionine from consuming large amounts of protein or a methionine-enriched infant formula.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000497-2" qtype="frequency">How many people are affected by hypermethioninemia ?</Question>
+			<Answer>Primary hypermethioninemia that is not caused by other disorders or excess methionine intake appears to be rare; only a small number of cases have been reported. The actual incidence is difficult to determine, however, since many individuals with hypermethioninemia have no symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000497-3" qtype="genetic changes">What are the genetic changes related to hypermethioninemia ?</Question>
+			<Answer>Mutations in the AHCY, GNMT, and MAT1A genes cause hypermethioninemia.  Inherited hypermethioninemia that is not associated with other metabolic disorders can be caused by shortages (deficiencies) in the enzymes that break down methionine. These enzymes are produced from the MAT1A, GNMT and AHCY genes. The reactions involved in metabolizing methionine help supply some of the amino acids needed for protein production. These reactions are also involved in transferring methyl groups, consisting of a carbon atom and three hydrogen atoms, from one molecule to another (transmethylation), which is important in many cellular processes.  The MAT1A gene provides instructions for producing the enzyme methionine adenosyltransferase. This enzyme converts methionine into a compound called S-adenosylmethionine, also known as AdoMet or SAMe. The GNMT gene provides instructions for making the enzyme glycine N-methyltransferase. This enzyme starts the next step in the process, converting AdoMet to a compound called S-adenosyl homocysteine, or AdoHcy. The AHCY gene provides instructions for producing the enzyme S-adenosylhomocysteine hydrolase. This enzyme converts the AdoHcy into the compound homocysteine. Homocysteine may be converted back to methionine or into another amino acid, cysteine.  A deficiency of any of these enzymes results in a buildup of methionine in the body, and may cause signs and symptoms related to hypermethioninemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000497-4" qtype="inheritance">Is hypermethioninemia inherited ?</Question>
+			<Answer>Hypermethioninemia can have different inheritance patterns. This condition is usually inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.  Hypermethioninemia is occasionally inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In these cases, an affected person usually has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000497-5" qtype="treatment">What are the treatments for hypermethioninemia ?</Question>
+			<Answer>These resources address the diagnosis or management of hypermethioninemia:  - Baby&apos;s First Test  - Genetic Testing Registry: Glycine N-methyltransferase deficiency  - Genetic Testing Registry: Hepatic methionine adenosyltransferase deficiency  - Genetic Testing Registry: Hypermethioninemia with s-adenosylhomocysteine hydrolase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

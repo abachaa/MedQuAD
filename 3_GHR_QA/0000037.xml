@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000037" source="GHR" url="https://ghr.nlm.nih.gov/condition/allergic-asthma">
+<Focus>allergic asthma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0155877</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>extrinsic asthma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000037-1" qtype="information">What is (are) allergic asthma ?</Question>
+			<Answer>Asthma is a breathing disorder characterized by inflammation of the airways and recurrent episodes of breathing difficulty. These episodes, sometimes referred to as asthma attacks, are triggered by irritation of the inflamed airways. In allergic asthma, the attacks occur when substances known as allergens are inhaled, causing an allergic reaction. Allergens are harmless substances that the body&apos;s immune system mistakenly reacts to as though they are harmful. Common allergens include pollen, dust, animal dander, and mold. The immune response leads to the symptoms of asthma. Allergic asthma is the most common form of the disorder.  A hallmark of asthma is bronchial hyperresponsiveness, which means the airways are especially sensitive to irritants and respond excessively. Because of this hyperresponsiveness, attacks can be triggered by irritants other than allergens, such as physical activity, respiratory infections, or exposure to tobacco smoke, in people with allergic asthma.  An asthma attack is characterized by tightening of the muscles around the airways (bronchoconstriction), which narrows the airway and makes breathing difficult. Additionally, the immune reaction can lead to swelling of the airways and overproduction of mucus. During an attack, an affected individual can experience chest tightness, wheezing, shortness of breath, and coughing. Over time, the muscles around the airways can become enlarged (hypertrophied), further narrowing the airways.  Some people with allergic asthma have another allergic disorder, such as hay fever (allergic rhinitis) or food allergies. Asthma is sometimes part of a series of allergic disorders, referred to as the atopic march. Development of these conditions typically follows a pattern, beginning with eczema (atopic dermatitis), followed by food allergies, then hay fever, and finally asthma. However, not all individuals with asthma have progressed through the atopic march, and not all individuals with one allergic disease will develop others.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000037-2" qtype="frequency">How many people are affected by allergic asthma ?</Question>
+			<Answer>Approximately 235 million people worldwide have asthma. In the United States, the condition affects an estimated 8 percent of the population. In nearly 90 percent of children and 50 percent of adults with asthma, the condition is classified as allergic asthma.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000037-3" qtype="genetic changes">What are the genetic changes related to allergic asthma ?</Question>
+			<Answer>The cause of allergic asthma is complex. It is likely that a combination of multiple genetic and environmental factors contribute to development of the condition. Doctors believe genes are involved because having a family member with allergic asthma or another allergic disorder increases a person&apos;s risk of developing asthma.  Studies suggest that more than 100 genes may be associated with allergic asthma, but each seems to be a factor in only one or a few populations. Many of the associated genes are involved in the body&apos;s immune response. Others play a role in lung and airway function.  There is evidence that an unbalanced immune response underlies allergic asthma. While there is normally a balance between type 1 (or Th1) and type 2 (or Th2) immune reactions in the body, many individuals with allergic asthma predominantly have type 2 reactions. Type 2 reactions lead to the production of immune proteins called IgE antibodies and the generation of other factors that predispose to bronchial hyperresponsiveness. Normally, the body produces IgE antibodies in response to foreign invaders, particularly parasitic worms. For unknown reasons, in susceptible individuals, the body reacts to an allergen as if it is harmful, producing IgE antibodies specific to it. Upon later encounters with the allergen, IgE antibodies recognize it, which stimulates an immune response, causing bronchoconstriction, airway swelling, and mucus production.  Not everyone with a variation in one of the allergic asthma-associated genes develops the condition; exposure to certain environmental factors also contributes to its development. Studies suggest that these exposures trigger epigenetic changes to the DNA. Epigenetic changes modify DNA without changing the DNA sequence. They can affect gene activity and regulate the production of proteins, which may influence the development of allergies in susceptible individuals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000037-4" qtype="inheritance">Is allergic asthma inherited ?</Question>
+			<Answer>Allergic asthma can be passed through generations in families, but the inheritance pattern is unknown. People with mutations in one or more of the associated genes inherit an increased risk of allergic asthma, not the condition itself. Because allergic asthma is a complex condition influenced by genetic and environmental factors, not all people with a mutation in an asthma-associated gene will develop the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000037-5" qtype="treatment">What are the treatments for allergic asthma ?</Question>
+			<Answer>These resources address the diagnosis or management of allergic asthma:  - American Academy of Allergy Asthma and Immunology: Asthma Treatment and Management  - Genetic Testing Registry: Asthma, atopic  - Genetic Testing Registry: Asthma, susceptibility to   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

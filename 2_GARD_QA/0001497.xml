@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001497" source="GARD" url="https://rarediseases.info.nih.gov/gard/1481/congenital-diaphragmatic-hernia">
+<Focus>Congenital diaphragmatic hernia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0235833</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CDH</Synonym>
+		<Synonym>Congenital diaphragmatic defect</Synonym>
+		<Synonym>Unilateral agenesis of diaphragm</Synonym>
+		<Synonym>Agenesis of hemidiaphragm</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001497-1" qtype="information">What is (are) Congenital diaphragmatic hernia ?</Question>
+			<Answer>Congenital diaphragmatic hernia (CDH) is the lack of development before birth of all or part of the diaphragm, which normally separates the organs in the abdomen from those in the chest cavity. It can range in severity from a thinned area in the diaphragm to its complete absence. CDH may allow the stomach and intestines to move into the chest cavity, crowding the heart and lungs. This can then lead to underdevelopment of the lungs (pulmonary hypoplasia), potentially causing life-threatening complications. CDH has many different causes and occurs with other malformations in some cases. Treatment options depend on the severity of the defect.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001497-2" qtype="symptoms">What are the symptoms of Congenital diaphragmatic hernia ?</Question>
+			<Answer>What are the signs and symptoms of Congenital diaphragmatic hernia? The Human Phenotype Ontology provides the following list of signs and symptoms for Congenital diaphragmatic hernia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Congenital diaphragmatic hernia 90% Multifactorial inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001497-3" qtype="causes">What causes Congenital diaphragmatic hernia ?</Question>
+			<Answer>What causes congenital diaphragmatic hernia? Congenital diaphragmatic hernia (CDH) can occur as an isolated finding, as part of a genetic syndrome or chromosome abnormality, or as part of a complex but nonsyndromic set of findings. Currently, about 15%-20% of individuals with CDH have an identifiable cause for their diaphragm defect. These individuals are classified as having syndromic CDH either resulting from a recognized chromosome abnormality or as a single gene disorder. In the remaining 80%-85% of individuals with CDH, the cause is not known. Potential causes in these individuals may include: a currently undetectable chromosomal microdeletion (tiny loss of genetic material) or microduplication (an extra copy of genetic material) a mutation in a major gene important for diaphragm development combined effects of multiple minor genetic mutations or variants (polygenic inheritance) effects of gene-environment interactions (multifactorial inheritance) effects of non-genetic factors (e.g. epigenetic or teratogenic) GeneReviews has more detailed information about causes of CDH; this information can be viewed by clicking here.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

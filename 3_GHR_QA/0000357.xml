@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000357" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-isolated-hyperparathyroidism">
+<Focus>familial isolated hyperparathyroidism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1840402</CUI>
+			<CUI>C1864729</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FIHP</Synonym>
+		<Synonym>hyperparathyroidism 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000357-1" qtype="information">What is (are) familial isolated hyperparathyroidism ?</Question>
+			<Answer>Familial isolated hyperparathyroidism is an inherited condition characterized by overactivity of the parathyroid glands (hyperparathyroidism). The four parathyroid glands are located in the neck, and they release a hormone called parathyroid hormone that regulates the amount of calcium in the blood. In familial isolated hyperparathyroidism, one or more overactive parathyroid glands release excess parathyroid hormone, which causes the levels of calcium in the blood to rise (hypercalcemia). Parathyroid hormone stimulates the removal of calcium from bone and the absorption of calcium from the diet, and the mineral is then released into the bloodstream.  In people with familial isolated hyperparathyroidism, the production of excess parathyroid hormone is caused by tumors that involve the parathyroid glands. Typically only one of the four parathyroid glands is affected, but in some people, more than one gland develops a tumor. The tumors are usually noncancerous (benign), in which case they are called adenomas. Rarely, people with familial isolated hyperparathyroidism develop a cancerous tumor called parathyroid carcinoma. Because the production of excess parathyroid hormone is caused by abnormalities of the parathyroid glands, familial isolated hyperparathyroidism is considered a form of primary hyperparathyroidism.  Disruption of the normal calcium balance resulting from overactive parathyroid glands causes many of the common signs and symptoms of familial isolated hyperparathyroidism, such as kidney stones, nausea, vomiting, high blood pressure (hypertension), weakness, and fatigue. Because calcium is removed from bones to be released into the bloodstream, hyperparathyroidism often causes thinning of the bones (osteoporosis). The age at which familial isolated hyperparathyroidism is diagnosed varies from childhood to adulthood. Often, the first indication of the condition is elevated calcium levels identified through a routine blood test, even though the affected individual may not yet have signs or symptoms of hyperparathyroidism or hypercalcemia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000357-2" qtype="frequency">How many people are affected by familial isolated hyperparathyroidism ?</Question>
+			<Answer>The prevalence of familial isolated hyperparathyroidism is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000357-3" qtype="genetic changes">What are the genetic changes related to familial isolated hyperparathyroidism ?</Question>
+			<Answer>Familial isolated hyperparathyroidism can be caused by mutations in the MEN1, CDC73, or CASR gene.  The MEN1 gene provides instructions for producing a protein called menin. Menin acts as a tumor suppressor, which means it normally keeps cells from growing and dividing (proliferating) too rapidly or in an uncontrolled way. In familial isolated hyperparathyroidism, MEN1 gene mutations result in an altered menin protein that is no longer able to control cell growth and division. The resulting increase in cell proliferation leads to the formation of an adenoma involving one or more parathyroid glands. Overproduction of parathyroid hormone from these abnormal glands stimulates the release of excess calcium into the blood, leading to the signs and symptoms of familial isolated hyperparathyroidism. It is unclear why this condition affects only the parathyroid glands.  The CDC73 gene provides instructions for making the parafibromin protein, which is also thought to act as a tumor suppressor. Parafibromin is likely involved in regulating the activity of other genes (gene transcription) and in cell proliferation. CDC73 gene mutations that cause familial isolated hyperparathyroidism likely result in decreased activity of the parafibromin protein. The loss of parafibromin&apos;s tumor suppressor function can lead to the development of parathyroid adenoma or, rarely, parathyroid carcinoma.  The CASR gene provides instructions for producing a protein called the calcium-sensing receptor (CaSR), which helps regulate the amount of calcium in the body, in part by controlling the production of parathyroid hormone. Calcium molecules attach (bind) to CaSR, turning on (activating) the receptor. When calcium binds to the CaSR protein in cells of the parathyroid gland, the activated receptor sends signals that block the production and release of parathyroid hormone. Without parathyroid hormone, calcium is not released into the blood. CASR gene mutations associated with familial isolated hyperparathyroidism lead to the production of a less sensitive CaSR that requires an abnormally high concentration of calcium to trigger signaling. As a result, parathyroid hormone is produced even when the concentration of calcium in the blood is elevated, allowing the calcium levels to continue to rise. A small number of individuals with CASR-related familial isolated hyperparathyroidism have enlarged parathyroid glands, and overproduction of parathyroid hormone from these abnormal glands further contributes to the elevated calcium levels in the bloodstream. The excess calcium causes the characteristic features of this condition.  Mutations in the MEN1 gene and the CDC73 gene are involved in other conditions in which hyperparathyroidism is just one of many features. However, some people with mutations in these genes have only signs and symptoms related to hyperparathyroidism (isolated hyperparathyroidism) without the additional features of these other conditions. While some individuals later develop additional signs and symptoms of the other conditions, others do not. Familial isolated hyperparathyroidism may be a milder variant or early form of the other conditions.  In many individuals with the signs and symptoms of familial isolated hyperparathyroidism, a mutation in the MEN1, CDC73, or CASR gene has not been identified, indicating that other genes may be involved in this condition. The genetic cause of these cases is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000357-4" qtype="inheritance">Is familial isolated hyperparathyroidism inherited ?</Question>
+			<Answer>This condition is typically inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000357-5" qtype="treatment">What are the treatments for familial isolated hyperparathyroidism ?</Question>
+			<Answer>These resources address the diagnosis or management of familial isolated hyperparathyroidism:  - Cleveland Clinic: Hyperparathyroidism  - Gene Review: Gene Review: CDC73-Related Disorders  - Genetic Testing Registry: Hyperparathyroidism 1  - MedlinePlus Encyclopedia: Hyperparathyroidism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

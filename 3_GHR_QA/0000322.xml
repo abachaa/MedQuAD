@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000322" source="GHR" url="https://ghr.nlm.nih.gov/condition/epidermolytic-hyperkeratosis">
+<Focus>epidermolytic hyperkeratosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079153</CUI>
+			<CUI>C0343110</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BCIE</Synonym>
+		<Synonym>BIE</Synonym>
+		<Synonym>bullous congenital ichthyosiform erythroderma</Synonym>
+		<Synonym>bullous erythroderma ichthyosiforme</Synonym>
+		<Synonym>bullous erythroderma ichthyosiformis congenita of Brocq</Synonym>
+		<Synonym>bullous ichthyosiform erythroderma</Synonym>
+		<Synonym>EHK</Synonym>
+		<Synonym>epidermolytic ichthyosis</Synonym>
+		<Synonym>hyperkeratosis, epidermolytic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000322-1" qtype="information">What is (are) epidermolytic hyperkeratosis ?</Question>
+			<Answer>Epidermolytic hyperkeratosis is a skin disorder that is present at birth. Affected babies may have very red skin (erythroderma) and severe blisters. Because newborns with this disorder are missing the protection provided by normal skin, they are at risk of becoming dehydrated and developing infections in the skin or throughout the body (sepsis).  As affected individuals get older, blistering is less frequent, erythroderma becomes less evident, and the skin becomes thick (hyperkeratotic), especially over joints, on areas of skin that come into contact with each other, or on the scalp or neck. This thickened skin is usually darker than normal. Bacteria can grow in the thick skin, often causing a distinct odor.  Epidermolytic hyperkeratosis can be categorized into two types. People with PS-type epidermolytic hyperkeratosis have thick skin on the palms of their hands and soles of their feet (palmoplantar or palm/sole hyperkeratosis) in addition to other areas of the body. People with the other type, NPS-type, do not have extensive palmoplantar hyperkeratosis but do have hyperkeratosis on other areas of the body.  Epidermolytic hyperkeratosis is part of a group of conditions called ichthyoses, which refers to the scaly skin seen in individuals with related disorders. However, in epidermolytic hyperkeratosis, the skin is thick but not scaly as in some of the other conditions in the group.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000322-2" qtype="frequency">How many people are affected by epidermolytic hyperkeratosis ?</Question>
+			<Answer>Epidermolytic hyperkeratosis affects approximately 1 in 200,000 to 300,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000322-3" qtype="genetic changes">What are the genetic changes related to epidermolytic hyperkeratosis ?</Question>
+			<Answer>Mutations in the KRT1 or KRT10 genes are responsible for epidermolytic hyperkeratosis. These genes provide instructions for making proteins called keratin 1 and keratin 10, which are found in cells called keratinocytes in the outer layer of the skin (the epidermis). The tough, fibrous keratin proteins attach to each other and form fibers called intermediate filaments, which form networks and provide strength and resiliency to the epidermis.  Mutations in the KRT1 or KRT10 genes lead to changes in the keratin proteins, preventing them from forming strong, stable intermediate filament networks within cells. Without a strong network, keratinocytes become fragile and are easily damaged, which can lead to blistering in response to friction or mild trauma. It is unclear how these mutations cause the overgrowth of epidermal cells that results in hyperkeratotic skin.  KRT1 gene mutations are associated with PS-type epidermal hyperkeratosis, and KRT10 gene mutations are usually associated with NPS-type. The keratin 1 protein is present in the keratinocytes of the skin on the palms of the hands and the soles of the feet as well as other parts of the body, so mutations in the KRT1 gene lead to skin problems in these areas. The keratin 10 protein is not found in the skin of the palms and soles, so these areas are unaffected by mutations in the KRT10 gene.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000322-4" qtype="inheritance">Is epidermolytic hyperkeratosis inherited ?</Question>
+			<Answer>Epidermolytic hyperkeratosis can have different inheritance patterns. About half of the cases of this condition result from new mutations in the KRT1 or KRT10 gene and occur in people with no history of the disorder in their family.  When epidermolytic hyperkeratosis is inherited, it is usually in an autosomal dominant pattern, which means one copy of the altered KRT1 or KRT10 gene in each cell is sufficient to cause the disorder.  Very rarely, epidermolytic hyperkeratosis caused by mutations in the KRT10 gene can be inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000322-5" qtype="treatment">What are the treatments for epidermolytic hyperkeratosis ?</Question>
+			<Answer>These resources address the diagnosis or management of epidermolytic hyperkeratosis:  - Genetic Testing Registry: Bullous ichthyosiform erythroderma  - The Swedish Information Centre for Rare Diseases: Ichthyosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

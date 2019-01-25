@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000985" source="GARD" url="https://rarediseases.info.nih.gov/gard/27/cat-scratch-disease">
+<Focus>Cat scratch disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1384489</CUI>
+			<CUI>C0007361</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bartonellosis due to Bartonella henselae infection</Synonym>
+		<Synonym>Cat scratch fever</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000985-1" qtype="information">What is (are) Cat scratch disease ?</Question>
+			<Answer>Cat scratch disease is an infectious illness caused by the bacteria bartonella. It is believed to be transmitted by cat scratches, bites, or exposure to cat saliva. This self-limiting infectious disease is characterized by a bump or blister at the site of the bite or scratch and swelling and pain in the lymph nodes. Other features may include fatigue, headache, achiness, and fever. Although cat-scratch disease usually subsides without treatment, antibiotic and/or antimicrobial therapy may help speed recovery.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000985-2" qtype="symptoms">What are the symptoms of Cat scratch disease ?</Question>
+			<Answer>What are the symptoms of cat scratch disease? Most people with cat scratch disease have been bitten or scratched by a cat and developed a mild infection at the point of injury. Lymph nodes, especially those around the head, neck, and upper limbs, become swollen. Additionally, a person with cat scratch disease may experience fever, headache, fatigue, achiness and discomfort (malaise), sore throat, enlarged spleen, and/or loss of appetite.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

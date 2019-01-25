@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000151" source="NINDS" url="http://www.ninds.nih.gov/disorders/tropical_spastic_paraparesis/tropical_spastic_paraparesis.htm">
+<Focus>Tropical Spastic Paraparesis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030481</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000151-1" qtype="information">What is (are) Tropical Spastic Paraparesis ?</Question>
+			<Answer>For several decades the term tropical spastic paraparesis (TSP) has been used to describe a chronic and progressive disease of the nervous system that affects adults living in equatorial areas of the world and causes progressive weakness, stiff muscles, muscle spasms, sensory disturbance, and sphincter dysfunction. The cause of TSP was obscure until the mid-1980s, when an important association was established between the human retrovirus  human T-cell lymphotrophic virus type 1 (also known as HTLV-1)  and TSP. TSP is now called HTLV-1 associated myelopathy/ tropical spastic paraparesis or HAM/TSP. The HTLV-1 retrovirus is thought to cause at least 80 percent of the cases of HAM/TSP by impairing the immune system. In addition to neurological symptoms of weakness and muscle stiffness or spasms, in rare cases individuals with HAM/TSP also exhibit uveitis (inflammation of the uveal tract of the eye), arthritis (inflammation of one or more joints), pulmonary lymphocytic alveolitis (inflammation of the lung), polymyositis (an inflammatory muscle disease), keratoconjunctivitis sicca (persistent dryness of the cornea and conjunctiva), and infectious dermatitis (inflammation of the skin). The other serious complication of HTLV-1 infection is the development of adult T-cell leukemia or lymphoma. Nervous system and blood-related complications occur only in a very small proportion of infected individuals, while most remain largely without symptoms throughout their lives.
+                
+The HTLV-1 virus is transmitted person-to-person via infected cells: breast-feeding by mothers who are seropositive (in other words, have high levels of virus antibodies in their blood), sharing infected needles during intravenous drug use, or having sexual relations with a seropositive partner. Less than 2 percent of HTLV-1 seropositive carriers will become HAM/TSP patients.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000151-2" qtype="treatment">What are the treatments for Tropical Spastic Paraparesis ?</Question>
+			<Answer>There is no established treatment program for HAM/TSP. Corticosteroids may relieve some symptoms, but arent likely to change the course of the disorder. Clinical studies suggest that interferon alpha provides benefits over short periods and some aspects of disease activity may be improved favorably using interferon beta. Stiff and spastic muscles may be treated with lioresal or tizanidine. Urinary dysfunction may be treated with oxybutynin.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000151-3" qtype="outlook">What is the outlook for Tropical Spastic Paraparesis ?</Question>
+			<Answer>HAM/TSP is a progressive disease, but it is rarely fatal. Most individuals live for several decades after the diagnosis. Their prognosis improves if they take steps to prevent urinary tract infection and skin sores, and if they participate in physical and occupational therapy programs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000151-4" qtype="research">what research (or clinical trials) is being done for Tropical Spastic Paraparesis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to HAM/TSP in laboratories at the NIH, and support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders such as HAM/TSP.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

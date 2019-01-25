@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002801" source="GARD" url="https://rarediseases.info.nih.gov/gard/10452/hepatic-encephalopathy">
+<Focus>Hepatic encephalopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019151</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hepatoencephalopathy</Synonym>
+		<Synonym>Encephalopathy, hepatic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002801-1" qtype="information">What is (are) Hepatic encephalopathy ?</Question>
+			<Answer>Hepatic encephalopathy is a syndrome observed in some patients with cirrhosis. It is defined as a spectrum of neuropsychiatric abnormalities in patients with liver dysfunction, when other known brain disease has been excluded. Signs and symptoms may be debilitating, and they can begin mildly and gradually, or occur suddenly and severely. They may include personality or mood changes, intellectual impairment, abnormal movements, a depressed level of consciousness, and other symptoms. There are several theories regarding the exact cause, but development of the condition is probably at least partially due to the effect of substances that are toxic to nerve tissue (neurotoxic), which are typically present with liver damage and/or liver disease. Treatment depends upon the severity of mental status changes and upon the certainty of the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002801-2" qtype="inheritance">Is Hepatic encephalopathy inherited ?</Question>
+			<Answer>Is hepatic encephalopathy inherited? Hepatic encephalopathy is not an inherited condition, so an individual who has it cannot pass it on to his/her children. It is brought on by chronic liver failure, particularly in alcoholics with cirrhosis. Although there are many theories and possibilities regarding what exactly causes HE, it is thought that one of the main causes is the accumulation of ammonia in the blood, which the liver, damaged by alcoholic liver disease, cannot remove. Researchers have found that ammonia alters the expression of certain genes; the genes that may be affected carry instructions for brain proteins. When the instructions in these genes are not &quot;followed&quot; correctly by the body due to the altered expression of the genes, the cells in the brain can no longer function normally, which may contribute to the signs and symptoms of HE. However, the genes themselves are not changed in such a way that these changes are passed down to an individual&apos;s children.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

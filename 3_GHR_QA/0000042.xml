@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000042" source="GHR" url="https://ghr.nlm.nih.gov/condition/alpha-mannosidosis">
+<Focus>alpha-mannosidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024748</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alpha-D-mannosidosis</Synonym>
+		<Synonym>alpha-mannosidase B deficiency</Synonym>
+		<Synonym>alpha-mannosidase deficiency</Synonym>
+		<Synonym>deficiency of alpha-mannosidase</Synonym>
+		<Synonym>lysosomal alpha B mannosidosis</Synonym>
+		<Synonym>lysosomal alpha-D-mannosidase deficiency</Synonym>
+		<Synonym>mannosidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000042-1" qtype="information">What is (are) alpha-mannosidosis ?</Question>
+			<Answer>Alpha-mannosidosis is a rare inherited disorder that causes problems in many organs and tissues of the body. Affected individuals may have intellectual disability, distinctive facial features, and skeletal abnormalities. Characteristic facial features can include a large head, prominent forehead, low hairline, rounded eyebrows, large ears, flattened bridge of the nose, protruding jaw, widely spaced teeth, overgrown gums, and large tongue. The skeletal abnormalities that can occur in this disorder include reduced bone density (osteopenia), thickening of the bones at the top of the skull (calvaria), deformations of the bones in the spine (vertebrae), bowed legs or knock knees, and deterioration of the bones and joints.  Affected individuals may also experience difficulty in coordinating movements (ataxia); muscle weakness (myopathy); delay in developing motor skills such as sitting and walking; speech impairments; increased risk of infections; enlargement of the liver and spleen (hepatosplenomegaly); a buildup of fluid in the brain (hydrocephalus); hearing loss; and a clouding of the lens of the eye (cataract). Some people with alpha-mannosidosis experience psychiatric symptoms such as depression, anxiety, or hallucinations; episodes of psychiatric disturbance may be triggered by stressors such as having undergone surgery, emotional upset, or changes in routine.  The signs and symptoms of alpha-mannosidosis can range from mild to severe. The disorder may appear in infancy with rapid progression and severe neurological deterioration. Individuals with this early-onset form of alpha-mannosidosis often do not survive past childhood. In the most severe cases, an affected fetus may die before birth. Other individuals with alpha-mannosidosis experience milder signs and symptoms that appear later and progress more slowly. People with later-onset alpha-mannosidosis may survive into their fifties. The mildest cases may be detected only through laboratory testing and result in few if any symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000042-2" qtype="frequency">How many people are affected by alpha-mannosidosis ?</Question>
+			<Answer>Alpha-mannosidosis is estimated to occur in approximately 1 in 500,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000042-3" qtype="genetic changes">What are the genetic changes related to alpha-mannosidosis ?</Question>
+			<Answer>Mutations in the MAN2B1 gene cause alpha-mannosidosis. This gene provides instructions for making the enzyme alpha-mannosidase. This enzyme works in the lysosomes, which are compartments that digest and recycle materials in the cell. Within lysosomes, the enzyme helps break down complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins). In particular, alpha-mannosidase helps break down oligosaccharides containing a sugar molecule called mannose.  Mutations in the MAN2B1 gene interfere with the ability of the alpha-mannosidase enzyme to perform its role in breaking down mannose-containing oligosaccharides. These oligosaccharides accumulate in the lysosomes and cause cells to malfunction and eventually die. Tissues and organs are damaged by the abnormal accumulation of oligosaccharides and the resulting cell death, leading to the characteristic features of alpha-mannosidosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000042-4" qtype="inheritance">Is alpha-mannosidosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000042-5" qtype="treatment">What are the treatments for alpha-mannosidosis ?</Question>
+			<Answer>These resources address the diagnosis or management of alpha-mannosidosis:  - Gene Review: Gene Review: Alpha-Mannosidosis  - Genetic Testing Registry: Deficiency of alpha-mannosidase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

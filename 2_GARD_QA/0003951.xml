@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003951" source="GARD" url="https://rarediseases.info.nih.gov/gard/9266/merkel-cell-carcinoma">
+<Focus>Merkel cell carcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007129</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Merkel cell cancer</Synonym>
+		<Synonym>Merkle tumors</Synonym>
+		<Synonym>Carcinoma, merkel cell</Synonym>
+		<Synonym>Cutaneous neuroendocrine carcinoma</Synonym>
+		<Synonym>Supratentorial primitive neuroectodermal tumor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003951-1" qtype="information">What is (are) Merkel cell carcinoma ?</Question>
+			<Answer>Merkel cell carcinoma (MCC) is a rare type of skin cancer that usually appears as a single, painless, lump on sun-exposed skin. It is typically red or violet in color. It is considered fast-growing and can spread quickly to surrounding tissues, nearby lymph nodes, or more distant parts of the body. Merkel cell polyomavirus has been detected in about 80% of the tumors tested. It is thought that this virus can cause somatic mutations leading to MCC when the immune system is weakened. Other risk factors for developing MCC include ultraviolet radiation and being over 50 years of age. Treatment should begin early and depends on the location and size of the cancer, and the extent to which it has spread.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003951-2" qtype="causes">What causes Merkel cell carcinoma ?</Question>
+			<Answer>What causes Merkel cell carcinoma? The exact underlying cause of Merkel cell carcinoma (MCC) is unknown, but several risk factors have been associated with the development of MCC. Having one or more risk factors does not mean that a person will develop MCC; most individuals with risk factors will not develop MCC. Risk factors include:     -being over 50 years of age     -having fair skin     -having a history of extensive sun exposure (natural or artificial)     -having chronic immune suppression, such as after organ transplantation or having HIV Researchers have also found that a virus called Merkel cell polyomavirus (MCPyV) is frequently involved in the development of MCC. MCPyV is found in about 80% of tumor cells tested. This virus is thought to alter the DNA in such a way that influences tumor development.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003951-3" qtype="inheritance">Is Merkel cell carcinoma inherited ?</Question>
+			<Answer>Is Merkel cell carcinoma inherited? To our knowledge, there currently is no evidence that Merkel cell carcinoma (MCC) is inherited. While DNA changes (mutations) found in the cells of MCC tumors can lead to MCC, these types of mutations are not inherited from a person&apos;s parents. They are referred to as somatic mutations and occur during a person&apos;s lifetime, often as random events. Sometimes, something in the environment can lead to a somatic mutation, such as long-term sun exposure or infection with the Merkel cell polyomavirus. These are known risk factors for developing MCC.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

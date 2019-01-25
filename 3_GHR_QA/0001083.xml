@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001083" source="GHR" url="https://ghr.nlm.nih.gov/condition/21-hydroxylase-deficiency">
+<Focus>21-hydroxylase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1291314</CUI>
+			<CUI>C0852654</CUI>
+			<CUI>C2936858</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CAH1</Synonym>
+		<Synonym>congenital adrenal hyperplasia 1</Synonym>
+		<Synonym>congenital adrenal hyperplasia due to 21 hydroxylase deficiency</Synonym>
+		<Synonym>CYP21 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001083-1" qtype="information">What is (are) 21-hydroxylase deficiency ?</Question>
+			<Answer>21-hydroxylase deficiency is an inherited disorder that affects the adrenal glands. The adrenal glands are located on top of the kidneys and produce a variety of hormones that regulate many essential functions in the body. In people with 21-hydroxylase deficiency, the adrenal glands produce excess androgens, which are male sex hormones.  There are three types of 21-hydroxylase deficiency. Two types are classic forms, known as the salt-wasting and simple virilizing types. The third type is called the non-classic type. The salt-wasting type is the most severe, the simple virilizing type is less severe, and the non-classic type is the least severe form.  Males and females with either classic form of 21-hydroxylase deficiency tend to have an early growth spurt, but their final adult height is usually shorter than others in their family. Additionally, affected individuals may have a reduced ability to have biological children (decreased fertility). Females may also develop excessive body hair growth (hirsutism), male pattern baldness, and irregular menstruation.  Approximately 75 percent of individuals with classic 21-hydroxylase deficiency have the salt-wasting type. Hormone production is extremely low in this form of the disorder. Affected individuals lose large amounts of sodium in their urine, which can be life-threatening in early infancy. Babies with the salt-wasting type can experience poor feeding, weight loss, dehydration, and vomiting. Individuals with the simple virilizing form do not experience salt loss.  In both the salt-wasting and simple virilizing forms of this disorder, females typically have external genitalia that do not look clearly male or female (ambiguous genitalia). Males usually have normal genitalia, but the testes may be small.  Females with the non-classic type of 21-hydroxylase deficiency have normal female genitalia. As affected females get older, they may experience hirsutism, male pattern baldness, irregular menstruation, and decreased fertility. Males with the non-classic type may have early beard growth and small testes. Some individuals with this type of 21-hydroxylase deficiency have no symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001083-2" qtype="frequency">How many people are affected by 21-hydroxylase deficiency ?</Question>
+			<Answer>The classic forms of 21-hydroxylase deficiency occur in 1 in 15,000 newborns. The prevalence of the non-classic form of 21-hydroxylase deficiency is estimated to be 1 in 1,000 individuals. The prevalence of both classic and non-classic forms varies among different ethnic populations.  21-hydroxylase deficiency is one of a group of disorders known as congenital adrenal hyperplasias that impair hormone production and disrupt sexual development. 21-hydroxylase deficiency is responsible for about 95 percent of all cases of congenital adrenal hyperplasia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001083-3" qtype="genetic changes">What are the genetic changes related to 21-hydroxylase deficiency ?</Question>
+			<Answer>Mutations in the CYP21A2 gene cause 21-hydroxylase deficiency. The CYP21A2 gene provides instructions for making an enzyme called 21-hydroxylase. This enzyme is found in the adrenal glands, where it plays a role in producing hormones called cortisol and aldosterone. Cortisol has numerous functions, such as maintaining blood sugar levels, protecting the body from stress, and suppressing inflammation. Aldosterone is sometimes called the salt-retaining hormone because it regulates the amount of salt retained by the kidneys. The retention of salt affects fluid levels in the body and blood pressure.  21-hydroxylase deficiency is caused by a shortage (deficiency) of the 21-hydroxylase enzyme. When 21-hydroxylase is lacking, substances that are usually used to form cortisol and aldosterone instead build up in the adrenal glands and are converted to androgens. The excess production of androgens leads to abnormalities of sexual development in people with 21-hydroxylase deficiency. A lack of aldosterone production contributes to the salt loss in people with the salt-wasting form of this condition.  The amount of functional 21-hydroxylase enzyme determines the severity of the disorder. Individuals with the salt-wasting type have CYP21A2 mutations that result in a completely nonfunctional enzyme. People with the simple virilizing type of this condition have CYP21A2 gene mutations that allow the production of low levels of functional enzyme. Individuals with the non-classic type of this disorder have CYP21A2 mutations that result in the production of reduced amounts of the enzyme, but more enzyme than either of the other types.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001083-4" qtype="inheritance">Is 21-hydroxylase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001083-5" qtype="treatment">What are the treatments for 21-hydroxylase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of 21-hydroxylase deficiency:  - Baby&apos;s First Test  - CARES Foundation: Treatment  - Gene Review: Gene Review: 21-Hydroxylase-Deficient Congenital Adrenal Hyperplasia  - Genetic Testing Registry: 21-hydroxylase deficiency  - MedlinePlus Encyclopedia: Congenital Adrenal Hyperplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000810" source="GHR" url="https://ghr.nlm.nih.gov/condition/popliteal-pterygium-syndrome">
+<Focus>popliteal pterygium syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265259</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Facio-genito-popliteal syndrome</Synonym>
+		<Synonym>PPS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000810-1" qtype="information">What is (are) popliteal pterygium syndrome ?</Question>
+			<Answer>Popliteal pterygium syndrome is a condition that affects the development of the face, skin, and genitals. Most people with this disorder are born with a cleft lip, a cleft palate (an opening in the roof of the mouth), or both. Affected individuals may have depressions (pits) near the center of the lower lip, which may appear moist due to the presence of salivary and mucous glands in the pits. Small mounds of tissue on the lower lip may also occur. In some cases, people with popliteal pterygium syndrome have missing teeth.  Individuals with popliteal pterygium syndrome may be born with webs of skin on the backs of the legs across the knee joint, which may impair mobility unless surgically removed. Affected individuals may also have webbing or fusion of the fingers or toes (syndactyly), characteristic triangular folds of skin over the nails of the large toes, or tissue connecting the upper and lower eyelids or the upper and lower jaws. They may have abnormal genitals, including unusually small external genital folds (hypoplasia of the labia majora) in females. Affected males may have undescended testes (cryptorchidism) or a scrotum divided into two lobes (bifid scrotum).  People with popliteal pterygium syndrome who have cleft lip and/or palate, like other individuals with these facial conditions, may have an increased risk of delayed language development, learning disabilities, or other mild cognitive problems. The average IQ of individuals with popliteal pterygium syndrome is not significantly different from that of the general population.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000810-2" qtype="frequency">How many people are affected by popliteal pterygium syndrome ?</Question>
+			<Answer>Popliteal pterygium syndrome is a rare condition, occurring in approximately 1 in 300,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000810-3" qtype="genetic changes">What are the genetic changes related to popliteal pterygium syndrome ?</Question>
+			<Answer>Mutations in the IRF6 gene cause popliteal pterygium syndrome. The IRF6 gene provides instructions for making a protein that plays an important role in early development. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes.  The IRF6 protein is active in cells that give rise to tissues in the head and face. It is also involved in the development of other parts of the body, including the skin and genitals.  Mutations in the IRF6 gene that cause popliteal pterygium syndrome may change the transcription factor&apos;s effect on the activity of certain genes. This affects the development and maturation of tissues in the face, skin, and genitals, resulting in the signs and symptoms of popliteal pterygium syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000810-4" qtype="inheritance">Is popliteal pterygium syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000810-5" qtype="treatment">What are the treatments for popliteal pterygium syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of popliteal pterygium syndrome:  - Gene Review: Gene Review: IRF6-Related Disorders  - Genetic Testing Registry: Popliteal pterygium syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

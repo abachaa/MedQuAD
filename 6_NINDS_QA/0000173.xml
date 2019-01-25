@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000173" source="NINDS" url="http://www.ninds.nih.gov/disorders/sma/sma.htm">
+<Focus>Spinal Muscular Atrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026847</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000173-1" qtype="information">What is (are) Spinal Muscular Atrophy ?</Question>
+			<Answer>Spinal Muscular Atrophy (SMA) Types I, II, and III belong to a group of hereditary diseases that cause weakness and wasting of the voluntary muscles in the arms and legs of infants and children. The disorders are caused by an abnormal or missing gene known as the survival motor neuron gene 1 (SMN1), which is responsible for the production of a protein essential to motor neurons. Without this protein, lower motor neurons in the spinal cord degenerate and die. The type of SMA (I, II, or III) is determined by the age of onset and the severity of symptoms. Type I (also known as Werdnig-Hoffman disease, or infantile-onset SMA) is evident at birth or within the first few months. Symptoms include floppy limbs and trunk, feeble movements of the arms and legs, swallowing and feeding difficulties, and impaired breathing. Type II (the intermediate form) usually begins 6 and 18 months of age. Legs tend to be more impaired than arms. Children with Type II may able to sit and some may be able to stand or walk with help. Symptoms of Type III (also called Kugelberg-Welander disease) appear between 2 and 17 years of age and include difficulty running, climbing steps, or rising from a chair. The lower extremities are most often affected. Complications include scoliosis and chronic shortening of muscles or tendons around joints.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000173-2" qtype="treatment">What are the treatments for Spinal Muscular Atrophy ?</Question>
+			<Answer>There is no cure for SMA. Treatment consists of managing the symptoms and preventing complications.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000173-3" qtype="outlook">What is the outlook for Spinal Muscular Atrophy ?</Question>
+			<Answer>The prognosis is poor for babies with SMA Type I. Most die within the first two years. For children with SMA Type II, the prognosis for life expectancy or for independent standing or walking roughly correlates with how old they are when they first begin to experience symptoms - older children tend to have less severe symptoms Life expectancy is reduced but some individuals live into adolescence or young adulthood. Individuals with SMA type III may be prone to respiratory infections but with care may have a normal lifespan.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000173-4" qtype="research">what research (or clinical trials) is being done for Spinal Muscular Atrophy ?</Question>
+			<Answer>Between 2003 and 2012, the NINDS piloted the Spinal Muscular Atrophy Project to expedite therapeutics development for this hereditary neurodegenerative disease. The Project was designed to accelerate the research process by identifying drugs that increase the level of SMN protein in cultured cells, so that they could be used as potential leads for further drug discovery and clinical testing. Read more about the history of this pioneering effort and how it led to collaboration with several pharmaceutical and biotechnology companies.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

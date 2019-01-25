@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003705" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000449.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Staph infections - hospital</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038160</CUI>
+			<CUI>C3714514</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003705-1" qtype="information">What is (are) Staph infections - hospital ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003705-3" qtype="susceptibility">Who is at risk for Staph infections - hospital? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003705-5" qtype="prevention">How to prevent Staph infections - hospital ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

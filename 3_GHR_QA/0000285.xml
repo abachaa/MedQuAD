@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000285" source="GHR" url="https://ghr.nlm.nih.gov/condition/dicer1-syndrome">
+<Focus>DICER1 syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3839822</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DICER1-related pleuropulmonary blastoma cancer predisposition syndrome</Synonym>
+		<Synonym>pleuropulmonary blastoma familial tumor and dysplasia syndrome</Synonym>
+		<Synonym>pleuropulmonary blastoma family tumor susceptibility syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000285-1" qtype="information">What is (are) DICER1 syndrome ?</Question>
+			<Answer>DICER1 syndrome is an inherited disorder that increases the risk of a variety of cancerous and noncancerous (benign) tumors, most commonly certain types of tumors that occur in the lungs, kidneys, ovaries, and thyroid (a butterfly-shaped gland in the lower neck). Affected individuals can develop one or more types of tumors, and members of the same family can have different types. However, the risk of tumor formation in individuals with DICER1 syndrome is only moderately increased compared with tumor risk in the general population; most individuals with genetic changes associated with this condition never develop tumors.  People with DICER1 syndrome who develop tumors most commonly develop pleuropulmonary blastoma, which is characterized by tumors that grow in lung tissue or in the outer covering of the lungs (the pleura). These tumors occur in infants and young children and are rare in adults. Pleuropulmonary blastoma is classified as one of three types on the basis of tumor characteristics: in type I, the growths are composed of air-filled pockets called cysts; in type II, the growths contain both cysts and solid tumors (or nodules); and in type III, the growth is a solid tumor that can fill a large portion of the chest. Pleuropulmonary blastoma is considered cancerous, and types II and III can spread (metastasize), often to the brain, liver, or bones. Individuals with pleuropulmonary blastoma may also develop an abnormal accumulation of air in the chest cavity that can lead to the collapse of a lung (pneumothorax).  Cystic nephroma, which involves multiple benign fluid-filled cysts in the kidneys, can also occur; in people with DICER1 syndrome, the cysts develop early in childhood.  DICER1 syndrome is also associated with tumors in the ovaries known as Sertoli-Leydig cell tumors, which typically develop in affected women in their teens or twenties. Some Sertoli-Leydig cell tumors release the male sex hormone testosterone; in these cases, affected women may develop facial hair, a deep voice, and other male characteristics. Some affected women have irregular menstrual cycles. Sertoli-Leydig cell tumors usually do not metastasize.  People with DICER1 syndrome are also at risk of multinodular goiter, which is enlargement of the thyroid gland caused by the growth of multiple fluid-filled or solid tumors (both referred to as nodules). The nodules are generally slow-growing and benign. Despite the growths, the thyroid&apos;s function is often normal. Rarely, individuals with DICER1 syndrome develop thyroid cancer (thyroid carcinoma).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000285-2" qtype="frequency">How many people are affected by DICER1 syndrome ?</Question>
+			<Answer>DICER1 syndrome is a rare condition; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000285-3" qtype="genetic changes">What are the genetic changes related to DICER1 syndrome ?</Question>
+			<Answer>DICER1 syndrome is caused by mutations in the DICER1 gene. This gene provides instructions for making a protein that is involved in the production of molecules called microRNA (miRNA). MicroRNA is a type of RNA, a chemical cousin of DNA, that attaches to a protein&apos;s blueprint (a molecule called messenger RNA) and blocks the production of proteins from it. Through this role in regulating the activity (expression) of genes, the Dicer protein is involved in many processes, including cell growth and division (proliferation) and the maturation of cells to take on specialized functions (differentiation).  Most of the gene mutations involved in DICER1 syndrome lead to an abnormally short Dicer protein that is unable to aid in the production of miRNA. Without appropriate regulation by miRNA, genes are likely expressed abnormally, which could cause cells to grow and divide uncontrollably and lead to tumor formation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000285-4" qtype="inheritance">Is DICER1 syndrome inherited ?</Question>
+			<Answer>DICER1 syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene is sufficient to cause the disorder. It is important to note that people inherit an increased risk of tumors; many people who have mutations in the DICER1 gene do not develop abnormal growths.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000285-5" qtype="treatment">What are the treatments for DICER1 syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of DICER1 syndrome:  - Cancer.Net from the American Society of Clinical Oncology: Pleuropulmonary Blastoma--Childhood Treatment  - Gene Review: Gene Review: DICER1-Related Disorders  - Genetic Testing Registry: Pleuropulmonary blastoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

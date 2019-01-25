@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000626" source="GHR" url="https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease">
+<Focus>maple syrup urine disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024776</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BCKD deficiency</Synonym>
+		<Synonym>branched-chain alpha-keto acid dehydrogenase deficiency</Synonym>
+		<Synonym>branched-chain ketoaciduria</Synonym>
+		<Synonym>ketoacidemia</Synonym>
+		<Synonym>MSUD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000626-1" qtype="information">What is (are) maple syrup urine disease ?</Question>
+			<Answer>Maple syrup urine disease is an inherited disorder in which the body is unable to process certain protein building blocks (amino acids) properly. The condition gets its name from the distinctive sweet odor of affected infants&apos; urine and is also characterized by poor feeding, vomiting, lack of energy (lethargy), and developmental delay. If untreated, maple syrup urine disease can lead to seizures, coma, and death.  Maple syrup urine disease is often classified by its pattern of signs and symptoms. The most common and severe form of the disease is the classic type, which becomes apparent soon after birth. Variant forms of the disorder become apparent later in infancy or childhood and are typically milder, but they still involve developmental delay and other health problems if not treated.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000626-2" qtype="frequency">How many people are affected by maple syrup urine disease ?</Question>
+			<Answer>Maple syrup urine disease affects an estimated 1 in 185,000 infants worldwide. The disorder occurs much more frequently in the Old Order Mennonite population, with an estimated incidence of about 1 in 380 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000626-3" qtype="genetic changes">What are the genetic changes related to maple syrup urine disease ?</Question>
+			<Answer>Mutations in the BCKDHA, BCKDHB, and DBT genes can cause maple syrup urine disease. These three genes provide instructions for making proteins that work together as a complex. The protein complex is essential for breaking down the amino acids leucine, isoleucine, and valine, which are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs.  Mutations in any of these three genes reduce or eliminate the function of the protein complex, preventing the normal breakdown of leucine, isoleucine, and valine. As a result, these amino acids and their byproducts build up in the body. Because high levels of these substances are toxic to the brain and other organs, their accumulation leads to the serious health problems associated with maple syrup urine disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000626-4" qtype="inheritance">Is maple syrup urine disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000626-5" qtype="treatment">What are the treatments for maple syrup urine disease ?</Question>
+			<Answer>These resources address the diagnosis or management of maple syrup urine disease:  - Baby&apos;s First Test  - Gene Review: Gene Review: Maple Syrup Urine Disease  - Genetic Testing Registry: Maple syrup urine disease  - MedlinePlus Encyclopedia: Maple Syrup Urine Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

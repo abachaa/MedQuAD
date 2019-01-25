@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000004" source="NINDS" url="http://www.ninds.nih.gov/disorders/landaukleffnersyndrome/landaukleffnersyndrome.htm">
+<Focus>Landau-Kleffner Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0282512</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000004-1" qtype="information">What is (are) Landau-Kleffner Syndrome ?</Question>
+			<Answer>Landau-Kleffner syndrome (LKS) is a rare, childhood neurological disorder characterized by the sudden or gradual development of aphasia (the inability to understand or express language) and an abnormal electro-encephalogram (EEG). LKS affects the parts of the brain that control comprehension and speech. The disorder usually occurs in children between the ages of 5 and 7 years. Typically, children with LKS develop normally but then lose their language skills for no apparent reason. While many of the affected individuals have seizures, some do not. The disorder is difficult to diagnose and may be misdiagnosed as autism, pervasive developmental disorder, hearing impairment, learning disability, auditory/verbal processing disorder, attention deficit disorder, childhood schizophrenia, or emotional/behavioral problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000004-2" qtype="treatment">What are the treatments for Landau-Kleffner Syndrome ?</Question>
+			<Answer>Treatment for LKS usually consists of medications, such as anticonvulsants and corticosteroids, and speech therapy, which should be started early. A controversial treatment option involves a surgical technique called multiple subpial transection in which the pathways of abnormal electrical brain activity are severed</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000004-3" qtype="outlook">What is the outlook for Landau-Kleffner Syndrome ?</Question>
+			<Answer>The prognosis for children with LKS varies. Some affected children may have a permanent severe language disorder, while others may regain much of their language abilities (although it may take months or years). In some cases, remission and relapse may occur. The prognosis is improved when the onset of the disorder is after age 6 and when speech therapy is started early. Seizures generally disappear by adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000004-4" qtype="research">what research (or clinical trials) is being done for Landau-Kleffner Syndrome ?</Question>
+			<Answer>The NINDS supports broad and varied programs of research on epilepsy and developmental disorders. This research is aimed at discovering new ways to prevent, diagnose, and treat epilepsy and developmental disorders and, ultimately, to find cures for them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

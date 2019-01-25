@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000948" source="GHR" url="https://ghr.nlm.nih.gov/condition/spondyloperipheral-dysplasia">
+<Focus>spondyloperipheral dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0796173</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SPD</Synonym>
+		<Synonym>spondyloperipheral dysplasia with short ulna</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000948-1" qtype="information">What is (are) spondyloperipheral dysplasia ?</Question>
+			<Answer>Spondyloperipheral dysplasia is a disorder that impairs bone growth. This condition is characterized by flattened bones of the spine (platyspondyly) and unusually short fingers and toes (brachydactyly), with the exception of the first (big) toes. Other skeletal abnormalities associated with spondyloperipheral dysplasia include short stature, shortened long bones of the arms and legs, exaggerated curvature of the lower back (lordosis), and an inward- and upward-turning foot (clubfoot). Additionally, some affected individuals have nearsightedness (myopia), hearing loss, and intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000948-2" qtype="frequency">How many people are affected by spondyloperipheral dysplasia ?</Question>
+			<Answer>This condition is rare; only a few affected individuals have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000948-3" qtype="genetic changes">What are the genetic changes related to spondyloperipheral dysplasia ?</Question>
+			<Answer>Spondyloperipheral dysplasia is one of a spectrum of skeletal disorders caused by mutations in the COL2A1 gene. This gene provides instructions for making a protein that forms type II collagen. This type of collagen is found mostly in the clear gel that fills the eyeball (the vitreous) and in cartilage. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Type II collagen is essential for the normal development of bones and other connective tissues that form the body&apos;s supportive framework.  Mutations in the COL2A1 gene interfere with the assembly of type II collagen molecules, reducing the amount of this type of collagen in the body. Instead of forming collagen molecules, the abnormal COL2A1 protein builds up in cartilage cells (chondrocytes). These changes disrupt the normal development of bones and other connective tissues, leading to the signs and symptoms of spondyloperipheral dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000948-4" qtype="inheritance">Is spondyloperipheral dysplasia inherited ?</Question>
+			<Answer>This condition is probably inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000948-5" qtype="treatment">What are the treatments for spondyloperipheral dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of spondyloperipheral dysplasia:  - Genetic Testing Registry: Spondyloperipheral dysplasia  - MedlinePlus Encyclopedia: Nearsightedness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

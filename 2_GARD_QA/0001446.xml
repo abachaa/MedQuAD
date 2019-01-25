@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001446" source="GARD" url="https://rarediseases.info.nih.gov/gard/6140/common-variable-immunodeficiency">
+<Focus>Common variable immunodeficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009447</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CVID</Synonym>
+		<Synonym>Common variable hypogamma-globulinemia</Synonym>
+		<Synonym>Hypogamma-globulinemia, acquired</Synonym>
+		<Synonym>Immunoglobulin deficiency, late-onset</Synonym>
+		<Synonym>Common variable immune deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001446-1" qtype="information">What is (are) Common variable immunodeficiency ?</Question>
+			<Answer>Common variable immunodeficiency (CVID) is a group of disorders in which the immune system cannot make antibodies against agents that cause infection (such as bacteria). CVID is characterized by low levels of most or all of the immunoglobulin (Ig) classes. This causes affected people to get frequent infections, particularly in the sinuses, lungs, and digestive tract. Symptoms most commonly begin in early adulthood but have been found in children as young as age two. While in most cases the cause of CVID is unknown, it has been associated with changes (mutations) in at least 10 genes. About 10% of cases are due to mutations in the TNFRSF13B gene. Treatment for CVID includes Ig replacement therapy, which stops the cycle of recurrent infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001446-2" qtype="symptoms">What are the symptoms of Common variable immunodeficiency ?</Question>
+			<Answer>What are the signs and symptoms of Common variable immunodeficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for Common variable immunodeficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Decreased antibody level in blood 90% Lymphopenia 90% Otitis media 90% Recurrent respiratory infections 90% Sinusitis 90% Thrombocytopenia 90% Abnormality of the bronchi 50% Elevated hepatic transaminases 50% Hemolytic anemia 50% Lymphadenopathy 50% Malabsorption 50% Splenomegaly 50% Subcutaneous hemorrhage 50% Arthralgia 7.5% Emphysema 7.5% Gastrointestinal stroma tumor 7.5% Lymphoma 7.5% Neoplasm of the stomach 7.5% Restrictive lung disease 7.5% Vasculitis 7.5% Autoimmune neutropenia 5% Autosomal recessive inheritance - B lymphocytopenia - Bronchiectasis - Conjunctivitis - Diarrhea - Hepatomegaly - IgA deficiency - IgG deficiency - IgM deficiency - Immunodeficiency - Impaired T cell function - Recurrent bacterial infections - Recurrent bronchitis - Recurrent otitis media - Recurrent pneumonia - Recurrent sinusitis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001446-3" qtype="causes">What causes Common variable immunodeficiency ?</Question>
+			<Answer>What causes common variable immunodeficiency (CVID)? Common variable immunodeficiency (CVID) is usually sporadic and thought to result from a combination of genetic and environmental factors. In most cases, the exact cause of CVID is unknown. Genetic factors associated with CVID include mutations in genes involved in the development and function of immune system cells (B cells) which help protect against infection. B cells make proteins called antibodies (also known as immunoglobulins), which attach to foreign agents and &quot;mark&quot; them to be destroyed. Mutations in genes associated with CVID result in B cells that don&apos;t make enough antibodies. This causes difficulty fighting infections, causing the signs and symptoms of CVID. Mutations in at least 10 genes have been associated with CVID. About 10% of affected people have mutations in the TNFRSF13B gene. However, not all people who inherit a mutation associated with CVID develop the disease. This is why additional genetic and/or environmental factors are probably needed for the disorder to occur. While CVID usually occurs in people with no family history of the condition, some cases are inherited in an autosomal dominant or autosomal recessive manner.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001446-4" qtype="treatment">What are the treatments for Common variable immunodeficiency ?</Question>
+			<Answer>How might common variable immunodeficiency be treated?  The main treatment for common variable immunodeficiency (CVID) is Ig replacement therapy, which stops the cycle of recurrent infections. Ig may be taken intravenously (through the vein) or subcutaneously (by injection). Adverse reactions to Ig must be monitored during therapy. Ig therapy is effective in most people, leading to less frequent infections and arthritic symptoms. However, gastrointestinal (digestive) symptoms have little improvement with IVIG. In some people wwith CVID and severe autoimmune disease, steroids or other immunosuppressive drugs in addition to Ig therapy may be needed. Detailed information about the management of CVID can be viewed on Medscape Reference&apos;s Web site.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

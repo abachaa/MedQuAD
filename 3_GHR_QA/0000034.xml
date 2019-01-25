@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000034" source="GHR" url="https://ghr.nlm.nih.gov/condition/alg6-congenital-disorder-of-glycosylation">
+<Focus>ALG6-congenital disorder of glycosylation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242354</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ALG6-CDG</Synonym>
+		<Synonym>carbohydrate-deficient glycoprotein syndrome type Ic</Synonym>
+		<Synonym>carbohydrate-deficient glycoprotein syndrome type V</Synonym>
+		<Synonym>CDG syndrome type Ic</Synonym>
+		<Synonym>CDG1C</Synonym>
+		<Synonym>CDGIc</Synonym>
+		<Synonym>congenital disorder of glycosylation type Ic</Synonym>
+		<Synonym>glucosyltransferase 1 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000034-1" qtype="information">What is (are) ALG6-congenital disorder of glycosylation ?</Question>
+			<Answer>ALG6-congenital disorder of glycosylation (ALG6-CDG, also known as congenital disorder of glycosylation type Ic) is an inherited condition that affects many parts of the body. The signs and symptoms of ALG6-CDG vary widely among people with the condition.  Individuals with ALG6-CDG typically develop signs and symptoms of the condition during infancy. They may have difficulty gaining weight and growing at the expected rate (failure to thrive). Affected infants often have weak muscle tone (hypotonia) and developmental delay.  People with ALG6-CDG may have seizures, problems with coordination and balance (ataxia), or stroke-like episodes that involve an extreme lack of energy (lethargy) and temporary paralysis. They may also develop blood clotting disorders. Some individuals with ALG6-CDG have eye abnormalities including eyes that do not look in the same direction (strabismus) and an eye disorder called retinitis pigmentosa, which causes vision loss. Females with ALG6-CDG have hypergonadotropic hypogonadism, which affects the production of hormones that direct sexual development. As a result, most females with ALG6-CDG do not go through puberty.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000034-2" qtype="frequency">How many people are affected by ALG6-congenital disorder of glycosylation ?</Question>
+			<Answer>The prevalence of ALG6-CDG is unknown, but it is thought to be the second most common type of congenital disorder of glycosylation. More than 30 cases of ALG6-CDG have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000034-3" qtype="genetic changes">What are the genetic changes related to ALG6-congenital disorder of glycosylation ?</Question>
+			<Answer>ALG6-CDG is caused by mutations in the ALG6 gene. This gene provides instructions for making an enzyme that is involved in a process called glycosylation. Glycosylation is the process by which sugar molecules (monosaccharides) and complex chains of sugar molecules (oligosaccharides) are added to proteins and fats. Glycosylation modifies proteins and fats so they can perform a wider variety of functions. The enzyme produced from the ALG6 gene transfers a simple sugar called glucose to the growing oligosaccharide. Once the correct number of sugar molecules are linked together, the oligosaccharide is attached to a protein or fat.  ALG6 gene mutations lead to the production of an abnormal enzyme with reduced or no activity. Without a properly functioning enzyme, glycosylation cannot proceed normally, and oligosaccharides are incomplete. As a result, glycosylation is reduced or absent. The wide variety of signs and symptoms in ALG6-CDG are likely due to impaired glycosylation of proteins and fats that are needed for normal function in many organs and tissues, including the brain, eyes, liver, and hormone-producing (endocrine) system.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000034-4" qtype="inheritance">Is ALG6-congenital disorder of glycosylation inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000034-5" qtype="treatment">What are the treatments for ALG6-congenital disorder of glycosylation ?</Question>
+			<Answer>These resources address the diagnosis or management of ALG6-CDG:  - Gene Review: Gene Review: Congenital Disorders of N-Linked Glycosylation Pathway Overview   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

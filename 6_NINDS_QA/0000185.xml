@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000185" source="NINDS" url="http://www.ninds.nih.gov/disorders/lockedinsyndrome/lockedinsyndrome.htm">
+<Focus>Locked-In Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C0023944</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000185-1" qtype="information">What is (are) Locked-In Syndrome ?</Question>
+			<Answer>Locked-in syndrome is a rare neurological disorder characterized by complete paralysis of voluntary muscles in all parts of the body except for those that control eye movement. It may result from traumatic brain injury, diseases of the circulatory system, diseases that destroy the myelin sheath surrounding nerve cells, or medication overdose. Individuals with locked-in syndrome are conscious and can think and reason, but are unable to speak or move. The disorder leaves individuals completely mute and paralyzed. Communication may be possible with blinking eye movements</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000185-2" qtype="treatment">What are the treatments for Locked-In Syndrome ?</Question>
+			<Answer>There is no cure for locked-in syndrome, nor is there a standard course of treatment. A therapy called functional neuromuscular stimulation, which uses electrodes to stimulate muscle reflexes, may help activate some paralyzed muscles. Several devices to help communication are available. Other treatment is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000185-3" qtype="outlook">What is the outlook for Locked-In Syndrome ?</Question>
+			<Answer>While in rare cases some patients may regain certain functions, the chances for motor recovery are very limited.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000185-4" qtype="research">what research (or clinical trials) is being done for Locked-In Syndrome ?</Question>
+			<Answer>The NINDS supports research on neurological disorders that can cause locked-in syndrome. The goals of this research are to find ways to prevent, treat, and cure these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

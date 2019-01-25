@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000512" source="GHR" url="https://ghr.nlm.nih.gov/condition/idiopathic-pulmonary-fibrosis">
+<Focus>idiopathic pulmonary fibrosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3812887</CUI>
+			<CUI>C1800706</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cryptogenic fibrosing alveolitis</Synonym>
+		<Synonym>idiopathic fibrosing alveolitis, chronic form</Synonym>
+		<Synonym>IPF</Synonym>
+		<Synonym>usual interstitial pneumonia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000512-1" qtype="information">What is (are) idiopathic pulmonary fibrosis ?</Question>
+			<Answer>Idiopathic pulmonary fibrosis is a chronic, progressive lung disease. This condition causes scar tissue (fibrosis) to build up in the lungs, which makes the lungs unable to transport oxygen into the bloodstream effectively. The disease usually affects people between the ages of 50 and 70.  The most common signs and symptoms of idiopathic pulmonary fibrosis are shortness of breath and a persistent dry, hacking cough. Many affected individuals also experience a loss of appetite and gradual weight loss. Some people with idiopathic pulmonary fibrosis develop widened and rounded tips of the fingers and toes (clubbing) resulting from a shortage of oxygen. These features are relatively nonspecific; not everyone with these health problems has idiopathic pulmonary fibrosis. Other respiratory diseases, some of which are less serious, can cause similar signs and symptoms.  In people with idiopathic pulmonary fibrosis, scarring of the lungs increases over time until the lungs can no longer provide enough oxygen to the body&apos;s organs and tissues. Some people with idiopathic pulmonary fibrosis develop other serious lung conditions, including lung cancer, blood clots in the lungs (pulmonary emboli), pneumonia, or high blood pressure in the blood vessels that supply the lungs (pulmonary hypertension). Most affected individuals survive 3 to 5 years after their diagnosis. However, the course of the disease is highly variable; some affected people become seriously ill within a few months, while others may live with the disease for a decade or longer.  In most cases, idiopathic pulmonary fibrosis occurs in only one person in a family. These cases are described as sporadic. However, a small percentage of people with this disease have at least one other affected family member. When idiopathic pulmonary fibrosis occurs in multiple members of the same family, it is known as familial pulmonary fibrosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000512-2" qtype="frequency">How many people are affected by idiopathic pulmonary fibrosis ?</Question>
+			<Answer>Idiopathic pulmonary fibrosis has an estimated prevalence of 13 to 20 per 100,000 people worldwide. About 100,000 people are affected in the United States, and 30,000 to 40,000 new cases are diagnosed each year.  Familial pulmonary fibrosis is less common than the sporadic form of the disease. Only a small percentage of cases of idiopathic pulmonary fibrosis appear to run in families.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000512-3" qtype="genetic changes">What are the genetic changes related to idiopathic pulmonary fibrosis ?</Question>
+			<Answer>The cause of idiopathic pulmonary fibrosis is unknown, although the disease probably results from a combination of genetic and environmental factors. It is likely that genetic changes increase a person&apos;s risk of developing idiopathic pulmonary fibrosis, and then exposure to certain environmental factors triggers the disease.  Changes in several genes have been suggested as risk factors for idiopathic pulmonary fibrosis. Most of these genetic changes account for only a small proportion of cases. However, mutations in genes known as TERC and TERT have been found in about 15 percent of all cases of familial pulmonary fibrosis and a smaller percentage of cases of sporadic idiopathic pulmonary fibrosis. The TERC and TERT genes provide instructions for making components of an enzyme called telomerase, which maintains structures at the ends of chromosomes known as telomeres. It is not well understood how defects in telomerase are associated with the lung damage characteristic of idiopathic pulmonary fibrosis.  Researchers have also examined environmental risk factors that could contribute to idiopathic pulmonary fibrosis. These factors include exposure to wood or metal dust, viral infections, certain medications, and cigarette smoking. Some research suggests that gastroesophageal reflux disease (GERD) may also be a risk factor for idiopathic pulmonary fibrosis; affected individuals may breathe in (aspirate) stomach contents, which over time could damage the lungs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000512-4" qtype="inheritance">Is idiopathic pulmonary fibrosis inherited ?</Question>
+			<Answer>Most cases of idiopathic pulmonary fibrosis are sporadic; they occur in people with no history of the disorder in their family.  Familial pulmonary fibrosis appears to have an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of an altered gene in each cell is sufficient to cause the disorder. However, some people who inherit the altered gene never develop features of familial pulmonary fibrosis. (This situation is known as reduced penetrance.) It is unclear why some people with a mutated gene develop the disease and other people with the mutated gene do not.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000512-5" qtype="treatment">What are the treatments for idiopathic pulmonary fibrosis ?</Question>
+			<Answer>These resources address the diagnosis or management of idiopathic pulmonary fibrosis:  - Gene Review: Gene Review: Pulmonary Fibrosis, Familial  - Genetic Testing Registry: Idiopathic fibrosing alveolitis, chronic form   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

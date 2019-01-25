@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000354" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-hypertrophic-cardiomyopathy">
+<Focus>familial hypertrophic cardiomyopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0949658</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial asymmetric septal hypertrophy</Synonym>
+		<Synonym>HCM</Synonym>
+		<Synonym>hereditary ventricular hypertrophy</Synonym>
+		<Synonym>heritable hypertrophic cardiomyopathy</Synonym>
+		<Synonym>idiopathic hypertrophic subaortic stenosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000354-1" qtype="information">What is (are) familial hypertrophic cardiomyopathy ?</Question>
+			<Answer>Familial hypertrophic cardiomyopathy is a heart condition characterized by thickening (hypertrophy) of the heart (cardiac) muscle. Thickening usually occurs in the interventricular septum, which is the muscular wall that separates the lower left chamber of the heart (the left ventricle) from the lower right chamber (the right ventricle). In some people, thickening of the interventricular septum impedes the flow of oxygen-rich blood from the heart, which may lead to an abnormal heart sound during a heartbeat (heart murmur) and other signs and symptoms of the condition. Other affected individuals do not have physical obstruction of blood flow, but the pumping of blood is less efficient, which can also lead to symptoms of the condition. Cardiac hypertrophy often begins in adolescence or young adulthood, although it can develop at any time throughout life.  The symptoms of familial hypertrophic cardiomyopathy are variable, even within the same family. Many affected individuals have no symptoms. Other people with familial hypertrophic cardiomyopathy may experience chest pain; shortness of breath, especially with physical exertion; a sensation of fluttering or pounding in the chest (palpitations); lightheadedness; dizziness; and fainting.  While most people with familial hypertrophic cardiomyopathy are symptom-free or have only mild symptoms, this condition can have serious consequences. It can cause abnormal heart rhythms (arrhythmias) that may be life threatening. People with familial hypertrophic cardiomyopathy have an increased risk of sudden death, even if they have no other symptoms of the condition. A small number of affected individuals develop potentially fatal heart failure, which may require heart transplantation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000354-2" qtype="frequency">How many people are affected by familial hypertrophic cardiomyopathy ?</Question>
+			<Answer>Familial hypertrophic cardiomyopathy affects an estimated 1 in 500 people worldwide. It is the most common genetic heart disease in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000354-3" qtype="genetic changes">What are the genetic changes related to familial hypertrophic cardiomyopathy ?</Question>
+			<Answer>Mutations in one of several genes can cause familial hypertrophic cardiomyopathy; the most commonly involved genes are MYH7, MYBPC3, TNNT2, and TNNI3. Other genes, including some that have not been identified, may also be involved in this condition.  The proteins produced from the genes associated with familial hypertrophic cardiomyopathy play important roles in contraction of the heart muscle by forming muscle cell structures called sarcomeres. Sarcomeres, which are the basic units of muscle contraction, are made up of thick and thin protein filaments. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract. In the heart, regular contractions of cardiac muscle pump blood to the rest of the body.  The protein produced from the MYH7 gene, called cardiac beta ()-myosin heavy chain, is the major component of the thick filament in sarcomeres. The protein produced from the MYBPC3 gene, cardiac myosin binding protein C, associates with the thick filament, providing structural support and helping to regulate muscle contractions.  The TNNT2 and TNNI3 genes provide instructions for making cardiac troponin T and cardiac troponin I, respectively, which are two of the three proteins that make up the troponin protein complex found in cardiac muscle cells. The troponin complex associates with the thin filament of sarcomeres. It controls muscle contraction and relaxation by regulating the interaction of the thick and thin filaments.  It is unknown how mutations in sarcomere-related genes lead to hypertrophy of the heart muscle and problems with heart rhythm. The mutations may result in an altered sarcomere protein or reduce the amount of the protein. An abnormality in or shortage of any one of these proteins may impair the function of the sarcomere, disrupting normal cardiac muscle contraction. Research shows that, in affected individuals, contraction and relaxation of the heart muscle is abnormal, even before hypertrophy develops. However, it is not clear how these contraction problems are related to hypertrophy or the symptoms of familial hypertrophic cardiomyopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000354-4" qtype="inheritance">Is familial hypertrophic cardiomyopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Rarely, both copies of the gene are altered, leading to more severe signs and symptoms.  In most cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000354-5" qtype="treatment">What are the treatments for familial hypertrophic cardiomyopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of familial hypertrophic cardiomyopathy:  - Cleveland Clinic  - Gene Review: Gene Review: Hypertrophic Cardiomyopathy Overview  - Genetic Testing Registry: Familial hypertrophic cardiomyopathy 1  - Genetic Testing Registry: Familial hypertrophic cardiomyopathy 2  - Genetic Testing Registry: Familial hypertrophic cardiomyopathy 4  - Genetic Testing Registry: Familial hypertrophic cardiomyopathy 7  - MedlinePlus Encyclopedia: Hypertrophic Cardiomyopathy  - Stanford University Hospitals and Clinics  - The Sarcomeric Human Cardiomyopathies Registry (ShaRe)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

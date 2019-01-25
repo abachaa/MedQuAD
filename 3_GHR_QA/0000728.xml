@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000728" source="GHR" url="https://ghr.nlm.nih.gov/condition/neuropathy-ataxia-and-retinitis-pigmentosa">
+<Focus>neuropathy, ataxia, and retinitis pigmentosa</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004134</CUI>
+			<CUI>C0035334</CUI>
+			<CUI>C0442874</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NARP</Synonym>
+		<Synonym>NARP syndrome</Synonym>
+		<Synonym>neurogenic muscle weakness, ataxia, and retinitis pigmentosa</Synonym>
+		<Synonym>neuropathy, ataxia, and retinitis pigmentos</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000728-1" qtype="information">What is (are) neuropathy, ataxia, and retinitis pigmentosa ?</Question>
+			<Answer>Neuropathy, ataxia, and retinitis pigmentosa (NARP) is a condition that causes a variety of signs and symptoms chiefly affecting the nervous system. Beginning in childhood or early adulthood, most people with NARP experience numbness, tingling, or pain in the arms and legs (sensory neuropathy); muscle weakness; and problems with balance and coordination (ataxia). Many affected individuals also have vision loss caused by changes in the light-sensitive tissue that lines the back of the eye (the retina). In some cases, the vision loss results from a condition called retinitis pigmentosa. This eye disease causes the light-sensing cells of the retina gradually to deteriorate.  Learning disabilities and developmental delays are often seen in children with NARP, and older individuals with this condition may experience a loss of intellectual function (dementia). Other features of NARP include seizures, hearing loss, and abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects). These signs and symptoms vary among affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000728-2" qtype="frequency">How many people are affected by neuropathy, ataxia, and retinitis pigmentosa ?</Question>
+			<Answer>The prevalence of NARP is unknown. This disorder is probably less common than a similar but more severe condition, Leigh syndrome, which affects about 1 in 40,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000728-3" qtype="genetic changes">What are the genetic changes related to neuropathy, ataxia, and retinitis pigmentosa ?</Question>
+			<Answer>NARP results from mutations in the MT-ATP6 gene. This gene is contained in mitochondrial DNA, also known as mtDNA. Mitochondria are structures within cells that convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA.  The MT-ATP6 gene provides instructions for making a protein that is essential for normal mitochondrial function. Through a series of chemical reactions, mitochondria use oxygen and simple sugars to create adenosine triphosphate (ATP), the cell&apos;s main energy source. The MT-ATP6 protein forms one part (subunit) of an enzyme called ATP synthase, which is responsible for the last step in ATP production. Mutations in the MT-ATP6 gene alter the structure or function of ATP synthase, reducing the ability of mitochondria to make ATP. It remains unclear how this disruption in mitochondrial energy production leads to muscle weakness, vision loss, and the other specific features of NARP.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000728-4" qtype="inheritance">Is neuropathy, ataxia, and retinitis pigmentosa inherited ?</Question>
+			<Answer>This condition is inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.  Most of the body&apos;s cells contain thousands of mitochondria, each with one or more copies of mtDNA. The severity of some mitochondrial disorders is associated with the percentage of mitochondria in each cell that has a particular genetic change. Most individuals with NARP have a specific MT-ATP6 mutation in 70 percent to 90 percent of their mitochondria. When this mutation is present in a higher percentage of a person&apos;s mitochondriagreater than 90 percent to 95 percentit causes a more severe condition known as maternally inherited Leigh syndrome. Because these two conditions result from the same genetic changes and can occur in different members of a single family, researchers believe that they may represent a spectrum of overlapping features instead of two distinct syndromes.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000728-5" qtype="treatment">What are the treatments for neuropathy, ataxia, and retinitis pigmentosa ?</Question>
+			<Answer>These resources address the diagnosis or management of NARP:  - Gene Review: Gene Review: Mitochondrial DNA-Associated Leigh Syndrome and NARP  - Gene Review: Gene Review: Mitochondrial Disorders Overview  - Genetic Testing Registry: Neuropathy ataxia retinitis pigmentosa syndrome  - MedlinePlus Encyclopedia: Retinitis pigmentosa   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

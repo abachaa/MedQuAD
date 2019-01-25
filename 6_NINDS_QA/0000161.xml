@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000161" source="NINDS" url="http://www.ninds.nih.gov/disorders/refsum_infantile/refsum_infantile.htm">
+<Focus>Infantile Refsum Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0282527</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000161-1" qtype="information">What is (are) Infantile Refsum Disease ?</Question>
+			<Answer>Infantile Refsum disease (IRD) is a medical condition within the Zellweger spectrum of perixisome biogenesis disorders (PBDs), inherited genetic disorders that damage the white matter of the brain and affect motor movements. PBDs are part of a larger group of disorders called the leukodystrophies. The Zellweger spectrum of PBDs include related, but not more severe, disorders referred to as Zellweger syndrome (ZS) and neonatal adrenoleukodystrophy. Collectively, these disorders are caused by inherited defects in any one of 12 genes, called PEX genes, which are required for the normal formation and function of peroxisomes. Peroxisomes are cell structures required for the normal formation and function of the brain, eyes, liver, kidneys, and bone. They contain enzymes that break down toxic substances in the cells, including very long chain fatty acids and phytanic acid (a type of fat found in certain foods), and synthesize certain fatty materials (lipids) that are required for cell function. When peroxisomes are not functioning, there is over-accumulation of very long chain fatty acids and phytanic acid, and a lack of bile acids and plasmalogens--specialized lipids found in cell membranes and the myelin sheaths and encase and protect nerve fibers.. IRD has some residual perixisome function, resulting in less severe disease than in Zellweger syndrome. Symptoms of IRD begin in infancy with retinitis pigmentosa, a visual impairment that often leads to blindness, and hearing problems that usually progress to deafness by early childhood. Other symptoms may include rapid, jerky eye movements (nystagmus); floppy muscle tone (hypotonia) and lack of muscle coordination (ataxia); mental and growth disabilities; abnormal facial features; enlarged liver; and white matter abnormalities of brain myelin. At the mildest extreme of the disorder, intellect may be preserved. Although Adult Refsum disease and IRD have similar names, they are separate disorders caused by different gene defects.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000161-2" qtype="treatment">What are the treatments for Infantile Refsum Disease ?</Question>
+			<Answer>The primary treatment for IRD is to avoid foods that contain phytanic acid, including dairy products; beef and lamb; and fatty fish such as tuna, cod, and haddock. Although this prevents the accumulation of phytanic acid, it does not address the accumulation of very long chain fatty acids, and the deficiency of bile acids and plasmalogens.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000161-3" qtype="outlook">What is the outlook for Infantile Refsum Disease ?</Question>
+			<Answer>IRD is a fatal disease, but some children will survive into their teens and twenties, and possibly even beyond.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000161-4" qtype="research">what research (or clinical trials) is being done for Infantile Refsum Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to IRDin its laboratories at the National Institutes of Health (NIH), and also supports additional research through grants to major medical institutions across the country. Research is focused on finding better ways to prevent, treat, and ultimately cure disorders such as the PBDs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

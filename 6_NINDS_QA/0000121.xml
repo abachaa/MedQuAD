@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000121" source="NINDS" url="http://www.ninds.nih.gov/disorders/toddsparalysis/toddsparalysis.htm">
+<Focus>Todd's Paralysis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0234544</CUI>
+			<CUI>C0522224</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000121-1" qtype="information">What is (are) Todd's Paralysis ?</Question>
+			<Answer>Todd&apos;s paralysis is a neurological condition experienced by individuals with epilepsy, in which a seizure is followed by a brief period of temporary paralysis. The paralysis may be partial or complete but usually occurs on just one side of the body. The paralysis can last from half an hour to 36 hours, with an average of 15 hours, at which point it resolves completely. Todd&apos;s paralysis may also affect speech and vision. Scientists don&apos;t know what causes Todd&apos;s paralysis. Current theories propose biological processes in the brain that involve a slow down in either the energy output of neurons or in the motor centers of the brain. It is important to distinguish Todd&apos;s paralysis from a stroke, which it can resemble, because a stroke requires completely different treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000121-2" qtype="treatment">What are the treatments for Todd's Paralysis ?</Question>
+			<Answer>There is no treatment for Todd&apos;s paralysis. Individuals must rest as comfortably as possible until the paralysis disappears.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000121-3" qtype="outlook">What is the outlook for Todd's Paralysis ?</Question>
+			<Answer>Todd&apos;s paralysis is an indication that an individual has had an epileptic seizure. The outcome depends on the effects of the seizure and the subsequent treatment of the epilepsy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000121-4" qtype="research">what research (or clinical trials) is being done for Todd's Paralysis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to Todd&apos;s paralysis in its clinics and laboratories at The National Institutes of Health (NIH), and supports additional research through grants to major medical institutions across the country. Much of this research focuses on finding successful methods to prevent Todd&apos;s paralysis in individuals with epilepsy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

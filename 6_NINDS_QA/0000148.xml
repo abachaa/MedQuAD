@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000148" source="NINDS" url="http://www.ninds.nih.gov/disorders/shingles/shingles.htm">
+<Focus>Shingles</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019360</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000148-1" qtype="information">What is (are) Shingles ?</Question>
+			<Answer>Shingles (herpes zoster) is an outbreak of rash or blisters on the skin that is caused by the same virus that causes chickenpox  the varicella-zoster virus. The first sign of shingles is often burning or tingling pain (which can be severe), or sometimes numbness or itch,generally on one side of the body. After several days or a week, a rash of fluid-filled blisters, similar to chickenpox, appears in one area on one side of the body. Shingles pain can be mild or intense. Some people have mostly itching; some feel pain from the gentlest touch or breeze. The most common location for shingles is a band, called a dermatome, spanning one side of the trunk around the waistline. Anyone who has had chickenpox is at risk for shingles. Scientists think that some of the virus particles from the original exposure to the varicella-zoster virus,leave the skin blisters and move into the nervous system. When the varicella-zoster virus reactivates, the virus moves back down the long nerve fibers that extend from the sensory cell bodies to the skin. The viruses multiply, the tell-tale rash erupts, and the person now has shingles.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000148-2" qtype="treatment">What are the treatments for Shingles ?</Question>
+			<Answer>The severity and duration of an attack of shingles can be significantly reduced by immediate treatment with antiviral drugs, which include acyclovir, valcyclovir, or famcyclovir. Antiviral drugs may also help stave off the painful after-effects of shingles known as postherpetic neuralgia. Other treatments for postherpetic neuralgia include steroids, antidepressants, anticonvulsants (including pregabalin and gabapentin enacarbil), and topical agents. The varicella zoster virus vaccine (Zostavax) has been approved by teh food and Drug Administration for adults age 50 and older. Researchers found that giving older adults the vaccine reduced the expected number of later cases of shingles by half. And in people who still got the disease despite immunization, the severity and complications of shingles were dramatically reduced. The shingles vaccine is a preventive therapy and not a treatment for those who already have shingles or long-lasting nerve pain (postherpetic neuralgia).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000148-3" qtype="outlook">What is the outlook for Shingles ?</Question>
+			<Answer>For most healthy people who receive treatment soon after the outbreak of blisters, the lesions heal, the pain subsides within 3 to 5 weeks, and the blisters often leave no scars. However, shingles is a serious threat in immunosuppressed individuals  for example, those with HIV infection or who are receiving cancer treatments that can weaken their immune systems. People who receive organ transplants are also vulnerable to shingles because they are given drugs that suppress the immune system. 
+                
+A person with a shingles rash can pass the virus to someone, usually a child, who has never had chickenpox, but the child will develop chickenpox, not shingles. A person with chickenpox cannot give shingles to someone else. Shingles comes from the virus hiding inside the person&apos;s body, not from an outside source.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000148-4" qtype="research">what research (or clinical trials) is being done for Shingles ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS supports research on viral proteins and virus defense mechanisms in neurons to understand why the varicella-zoster virus establishes latency uniquely in neurons and not in other cell types. Other studies focus on how VZV travels along sensory nerve fibers, or axons, and its role in latency and viral reactivation. Scientists also hope to identify molecular mechanisms that regulate the expression of latent viral genes, which may lead to targeted therapy to prevent reactivation. Other studies hope to better understand cellular changes that lead to persistent pain.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

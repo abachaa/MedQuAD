@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000262" source="NINDS" url="http://www.ninds.nih.gov/disorders/sunct/sunct.htm">
+<Focus>SUNCT Headache</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2096315</CUI>
+			<CUI>C2349417</CUI>
+			<CUI>C0018681</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000262-1" qtype="information">What is (are) SUNCT Headache ?</Question>
+			<Answer>SUNCT-Short-lasting, Unilateral, Neuralgiform headache attacks with Conjunctival injection and Tearing-is a rare form of headache that is most common in men after age 50. The disorder is marked by bursts of moderate to severe burning, piercing, or throbbing pain, usually on one side of the head and around the eye or temple. The pain usually peaks within seconds of onset and may follow a pattern of increasing and decreasing intensity. Attacks typically occur in daytime hours and last from 5 seconds to 4 minutes per episode. Individuals generally have five to six attacks per hour.
+                
+Autonomic nervous system responses include watery eyes, reddish or bloodshot eyes caused by dilation of blood vessels (conjunctival injection), nasal congestion, runny nose, sweaty forehead, swelling of the eyelids, and increased pressure within the eye on the affected side of head. Systolic blood pressure may rise during the attacks. Movement of the neck may trigger these headaches. SUNCT may be a form of trigeminal neuralgia and is considered one of the trigeminal autonomic cephalgias, or TACs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000262-2" qtype="treatment">What are the treatments for SUNCT Headache ?</Question>
+			<Answer>These headaches are generally non-responsive to usual treatment for other short-lasting headaches. Corticosteroids and the anti-epileptic drugs gabapentin, lamotrigine, and carbamazepine may help relieve some symptoms in some patients. Studies have shown that injections of glycerol to block nerve signaling along the trigeminal nerve may provide temporary relief in some severe cases, but the headaches recurred in about 40 percent of individuals studied.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000262-3" qtype="outlook">What is the outlook for SUNCT Headache ?</Question>
+			<Answer>There is no cure for these headaches. The disorder is not fatal but can cause considerable discomfort.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000262-4" qtype="research">what research (or clinical trials) is being done for SUNCT Headache ?</Question>
+			<Answer>The NINDS conducts a wide range of research on headache disorders. This research aims to discover ways to better diagnose, treat, and ultimately, prevent these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000820" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/skinconditions.html">
+<Focus>Skin Conditions</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037274</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cutaneous disorders</Synonym>
+		<Synonym>Dermatologic disorders</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000820-1" qtype="information">What is (are) Skin Conditions ?</Question>
+			<Answer>Your skin is your body&apos;s largest organ. It covers and protects your body. Your skin       - Holds body fluids in, preventing dehydration    - Keeps harmful microbes out, preventing infections    - Helps you feel things like heat, cold, and pain    - Keeps your body temperature even    - Makes vitamin D when the sun shines on it       Anything that irritates, clogs, or inflames your skin can cause symptoms such as redness, swelling, burning, and itching. Allergies, irritants, your genetic makeup, and certain diseases and immune system problems can cause rashes, hives, and other skin conditions. Many skin problems, such as acne, also affect your appearance.    NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000119" source="NINDS" url="http://www.ninds.nih.gov/disorders/sturge_weber/sturge_weber.htm">
+<Focus>Sturge-Weber Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038505</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000119-1" qtype="information">What is (are) Sturge-Weber Syndrome ?</Question>
+			<Answer>Sturge-Weber syndrome is a neurological disorder indicated at birth by a port-wine stain birthmark on the forehead and upper eyelid of one side of the face. The birthmark can vary in color from light pink to deep purple and is caused by an overabundance of capillaries around the trigeminal nerve just beneath the surface of the face. Sturge-Weber syndrome is also accompanied by abnormal blood vessels on the brain surface and the loss of nerve cells and calcification of underlying tissue in the cerebral cortex of the brain on the same side of the brain as the birthmark. Neurological symptoms include seizures that begin in infancy and may worsen with age. Convulsions usually happen on the side of the body opposite the birthmark and vary in severity. There may be intermittent or permanent muscle weakness on the same side. Some children will have developmental delays and cognitive impairment; most will have glaucoma (increased pressure within the eye) at birth or developing later. The increased pressure within the eye can cause the eyeball to enlarge and bulge out of its socket (buphthalmos). There is an increased risk for migraine headaches. Sturge-Weber syndrome rarely affects other body organs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000119-2" qtype="treatment">What are the treatments for Sturge-Weber Syndrome ?</Question>
+			<Answer>Treatment for Sturge-Weber syndrome is symptomatic. Laser treatment may be used to lighten or remove the birthmark.  Anticonvulsant medications may be used to control seizures. Persons with drug-resistant seizures may be treated by surgical removal of epileptic brain tissue. Surgery may be performed on more serious cases of glaucoma. Physical therapy should be considered for infants and children with muscle weakness. Educational therapy is often prescribed for those with impaired cognition or developmental delays. Doctors recommend yearly monitoring for glaucoma.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000119-3" qtype="outlook">What is the outlook for Sturge-Weber Syndrome ?</Question>
+			<Answer>Although it is possible for the birthmark and atrophy in the cerebral cortex to be present without symptoms, most infants will develop convulsive seizures during their first year of life. There is a greater likelihood of intellectual impairment when seizures start before the age of 2 and are resistant to treatment. Prognosis is worst in the minority of children who have both sides of the brain affected by the blood vessel abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000119-4" qtype="research">what research (or clinical trials) is being done for Sturge-Weber Syndrome ?</Question>
+			<Answer>The NINDS supports a broad program of research to better understand congenital seizure disorders. This research is aimed at developing techniques to diagnose, treat, prevent, and ultimately cure disorders such as Sturge-Weber syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000225" source="NINDS" url="http://www.ninds.nih.gov/disorders/paroxysmal_hemicrania/paroxysmal_hemicrania.htm">
+<Focus>Paroxysmal Hemicrania</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1399352</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000225-1" qtype="information">What is (are) Paroxysmal Hemicrania ?</Question>
+			<Answer>Paroxysmal hemicrania is a rare form of headache that usually begins in adulthood. Patients experience severe throbbing, claw-like, or boring pain usually on one side of the face; in, around, or behind the eye; and occasionally reaching to the back of the neck. This pain may be accompanied by red and tearing eyes, a drooping or swollen eyelid on the affected side of the face, and nasal congestion. Patients may also feel dull pain, soreness, or tenderness between attacks. Attacks of paroxysmal hemicrania typically occur from 5 to 40 times per day and last 2 to 30 minutes. The disorder has two forms: chronic, in which patients experience attacks on a daily basis for a year or more, and episodic, in which the headaches may remit for months or years. Certain movements of the head or neck or external pressure to the neck may trigger these headaches in some patients. The disorder is more common in women than in men.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000225-2" qtype="treatment">What are the treatments for Paroxysmal Hemicrania ?</Question>
+			<Answer>The nonsteroidal anti-inflammatory drug (NSAID) indomethacin often provides complete relief from symptoms. Other less effective NSAIDs, calcium-channel blocking drugs (such as verapamil), and corticosteroids may be used to treat the disorder. Patients with both paroxysmal hemicrania and trigeminal neuralgia (a condition of the 5th cranial nerve that causes sudden, severe pain typically felt on one side of the jaw or cheek) should receive treatment for each disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000225-3" qtype="outlook">What is the outlook for Paroxysmal Hemicrania ?</Question>
+			<Answer>Many patients experience complete to near-complete relief of symptoms following physician-supervised medical treatment. Paroxysmal hemicrania may last indefinitely but has been known to go into remission or stop spontaneously.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000225-4" qtype="research">what research (or clinical trials) is being done for Paroxysmal Hemicrania ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) support research related to paroxysmal hemicrania through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure headache disorders such as paroxysmal hemicrania.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

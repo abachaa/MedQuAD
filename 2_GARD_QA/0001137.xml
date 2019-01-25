@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001137" source="GARD" url="https://rarediseases.info.nih.gov/gard/9232/chiari-malformation-type-2">
+<Focus>Chiari malformation type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000768</CUI>
+			<CUI>C0555206</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Arnold-Chiari malformation</Synonym>
+		<Synonym>Chiari type II malformation</Synonym>
+		<Synonym>Chiari malformation type II</Synonym>
+		<Synonym>Arnold Chiari malformation type II</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001137-1" qtype="information">What is (are) Chiari malformation type 2 ?</Question>
+			<Answer>Chiari malformation type 2 (CM type II) is a type of Chiari malformation in which both the cerebellum and brain stem tissue extend into the foramen magnum (the hole at the skull base for passing of the spinal cord). This form is often accompanied by a type of spina bifida called myelomeningocele, and can also be accompanied by syringomyelia, hydrocephalus, or other abnormalities. Symptoms in infants may include stridor (wheezing sound); difficulty swallowing (dysphagia); feeding difficulties; hypotonia; and weak cry. Symptoms in children and/or adults may include headache; fatigue; loss of vision; tingling extremities; nausea; dysphagia; dizziness; muscle weakness; and ataxia. Adults and adolescents who previously had no symptoms may begin to have symptoms later in life. The exact cause of the condition is not known but it appears to be due to a developmental failure of the brain stem and upper spine. The term Arnold-Chiari malformation is technically specific to type II but may sometimes be used to describe other types of Chiari malformations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001137-2" qtype="symptoms">What are the symptoms of Chiari malformation type 2 ?</Question>
+			<Answer>What are the signs and symptoms of Chiari malformation type 2? The Human Phenotype Ontology provides the following list of signs and symptoms for Chiari malformation type 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Agenesis of corpus callosum 33% Arnold-Chiari malformation - Ataxia - Bulbar signs - Cervical myelopathy - Cyanosis - Dysphagia - Feeding difficulties - Heterotopia - Hydrocephalus - Inspiratory stridor - Limb muscle weakness - Multifactorial inheritance - Muscular hypotonia - Nystagmus - Occipital neuralgia - Opisthotonus - Spina bifida - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001137-3" qtype="inheritance">Is Chiari malformation type 2 inherited ?</Question>
+			<Answer>Is Chiari malformation type 2 inherited? Chiari malformation type 2 typically occurs sporadically (in individuals with no history of the condition in the family). However, the exact cause of Chiari malformation type 2 is not known. Genes may play a role in predisposing an individual to the condition, but environmental factors (such as lack of proper vitamins or nutrients in the maternal diet during pregnancy) may also contribute to the condition. Because the cause is unclear, it is not currently possible to estimate what the recurrence risk for family members may be. There have been reports in the medical literature of families in which more than one family member was affected with a Chiari malformation. However, a search of the available medical literature yields limited information specific to familial cases of Chiari malformation type 2. One article written by Lindenberg and Walker in 1971 describes the Arnold-Chiari malformation in 2 sisters; both also had hydrocephalus and meningomyelocele.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

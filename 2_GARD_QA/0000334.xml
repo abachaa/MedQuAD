@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000334" source="GARD" url="https://rarediseases.info.nih.gov/gard/1537/andermann-syndrome">
+<Focus>Andermann syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0795950</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Charlevoix disease</Synonym>
+		<Synonym>Corpus callosum agenesis neuronopathy</Synonym>
+		<Synonym>Polyneuropathy, sensorimotor, with or without agenesis of the corpus callosum</Synonym>
+		<Synonym>Agenesis of corpus callosum with neuronopathy</Synonym>
+		<Synonym>ACCPN</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000334-1" qtype="information">What is (are) Andermann syndrome ?</Question>
+			<Answer>Andermann syndrome (AS) is a disorder that damages the nerves used for muscle movement and sensation (motor and sensory neuropathy). Agenesis or malformation of the corpus callosum also occurs in most people with this disorder. Signs and symptoms of the disorder include areflexia; hypotonia; amyotrophy; severe progressive weakness and loss of sensation in the limbs; and tremors. Affected individuals typically begin walking late and lose this ability by their teenage years. Other features may include intellectual disability, seizures, contractures, scoliosis, various psychiatric symptoms, various atypical physical features, and cranial nerve problems that cause facial muscle weakness, ptosis, and difficulty following movements with the eyes (gaze palsy). It is caused by mutations in the SLC12A6 gene and is inherited in an autosomal recessive manner. AS is associated with a shortened life expectancy, but affected individuals typically live into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000334-2" qtype="symptoms">What are the symptoms of Andermann syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Andermann syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Andermann syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aplasia/Hypoplasia of the corpus callosum 90% Cognitive impairment 90% EEG abnormality 90% Hemiplegia/hemiparesis 90% Microcephaly 90% Seizures 90% Aqueductal stenosis 50% Abnormality of retinal pigmentation 7.5% Craniosynostosis 7.5% Myopia 7.5% Nystagmus 7.5% Strabismus 7.5% 2-3 toe syndactyly - Agenesis of corpus callosum - Areflexia - Autosomal recessive inheritance - Axonal degeneration/regeneration - Brachycephaly - Decreased motor nerve conduction velocity - Decreased sensory nerve conduction velocity - EMG: chronic denervation signs - Facial asymmetry - Facial diplegia - Flexion contracture - Generalized hypotonia - High palate - Hypertelorism - Hypoplasia of the maxilla - Increased CSF protein - Intellectual disability - Limb muscle weakness - Limb tremor - Long face - Low anterior hairline - Macrotia - Motor delay - Motor polyneuropathy - Narrow forehead - Neonatal hypotonia - Onion bulb formation - Peripheral axonal neuropathy - Polyneuropathy - Progressive - Psychosis - Ptosis - Respiratory tract infection - Restrictive respiratory insufficiency - Scoliosis - Sensory neuropathy - Short nose - Skeletal muscle atrophy - Tapered finger - Ventriculomegaly - Wide nasal bridge - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

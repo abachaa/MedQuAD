@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000258" source="GARD" url="https://rarediseases.info.nih.gov/gard/621/alpha-thalassemia">
+<Focus>Alpha-thalassemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002312</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>A-Thalassemia</Synonym>
+		<Synonym>Alpha thalassemia</Synonym>
+		<Synonym>Hemoglobinopathy</Synonym>
+		<Synonym>Thalassemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000258-1" qtype="information">What is (are) Alpha-thalassemia ?</Question>
+			<Answer>Alpha-thalassemia is a blood disorder that reduces the body&apos;s production of hemoglobin. Affected people have anemia, which can cause pale skin, weakness, fatigue, and more serious complications. Two types of alpha-thalassemia can cause health problems: the more severe type is known as Hb Bart syndrome; the milder form is called HbH disease. Hb Bart syndrome may be characterized by hydrops fetalis; severe anemia; hepatosplenomegaly; heart defects; and abnormalities of the urinary system or genitalia. Most babies with this condition are stillborn or die soon after birth. HbH disease may cause mild to moderate anemia; hepatosplenomegaly; jaundice; or bone changes. Alpha-thalassemia typically results from deletions involving the HBA1 and HBA2 genes. The inheritance is complex, and can be read about here. No treatment is effective for Hb Bart syndrome. For HbH disease, occasional red blood cell transfusions may be needed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000258-2" qtype="symptoms">What are the symptoms of Alpha-thalassemia ?</Question>
+			<Answer>What are the signs and symptoms of Alpha-thalassemia? The Human Phenotype Ontology provides the following list of signs and symptoms for Alpha-thalassemia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the heme biosynthetic pathway 90% Abnormality of immune system physiology 7.5% Biliary tract abnormality 7.5% Cognitive impairment 7.5% Hemolytic anemia 7.5% Hydrops fetalis 7.5% Hypersplenism 7.5% Myelodysplasia 7.5% Splenomegaly 7.5% Hypochromic microcytic anemia - Reduced alpha/beta synthesis ratio - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000258-3" qtype="inheritance">Is Alpha-thalassemia inherited ?</Question>
+			<Answer>How is alpha-thalassemia inherited? The inheritance of alpha-thalassemia is complex because the condition involves two genes: HBA1 and HBA2. People have two copies of the HBA1 gene and two copies of the HBA2 gene in each cell. Each copy is called an allele. Therefore, there are 4 alleles that produce alpha-globin, the protein that results from these genes. For each of the 2 genes, one allele is inherited from a person&apos;s father, and the other is inherited from a person&apos;s mother - so each person inherits 2 alleles from each parent. The different types of alpha-thalassemia result from the loss of some or all of these alleles. If both parents are missing at least one alpha-globin allele, each of their children are at risk of having Hb Bart syndrome or hydrops fetalis, hemoglobin H (HbH) disease, or alpha-thalassemia trait. The precise risk depends on how many alleles are missing and which combination of the HBA1 and HBA2 genes is affected. In most cases: a person with 1 mutated allele is a carrier and has no signs or symptoms a person with 2 mutated alleles may have mild signs or symptoms of alpha-thalassemia (called alpha-thalassemia minor, or alpha-thalassemia trait) a person with 3 mutated alleles has moderate to severe symptoms (called HbH disease) When there are 4 mutated alleles, the condition is called alpha-thalassemia major or hydrops fetalis. In these cases, an affected fetus usually does not survive to birth, or an affected newborn does not survive long after birth.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000258-4" qtype="treatment">What are the treatments for Alpha-thalassemia ?</Question>
+			<Answer>How might alpha-thalassemia be treated? Treatment of alpha-thalassemia often includes blood transfusions to provide healthy blood cells that have normal hemoglobin.  Bone marrow transplant has helped to cure a small number of individuals with severe alpha-thalassemia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

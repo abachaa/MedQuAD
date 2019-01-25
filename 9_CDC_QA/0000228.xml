@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000228" source="CDC" url="http://www.cdc.gov/vhf/hendra/index.html">
+<Focus>Hendra Virus Disease (HeV)</Focus>
+<UMLS>
+<CUI></CUI>
+<SemanticType></SemanticType>
+<SemanticGroup></SemanticGroup>
+</UMLS>
+<QAPairs>
+<QAPair pid="1">
+<Question qid="0000228-1" qtype="susceptibility">Who is at risk for Hendra Virus Disease (HeV)? ?</Question>
+<Answer>Transmission of Hendra virus to humans can occur after exposure to body fluids and tissues or excretions of horses infected with Hendra virus. 
+ 
+Horses may be infected after exposure to virus in the urine of infected flying foxes. 
+ 
+To date, no human-to-human transmission has been documented.</Answer>
+</QAPair>
+<QAPair pid="2">
+<Question qid="0000228-2" qtype="symptoms">What are the symptoms of Hendra Virus Disease (HeV) ?</Question>
+<Answer>After an incubation of 9-16 days, infection with Hendra virus can lead to respiratory illness with severe flu-like signs and symptoms. In some cases, illness may progress to encephalitis. 
+                
+Although infection with Hendra virus is rare, the case fatality is high: 4/7 (57%).</Answer>
+</QAPair>
+<QAPair pid="3">
+<Question qid="0000228-3" qtype="susceptibility">Who is at risk for Hendra Virus Disease (HeV)? ?</Question>
+<Answer>Australia’s “Flying fox” bats (genus Pteropus) are the natural reservoir of Hendra virus. Serologic evidence for HeV infection have been found in all fours species of Australian flying foxes, but spillover of the virus in horses is limited to coastal and forested regions in Australia (Queensland and New South Wales states)  (see Henipavirus Distribution Map). 
+                
+People at highest risk are those living within the distribution of the flying foxes and with occupational or recreational exposure to horses that have had potential contact with flying foxes in Australia.</Answer>
+</QAPair>
+<QAPair pid="4">
+<Question qid="0000228-4" qtype="exams and tests">How to diagnose Hendra Virus Disease (HeV) ?</Question>
+<Answer>Laboratory tests that are used to diagnose Hendra virus (HV) and Nipah virus (NV) include detection of antibody by ELISA (IgG and IgM), real time polymerase chain reaction (RT-PCR), and virus isolation attempts.  In most countries, handling Hendra virus needs to be done in high containment laboratories. Laboratory diagnosis of a patient with a clinical history of HV or NV can be made during the acute and convalescent phase of the disease by using a combination of tests including detection of antibody in the serum or the cerebrospinal fluid (CSF), viral RNA detection (RT-PCR) in the serum, CSF, or throat swabs, and virus isolation from the CSF or throat swabs.</Answer>
+</QAPair>
+<QAPair pid="5">
+<Question qid="0000228-5" qtype="treatment">What are the treatments for Hendra Virus Disease (HeV) ?</Question>
+<Answer>The drug ribavirin has been shown to be effective against the viruses in vitro, but the clinical usefulness of this drug is uncertain. 
+                
+A post-exposure therapy with a Nipah/Hendra neutralizing antibody, efficacious in animal models is in human preclinical development stages in Australia.</Answer>
+</QAPair>
+<QAPair pid="6">
+<Question qid="0000228-6" qtype="prevention">How to prevent Hendra Virus Disease (HeV) ?</Question>
+<Answer>The occurrence of the disease in humans has been associated only with infection of an intermediate species such as horses.  Early recognition of the disease in the intermediate animal host is probably the most crucial means of limiting future human cases.  
+                
+Hendra virus infection can be prevented by avoiding horses that are ill or may be infected with HeV and using appropriate personal protective equipment when contact is necessary, as in veterinary procedures. 
+                
+A commercial vaccine has been recently licensed in Australia for horses and could be beneficial for other animal species and eventually humans.</Answer>
+</QAPair>
+</QAPairs>
+</Document>

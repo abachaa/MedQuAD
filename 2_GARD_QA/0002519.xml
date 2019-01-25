@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002519" source="GARD" url="https://rarediseases.info.nih.gov/gard/9501/geniospasm">
+<Focus>Geniospasm</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1860972</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Trembling chin</Synonym>
+		<Synonym>GSM 1</Synonym>
+		<Synonym>Hereditary chin tremor/myoclonus</Synonym>
+		<Synonym>Hereditary geniospasm</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002519-1" qtype="information">What is (are) Geniospasm ?</Question>
+			<Answer>Hereditary geniospasm is a movement disorder that causes episodes of involuntary tremors of the chin and lower lip. The episodes may last anywhere from a few seconds to hours and may occur spontaneously or be brought on by stress. The episodes usually first appear in infancy or childhood and tend to lessen in frequency with age. Hereditary geniospasm is believed to be inherited in an autosomal dominant pattern. Although the exact gene(s) that cause the condition are unknown, it has been suggested that mutations in a gene on chromosome 9 may be responsible in some families.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002519-2" qtype="symptoms">What are the symptoms of Geniospasm ?</Question>
+			<Answer>What are the signs and symptoms of Geniospasm? The Human Phenotype Ontology provides the following list of signs and symptoms for Geniospasm. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Chin myoclonus - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002519-3" qtype="inheritance">Is Geniospasm inherited ?</Question>
+			<Answer>How is hereditary geniospasm inherited? Hereditary geniospasm is inherited in an autosomal dominant manner. This means that having only one mutated copy of the causative gene in each body cell is sufficient to cause signs and symptoms of the condition. When an individual with an autosomal dominant condition has children, each child has a 50% (1 in 2) chance to inherit the mutated copy of the gene and also be affected. Because there is a 50% chance for each child, it is possible for all of the children of an affected individual to be affected, or likewise, for all of the children to be unaffected.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002519-4" qtype="exams and tests">How to diagnose Geniospasm ?</Question>
+			<Answer>How might hereditary geniospasm be diagnosed? Although we were unable to locate laboratories offering genetic testing for hereditary geniospasm, the condition can be diagnosed on the basis of a clinical evaluation performed by a health care professional such as a neurologist who specializes in movement disorders.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002519-5" qtype="treatment">What are the treatments for Geniospasm ?</Question>
+			<Answer>How might hereditary geniospasm be treated? Hereditary geniospasm, which may also be referred to as hereditary essential chin myoclonus, is generally considered a benign disorder although in some cases it can cause anxiety and social embarrassment. Significant improvement with age has been reported. Several drugs are used to treat myoclonus, such as benzodiazepines and anticonvulsants. However, individuals may not respond to a single medication and may experience significant side effects if a combination of drugs is used. It has also been suggested that botulinum toxin be considered as a primary treatment because it has been shown to be effective and well tolerated.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

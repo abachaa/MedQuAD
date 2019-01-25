@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004371" source="GARD" url="https://rarediseases.info.nih.gov/gard/7191/neurofibroma">
+<Focus>Neurofibroma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027830</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Benign peripheral nerve sheath tumor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004371-1" qtype="information">What is (are) Neurofibroma ?</Question>
+			<Answer>A neurofibroma is a non-cancerous (benign) tumor that develops from the cells and tissues that cover nerves. Some people who develop neurofibromas have a genetic condition known as neurofibromatosis (NF). There are different types of NF, but type 1 is the most common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

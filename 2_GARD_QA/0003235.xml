@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003235" source="GARD" url="https://rarediseases.info.nih.gov/gard/6789/intestinal-pseudo-obstruction">
+<Focus>Intestinal pseudo-obstruction</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0021847</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Intestinal pseudoobstruction</Synonym>
+		<Synonym>Hollow visceral myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003235-1" qtype="information">What is (are) Intestinal pseudo-obstruction ?</Question>
+			<Answer>Intestinal pseudo-obstruction is a digestive disorder in which the intestinal walls are unable to contract normally (called hypomotility); the condition resembles a true obstruction, but no actual blockage exists. Signs and symptoms may include abdominal pain; vomiting; diarrhea; constipation; malabsorption of nutrients leading to weight loss and/or failure to thrive; and other symptoms. It may be classified as neuropathic (from lack of nerve function) or myopathic (from lack of muscle function), depending on the source of the abnormality. The condition is sometimes inherited (in an X-linked recessive or autosomal dominant manner) and may be caused by mutations in the FLNA gene; it may also be acquired after certain illnesses. The goal of treatment is to provide relief from symptoms and ensure that nutritional support is adequate.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

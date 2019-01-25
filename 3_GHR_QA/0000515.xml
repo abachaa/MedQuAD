@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000515" source="GHR" url="https://ghr.nlm.nih.gov/condition/inclusion-body-myopathy-2">
+<Focus>inclusion body myopathy 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1853926</CUI>
+			<CUI>C0026848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Distal myopathy with rimmed vacuoles</Synonym>
+		<Synonym>DMRV</Synonym>
+		<Synonym>Hereditary inclusion body myopathy</Synonym>
+		<Synonym>HIBM</Synonym>
+		<Synonym>IBM2</Synonym>
+		<Synonym>Inclusion body myopathy, autosomal recessive</Synonym>
+		<Synonym>Inclusion body myopathy, quadriceps-sparing</Synonym>
+		<Synonym>Nonaka myopathy</Synonym>
+		<Synonym>QSM</Synonym>
+		<Synonym>Rimmed vacuole myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000515-1" qtype="information">What is (are) inclusion body myopathy 2 ?</Question>
+			<Answer>Inclusion body myopathy 2 is a condition that primarily affects skeletal muscles, which are muscles that the body uses for movement. This disorder causes muscle weakness that appears in late adolescence or early adulthood and worsens over time.  The first sign of inclusion body myopathy 2 is weakness of a muscle in the lower leg called the tibialis anterior. This muscle helps control up-and-down movement of the foot. Weakness in the tibialis anterior alters the way a person walks and makes it difficult to run and climb stairs. As the disorder progresses, weakness also develops in muscles of the upper legs, hips, shoulders, and hands. Unlike most forms of myopathy, inclusion body myopathy 2 usually does not affect the quadriceps, which are a group of large muscles at the front of the thigh. This condition also does not affect muscles of the eye or heart, and it does not cause neurological problems. Weakness in leg muscles makes walking increasingly difficult, and most people with inclusion body myopathy 2 require wheelchair assistance within 20 years after signs and symptoms appear.  People with the characteristic features of inclusion body myopathy 2 have been described in several different populations. When the condition was first reported in Japanese families, researchers called it distal myopathy with rimmed vacuoles (DMRV) or Nonaka myopathy. When a similar disorder was discovered in Iranian Jewish families, researchers called it rimmed vacuole myopathy or hereditary inclusion body myopathy (HIBM). It has since become clear that these conditions are variations of a single disorder caused by mutations in the same gene.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000515-2" qtype="frequency">How many people are affected by inclusion body myopathy 2 ?</Question>
+			<Answer>More than 200 people with inclusion body myopathy 2 have been reported. Most are of Iranian Jewish descent; the condition affects an estimated 1 in 1,500 people in this population. Additionally, at least 15 people in the Japanese population have been diagnosed with this disorder. Inclusion body myopathy 2 has also been found in several other ethnic groups worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000515-3" qtype="genetic changes">What are the genetic changes related to inclusion body myopathy 2 ?</Question>
+			<Answer>Mutations in the GNE gene cause inclusion body myopathy 2. The GNE gene provides instructions for making an enzyme found in cells and tissues throughout the body. This enzyme is involved in a chemical pathway that produces sialic acid, which is a simple sugar that attaches to the ends of more complex molecules on the surface of cells. By modifying these molecules, sialic acid influences a wide variety of cellular functions including cell movement (migration), attaching cells to one another (adhesion), signaling between cells, and inflammation.  The mutations responsible for inclusion body myopathy 2 reduce the activity of the enzyme produced from the GNE gene, which decreases the production of sialic acid. As a result, less of this simple sugar is available to attach to cell surface molecules. Researchers are working to determine how a shortage of sialic acid leads to progressive muscle weakness in people with inclusion body myopathy 2. Sialic acid is important for the normal function of many different cells and tissues, so it is unclear why the signs and symptoms of this disorder appear to be limited to the skeletal muscles.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000515-4" qtype="inheritance">Is inclusion body myopathy 2 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000515-5" qtype="treatment">What are the treatments for inclusion body myopathy 2 ?</Question>
+			<Answer>These resources address the diagnosis or management of inclusion body myopathy 2:  - Gene Review: Gene Review: GNE-Related Myopathy  - Genetic Testing Registry: Inclusion body myopathy 2  - Genetic Testing Registry: Nonaka myopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

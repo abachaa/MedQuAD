@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000572" source="GHR" url="https://ghr.nlm.nih.gov/condition/lactate-dehydrogenase-deficiency">
+<Focus>lactate dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deficiency of lactate dehydrogenase</Synonym>
+		<Synonym>lactate dehydrogenase subunit deficiencies</Synonym>
+		<Synonym>LDH deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000572-1" qtype="information">What is (are) lactate dehydrogenase deficiency ?</Question>
+			<Answer>Lactate dehydrogenase deficiency is a condition that affects how the body breaks down sugar to use as energy in cells, primarily muscle cells.  There are two types of this condition: lactate dehydrogenase-A deficiency (sometimes called glycogen storage disease XI) and lactate dehydrogenase-B deficiency.  People with lactate dehydrogenase-A deficiency experience fatigue, muscle pain, and cramps during exercise (exercise intolerance). In some people with lactate dehydrogenase-A deficiency, high-intensity exercise or other strenuous activity leads to the breakdown of muscle tissue (rhabdomyolysis). The destruction of muscle tissue releases a protein called myoglobin, which is processed by the kidneys and released in the urine (myoglobinuria). Myoglobin causes the urine to be red or brown. This protein can also damage the kidneys, in some cases leading to life-threatening kidney failure. Some people with lactate dehydrogenase-A deficiency develop skin rashes. The severity of the signs and symptoms among individuals with lactate dehydrogenase-A deficiency varies greatly.  People with lactate dehydrogenase-B deficiency typically do not have any signs or symptoms of the condition. They do not have difficulty with physical activity or any specific physical features related to the condition. Affected individuals are usually discovered only when routine blood tests reveal reduced lactate dehydrogenase activity.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000572-2" qtype="frequency">How many people are affected by lactate dehydrogenase deficiency ?</Question>
+			<Answer>Lactate dehydrogenase deficiency is a rare disorder. In Japan, this condition affects 1 in 1 million individuals; the prevalence of lactate dehydrogenase deficiency in other countries is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000572-3" qtype="genetic changes">What are the genetic changes related to lactate dehydrogenase deficiency ?</Question>
+			<Answer>Mutations in the LDHA gene cause lactate dehydrogenase-A deficiency, and mutations in the LDHB gene cause lactate dehydrogenase-B deficiency. These genes provide instructions for making the lactate dehydrogenase-A and lactate dehydrogenase-B pieces (subunits) of the lactate dehydrogenase enzyme. This enzyme is found throughout the body and is important for creating energy for cells. There are five different forms of this enzyme, each made up of four protein subunits. Various combinations of the lactate dehydrogenase-A and lactate dehydrogenase-B subunits make up the different forms of the enzyme.  The version of lactate dehydrogenase made of four lactate dehydrogenase-A subunits is found primarily in skeletal muscles, which are muscles used for movement. Skeletal muscles need large amounts of energy during high-intensity physical activity when the body&apos;s oxygen intake is not sufficient for the amount of energy required (anaerobic exercise). During anaerobic exercise, the lactate dehydrogenase enzyme is involved in the breakdown of sugar stored in the muscles (in the form of glycogen) to create additional energy. During the final stage of glycogen breakdown, lactate dehydrogenase converts a molecule called pyruvate to a similar molecule called lactate.  Mutations in the LDHA gene result in the production of an abnormal lactate dehydrogenase-A subunit that cannot attach (bind) to other subunits to form the lactate dehydrogenase enzyme. A lack of functional subunit reduces the amount of enzyme that is formed, mostly affecting skeletal muscles. As a result, glycogen is not broken down efficiently, leading to decreased energy in muscle cells. When muscle cells do not get sufficient energy during exercise or strenuous activity, the muscles become weak and muscle tissue can break down, as experienced by people with lactate dehydrogenase-A deficiency.  The version of lactate dehydrogenase made of four lactate dehydrogenase-B subunits is found primarily in heart (cardiac) muscle. In cardiac muscle, lactate dehydrogenase converts lactate to pyruvate, which can participate in other chemical reactions to create energy. LDHB gene mutations lead to the production of an abnormal lactate dehydrogenase-B subunit that cannot form the lactate dehydrogenase enzyme. Even though lactate dehydrogenase activity is decreased in the cardiac muscle of people with lactate dehydrogenase-B deficiency, they do not appear to have any signs or symptoms related to their condition. It is unclear why this type of enzyme deficiency does not cause any health problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000572-4" qtype="inheritance">Is lactate dehydrogenase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000572-5" qtype="treatment">What are the treatments for lactate dehydrogenase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of lactate dehydrogenase deficiency:  - Genetic Testing Registry: Glycogen storage disease XI  - Genetic Testing Registry: Lactate dehydrogenase B deficiency  - MedlinePlus Encyclopedia: LDH Isoenzymes  - MedlinePlus Encyclopedia: Lactate Dehydrogenase Test   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

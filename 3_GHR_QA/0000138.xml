@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000138" source="GHR" url="https://ghr.nlm.nih.gov/condition/brody-myopathy">
+<Focus>Brody myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1832918</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Brody disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000138-1" qtype="information">What is (are) Brody myopathy ?</Question>
+			<Answer>Brody myopathy is a condition that affects the skeletal muscles, which are the muscles used for movement. Affected individuals experience muscle cramping and stiffening after exercise or other strenuous activity, especially in cold temperatures. These symptoms typically begin in childhood. They are usually painless, but in some cases can cause mild discomfort. The muscles usually relax after a few minutes of rest. Most commonly affected are the muscles of the arms, legs, and face (particularly the eyelids).  In some people with Brody myopathy, exercise leads to the breakdown of muscle tissue (rhabdomyolysis). The destruction of muscle tissue releases a protein called myoglobin, which is processed by the kidneys and released in the urine (myoglobinuria). Myoglobin causes the urine to be red or brown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000138-2" qtype="frequency">How many people are affected by Brody myopathy ?</Question>
+			<Answer>Brody myopathy is a rare condition, although its exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000138-3" qtype="genetic changes">What are the genetic changes related to Brody myopathy ?</Question>
+			<Answer>Mutations in the ATP2A1 gene cause Brody myopathy. The ATP2A1 gene provides instructions for making an enzyme called sarco(endo)plasmic reticulum calcium-ATPase 1 (SERCA1). The SERCA1 enzyme is found in skeletal muscle cells, specifically in the membrane of a structure called the sarcoplasmic reticulum. This structure plays a major role in muscle contraction and relaxation by storing and releasing positively charged calcium atoms (calcium ions). When calcium ions are transported out of the sarcoplasmic reticulum, muscles contract; when calcium ions are transported into the sarcoplasmic reticulum, muscles relax. The SERCA1 enzyme transports calcium ions from the cell into the sarcoplasmic reticulum, triggering muscle relaxation.  ATP2A1 gene mutations lead to the production of a SERCA1 enzyme with decreased or no function. As a result, calcium ions are slow to enter the sarcoplasmic reticulum and muscle relaxation is delayed. After exercise or strenuous activity, during which the muscles rapidly contract and relax, people with Brody myopathy develop muscle cramps because their muscles cannot fully relax.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000138-4" qtype="inheritance">Is Brody myopathy inherited ?</Question>
+			<Answer>Brody myopathy is usually inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Some people with autosomal recessive Brody myopathy do not have an identified mutation in the ATP2A1 gene; the cause of the disease in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000138-5" qtype="treatment">What are the treatments for Brody myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of Brody myopathy:  - Genetic Testing Registry: Brody myopathy  - New York Presbyterian Hospital: Myopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

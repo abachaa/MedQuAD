@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000704" source="GHR" url="https://ghr.nlm.nih.gov/condition/myoclonus-dystonia">
+<Focus>myoclonus-dystonia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1834570</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alcohol-responsive dystonia</Synonym>
+		<Synonym>DYT11</Synonym>
+		<Synonym>hereditary essential myoclonus</Synonym>
+		<Synonym>myoclonic dystonia</Synonym>
+		<Synonym>myoclonus-dystonia syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000704-1" qtype="information">What is (are) myoclonus-dystonia ?</Question>
+			<Answer>Myoclonus-dystonia is a movement disorder that typically affects the upper half of the body. Individuals with this condition experience quick, involuntary muscle jerking or twitching (myoclonus) that usually affects their arms, neck, and trunk. Less frequently, the legs are involved as well. More than half of affected individuals also develop dystonia, which is a pattern of involuntary muscle contractions that causes twisting and pulling movements of specific body parts. The dystonia associated with myoclonus-dystonia may affect a single part of the body, causing isolated problems such as a writer&apos;s cramp in the hand, or it may involve multiple areas of the body. Rarely, people with this condition have dystonia as their only symptom.  The movement problems usually appear in childhood or early adolescence, and myoclonus is typically the initial symptom. Myoclonus may be triggered by movement or stimulation of the affected body area, stress, sudden noise, or caffeine. In some cases, the myoclonus gets worse over time; in other cases, people experience a spontaneous improvement (remission) of their symptoms. It is unclear why the movement abnormalities improve in some people but not in others.  People with myoclonus-dystonia may have an increased risk for developing psychological conditions such as depression, anxiety, panic attacks, and obsessive-compulsive disorder (OCD).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000704-2" qtype="frequency">How many people are affected by myoclonus-dystonia ?</Question>
+			<Answer>The prevalence of myoclonus-dystonia is unknown. This condition has been described in people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000704-3" qtype="genetic changes">What are the genetic changes related to myoclonus-dystonia ?</Question>
+			<Answer>Mutations in the SGCE gene cause myoclonus-dystonia. The SGCE gene provides instructions for making a protein called epsilon ()-sarcoglycan, whose function is unknown. The -sarcoglycan protein is located within the cell membranes of many tissues, but it is most abundant in nerve cells (neurons) in the brain and in muscle cells.  SGCE gene mutations that cause myoclonus-dystonia result in a shortage of -sarcoglycan protein. The protein shortage seems to affect the regions of the brain involved in coordinating movements (the cerebellum) and controlling movements (the basal ganglia). Thus, the movement problems experienced by people with myoclonus-dystonia are caused by dysfunction in the brain, not the muscles. People with this condition show no signs of muscle disease. It is unknown why SGCE gene mutations seem only to affect the brain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000704-4" qtype="inheritance">Is myoclonus-dystonia inherited ?</Question>
+			<Answer>Myoclonus-dystonia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  People normally inherit one copy of each gene from their mother and one copy from their father. For most genes, both copies are active, or &quot;turned on,&quot; in all cells. For a small subset of genes, however, only one of the two copies is active. For some of these genes, only the copy inherited from a person&apos;s father (the paternal copy) is active, while for other genes, only the copy inherited from a person&apos;s mother (the maternal copy) is active. These differences in gene activation based on the gene&apos;s parent of origin are caused by a phenomenon called genomic imprinting.  Only the paternal copy of the SGCE gene is active. Myoclonus-dystonia occurs when mutations affect the paternal copy of the SGCE gene. Mutations in the maternal copy of the gene typically do not cause any health problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000704-5" qtype="treatment">What are the treatments for myoclonus-dystonia ?</Question>
+			<Answer>These resources address the diagnosis or management of myoclonus-dystonia:  - Gene Review: Gene Review: Myoclonus-Dystonia  - Genetic Testing Registry: Myoclonic dystonia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

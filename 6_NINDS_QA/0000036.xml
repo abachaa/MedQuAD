@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000036" source="NINDS" url="http://www.ninds.nih.gov/disorders/dysautonomia/dysautonomia.htm">
+<Focus>Dysautonomia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013363</CUI>
+			<CUI>C1145628</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000036-1" qtype="information">What is (are) Dysautonomia ?</Question>
+			<Answer>Dysautonomia refers to a disorder of autonomic nervous system (ANS) function that generally involves failure of the sympathetic or parasympathetic components of the ANS, but dysautonomia involving excessive or overactive ANS actions also can occur. Dysautonomia can be local, as in reflex sympathetic dystrophy, or generalized, as in pure autonomic failure. It can be acute and reversible, as in Guillain-Barre syndrome, or chronic and progressive. Several common conditions such as diabetes and alcoholism can include dysautonomia. Dysautonomia also can occur as a primary condition or in association with degenerative neurological diseases such as Parkinson&apos;s disease. Other diseases with generalized, primary dysautonomia include multiple system atrophy and familial dysautonomia. Hallmarks of generalized dysautonomia due to sympathetic failure are impotence (in men) and a fall in blood pressure during standing (orthostatic hypotension). Excessive sympathetic activity can present as hypertension or a rapid pulse rate.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000036-2" qtype="treatment">What are the treatments for Dysautonomia ?</Question>
+			<Answer>There is usually no cure for dysautonomia. Secondary forms may improve with treatment of the underlying disease. In many cases treatment of primary dysautonomia is symptomatic and supportive. Measures to combat orthostatic hypotension include elevation of the head of the bed, water bolus (rapid infusion of water given intravenously), a high-salt diet, and drugs such as fludrocortisone and midodrine.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000036-3" qtype="outlook">What is the outlook for Dysautonomia ?</Question>
+			<Answer>The outlook for individuals with dysautonomia depends on the particular diagnostic category. People with chronic, progressive, generalized dysautonomia in the setting of central nervous system degeneration have a generally poor long-term prognosis. Death can occur from pneumonia, acute respiratory failure, or sudden cardiopulmonary arrest.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000036-4" qtype="research">what research (or clinical trials) is being done for Dysautonomia ?</Question>
+			<Answer>The NINDS supports and conducts research on dysautonomia. This research aims to discover ways to diagnose, treat, and, ultimately, prevent these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

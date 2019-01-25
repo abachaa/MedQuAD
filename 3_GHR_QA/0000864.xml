@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000864" source="GHR" url="https://ghr.nlm.nih.gov/condition/renal-coloboma-syndrome">
+<Focus>renal coloboma syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1852759</CUI>
+			<CUI>C0009363</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>coloboma of optic nerve with renal disease</Synonym>
+		<Synonym>coloboma-ureteral-renal syndrome</Synonym>
+		<Synonym>ONCR</Synonym>
+		<Synonym>optic coloboma, vesicoureteral reflux, and renal anomalies</Synonym>
+		<Synonym>optic nerve coloboma renal syndrome</Synonym>
+		<Synonym>papillorenal syndrome</Synonym>
+		<Synonym>RCS</Synonym>
+		<Synonym>renal-coloboma syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000864-1" qtype="information">What is (are) renal coloboma syndrome ?</Question>
+			<Answer>Renal coloboma syndrome (also known as papillorenal syndrome) is a condition that primarily affects kidney (renal) and eye development. People with this condition typically have kidneys that are small and underdeveloped (hypoplastic), which can lead to end-stage renal disease (ESRD). This serious disease occurs when the kidneys are no longer able to filter fluids and waste products from the body effectively. It has been estimated that approximately ten percent of children with hypoplastic kidneys may have renal coloboma syndrome. The kidney problems can affect one or both kidneys.  Additionally, people with renal coloboma syndrome may have a malformation in the optic nerve, a structure that carries information from the eye to the brain. Optic nerve malformations are sometimes associated with a gap or hole (coloboma) in the light-sensitive tissue at the back of the eye (the retina). The vision problems caused by these abnormalities can vary depending on the size and location of the malformation. Some people have no visual problems, while others may have severely impaired vision.  Less common features of renal coloboma syndrome include backflow of urine from the bladder (vesicoureteral reflux), multiple kidney cysts, loose joints, and mild hearing loss.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000864-2" qtype="frequency">How many people are affected by renal coloboma syndrome ?</Question>
+			<Answer>The prevalence of renal coloboma syndrome is unknown; at least 60 cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000864-3" qtype="genetic changes">What are the genetic changes related to renal coloboma syndrome ?</Question>
+			<Answer>Renal coloboma syndrome is caused by mutations in the PAX2 gene. The PAX2 gene provides instructions for making a protein that is involved in the early development of the eyes, ears, brain and spinal cord (central nervous system), kidneys, and genital tract. The PAX2 protein attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the PAX2 protein is called a transcription factor. After birth, the PAX2 protein is thought to protect against cell death during periods of cellular stress.  Mutations in the PAX2 gene lead to the production of a nonfunctional PAX2 protein that is unable to aid in development, causing incomplete formation of certain tissues. Why the kidneys and eyes are specifically affected by PAX2 gene mutations is unclear.  Approximately half of those affected with renal coloboma syndrome do not have an identified mutation in the PAX2 gene. In these cases, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000864-4" qtype="inheritance">Is renal coloboma syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000864-5" qtype="treatment">What are the treatments for renal coloboma syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of renal coloboma syndrome:  - Gene Review: Gene Review: Renal Coloboma Syndrome  - Genetic Testing Registry: Renal coloboma syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

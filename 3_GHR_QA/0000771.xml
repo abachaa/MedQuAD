@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000771" source="GHR" url="https://ghr.nlm.nih.gov/condition/paramyotonia-congenita">
+<Focus>paramyotonia congenita</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221055</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Eulenburg disease</Synonym>
+		<Synonym>paralysis periodica paramyotonia</Synonym>
+		<Synonym>paramyotonia congenita of von Eulenburg</Synonym>
+		<Synonym>PMC</Synonym>
+		<Synonym>Von Eulenberg's disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000771-1" qtype="information">What is (are) paramyotonia congenita ?</Question>
+			<Answer>Paramyotonia congenita is a disorder that affects muscles used for movement (skeletal muscles). Beginning in infancy or early childhood, people with this condition experience bouts of sustained muscle tensing (myotonia) that prevent muscles from relaxing normally. Myotonia causes muscle stiffness that typically appears after exercise and can be induced by muscle cooling. This stiffness chiefly affects muscles in the face, neck, arms, and hands, although it can also affect muscles used for breathing and muscles in the lower body. Unlike many other forms of myotonia, the muscle stiffness associated with paramyotonia congenita tends to worsen with repeated movements.  Most peopleeven those without muscle diseasefeel that their muscles do not work as well when they are cold. This effect is dramatic in people with paramyotonia congenita. Exposure to cold initially causes muscle stiffness in these individuals, and prolonged cold exposure leads to temporary episodes of mild to severe muscle weakness that may last for several hours at a time. Some older people with paramyotonia congenita develop permanent muscle weakness that can be disabling.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000771-2" qtype="frequency">How many people are affected by paramyotonia congenita ?</Question>
+			<Answer>Paramyotonia congenita is an uncommon disorder; it is estimated to affect fewer than 1 in 100,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000771-3" qtype="genetic changes">What are the genetic changes related to paramyotonia congenita ?</Question>
+			<Answer>Mutations in the SCN4A gene cause paramyotonia congenita. This gene provides instructions for making a protein that is critical for the normal function of skeletal muscle cells. For the body to move normally, skeletal muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of positively charged atoms (ions), including sodium, into skeletal muscle cells. The SCN4A protein forms channels that control the flow of sodium ions into these cells.  Mutations in the SCN4A gene alter the usual structure and function of sodium channels. The altered channels cannot effectively regulate the flow of sodium ions into skeletal muscle cells. The resulting increase in ion flow interferes with normal muscle contraction and relaxation, leading to episodes of muscle stiffness and weakness.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000771-4" qtype="inheritance">Is paramyotonia congenita inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000771-5" qtype="treatment">What are the treatments for paramyotonia congenita ?</Question>
+			<Answer>These resources address the diagnosis or management of paramyotonia congenita:  - Genetic Testing Registry: Paramyotonia congenita of von Eulenburg  - Periodic Paralysis International: How is Periodic Paralysis Diagnosed?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

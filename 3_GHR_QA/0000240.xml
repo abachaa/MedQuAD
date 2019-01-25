@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000240" source="GHR" url="https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia">
+<Focus>core binding factor acute myeloid leukemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3839741</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CBF acute myeloid leukemia</Synonym>
+		<Synonym>CBF-AML</Synonym>
+		<Synonym>core-binding factor AML</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000240-1" qtype="information">What is (are) core binding factor acute myeloid leukemia ?</Question>
+			<Answer>Core binding factor acute myeloid leukemia (CBF-AML) is one form of a cancer of the blood-forming tissue (bone marrow) called acute myeloid leukemia. In normal bone marrow, early blood cells called hematopoietic stem cells develop into several types of blood cells: white blood cells (leukocytes) that protect the body from infection, red blood cells (erythrocytes) that carry oxygen, and platelets (thrombocytes) that are involved in blood clotting. In acute myeloid leukemia, the bone marrow makes large numbers of abnormal, immature white blood cells called myeloid blasts. Instead of developing into normal white blood cells, the myeloid blasts develop into cancerous leukemia cells. The large number of abnormal cells in the bone marrow interferes with the production of functional white blood cells, red blood cells, and platelets.  People with CBF-AML have a shortage of all types of mature blood cells: a shortage of white blood cells (leukopenia) leads to increased susceptibility to infections, a low number of red blood cells (anemia) causes fatigue and weakness, and a reduction in the amount of platelets (thrombocytopenia) can result in easy bruising and abnormal bleeding. Other symptoms of CBF-AML may include fever and weight loss.  While acute myeloid leukemia is generally a disease of older adults, CBF-AML often begins in young adulthood and can occur in childhood. Compared to other forms of acute myeloid leukemia, CBF-AML has a relatively good prognosis: about 90 percent of individuals with CBF-AML recover from their disease following treatment, compared with 25 to 40 percent of those with other forms of acute myeloid leukemia. However, the disease recurs in approximately half of them after successful treatment of the initial occurrence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000240-2" qtype="frequency">How many people are affected by core binding factor acute myeloid leukemia ?</Question>
+			<Answer>Acute myeloid leukemia occurs in approximately 3.5 per 100,000 individuals each year. CBF-AML accounts for 12 to 15 percent of acute myeloid leukemia cases in adults.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000240-3" qtype="genetic changes">What are the genetic changes related to core binding factor acute myeloid leukemia ?</Question>
+			<Answer>CBF-AML is associated with chromosomal rearrangements between chromosomes 8 and 21 and within chromosome 16. The rearrangements involve the RUNX1, RUNX1T1, CBFB, and MYH11 genes. Two of these genes, RUNX1 and CBFB, provide instructions for making the two pieces of a protein complex known as core binding factor (CBF). CBF attaches to certain regions of DNA and turns on genes that help control the development of blood cells (hematopoiesis). In particular, it plays an important role in development of hematopoietic stem cells. Chromosomal rearrangements involving the RUNX1 or CBFB gene alter CBF, leading to leukemia.  In CBF-AML, the RUNX1 gene is affected by a type of genetic rearrangement known as a translocation; in this type of change, pieces of DNA from two chromosomes break off and are interchanged. The most common translocation in this condition, called t(8;21), fuses a part of the RUNX1 gene on chromosome 21 with part of the RUNX1T1 gene (also known as ETO) on chromosome 8. The combination of these genes leads to production of the RUNX1-ETO fusion protein. This fusion protein is able to form CBF and attach to DNA, like the normal RUNX1 protein. However, because the function of the protein produced from the normal RUNX1T1 gene is to block gene activity, the abnormal CBF turns genes off instead of turning them on.  Other genetic rearrangements associated with CBF-AML alter the CBFB gene. One such rearrangement, called an inversion, involves breakage of a chromosome in two places; the resulting piece of DNA is reversed and reinserted into the chromosome. The inversion involved in CBF-AML (written as inv(16)) leads to the fusion of two genes on chromosome 16, CBFB and MYH11. Less commonly, a translocation involving chromosome 16, written as t(16;16), leads to the fusion of the same two genes. The protein produced from these genetic rearrangements is called CBF-MYH11. The fusion protein can form CBF, but it is thought that the presence of the MYH11 portion of the fusion protein prevents CBF from binding to DNA, impairing its ability to control gene activity. Alternatively, the MYH11 portion may interact with other proteins that prevent CBF from controlling gene activity.  The change in gene activity caused by alteration of CBF blocks the maturation (differentiation) of blood cells and leads to the production of abnormal myeloid blasts. However, a chromosomal rearrangement alone is usually not enough to cause leukemia; one or more additional genetic changes are needed for cancer to develop. The additional changes likely cause the immature cells to grow and divide uncontrollably, leading to the excess of myeloid blasts characteristic of CBF-AML.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000240-4" qtype="inheritance">Is core binding factor acute myeloid leukemia inherited ?</Question>
+			<Answer>CBF-AML is not inherited but arises from genetic rearrangements in the body&apos;s cells that occur after conception.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000240-5" qtype="treatment">What are the treatments for core binding factor acute myeloid leukemia ?</Question>
+			<Answer>These resources address the diagnosis or management of core binding factor acute myeloid leukemia:  - Fred Hutchinson Cancer Research Center  - Genetic Testing Registry: Acute myeloid leukemia  - National Cancer Institute: Acute Myeloid Leukemia Treatment  - St. Jude Children&apos;s Research Hospital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

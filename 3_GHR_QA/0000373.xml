@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000373" source="GHR" url="https://ghr.nlm.nih.gov/condition/fg-syndrome">
+<Focus>FG syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FGS</Synonym>
+		<Synonym>FGS1</Synonym>
+		<Synonym>Keller syndrome</Synonym>
+		<Synonym>mental retardation, large head, imperforate anus, congenital hypotonia, and partial agenesis of the corpus callosum</Synonym>
+		<Synonym>OKS</Synonym>
+		<Synonym>Opitz-Kaveggia syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000373-1" qtype="information">What is (are) FG syndrome ?</Question>
+			<Answer>FG syndrome is a genetic condition that affects many parts of the body and occurs almost exclusively in males. &quot;FG&quot; represents the surname initials of the first family diagnosed with the disorder.  FG syndrome affects intelligence and behavior. Almost everyone with the condition has intellectual disability, which ranges from mild to severe. Affected individuals tend to be friendly, inquisitive, and hyperactive, with a short attention span. Compared to people with other forms of intellectual disability, their socialization and daily living skills are strong, while verbal communication and language skills tend to be weaker.  The physical features of FG syndrome include weak muscle tone (hypotonia), broad thumbs, and wide first (big) toes. Abnormalities of the tissue connecting the left and right halves of the brain (the corpus callosum) are also common. Most affected individuals have constipation, and many have abnormalities of the anus such as an obstruction of the anal opening (imperforate anus). People with FG syndrome also tend to have a distinctive facial appearance including small, underdeveloped ears; a tall, prominent forehead; and outside corners of the eyes that point downward (down-slanting palpebral fissures).  Additional features seen in some people with FG syndrome include widely set eyes (hypertelorism), an upswept frontal hairline, and a large head compared to body size (relative macrocephaly). Other health problems have also been reported, including heart defects, seizures, undescended testes (cryptorchidism) in males, and a soft out-pouching in the lower abdomen (an inguinal hernia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000373-2" qtype="frequency">How many people are affected by FG syndrome ?</Question>
+			<Answer>The prevalence of FG syndrome is unknown, although several hundred cases have been reported worldwide. Researchers suspect that FG syndrome may be overdiagnosed because many of its signs and symptoms are also seen with other disorders.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000373-3" qtype="genetic changes">What are the genetic changes related to FG syndrome ?</Question>
+			<Answer>Researchers have identified changes in five regions of the X chromosome that are linked to FG syndrome in affected families. Mutations in a gene called MED12, which is located in one of these regions, appear to be the most common cause of the disorder. Researchers are investigating genes in other regions of the X chromosome that may also be associated with FG syndrome.  The MED12 gene provides instructions for making a protein that helps regulate gene activity. Specifically, the MED12 protein forms part of a large complex (a group of proteins that work together) that turns genes on and off. The MED12 protein is thought to play an essential role in development both before and after birth.  At least two mutations in the MED12 gene have been found to cause FG syndrome. Although the mutations alter the structure of the MED12 protein, it is unclear how they lead to intellectual disability, behavioral changes, and the physical features associated with this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000373-4" qtype="inheritance">Is FG syndrome inherited ?</Question>
+			<Answer>FG syndrome is inherited in an X-linked recessive pattern. The genes likely associated with this disorder, including MED12, are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation usually must occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of a gene on the X chromosome, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000373-5" qtype="treatment">What are the treatments for FG syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of FG syndrome:  - Gene Review: Gene Review: MED12-Related Disorders  - Genetic Testing Registry: FG syndrome  - Genetic Testing Registry: FG syndrome 2  - Genetic Testing Registry: FG syndrome 3  - Genetic Testing Registry: FG syndrome 4  - Genetic Testing Registry: FG syndrome 5  - MedlinePlus Encyclopedia: Corpus Callosum of the Brain (image)  - MedlinePlus Encyclopedia: Imperforate Anus   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

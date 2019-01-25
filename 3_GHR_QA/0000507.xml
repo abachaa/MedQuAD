@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000507" source="GHR" url="https://ghr.nlm.nih.gov/condition/hypomyelination-and-congenital-cataract">
+<Focus>hypomyelination and congenital cataract</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1864663</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HCC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000507-1" qtype="information">What is (are) hypomyelination and congenital cataract ?</Question>
+			<Answer>Hypomyelination and congenital cataract is an inherited condition that affects the nervous system and the eyes. This disease is one of a group of genetic disorders called leukoencephalopathies. Leukoencephalopathies involve abnormalities of the brain&apos;s white matter. White matter consists of nerve fibers covered by a fatty substance called myelin. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses. Hypomyelination and congenital cataract is caused by a reduced ability to form myelin (hypomyelination). Additionally, people with this disorder are typically born with a clouding of the lens (cataract) in both eyes.  People with this condition usually have normal development throughout the first year of life. Development slows around the age of 1. Most affected children learn to walk between the ages of 1 and 2, although they usually need some type of support. Over time they experience muscle weakness and wasting (atrophy) in their legs, and many affected people eventually require wheelchair assistance. Weakness in the muscles of the trunk and a progressive abnormal curvature of the spine (scoliosis) further impair walking in some individuals. Most people with hypomyelination and congenital cataract have reduced sensation in their arms and legs (peripheral neuropathy). In addition, affected individuals typically have speech difficulties (dysarthria) and mild to moderate intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000507-2" qtype="frequency">How many people are affected by hypomyelination and congenital cataract ?</Question>
+			<Answer>The prevalence of hypomyelination and congenital cataract is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000507-3" qtype="genetic changes">What are the genetic changes related to hypomyelination and congenital cataract ?</Question>
+			<Answer>Mutations in the FAM126A gene cause hypomyelination and congenital cataract. The FAM126A gene provides instructions for making a protein called hyccin, the function of which is not completely understood. Based on the features of hypomyelination and congenital cataract, researchers presume that hyccin is involved in the formation of myelin throughout the nervous system. Hyccin is also active in the lens of the eye, the heart, and the kidneys. It is unclear how mutations in the FAM126A gene cause cataracts.  Most FAM126A gene mutations that cause hypomyelination and congenital cataract prevent the production of hyccin. People who cannot produce any hyccin have problems forming myelin, leading to the signs and symptoms of this condition.  People who have mutations that allow some protein production tend to have milder symptoms than those who produce no protein. These individuals typically retain the ability to walk longer, although they still need support, and they usually do not have peripheral neuropathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000507-4" qtype="inheritance">Is hypomyelination and congenital cataract inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000507-5" qtype="treatment">What are the treatments for hypomyelination and congenital cataract ?</Question>
+			<Answer>These resources address the diagnosis or management of hypomyelination and congenital cataract:  - Gene Review: Gene Review: Hypomyelination and Congenital Cataract  - Genetic Testing Registry: Hypomyelination and Congenital Cataract  - MedlinePlus Encyclopedia: Congenital Cataract  - MedlinePlus Encyclopedia: Muscle Atrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

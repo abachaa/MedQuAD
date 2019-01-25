@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004252" source="GARD" url="https://rarediseases.info.nih.gov/gard/9351/myelodysplasticmyeloproliferative-disease">
+<Focus>Myelodysplastic/myeloproliferative disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1301355</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Myelodysplastic/myeloproliferative neoplasm</Synonym>
+		<Synonym>Chronic myelomonocytic leukemia</Synonym>
+		<Synonym>Juvenile myelomonocytic leukemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004252-1" qtype="information">What is (are) Myelodysplastic/myeloproliferative disease ?</Question>
+			<Answer>Myelodysplastic/myeloproliferative diseases are a group of diseases of the blood and bone marrow in which the bone marrow makes too many white blood cells.  These disease have features of both myelodysplastic syndromes and myeloproliferative disorders. In myelodysplastic diseases, the blood stem cells do not mature into healthy red blood cells, white blood cells, or platelets and as a result, there are fewer of these healthy cells. In myeloproliferative diseases, a greater than normal number of blood stem cells develop into one or more types of blood cells and the total number of blood cells slowly increases. The 3 main types of myelodysplastic/myeloproliferative diseases include chronic myelomonocytic leukemia (CMML); juvenile myelomonocytic leukemia (JMML); and atypical chronic myelogenous leukemia (aCML). When a myelodysplastic/myeloproliferative disease does not match any of these types, it is called myelodysplastic/myeloproliferative neoplasm, unclassifiable (MDS/MPN-UC). Symptoms of CMML and JMML may include fever, feeling tired and weight loss. Symptoms of aCML may include easy bruising or bleeding and feeling tired or weak. Myelodysplastic/myeloproliferative diseases may progress to acute leukemia. There are different types of treatment for individuals with one of these diseases, which may include chemotherapy, another drug therapy, stem cell transplant and/or supportive care.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004252-2" qtype="causes">What causes Myelodysplastic/myeloproliferative disease ?</Question>
+			<Answer>What causes myelodysplastic/myeloproliferative disease? In most cases, the cause of myelodysplastic/myeloproliferative disease is unknown, and there is limited information regarding potential causes. No specific genetic defects have been identified for any of the diseases. The specific cause of chronic myelomonocytic leukemia (CMML) is unknown, but exposure to occupational and environmental carcinogens (agents that can cause cancer), ionizing radiation, and cytotoxic agents (agents that are toxic to cells) have been associated in some cases. The cause of juvenile myelomonocytic leukemia (JMML) is not known; however, children with neurofibromatosis type 1 (NF1) are at increased risk for developing JMML, and up to 14% of cases of JMML occur in children with NF1. Atypical chronic myelogenous leukemia (aCML) has been associated with cytogenetic (chromosomal) abnormalities in as many as 80% of individuals with the disease; however, no cytogenetic abnormality is specific. Myelodysplastic/myeloproliferative neoplasm, unclassifiable (MDS/ MPN-UC) (also known as mixed myeloproliferative/ myelodysplastic syndrome) also has no known cause.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004105" source="GARD" url="https://rarediseases.info.nih.gov/gard/10868/mollaret-meningitis">
+<Focus>Mollaret meningitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220979</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Benign recurrent aseptic meningitis</Synonym>
+		<Synonym>Mollaret's meningitis</Synonym>
+		<Synonym>Benign recurrent lymphocytic meningitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004105-1" qtype="information">What is (are) Mollaret meningitis ?</Question>
+			<Answer>Mollaret meningitis is a rare type of meningitis that is characterized by repeated episodes of fever, stiff neck (meningismus), muscle aches, and severe headaches separated by weeks or months of no symptoms.  About half of affected individuals may also experience long-term abnormalities of the nervous system that come and go, such as seizures, double vision, abnormal reflexes, some paralysis of a cranial nerve (paresis), hallucinations, or coma.  Mollaret meningitis is poorly understood and the exact cause remains unknown.  However, recent data suggests that herpes simplex virus (HSV-2 and, less frequently, HSV-1) may cause some, if not most cases. Other causes may include trauma and viral infections other than herpes simplex.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004105-2" qtype="symptoms">What are the symptoms of Mollaret meningitis ?</Question>
+			<Answer>What are the symptoms of Mollaret meningitis? The symptoms of Mollaret meningitis are the same as those found in other types of meningitis. In Mollaret meningitis, however, the symptoms are recurring and are often accompanied by long-term irregularity of the nervous system. Common symptoms of meningitis may include: High fever  Severe headache Nausea Vomiting Stiff neck Photophobia (sensitivity to light) Altered mental state</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

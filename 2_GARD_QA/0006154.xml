@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006154" source="GARD" url="https://rarediseases.info.nih.gov/gard/1839/transient-neonatal-diabetes-mellitus">
+<Focus>Transient neonatal diabetes mellitus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342273</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TNDM1</Synonym>
+		<Synonym>TNDM</Synonym>
+		<Synonym>DMTN</Synonym>
+		<Synonym>Diabetes mellitus, transient neonatal</Synonym>
+		<Synonym>Chromosome 6-associated transient diabetes mellitus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006154-1" qtype="information">What is (are) Transient neonatal diabetes mellitus ?</Question>
+			<Answer>Transient neonatal diabetes mellitus (TNDB) is a type of diabetes that appears within the first few weeks of life but is transient; affected infants go into remission within a few months, with possible relapse to permanent diabetes in adolescence or adulthood. Affected individuals have slow growth before birth followed by hyperglycemia, dehydration and failure to thrive in infancy. Approximately 70% of cases are caused by the overactivity of certain genes in a region of the long (q) arm of chromosome 6 called 6q24. These cases are referred to as 6q24-related TNDB; most (but not all) of these cases are not inherited. Other genetic causes include mutations in the KCNJ11 and ABCC8 genes, which usually cause permanent neonatal diabetes. Treatment may include rehydration and intravenous insulin at the time of diagnosis, followed by subcutaneous insulin.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006154-2" qtype="symptoms">What are the symptoms of Transient neonatal diabetes mellitus ?</Question>
+			<Answer>What are the signs and symptoms of Transient neonatal diabetes mellitus? The Human Phenotype Ontology provides the following list of signs and symptoms for Transient neonatal diabetes mellitus. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Type II diabetes mellitus 2/7 Autosomal dominant inheritance - Dehydration - Hyperglycemia - Intrauterine growth retardation - Severe failure to thrive - Transient neonatal diabetes mellitus - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

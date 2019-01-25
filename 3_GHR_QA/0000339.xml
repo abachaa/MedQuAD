@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000339" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-acute-myeloid-leukemia-with-mutated-cebpa">
+<Focus>familial acute myeloid leukemia with mutated CEBPA</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023470</CUI>
+			<CUI>C3711382</CUI>
+			<CUI>C1705285</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T049</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CEBPA-dependent familial acute myeloid leukemia</Synonym>
+		<Synonym>familial acute myeloid leukaemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000339-1" qtype="information">What is (are) familial acute myeloid leukemia with mutated CEBPA ?</Question>
+			<Answer>Familial acute myeloid leukemia with mutated CEBPA is one form of a cancer of the blood-forming tissue (bone marrow) called acute myeloid leukemia. In normal bone marrow, early blood cells called hematopoietic stem cells develop into several types of blood cells: white blood cells (leukocytes) that protect the body from infection, red blood cells (erythrocytes) that carry oxygen, and platelets (thrombocytes) that are involved in blood clotting. In acute myeloid leukemia, the bone marrow makes large numbers of abnormal, immature white blood cells called myeloid blasts. Instead of developing into normal white blood cells, the myeloid blasts develop into cancerous leukemia cells. The large number of abnormal cells in the bone marrow interferes with the production of functional white blood cells, red blood cells, and platelets.  People with familial acute myeloid leukemia with mutated CEBPA have a shortage of white blood cells (leukopenia), leading to increased susceptibility to infections. A low number of red blood cells (anemia) also occurs in this disorder, resulting in fatigue and weakness. Affected individuals also have a reduction in the amount of platelets (thrombocytopenia), which can result in easy bruising and abnormal bleeding. Other symptoms of familial acute myeloid leukemia with mutated CEBPA may include fever and weight loss.  While acute myeloid leukemia is generally a disease of older adults, familial acute myeloid leukemia with mutated CEBPA often begins earlier in life, and it has been reported to occur as early as age 4. Between 50 and 65 percent of affected individuals survive their disease, compared with 25 to 40 percent of those with other forms of acute myeloid leukemia. However, people with familial acute myeloid leukemia with mutated CEBPA have a higher risk of having a new primary occurrence of this disorder after successful treatment of the initial occurrence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000339-2" qtype="frequency">How many people are affected by familial acute myeloid leukemia with mutated CEBPA ?</Question>
+			<Answer>Acute myeloid leukemia occurs in approximately 3.5 in 100,000 individuals per year. Familial acute myeloid leukemia with mutated CEBPA is a very rare form of acute myeloid leukemia; only a few affected families have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000339-3" qtype="genetic changes">What are the genetic changes related to familial acute myeloid leukemia with mutated CEBPA ?</Question>
+			<Answer>As its name suggests, familial acute myeloid leukemia with mutated CEBPA is caused by mutations in the CEBPA gene that are passed down within families. These inherited mutations are present throughout a person&apos;s life in virtually every cell in the body.  The CEBPA gene provides instructions for making a protein called CCAAT/enhancer-binding protein alpha. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of certain genes. It is believed to act as a tumor suppressor, helping to prevent cells from growing and dividing too rapidly or in an uncontrolled way.  CEBPA gene mutations that cause familial acute myeloid leukemia with mutated CEBPA result in a shorter version of CCAAT/enhancer-binding protein alpha. This shorter version is produced from one copy of the CEBPA gene in each cell, and it is believed to interfere with the tumor suppressor function of the normal protein produced from the second copy of the gene. Absence of the tumor suppressor function of CCAAT/enhancer-binding protein alpha is believed to disrupt the regulation of blood cell production in the bone marrow, leading to the uncontrolled production of abnormal cells that occurs in acute myeloid leukemia.  In addition to the inherited mutation in one copy of the CEBPA gene in each cell, most individuals with familial acute myeloid leukemia with mutated CEBPA also acquire a mutation in the second copy of the CEBPA gene. The additional mutation, which is called a somatic mutation, is found only in the leukemia cells and is not inherited. The somatic CEBPA gene mutations identified in leukemia cells generally decrease the DNA-binding ability of CCAAT/enhancer-binding protein alpha. The effect of this second mutation on the development of acute myeloid leukemia is unclear.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000339-4" qtype="inheritance">Is familial acute myeloid leukemia with mutated CEBPA inherited ?</Question>
+			<Answer>Familial acute myeloid leukemia with mutated CEBPA is inherited in an autosomal dominant pattern. Autosomal dominant inheritance means that one copy of the altered CEBPA gene in each cell is sufficient to cause the disorder. Most affected individuals also acquire a second, somatic CEBPA gene mutation in their leukemia cells.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000339-5" qtype="treatment">What are the treatments for familial acute myeloid leukemia with mutated CEBPA ?</Question>
+			<Answer>These resources address the diagnosis or management of familial acute myeloid leukemia with mutated CEBPA:  - Fred Hutchison Cancer Research Center  - Gene Review: Gene Review: CEBPA-Associated Familial Acute Myeloid Leukemia (AML)  - Genetic Testing Registry: Acute myeloid leukemia  - MedlinePlus Encyclopedia: Bone Marrow Biopsy  - MedlinePlus Encyclopedia: Bone Marrow Transplant  - National Cancer Institute: Acute Myeloid Leukemia Treatment  - St. Jude Children&apos;s Research Hospital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

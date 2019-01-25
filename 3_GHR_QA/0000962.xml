@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000962" source="GHR" url="https://ghr.nlm.nih.gov/condition/supravalvular-aortic-stenosis">
+<Focus>supravalvular aortic stenosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003499</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>aortic stenosis, supravalvular</Synonym>
+		<Synonym>stenosis, aortic supravalvular</Synonym>
+		<Synonym>stenosis, supravalvular aortic</Synonym>
+		<Synonym>supravalvular stenosis, aortic</Synonym>
+		<Synonym>SVAS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000962-1" qtype="information">What is (are) supravalvular aortic stenosis ?</Question>
+			<Answer>Supravalvular aortic stenosis (SVAS) is a heart defect that develops before birth. This defect is a narrowing (stenosis) of the large blood vessel that carries blood from the heart to the rest of the body (the aorta). The condition is described as supravalvular because the section of the aorta that is narrowed is located just above the valve that connects the aorta with the heart (the aortic valve). Some people with SVAS also have defects in other blood vessels, most commonly stenosis of the artery from the heart to the lungs (the pulmonary artery). An abnormal heart sound during a heartbeat (heart murmur) can often be heard during a chest exam. If SVAS is not treated, the aortic narrowing can lead to shortness of breath, chest pain, and ultimately heart failure.  The severity of SVAS varies considerably, even among family members. Some affected individuals die in infancy, while others never experience symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000962-2" qtype="frequency">How many people are affected by supravalvular aortic stenosis ?</Question>
+			<Answer>SVAS occurs in 1 in 20,000 newborns worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000962-3" qtype="genetic changes">What are the genetic changes related to supravalvular aortic stenosis ?</Question>
+			<Answer>Mutations in the ELN gene cause SVAS. The ELN gene provides instructions for making a protein called tropoelastin. Multiple copies of the tropoelastin protein attach to one another and are processed to form a mature protein called elastin. Elastin is the major component of elastic fibers, which are slender bundles of proteins that provide strength and flexibility to connective tissue (tissue that supports the body&apos;s joints and organs). Elastic fibers are found in the intricate lattice that forms in the spaces between cells (the extracellular matrix), where they give structural support to organs and tissues such as the heart, skin, lungs, ligaments, and blood vessels. Elastic fibers make up approximately 50 percent of the aorta, the rest being primarily muscle cells called vascular smooth muscle cells that line the aorta. Together, elastic fibers and vascular smooth muscle cells provide flexibility and resilience to the aorta.  Most of the ELN gene mutations that cause SVAS lead to a decrease in the production of tropoelastin. A shortage of tropoelastin reduces the amount of mature elastin protein that is processed and available for forming elastic fibers. As a result, elastic fibers that make up the aorta are thinner than normal. To compensate, the smooth muscle cells that line the aorta increase in number, making the aorta thicker and narrower than usual. A thickened aorta is less flexible and resilient to the stress of constant blood flow and pumping of the heart. Over time, the wall of the aorta can become damaged. Aortic narrowing causes the heart to work harder to pump blood through the aorta, resulting in the signs and symptoms of SVAS.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000962-4" qtype="inheritance">Is supravalvular aortic stenosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, some people who inherit the altered gene never develop features of SVAS. (This situation is known as reduced penetrance.)  In some cases, a person inherits the mutation from one parent who has the mutation. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000962-5" qtype="treatment">What are the treatments for supravalvular aortic stenosis ?</Question>
+			<Answer>These resources address the diagnosis or management of supravalvular aortic stenosis:  - Children&apos;s Hospital of Philadelphia  - Genetic Testing Registry: Supravalvar aortic stenosis  - Monroe Carell Jr. Children&apos;s Hospital at Vanderbilt   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

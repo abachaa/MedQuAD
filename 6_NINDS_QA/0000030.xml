@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000030" source="NINDS" url="http://www.ninds.nih.gov/disorders/avms/avms.htm">
+<Focus>Arteriovenous Malformation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334533</CUI>
+			<CUI>C0003857</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000030-1" qtype="information">What is (are) Arteriovenous Malformation ?</Question>
+			<Answer>Arteriovenous malformations (AVMs) are abnormal, snarled tangles of blood vessels that cause multiple irregular connections between the arteries and veins. These malformations most often occur in the spinal cord and in any part of the brain or on its surface, but can develop elsewhere in the body. AVMs can damage the brain and spinal cord by reducing the amount of oxygen reaching neurological tissues, bleeding into surrounding tissue (hemorrhage) that can cause stroke or brain damage, and by compressing or displacing parts of the brain or spinal cord. Many people with an AVM experience few, if any, significant symptoms, which can include headache, weakness, seizures, pain, and problems with speech, vision, or movement. Most often AVMs are congenital, but they can appear sporadically. In some cases the AVM may be inherited, but it is more likely that other inherited conditions increase the risk of having an AVM. The malformations tend to be discovered only incidentally, usually during treatment for an unrelated disorder or at autopsy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000030-2" qtype="treatment">What are the treatments for Arteriovenous Malformation ?</Question>
+			<Answer>Treatment options depend on the type of AVM, its location, noticeable symptoms, and the general health condition of the individual. Medication can often alleviate general symptoms such as headache, back pain, and seizures caused by AVMs and other vascular lesions. The definitive treatment for AVMs is either surgery to either remove the AVM or to create an artificial blood clot to close the lesion or focused irradiation treatment that is designed to damage the blood vessel walls and close the lesion. The decision to treat an AVM requires a careful consideration of possible benefits versus risks.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000030-3" qtype="outlook">What is the outlook for Arteriovenous Malformation ?</Question>
+			<Answer>The greatest potential danger posed by AVMs is hemorrhage. Most episodes of bleeding remain undetected at the time they occur because they are not severe enough to cause significant neurological damage. But massive, even fatal, bleeding episodes do occur. Whenever an AVM is detected, the individual should be carefully and consistently monitored for any signs of instability that may indicate an increased risk of hemorrhage. Individuals who are treated require brain imaging afterwards to evaluate if the AVM has been completely removed or destroyed. The risk of hemorrhage remains if some of the AVM persists despite treatment.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000030-4" qtype="research">what research (or clinical trials) is being done for Arteriovenous Malformation ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. The NINDS has established an Arteriovenous Study Group to learn more about the natural causes of AVMs and to improve surgical treatment of these lesions. An NINDS study at Columbia University, A Randomized Trial of Unruptured Brain AVMs (ARUBA), showed that medical management alone is superior to medical management and interventional therapy (conventional surgery, endovascular procedures, and radiosurgery) for improving the long-term outcome of individuals with unruptured brain arteriovenous malformations. Data from a recently closed observational phase will show if the disparities continued over the additional five years of follow-up.
+                
+Among other NINDS-funded research, scientists are testing a class of drugs called beta-blockers to see if they may lead to the development of new treatments for people with vascular malformations. Other NINDS-funded investigators hope to develop biomarkers (signs that may indicate risk of a disease) for AVM that may improve risk assessment and aid in the choice of therapy that may provide maximize benefit with minimal risk to the individual. Additional NINDS-funded research hopes to determine molecular pathways fundamental to the formation of brain AVMs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

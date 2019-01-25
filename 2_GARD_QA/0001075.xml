@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001075" source="GARD" url="https://rarediseases.info.nih.gov/gard/9508/cerulean-cataract">
+<Focus>Cerulean cataract</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0344523</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cataract, congenital, cerulean type 1</Synonym>
+		<Synonym>CCA1</Synonym>
+		<Synonym>Cataract, congenital, blue dot type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001075-1" qtype="information">What is (are) Cerulean cataract ?</Question>
+			<Answer>Cerulean cataracts are opaque areas that develop in the lens of the eye that often have a bluish or whitish color. They may be present at birth or develop in very early childhood, but may not be diagnosed until adulthood. They are usually bilateral and progressive. Infants can be asymptomatic, but may also be visually impaired from birth and develop nystagmus and amblyopia. In adulthood, the cataracts may progress, making lens removal necessary. Cerulean cataracts may be caused by mutations in several genes, including the CRYBB2, CRYGD, and MAF genes, and are inherited in an autosomal dominant manner. No treatment is known to prevent cerulean cataracts, but frequent evaluations and cataract surgery are typically required to prevent amblyopia as the opacities progress.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001075-2" qtype="symptoms">What are the symptoms of Cerulean cataract ?</Question>
+			<Answer>What are the signs and symptoms of Cerulean cataract? The Human Phenotype Ontology provides the following list of signs and symptoms for Cerulean cataract. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cerulean cataract 100% Macular hypoplasia 5% Retinal detachment 5% Autosomal dominant inheritance - Congenital cataract - Cortical pulverulent cataract - Iris coloboma - Microcornea - Sutural cataract - Visual loss - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001075-3" qtype="treatment">What are the treatments for Cerulean cataract ?</Question>
+			<Answer>How might cerulean cataracts be treated? No treatment is known to prevent cerulean cataracts, and there is currently no cure for the condition. Frequent eye evaluations and eventual cataract surgery are typically required to prevent amblyopia (vision loss) as the opacities progress. The symptoms of early cataracts may be improved with new eyeglasses, brighter lighting, anti-glare sunglasses, or magnifying lenses. However, if these measures do not help, surgery is often the only effective treatment. Surgery involves removing the cloudy lens and replacing it with an artificial lens. Surgery is often considered when vision loss regularly interferes with everyday activities, such as driving, reading, or watching TV.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

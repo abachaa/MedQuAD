@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000120" source="NINDS" url="http://www.ninds.nih.gov/disorders/epilepsy/epilepsy.htm">
+<Focus>Epilepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014544</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000120-1" qtype="information">What is (are) Epilepsy ?</Question>
+			<Answer>The epilepsies are a spectrum of brain disorders ranging from severe, life-threatening and disabling, to ones that are much more benign. In epilepsy, the normal pattern of neuronal activity becomes disturbed, causing strange sensations, emotions, and behavior or sometimes convulsions, muscle spasms, and loss of consciousness. The epilepsies have many possible causes and there are several types of seizures. Anything that disturbs the normal pattern of neuron activityfrom illness to brain damage to abnormal brain developmentcan lead to seizures. Epilepsy may develop because of an abnormality in brain wiring, an imbalance of nerve signaling chemicals called neurotransmitters, changes in important features of brain cells called channels, or some combination of these and other factors. Having a single seizure as the result of a high fever (called febrile seizure) or head injury does not necessarily mean that a person has epilepsy. Only when a person has had two or more seizures is he or she considered to have epilepsy. A measurement of electrical activity in the brain and brain scans such as magnetic resonance imaging or computed tomography are common diagnostic tests for epilepsy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000120-2" qtype="treatment">What are the treatments for Epilepsy ?</Question>
+			<Answer>Once epilepsy is diagnosed, it is important to begin treatment as soon as possible. For about 70 percent of those diagnosed with epilepsy, seizures can be controlled with modern medicines and surgical techniques. Some drugs are more effective for specific types of seizures. An individual with seizures, particularly those that are not easily controlled, may want to see a neurologist specifically trained to treat epilepsy. In some children, special diets may help to control seizures when medications are either not effective or cause serious side effects.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000120-3" qtype="outlook">What is the outlook for Epilepsy ?</Question>
+			<Answer>While epilepsy cannot be cured, for some people the seizures can be controlled with medication, diet, devices, and/or surgery. Most seizures do not cause brain damage, but ongoing uncontrolled seizures may cause brain damage. It is not uncommon for people with epilepsy, especially children, to develop behavioral and emotional problems in conjunction with seizures. Issues may also arise as a result of the stigma attached to having epilepsy, which can led to embarrassment and frustration or bullying, teasing, or avoidance in school and other social settings. For many people with epilepsy, the risk of seizures restricts their independence (some states refuse drivers licenses to people with epilepsy) and recreational activities.
+                
+Epilepsy can be a life-threatening condition. Some people with epilepsy are at special risk for abnormally prolonged seizures or sudden unexplained death in epilepsy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000120-4" qtype="research">what research (or clinical trials) is being done for Epilepsy ?</Question>
+			<Answer>Scientists are studying the underlying causes of the epilepsies in children, adults, and the elderly, as well as seizures that occur following brain trauma, stroke, and brain tumors. Ongoing research is focused on developing new model systems that can be used to more quickly screen potential new treatments for the epilepsies. The identification of genes or other genetic information that may influence or cause the epilepsies may allow doctors to prevent the disorders or to predict which treatments will be most beneficial to individuals with specific types of epilepsy. Scientists also continue to study how neurotransmitters interact with brain cells to control nerve firing and how non-neuronal cells in the brain contribute to seizures. Researchers funded by the National Institutes of Health have developed a flexible brain implant that could one day be used to treat seizures. Scientists are continually improving MRI and other brain scans that may assist in diagnosing the epilepsies and identify the source, or focus, of the seizures in the brain. Other areas of study include prevention of seizures and the role of inflammation in epilepsy. Patients may enter trials of experimental drugs and surgical interventions.
+                
+More about epilepsy research</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

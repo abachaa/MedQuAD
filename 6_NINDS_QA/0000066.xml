@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000066" source="NINDS" url="http://www.ninds.nih.gov/disorders/cerebellar_degeneration/cerebellar_degeneration.htm">
+<Focus>Cerebellar Degeneration</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0262404</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000066-1" qtype="information">What is (are) Cerebellar Degeneration ?</Question>
+			<Answer>Cerebellar degeneration is a process in which neurons in the cerebellum - the area of the brain that controls coordination and balance - deteriorate and die. Diseases that cause cerebellar degeneration can also involve other areas of the central nervous system,including the spinal cord, medulla oblongata, cerebral cortex, and brain stem. Cerebellar degeneration may be the result of inherited genetic mutations that alter the normal production of specific proteins that are necessary for the survival of neurons.
+                
+Associated diseases: Diseases that are specific to the brain, as well as diseases that occur in other parts of the body, can cause neurons to die in the cerebellum. Neurological diseases that feature cerebellar degeneration include:
+                
+- ischemic or hemorrhagic stroke, when there is lack of blood flow or oxygen to the cerebellum - cerebellar cortical atrophy, multisystem atrophy, and olivopontocerebellar degeneration, progressive degenerative disorders in which cerebellar degeneration is a key feature - Friedreichs ataxia, and other spinocerebellar ataxias, which are caused by inherited genetic mutations that result in ongoing loss of neurons in the cerebellum, brain stem, and spinal cord - transmissible spongiform encephalopathies (such as Creutzfeldt-Jakob disease) in which abnormal proteins cause inflammation in the brain, including the cerebellum - multiple sclerosis, in which damage to the insulating membrane (myelin) that wraps around and protects nerve cells can involve the cerebellum  Other diseases that can cause cerebellar degeneration include: - chronic alcohol abuse that leads to temporary or permanent cerebellar damage - paraneoplastic disorders, in which a malignancy (cancer) in other parts of the body produces substances that cause immune system cells to attack neurons in the cerebellum  Symptoms of cerebellar degeneration: The most characteristic symptom of cerebellar degeneration is a wide-based, unsteady, lurching walk, often accompanied by a back and forth tremor in the trunk of the body. Other symptoms may include slow, unsteady and jerky movement of the arms or legs, slowed and slurred speech, and nystagmus -- rapid, small movements of the eyes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000066-2" qtype="research">what research (or clinical trials) is being done for Cerebellar Degeneration ?</Question>
+			<Answer>The NINDS funds research to find the genes involved in diseases that cause cerebellar degeneration. Discovering these genes, identifying their mutations, and understanding how the abnormal proteins they produce cause cerebellar degeneration may eventually help scientists find ways to prevent, treat, and even cure the diseases that involve cerebellar degeneration.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001354" source="GARD" url="https://rarediseases.info.nih.gov/gard/9574/clear-cell-renal-cell-carcinoma">
+<Focus>Clear cell renal cell carcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0279702</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Clear cell RCC</Synonym>
+		<Synonym>Cystic-multilocular variant</Synonym>
+		<Synonym>Clear-cell metastatic renal cell carcinoma (subtype)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001354-1" qtype="information">What is (are) Clear cell renal cell carcinoma ?</Question>
+			<Answer>Clear cell renal cell carcinoma is a cancer of the kidney.  The name &quot;clear cell&quot; refers to the appearance of the cancer cells when viewed with a microscope.[5258]  Clear cell renal cell carcinoma occurs when cells in the kidney quickly increase in number, creating a lump (mass).  Though the exact cause of clear cell renal cell carcinoma is unknown, smoking, the excessive use of certain medications, and several genetic predisposition conditions (such as von Hippel Lindau syndrome) may contribute to the development of this type of cancer.  Treatment often begins with surgery to remove as much of the cancer as possible, and may be followed by radiation therapy, chemotherapy, biological therapy, or targeted therapy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001354-2" qtype="treatment">What are the treatments for Clear cell renal cell carcinoma ?</Question>
+			<Answer>What treatments for metastatic clear cell renal cell carcinoma are available in North America? There are several treatments for metastatic clear cell renal cell carcinoma available in North America.  IL-2 and sunitinib - as well as the medications temsirolimus, bevacizumab with interferon therapy, pazopanib, and sorafenib - are approved by the Food and Drug Administration for the treatment of metastatic clear cell renal cell carcinoma.  Because a cure for this disease has yet to be discovered, the National Cancer Institute suggests that individuals with metastatic clear cell renal cell carcinoma consider participation in a research study. IL-2 is offered as a treatment for this disease in some individuals because it has been shown to cause a complete disappearance of signs of this disease (remission) in 5% of treated patients.  As IL-2 may cause toxic side effects, it is most appropriate for patients who are in excellent health.  Sunitinib is offered because it has been shown to stabilize metastatic clear cell renal cell carcinoma by stopping the disease from getting worse.  Individuals treated with sunitinib showed no change in their disease for an average of 11 months.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

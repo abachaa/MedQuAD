@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000625" source="GHR" url="https://ghr.nlm.nih.gov/condition/mannose-binding-lectin-deficiency">
+<Focus>mannose-binding lectin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3280586</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>mannose-binding lectin protein deficiency</Synonym>
+		<Synonym>mannose-binding protein deficiency</Synonym>
+		<Synonym>MBL deficiency</Synonym>
+		<Synonym>MBL2 deficiency</Synonym>
+		<Synonym>MBP deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000625-1" qtype="information">What is (are) mannose-binding lectin deficiency ?</Question>
+			<Answer>Mannose-binding lectin deficiency is a condition that affects the immune system. People with this condition have low levels of an immune system protein called mannose-binding lectin in their blood. These individuals are prone to recurrent infections, including infections of the upper respiratory tract and other body systems. People with this condition may also contract more serious infections such as pneumonia and meningitis. Depending on the type of infection, the symptoms caused by the infections vary in frequency and severity.  Infants and young children with mannose-binding lectin deficiency seem to be more susceptible to infections, but adults can also develop recurrent infections. In addition, affected individuals undergoing chemotherapy or taking drugs that suppress the immune system are especially prone to infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000625-2" qtype="frequency">How many people are affected by mannose-binding lectin deficiency ?</Question>
+			<Answer>Mannose-binding lectin deficiency is thought to affect approximately 5 to 10 percent of people worldwide; however, many affected individuals have no signs or symptoms related to low mannose-binding lectin levels. The condition is more common in certain populations, such as sub-Saharan Africans.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000625-3" qtype="genetic changes">What are the genetic changes related to mannose-binding lectin deficiency ?</Question>
+			<Answer>Relatively common mutations in the MBL2 gene can lead to mannose-binding lectin deficiency. This gene provides instructions for making a protein that assembles into a complex called mannose-binding lectin. Functional mannose-binding lectins are made up of two to six protein groups called trimers, which are each composed of three of the protein pieces (subunits) produced from the MBL2 gene.  Mannose-binding lectin plays an important role in the body&apos;s immune response by attaching to foreign invaders such as bacteria, viruses, or yeast and turning on (activating) the complement system. The complement system is a group of immune system proteins that work together to destroy foreign invaders (pathogens), trigger inflammation, and remove debris from cells and tissues. Mannose-binding lectin can also stimulate special immune cells to engulf and break down the attached pathogen.  Disease-associated mutations in the MBL2 gene can reduce the production of the mannose-binding lectin subunit or eliminate the subunit&apos;s ability to assemble into functional mannose-binding lectin. A decrease in the availability of the normal subunit protein may lead to a reduction of the functional mannose-binding lectin in blood. With decreased levels of mannose-binding lectin, the body does not recognize and fight foreign invaders efficiently. Consequently, infections can be more common in people with this condition.  However, not everyone with a change in the MBL2 gene has decreased levels of mannose-binding lectin, and not everyone with decreased protein levels is prone to infection. Researchers believe that a number of factors, including other genetic and environmental factors, are involved in the development of mannose-binding lectin deficiency and susceptibility to infection.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000625-4" qtype="inheritance">Is mannose-binding lectin deficiency inherited ?</Question>
+			<Answer>The inheritance pattern of mannose-binding lectin deficiency is unclear. Some reports show that having a disease-associated mutation in one copy of the MBL2 gene in each cell can lead to the condition, while other reports state that a mutation in both copies of the gene is necessary. It is important to note that people inherit an increased risk of developing mannose-binding lectin deficiency, not the condition itself. Not all people who inherit mutations in this gene will develop the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000625-5" qtype="treatment">What are the treatments for mannose-binding lectin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of mannose-binding lectin deficiency:  - Genetic Testing Registry: Mannose-binding protein deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000174" source="NINDS" url="http://www.ninds.nih.gov/disorders/kuru/kuru.htm">
+<Focus>Kuru</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022802</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000174-1" qtype="information">What is (are) Kuru ?</Question>
+			<Answer>Kuru is a rare and fatal brain disorder that occurred at epidemic levels during the 1950s-60s among the Fore people in the highlands of New Guinea. The disease was the result of the practice of ritualistic cannibalism among the Fore, in which relatives prepared and consumed the tissues (including brain) of deceased family members. Brain tissue from individuals with kuru was highly infectious, and the disease was transmitted either through eating or by contact with open sores or wounds. Government discouragement of the practice of cannibalism led to a continuing decline in the disease, which has now mostly disappeared.
+                
+Kuru belongs to a class of infectious diseases called transmissible spongiform encephalopathies (TSEs), also known as prion diseases. The hallmark of a TSE disease is misshapen protein molecules that clump together and accumulate in brain tissue. Scientists believe that misshapen prion proteins have the ability to change their shape and cause other proteins of the same type to also change shape. Other TSEs include Creutzfeldt-Jakob disease and fatal familial insomnia in humans, bovine spongiform encephalopathy in cattle (also known as mad cow disease), scrapie in sheep and goats, and chronic wasting disease in deer and elk.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000174-2" qtype="treatment">What are the treatments for Kuru ?</Question>
+			<Answer>There were no treatments that could control or cure kuru, other than discouraging the practice of cannibalism. Currently, there are no cures or treatments for any of the other TSE diseases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000174-3" qtype="outlook">What is the outlook for Kuru ?</Question>
+			<Answer>Similar to other the TSEs, kuru had a long incubation period; it was years or even decades before an infected person showed symptoms. Because kuru mainly affected the cerebellum, which is responsible for coordination, the usual first symptoms were an unsteady gait, tremors, and slurred speech. (Kuru is the Fore word for shiver.) Unlike most of the other TSEs, dementia was either minimal or absent. Mood changes were often present. Eventually, individuals became unable to stand or eat, and they died in a comatose state from 6 to 12 months after the first appearance of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000174-4" qtype="research">what research (or clinical trials) is being done for Kuru ?</Question>
+			<Answer>The NINDS funds research to better understand the genetic, molecular, and cellular mechanisms that underlie the TSE diseases. Findings from this research will lead to ways to diagnose, treat, prevent, and ultimately cure these diseases.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

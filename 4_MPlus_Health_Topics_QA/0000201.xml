@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000201" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/chronicmyeloidleukemia.html">
+<Focus>Chronic Myeloid Leukemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023473</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chronic granulocytic leukemia</Synonym>
+		<Synonym>Chronic myelogenous leukemia</Synonym>
+		<Synonym>CML</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000201-1" qtype="information">What is (are) Chronic Myeloid Leukemia ?</Question>
+			<Answer>Leukemia is cancer of the white blood cells. White blood cells help your body fight infection. Your blood cells form in your bone marrow. In leukemia, the bone marrow produces abnormal white blood cells. These cells crowd out the healthy blood cells, making it hard for blood to do its work. In chronic myeloid leukemia (CML), there are too many granulocytes, a type of white blood cell.    Most people with CML have a gene mutation (change) called the Philadelphia chromosome.    Sometimes CML does not cause any symptoms. If you have symptoms, they may include:       - Fatigue    - Weight loss    - Night sweats    - Fever    - Pain or a feeling of fullness below the ribs on the left side       Tests that examine the blood and bone marrow diagnose CML. Treatments include chemotherapy, stem cell transplants, infusion of donated white blood cells following stem cell transplants, surgery to remove the spleen, and biologic and targeted therapies. Biologic therapy boosts your body&apos;s own ability to fight cancer. Targeted therapy uses substances that attack cancer cells without harming normal cells.    NIH: National Cancer Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000482" source="GHR" url="https://ghr.nlm.nih.gov/condition/histidinemia">
+<Focus>histidinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220992</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HAL deficiency</Synonym>
+		<Synonym>HIS deficiency</Synonym>
+		<Synonym>histidase deficiency</Synonym>
+		<Synonym>histidine ammonia-lyase deficiency</Synonym>
+		<Synonym>hyperhistidinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000482-1" qtype="information">What is (are) histidinemia ?</Question>
+			<Answer>Histidinemia is an inherited condition characterized by elevated blood levels of the amino acid histidine, a building block of most proteins. Histidinemia is caused by the shortage (deficiency) of the enzyme that breaks down histidine. Histidinemia typically causes no health problems, and most people with elevated histidine levels are unaware that they have this condition.  The combination of histidinemia and a medical complication during or soon after birth (such as a temporary lack of oxygen) might increase a person&apos;s chances of developing intellectual disability, behavioral problems, or learning disorders.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000482-2" qtype="frequency">How many people are affected by histidinemia ?</Question>
+			<Answer>Estimates of the incidence of histidinemia vary widely, ranging between 1 in 8,600 to 1 in 90,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000482-3" qtype="genetic changes">What are the genetic changes related to histidinemia ?</Question>
+			<Answer>Histidinemia is caused by mutations in the HAL gene, which provides instructions for making an enzyme called histidase. Histidase breaks down histidine to a molecule called urocanic acid. Histidase is active (expressed) primarily in the liver and the skin.  HAL gene mutations lead to the production of a histidase enzyme that cannot break down histidine, which results in elevated levels of histidine in the blood and urine. These increased levels of histidine do not appear to have any negative effects on the body.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000482-4" qtype="inheritance">Is histidinemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000482-5" qtype="treatment">What are the treatments for histidinemia ?</Question>
+			<Answer>These resources address the diagnosis or management of histidinemia:  - Genetic Testing Registry: Histidinemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000207" source="NINDS" url="http://www.ninds.nih.gov/disorders/myoclonus/myoclonus.htm">
+<Focus>Myoclonus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027066</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000207-1" qtype="information">What is (are) Myoclonus ?</Question>
+			<Answer>Myoclonus refers to a sudden, involuntary jerking of a muscle or group of muscles. In its simplest form, myoclonus consists of a muscle twitch followed by relaxation. A hiccup is an example of this type of myoclonus. Other familiar examples of myoclonus are the jerks or &quot;sleep starts&quot; that some people experience while drifting off to sleep. These simple forms of myoclonus occur in normal, healthy persons and cause no difficulties. When more widespread, myoclonus may involve persistent, shock-like contractions in a group of muscles. Myoclonic jerking may develop in people with multiple sclerosis, Parkinson&apos;s disease, Alzheimer&apos;s disease, or Creutzfeldt-Jakob disease. Myoclonic jerks commonly occur in persons with epilepsy, a disorder in which the electrical activity in the brain becomes disordered and leads to seizures. Myoclonus may develop in response to infection, head or spinal cord injury, stroke, brain tumors, kidney or liver failure, lipid storage disease, chemical or drug poisoning, or other disorders. It can occur by itself, but most often it is one of several symptoms associated with a wide variety of nervous system disorders.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000207-2" qtype="treatment">What are the treatments for Myoclonus ?</Question>
+			<Answer>Treatment of myoclonus focuses on medications that may help reduce symptoms. The drug of first choice is clonazepam, a type of tranquilizer. Many of the drugs used for myoclonus, such as barbiturates, phenytoin, and primidone, are also used to treat epilepsy. Sodium valproate is an alternative therapy for myoclonus and can be used either alone or in combination with clonazepam. Myoclonus may require the use of multiple drugs for effective treatment.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000207-3" qtype="outlook">What is the outlook for Myoclonus ?</Question>
+			<Answer>Simple forms of myoclonus occur in normal, healthy persons and cause no difficulties. In some cases, myoclonus begins in one region of the body and spreads to muscles in other areas. More severe cases of myoclonus can distort movement and severely limit a person&apos;s ability to eat, talk, or walk. These types of myoclonus may indicate an underlying disorder in the brain or nerves. Although clonazepam and sodium valproate are effective in the majority of people with myoclonus, some people have adverse reactions to these drugs. The beneficial effects of clonazepam may diminish over time if the individual develops a tolerance for the drug.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000207-4" qtype="research">what research (or clinical trials) is being done for Myoclonus ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research relating to myoclonus in its laboratories at the National Institutes of Health (NIH) and also supports additional research through grants to major medical institutions across the country. Scientists are seeking to understand the underlying biochemical basis of involuntary movements and to find the most effective treatment for myoclonus and other movement disorders. Researchers may be able to develop drug treatments that target specific biochemical changes involved in myoclonus. By combining several of these drugs, scientists hope to achieve greater control of myoclonic symptoms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000023" source="GHR" url="https://ghr.nlm.nih.gov/condition/adolescent-idiopathic-scoliosis">
+<Focus>adolescent idiopathic scoliosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2700406</CUI>
+			<CUI>C0410702</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AIS</Synonym>
+		<Synonym>late onset idiopathic scoliosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000023-1" qtype="information">What is (are) adolescent idiopathic scoliosis ?</Question>
+			<Answer>Adolescent idiopathic scoliosis is an abnormal curvature of the spine that appears in late childhood or adolescence. Instead of growing straight, the spine develops a side-to-side curvature, usually in an elongated &quot;S&quot; or &quot;C&quot; shape; the bones of the spine are also slightly twisted or rotated.  Adolescent idiopathic scoliosis appears during the adolescent growth spurt, a time when children are growing rapidly. In many cases the abnormal spinal curve is stable, although in some children the curve is progressive (meaning it becomes more severe over time). For unknown reasons, severe and progressive curves occur more frequently in girls than in boys. However, mild spinal curvature is equally common in girls and boys.  Mild scoliosis generally does not cause pain, problems with movement, or difficulty breathing. It may only be diagnosed if it is noticed during a regular physical examination or a scoliosis screening at school. The most common signs of the condition include a tilt or unevenness (asymmetry) in the shoulders, hips, or waist, or having one leg that appears longer than the other. A small percentage of affected children develop more severe, pronounced spinal curvature.  Scoliosis can occur as a feature of other conditions, including a variety of genetic syndromes. However, adolescent idiopathic scoliosis typically occurs by itself, without signs and symptoms affecting other parts of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000023-2" qtype="frequency">How many people are affected by adolescent idiopathic scoliosis ?</Question>
+			<Answer>Adolescent idiopathic scoliosis is the most common spinal abnormality in children. It affects an estimated 2 to 3 percent of children in the U.S.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000023-3" qtype="genetic changes">What are the genetic changes related to adolescent idiopathic scoliosis ?</Question>
+			<Answer>The term &quot;idiopathic&quot; means that the cause of this condition is unknown. Adolescent idiopathic scoliosis probably results from a combination of genetic and environmental factors. Studies suggest that the abnormal spinal curvature may be related to hormonal problems, abnormal bone or muscle growth, nervous system abnormalities, or other factors that have not been identified.  Researchers suspect that many genes are involved in adolescent idiopathic scoliosis. Some of these genes likely contribute to causing the disorder, while others play a role in determining the severity of spinal curvature and whether the curve is stable or progressive. Although many genes have been studied, few clear and consistent genetic associations with adolescent idiopathic scoliosis have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000023-4" qtype="inheritance">Is adolescent idiopathic scoliosis inherited ?</Question>
+			<Answer>Adolescent idiopathic scoliosis can be sporadic, which means it occurs in people without a family history of the condition, or it can cluster in families. The inheritance pattern of adolescent idiopathic scoliosis is unclear because many genetic and environmental factors appear to be involved. However, having a close relative (such as a parent or sibling) with adolescent idiopathic scoliosis increases a child&apos;s risk of developing the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000023-5" qtype="treatment">What are the treatments for adolescent idiopathic scoliosis ?</Question>
+			<Answer>These resources address the diagnosis or management of adolescent idiopathic scoliosis:  - Genetic Testing Registry: Scoliosis, idiopathic 1  - Genetic Testing Registry: Scoliosis, idiopathic 2  - Genetic Testing Registry: Scoliosis, idiopathic 3  - National Scoliosis Foundation: FAQs  - Scoliosis Research Society: Find A Specialist  - Scoliosis Research Society: For Adolescents   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

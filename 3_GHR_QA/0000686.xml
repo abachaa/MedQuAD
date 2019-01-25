@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000686" source="GHR" url="https://ghr.nlm.nih.gov/condition/multiminicore-disease">
+<Focus>multiminicore disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270962</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Minicore disease</Synonym>
+		<Synonym>Minicore myopathy</Synonym>
+		<Synonym>MmD</Synonym>
+		<Synonym>Multi-minicore disease</Synonym>
+		<Synonym>Multicore disease</Synonym>
+		<Synonym>Multicore myopathy</Synonym>
+		<Synonym>Multiminicore myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000686-1" qtype="information">What is (are) multiminicore disease ?</Question>
+			<Answer>Multiminicore disease is a disorder that primarily affects muscles used for movement (skeletal muscles). This condition causes muscle weakness and related health problems that range from mild to life-threatening.  Researchers have identified at least four forms of multiminicore disease, which can be distinguished by their characteristic signs and symptoms. The most common form, called the classic form, causes muscle weakness beginning in infancy or early childhood. This weakness is most noticeable in muscles of the trunk and neck (axial muscles) and is less severe in the arm and leg muscles. Muscle weakness causes affected infants to appear &quot;floppy&quot; (hypotonic) and can delay the development of motor skills such as sitting, standing, and walking. The disease causes muscles of the ribcage and spine to stiffen. When combined with weakness of the muscles needed for breathing, this stiffness leads to severe or life-threatening respiratory problems. Almost all children with multiminicore disease develop an abnormal curvature of the spine (scoliosis), which appears during childhood and steadily worsens over time.  Other forms of multiminicore disease have different patterns of signs and symptoms. They are less common than the classic form, together accounting for about 25 percent of all cases. The atypical forms of the condition tend to be milder and cause few or no problems with breathing. The moderate form with hand involvement causes muscle weakness and looseness of the joints, particularly in the arms and hands. Another form of multiminicore disease, known as the antenatal form with arthrogryposis, is characterized by stiff, rigid joints throughout the body (arthrogryposis), distinctive facial features, and other birth defects. Paralysis of the eye muscles (external ophthalmoplegia) is a primary feature of another atypical form of multiminicore disease. This form of the condition also causes general muscle weakness and feeding difficulties that appear in the first year of life.  Many people with multiminicore disease also have an increased risk of a developing a severe reaction to certain drugs used during surgery and other invasive procedures. This reaction is called malignant hyperthermia. Malignant hyperthermia occurs in response to some anesthetic gases, which are used to block the sensation of pain, and with a particular type of muscle relaxant. If given these drugs, people at risk for malignant hyperthermia may experience muscle rigidity, breakdown of muscle fibers (rhabdomyolysis), a high fever, increased acid levels in the blood and other tissues (acidosis), and a rapid heart rate. The complications of malignant hyperthermia can be life-threatening unless they are treated promptly.  Multiminicore disease gets its name from small, disorganized areas called minicores, which are found in muscle fibers of many affected individuals. These abnormal regions can only be seen under a microscope. Although the presence of minicores can help doctors diagnose multiminicore disease, it is unclear how they are related to muscle weakness and the other features of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000686-2" qtype="frequency">How many people are affected by multiminicore disease ?</Question>
+			<Answer>Multiminicore disease is thought to be a rare disorder, although its incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000686-3" qtype="genetic changes">What are the genetic changes related to multiminicore disease ?</Question>
+			<Answer>Mutations in the RYR1 and SEPN1 genes cause multiminicore disease.  The severe, classic form of multiminicore disease is usually caused by mutations in the SEPN1 gene. This gene provides instructions for making a protein called selenoprotein N. Although its function is unknown, researchers suspect that this protein may play a role in the formation of muscle tissue before birth. It may also be important for normal muscle function after birth. It is unclear, however, how mutations in the SEPN1 gene lead to muscle weakness and the other features of multiminicore disease.  Atypical forms of multiminicore disease often result from mutations in the RYR1 gene. RYR1 mutations are also associated with an increased risk of malignant hyperthermia. This gene provides instructions for making a protein called ryanodine receptor 1, which plays an essential role in skeletal muscles. For the body to move normally, these muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of charged atoms (ions) into muscle cells. In response to certain signals, the ryanodine receptor 1 protein forms a channel that releases stored calcium ions within muscle cells. The resulting increase in calcium ion concentration inside muscle cells stimulates muscle fibers to contract.  Mutations in the RYR1 gene change the structure and function of the ryanodine receptor 1 protein. Some mutations may lead to problems with regulation of the RYR1 channel, while other mutations appear to change the shape of the channel in such a way that calcium ions cannot flow through properly. A disruption in calcium ion transport prevents muscles from contracting normally, leading to the muscle weakness characteristic of multiminicore disease.  In some affected families, the genetic cause of the disorder has not been found. Mutations in genes other than SEPN1 and RYR1 may underlie the condition in these families.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000686-4" qtype="inheritance">Is multiminicore disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000686-5" qtype="treatment">What are the treatments for multiminicore disease ?</Question>
+			<Answer>These resources address the diagnosis or management of multiminicore disease:  - Gene Review: Gene Review: Multiminicore Disease  - Genetic Testing Registry: Minicore myopathy with external ophthalmoplegia  - Genetic Testing Registry: Minicore myopathy, antenatal onset, with arthrogryposis  - Genetic Testing Registry: Multiminicore Disease  - MedlinePlus Encyclopedia: Malignant Hyperthermia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

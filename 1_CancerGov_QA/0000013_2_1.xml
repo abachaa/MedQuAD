@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000013_2" source="CancerGov" url="https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq">
+<Focus>Polycythemia Vera</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032463</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000013_2-1" qtype="information">What is (are) Polycythemia Vera ?</Question>
+			<Answer>Key Points
+                    - Polycythemia vera is a disease in which too many red blood cells are made in the bone marrow.    - Symptoms of polycythemia vera include headaches and a feeling of fullness below the ribs on the left side.    - Special blood tests are used to diagnose polycythemia vera.
+                
+                
+                    Polycythemia vera is a disease in which too many red blood cells are made in the bone marrow.
+                    In polycythemia vera, the blood becomes thickened with too many red blood cells. The number of white blood cells and platelets may also increase. These extra blood cells may collect in the spleen and cause it to swell. The increased number of red blood cells, white blood cells, or platelets in the blood can cause bleeding problems and make clots form in blood vessels. This can increase the risk of stroke or heart attack. In patients who are older than 65 years or who have a history of blood clots, the risk of stroke or heart attack is higher. Patients also have an increased risk of acute myeloid leukemia or primary myelofibrosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000013_2-2" qtype="symptoms">What are the symptoms of Polycythemia Vera ?</Question>
+			<Answer>Symptoms of polycythemia vera include headaches and a feeling of fullness below the ribs on the left side. Polycythemia vera often does not cause early signs or symptoms. It may be found during a routine blood test. Signs and symptoms may occur as the number of blood cells increases. Other conditions may cause the same signs and symptoms. Check with your doctor if you have any of the following:         - A feeling of pressure or fullness below the ribs on the left side.    - Headaches.    - Double vision or seeing dark or blind spots that come and go.    - Itching all over the body, especially after being in warm or hot water.    - Reddened face that looks like a blush or sunburn.    - Weakness.    - Dizziness.    - Weight loss for no known reason.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000013_2-3" qtype="exams and tests">How to diagnose Polycythemia Vera ?</Question>
+			<Answer>Special blood tests are used to diagnose polycythemia vera. In addition to a complete blood count, bone marrow aspiration and biopsy, and cytogenetic analysis, a serum erythropoietin test is used to diagnose polycythemia vera. In this test, a sample of blood is checked for the level of erythropoietin (a hormone that stimulates new red blood cells to be made). In polycythemia vera, the erythropoietin level would be lower than normal because the body does not need to make more red blood cells.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000013_2-4" qtype="treatment">What are the treatments for Polycythemia Vera ?</Question>
+			<Answer>The purpose of treatment for polycythemia vera is to reduce the number of extra blood cells. Treatment of polycythemia vera may include the following:             -  Phlebotomy.     -  Chemotherapy with or without phlebotomy.     -  Biologic therapy using interferon alfa or pegylated interferon alpha.     - Low-dose aspirin.            Check the list of NCI-supported cancer clinical trials that are now accepting patients with polycythemia vera. For more specific results, refine the search by using other search features, such as the location of the trial, the type of treatment, or the name of the drug. Talk with your doctor about clinical trials that may be right for you. General information about clinical trials is available from the NCI website.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

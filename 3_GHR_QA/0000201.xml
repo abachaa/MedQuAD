@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000201" source="GHR" url="https://ghr.nlm.nih.gov/condition/cole-disease">
+<Focus>Cole disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3809781</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>guttate hypopigmentation and punctate palmoplantar keratoderma with or without ectopic calcification</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000201-1" qtype="information">What is (are) Cole disease ?</Question>
+			<Answer>Cole disease is a disorder that affects the skin. People with this disorder have areas of unusually light-colored skin (hypopigmentation), typically on the arms and legs, and spots of thickened skin on the palms of the hands and the soles of the feet (punctate palmoplantar keratoderma). These skin features are present at birth or develop in the first year of life.  In some cases, individuals with Cole disease develop abnormal accumulations of the mineral calcium (calcifications) in the tendons, which can cause pain during movement. Calcifications may also occur in the skin or breast tissue.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000201-2" qtype="frequency">How many people are affected by Cole disease ?</Question>
+			<Answer>Cole disease is a rare disease; its prevalence is unknown. Only a few affected families have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000201-3" qtype="genetic changes">What are the genetic changes related to Cole disease ?</Question>
+			<Answer>Cole disease is caused by mutations in the ENPP1 gene. This gene provides instructions for making a protein that helps to prevent minerals, including calcium, from being deposited in body tissues where they do not belong. It also plays a role in controlling cell signaling in response to the hormone insulin, through interaction between a part of the ENPP1 protein called the SMB2 domain and the insulin receptor. The insulin receptor is a protein that attaches (binds) to insulin and initiates cell signaling.  Insulin plays many roles in the body, including regulating blood sugar levels by controlling how much sugar (in the form of glucose) is passed from the bloodstream into cells to be used as energy. Cell signaling in response to insulin is also important for the maintenance of the outer layer of skin (the epidermis). It helps control the transport of the pigment melanin from the cells in which it is produced (melanocytes) to epidermal cells called keratinocytes, and it is also involved in the development of keratinocytes.  The mutations that cause Cole disease change the structure of the SMB2 domain, which alters its interaction with the insulin receptor and affects cell signaling. The resulting impairment of ENPP1&apos;s role in melanin transport and keratinocyte development leads to the hypopigmentation and keratoderma that occurs in Cole disease. The mutations may also impair ENPP1&apos;s control of calcification, which likely accounts for the abnormal calcium deposits that occur in some people with this disorder. For reasons that are unclear, the changes in insulin signaling resulting from these ENPP1 gene mutations do not seem to affect blood sugar control.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000201-4" qtype="inheritance">Is Cole disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases of this disorder, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000201-5" qtype="treatment">What are the treatments for Cole disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Cole disease:  - Genetic Testing Registry: Cole disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

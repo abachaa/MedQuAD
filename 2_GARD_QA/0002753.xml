@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002753" source="GARD" url="https://rarediseases.info.nih.gov/gard/2627/hemangiopericytoma">
+<Focus>Hemangiopericytoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018922</CUI>
+			<CUI>C0349622</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002753-1" qtype="information">What is (are) Hemangiopericytoma ?</Question>
+			<Answer>Hemangiopericytoma is a term used to described a group of tumors that are derived from pericytes, the cells normally arranged along specific types of blood vessels called capillaries and venules. These types of tumors are typically slow-growing, may be either benign (non-cancerous) or malignant (cancerous), and may occur anywhere in the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002753-2" qtype="symptoms">What are the symptoms of Hemangiopericytoma ?</Question>
+			<Answer>What are the signs and symptoms of Hemangiopericytoma? The Human Phenotype Ontology provides the following list of signs and symptoms for Hemangiopericytoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the cardiovascular system - Autosomal recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002753-3" qtype="causes">What causes Hemangiopericytoma ?</Question>
+			<Answer>What causes hemangiopericytoma? The cause of the disease is unknown, and no strong clinical data exist to indicate a convincing link to specific causes. Some reports suggest a relationship between hemangiopericytoma and occupational vinyl chloride exposure, as well as exposure to herbicides.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002753-4" qtype="treatment">What are the treatments for Hemangiopericytoma ?</Question>
+			<Answer>What treatment is available for meningeal hemangiopericytoma? Radical surgical resection with removal of all meningeal attachments is typically the preferred treatment. However this treatment option is generally possible in only 50-67% of patients who have meningeal hemangiopericytoma. Embolization prior to surgery is recommended because of the excessive bleeding associated with these tumors. Embolization is a method of stopping the blood flow to the tumor. This can be done mechanicially or through the use of chemicals that cause blood vessels to close. If chemicals that kill cells are used during embolization the procedure is referred to as chemoembolization.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

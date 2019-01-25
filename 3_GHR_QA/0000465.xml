@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000465" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-leiomyomatosis-and-renal-cell-cancer">
+<Focus>hereditary leiomyomatosis and renal cell cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206654</CUI>
+			<CUI>C1708350</CUI>
+			<CUI>C0007134</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hereditary leiomyomatosis and renal cell carcinoma</Synonym>
+		<Synonym>HLRCC</Synonym>
+		<Synonym>leiomyomatosis and renal cell cancer</Synonym>
+		<Synonym>LRCC</Synonym>
+		<Synonym>MCL</Synonym>
+		<Synonym>MCUL</Synonym>
+		<Synonym>multiple cutaneous and uterine leiomyomata</Synonym>
+		<Synonym>multiple cutaneous leiomyoma</Synonym>
+		<Synonym>Reed's syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000465-1" qtype="information">What is (are) hereditary leiomyomatosis and renal cell cancer ?</Question>
+			<Answer>Hereditary leiomyomatosis and renal cell cancer (HLRCC) is a disorder in which affected individuals tend to develop benign tumors containing smooth muscle tissue (leiomyomas) in the skin and, in females, the uterus. This condition also increases the risk of kidney cancer.  In this disorder, growths on the skin (cutaneous leiomyomas) typically develop in the third decade of life. Most of these growths arise from the tiny muscles around the hair follicles that cause &quot;goosebumps&quot;. They appear as bumps or nodules on the trunk, arms, legs, and occasionally on the face. Cutaneous leiomyomas may be the same color as the surrounding skin, or they may be darker. Some affected individuals have no cutaneous leiomyomas or only a few, but the growths tend to increase in size and number over time. Cutaneous leiomyomas are often more sensitive than the surrounding skin to cold or light touch, and may be painful.  Most women with HLRCC also develop uterine leiomyomas (fibroids). While uterine fibroids are very common in the general population, women with HLRCC tend to have numerous large fibroids that appear earlier than in the general population.  Approximately 10 percent to 16 percent of people with HLRCC develop a type of kidney cancer called renal cell cancer. The signs and symptoms of renal cell cancer may include lower back pain, blood in the urine, or a mass in the kidney that can be felt upon physical examination. Some people with renal cell cancer have no symptoms until the disease is advanced. The average age at which people with HLRCC are diagnosed with kidney cancer is in their forties.  This disorder, especially if it appears in individuals or families without renal cell cancer, is also sometimes called multiple cutaneous leiomyomatosis (MCL) or multiple cutaneous and uterine leiomyomatosis (MCUL).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000465-2" qtype="frequency">How many people are affected by hereditary leiomyomatosis and renal cell cancer ?</Question>
+			<Answer>HLRCC has been reported in approximately 100 families worldwide. Its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000465-3" qtype="genetic changes">What are the genetic changes related to hereditary leiomyomatosis and renal cell cancer ?</Question>
+			<Answer>Mutations in the FH gene cause hereditary leiomyomatosis and renal cell cancer. The FH gene provides instructions for making an enzyme called fumarase (also known as fumarate hydratase). This enzyme participates in an important series of reactions known as the citric acid cycle or Krebs cycle, which allows cells to use oxygen and generate energy. Specifically, fumarase helps convert a molecule called fumarate to a molecule called malate.  People with HLRCC are born with one mutated copy of the FH gene in each cell. The second copy of the FH gene in certain cells may also acquire mutations as a result of environmental factors such as ultraviolet radiation from the sun or a mistake that occurs as DNA copies itself during cell division.  FH gene mutations may interfere with the enzyme&apos;s role in the citric acid cycle, resulting in a buildup of fumarate. Researchers believe that the excess fumarate may interfere with the regulation of oxygen levels in the cell. Chronic oxygen deficiency (hypoxia) in cells with two mutated copies of the FH gene may encourage tumor formation and result in the tendency to develop leiomyomas and renal cell cancer.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000465-4" qtype="inheritance">Is hereditary leiomyomatosis and renal cell cancer inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000465-5" qtype="treatment">What are the treatments for hereditary leiomyomatosis and renal cell cancer ?</Question>
+			<Answer>These resources address the diagnosis or management of HLRCC:  - Gene Review: Gene Review: Hereditary Leiomyomatosis and Renal Cell Cancer  - Genetic Testing Registry: Hereditary leiomyomatosis and renal cell cancer  - MedlinePlus Encyclopedia: Renal Cell Carcinoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001301" source="GARD" url="https://rarediseases.info.nih.gov/gard/3770/chromosome-8q-deletion">
+<Focus>Chromosome 8q deletion</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1442161</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T049</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Deletion 8q</Synonym>
+		<Synonym>Monosomy 8q</Synonym>
+		<Synonym>8q deletion</Synonym>
+		<Synonym>8q monosomy</Synonym>
+		<Synonym>Partial monosomy 8q</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001301-1" qtype="information">What is (are) Chromosome 8q deletion ?</Question>
+			<Answer>Chromosome 8q deletion is a chromosome abnormality that occurs when there is a missing copy of the genetic material located on the long arm (q) of chromosome 8. The severity of the condition and the signs and symptoms depend on the size and location of the deletion and which genes are involved. Features that often occur in people with chromosome 8q deletion include developmental delay, intellectual disability, behavioral problems, and distinctive facial features. Most cases are not inherited, but people can pass the deletion on to their children. Treatment is based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

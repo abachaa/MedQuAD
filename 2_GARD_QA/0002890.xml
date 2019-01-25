@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002890" source="GARD" url="https://rarediseases.info.nih.gov/gard/6660/hirschsprungs-disease">
+<Focus>Hirschsprung's disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019569</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HSCR</Synonym>
+		<Synonym>Hirschsprung disease 1</Synonym>
+		<Synonym>HSCR 1</Synonym>
+		<Synonym>Aganglionic megacolon</Synonym>
+		<Synonym>Hirschsprung disease type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002890-1" qtype="information">What is (are) Hirschsprung's disease ?</Question>
+			<Answer>Hirschsprung disease is a disease of the large intestine or colon. People with this disease do not have the nerve cells in the intestine required to expel stools from the body normally. Symptoms of Hirschsprung disease usually show up in very young children, but sometimes not until adolescence or adulthood. The symptoms may vary with age, but often involve constipation and/or obstruction of the bowel.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002890-2" qtype="symptoms">What are the symptoms of Hirschsprung's disease ?</Question>
+			<Answer>What are the signs and symptoms of Hirschsprung&apos;s disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Hirschsprung&apos;s disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal pain 90% Aganglionic megacolon 90% Constipation 90% Intestinal obstruction 90% Nausea and vomiting 90% Weight loss 50% Adducted thumb 7.5% Cognitive impairment 7.5% Diarrhea 7.5% Intestinal polyposis 7.5% Neoplasm of the thyroid gland 7.5% Sensorineural hearing impairment 7.5% Sepsis 7.5% Short stature 7.5% Abdominal distention - Abnormality of the enteric ganglia - Autosomal dominant inheritance - Enterocolitis - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002890-3" qtype="causes">What causes Hirschsprung's disease ?</Question>
+			<Answer>What causes Hirschsprung disease? There are a number of different causes of Hirschsprung disease (HSCR). For example, HSCR may occur as: A part of a syndrome In association with a chromosome anomaly (such as trisomy 21 or Down syndrome)  Along with other birth defects but not as a part of a known syndrome As an isolated condition</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002890-4" qtype="inheritance">Is Hirschsprung's disease inherited ?</Question>
+			<Answer>Is Hirschsprung&apos;s disease inherited? Hirschsprung&apos;s disease (HSCR) usually occurs occurs by itself without other symptoms and is called isolated HSCR. Isolated HSCR has multifactorial inheritance, which means that multiple genes interact with environmental factors to cause the condition. When someone has a child with isolated HSCR, the overall risk to have another child with the condition is 4%. There are some factors that can change the risk. For example, the risk is higher if the sibling has long-segment disease rather than short-segment disease. Also males are more likely than females to develop HSCR. Another factor is if the siblings have the same or different parents.  If HSCR occurs as part of a genetic syndrome, then it is inherited in a specific pattern. For example, the inheritance may be autosomal recessive, autosomal dominant, or X-linked recessive, depending on the exact cause of the syndrome.  Individuals who are interested in learning about their personal risks or risks to family members should speak with their health care provider or a genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

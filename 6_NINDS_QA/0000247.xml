@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000247" source="NINDS" url="http://www.ninds.nih.gov/disorders/rett/rett.htm">
+<Focus>Rett Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035372</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000247-1" qtype="information">What is (are) Rett Syndrome ?</Question>
+			<Answer>Rett syndrome is a childhood neurodevelopmental disorder that affects females almost exclusively. The child generally appears to grow and develop normally, before symptoms begin. Loss of muscle tone is usually the first symptom. Other early symptoms may include a slowing of development, problems crawling or walking, and diminished eye contact. As the syndrome progresses, a child will lose purposeful use of her hands and the ability to speak. Compulsive hand movements such as wringing and washing follow the loss of functional use of the hands. The inability to perform motor functions is perhaps the most severely disabling feature of Rett syndrome, interfering with every body movement, including eye gaze and speech.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000247-2" qtype="treatment">What are the treatments for Rett Syndrome ?</Question>
+			<Answer>There is no cure for Rett syndrome. Treatment for the disorder is symptomatic, focusing on the management of symptoms, and supportive. Medication may be needed for breathing irregularities and motor difficulties, and antiepileptic drugs may be used to control seizures. Occupational therapy, physiotherapy, and hydrotherapy may prolong mobility. Some children may require special equipment and aids such as braces to arrest scoliosis, splints to modify hand movements, and nutritional programs to help them maintain adequate weight. Special academic, social, vocational, and support services may be required in some cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000247-3" qtype="outlook">What is the outlook for Rett Syndrome ?</Question>
+			<Answer>The course of Rett syndrome, including the age of onset and the severity of symptoms, varies from child to child. Despite the difficulties with symptoms, most individuals with Rett syndrome continue to live well into middle age and beyond. Because the disorder is rare, very little is known about long-term prognosis and life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000247-4" qtype="research">what research (or clinical trials) is being done for Rett Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to Rett syndrome in laboratories at the NIH, and also support additional Rett syndrome research through grants to major medical institutions across the country. The discovery of the Rett syndrome gene in 1999 provides a basis for further genetic studies. Understanding the cause of this disorder is necessary for developing new therapies to manage specific symptoms, as well as for providing better methods of diagnosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

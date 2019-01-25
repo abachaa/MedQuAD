@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000152" source="NINDS" url="http://www.ninds.nih.gov/disorders/huntington/huntington.htm">
+<Focus>Huntington's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020179</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000152-1" qtype="information">What is (are) Huntington's Disease ?</Question>
+			<Answer>Huntington&apos;s disease (HD) is an inherited disorder that causes degeneration of brain cells, called neurons, in motor control regions of the brain, as well as other areas. Symptoms of the disease, which gets progressively worse, include uncontrolled movements (called chorea), abnormal body postures, and changes in behavior, emotion, judgment, and cognition. People with HD also develop impaired coordination, slurred speech, and difficulty feeding and swallowing. HD typically begins between ages 30 and 50. An earlier onset form called juvenile HD, occurs under age 20. Symptoms of juvenile HD differ somewhat from adult onset HD and include unsteadiness, rigidity, difficulty at school, and seizures. More than 30,000 Americans have HD.  Huntingtons disease is caused by a mutation in the gene for a protein called huntingtin. The defect causes the cytosine, adenine, and guanine (CAG) building blocks of DNA to repeat many more times than is normal. Each child of a parent with HD has a 50-50 chance of inheriting the HD gene. If a child does not inherit the HD gene, he or she will not develop the disease and generally cannot pass it to subsequent generations. There is a small risk that someone who has a parent with the mutated gene but who did not inherit the HD gene may pass a possibly harmful genetic sequence to her/his children. A person who inherits the HD gene will eventually develop the disease. A genetic test, coupled with a complete medical history and neurological and laboratory tests, helps physicians diagnose HD.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000152-2" qtype="treatment">What are the treatments for Huntington's Disease ?</Question>
+			<Answer>There is no treatment that can stop or reverse the course of HD. Tetrabenazine is prescribed for treating Huntingtons-associated chorea. It is the only drug approved by the U.S. Food and Drug Administration specifically for use against HD. Antipsychotic drugs may help to alleviate chorea and may also be used to help control hallucinations, delusions, and violent outbursts. Drugs may be prescribed to treat depression and anxiety. Drugs used to treat the symptoms of HD may have side effects such as fatigue, sedation, decreased concentration, restlessness, or hyperexcitability, and should be only used when symptoms create problems for the individual.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000152-3" qtype="outlook">What is the outlook for Huntington's Disease ?</Question>
+			<Answer>Huntingtons disease causes disability that gets worse over time. People with this disease usually die within 15 to 20 years following diagnosis. At this time, no treatment is available to slow, stop or reverse the course of HD.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000152-4" qtype="research">what research (or clinical trials) is being done for Huntington's Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. A major focus of research on HD is to understand the toxicity of mutant huntingin protein to brain cells and to develop potential drugs for counteracting it. Animal models of the disorder allow scientists to study mechanisms of the disease and to move forward with strategies most likely to work and least likely to cause harm for individuals. The HD gene discovery is allowing scientists to recruit individuals who carry the HD gene into clinical studies early  before they become ill. Researchers hope to understand how the defective gene affects various structures in the brain and the body&apos;s chemistry and metabolism. Since some of the clinical symptoms in neurodegenerative diseases may be caused by the ultimate malfunctioning of neuronal circuits rather than by the loss of individual cells, scientists are using cutting-edge methods such as optogenetics (where neurons are activated or silenced in the brains of living animals using light beams) to probe the cause and progression of such circuit defects in HD. Scientists are also using stem cells to study disease mechanisms and test potential therapeutic drugs.
+                
+The NINDS-funded PREDICT-HD study seeks to identify biomarkers (biological changes that can be used to predict, diagnose, or monitor a disease) for HD. One goal of PREDICT-HD is to determine if the progression of the disease correlates with changes in brain scans images, or with chemical changes in blood, urine, or cerebrospinal fluid. A large and related NINDS-supported study aims to identify additional genetic factors in people that influence the course of the disease. Since individuals with the same CAG expansions can differ widely in the age of disease onset and severity of symptoms, researchers are trying to identify variations in the genomes of individuals with HD that account for those differences in the hopes that they will point to new targets for disease intervention and therapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

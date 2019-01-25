@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000118" source="GHR" url="https://ghr.nlm.nih.gov/condition/benign-recurrent-intrahepatic-cholestasis">
+<Focus>benign recurrent intrahepatic cholestasis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0149841</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ABCB11-related intrahepatic cholestasis</Synonym>
+		<Synonym>ATP8B1-related intrahepatic cholestasis</Synonym>
+		<Synonym>BRIC</Synonym>
+		<Synonym>low gamma-GT familial intrahepatic cholestasis</Synonym>
+		<Synonym>recurrent familial intrahepatic cholestasis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000118-1" qtype="information">What is (are) benign recurrent intrahepatic cholestasis ?</Question>
+			<Answer>Benign recurrent intrahepatic cholestasis (BRIC) is characterized by episodes of liver dysfunction called cholestasis. During these episodes, the liver cells have a reduced ability to release a digestive fluid called bile. Because the problems with bile release occur within the liver (intrahepatic), the condition is described as intrahepatic cholestasis. Episodes of cholestasis can last from weeks to months, and the time between episodes, during which there are usually no symptoms, can vary from weeks to years.  The first episode of cholestasis usually occurs in an affected person&apos;s teens or twenties. An attack typically begins with severe itchiness (pruritus), followed by yellowing of the skin and whites of the eyes (jaundice) a few weeks later. Other general signs and symptoms that occur during these episodes include a vague feeling of discomfort (malaise), irritability, nausea, vomiting, and a lack of appetite. A common feature of BRIC is the reduced absorption of fat in the body, which leads to excess fat in the feces (steatorrhea). Because of a lack of fat absorption and loss of appetite, affected individuals often lose weight during episodes of cholestasis.  BRIC is divided into two types, BRIC1 and BRIC2, based on the genetic cause of the condition. The signs and symptoms are the same in both types.  This condition is called benign because it does not cause lasting damage to the liver. However, episodes of liver dysfunction occasionally develop into a more severe, permanent form of liver disease known as progressive familial intrahepatic cholestasis (PFIC). BRIC and PFIC are sometimes considered to be part of a spectrum of intrahepatic cholestasis disorders of varying severity.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000118-2" qtype="frequency">How many people are affected by benign recurrent intrahepatic cholestasis ?</Question>
+			<Answer>BRIC is a rare disorder. Although the prevalence is unknown, this condition is less common than the related disorder PFIC, which affects approximately 1 in 50,000 to 100,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000118-3" qtype="genetic changes">What are the genetic changes related to benign recurrent intrahepatic cholestasis ?</Question>
+			<Answer>Mutations in the ATP8B1 gene cause benign recurrent intrahepatic cholestasis type 1 (BRIC1), and mutations in the ABCB11 gene cause benign recurrent intrahepatic cholestasis type 2 (BRIC2). These two genes are involved in the release (secretion) of bile, a fluid produced by the liver that helps digest fats.  The ATP8B1 gene provides instructions for making a protein that helps to control the distribution of certain fats, called lipids, in the membranes of liver cells. This function likely plays a role in maintaining an appropriate balance of bile acids, a component of bile. This process, known as bile acid homeostasis, is critical for the normal secretion of bile and the proper functioning of liver cells. Although the mechanism is unclear, mutations in the ATP8B1 gene result in the buildup of bile acids in liver cells. The imbalance of bile acids leads to the signs and symptoms of BRIC1.  The ABCB11 gene provides instructions for making a protein called the bile salt export pump (BSEP). This protein is found in the liver, and its main role is to move bile salts (a component of bile) out of liver cells. Mutations in the ABCB11 gene result in a reduction of BSEP function. This reduction leads to a decrease of bile salt secretion, which causes the features of BRIC2.  The factors that trigger episodes of BRIC are unknown.  Some people with BRIC do not have a mutation in the ATP8B1 or ABCB11 gene. In these individuals, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000118-4" qtype="inheritance">Is benign recurrent intrahepatic cholestasis inherited ?</Question>
+			<Answer>Both types of BRIC are inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Some people with BRIC have no family history of the disorder. These cases arise from mutations in the ATP8B1 or ABCB11 gene that occur in the body&apos;s cells after conception and are not inherited.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000118-5" qtype="treatment">What are the treatments for benign recurrent intrahepatic cholestasis ?</Question>
+			<Answer>These resources address the diagnosis or management of benign recurrent intrahepatic cholestasis:  - Gene Review: Gene Review: ATP8B1 Deficiency  - Genetic Testing Registry: Benign recurrent intrahepatic cholestasis 1  - Genetic Testing Registry: Benign recurrent intrahepatic cholestasis 2  - Merck Manual Home Health Edition: Cholestasis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

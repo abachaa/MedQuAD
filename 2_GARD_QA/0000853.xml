@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000853" source="GARD" url="https://rarediseases.info.nih.gov/gard/9551/bronchiolitis-obliterans">
+<Focus>Bronchiolitis obliterans</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006272</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Obliterative bronchiolitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000853-1" qtype="information">What is (are) Bronchiolitis obliterans ?</Question>
+			<Answer>Bronchiolitis obliterans is an inflammatory obstruction of the lung&apos;s tiniest airways, the bronchioles. The bronchioles may become damaged and inflamed after inhalation of toxic fumes, as a result of respiratory infections, in association with connective tissue disorders, or after bone marrow or heart-lung transplants. This leads to extensive scarring that blocks the airways, leading to a dry cough, shortness of breath, fatigue and wheezing in the absence of a cold or asthma. While there is no way to reverse the disease, treatments are available to stabilize or slow the progression.   Another similarly named disease, bronchiolitis obliterans organizing pneumonia, is a completely different disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000853-2" qtype="symptoms">What are the symptoms of Bronchiolitis obliterans ?</Question>
+			<Answer>What are the signs and symptoms of bronchiolitis obliterans? Bronchiolitis obliterans is characterized by a dry cough and shortness of breath which develop 2 to 8 weeks after toxic fume exposure or a respiratory illness. Fatigue and wheezing in the absence of a cold or asthma may also be noted. While high resolution chest CT scans and pulmonary function tests may help to detect bronchiolitis obliterans, a surgical lung biopsy is the most definitive way to diagnose the disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000853-3" qtype="treatment">What are the treatments for Bronchiolitis obliterans ?</Question>
+			<Answer>How might bronchiolitis obliterans be treated? While there is no cure for this condition, treatment with corticosteroids can help to stabilize or slow its progression. Immunosuppressive therapies and lung transplants might also be used. Treatment is most effective during the early stages of the disease. If left untreated, bronchiolitis obliterans can be fatal.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

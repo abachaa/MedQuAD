@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000451" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/heatillness.html">
+<Focus>Heat Illness</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1456556</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Heat exhaustion</Synonym>
+		<Synonym>Sunstroke</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000451-1" qtype="information">What is (are) Heat Illness ?</Question>
+			<Answer>Your body normally cools itself by sweating. During hot weather, especially with high humidity, sweating just isn&apos;t enough. Your body temperature can rise to dangerous levels and you can develop a heat illness. Most heat illnesses occur from staying out in the heat too long. Exercising too much for your age and physical condition are also factors. Older adults, young children and those who are sick or overweight are most at risk. Drinking fluids to prevent dehydration, replenishing salt and minerals, and limiting time in the heat can help.    Heat-related illnesses include       -  Heatstroke - a life-threatening illness in which body temperature may rise above 106 F in minutes; symptoms include dry skin, rapid, strong pulse and dizziness     -  Heat exhaustion - an illness that can precede heatstroke; symptoms include heavy sweating, rapid breathing and a fast, weak pulse     -  Heat cramps - muscle pains or spasms that happen during heavy exercise     -  Heat rash - skin irritation from excessive sweating        Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

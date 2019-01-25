@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000342" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-cold-autoinflammatory-syndrome">
+<Focus>familial cold autoinflammatory syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009443</CUI>
+			<CUI>C0343068</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cold hypersensitivity</Synonym>
+		<Synonym>familial cold-induced autoinflammatory syndrome</Synonym>
+		<Synonym>familial cold urticaria</Synonym>
+		<Synonym>FCAS</Synonym>
+		<Synonym>FCU</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000342-1" qtype="information">What is (are) familial cold autoinflammatory syndrome ?</Question>
+			<Answer>Familial cold autoinflammatory syndrome is a condition that causes episodes of fever, skin rash, and joint pain after exposure to cold temperatures. These episodes usually begin in infancy and occur throughout life.  People with this condition usually experience symptoms after cold exposure of an hour or more, although in some individuals only a few minutes of exposure is required. Symptoms may be delayed for up to a few hours after the cold exposure. Episodes last an average of 12 hours, but may continue for up to 3 days.  In people with familial cold autoinflammatory syndrome, the most common symptom that occurs during an episode is an itchy or burning rash. The rash usually begins on the face or extremities and spreads to the rest of the body. Occasionally swelling in the extremities may occur.  In addition to the skin rash, episodes are characterized by fever, chills, and joint pain, most often affecting the hands, knees, and ankles. Redness in the whites of the eye (conjunctivitis), sweating, drowsiness, headache, thirst, and nausea may also occur during an episode of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000342-2" qtype="frequency">How many people are affected by familial cold autoinflammatory syndrome ?</Question>
+			<Answer>Familial cold autoinflammatory syndrome is a very rare condition, believed to have a prevalence of less than 1 per million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000342-3" qtype="genetic changes">What are the genetic changes related to familial cold autoinflammatory syndrome ?</Question>
+			<Answer>Mutations in the NLRP3 and NLRP12 genes cause familial cold autoinflammatory syndrome. The NLRP3 gene (also known as CIAS1) provides instructions for making a protein called cryopyrin, and the NLRP12 gene provides instructions for making the protein monarch-1.  Cryopyrin and monarch-1 belong to a family of proteins called nucleotide-binding domain and leucine-rich repeat containing (NLR) proteins. These proteins are involved in the immune system, helping to regulate the process of inflammation. Inflammation occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair. When this has been accomplished, the body stops (inhibits) the inflammatory response to prevent damage to its own cells and tissues.  Cryopyrin is involved in the assembly of a molecular complex called an inflammasome, which helps start the inflammatory process. Mutations in the NLRP3 gene result in a hyperactive cryopyrin protein that inappropriately triggers an inflammatory response.  Monarch-1 is involved in the inhibition of the inflammatory response. Mutations in the NLRP12 gene appear to reduce the ability of the monarch-1 protein to inhibit inflammation.  Impairment of the body&apos;s mechanisms for controlling inflammation results in the episodes of skin rash, fever, and joint pain seen in familial cold autoinflammatory syndrome. It is unclear why episodes are triggered by cold exposure in this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000342-4" qtype="inheritance">Is familial cold autoinflammatory syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern from an affected parent; one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000342-5" qtype="treatment">What are the treatments for familial cold autoinflammatory syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of familial cold autoinflammatory syndrome:  - Genetic Testing Registry: Familial cold autoinflammatory syndrome 2  - Genetic Testing Registry: Familial cold urticaria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

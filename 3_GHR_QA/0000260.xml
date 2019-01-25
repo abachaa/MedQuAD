@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000260" source="GHR" url="https://ghr.nlm.nih.gov/condition/cyclic-neutropenia">
+<Focus>cyclic neutropenia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221023</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cyclic hematopoesis</Synonym>
+		<Synonym>cyclic leucopenia</Synonym>
+		<Synonym>periodic neutropenia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000260-1" qtype="information">What is (are) cyclic neutropenia ?</Question>
+			<Answer>Cyclic neutropenia is a disorder that causes frequent infections and other health problems in affected individuals. People with this condition have recurrent episodes of neutropenia during which there is a shortage (deficiency) of neutrophils. Neutrophils are a type of white blood cell that plays a role in inflammation and in fighting infection. The episodes of neutropenia are apparent at birth or soon afterward. For most affected individuals, neutropenia recurs every 21 days and lasts about 3 to 5 days.  Neutropenia makes it more difficult for the body to fight off pathogens such as bacteria and viruses, so people with cyclic neutropenia typically develop recurrent infections of the sinuses, respiratory tract, and skin. Additionally, people with this condition often develop open sores (ulcers) in the mouth and colon, inflammation of the throat (pharyngitis) and gums (gingivitis), recurrent fever, or abdominal pain. People with cyclic neutropenia have these health problems only during episodes of neutropenia. At times when their neutrophil levels are normal, they are not at an increased risk of infection and inflammation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000260-2" qtype="frequency">How many people are affected by cyclic neutropenia ?</Question>
+			<Answer>Cyclic neutropenia is a rare condition and is estimated to occur in 1 in 1 million individuals worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000260-3" qtype="genetic changes">What are the genetic changes related to cyclic neutropenia ?</Question>
+			<Answer>Mutations in the ELANE gene cause cyclic neutropenia. The ELANE gene provides instructions for making a protein called neutrophil elastase, which is found in neutrophils. When the body starts an immune response to fight an infection, neutrophils release neutrophil elastase. This protein then modifies the function of certain cells and proteins to help fight the infection.  ELANE gene mutations that cause cyclic neutropenia lead to an abnormal neutrophil elastase protein that seems to retain some of its function. However, neutrophils that produce abnormal neutrophil elastase protein appear to have a shorter lifespan than normal neutrophils. The shorter neutrophil lifespan is thought to be responsible for the cyclic nature of this condition. When the affected neutrophils die early, there is a period in which there is a shortage of neutrophils because it takes time for the body to replenish its supply.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000260-4" qtype="inheritance">Is cyclic neutropenia inherited ?</Question>
+			<Answer>Cyclic neutropenia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000260-5" qtype="treatment">What are the treatments for cyclic neutropenia ?</Question>
+			<Answer>These resources address the diagnosis or management of cyclic neutropenia:  - Gene Review: Gene Review: ELANE-Related Neutropenia  - Genetic Testing Registry: Cyclical neutropenia  - Seattle Children&apos;s Hospital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

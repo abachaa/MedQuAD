@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005495" source="GARD" url="https://rarediseases.info.nih.gov/gard/9687/schistosomiasis">
+<Focus>Schistosomiasis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036323</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bilharzia</Synonym>
+		<Synonym>Blood fluke</Synonym>
+		<Synonym>Schistosoma mansoni infection</Synonym>
+		<Synonym>Katayama fever</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005495-1" qtype="information">What is (are) Schistosomiasis ?</Question>
+			<Answer>Schistosomiasis is a disease caused by parasitic worms. Although the worms that cause schistosomiasis are not found in the United States, more than 200 million people are infected worldwide. Infection occurs through contact with contaminated water. The parasite in its infective stages is called a cercaria. It swims freely in open bodies of water. On contact with humans, the parasite burrows into the skin, matures into another stage (schistosomula), then migrates to the lungs and liver, where it matures into the adult form. The adult worm then migrates to its preferred body part (bladder, rectum, intestines, liver, portal venous system (the veins that carry blood from the intestines to liver, spleen, lungs), depending on its species.  Schistosomiasis is common in many tropical and subtropical areas worldwide. It can be treated safely and effectively with praziquantel.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005495-2" qtype="symptoms">What are the symptoms of Schistosomiasis ?</Question>
+			<Answer>What are the signs and symptoms of Schistosomiasis? The Human Phenotype Ontology provides the following list of signs and symptoms for Schistosomiasis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the immune system - Autosomal dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005495-3" qtype="exams and tests">How to diagnose Schistosomiasis ?</Question>
+			<Answer>How is schistosomiasis diagnosed? Examination of stool and/or urine for ova is the primary method of diagnosis for schistosomiasis. The choice of sample depends on the suspected species, which may be determined by careful review of travel and residence history. The sensitivity of this testing can be limited by the intensity of infection. For best results, three samples should be collected on different days.  A blood sample can also be tested for evidence of infection. Blood tests are indicated for travelers or immigrants from endemic areas who have not been treated (or not treated appropriately) in the past. The most common tests detect antibodies to the adult worm. For accurate results, the blood sample tested should be collected at least 6 to 8 weeks after likely infection. Blood testing may not be appropriate for patients who have been repeatedly infected and treated in the past because antibodies can persist despite cure. In these patients, blood testing cannot distinguish between a past or current infection. A specific blood test has been developed for this population (which can detect an active infection based on the presence of  schistosomal antigen), but this test is not commercially available in the United States and is currently being studied for its ability to detect mild infections.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

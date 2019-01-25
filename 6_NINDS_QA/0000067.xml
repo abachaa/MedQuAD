@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000067" source="NINDS" url="http://www.ninds.nih.gov/disorders/cerebellar_hypoplasia/cerebellar_hypoplasia.htm">
+<Focus>Cerebellar Hypoplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266470</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000067-1" qtype="information">What is (are) Cerebellar Hypoplasia ?</Question>
+			<Answer>Cerebellar hypoplasia is a neurological condition in which the cerebellum is smaller than usual or not completely developed. Cerebellar hypoplasia is a feature of a number of congenital (present at birth) malformation syndromes, such as Walker-Warburg syndrome (a form of muscular dystrophy. It is also associated with several inherited metabolic disorders, such as Williams syndrome, and some of the neurodegenerative disorders that begin in early childhood, such as ataxia telangiectasia. In an infant or young child, symptoms of a disorder that features cerebellar hypoplasia might include floppy muscle tone, developmental or speech delay, problems with walking and balance, seizures, intellectual disability, and involuntary side to side movements of the eyes. In an older child, symptoms might include headache, dizzy spells, clumsiness, and hearing impairment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000067-2" qtype="treatment">What are the treatments for Cerebellar Hypoplasia ?</Question>
+			<Answer>There is no standard course of treatment for cerebellar hypoplasia. Treatment depends upon the underlying disorder and the severity of symptoms. Generally, treatment is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000067-3" qtype="outlook">What is the outlook for Cerebellar Hypoplasia ?</Question>
+			<Answer>The prognosis is dependent upon the underlying disorder. Some of the disorders that are associated with cerebellar hypoplasia are progressive, which means the condition will worsen over time, and will most likely have a poor prognosis. Other disorders that feature cerebellar hypoplasia are not progressive, such as those that are the result of abnormal brain formation during fetal development, and might have a better outcome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000067-4" qtype="research">what research (or clinical trials) is being done for Cerebellar Hypoplasia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) supports research related to cerebellar hypoplasia and its associated disorders through grants to major research institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders that feature cerebellar hypoplasia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

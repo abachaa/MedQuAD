@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000070" source="GHR" url="https://ghr.nlm.nih.gov/condition/aromatic-l-amino-acid-decarboxylase-deficiency">
+<Focus>aromatic l-amino acid decarboxylase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342686</CUI>
+			<CUI>C1291564</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AADC deficiency</Synonym>
+		<Synonym>DDC deficiency</Synonym>
+		<Synonym>deficiency of aromatic-L-amino-acid decarboxylase</Synonym>
+		<Synonym>dopa decarboxylase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000070-1" qtype="information">What is (are) aromatic l-amino acid decarboxylase deficiency ?</Question>
+			<Answer>Aromatic l-amino acid decarboxylase (AADC) deficiency is an inherited disorder that affects the way signals are passed between certain cells in the nervous system.  Signs and symptoms of AADC deficiency generally appear in the first year of life. Affected infants may have severe developmental delay, weak muscle tone (hypotonia), muscle stiffness, difficulty moving, and involuntary writhing movements of the limbs (athetosis). They may be lacking in energy (lethargic), feed poorly, startle easily, and have sleep disturbances. People with AADC deficiency may also experience episodes called oculogyric crises that involve abnormal rotation of the eyeballs; extreme irritability and agitation; and pain, muscle spasms, and uncontrolled movements, especially of the head and neck.  AADC deficiency may affect the autonomic nervous system, which controls involuntary body processes such as the regulation of blood pressure and body temperature. Resulting signs and symptoms can include droopy eyelids (ptosis), constriction of the pupils of the eyes (miosis), inappropriate or impaired sweating, nasal congestion, drooling, reduced ability to control body temperature, low blood pressure (hypotension), backflow of acidic stomach contents into the esophagus (gastroesophageal reflux), low blood sugar (hypoglycemia), fainting (syncope), and cardiac arrest.  Signs and symptoms of AADC deficiency tend to worsen late in the day or when the individual is tired, and improve after sleep.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000070-2" qtype="frequency">How many people are affected by aromatic l-amino acid decarboxylase deficiency ?</Question>
+			<Answer>AADC deficiency is a rare disorder. Only about 100 people with this condition have been described in the medical literature worldwide; about 20 percent of these individuals are from Taiwan.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000070-3" qtype="genetic changes">What are the genetic changes related to aromatic l-amino acid decarboxylase deficiency ?</Question>
+			<Answer>Mutations in the DDC gene cause AADC deficiency. The DDC gene provides instructions for making the AADC enzyme, which is important in the nervous system. This enzyme helps produce dopamine and serotonin from other molecules. Dopamine and serotonin are neurotransmitters, which are chemical messengers that transmit signals between nerve cells, both in the brain and spinal cord (central nervous system) and in other parts of the body (peripheral nervous system).  Mutations in the DDC gene result in reduced activity of the AADC enzyme. Without enough of this enzyme, nerve cells produce less dopamine and serotonin. Dopamine and serotonin are necessary for normal nervous system function, and changes in the levels of these neurotransmitters contribute to the developmental delay, intellectual disability, abnormal movements, and autonomic dysfunction seen in people with AADC deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000070-4" qtype="inheritance">Is aromatic l-amino acid decarboxylase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000070-5" qtype="treatment">What are the treatments for aromatic l-amino acid decarboxylase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of aromatic l-amino acid decarboxylase deficiency:  - Genetic Testing Registry: Deficiency of aromatic-L-amino-acid decarboxylase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

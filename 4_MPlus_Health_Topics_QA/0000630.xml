@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000630" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/muscledisorders.html">
+<Focus>Muscle Disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000630-1" qtype="information">What is (are) Muscle Disorders ?</Question>
+			<Answer>Your muscles help you move and help your body work. Different types of muscles have different jobs. There are many problems that can affect muscles. Muscle disorders can cause weakness, pain or even paralysis.     Causes of muscle disorders include       - Injury or overuse, such as sprains or strains, cramps or tendinitis     - A genetic disorder, such as muscular dystrophy    - Some cancers    - Inflammation, such as myositis    - Diseases of nerves that affect muscles    - Infections    - Certain medicines       Sometimes the cause is not known.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000717" source="GHR" url="https://ghr.nlm.nih.gov/condition/nemaline-myopathy">
+<Focus>nemaline myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206157</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>myopathies, nemaline</Synonym>
+		<Synonym>myopathy, nemaline</Synonym>
+		<Synonym>nemaline body disease</Synonym>
+		<Synonym>nemaline rod disease</Synonym>
+		<Synonym>rod body disease</Synonym>
+		<Synonym>rod-body myopathy</Synonym>
+		<Synonym>rod myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000717-1" qtype="information">What is (are) nemaline myopathy ?</Question>
+			<Answer>Nemaline myopathy is a disorder that primarily affects skeletal muscles, which are muscles that the body uses for movement. People with nemaline myopathy have muscle weakness (myopathy) throughout the body, but it is typically most severe in the muscles of the face, neck, and limbs. This weakness can worsen over time. Affected individuals may have feeding and swallowing difficulties, foot deformities, abnormal curvature of the spine (scoliosis), and joint deformities (contractures). Most people with nemaline myopathy are able to walk, although some affected children may begin walking later than usual. As the condition progresses, some people may require wheelchair assistance. In severe cases, the muscles used for breathing are affected and life-threatening breathing difficulties can occur.  Nemaline myopathy is divided into six types. In order of decreasing severity, the types are: severe congenital, Amish, intermediate congenital, typical congenital, childhood-onset, and adult-onset. The types are distinguished by the age when symptoms first appear and the severity of symptoms; however, there is overlap among the various types. The severe congenital type is the most life-threatening. Most individuals with this type do not survive past early childhood due to respiratory failure. The Amish type solely affects the Old Order Amish population of Pennsylvania and is typically fatal in early childhood. The most common type of nemaline myopathy is the typical congenital type, which is characterized by muscle weakness and feeding problems beginning in infancy. Most of these individuals do not have severe breathing problems and can walk unassisted. People with the childhood-onset type usually develop muscle weakness in adolescence. The adult-onset type is the mildest of all the various types. People with this type usually develop muscle weakness between ages 20 and 50.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000717-2" qtype="frequency">How many people are affected by nemaline myopathy ?</Question>
+			<Answer>Nemaline myopathy has an estimated incidence of 1 in 50,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000717-3" qtype="genetic changes">What are the genetic changes related to nemaline myopathy ?</Question>
+			<Answer>Mutations in one of many genes can cause nemaline myopathy. These genes provide instructions for producing proteins that play important roles in skeletal muscles. Within skeletal muscle cells, these proteins are found in structures called sarcomeres. Sarcomeres are necessary for muscles to tense (contract). Many of the proteins associated with nemaline myopathy interact within the sarcomere to facilitate muscle contraction. When the skeletal muscle cells of people with nemaline myopathy are stained and viewed under a microscope, these cells usually appear abnormal. These abnormal muscle cells contain rod-like structures called nemaline bodies.  Most cases of nemaline myopathy with a known genetic cause result from mutations in one of two genes, NEB or ACTA1. NEB gene mutations account for about 50 percent of all cases of nemaline myopathy and ACTA1 gene mutations account for 15 to 25 percent of all cases. When nemaline myopathy is caused by NEB gene mutations, signs and symptoms are typically present at birth or beginning in early childhood. When nemaline myopathy is caused by ACTA1 gene mutations, the condition&apos;s severity and age of onset vary widely. Mutations in the other genes associated with nemaline myopathy each account for only a small percentage of cases.  Mutations in any of the genes associated with nemaline myopathy lead to disorganization of the proteins found in the sarcomeres of skeletal muscles. The disorganized proteins cannot interact normally, which disrupts muscle contraction. Inefficient muscle contraction leads to muscle weakness and the other features of nemaline myopathy.  Some individuals with nemaline myopathy do not have an identified mutation. The genetic cause of the disorder is unknown in these individuals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000717-4" qtype="inheritance">Is nemaline myopathy inherited ?</Question>
+			<Answer>Nemaline myopathy is usually inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Less often, this condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000717-5" qtype="treatment">What are the treatments for nemaline myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of nemaline myopathy:  - Gene Review: Gene Review: Nemaline Myopathy  - Genetic Testing Registry: Nemaline myopathy  - Genetic Testing Registry: Nemaline myopathy 1  - Genetic Testing Registry: Nemaline myopathy 10  - Genetic Testing Registry: Nemaline myopathy 2  - Genetic Testing Registry: Nemaline myopathy 3  - Genetic Testing Registry: Nemaline myopathy 4  - Genetic Testing Registry: Nemaline myopathy 5  - Genetic Testing Registry: Nemaline myopathy 6  - Genetic Testing Registry: Nemaline myopathy 7  - Genetic Testing Registry: Nemaline myopathy 8  - Genetic Testing Registry: Nemaline myopathy 9   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

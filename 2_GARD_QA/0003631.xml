@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003631" source="GARD" url="https://rarediseases.info.nih.gov/gard/9671/lipodermatosclerosis">
+<Focus>Lipodermatosclerosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0406500</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acute lipodermatosclerosis</Synonym>
+		<Synonym>Hypodermitis sclerodermaformis</Synonym>
+		<Synonym>Sclerosing panniculitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003631-1" qtype="information">What is (are) Lipodermatosclerosis ?</Question>
+			<Answer>Lipodermatosclerosis refers to changes in the skin of the lower legs. It is a form of panniculitis (inflammation of the layer of fat under the skin). Signs and symptoms include pain, hardening of skin, change in skin color (redness), swelling, and a tapering of the legs above the ankles. The exact underlying cause is unknown; however, it appears to be associated with venous insufficiency and/or obesity. Treatment usually includes compression therapy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003631-2" qtype="symptoms">What are the symptoms of Lipodermatosclerosis ?</Question>
+			<Answer>What are the signs and symptoms of lipodermatosclerosis? Lipodermatosclerosis refers to changes in the skin of the lower legs. One or both legs may be involved. Signs and symptoms vary but may include: Pain Hardening and/or thickening of the skin Varicose veins Changes in skin color (redness) Small white scarred areas (atrophie blanche) Swelling Leg ulcers Tapering of the legs above the ankles</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003631-3" qtype="causes">What causes Lipodermatosclerosis ?</Question>
+			<Answer>What causes lipodermatosclerosis? The exact cause of lipodermatosclerosis is unknown; however, it may be related to certain vein abnormalities and/or obesity. Lipodermatosclerosis often occurs in people with venous insufficiency. Approximately two thirds of affected people are obese.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003631-4" qtype="exams and tests">How to diagnose Lipodermatosclerosis ?</Question>
+			<Answer>How is lipodermatosclerosis diagnosed? Lipodermatosclerosis is usually diagnosed based on the presence of characteristic signs and symptoms. A skin biopsy and/or blood tests are usually not required to confirm a diagnosis but may be performed in rare cases. Ultrasound scans and/or magnetic resonance imaging (MRI) may be used to obtain more information regarding the severity of the condition and to determine the best treatment approach.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003631-5" qtype="treatment">What are the treatments for Lipodermatosclerosis ?</Question>
+			<Answer>How might lipodermatosclerosis be treated? Lipodermatosclerosis is primarily treated with compression therapy to improve venous insufficiency. Other strategies for managing venous insufficiency include leg elevation; not sitting or standing in one place for long periods of time; regular exercise; and weight loss if overweight or obese. Some affected people may require medications to prevent blood clotting; reduce pain and inflammation; and/or increase blood flow. Depending on the severity of the condition and the response to initial treatments, vein surgery may be recommended.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

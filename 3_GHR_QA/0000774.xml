@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000774" source="GHR" url="https://ghr.nlm.nih.gov/condition/paroxysmal-extreme-pain-disorder">
+<Focus>paroxysmal extreme pain disorder</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1833661</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial rectal pain</Synonym>
+		<Synonym>PEPD</Synonym>
+		<Synonym>PEXPD</Synonym>
+		<Synonym>submandibular, ocular, and rectal pain with flushing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000774-1" qtype="information">What is (are) paroxysmal extreme pain disorder ?</Question>
+			<Answer>Paroxysmal extreme pain disorder is a condition characterized by skin redness and warmth (flushing) and attacks of severe pain in various parts of the body. The area of flushing typically corresponds to the site of the pain. The pain attacks experienced by people with paroxysmal extreme pain disorder usually last seconds to minutes, but in some cases can last hours. These attacks can start as early as infancy. Early in life, the pain is typically concentrated in the lower part of the body, especially around the rectum, and is usually triggered by a bowel movement. Some children may develop constipation, which is thought to be due to fear of triggering a pain attack. Pain attacks in these young children may also be accompanied by seizures, slow heartbeat, or short pauses in breathing (apnea).  As a person with paroxysmal extreme pain disorder ages, the location of pain changes. Pain attacks switch from affecting the lower body to affecting the head and face, especially the eyes and jaw. Triggers of these pain attacks include changes in temperature (such as a cold wind) and emotional distress as well as eating spicy foods and drinking cold drinks.  Paroxysmal extreme pain disorder is considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000774-2" qtype="frequency">How many people are affected by paroxysmal extreme pain disorder ?</Question>
+			<Answer>Paroxysmal extreme pain disorder is a rare condition; approximately 80 affected individuals have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000774-3" qtype="genetic changes">What are the genetic changes related to paroxysmal extreme pain disorder ?</Question>
+			<Answer>Mutations in the SCN9A gene cause paroxysmal extreme pain disorder. The SCN9A gene provides instructions for making one part (the alpha subunit) of a sodium channel called NaV1.7. Sodium channels transport positively charged sodium atoms (sodium ions) into cells and play a key role in a cell&apos;s ability to generate and transmit electrical signals. NaV1.7 sodium channels are found in nerve cells called nociceptors that transmit pain signals to the spinal cord and brain.  The SCN9A gene mutations that cause paroxysmal extreme pain disorder result in NaV1.7 sodium channels that do not close completely when it is turned off, allowing sodium ions to flow abnormally into nociceptors. This increase in sodium ions enhances transmission of pain signals, leading to the pain attacks experienced by people with paroxysmal extreme pain disorder. It is unknown why the pain attacks associated with this condition change location over time or what causes the other features of this condition such as seizures and changes in breathing.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000774-4" qtype="inheritance">Is paroxysmal extreme pain disorder inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000774-5" qtype="treatment">What are the treatments for paroxysmal extreme pain disorder ?</Question>
+			<Answer>These resources address the diagnosis or management of paroxysmal extreme pain disorder:  - Genetic Testing Registry: Paroxysmal extreme pain disorder   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

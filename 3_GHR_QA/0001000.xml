@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001000" source="GHR" url="https://ghr.nlm.nih.gov/condition/tubular-aggregate-myopathy">
+<Focus>tubular aggregate myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0410207</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>myopathy with tubular aggregates</Synonym>
+		<Synonym>TAM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001000-1" qtype="information">What is (are) tubular aggregate myopathy ?</Question>
+			<Answer>Tubular aggregate myopathy is a disorder that primarily affects the skeletal muscles, which are muscles the body uses for movement. This disorder causes muscle pain, cramping, or weakness that begins in childhood and worsens over time. The muscles of the lower limbs are most often affected, although the upper limbs can also be involved. Affected individuals can have difficulty running, climbing stairs, or getting up from a squatting position. The weakness may also lead to an unusual walking style (gait). Some people with this condition develop joint deformities (contractures) in the arms and legs.  Skeletal muscles are normally made up of two types of fibers, called type I and type II fibers, in approximately equal quantities. Type I fibers, also called slow twitch fibers, are used for long, sustained activity, such as walking long distances. Type II fibers, also known as fast twitch fibers, are used for short bursts of strength, which are needed for activities such as running up stairs or sprinting. In people with tubular aggregate myopathy, type II fibers waste away (atrophy), so affected individuals have mostly type I fibers. In addition, proteins build up abnormally in both type I and type II fibers, forming clumps of tube-like structures called tubular aggregates. Tubular aggregates can occur in other muscle disorders, but they are the primary muscle cell abnormality in tubular aggregate myopathy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001000-2" qtype="frequency">How many people are affected by tubular aggregate myopathy ?</Question>
+			<Answer>Tubular aggregate myopathy is a rare disorder. Its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001000-3" qtype="genetic changes">What are the genetic changes related to tubular aggregate myopathy ?</Question>
+			<Answer>Tubular aggregate myopathy can be caused by mutations in the STIM1 gene. The protein produced from this gene is involved in controlling the entry of positively charged calcium atoms (calcium ions) into cells. The STIM1 protein recognizes when calcium ion levels are low and stimulates the flow of ions into the cell through special channels in the cell membrane called calcium-release activated calcium (CRAC) channels. In muscle cells, the activation of CRAC channels by STIM1 is thought to help replenish calcium stores in a structure called the sarcoplasmic reticulum. STIM1 may also be involved in the release of calcium ions from the sarcoplasmic reticulum. This release of ions stimulates muscle tensing (contraction).  The STIM1 gene mutations involved in tubular aggregate myopathy lead to production of a STIM1 protein that is constantly turned on (constitutively active), which means it continually stimulates calcium ion entry through CRAC channels regardless of ion levels. It is unknown how constitutively active STIM1 leads to the muscle weakness characteristic of tubular aggregate myopathy. Evidence suggests that the tubular aggregates are composed of proteins that are normally part of the sarcoplasmic reticulum. Although the mechanism is unknown, some researchers speculate that the aggregates are the result of uncontrolled calcium levels in muscle cells, possibly due to abnormal STIM1 activity.  Mutations in other genes, some of which have not been identified, are also thought to cause some cases of tubular aggregate myopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001000-4" qtype="inheritance">Is tubular aggregate myopathy inherited ?</Question>
+			<Answer>Most cases of tubular aggregate myopathy, including those caused by STIM1 gene mutations, are inherited in an autosomal dominant pattern. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, the mutation is passed through generations in a family. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  Rarely, tubular aggregate myopathy is inherited in an autosomal recessive pattern, which means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Researchers are still working to determine which gene or genes are associated with autosomal recessive tubular aggregate myopathy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001000-5" qtype="treatment">What are the treatments for tubular aggregate myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of tubular aggregate myopathy:  - Genetic Testing Registry: Myopathy with tubular aggregates   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

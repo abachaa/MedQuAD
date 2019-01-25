@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000272" source="GHR" url="https://ghr.nlm.nih.gov/condition/darier-disease">
+<Focus>Darier disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022595</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Darier-White disease</Synonym>
+		<Synonym>Darier's Disease</Synonym>
+		<Synonym>Keratosis Follicularis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000272-1" qtype="information">What is (are) Darier disease ?</Question>
+			<Answer>Darier disease is a skin condition characterized by wart-like blemishes on the body. The blemishes are usually yellowish in color, hard to the touch, mildly greasy, and can emit a strong odor. The most common sites for blemishes are the scalp, forehead, upper arms, chest, back, knees, elbows, and behind the ear. The mucous membranes can also be affected, with blemishes on the roof of the mouth (palate), tongue, inside of the cheek, gums, and throat. Other features of Darier disease include nail abnormalities, such as red and white streaks in the nails with an irregular texture, and small pits in the palms of the hands and soles of the feet.  The wart-like blemishes characteristic of Darier disease usually appear in late childhood to early adulthood. The severity of the disease varies over time; affected people experience flare-ups alternating with periods when they have fewer blemishes. The appearance of the blemishes is influenced by environmental factors. Most people with Darier disease will develop more blemishes during the summertime when they are exposed to heat and humidity. UV light; minor injury or friction, such as rubbing or scratching; and ingestion of certain medications can also cause an increase in blemishes.  On occasion, people with Darier disease may have neurological disorders such as mild intellectual disability, epilepsy, and depression. Learning and behavior difficulties have also been reported in people with Darier disease. Researchers do not know if these conditions, which are common in the general population, are associated with the genetic changes that cause Darier disease, or if they are coincidental. Some researchers believe that behavioral problems might be linked to the social stigma experienced by people with numerous skin blemishes.  A form of Darier disease known as the linear or segmental form is characterized by blemishes on localized areas of the skin. The blemishes are not as widespread as they are in typical Darier disease. Some people with the linear form of this condition have the nail abnormalities that are seen in people with classic Darier disease, but these abnormalities occur only on one side of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000272-2" qtype="frequency">How many people are affected by Darier disease ?</Question>
+			<Answer>The worldwide prevalence of Darier disease is unknown. The prevalence of Darier disease is estimated to be 1 in 30,000 people in Scotland, 1 in 36,000 people in northern England, and 1 in 100,000 people in Denmark.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000272-3" qtype="genetic changes">What are the genetic changes related to Darier disease ?</Question>
+			<Answer>Mutations in the ATP2A2 gene cause Darier disease. The ATP2A2 gene provides instructions for producing an enzyme abbreviated as SERCA2. This enzyme acts as a pump that helps control the level of positively charged calcium atoms (calcium ions) inside cells, particularly in the endoplasmic reticulum and the sarcoplasmic reticulum. The endoplasmic reticulum is a structure inside the cell that is involved in protein processing and transport. The sarcoplasmic reticulum is a structure in muscle cells that assists with muscle contraction and relaxation by releasing and storing calcium ions. Calcium ions act as signals for a large number of activities that are important for the normal development and function of cells. SERCA2 allows calcium ions to pass into and out of the cell in response to cell signals.  Mutations in the ATP2A2 gene result in insufficient amounts of functional SERCA2 enzyme. A lack of SERCA2 enzyme reduces calcium levels in the endoplasmic reticulum, causing it to become dysfunctional. SERCA2 is expressed throughout the body; it is not clear why changes in this enzyme affect only the skin. Some researchers note that skin cells are the only cell types expressing SERCA2 that do not have a &quot;back-up&quot; enzyme for calcium transport. This dependence on the SERCA2 enzyme may make skin cells particularly vulnerable to changes in this enzyme.  The linear form of Darier disease is caused by ATP2A2 gene mutations that are acquired during a person&apos;s lifetime and are present only in certain cells. These changes are called somatic mutations and are not inherited. There have been no known cases of people with the linear form of Darier disease passing it on to their children.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000272-4" qtype="inheritance">Is Darier disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.  The linear form of Darier disease is generally not inherited but arises from mutations in the body&apos;s cells that occur after conception. These alterations are called somatic mutations.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000272-5" qtype="treatment">What are the treatments for Darier disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Darier disease:  - Genetic Testing Registry: Keratosis follicularis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000080" source="NINDS" url="http://www.ninds.nih.gov/disorders/coffin_lowry/coffin_lowry.htm">
+<Focus>Coffin Lowry Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000080-1" qtype="information">What is (are) Coffin Lowry Syndrome ?</Question>
+			<Answer>Coffin-Lowry syndrome is a rare genetic disorder characterized by craniofacial (head and facial) and skeletal abnormalities, delayed intellectual development, short stature, and hypotonia. Characteristic facial features may include an underdeveloped upper jaw bone (maxillary hypoplasia), a broad nose, protruding nostrils (nares), an abnormally prominent brow, down-slanting eyelid folds (palpebral fissures), widely spaced eyes (hypertelorism), large low-set ears, and unusually thick eyebrows. Skeletal abnormalities may include abnormal front-to-back and side-to-side curvature of the spine (kyphoscoliosis), unusual prominence of the breastbone (pigeon chest, or pectus carinatum), dental abnormalities, and short, hyperextensible, tapered fingers. Other features may include feeding and respiratory problems, developmental delay, hearing impairment, awkward gait, stimulus-induced drop episodes, and heart and kidney involvement. The disorder affects males and females in equal numbers, but symptoms are usually more severe in males. The disorder is caused by a defective gene, RSK2, which is found in 1996 on the X chromosome (Xp22.2-p22.1). Thus, the syndrome is typically more severe in males because males have only one X chromosome, while females have two. It is unclear how changes (mutations) in the DNA structure of the gene lead to the clinical findings.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000080-2" qtype="treatment">What are the treatments for Coffin Lowry Syndrome ?</Question>
+			<Answer>There is no cure and no standard course of treatment for Coffin-Lowry syndrome. Treatment is symptomatic and supportive, and may include physical and speech therapy and educational services.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000080-3" qtype="outlook">What is the outlook for Coffin Lowry Syndrome ?</Question>
+			<Answer>The prognosis for individuals with Coffin-Lowry syndrome varies depending on the severity of symptoms. Early intervention may improve the outlook for patients. Life span is reduced in some individuals with Coffin-Lowry syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000080-4" qtype="research">what research (or clinical trials) is being done for Coffin Lowry Syndrome ?</Question>
+			<Answer>The NINDS supports and conducts research on genetic disorders, such as Coffin-Lowry syndrome, in an effort to find ways to prevent, treat, and ultimately cure these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

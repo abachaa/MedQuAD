@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000491" source="GARD" url="https://rarediseases.info.nih.gov/gard/10246/asthma">
+<Focus>Asthma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004096</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000491-1" qtype="information">What is (are) Asthma ?</Question>
+			<Answer>Asthma is a breathing disorder that affects the airways. People with this condition experience recurrent swelling and narrowing of the airways of the lungs which is associated with wheezing, shortness of breath, chest tightness, and coughing. Most affected people have episodes of symptoms (&quot;asthma attacks&quot;) followed by symptom-free periods; however, some may experience persistent shortness of breath in between attacks. Asthma is considered a complex or multifactorial condition that is likely due to a combination of multiple genetic, environmental, and lifestyle factors. Many people with asthma have a personal or family history of allergies, such as hay fever or eczema. Having a family member with asthma is associated with an increased risk of developing the condition. Treatment generally includes various medications, both to prevent asthma attacks and to provide quick relief during an attack.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000491-2" qtype="symptoms">What are the symptoms of Asthma ?</Question>
+			<Answer>What are the signs and symptoms of Asthma? The Human Phenotype Ontology provides the following list of signs and symptoms for Asthma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Asthma - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

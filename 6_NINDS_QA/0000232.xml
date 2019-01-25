@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000232" source="NINDS" url="http://www.ninds.nih.gov/disorders/pinchednerve/pinchednerve.htm">
+<Focus>Pinched Nerve</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0273482</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000232-1" qtype="information">What is (are) Pinched Nerve ?</Question>
+			<Answer>The term &quot;pinched nerve&quot; is a colloquial term and not a true medical term. It is used to describe one type of damage or injury to a nerve or set of nerves. The injury may result from compression, constriction, or stretching. Symptoms include numbness, &quot;pins and needles&quot; or burning sensations, and pain radiating outward from the injured area. One of the most common examples of a single compressed nerve is the feeling of having a foot or hand &quot;fall asleep.&quot; A &quot;pinched nerve&quot; frequently is associated with pain in the neck or lower back. This type of pain can be caused by inflammation or pressure on the nerve root as it exits the spine. If the pain is severe or lasts a long time, you may need to have further evaluation from your physician. Several problems can lead to similar symptoms of numbness, pain, and tingling in the hands or feet but without pain in the neck or back. These can include peripheral neuropathy, carpal tunnel syndrome, and tennis elbow. The extent of such injuries may vary from minor, temporary damage to a more permanent condition. Early diagnosis is important to prevent further damage or complications. Pinched nerve is a common cause of on-the-job injury.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000232-2" qtype="treatment">What are the treatments for Pinched Nerve ?</Question>
+			<Answer>The most frequently recommended treatment for pinched nerve is rest for the affected area. Nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids may be recommended to help alleviate pain. Physical therapy is often useful, and splints or collars may be used to relieve symptoms. Depending on the cause and severity of the pinched nerve, surgery may be needed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000232-3" qtype="outlook">What is the outlook for Pinched Nerve ?</Question>
+			<Answer>With treatment, most people recover from pinched nerve. However, in some cases, the damage is irreversible.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000232-4" qtype="research">what research (or clinical trials) is being done for Pinched Nerve ?</Question>
+			<Answer>Within the NINDS research programs, pinched nerves are addressed primarily through studies associated with pain research. NINDS vigorously pursues a research program seeking new treatments for pain and nerve damage with the ultimate goal of reversing debilitating conditions such as pinched nerves.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

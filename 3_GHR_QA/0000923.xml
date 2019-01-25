@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000923" source="GHR" url="https://ghr.nlm.nih.gov/condition/sotos-syndrome">
+<Focus>Sotos syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175695</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cerebral gigantism</Synonym>
+		<Synonym>Sotos sequence</Synonym>
+		<Synonym>Sotos' syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000923-1" qtype="information">What is (are) Sotos syndrome ?</Question>
+			<Answer>Sotos syndrome is a disorder characterized by a distinctive facial appearance, overgrowth in childhood, and learning disabilities or delayed development of mental and movement abilities. Characteristic facial features include a long, narrow face; a high forehead; flushed (reddened) cheeks; and a small, pointed chin. In addition, the outside corners of the eyes may point downward (down-slanting palpebral fissures). This facial appearance is most notable in early childhood. Affected infants and children tend to grow quickly; they are significantly taller than their siblings and peers and have an unusually large head. However, adult height is usually in the normal range.  People with Sotos syndrome often have intellectual disability, and most also have behavioral problems. Frequent behavioral issues include attention deficit hyperactivity disorder (ADHD), phobias, obsessions and compulsions, tantrums, and impulsive behaviors. Problems with speech and language are also common. Affected individuals often have a stutter, a monotone voice, and problems with sound production. Additionally, weak muscle tone (hypotonia) may delay other aspects of early development, particularly motor skills such as sitting and crawling.  Other signs and symptoms of Sotos syndrome can include an abnormal side-to-side curvature of the spine (scoliosis), seizures, heart or kidney defects, hearing loss, and problems with vision. Some infants with this disorder experience yellowing of the skin and whites of the eyes (jaundice) and poor feeding.  A small percentage of people with Sotos syndrome have developed cancer, most often in childhood, but no single form of cancer occurs most frequently with this condition. It remains uncertain whether Sotos syndrome increases the risk of specific types of cancer. If people with this disorder have an increased cancer risk, it is only slightly greater than that of the general population.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000923-2" qtype="frequency">How many people are affected by Sotos syndrome ?</Question>
+			<Answer>Sotos syndrome is reported to occur in 1 in 10,000 to 14,000 newborns. Because many of the features of Sotos syndrome can be attributed to other conditions, many cases of this disorder are likely not properly diagnosed, so the true incidence may be closer to 1 in 5,000.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000923-3" qtype="genetic changes">What are the genetic changes related to Sotos syndrome ?</Question>
+			<Answer>Mutations in the NSD1 gene are the primary cause of Sotos syndrome, accounting for up to 90 percent of cases. Other genetic causes of this condition have not been identified.  The NSD1 gene provides instructions for making a protein that functions as a histone methyltransferase. Histone methyltransferases are enzymes that modify structural proteins called histones, which attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones (a process called methylation), histone methyltransferases regulate the activity of certain genes and can turn them on and off as needed. The NSD1 protein controls the activity of genes involved in normal growth and development, although most of these genes have not been identified.  Genetic changes involving the NSD1 gene prevent one copy of the gene from producing any functional protein. Research suggests that a reduced amount of NSD1 protein disrupts the normal activity of genes involved in growth and development. However, it remains unclear exactly how a shortage of this protein during development leads to overgrowth, learning disabilities, and the other features of Sotos syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000923-4" qtype="inheritance">Is Sotos syndrome inherited ?</Question>
+			<Answer>About 95 percent of Sotos syndrome cases occur in people with no history of the disorder in their family. Most of these cases result from new mutations involving the NSD1 gene.  A few families have been described with more than one affected family member. These cases helped researchers determine that Sotos syndrome has an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000923-5" qtype="treatment">What are the treatments for Sotos syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Sotos syndrome:  - Gene Review: Gene Review: Sotos Syndrome  - Genetic Testing Registry: Sotos&apos; syndrome  - MedlinePlus Encyclopedia: Increased Head Circumference   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

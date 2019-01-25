@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004180" source="GARD" url="https://rarediseases.info.nih.gov/gard/11011/multifocal-motor-neuropathy">
+<Focus>Multifocal motor neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393847</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MMN</Synonym>
+		<Synonym>MMNCB</Synonym>
+		<Synonym>Multifocal motor neuropathy with conduction block</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004180-1" qtype="information">What is (are) Multifocal motor neuropathy ?</Question>
+			<Answer>Multifocal motor neuropathy (MMN) is a rare neuropathy characterized by progressive, asymmetric muscle weakness and atrophy (wasting). Signs and symptoms include weakness in the hands and lower arms; cramping; involuntary contractions or twitching; and atrophy of affected muscles. MMN is thought to be due to an abnormal immune response, but the underlying cause is not clear. Most people treated with intravenous immune globulin (IVIG) have rapid improvement in weakness, but maintenance IVIG is usually required for sustained improvement.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004180-2" qtype="symptoms">What are the symptoms of Multifocal motor neuropathy ?</Question>
+			<Answer>What are the signs and symptoms of multifocal motor neuropathy? Signs and symptoms of multifocal motor neuropathy (MMN) may include weakness; cramping; involuntary contractions or twitching; and wasting (atrophy) of affected muscles. Atrophy occurs late in the course of the condition. Muscles of the hands and lower arms are most commonly affected, but muscles of the lower limbs may also be involved. The symptoms are often asymmetrical, meaning that they differ on the right and left side of the body.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004180-3" qtype="causes">What causes Multifocal motor neuropathy ?</Question>
+			<Answer>What causes multifocal motor neuropathy? The exact underlying cause of multifocal motor neuropathy (MMN) is poorly understood. It is considered an immune-mediated disorder (due to an abnormal immune system response), both because IVIG therapy improves symptoms, and many patients have anti-GM1 antibodies. Research to further understand the cause of MMN is underway.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004180-4" qtype="inheritance">Is Multifocal motor neuropathy inherited ?</Question>
+			<Answer>Is multifocal motor neuropathy inherited? We are not aware of any evidence that multifocal motor neuropathy (MMN) is inherited or of any reports of familial cases (occurring in more than one person in a family). Furthermore, to our knowledge, no specific genes known to be associated with MMN have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004180-5" qtype="treatment">What are the treatments for Multifocal motor neuropathy ?</Question>
+			<Answer>How might multifocal motor neuropathy be treated? Multifocal motor neuropathy (MMN) is considered treatable with intravenous immune globulin (IVIG). Early treatment shortly after symptoms begin is recommended. Most people have a fairly rapid improvement in weakness with IVIG, but the improvement generally does not last beyond a few months. Maintenance IVIG infusions are usually needed every two to six weeks. For those with severe disease whose symptoms don&apos;t respond to IVIG (or for those who become resistant), treatment options are limited. Several reports have suggested that cyclophosphamide may be partially effective.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

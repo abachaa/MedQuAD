@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000595" source="GHR" url="https://ghr.nlm.nih.gov/condition/lesch-nyhan-syndrome">
+<Focus>Lesch-Nyhan syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023374</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>choreoathetosis self-mutilation syndrome</Synonym>
+		<Synonym>complete HPRT deficiency</Synonym>
+		<Synonym>complete hypoxanthine-guanine phosphoribosyltransferase deficiency</Synonym>
+		<Synonym>deficiency of guanine phosphoribosyltransferase</Synonym>
+		<Synonym>deficiency of hypoxanthine phosphoribosyltransferase</Synonym>
+		<Synonym>HGPRT deficiency</Synonym>
+		<Synonym>hypoxanthine guanine phosphoribosyltransferase deficiency</Synonym>
+		<Synonym>hypoxanthine phosphoribosyltransferase deficiency</Synonym>
+		<Synonym>juvenile gout, choreoathetosis, mental retardation syndrome</Synonym>
+		<Synonym>juvenile hyperuricemia syndrome</Synonym>
+		<Synonym>Lesch-Nyhan disease</Synonym>
+		<Synonym>LND</Synonym>
+		<Synonym>LNS</Synonym>
+		<Synonym>primary hyperuricemia syndrome</Synonym>
+		<Synonym>total HPRT deficiency</Synonym>
+		<Synonym>total hypoxanthine-guanine phosphoribosyl transferase deficiency</Synonym>
+		<Synonym>X-linked hyperuricemia</Synonym>
+		<Synonym>X-linked primary hyperuricemia</Synonym>
+		<Synonym>X-linked uric aciduria enzyme defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000595-1" qtype="information">What is (are) Lesch-Nyhan syndrome ?</Question>
+			<Answer>Lesch-Nyhan syndrome is a condition that occurs almost exclusively in males. It is characterized by neurological and behavioral abnormalities and the overproduction of uric acid. Uric acid is a waste product of normal chemical processes and is found in blood and urine. Excess uric acid can be released from the blood and build up under the skin and cause gouty arthritis (arthritis caused by an accumulation of uric acid in the joints). Uric acid accumulation can also cause kidney and bladder stones.  The nervous system and behavioral disturbances experienced by people with Lesch-Nyhan syndrome include abnormal involuntary muscle movements, such as tensing of various muscles (dystonia), jerking movements (chorea), and flailing of the limbs (ballismus). People with Lesch-Nyhan syndrome usually cannot walk, require assistance sitting, and generally use a wheelchair. Self-injury (including biting and head banging) is the most common and distinctive behavioral problem in individuals with Lesch-Nyhan syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000595-2" qtype="frequency">How many people are affected by Lesch-Nyhan syndrome ?</Question>
+			<Answer>The prevalence of Lesch-Nyhan syndrome is approximately 1 in 380,000 individuals. This condition occurs with a similar frequency in all populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000595-3" qtype="genetic changes">What are the genetic changes related to Lesch-Nyhan syndrome ?</Question>
+			<Answer>Mutations in the HPRT1 gene cause Lesch-Nyhan syndrome. The HPRT1 gene provides instructions for making an enzyme called hypoxanthine phosphoribosyltransferase 1. This enzyme is responsible for recycling purines, a type of building block of DNA and its chemical cousin RNA. Recycling purines ensures that cells have a plentiful supply of building blocks for the production of DNA and RNA.  HPRT1 gene mutations that cause Lesch-Nyhan syndrome result in a severe shortage (deficiency) or complete absence of hypoxanthine phosphoribosyltransferase 1. When this enzyme is lacking, purines are broken down but not recycled, producing abnormally high levels of uric acid. For unknown reasons, a deficiency of hypoxanthine phosphoribosyltransferase 1 is associated with low levels of a chemical messenger in the brain called dopamine. Dopamine transmits messages that help the brain control physical movement and emotional behavior, and its shortage may play a role in the movement problems and other features of this disorder. However, it is unclear how a shortage of hypoxanthine phosphoribosyltransferase 1 causes the neurological and behavioral problems characteristic of Lesch-Nyhan syndrome.  Some people with HPRT1 gene mutations produce some functional enzyme. These individuals are said to have Lesch-Nyhan variant. The signs and symptoms of Lesch-Nyhan variant are often milder than those of Lesch-Nyhan syndrome and do not include self-injury.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000595-4" qtype="inheritance">Is Lesch-Nyhan syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000595-5" qtype="treatment">What are the treatments for Lesch-Nyhan syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Lesch-Nyhan syndrome:  - Gene Review: Gene Review: Lesch-Nyhan Syndrome  - Genetic Testing Registry: Lesch-Nyhan syndrome  - MedlinePlus Encyclopedia: Lesch-Nyhan Syndrome  - MedlinePlus Encyclopedia: Uric Acid Crystals   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

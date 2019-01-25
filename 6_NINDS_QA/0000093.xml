@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000093" source="NINDS" url="http://www.ninds.nih.gov/disorders/opsoclonus_myoclonus/opsoclonus_myoclonus.htm">
+<Focus>Opsoclonus Myoclonus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1096154</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000093-1" qtype="information">What is (are) Opsoclonus Myoclonus ?</Question>
+			<Answer>Opsoclonus myoclonus is a rare neurological disorder characterized by an unsteady, trembling gait, myoclonus (brief, shock-like muscle spasms), and opsoclonus (irregular, rapid eye movements). Other symptoms may include difficulty speaking, poorly articulated speech, or an inability to speak. A decrease in muscle tone, lethargy, irritability, and malaise (a vague feeling of bodily discomfort) may also be present. Opsoclonus myoclonus may occur in association with tumors or viral infections. It is often seen in children with tumors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000093-2" qtype="treatment">What are the treatments for Opsoclonus Myoclonus ?</Question>
+			<Answer>Treatment for opsoclonus myoclonus may include corticosteroids or ACTH (adrenocorticotropic hormone). In cases where there is a tumor present, treatment such as chemotherapy, surgery, or radiation may be required.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000093-3" qtype="outlook">What is the outlook for Opsoclonus Myoclonus ?</Question>
+			<Answer>The prognosis for opsoclonus myoclonus varies depending on the symptoms and the presence and treatment of tumors. With treatment of the underlying cause of the disorder, there may be an improvement of symptoms. The symptoms sometimes recur without warning. Generally the disorder is not fatal.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000093-4" qtype="research">what research (or clinical trials) is being done for Opsoclonus Myoclonus ?</Question>
+			<Answer>The NINDS supports and conducts research on movement disorders such as opsoclonus myoclonus. These studies are aimed at increasing knowledge about these disorders and finding ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

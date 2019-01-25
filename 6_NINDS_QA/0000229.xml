@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000229" source="NINDS" url="http://www.ninds.nih.gov/disorders/peripheralneuropathy/peripheralneuropathy.htm">
+<Focus>Peripheral Neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031117</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000229-1" qtype="information">What is (are) Peripheral Neuropathy ?</Question>
+			<Answer>Peripheral neuropathy describes damage to the peripheral nervous system, which transmits information from the brain and spinal cord to every other part of the body.
+                
+More than 100 types of peripheral neuropathy have been identified, each with its own characteristic set of symptoms, pattern of development, and prognosis. Impaired function and symptoms depend on the type of nerves -- motor, sensory, or autonomic -- that are damaged. Some people may experience temporary numbness, tingling, and pricking sensations, sensitivity to touch, or muscle weakness. Others may suffer more extreme symptoms, including burning pain (especially at night), muscle wasting, paralysis, or organ or gland dysfunction. Peripheral neuropathy may be either inherited or acquired. Causes of acquired peripheral neuropathy include physical injury (trauma) to a nerve, tumors, toxins, autoimmune responses, nutritional deficiencies, alcoholism, medical procedures, and vascular and metabolic disorders. Acquired peripheral neuropathies are caused by systemic disease, trauma from external agents, or infections or autoimmune disorders affecting nerve tissue. Inherited forms of peripheral neuropathy are caused by inborn mistakes in the genetic code or by new genetic mutations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000229-2" qtype="treatment">What are the treatments for Peripheral Neuropathy ?</Question>
+			<Answer>No medical treatments exist that can cure inherited peripheral neuropathy. However, there are therapies for many other forms. In general, adopting healthy habits -- such as maintaining optimal weight, avoiding exposure to toxins, following a physician-supervised exercise program, eating a balanced diet, correcting vitamin deficiencies, and limiting or avoiding alcohol consumption -- can reduce the physical and emotional effects of peripheral neuropathy. Systemic diseases frequently require more complex treatments.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000229-3" qtype="outlook">What is the outlook for Peripheral Neuropathy ?</Question>
+			<Answer>In acute neuropathies, such as Guillain-Barr syndrome, symptoms appear suddenly, progress rapidly, and resolve slowly as damaged nerves heal. In chronic forms, symptoms begin subtly and progress slowly. Some people may have periods of relief followed by relapse. Others may reach a plateau stage where symptoms stay the same for many months or years. Some chronic neuropathies worsen over time, but very few forms prove fatal unless complicated by other diseases. Occasionally the neuropathy is a symptom of another disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000229-4" qtype="research">what research (or clinical trials) is being done for Peripheral Neuropathy ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to peripheral neuropathies in laboratories at the NIH and also support additional research through grants to major medical institutions across the country. Current research projects funded by the NINDS involve investigations of genetic factors associated with hereditary neuropathies, studies of biological mechanisms involved in diabetes-associated neuropathies, and investigations exploring how the immune system contributes to peripheral nerve damage. Neuropathic pain is a primary target of NINDS-sponsored studies aimed at developing more effective therapies for symptoms of peripheral neuropathy. Some scientists hope to identify substances that will block the brain chemicals that generate pain signals, while others are investigating the pathways by which pain signals reach the brain.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

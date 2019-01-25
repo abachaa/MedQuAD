@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000588" source="GHR" url="https://ghr.nlm.nih.gov/condition/leber-hereditary-optic-neuropathy">
+<Focus>Leber hereditary optic neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0917796</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hereditary optic neuroretinopathy</Synonym>
+		<Synonym>Leber hereditary optic atrophy</Synonym>
+		<Synonym>Leber optic atrophy</Synonym>
+		<Synonym>Leber's hereditary optic neuropathy</Synonym>
+		<Synonym>Leber's optic atrophy</Synonym>
+		<Synonym>Leber's optic neuropathy</Synonym>
+		<Synonym>LHON</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000588-1" qtype="information">What is (are) Leber hereditary optic neuropathy ?</Question>
+			<Answer>Leber hereditary optic neuropathy (LHON) is an inherited form of vision loss. Although this condition usually begins in a person&apos;s teens or twenties, rare cases may appear in early childhood or later in adulthood. For unknown reasons, males are affected much more often than females.  Blurring and clouding of vision are usually the first symptoms of LHON. These vision problems may begin in one eye or simultaneously in both eyes; if vision loss starts in one eye, the other eye is usually affected within several weeks or months. Over time, vision in both eyes worsens with a severe loss of sharpness (visual acuity) and color vision. This condition mainly affects central vision, which is needed for detailed tasks such as reading, driving, and recognizing faces. Vision loss results from the death of cells in the nerve that relays visual information from the eyes to the brain (the optic nerve). Although central vision gradually improves in a small percentage of cases, in most cases the vision loss is profound and permanent.  Vision loss is typically the only symptom of LHON; however, some families with additional signs and symptoms have been reported. In these individuals, the condition is described as &quot;LHON plus.&quot; In addition to vision loss, the features of LHON plus can include movement disorders, tremors, and abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects). Some affected individuals develop features similar to multiple sclerosis, which is a chronic disorder characterized by muscle weakness, poor coordination, numbness, and a variety of other health problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000588-2" qtype="frequency">How many people are affected by Leber hereditary optic neuropathy ?</Question>
+			<Answer>The prevalence of LHON in most populations is unknown. It affects 1 in 30,000 to 50,000 people in northeast England and Finland.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000588-3" qtype="genetic changes">What are the genetic changes related to Leber hereditary optic neuropathy ?</Question>
+			<Answer>Mutations in the MT-ND1, MT-ND4, MT-ND4L, or MT-ND6 gene can cause LHON. These genes are found in the DNA of cellular structures called mitochondria, which convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA, known as mitochondrial DNA or mtDNA.  The genes associated with LHON each provide instructions for making a protein involved in normal mitochondrial function. These proteins are part of a large enzyme complex in mitochondria that helps convert oxygen, fats, and simple sugars to energy. Mutations in any of the genes disrupt this process. It remains unclear how these genetic changes cause the death of cells in the optic nerve and lead to the specific features of LHON.  A significant percentage of people with a mutation that causes LHON do not develop any features of the disorder. Specifically, more than 50 percent of males with a mutation and more than 85 percent of females with a mutation never experience vision loss or related health problems. Additional factors may determine whether a person develops the signs and symptoms of this disorder. Environmental factors such as smoking and alcohol use may be involved, although studies have produced conflicting results. Researchers are also investigating whether changes in additional genes contribute to the development of signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000588-4" qtype="inheritance">Is Leber hereditary optic neuropathy inherited ?</Question>
+			<Answer>LHON has a mitochondrial pattern of inheritance, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.  Often, people who develop the features of LHON have no family history of the condition. Because a person may carry an mtDNA mutation without experiencing any signs or symptoms, it is hard to predict which members of a family who carry a mutation will eventually develop vision loss or other problems associated with LHON. It is important to note that all females with an mtDNA mutation, even those who do not have any signs or symptoms, will pass the genetic change to their children.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000588-5" qtype="treatment">What are the treatments for Leber hereditary optic neuropathy ?</Question>
+			<Answer>These resources address the diagnosis or management of Leber hereditary optic neuropathy:  - Gene Review: Gene Review: Leber Hereditary Optic Neuropathy  - Gene Review: Gene Review: Mitochondrial Disorders Overview  - Genetic Testing Registry: Leber&apos;s optic atrophy  - MedlinePlus Encyclopedia: Blindness  - MedlinePlus Encyclopedia: Blindness - Resources   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

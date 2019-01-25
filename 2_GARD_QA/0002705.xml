@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002705" source="GARD" url="https://rarediseases.info.nih.gov/gard/6559/hailey-hailey-disease">
+<Focus>Hailey-Hailey disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085106</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Benign familial pemphigus</Synonym>
+		<Synonym>Benign chronic pemphigus</Synonym>
+		<Synonym>Familial benign pemphigus</Synonym>
+		<Synonym>BCPM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002705-1" qtype="information">What is (are) Hailey-Hailey disease ?</Question>
+			<Answer>Hailey-Hailey disease is a hereditary blistering skin disease. Signs and symptoms include a painful rash and blistering in skin folds such as the armpits, groin, neck, under the breasts, and between the buttocks. Secondary bacterial infections are not uncommon. Symptoms are often worse in summer months due to heat, sweating and friction. Hailey-Hailey disease is caused by mutations in the ATP2C1 gene and is inherited in an autosomal dominant manner. Treatment focuses on reducing symptoms and preventing flares.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002705-2" qtype="symptoms">What are the symptoms of Hailey-Hailey disease ?</Question>
+			<Answer>What are the signs and symptoms of Hailey-Hailey disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Hailey-Hailey disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal blistering of the skin 90% Abnormality of the oral cavity 90% Acantholysis 90% Hyperkeratosis 90% Skin ulcer 90% Autosomal dominant inheritance - Erythema - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002705-3" qtype="inheritance">Is Hailey-Hailey disease inherited ?</Question>
+			<Answer>How is Hailey-Hailey disease inherited? Hailey-Hailey disease is inherited in an autosomal dominant manner. This means that having only one mutated copy of the disease-causing gene in each cell is enough to cause signs or symptoms of the condition. Some people with Hailey-Hailey disease inherit the condition from an affected parent. Other cases are due to a new mutation in the gene and occur in people with no history of the condition in their family. When a person with an autosomal dominant condition has children, each child has a 50% (1 in 2) risk to inherit the mutated copy of the gene.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002705-4" qtype="exams and tests">How to diagnose Hailey-Hailey disease ?</Question>
+			<Answer>Is genetic testing available for Hailey-Hailey disease? Yes. ATP2C1 is the only gene known to be associated with Hailey-Hailey disease. Genetic testing is available to analyze the ATP2C1 gene for mutations.Genetic testing for at-risk relatives and prenatal testing are also possible if the disease-causing mutation in the family is known.  How is Hailey-Hailey disease diagnosed?  Diagnosis of Hailey-Hailey disease is usually made based on symptoms and family history. As it can be mistaken for other blistering skin conditions, a skin biopsy might be required. Genetic testing is available to confirm the diagnosis of Hailey-Hailey disease, but is not required.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002705-5" qtype="treatment">What are the treatments for Hailey-Hailey disease ?</Question>
+			<Answer>How might Hailey-Hailey disease be treated? There is no specific treatment for Hailey-Hailey disease and management generally focuses on the specific symptoms and severity in each person. Affected people are encouraged to avoid &quot;triggers&quot; such as sunburn, sweating, and friction, and to keep the affected areas dry. Sunscreen, loose clothing, moisturizing creams, and avoiding excessive heat may help prevent outbreaks. Trying to prevent bacterial, viral, and fungal infections in the affected areas is also important, and drugs used to treat or prevent these infections are commonly used. Topical medications (such as mild corticosteroid creams and topical antibiotics) may improve symptoms in milder forms. Cool compresses and dressings may also help. More severe cases may require systemic antibiotics and/or stronger corticosteroid creams. Carbon dioxide laser treatment may be effective for severe forms. In very severe cases, surgery can be performed to remove the affected skin, but skin grafts are usually necessary to repair the wounds.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

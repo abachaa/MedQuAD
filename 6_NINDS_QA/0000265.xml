@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000265" source="NINDS" url="http://www.ninds.nih.gov/disorders/taysachs/taysachs.htm">
+<Focus>Tay-Sachs Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039373</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000265-1" qtype="information">What is (are) Tay-Sachs Disease ?</Question>
+			<Answer>Tay-Sachs disease is a inherited metabolic disease caused by the harmful buildup of lipids (fatty materials such as oils and acids) in various cells and tissues in the body. It is part of a group of genetic disorders called the GM2 gangliosidoses. Tay-Sachs and its variant form are caused by a deficiency in the enzyme hexosaminidase A. Affected children appear to develop normally until about age 6 months. Then, symptoms begin and include progressive loss of mental ability, dementia, blindness, increased startle reflex to noise, progressive loss of hearing leading to deafness, and difficulty with swallowing. Seizures may begin in the child&apos;s second year. Persons with Tay-Sachs also have &quot;cherry-red&quot; spots in their eyes.A much rarer form of the disorder, called late-onset Tay-Sachs disease, occurs in individuals in their twenties and early thirties and is characterized by an unsteady gait and progressive neurological deterioration. The incidence of Tay-Sachs has been particularly high among people of Eastern European and Askhenazi Jewish descent., as well as in certain French Canadians and Louisiana Cajuns. Affected individuals and carriers of Tay-Sachs disease can be identified by a blood test that measures hexosaminidase A activity. Both parents must carry the mutated gene in order to have an affected child. In these instances, there is a 25 percent chance with each pregnancy that the child will be affected with Tay-Sachs disease. Prenatal diagnosis is available if desired. A very severe form of Tay-Sachs disease is know as Sandhoff disease, which is not limited to any ethnic group.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000265-2" qtype="treatment">What are the treatments for Tay-Sachs Disease ?</Question>
+			<Answer>Presently there is no specific treatment for Tay-Sachs disease. Anticonvulsant medicine may initially control seizures. Other supportive treatment includes proper nutrition and hydration and techniques to keep the airway open. Children may eventually need a feeding tube.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000265-3" qtype="outlook">What is the outlook for Tay-Sachs Disease ?</Question>
+			<Answer>Even with the best of care, children with Tay-Sachs disease usually die by age 4, from recurring infection.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000265-4" qtype="research">what research (or clinical trials) is being done for Tay-Sachs Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS is a part of the National Institutes of Health (NIH), the leading supporter of biomedical research in the world. the NINDS and other NIH Institutes supports the Lysosomal Diseases Netowrk, which addresses some of the major challenges in the diagnosis, management, and therapy of rare diseases, including the lipid storage diseases. Additional research funded by the NINDS focuses on better understanding how neurological defects arise in lipid storage disorders and on the development of new treatments targeting disease mechanisms, including gene therapies, cell-based therapies, and pharmacological approaches. NINDS-funded research on the gangliosidoses includes using variations of magnetic resonance imaging to develop a biomarker (a sign that may indicate risk of a disease and improve diagnosis) to effectively evaluate brain biochemistry and disease progression. Other research is expanding the use of virus-delivered gene therapy seen in an animall model of Tay-Sachs disease for use in humans.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

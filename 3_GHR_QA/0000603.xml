@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000603" source="GHR" url="https://ghr.nlm.nih.gov/condition/lissencephaly-with-cerebellar-hypoplasia">
+<Focus>lissencephaly with cerebellar hypoplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266463</CUI>
+			<CUI>C0266470</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LCH</Synonym>
+		<Synonym>LIS2</Synonym>
+		<Synonym>LIS3</Synonym>
+		<Synonym>lissencephaly 2</Synonym>
+		<Synonym>lissencephaly 3</Synonym>
+		<Synonym>lissencephaly syndrome, Norman-Roberts type</Synonym>
+		<Synonym>Norman-Roberts syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000603-1" qtype="information">What is (are) lissencephaly with cerebellar hypoplasia ?</Question>
+			<Answer>Lissencephaly with cerebellar hypoplasia (LCH) affects brain development, resulting in the brain having a smooth appearance (lissencephaly) instead of its normal folds and grooves. In addition, the part of the brain that coordinates movement is unusually small and underdeveloped (cerebellar hypoplasia). Other parts of the brain are also often underdeveloped in LCH, including the hippocampus, which plays a role in learning and memory, and the part of the brain that is connected to the spinal cord (the brainstem).  Individuals with LCH have moderate to severe intellectual disability and delayed development. They have few or no communication skills, extremely poor muscle tone (hypotonia), problems with coordination and balance (ataxia), and difficulty sitting or standing without support. Most affected children experience recurrent seizures (epilepsy) that begin within the first months of life. Some affected individuals have nearsightedness (myopia), involuntary eye movements (nystagmus), or puffiness or swelling caused by a buildup of fluids in the body&apos;s tissues (lymphedema).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000603-2" qtype="frequency">How many people are affected by lissencephaly with cerebellar hypoplasia ?</Question>
+			<Answer>LCH is a rare condition, although its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000603-3" qtype="genetic changes">What are the genetic changes related to lissencephaly with cerebellar hypoplasia ?</Question>
+			<Answer>LCH can be caused by mutations in the RELN or TUBA1A gene. The RELN gene provides instructions for making a protein called reelin. In the developing brain, reelin turns on (activates) a signaling pathway that triggers nerve cells (neurons) to migrate to their proper locations. The protein produced from the TUBA1A gene is also involved in neuronal migration as a component of cell structures called microtubules. Microtubules are rigid, hollow fibers that make up the cell&apos;s structural framework (the cytoskeleton). Microtubules form scaffolding within the cell that elongates in a specific direction, altering the cytoskeleton and moving neurons.  Mutations in either the RELN or TUBA1A gene impair the normal migration of neurons during fetal development. As a result, neurons are disorganized, the normal folds and grooves of the brain do not form, and brain structures do not develop properly. This impairment of brain development leads to the neurological problems characteristic of LCH.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000603-4" qtype="inheritance">Is lissencephaly with cerebellar hypoplasia inherited ?</Question>
+			<Answer>When LCH is caused by mutations in the RELN gene, the condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  When LCH is caused by mutations in the TUBA1A gene, the condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most of these cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000603-5" qtype="treatment">What are the treatments for lissencephaly with cerebellar hypoplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of lissencephaly with cerebellar hypoplasia:  - Genetic Testing Registry: Lissencephaly 2  - Genetic Testing Registry: Lissencephaly 3   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

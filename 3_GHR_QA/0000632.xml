@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000632" source="GHR" url="https://ghr.nlm.nih.gov/condition/mckusick-kaufman-syndrome">
+<Focus>McKusick-Kaufman syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0948368</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HMCS</Synonym>
+		<Synonym>Hydrometrocolpos, postaxial polydactyly, and congenital heart malformation</Synonym>
+		<Synonym>Kaufman-McKusick syndrome</Synonym>
+		<Synonym>MKS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000632-1" qtype="information">What is (are) McKusick-Kaufman syndrome ?</Question>
+			<Answer>McKusick-Kaufman syndrome is a condition that affects the development of the hands and feet, heart, and reproductive system. It is characterized by a combination of three features: extra fingers and/or toes (polydactyly), heart defects, and genital abnormalities.  Most females with McKusick-Kaufman syndrome are born with a genital abnormality called hydrometrocolpos, which is a large accumulation of fluid in the pelvis. Hydrometrocolpos results from a blockage of the vagina before birth, which can occur if part of the vagina fails to develop (vaginal agenesis) or if a membrane blocks the opening of the vagina. This blockage allows fluid to build up in the vagina and uterus, stretching these organs and leading to a fluid-filled mass. Genital abnormalities in males with McKusick-Kaufman syndrome can include placement of the urethral opening on the underside of the penis (hypospadias), a downward-curving penis (chordee), and undescended testes (cryptorchidism).  The signs and symptoms of McKusick-Kaufman syndrome overlap significantly with those of another genetic disorder, Bardet-Biedl syndrome. Bardet-Biedl syndrome has several features that are not seen in McKusick-Kaufman syndrome, however. These include vision loss, delayed development, obesity, and kidney (renal) failure. Because some of these features are not apparent at birth, the two conditions can be difficult to tell apart in infancy and early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000632-2" qtype="frequency">How many people are affected by McKusick-Kaufman syndrome ?</Question>
+			<Answer>This condition was first described in the Old Order Amish population, where it affects an estimated 1 in 10,000 people. The incidence of McKusick-Kaufman syndrome in non-Amish populations is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000632-3" qtype="genetic changes">What are the genetic changes related to McKusick-Kaufman syndrome ?</Question>
+			<Answer>Mutations in the MKKS gene cause McKusick-Kaufman syndrome. This gene provides instructions for making a protein that plays an important role in the formation of the limbs, heart, and reproductive system. The protein&apos;s structure suggests that it may act as a chaperonin, which is a type of protein that helps fold other proteins. Proteins must be folded into the correct 3-dimensional shape to perform their usual functions in the body. Although the structure of the MKKS protein is similar to that of a chaperonin, some recent studies have suggested that protein folding may not be this protein&apos;s primary function. Researchers speculate that the MKKS protein also may be involved in transporting other proteins within the cell.  The mutations that underlie McKusick-Kaufman syndrome alter the structure of the MKKS protein. Although the altered protein disrupts the development of several parts of the body before birth, it is unclear how MKKS mutations lead to the specific features of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000632-4" qtype="inheritance">Is McKusick-Kaufman syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000632-5" qtype="treatment">What are the treatments for McKusick-Kaufman syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of McKusick-Kaufman syndrome:  - Gene Review: Gene Review: McKusick-Kaufman Syndrome  - Genetic Testing Registry: McKusick Kaufman syndrome  - MedlinePlus Encyclopedia: Polydactyly   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

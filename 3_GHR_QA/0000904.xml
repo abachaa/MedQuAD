@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000904" source="GHR" url="https://ghr.nlm.nih.gov/condition/short-chain-acyl-coa-dehydrogenase-deficiency">
+<Focus>short-chain acyl-CoA dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342783</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACADS deficiency</Synonym>
+		<Synonym>deficiency of butyryl-CoA dehydrogenase</Synonym>
+		<Synonym>lipid-storage myopathy secondary to short-chain acyl-coa dehydrogenase deficiency</Synonym>
+		<Synonym>SCAD deficiency</Synonym>
+		<Synonym>SCADH deficiency</Synonym>
+		<Synonym>short-chain acyl-coenzyme A dehydrogenase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000904-1" qtype="information">What is (are) short-chain acyl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>Short-chain acyl-CoA dehydrogenase (SCAD) deficiency is a condition that prevents the body from converting certain fats into energy, especially during periods without food (fasting).  Signs and symptoms of SCAD deficiency may appear during infancy or early childhood and can include vomiting, low blood sugar (hypoglycemia), a lack of energy (lethargy), poor feeding, and failure to gain weight and grow at the expected rate (failure to thrive). Other features of this disorder may include poor muscle tone (hypotonia), seizures, developmental delay, and a small head size (microcephaly).  The symptoms of SCAD deficiency may be triggered by fasting or illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe condition that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.  In some people with SCAD deficiency, signs and symptoms do not appear until adulthood. These individuals are more likely to have problems related to muscle weakness and wasting.  The severity of this condition varies widely, even among members of the same family. Some individuals are diagnosed with SCAD deficiency based on laboratory testing but never develop any symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000904-2" qtype="frequency">How many people are affected by short-chain acyl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>This disorder is thought to affect approximately 1 in 35,000 to 50,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000904-3" qtype="genetic changes">What are the genetic changes related to short-chain acyl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>Mutations in the ACADS gene cause SCAD deficiency. This gene provides instructions for making an enzyme called short-chain acyl-CoA dehydrogenase, which is required to break down (metabolize) a group of fats called short-chain fatty acids. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.  Mutations in the ACADS gene lead to a shortage (deficiency) of the SCAD enzyme within cells. Without sufficient amounts of this enzyme, short-chain fatty acids are not metabolized properly. As a result, these fats are not converted into energy, which can lead to the signs and symptoms of this disorder, such as lethargy, hypoglycemia, and muscle weakness. It remains unclear why some people with SCAD deficiency never develop any symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000904-4" qtype="inheritance">Is short-chain acyl-CoA dehydrogenase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000904-5" qtype="treatment">What are the treatments for short-chain acyl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of SCAD deficiency:  - Baby&apos;s First Test  - Gene Review: Gene Review: Short-Chain Acyl-CoA Dehydrogenase Deficiency  - Genetic Testing Registry: Deficiency of butyryl-CoA dehydrogenase  - MedlinePlus Encyclopedia: Newborn Screening Tests   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

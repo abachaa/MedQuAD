@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000090" source="NINDS" url="http://www.ninds.nih.gov/disorders/repetitive_motion/repetitive_motion.htm">
+<Focus>Repetitive Motion Disorders</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035127</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000090-1" qtype="information">What is (are) Repetitive Motion Disorders ?</Question>
+			<Answer>Repetitive motion disorders (RMDs) are a family of muscular conditions that result from repeated motions performed in the course of normal work or daily activities. RMDs include carpal tunnel syndrome, bursitis, tendonitis, epicondylitis, ganglion cyst, tenosynovitis, and trigger finger. RMDs are caused by too many uninterrupted repetitions of an activity or motion, unnatural or awkward motions such as twisting the arm or wrist, overexertion, incorrect posture, or muscle fatigue. RMDs occur most commonly in the hands, wrists, elbows, and shoulders, but can also happen in the neck, back, hips, knees, feet, legs, and ankles. The disorders are characterized by pain, tingling, numbness, visible swelling or redness of the affected area, and the loss of flexibility and strength. For some individuals, there may be no visible sign of injury, although they may find it hard to perform easy tasks Over time, RMDs can cause temporary or permanent damage to the soft tissues in the body -- such as the muscles, nerves, tendons, and ligaments - and compression of nerves or tissue. Generally, RMDs affect individuals who perform repetitive tasks such as assembly line work, meatpacking, sewing, playing musical instruments, and computer work. The disorders may also affect individuals who engage in activities such as carpentry, gardening, and tennis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000090-2" qtype="treatment">What are the treatments for Repetitive Motion Disorders ?</Question>
+			<Answer>Treatment for RMDs usually includes reducing or stopping the motions that cause symptoms. Options include taking breaks to give the affected area time to rest, and adopting stretching and relaxation exercises. Applying ice to the affected area and using medications such as pain relievers, cortisone, and anti-inflammatory drugs can reduce pain and swelling. Splints may be able to relieve pressure on the muscles and nerves. Physical therapy may relieve the soreness and pain in the muscles and joints. In rare cases, surgery may be required to relieve symptoms and prevent permanent damage. Some employers have developed ergonomic programs to help workers adjust their pace of work and arrange office equipment to minimize problems.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000090-3" qtype="outlook">What is the outlook for Repetitive Motion Disorders ?</Question>
+			<Answer>Most individuals with RMDs recover completely and can avoid re-injury by changing the way they perform repetitive movements, the frequency with which they perform them, and the amount of time they rest between movements. Without treatment, RMDs may result in permanent injury and complete loss of function in the affected area.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000090-4" qtype="research">what research (or clinical trials) is being done for Repetitive Motion Disorders ?</Question>
+			<Answer>Much of the on-going research on RMDs is aimed at prevention and rehabilitation. The National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) funds research on RMDs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

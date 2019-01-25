@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000822" source="GHR" url="https://ghr.nlm.nih.gov/condition/primary-macronodular-adrenal-hyperplasia">
+<Focus>primary macronodular adrenal hyperplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342495</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACTH-independent macronodular adrenal hyperplasia</Synonym>
+		<Synonym>ACTH-independent macronodular adrenocortical hyperplasia</Synonym>
+		<Synonym>adrenal Cushing syndrome due to AIMAH</Synonym>
+		<Synonym>adrenocorticotropic hormone-independent macronodular adrenal hyperplasia</Synonym>
+		<Synonym>AIMAH</Synonym>
+		<Synonym>corticotropin-independent macronodular adrenal hyperplasia</Synonym>
+		<Synonym>PMAH</Synonym>
+		<Synonym>primary bilateral macronodular adrenal hyperplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000822-1" qtype="information">What is (are) primary macronodular adrenal hyperplasia ?</Question>
+			<Answer>Primary macronodular adrenal hyperplasia (PMAH) is a disorder characterized by multiple lumps (nodules) in the adrenal glands, which are small hormone-producing glands located on top of each kidney. These nodules, which usually are found in both adrenal glands (bilateral) and vary in size, cause adrenal gland enlargement (hyperplasia) and result in the production of higher-than-normal levels of the hormone cortisol. Cortisol is an important hormone that suppresses inflammation and protects the body from physical stress such as infection or trauma through several mechanisms including raising blood sugar levels.  PMAH typically becomes evident in a person&apos;s forties or fifties. It is considered a form of Cushing syndrome, which is characterized by increased levels of cortisol resulting from one of many possible causes. These increased cortisol levels lead to weight gain in the face and upper body, fragile skin, bone loss, fatigue, and other health problems. However, some people with PMAH do not experience these signs and symptoms and are said to have subclinical Cushing syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000822-2" qtype="frequency">How many people are affected by primary macronodular adrenal hyperplasia ?</Question>
+			<Answer>PMAH is a rare disorder. It is present in less than 1 percent of cases of endogenous Cushing syndrome, which describes forms of Cushing syndrome caused by factors internal to the body rather than by external factors such as long-term use of certain medicines called corticosteroids. The prevalence of endogenous Cushing syndrome is about 1 in 26,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000822-3" qtype="genetic changes">What are the genetic changes related to primary macronodular adrenal hyperplasia ?</Question>
+			<Answer>In about half of individuals with PMAH, the condition is caused by mutations in the ARMC5 gene. This gene provides instructions for making a protein that is thought to act as a tumor suppressor, which means that it helps to prevent cells from growing and dividing too rapidly or in an uncontrolled way. ARMC5 gene mutations are believed to impair the protein&apos;s tumor-suppressor function, which allows the overgrowth of certain cells. It is unclear why this overgrowth is limited to the formation of adrenal gland nodules in people with PMAH.  PMAH can also be caused by mutations in the GNAS gene. This gene provides instructions for making one component, the stimulatory alpha subunit, of a protein complex called a guanine nucleotide-binding protein (G protein). The G protein produced from the GNAS gene helps stimulate the activity of an enzyme called adenylate cyclase. This enzyme is involved in controlling the production of several hormones that help regulate the activity of certain endocrine glands, including the adrenal glands. The GNAS gene mutations that cause PMAH are believed to result in an overactive G protein. Research suggests that the overactive G protein may increase levels of adenylate cyclase and result in the overproduction of another compound called cyclic AMP (cAMP). An excess of cAMP may trigger abnormal cell growth and lead to the adrenal nodules characteristic of PMAH.  Mutations in other genes, some of which are unknown, can also cause PMAH.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000822-4" qtype="inheritance">Is primary macronodular adrenal hyperplasia inherited ?</Question>
+			<Answer>People with PMAH caused by ARMC5 gene mutations inherit one copy of the mutated gene in each cell. The inheritance is considered autosomal dominant because one copy of the mutated gene is sufficient to make an individual susceptible to PMAH. However, the condition develops only when affected individuals acquire another mutation in the other copy of the ARMC5 gene in certain cells of the adrenal glands. This second mutation is described as somatic. Instead of being passed from parent to child, somatic mutations are acquired during a person&apos;s lifetime and are present only in certain cells. Because somatic mutations are also required for PMAH to occur, some people who have inherited the altered ARMC5 gene never develop the condition, a situation known as reduced penetrance.  When PMAH is caused by GNAS gene mutations, the condition is not inherited. The GNAS gene mutations that cause PMAH are somatic mutations. In PMAH, the gene mutation is believed to occur early in embryonic development. Cells with the mutated GNAS gene can be found in both adrenal glands.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000822-5" qtype="treatment">What are the treatments for primary macronodular adrenal hyperplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of PMAH:  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: How Do Health Care Providers Diagnose Adrenal Gland Disorders?  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: What are the Treatments for Adrenal Gland Disorders?  - Genetic Testing Registry: Acth-independent macronodular adrenal hyperplasia 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

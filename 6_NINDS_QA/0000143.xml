@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000143" source="NINDS" url="http://www.ninds.nih.gov/disorders/headache/headache.htm">
+<Focus>Headache</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2096315</CUI>
+			<CUI>C0018681</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000143-1" qtype="information">What is (are) Headache ?</Question>
+			<Answer>There are four types of headache: vascular, muscle contraction (tension), traction, and inflammatory. Vascular headaches include &quot;cluster headaches, which cause repeated episodes of intense pain, and headaches resulting from high blood pressure,and toxic headache produced by fever. Muscle contraction headaches appear to involve the tightening or tensing of facial and neck muscles. Traction and inflammatory headaches are symptoms of other disorders, ranging from stroke to sinus infection. Like other types of pain, headaches can serve as warning signals of more serious disorders. This is particularly true for headaches caused by inflammation, including those related to meningitis as well as those resulting from diseases of the sinuses, spine, neck, ears, and teeth. The most common type of primary headache (not caused by another medical condition) is migraine. Migraine headaches are usually characterized by severe pain on one or both sides of the head, an upset stomach, and, at times, disturbed vision.  Women are more likely than men to have migraine headaches.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000143-2" qtype="treatment">What are the treatments for Headache ?</Question>
+			<Answer>When headaches occur three or more times a month, preventive treatment is usually recommended. Drug therapy, biofeedback training, stress reduction, and elimination of certain foods from the diet are the most common methods of preventing and controlling migraine and other vascular headaches. Regular exercise, such as swimming or vigorous walking, can also reduce the frequency and severity of migraine headaches. Drug therapy for migraine is often combined with biofeedback and relaxation training. One of the most commonly used drugs for the relief of migraine symptoms is sumatriptan. Drugs used to prevent migraine also include methysergide maleate, which counteracts blood vessel constriction; propranolol hydrochloride, which also reduces the frequency and severity of migraine headaches; ergotamine tartrate, a vasoconstrictor that helps counteract the painful dilation stage of the headache; amitriptyline, an antidepressant; valproic acid, an anticonvulsant; and verapamil, a calcium channel blocker.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000143-3" qtype="outlook">What is the outlook for Headache ?</Question>
+			<Answer>Not all headaches require medical attention. But some types of headache are signals of more serious disorders and call for prompt medical care. These include: sudden, severe headache or sudden headache associated with a stiff neck; headaches associated with fever, convulsions, or accompanied by confusion or loss of consciousness; headaches following a blow to the head, or associated with pain in the eye or ear; persistent headache in a person who was previously headache free; and recurring headache in children. Migraine headaches may last a day or more and can strike as often as several times a week or as rarely as once every few years.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000143-4" qtype="research">what research (or clinical trials) is being done for Headache ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research relating to headaches at its laboratories at the National Institutes of Health (NIH), and supports additional research through grants to major medical institutions across the country. NINDS also supports and conducts studies to improve the diagnosis of headaches and to find ways to prevent them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

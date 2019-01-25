@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000523" source="GHR" url="https://ghr.nlm.nih.gov/condition/inherited-thyroxine-binding-globulin-deficiency">
+<Focus>inherited thyroxine-binding globulin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1839141</CUI>
+			<CUI>C3711378</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TBG deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000523-1" qtype="information">What is (are) inherited thyroxine-binding globulin deficiency ?</Question>
+			<Answer>Inherited thyroxine-binding globulin deficiency is a genetic condition that typically does not cause any health problems.  Thyroxine-binding globulin is a protein that carries hormones made or used by the thyroid gland, which is a butterfly-shaped tissue in the lower neck. Thyroid hormones play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism). Most of the time, these hormones circulate in the bloodstream attached to thyroxine-binding globulin and similar proteins. If there is a shortage (deficiency) of thyroxine-binding globulin, the amount of circulating thyroid hormones is reduced.  Researchers have identified two forms of inherited thyroxine-binding globulin deficiency: the complete form (TBG-CD), which results in a total loss of thyroxine-binding globulin, and the partial form (TBG-PD), which reduces the amount of this protein or alters its structure. Neither of these conditions causes any problems with thyroid function. They are usually identified during routine blood tests that measure thyroid hormones.  Although inherited thyroxine-binding globulin deficiency does not cause any health problems, it can be mistaken for more serious thyroid disorders (such as hypothyroidism). Therefore, it is important to diagnose inherited thyroxine-binding globulin deficiency to avoid unnecessary treatments.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000523-2" qtype="frequency">How many people are affected by inherited thyroxine-binding globulin deficiency ?</Question>
+			<Answer>The complete form of inherited thyroxine-binding globulin deficiency, TBG-CD, affects about 1 in 15,000 newborns worldwide. The partial form, TBG-PD, affects about 1 in 4,000 newborns. These conditions appear to be more common in the Australian Aborigine population and in the Bedouin population of southern Israel.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000523-3" qtype="genetic changes">What are the genetic changes related to inherited thyroxine-binding globulin deficiency ?</Question>
+			<Answer>Inherited thyroxine-binding globulin deficiency results from mutations in the SERPINA7 gene. This gene provides instructions for making thyroxine-binding globulin. Some mutations in the SERPINA7 gene prevent the production of a functional protein, causing TBG-CD. Other mutations reduce the amount of this protein or alter its structure, resulting in TBG-PD.  Researchers have also described non-inherited forms of thyroxine-binding globulin deficiency, which are more common than the inherited form. Non-inherited thyroxine-binding globulin deficiency can occur with a variety of illnesses and is a side effect of some medications.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000523-4" qtype="inheritance">Is inherited thyroxine-binding globulin deficiency inherited ?</Question>
+			<Answer>Inherited thyroxine-binding globulin deficiency has an X-linked pattern of inheritance. The SERPINA7 gene is located on the X chromosome, which is one of the two sex chromosomes.  In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes partial or complete inherited thyroxine-binding globulin deficiency. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell reduces the amount of thyroxine-binding globulin. However, their levels of this protein are usually within the normal range.  A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000523-5" qtype="treatment">What are the treatments for inherited thyroxine-binding globulin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of inherited thyroxine-binding globulin deficiency:  - American Thyroid Association: Thyroid Function Tests  - MedlinePlus Encyclopedia: Serum TBG Level   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

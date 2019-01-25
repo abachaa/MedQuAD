@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000678" source="GHR" url="https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-i">
+<Focus>mucopolysaccharidosis type I</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023786</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hurler-Scheie syndrome</Synonym>
+		<Synonym>Hurler syndrome</Synonym>
+		<Synonym>IDUA deficiency</Synonym>
+		<Synonym>MPS I</Synonym>
+		<Synonym>MPS I H</Synonym>
+		<Synonym>MPS I H-S</Synonym>
+		<Synonym>MPS I S</Synonym>
+		<Synonym>mucopolysaccharidosis I</Synonym>
+		<Synonym>Scheie syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000678-1" qtype="information">What is (are) mucopolysaccharidosis type I ?</Question>
+			<Answer>Mucopolysaccharidosis type I (MPS I) is a condition that affects many parts of the body. This disorder was once divided into three separate syndromes: Hurler syndrome (MPS I-H), Hurler-Scheie syndrome (MPS I-H/S), and Scheie syndrome (MPS I-S), listed from most to least severe. Because there is so much overlap between each of these three syndromes, MPS I is currently divided into the severe and attenuated types.  Children with MPS I often have no signs or symptoms of the condition at birth, although some have a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). People with severe MPS I generally begin to show other signs and symptoms of the disorder within the first year of life, while those with the attenuated form have milder features that develop later in childhood.  Individuals with MPS I may have a large head (macrocephaly), a buildup of fluid in the brain (hydrocephalus), heart valve abnormalities, distinctive-looking facial features that are described as &quot;coarse,&quot; an enlarged liver and spleen (hepatosplenomegaly), and a large tongue (macroglossia). Vocal cords can also enlarge, resulting in a deep, hoarse voice. The airway may become narrow in some people with MPS I, causing frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea).  People with MPS I often develop clouding of the clear covering of the eye (cornea), which can cause significant vision loss. Affected individuals may also have hearing loss and recurrent ear infections.  Some individuals with MPS I have short stature and joint deformities (contractures) that affect mobility. Most people with the severe form of the disorder also have dysostosis multiplex, which refers to multiple skeletal abnormalities seen on x-ray. Carpal tunnel syndrome develops in many children with this disorder and is characterized by numbness, tingling, and weakness in the hand and fingers. Narrowing of the spinal canal (spinal stenosis) in the neck can compress and damage the spinal cord.  While both forms of MPS I can affect many different organs and tissues, people with severe MPS I experience a decline in intellectual function and a more rapid disease progression. Developmental delay is usually present by age 1, and severely affected individuals eventually lose basic functional skills (developmentally regress). Children with this form of the disorder usually have a shortened lifespan, sometimes living only into late childhood. Individuals with attenuated MPS I typically live into adulthood and may or may not have a shortened lifespan. Some people with the attenuated type have learning disabilities, while others have no intellectual impairments. Heart disease and airway obstruction are major causes of death in people with both types of MPS I.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000678-2" qtype="frequency">How many people are affected by mucopolysaccharidosis type I ?</Question>
+			<Answer>Severe MPS I occurs in approximately 1 in 100,000 newborns. Attenuated MPS I is less common and occurs in about 1 in 500,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000678-3" qtype="genetic changes">What are the genetic changes related to mucopolysaccharidosis type I ?</Question>
+			<Answer>Mutations in the IDUA gene cause MPS I. The IDUA gene provides instructions for producing an enzyme that is involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs). GAGs were originally called mucopolysaccharides, which is where this condition gets its name. Mutations in the IDUA gene reduce or completely eliminate the function of the IDUA enzyme. The lack of IDUA enzyme activity leads to the accumulation of GAGs within cells, specifically inside the lysosomes. Lysosomes are compartments in the cell that digest and recycle different types of molecules. Conditions that cause molecules to build up inside the lysosomes, including MPS I, are called lysosomal storage disorders. The accumulation of GAGs increases the size of the lysosomes, which is why many tissues and organs are enlarged in this disorder. Researchers believe that the GAGs may also interfere with the functions of other proteins inside the lysosomes and disrupt the movement of molecules inside the cell.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000678-4" qtype="inheritance">Is mucopolysaccharidosis type I inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000678-5" qtype="treatment">What are the treatments for mucopolysaccharidosis type I ?</Question>
+			<Answer>These resources address the diagnosis or management of mucopolysaccharidosis type I:  - Baby&apos;s First Test  - Gene Review: Gene Review: Mucopolysaccharidosis Type I  - Genetic Testing Registry: Mucopolysaccharidosis type I  - MedlinePlus Encyclopedia: Hurler Syndrome  - MedlinePlus Encyclopedia: Mucopolysaccharides  - MedlinePlus Encyclopedia: Scheie Syndrome  - National MPS Society: Treatments   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

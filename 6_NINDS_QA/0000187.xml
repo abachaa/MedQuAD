@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000187" source="NINDS" url="http://www.ninds.nih.gov/disorders/lyme/lyme.htm">
+<Focus>Machado-Joseph Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024408</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000187-1" qtype="complications">What are the complications of Machado-Joseph Disease ?</Question>
+			<Answer>Lyme disease is caused by a bacterial organism that is transmitted to humans via the bite of an infected tick. Most people with Lyme disease develop a characteristic skin rash around the area of the bite. The rash may feel hot to the touch, and vary in size, shape, and color, but it will often have a &quot;bull&apos;s eye&quot; appearance (a red ring with a clear center). However, there are those who will not develop the rash, which can make Lyme disease hard to diagnose because its symptoms and signs mimic those of many other diseases.
+                
+Anywhere from 7 to 14 days (or in some cases, 30 days) following an infected tick&apos;s bite, the first stage of Lyme disease may begin with flu-like symptoms such as fever, chills, swollen lymph nodes, headaches, fatigue, muscle aches, and joint pain.
+                
+Neurological complications most often occur in the second stage of Lyme disease, with numbness, pain, weakness, Bell&apos;s palsy (paralysis of the facial muscles), visual disturbances, and meningitis symptoms such as fever, stiff neck, and severe headache. Other problems, which may not appear until weeks, months, or years after a tick bite, include decreased concentration, irritability, memory and sleep disorders, and nerve damage in the arms and legs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000187-2" qtype="treatment">What are the treatments for Machado-Joseph Disease ?</Question>
+			<Answer>Lyme disease is treated with antibiotics under the supervision of a physician.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000187-3" qtype="outlook">What is the outlook for Machado-Joseph Disease ?</Question>
+			<Answer>Most individuals with Lyme disease respond well to antibiotics and have full recovery. In a small percentage of individuals, symptoms may continue or recur, requiring additional antibiotic treatment. Varying degrees of permanent joint or nervous system damage may develop in individuals with late-stage Lyme disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000187-4" qtype="research">what research (or clinical trials) is being done for Machado-Joseph Disease ?</Question>
+			<Answer>The NINDS supports research on Lyme disease. Current areas of interest include improving diagnostic tests and developing more effective treatments. The National Institute of Allergy and Infectious Diseases (NIAID), the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS), and the National Center for Research Resources (NCRR), all parts of the National Institutes of Health (NIH), also support research on Lyme disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

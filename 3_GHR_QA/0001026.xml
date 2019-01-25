@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001026" source="GHR" url="https://ghr.nlm.nih.gov/condition/walker-warburg-syndrome">
+<Focus>Walker-Warburg syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265221</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cerebroocular dysplasia-muscular dystrophy syndrome</Synonym>
+		<Synonym>Chemke syndrome</Synonym>
+		<Synonym>COD-MD syndrome</Synonym>
+		<Synonym>HARD syndrome</Synonym>
+		<Synonym>hydrocephalus, agyria, and retinal dysplasia</Synonym>
+		<Synonym>Walker-Warburg congenital muscular dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001026-1" qtype="information">What is (are) Walker-Warburg syndrome ?</Question>
+			<Answer>Walker-Warburg syndrome is an inherited disorder that affects development of the muscles, brain, and eyes. It is the most severe of a group of genetic conditions known as congenital muscular dystrophies, which cause muscle weakness and wasting (atrophy) beginning very early in life. The signs and symptoms of Walker-Warburg syndrome are present at birth or in early infancy. Because of the severity of the problems caused by Walker-Warburg syndrome, most affected individuals do not survive past age 3.  Walker-Warburg syndrome affects the skeletal muscles, which are muscles the body uses for movement. Affected babies have weak muscle tone (hypotonia) and are sometimes described as &quot;floppy.&quot; The muscle weakness worsens over time.  Walker-Warburg syndrome also affects the brain; individuals with this condition typically have a brain abnormality called cobblestone lissencephaly, in which the surface of the brain lacks the normal folds and grooves and instead develops a bumpy, irregular appearance (like that of cobblestones). They may also have a buildup of fluid in the brain (hydrocephalus) or abnormalities of other parts of the brain, including a region called the cerebellum and the part of the brain that connects to the spinal cord (the brainstem). These changes in the structure of the brain lead to significantly delayed development and intellectual disability. Some individuals with Walker-Warburg syndrome experience seizures.  Eye abnormalities are also characteristic of Walker-Warburg syndrome. These can include unusually small eyeballs (microphthalmia), enlarged eyeballs caused by increased pressure in the eyes (buphthalmos), clouding of the lenses of the eyes (cataracts), and problems with the nerve that relays visual information from the eyes to the brain (the optic nerve). These eye problems lead to vision impairment in affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001026-2" qtype="frequency">How many people are affected by Walker-Warburg syndrome ?</Question>
+			<Answer>Walker-Warburg syndrome is estimated to affect 1 in 60,500 newborns worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001026-3" qtype="genetic changes">What are the genetic changes related to Walker-Warburg syndrome ?</Question>
+			<Answer>Walker-Warburg syndrome can be caused by mutations in one of several genes, including POMT1, POMT2, ISPD, FKTN, FKRP, and LARGE. The proteins produced from these genes modify another protein called alpha ()-dystroglycan; this modification, called glycosylation, is required for -dystroglycan to function. The -dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, the anchoring function of -dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.  Mutations in these genes prevent glycosylation of -dystroglycan, which disrupts its normal function. Without functional -dystroglycan to stabilize muscle cells, muscle fibers become damaged as they repeatedly contract and relax with use. The damaged fibers weaken and die over time, leading to progressive weakness of the skeletal muscles.  Defective -dystroglycan also affects the migration of neurons during the early development of the brain. Instead of stopping when they reach their intended destinations, some neurons migrate past the surface of the brain into the fluid-filled space that surrounds it. Researchers believe that this problem with neuronal migration causes cobblestone lissencephaly in children with Walker-Warburg syndrome. Less is known about the effects of the gene mutations in other parts of the body, including the eyes.  Mutations in the POMT1, POMT2, ISPD, FKTN, FKRP, and LARGE genes are found in only about half of individuals with Walker-Warburg syndrome. Other genes, some of which have not been identified, are likely involved in the development of this condition.  Because Walker-Warburg syndrome involves a malfunction of -dystroglycan, this condition is classified as a dystroglycanopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001026-4" qtype="inheritance">Is Walker-Warburg syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001026-5" qtype="treatment">What are the treatments for Walker-Warburg syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Walker-Warburg syndrome:  - Gene Review: Gene Review: Congenital Muscular Dystrophy Overview  - Genetic Testing Registry: Walker-Warburg congenital muscular dystrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

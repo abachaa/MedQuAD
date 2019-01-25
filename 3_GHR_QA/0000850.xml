@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000850" source="GHR" url="https://ghr.nlm.nih.gov/condition/pulmonary-veno-occlusive-disease">
+<Focus>pulmonary veno-occlusive disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034091</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>isolated pulmonary venous sclerosis</Synonym>
+		<Synonym>obstructive disease of the pulmonary veins</Synonym>
+		<Synonym>pulmonary venoocclusive disease</Synonym>
+		<Synonym>PVOD</Synonym>
+		<Synonym>venous form of primary pulmonary hypertension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000850-1" qtype="information">What is (are) pulmonary veno-occlusive disease ?</Question>
+			<Answer>Pulmonary veno-occlusive disease (PVOD) is characterized by the blockage (occlusion) of the blood vessels that carry oxygen-rich (oxygenated) blood from the lungs to the heart (the pulmonary veins). The occlusion is caused by a buildup of abnormal fibrous tissue in the small veins in the lungs, which narrows the vessels and impairs blood flow. Because blood flow through the lungs is difficult, pressure rises in the vessels that carry blood that needs to be oxygenated to the lungs from the heart (the pulmonary arteries). Increased pressure in these vessels is known as pulmonary arterial hypertension.  The problems with blood flow in PVOD also impair the delivery of oxygenated blood to the rest of the body, which leads to the signs and symptoms of the condition. Shortness of breath (dyspnea) and tiredness (fatigue) during exertion are the most common symptoms of this condition. Other common features include dizziness, a lack of energy (lethargy), difficulty breathing when lying down, and a cough that does not go away. As the condition worsens, affected individuals can develop a bluish tint to the skin (cyanosis), chest pains, fainting spells, and an accumulation of fluid in the lungs (pulmonary edema).  Certain features commonly seen in people with PVOD can be identified using a test called a CT scan. One of these features, which is seen in the lungs of affected individuals, is an abnormality described as centrilobular ground-glass opacities. Affected individuals also have abnormal thickening of certain tissues in the lungs, which is described as septal lines. In addition, lymph nodes in the chest (mediastinal lymph nodes) are abnormally enlarged in people with PVOD.  PVOD can begin at any age, and the blood flow problems worsen over time. Because of the increased blood pressure in the pulmonary arteries, the heart must work harder than normal to pump blood to the lungs, which can eventually lead to fatal heart failure. Most people with this severe disorder do not live more than 2 years after diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000850-2" qtype="frequency">How many people are affected by pulmonary veno-occlusive disease ?</Question>
+			<Answer>The exact prevalence of PVOD is unknown. Many cases are likely misdiagnosed as idiopathic pulmonary arterial hypertension, which is increased blood pressure in the pulmonary arteries without a known cause. Research suggests that 5 to 25 percent of people diagnosed with idiopathic pulmonary arterial hypertension have PVOD. Based on these numbers, PVOD is thought to affect an estimated 1 to 2 per 10 million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000850-3" qtype="genetic changes">What are the genetic changes related to pulmonary veno-occlusive disease ?</Question>
+			<Answer>The primary genetic cause of PVOD is mutations in the EIF2AK4 gene. Mutations in other genes may cause a small percentage of cases. Other suspected causes of PVOD include viral infection and exposure to toxic chemicals, including certain chemotherapy drugs.  The protein produced from the EIF2AK4 gene helps cells respond appropriately to changes that could damage the cell. For example, when the level of protein building blocks (amino acids) in a cell falls too low, the activity of the EIF2AK4 protein helps reduce the production of other proteins, which conserves amino acids. The EIF2AK4 gene mutations involved in PVOD likely eliminate functional EIF2AK4 protein; however, it is unknown how absence of this protein&apos;s function leads to the pulmonary vessel abnormalities that underlie PVOD.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000850-4" qtype="inheritance">Is pulmonary veno-occlusive disease inherited ?</Question>
+			<Answer>When caused by mutations in the EIF2AK4 gene, PVOD is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  In contrast, when caused by mutations in another gene, the condition can have an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In these cases, one parent of an affected individual typically has increased blood pressure in the vessels of the lungs.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000850-5" qtype="treatment">What are the treatments for pulmonary veno-occlusive disease ?</Question>
+			<Answer>These resources address the diagnosis or management of pulmonary veno-occlusive disease:  - Genetic Testing Registry: Pulmonary veno-occlusive disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000164" source="NINDS" url="http://www.ninds.nih.gov/disorders/iniencephaly/Iniencephaly.htm">
+<Focus>Iniencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152234</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000164-1" qtype="information">What is (are) Iniencephaly ?</Question>
+			<Answer>Iniencephaly is a rare birth defect caused by improper closure of the neural tube (the part of a human embryo that becomes the brain and spinal cord) during fetal development.  Iniencephaly is in the same family of neural tube defects as spina bifida, but it is more severe. In iniencephaly, the defect results in extreme retroflexion (backward bending) of the head combined with severe distortion of the spine. Diagnosis is made immediately after birth because an infants head is so severely bent backward that the face looks upward. In most infants the neck is absent and the skin of the face is connected directly to the skin of the chest, while the scalp is directly connected to the skin of the back. Most infants with iniencephaly have additional birth defects, such as anencephaly (in which major sections of the brain fail to form), cephalocele (in which part of the cranial contents protrudes from the skull), and cyclopia (in which the two cavities of the eyes fuse into one). Additional birth defects include the lack of a lower jaw bone or a cleft lip and palate. Other parts of the body may be affected, and infants can have cardiovascular disorders, diaphragmatic hernias, and gastrointestinal malformations. For reasons that are still unknown, the disorder is more common among females. No single gene has been identified as the cause for iniencephaly, or any of the neural tube defects. Scientists think these defects have complex causes, mostly likely a mix of genetic and environmental factors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000164-2" qtype="treatment">What are the treatments for Iniencephaly ?</Question>
+			<Answer>There is no standard treatment for iniencephaly since most infants rarely live longer than a few hours. Medicine is based more on prevention using supplementation with folic acid. Numerous studies have demonstrated that mothers can reduce the risk of neural tube birth defects such as iniencephaly by up to 70 percent with daily supplements of at least 4 mg of folic acid. Pregnant women should avoid taking antiepileptic drugs, diuretics, antihistamines, and sulfa drugs, which have been shown to be associated with an increased risk of neural tube defects. Maternal obesity and diabetes are also known to increase the risk for these disorders.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000164-3" qtype="outlook">What is the outlook for Iniencephaly ?</Question>
+			<Answer>The prognosis for infants with iniencephaly is extremely poor. Newborns seldom survive much past childbirth. The distortions of the babys body also pose a danger to the mother&apos;s life during delivery.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000164-4" qtype="research">what research (or clinical trials) is being done for Iniencephaly ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to iniencephaly in laboratories at the NIH and also support additional research through grants to major medical institutions across the country. Much of this research explores the complex mechanisms of neural tube development. The knowledge gained from these fundamental studies will provide a foundation for developing ways to prevent iniencephaly and the other neural tube defects.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

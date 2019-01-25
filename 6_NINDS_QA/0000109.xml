@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000109" source="NINDS" url="http://www.ninds.nih.gov/disorders/dysgraphia/dysgraphia.htm">
+<Focus>Dysgraphia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0234144</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000109-1" qtype="information">What is (are) Dysgraphia ?</Question>
+			<Answer>Dysgraphia is a neurological disorder characterized by writing disabilities. Specifically, the disorder causes a person&apos;s writing to be distorted or incorrect. In children, the disorder generally emerges when they are first introduced to writing. They make inappropriately sized and spaced letters, or write wrong or misspelled words, despite thorough instruction. Children with the disorder may have other learning disabilities; however, they usually have no social or other academic problems. Cases of dysgraphia in adults generally occur after some trauma. In addition to poor handwriting, dysgraphia is characterized by wrong or odd spelling, and production of words that are not correct (i.e., using &quot;boy&quot; for &quot;child&quot;). The cause of the disorder is unknown, but in adults, it is usually associated with damage to the parietal lobe of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000109-2" qtype="treatment">What are the treatments for Dysgraphia ?</Question>
+			<Answer>Treatment for dysgraphia varies and may include treatment for motor disorders to help control writing movements. Other treatments may address impaired memory or other neurological problems. Some physicians recommend that individuals with dysgraphia use computers to avoid the problems of handwriting.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000109-3" qtype="outlook">What is the outlook for Dysgraphia ?</Question>
+			<Answer>Some individuals with dysgraphia improve their writing ability, but for others, the disorder persists.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000109-4" qtype="research">what research (or clinical trials) is being done for Dysgraphia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) support dysgraphia research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to treat, and ultimately, prevent dysgraphia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

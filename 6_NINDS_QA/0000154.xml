@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000154" source="NINDS" url="http://www.ninds.nih.gov/disorders/hydrocephalus/hydrocephalus.htm">
+<Focus>Hydrocephalus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020255</CUI>
+			<CUI>C1963137</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000154-1" qtype="information">What is (are) Hydrocephalus ?</Question>
+			<Answer>Hydrocephalus is a condition in which the primary characteristic is excessive accumulation of cerebrospinal fluid (CSF) -- the clear fluid that surrounds the brain and spinal cord. This excessive accumulation results in an abnormal dilation of the spaces in the brain called ventricles. This dilation causes potentially harmful pressure on the tissues of the brain. Hydrocephalus may be congenital or acquired. Congenital hydrocephalus is present at birth and may be caused by genetic abnormalities or developmental disorders such as spina bifida and encephalocele. Acquired hydrocephalus develops at the time of birth or at some point afterward and can affect individuals of all ages. For example, hydrocephalus ex-vacuo occurs when there is damage to the brain caused by stroke or traumatic injury. Normal pressure hydrocephalus occurs most often among the elderly. It may result from a subarachnoid hemorrhage, head trauma, infection, tumor, or complications of surgery, although many people develop normal pressure hydrocephalus without an obvious cause. Symptoms of hydrocephalus vary with age, disease progression, and individual differences in tolerance to CSF. In infancy, the most obvious indication of hydrocephalus is often the rapid increase in head circumference or an unusually large head size. In older children and adults, symptoms may include headache followed by vomiting, nausea, papilledema (swelling of the optic disk, which is part of the optic nerve), downward deviation of the eyes (called &quot;sunsetting&quot;), problems with balance, poor coordination, gait disturbance, urinary incontinence, slowing or loss of development (in children), lethargy, drowsiness, irritability, or other changes in personality or cognition, including memory loss. Hydrocephalus is diagnosed through clinical neurological evaluation and by using cranial imaging techniques such as ultrasonography, computer tomography (CT), magnetic resonance imaging (MRI), or pressure-monitoring techniques.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000154-2" qtype="treatment">What are the treatments for Hydrocephalus ?</Question>
+			<Answer>Hydrocephalus is most often treated with the surgical placement of a shunt system. This system diverts the flow of CSF from a site within the central nervous system to another area of the body where it can be absorbed as part of the circulatory process. A limited number of individuals can be treated with an alternative procedure called third ventriculostomy. In this procedure, a small hole is made in the floor of the third ventricle, allowing the CSF to bypass the obstruction and flow toward the site of resorption around the surface of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000154-3" qtype="outlook">What is the outlook for Hydrocephalus ?</Question>
+			<Answer>The prognosis for individuals diagnosed with hydrocephalus is difficult to predict, although there is some correlation between the specific cause of hydrocephalus and the patient&apos;s outcome. Prognosis is further complicated by the presence of associated disorders, the timeliness of diagnosis, and the success of treatment. The symptoms of normal pressure hydrocephalus usually get worse over time if the condition is not treated, although some people may experience temporary improvements. If left untreated, progressive hydrocephalus is fatal, with rare exceptions. The parents of children with hydrocephalus should be aware that hydrocephalus poses risks to both cognitive and physical development. Treatment by an interdisciplinary team of medical professionals, rehabilitation specialists, and educational experts is critical to a positive outcome. Many children diagnosed with the disorder benefit from rehabilitation therapies and educational interventions, and go on to lead normal lives with few limitations.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000154-4" qtype="research">what research (or clinical trials) is being done for Hydrocephalus ?</Question>
+			<Answer>The NINDS conducts and supports a wide range of fundamental studies that explore the complex mechanisms of normal brain development. Much of this research focuses on finding better ways to protect, treat, and ultimately cure disorders such as hydrocephalus.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

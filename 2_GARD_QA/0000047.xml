@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000047" source="GARD" url="https://rarediseases.info.nih.gov/gard/2988/achondroplasia-and-severe-combined-immunodeficiency">
+<Focus>Achondroplasia and severe combined immunodeficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085110</CUI>
+			<CUI>C0001080</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Short-limb skeletal dysplasia with severe combined immunodeficiency</Synonym>
+		<Synonym>SLSD with SCID</Synonym>
+		<Synonym>Achondroplasia so-called and severe combined immunodeficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000047-1" qtype="information">What is (are) Achondroplasia and severe combined immunodeficiency ?</Question>
+			<Answer>Achondroplasia with severe combined immunodeficiency is an extremely rare type of SCID. The condition is characterized by the classic signs of SCID, including severe and recurrent infections, diarrhea, failure to thrive, and absence of T and B lymphocytes along with skeletal anomalies like short stature, bowing of the long bones and other abnormalities affecting the ends of the long bones (metaphyseal abnormalities). Children with this condition have a shortened life expectancy, generally surviving only into early childhood. Achondroplasia with severe combined immunodeficiency is inherited in an autosomal recessive manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000047-2" qtype="symptoms">What are the symptoms of Achondroplasia and severe combined immunodeficiency ?</Question>
+			<Answer>What are the signs and symptoms of Achondroplasia and severe combined immunodeficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for Achondroplasia and severe combined immunodeficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cellular immunodeficiency 90% Lymphopenia 90% Recurrent respiratory infections 90% Fine hair 50% Reduced bone mineral density 50% Short stature 50% Abnormality of the fibula 7.5% Abnormality of the pancreas 7.5% Aganglionic megacolon 7.5% Anemia 7.5% Cognitive impairment 7.5% Hernia of the abdominal wall 7.5% Hypopigmentation of hair 7.5% Malabsorption 7.5% Pectus excavatum 7.5% Abnormality of the thorax - Agammaglobulinemia - Autosomal recessive inheritance - Death in childhood - Hypoplasia of the thymus - Metaphyseal chondrodysplasia - Severe combined immunodeficiency - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

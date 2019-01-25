@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000138" source="NINDS" url="http://www.ninds.nih.gov/disorders/gan/GiantAxonalNeuropathy.htm">
+<Focus>Giant Axonal Neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1850386</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000138-1" qtype="information">What is (are) Giant Axonal Neuropathy ?</Question>
+			<Answer>Giant axonal neuropathy (GAN) is a rare inherited genetic disorder that affects both the central and peripheral nervous systems. The majority of children with GAN will begin to show symptoms of the disease sometime before five years of age. Signs of GAN usually begin in the peripheral nervous system, which controls movement and sensation in the arms, legs, and other parts of the body. The typical symptoms of GAN are clumsiness and muscle weakness that progresses from a waddling gait to a pronounced difficulty in walking. Additional symptoms include numbness or lack of feeling in the arms and legs, seizures, nystagmus (rapid back and forth movement of the eyes), and impaired cognitive development. A characteristic sign of the disease is dull, tightly curled hair that is markedly different from the parents in color and texture.
+                
+Researchers have discovered more than 20 different mutations associated with GAN in a gene, GAN1, which makes a protein called gigaxonin. These mutations disrupt the regulation or production of gigaxonin in the nervous system. As a result, axons, which are the long tails of neurons that allow them to communicate with other nerve cells, swell up with tangled filaments and become abnormally large. Eventually these axons deteriorate and cause problems with movement and sensation since neurons are no longer able to communicate with each other.
+                
+Doctors diagnose GAN by using several tests, including one that measures nerve conduction velocity, a brain MRI, and a peripheral nerve biopsy (in which a bit of tissue from a peripheral nerve is removed and examined to look for swollen axons). A definitive diagnosis using genetic testing is available on a research basis only.
+                
+GAN is inherited in an autosomal recessive pattern, which means that both parents of a child with GAN have to carry a copy of the mutated gene. Parents, typically, will show no signs of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000138-2" qtype="treatment">What are the treatments for Giant Axonal Neuropathy ?</Question>
+			<Answer>Treatment is symptomatic. Children with GAN and their families usually work with a medical team that includes a pediatric neurologist, orthopedic surgeon, physiotherapist, psychologist, and speech and occupational therapists. The major goals of treatment are to maximize intellectual and physical development and minimize their deterioration as time passes. Many children with GAN begin with normal intellectual development and are able to attend a regular school program. Children should be monitored at least once a year to assess their intellectual abilities and to look for the presence of neurological deterioration.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000138-3" qtype="outlook">What is the outlook for Giant Axonal Neuropathy ?</Question>
+			<Answer>GAN generally progresses slowly as neurons degenerate and die. Most children have problems with walking in the early stages of the disorder. Later they may lose sensation, coordination, strength, and reflexes in their arms and legs. As time goes on, the brain and spinal cord may become involved, causing a gradual decline in mental function, loss of control of body movement, and seizures. Most children become wheelchair dependent in the second decade of life. Some children may survive into early adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000138-4" qtype="research">what research (or clinical trials) is being done for Giant Axonal Neuropathy ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) supports research related to GAN through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure inherited neurological disorders such as GAN.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

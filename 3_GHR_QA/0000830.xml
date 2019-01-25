@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000830" source="GHR" url="https://ghr.nlm.nih.gov/condition/progressive-osseous-heteroplasia">
+<Focus>progressive osseous heteroplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334041</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cutaneous ossification</Synonym>
+		<Synonym>ectopic ossification</Synonym>
+		<Synonym>heterotopic ossification</Synonym>
+		<Synonym>myositis ossificans progressiva</Synonym>
+		<Synonym>osteodermia</Synonym>
+		<Synonym>osteoma cutis</Synonym>
+		<Synonym>osteosis cutis</Synonym>
+		<Synonym>POH</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000830-1" qtype="information">What is (are) progressive osseous heteroplasia ?</Question>
+			<Answer>Progressive osseous heteroplasia is a disorder in which bone forms within skin and muscle tissue. Bone that forms outside the skeleton is called heterotopic or ectopic bone. In progressive osseous heteroplasia, ectopic bone formation begins in the deep layers of the skin (dermis and subcutaneous fat) and gradually moves into other tissues such as skeletal muscle and tendons. The bony lesions within the skin may be painful and may develop into open sores (ulcers). Over time, joints can become involved, resulting in impaired mobility.  Signs and symptoms of progressive osseous heteroplasia usually become noticeable during infancy. In some affected individuals, however, this may not occur until later in childhood or in early adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000830-2" qtype="frequency">How many people are affected by progressive osseous heteroplasia ?</Question>
+			<Answer>Progressive osseous heteroplasia is a rare condition. Its exact incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000830-3" qtype="genetic changes">What are the genetic changes related to progressive osseous heteroplasia ?</Question>
+			<Answer>Progressive osseous heteroplasia is caused by a mutation in the GNAS gene. The GNAS gene provides instructions for making one part of a protein complex called a guanine nucleotide-binding protein, or a G protein.  In a process called signal transduction, G proteins trigger a complex network of signaling pathways that ultimately influence many cell functions. The protein produced from the GNAS gene is believed to play a key role in signaling pathways that help regulate the development of bone (osteogenesis), preventing bony tissue from being produced outside the skeleton.  The GNAS gene mutations that cause progressive osseous heteroplasia disrupt the function of the G protein and impair its ability to regulate osteogenesis. As a result, bony tissue grows outside the skeleton and causes the complications associated with this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000830-4" qtype="inheritance">Is progressive osseous heteroplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  People normally inherit one copy of each gene from their mother and one copy from their father. For most genes, both copies are active, or &quot;turned on,&quot; in all cells. For a small subset of genes, however, only one of the two copies is active. For some of these genes, only the copy inherited from a person&apos;s father (the paternal copy) is active, while for other genes, only the copy inherited from a person&apos;s mother (the maternal copy) is active. These differences in gene activation based on the gene&apos;s parent of origin are caused by a phenomenon called genomic imprinting.  The GNAS gene has a complex genomic imprinting pattern. In some cells of the body the maternal copy of the gene is active, while in others the paternal copy is active. Progressive osseous heteroplasia occurs when mutations affect the paternal copy of the gene.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000830-5" qtype="treatment">What are the treatments for progressive osseous heteroplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of progressive osseous heteroplasia:  - Genetic Testing Registry: Progressive osseous heteroplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000182" source="GHR" url="https://ghr.nlm.nih.gov/condition/chorea-acanthocytosis">
+<Focus>chorea-acanthocytosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393576</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acanthocytosis with neurologic disorder</Synonym>
+		<Synonym>CHAC</Synonym>
+		<Synonym>choreoacanthocytosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000182-1" qtype="information">What is (are) chorea-acanthocytosis ?</Question>
+			<Answer>Chorea-acanthocytosis is primarily a neurological disorder that affects movement in many parts of the body. Chorea refers to the involuntary jerking movements made by people with this disorder. People with this condition also have abnormal star-shaped red blood cells (acanthocytosis). This condition is one of a group of conditions called neuroacanthocytoses that involve neurological problems and abnormal red blood cells.  In addition to chorea, another common feature of chorea-acanthocytosis is involuntary tensing of various muscles (dystonia), such as those in the limbs, face, mouth, tongue, and throat. These muscle twitches can cause vocal tics (such as grunting), involuntary belching, and limb spasms. Eating can also be impaired as tongue and throat twitches can interfere with chewing and swallowing food. People with chorea-acanthocytosis may uncontrollably bite their tongue, lips, and inside of the mouth. Nearly half of all people with chorea-acanthocytosis have seizures.  Individuals with chorea-acanthocytosis may develop difficulty processing, learning, and remembering information (cognitive impairment). They may have reduced sensation and weakness in their arms and legs (peripheral neuropathy) and muscle weakness (myopathy). Impaired muscle and nerve functioning commonly cause speech difficulties in individuals with this condition, and can lead to an inability to speak.  Behavioral changes are a common feature of chorea-acanthocytosis and may be the first sign of this condition. These behavioral changes may include changes in personality, obsessive-compulsive disorder (OCD), lack of self-restraint, and the inability to take care of oneself.  The signs and symptoms of chorea-acanthocytosis usually begin in early to mid-adulthood. The movement problems of this condition worsen with age. Loss of cells (atrophy) in certain brain regions is the major cause of the neurological problems seen in people with chorea-acanthocytosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000182-2" qtype="frequency">How many people are affected by chorea-acanthocytosis ?</Question>
+			<Answer>It is estimated that 500 to 1,000 people worldwide have chorea-acanthocytosis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000182-3" qtype="genetic changes">What are the genetic changes related to chorea-acanthocytosis ?</Question>
+			<Answer>Mutations in the VPS13A gene cause chorea-acanthocytosis. The VPS13A gene provides instructions for producing a protein called chorein; the function of this protein in the body is unknown. Some researchers believe that chorein plays a role in the movement of proteins within cells. Most VPS13A gene mutations lead to the production of an abnormally small, nonfunctional version of chorein. The VPS13A gene is active (expressed) throughout the body; it is unclear why mutations in this gene affect only the brain and red blood cells.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000182-4" qtype="inheritance">Is chorea-acanthocytosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000182-5" qtype="treatment">What are the treatments for chorea-acanthocytosis ?</Question>
+			<Answer>These resources address the diagnosis or management of chorea-acanthocytosis:  - Gene Review: Gene Review: Chorea-Acanthocytosis  - Genetic Testing Registry: Choreoacanthocytosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

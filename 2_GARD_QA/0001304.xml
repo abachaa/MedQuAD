@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001304" source="GARD" url="https://rarediseases.info.nih.gov/gard/10765/chromosome-9-inversion">
+<Focus>Chromosome 9 inversion</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1705687</CUI>
+			<CUI>C0021945</CUI>
+			<CUI>C0021943</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T049</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Inversion 9</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001304-1" qtype="information">What is (are) Chromosome 9 inversion ?</Question>
+			<Answer>Chromosomes are the structures found in every cell of the body that contain our DNA, the instructions that tell our body what to do. Humans have 23 pairs of chromosomes, which means that each human cell contains 46 chromosomes. Each chromosome has a p and q arm; p is the short arm and q is the long arm. The p arm is always on the top and the q arm is on the bottom. Chromosome 9 inversion is when there are two breaks on chromosome 9. The segment between the breakpoints flips around and reinserts back into the same place on chromosome 9. If both breaks occur in the same arm of the chromosome, this is called a paracentric inversion. If one break occurs in the short arm and the other in the long arm of the chromosome, then this is called a pericentric inversion. Chromosome 9 inversions commonly occur as a pericentric inversion.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

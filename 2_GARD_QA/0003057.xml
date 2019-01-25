@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003057" source="GARD" url="https://rarediseases.info.nih.gov/gard/2049/hypohidrotic-ectodermal-dysplasia-with-hypothyroidism-and-ciliary-dyskinesia">
+<Focus>Hypohidrotic ectodermal dysplasia with hypothyroidism and ciliary dyskinesia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162359</CUI>
+			<CUI>C0008780</CUI>
+			<CUI>C0020676</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HEDH syndrome</Synonym>
+		<Synonym>Hypohidrotic ectodermal dysplasia with hypothyroidism</Synonym>
+		<Synonym>Ectodermal dysplasia hypohidrotic with hypothyroidism and ciliary dyskinesia</Synonym>
+		<Synonym>Hypohidrotic ectodermal dysplasia - hypothyroidism - ciliary dyskinesia</Synonym>
+		<Synonym>ANOTHER syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003057-1" qtype="information">What is (are) Hypohidrotic ectodermal dysplasia with hypothyroidism and ciliary dyskinesia ?</Question>
+			<Answer>Hypohidrotic ectodermal dysplasia with hypothyroidism and ciliary dyskinesia is a rare condition characterized by alopecia (hair loss); nail dystrophy (abnormal development of the nails); ophthalmic (eye-related) complications; thyroid dysfunction (primary hypothyroidism); hypohidrosis; ephelides (freckles); enteropathy (disease of the intestine); and respiratory tract infections due to ciliary dyskinesia. These features have lead to the acronym ANOTHER syndrome as an alternative name for the condition. The gene that causes the condition is currently unknown but it is thought to be inherited in an autosomal recessive manner. Treatment is generally symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003057-2" qtype="symptoms">What are the symptoms of Hypohidrotic ectodermal dysplasia with hypothyroidism and ciliary dyskinesia ?</Question>
+			<Answer>What are the signs and symptoms of Hypohidrotic ectodermal dysplasia with hypothyroidism and ciliary dyskinesia? The Human Phenotype Ontology provides the following list of signs and symptoms for Hypohidrotic ectodermal dysplasia with hypothyroidism and ciliary dyskinesia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal hair quantity 90% Abnormality of the fingernails 90% Abnormality of the toenails 90% Aplasia/Hypoplasia of the eyebrow 90% Behavioral abnormality 90% Delayed skeletal maturation 90% Fine hair 90% Hypohidrosis 90% Hypothyroidism 90% Recurrent respiratory infections 90% Short stature 90% Lacrimation abnormality 50% Melanocytic nevus 50% Abnormal respiratory motile cilium morphology - Abnormality of skin pigmentation - Autosomal recessive inheritance - Ciliary dyskinesia - Hypohidrotic ectodermal dysplasia - Nail dysplasia - Primary hypothyroidism - Recurrent infections - Sparse eyebrow - Sparse scalp hair - Urticaria - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

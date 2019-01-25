@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002796" source="GARD" url="https://rarediseases.info.nih.gov/gard/8204/henoch-schonlein-purpura">
+<Focus>Henoch-Schonlein purpura</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034152</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Purpura, Schonlein-Henoch</Synonym>
+		<Synonym>Anaphylactoid purpura</Synonym>
+		<Synonym>Vascular purpura</Synonym>
+		<Synonym>Henoch Schonlein purpura</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002796-1" qtype="information">What is (are) Henoch-Schonlein purpura ?</Question>
+			<Answer>Henoch-Schonlein purpura (HSP) is a disease that involves purple spots on the skin (purpura), joint pain, digestive problems, and glomerulonephritis (a type of kidney disorder). While the cause of this condition is not fully understood, it may develop as an immune response to an infection. HSP is usually seen in children, but it may affect people of any age. Most cases go away on their own without treatment. For those cases which require treatment, the main goal is to relieve symptoms such as joint pain, abdominal pain, or swelling. In many cases, over-the-counter medicines can be used. In some patients with severe arthritis, prednisone, a steroid medicine, may be prescribed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002796-2" qtype="symptoms">What are the symptoms of Henoch-Schonlein purpura ?</Question>
+			<Answer>What are the signs and symptoms of Henoch-Schonlein purpura? The Human Phenotype Ontology provides the following list of signs and symptoms for Henoch-Schonlein purpura. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal pain 90% Arthralgia 90% Bruising susceptibility 90% Gastrointestinal infarctions 90% Hematuria 90% Nausea and vomiting 90% Pustule 90% Skin rash 90% Vasculitis 90% Abnormal tendon morphology 50% Abnormality of temperature regulation 50% Anorexia 50% Arthritis 50% Encephalitis 50% Migraine 50% Myalgia 50% Orchitis 50% Skin ulcer 50% Edema 7.5% Gastrointestinal hemorrhage 7.5% Glomerulopathy 7.5% Hemiplegia/hemiparesis 7.5% Hypermelanotic macule 7.5% Inflammatory abnormality of the eye 7.5% Muscle weakness 7.5% Optic atrophy 7.5% Proteinuria 7.5% Renal insufficiency 7.5% Restrictive lung disease 7.5% Seizures 7.5% Urticaria 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002796-3" qtype="inheritance">Is Henoch-Schonlein purpura inherited ?</Question>
+			<Answer>Can Henoch-Schonlein purpura be inherited? The cause of Henoch-Schonlein purpura is currently unknown.  Some evidence suggests that genetic predisposition may contribute to the development of this disease in some cases.  Only a few families with multiple relatives affected by HSP have been reported in the medical literature.  The association between particular genes and a slight increase in the chance of developing HSP has not been proven.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002796-4" qtype="treatment">What are the treatments for Henoch-Schonlein purpura ?</Question>
+			<Answer>What treatments are available for Henoch-Schonlein purpura? Unfortunately, there is no cure for Henoch-Schonlein purpura (HSP).  Treatments aim to relieve the symptoms of this condition.  For example, non-steroidal anti-inflammatory drugs (NSAIDs) or corticosteroids (such as prednisone) may be used to relieve pain.  If the kidneys are severely affected in an individual with HSP, immunosuppressive medications, such as cyclophosphamide, may be prescribed.  In rare cases, individuals with HSP may need to be hospitalized if they experience severe abdominal pain, bleeding from the digestive tract, or kidney problems.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

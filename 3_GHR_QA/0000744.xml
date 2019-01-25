@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000744" source="GHR" url="https://ghr.nlm.nih.gov/condition/oculocutaneous-albinism">
+<Focus>oculocutaneous albinism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0078918</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>albinism, oculocutaneous</Synonym>
+		<Synonym>OCA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000744-1" qtype="information">What is (are) oculocutaneous albinism ?</Question>
+			<Answer>Oculocutaneous albinism is a group of conditions that affect coloring (pigmentation) of the skin, hair, and eyes. Affected individuals typically have very fair skin and white or light-colored hair. Long-term sun exposure greatly increases the risk of skin damage and skin cancers, including an aggressive form of skin cancer called melanoma, in people with this condition. Oculocutaneous albinism also reduces pigmentation of the colored part of the eye (the iris) and the light-sensitive tissue at the back of the eye (the retina). People with this condition usually have vision problems such as reduced sharpness; rapid, involuntary eye movements (nystagmus); and increased sensitivity to light (photophobia).  Researchers have identified multiple types of oculocutaneous albinism, which are distinguished by their specific skin, hair, and eye color changes and by their genetic cause. Oculocutaneous albinism type 1 is characterized by white hair, very pale skin, and light-colored irises. Type 2 is typically less severe than type 1; the skin is usually a creamy white color and hair may be light yellow, blond, or light brown. Type 3 includes a form of albinism called rufous oculocutaneous albinism, which usually affects dark-skinned people. Affected individuals have reddish-brown skin, ginger or red hair, and hazel or brown irises. Type 3 is often associated with milder vision abnormalities than the other forms of oculocutaneous albinism. Type 4 has signs and symptoms similar to those seen with type 2.  Several additional types of this disorder have been proposed, each affecting one or a few families.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000744-2" qtype="frequency">How many people are affected by oculocutaneous albinism ?</Question>
+			<Answer>Overall, an estimated 1 in 20,000 people worldwide are born with oculocutaneous albinism. The condition affects people in many ethnic groups and geographical regions. Types 1 and 2 are the most common forms of this condition; types 3 and 4 are less common. Type 2 occurs more frequently in African Americans, some Native American groups, and people from sub-Saharan Africa. Type 3, specifically rufous oculocutaneous albinism, has been described primarily in people from southern Africa. Studies suggest that type 4 occurs more frequently in the Japanese and Korean populations than in people from other parts of the world.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000744-3" qtype="genetic changes">What are the genetic changes related to oculocutaneous albinism ?</Question>
+			<Answer>Oculocutaneous albinism can result from mutations in several genes, including TYR, OCA2, TYRP1, and SLC45A2. Changes in the TYR gene cause type 1; mutations in the OCA2 gene are responsible for type 2; TYRP1 mutations cause type 3; and changes in the SLC45A2 gene result in type 4. Mutations in additional genes likely underlie the other forms of this disorder. The genes associated with oculocutaneous albinism are involved in producing a pigment called melanin, which is the substance that gives skin, hair, and eyes their color. In the retina, melanin also plays a role in normal vision. Mutations in any of these genes disrupt the ability of cells to make melanin, which reduces pigmentation in the skin, hair, and eyes. A lack of melanin in the retina leads to the vision problems characteristic of oculocutaneous albinism.  Alterations in the MC1R gene can change the appearance of people with oculocutaneous albinism type 2. This gene helps regulate melanin production and is responsible for some normal variation in pigmentation. People with genetic changes in both the OCA2 and MC1R genes have many of the usual features of oculocutaneous albinism type 2, including light-colored eyes and vision problems; however, they typically have red hair instead of the usual yellow, blond, or light brown hair seen with this condition.  Some individuals with oculocutaneous albinism do not have mutations in any of the known genes. In these people, the genetic cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000744-4" qtype="inheritance">Is oculocutaneous albinism inherited ?</Question>
+			<Answer>Oculocutaneous albinism is inherited in an autosomal recessive pattern, which means both copies of a gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000744-5" qtype="treatment">What are the treatments for oculocutaneous albinism ?</Question>
+			<Answer>These resources address the diagnosis or management of oculocutaneous albinism:  - Gene Review: Gene Review: Oculocutaneous Albinism Type 1  - Gene Review: Gene Review: Oculocutaneous Albinism Type 2  - Gene Review: Gene Review: Oculocutaneous Albinism Type 4  - Genetic Testing Registry: Oculocutaneous albinism  - MedlinePlus Encyclopedia: Albinism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

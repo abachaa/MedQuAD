@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000038" source="NINDS" url="http://www.ninds.nih.gov/disorders/barth/barth.htm">
+<Focus>Barth Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0574083</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000038-1" qtype="information">What is (are) Barth Syndrome ?</Question>
+			<Answer>Barth syndrome (BTHS) is a rare, genetic disorder of lipid metabolism that primarily affects males. It is caused by a mutation in the tafazzin gene (TAZ, also called G4.5) which leads to decreased production of an enzyme required to produce cardiolipin. Cardiolipin is an essential lipid that is important in energy metabolism. BTHS, which affects multiple body systems, is considered serious. Its main characteristics often include combinations in varying degrees of heart muscle weakness (cardiomyopathy), neutropenia (low white blood cell cunt, which may lead to an increased risk for bacterial infections), reduced muscle tone (hypotonia), muscle weakness, undeveloped skeletal muscles, delayed growth, fatigue, varying degrees of physical disability, and methylglutaconic aciduria (an increase in an organic acid that results in abnormal mitochondria function). Although some with BTHS may have all of these characteristics, others may have only one or two and are often misdiagnosed. BTHS is an X-linked genetic condition passed from mother to son through the X chromosome. A mother who is a carrier of BTHS typically shows no signs or symptoms of the disorder herself. On average, 50 percent of children born to a carrier mother will inherit the defective gene, but only boys will develop symptoms. All daughters born to an affected male will be carriers but typically will not have symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000038-2" qtype="treatment">What are the treatments for Barth Syndrome ?</Question>
+			<Answer>There is no specific treatment for Barth syndrome. Bacterial infections caused by neutropenia can be effectively treated with antibiotics. The drug granulocyte colony stimulating factor, or GCSF, can stimulate white cell production by the bone marrow and help combat infection. Medicines may be prescribed to control heart problems. The dietary supplement carnitine has aided some children with Barth syndrome but in others it has caused increasing muscle weakness and even precipitated heart failure. Only careful dietary monitoring directed by a physician or nutritionist familiar with the disorder can ensure proper caloric and nutritional intake.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000038-3" qtype="outlook">What is the outlook for Barth Syndrome ?</Question>
+			<Answer>Early and accurate diagnosis is key to prolonged survival for boys born with Barth syndrome. The disorder was once considered uniformly fatal in infancy, but some individuals are now living much longer. Severe infections and cardiac failure are common causes of death in affected children.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000038-4" qtype="research">what research (or clinical trials) is being done for Barth Syndrome ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS supports research on genetic disorders such as Barth syndrome, including basic research on mitochondrial dysfunction and investigations of other inborn errors of metabolism. Scientists have identified many of the genetic mutations that cause mitochondrial diseases and have created animal models which can be used to investigate potential treatments. Scientists hope to develop unique approaches to treating mitochondrial diseases through a better understanding of mitochondrial biology. Because people affected by mitochondrial disease often have a mixture of healthy and mutant mitochondria in their cells, effective therapy could involve getting the healthy mitochondria to take over for the diseased ones.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000009" source="GHR" url="https://ghr.nlm.nih.gov/condition/acral-peeling-skin-syndrome">
+<Focus>acral peeling skin syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1853354</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>APSS</Synonym>
+		<Synonym>peeling skin syndrome, acral type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000009-1" qtype="information">What is (are) acral peeling skin syndrome ?</Question>
+			<Answer>Acral peeling skin syndrome is a skin disorder characterized by painless peeling of the top layer of skin. The term &quot;acral&quot; refers to the fact that the skin peeling in this condition is most apparent on the hands and feet. Occasionally, peeling also occurs on the arms and legs. The peeling is usually evident from birth, although the condition can also begin in childhood or later in life. Skin peeling is made worse by exposure to heat, humidity and other forms of moisture, and friction. The underlying skin may be temporarily red and itchy, but it typically heals without scarring. Acral peeling skin syndrome is not associated with any other health problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000009-2" qtype="frequency">How many people are affected by acral peeling skin syndrome ?</Question>
+			<Answer>Acral peeling skin syndrome is a rare condition, with several dozen cases reported in the medical literature. However, because its signs and symptoms tend to be mild and similar to those of other skin disorders, the condition is likely underdiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000009-3" qtype="genetic changes">What are the genetic changes related to acral peeling skin syndrome ?</Question>
+			<Answer>Acral peeling skin syndrome is caused by mutations in the TGM5 gene. This gene provides instructions for making an enzyme called transglutaminase 5, which is a component of the outer layer of skin (the epidermis). Transglutaminase 5 plays a critical role in the formation of a structure called the cornified cell envelope, which surrounds epidermal cells and helps the skin form a protective barrier between the body and its environment.  TGM5 gene mutations reduce the production of transglutaminase 5 or prevent cells from making any of this protein. A shortage of transglutaminase 5 weakens the cornified cell envelope, which allows the outermost cells of the epidermis to separate easily from the underlying skin and peel off. This peeling is most noticeable on the hands and feet probably because those areas tend to be heavily exposed to moisture and friction.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000009-4" qtype="inheritance">Is acral peeling skin syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000009-5" qtype="treatment">What are the treatments for acral peeling skin syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of acral peeling skin syndrome:  - Birmingham Children&apos;s Hospital, National Health Service (UK)  - Genetic Testing Registry: Peeling skin syndrome, acral type   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

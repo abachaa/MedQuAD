@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000079" source="GHR" url="https://ghr.nlm.nih.gov/condition/ataxia-with-vitamin-e-deficiency">
+<Focus>ataxia with vitamin E deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1848533</CUI>
+			<CUI>C0042875</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ataxia with isolated vitamin E deficiency</Synonym>
+		<Synonym>AVED</Synonym>
+		<Synonym>familial isolated vitamin E deficiency</Synonym>
+		<Synonym>FIVE</Synonym>
+		<Synonym>Friedreich ataxia phenotype with selective vitamin E deficiency</Synonym>
+		<Synonym>Friedreich-like ataxia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000079-1" qtype="information">What is (are) ataxia with vitamin E deficiency ?</Question>
+			<Answer>Ataxia with vitamin E deficiency is a disorder that impairs the body&apos;s ability to use vitamin E obtained from the diet. Vitamin E is an antioxidant, which means that it protects cells in the body from the damaging effects of unstable molecules called free radicals. A shortage (deficiency) of vitamin E can lead to neurological problems, such as difficulty coordinating movements (ataxia) and speech (dysarthria), loss of reflexes in the legs (lower limb areflexia), and a loss of sensation in the extremities (peripheral neuropathy). Some people with this condition have developed an eye disorder called retinitis pigmentosa that causes vision loss. Most people who have ataxia with vitamin E deficiency start to experience problems with movement between the ages of 5 and 15 years. The movement problems tend to worsen with age.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000079-2" qtype="frequency">How many people are affected by ataxia with vitamin E deficiency ?</Question>
+			<Answer>Ataxia with vitamin E deficiency is a rare condition; however, its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000079-3" qtype="genetic changes">What are the genetic changes related to ataxia with vitamin E deficiency ?</Question>
+			<Answer>Mutations in the TTPA gene cause ataxia with vitamin E deficiency. The TTPA gene provides instructions for making the -tocopherol transfer protein (TTP), which is found in the liver and brain. This protein controls distribution of vitamin E obtained from the diet (also called -tocopherol) to cells and tissues throughout the body. Vitamin E helps cells prevent damage that might be done by free radicals.  TTPA gene mutations impair the activity of the TTP protein, resulting in an inability to retain and use dietary vitamin E. As a result, vitamin E levels in the blood are greatly reduced and free radicals accumulate within cells. Nerve cells (neurons) in the brain and spinal cord (central nervous system) are particularly vulnerable to the damaging effects of free radicals and these cells die off when they are deprived of vitamin E. Nerve cell damage can lead to problems with movement and other features of ataxia with vitamin E deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000079-4" qtype="inheritance">Is ataxia with vitamin E deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000079-5" qtype="treatment">What are the treatments for ataxia with vitamin E deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of ataxia with vitamin E deficiency:  - Gene Review: Gene Review: Ataxia with Vitamin E Deficiency  - Genetic Testing Registry: Ataxia with vitamin E deficiency  - MedlinePlus Encyclopedia: Retinitis pigmentosa  - MedlinePlus Encyclopedia: Vitamin E   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

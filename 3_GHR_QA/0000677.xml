@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000677" source="GHR" url="https://ghr.nlm.nih.gov/condition/mucolipidosis-type-iv">
+<Focus>mucolipidosis type IV</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238286</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ganglioside sialidase deficiency</Synonym>
+		<Synonym>ML4</Synonym>
+		<Synonym>MLIV</Synonym>
+		<Synonym>sialolipidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000677-1" qtype="information">What is (are) mucolipidosis type IV ?</Question>
+			<Answer>Mucolipidosis type IV is an inherited disorder characterized by delayed development and vision impairment that worsens over time. The severe form of the disorder is called typical mucolipidosis type IV, and the mild form is called atypical mucolipidosis type IV.  Approximately 95 percent of individuals with this condition have the severe form. People with typical mucolipidosis type IV have delayed development of mental and motor skills (psychomotor delay). Motor skills include sitting, standing, walking, grasping objects, and writing. Psychomotor delay is moderate to severe and usually becomes apparent during the first year of life. Affected individuals have intellectual disability, limited or absent speech, difficulty chewing and swallowing, weak muscle tone (hypotonia) that gradually turns into abnormal muscle stiffness (spasticity), and problems controlling hand movements. Most people with typical mucolipidosis type IV are unable to walk independently. In about 15 percent of affected individuals, the psychomotor problems worsen over time.  Vision may be normal at birth in people with typical mucolipidosis type IV, but it becomes increasingly impaired during the first decade of life. Individuals with this condition develop clouding of the clear covering of the eye (cornea) and progressive breakdown of the light-sensitive layer at the back of the eye (retina). By their early teens, affected individuals have severe vision loss or blindness.  People with typical mucolipidosis type IV also have impaired production of stomach acid (achlorhydria). Achlorhydria does not cause any symptoms in these individuals, but it does result in unusually high levels of gastrin in the blood. Gastrin is a hormone that regulates the production of stomach acid. Individuals with mucolipidosis type IV may not have enough iron in their blood, which can lead to a shortage of red blood cells (anemia). People with the severe form of this disorder usually survive to adulthood; however, they may have a shortened lifespan.  About 5 percent of affected individuals have atypical mucolipidosis type IV. These individuals usually have mild psychomotor delay and may develop the ability to walk. People with atypical mucolipidosis type IV tend to have milder eye abnormalities than those with the severe form of the disorder. Achlorhydria also may be present in mildly affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000677-2" qtype="frequency">How many people are affected by mucolipidosis type IV ?</Question>
+			<Answer>Mucolipidosis type IV is estimated to occur in 1 in 40,000 people. About 70 percent of affected individuals have Ashkenazi Jewish ancestry.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000677-3" qtype="genetic changes">What are the genetic changes related to mucolipidosis type IV ?</Question>
+			<Answer>Mutations in the MCOLN1 gene cause mucolipidosis type IV. This gene provides instructions for making a protein called mucolipin-1. This protein is located in the membranes of lysosomes and endosomes, compartments within the cell that digest and recycle materials. While its function is not completely understood, mucolipin-1 plays a role in the transport (trafficking) of fats (lipids) and proteins between lysosomes and endosomes. Mucolipin-1 appears to be important for the development and maintenance of the brain and retina. In addition, this protein is likely critical for normal functioning of the cells in the stomach that produce digestive acids.  Most mutations in the MCOLN1 gene result in the production of a nonfunctional protein or prevent any protein from being produced. A lack of functional mucolipin-1 impairs transport of lipids and proteins, causing these substances to build up inside lysosomes. Conditions that cause molecules to accumulate inside the lysosomes, including mucolipidosis type IV, are called lysosomal storage disorders. Two mutations in the MCOLN1 gene account for almost all cases of mucolipidosis type IV in people with Ashkenazi Jewish ancestry. It remains unclear how mutations in this gene lead to the signs and symptoms of mucolipidosis type IV.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000677-4" qtype="inheritance">Is mucolipidosis type IV inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000677-5" qtype="treatment">What are the treatments for mucolipidosis type IV ?</Question>
+			<Answer>These resources address the diagnosis or management of mucolipidosis type IV:  - Gene Review: Gene Review: Mucolipidosis IV  - Genetic Testing Registry: Ganglioside sialidase deficiency  - MedlinePlus Encyclopedia: Gastrin   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

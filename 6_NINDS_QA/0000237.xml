@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000237" source="NINDS" url="http://www.ninds.nih.gov/disorders/post_polio/post_polio.htm">
+<Focus>Post-Polio Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0080040</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000237-1" qtype="information">What is (are) Post-Polio Syndrome ?</Question>
+			<Answer>Post-polio syndrome (PPS) is a condition that affects polio survivors many years after recovery from an initial attack of the poliomyelitis virus. PPS is characterized by a further weakening of muscles that were previously affected by the polio infection. The most common symptoms include slowly progressive muscle weakness, fatigue (both general and muscular), and a decrease in muscle size (muscular atrophy). Pain from joint deterioration and increasing skeletal deformities such as scoliosis are common. Some individuals experience only minor symptoms, while others develop more visible muscle weakness and atrophy. PPS is rarely life-threatening but the symptoms can interfere significantly with the individual&apos;s capacity to function independently. While polio is contagious, PPS is not transmissible. Only a polio survivor can develop PPS.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000237-2" qtype="treatment">What are the treatments for Post-Polio Syndrome ?</Question>
+			<Answer>Presently, no prevention has been found that can stop deterioration or reverse the deficits caused by the syndrome A number of controlled studies have demonstrated that nonfatiguing exercises may improve muscle strength and reduce tiredness. Doctors recommend that polio survivors follow standard healthy lifestyle practices: consuming a well-balanced diet, exercising judiciously (preferably under the supervision of an experienced health professional), and visiting a doctor regularly. There has been much debate about whether to encourage or discourage exercise for polio survivors or individuals who already have PPS. A commonsense approach, in which people use individual tolerance as their limit, is currently recommended. Preliminary studies indicate that intravenous immunoglobulin therapy may reduce pain, increase quality of life, and improve strength modestly.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000237-3" qtype="outlook">What is the outlook for Post-Polio Syndrome ?</Question>
+			<Answer>PPS is a very slowly progressing condition marked by long periods of stability. The severity of PPS depends on the degree of the residual weakness and disability an individual has after the original polio attack. People who had only minimal symptoms from the original attack and subsequently develop PPS will most likely experience only mild PPS symptoms. People originally hit hard by the polio virus, who were left with severe residual weakness, may develop a more severe case of PPS with a greater loss of muscle function, difficulty in swallowing, and more periods of fatigue.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000237-4" qtype="research">what research (or clinical trials) is being done for Post-Polio Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to PPS in laboratories at the NIH, and also support additional PPS research through grants to major medical institutions across the country.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

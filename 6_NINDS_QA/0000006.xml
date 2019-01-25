@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000006" source="NINDS" url="http://www.ninds.nih.gov/disorders/adhd/adhd.htm">
+<Focus>Attention Deficit-Hyperactivity Disorder</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1263846</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000006-1" qtype="information">What is (are) Attention Deficit-Hyperactivity Disorder ?</Question>
+			<Answer>Attention deficit-hyperactivity disorder (ADHD) is a neurobehavioral disorder that affects 3-5 percent of all American children. It interferes with a person&apos;s ability to stay on a task and to exercise age-appropriate inhibition (cognitive alone or both cognitive and behavioral). Some of the warning signs of ADHD include failure to listen to instructions, inability to organize oneself and school work, fidgeting with hands and feet, talking too much, leaving projects, chores and homework unfinished, and having trouble paying attention to and responding to details. There are several types of ADHD: a predominantly inattentive subtype, a predominantly hyperactive-impulsive subtype, and a combined subtype. ADHD is usually diagnosed in childhood, although the condition can continue into the adult years.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000006-2" qtype="treatment">What are the treatments for Attention Deficit-Hyperactivity Disorder ?</Question>
+			<Answer>The usual course of treatment may include medications such as methylphenidate (Ritalin) or dextroamphetamine (Dexedrine), which are stimulants that decrease impulsivity and hyperactivity and increase attention. Most experts agree that treatment for ADHD should address multiple aspects of the individual&apos;s functioning and should not be limited to the use of medications alone. Treatment should include structured classroom management, parent education (to address discipline and limit-setting), and tutoring and/or behavioral therapy for the child.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000006-3" qtype="outlook">What is the outlook for Attention Deficit-Hyperactivity Disorder ?</Question>
+			<Answer>There is no &quot;cure&quot; for ADHD. Children with the disorder seldom outgrow it; however, some may find adaptive ways to accommodate the ADHD as they mature.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000006-4" qtype="research">what research (or clinical trials) is being done for Attention Deficit-Hyperactivity Disorder ?</Question>
+			<Answer>Several components of the NIH support research on developmental disorders such as ADHD. Research programs of the NINDS, the National Institute of Mental Health (NIMH), and the National Institute of Child Health and Human Development (NICHD) seek to address unanswered questions about the causes of ADHD, as well as to improve diagnosis and treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

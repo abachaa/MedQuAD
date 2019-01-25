@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001565" source="GARD" url="https://rarediseases.info.nih.gov/gard/45/congenital-varicella-syndrome">
+<Focus>Congenital varicella syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008049</CUI>
+			<CUI>C0343560</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fetal effects of Chickenpox</Synonym>
+		<Synonym>Fetal varicella infection</Synonym>
+		<Synonym>Fetal varicella zoster syndrome</Synonym>
+		<Synonym>Fetal effects of varicella zoster virus</Synonym>
+		<Synonym>Varicella Embryopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001565-1" qtype="information">What is (are) Congenital varicella syndrome ?</Question>
+			<Answer>Congenital varicella syndrome is an extremely rare disorder in which affected infants have distinctive abnormalities at birth  due to the mother&apos;s infection with chickenpox (maternal varicella zoster) early during pregnancy (i.e., up to 20 weeks gestation). Affected newborns may have a low birth weight and characteristic abnormalities of the skin, brain, eyes, the arms, legs, hands, and/or feet, and/or, in rare cases, other areas of the body. The range and severity of associated symptoms and physical findings may vary greatly from case to case depending upon when maternal varicella zoster infection occurred during fetal development.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001565-2" qtype="symptoms">What are the symptoms of Congenital varicella syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Congenital varicella syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Congenital varicella syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Atypical scarring of skin 90% Intrauterine growth retardation 90% Aplasia/Hypoplasia affecting the eye 50% Cataract 50% Cerebral cortical atrophy 50% Cognitive impairment 50% Microcephaly 50% Micromelia 50% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

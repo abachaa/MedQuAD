@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005155" source="GARD" url="https://rarediseases.info.nih.gov/gard/7860/pseudopseudohypoparathyroidism">
+<Focus>Pseudopseudohypoparathyroidism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033806</CUI>
+			<CUI>C0033835</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PPHP</Synonym>
+		<Synonym>Albright hereditary osteodystrophy without multiple hormone resistance</Synonym>
+		<Synonym>Pseudopseudo-Hypoparathyroidism</Synonym>
+		<Synonym>Pseudo-Pseudohypoparathyroidism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005155-1" qtype="information">What is (are) Pseudopseudohypoparathyroidism ?</Question>
+			<Answer>Pseudopseudohypoparathyroidism (PPHP) is an inherited condition that causes short stature, round face, and short hand bones. PPHP causes joints and other soft tissues in the body to harden. It also affects how bones are formed. As a result, PPHP can cause bone, joint, and nerve damage, and this damage can cause lasting pain. Some people with PPHP (10%) also have learning disability. PHPP is caused by mutations in the GNAS gene and is inherited in an autosomal dominant fashion. This condition is usually inherited from the father (genomic imprinting). PPHP is genetically related to pseudohypoparathyroidism type Ia (PHP-1a). Signs and symptoms are similar, however people with PPHP do not show resistance to parathyroid hormone while people with PHP-1a do. Obesity is characteristic for PHP-1a and may be severe, while obesity is less prominent and may be absent among people with PPHP. Both PHP-1a and PPHP are caused by mutations that affect the function of the GNAS gene. But people who inherit the mutation from their mother develop PHP-1a; whereas those who inherit the mutation from their father develop PPHP.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005155-2" qtype="symptoms">What are the symptoms of Pseudopseudohypoparathyroidism ?</Question>
+			<Answer>What are the signs and symptoms of Pseudopseudohypoparathyroidism? The Human Phenotype Ontology provides the following list of signs and symptoms for Pseudopseudohypoparathyroidism. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Intellectual disability 5% Autosomal dominant inheritance - Brachydactyly syndrome - Cataract - Cognitive impairment - Delayed eruption of teeth - Depressed nasal bridge - Full cheeks - Hypoplasia of dental enamel - Nystagmus - Obesity - Osteoporosis - Phenotypic variability - Pseudohypoparathyroidism - Round face - Short metacarpal - Short metatarsal - Short neck - Short stature - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

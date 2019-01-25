@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000167" source="GARD" url="https://rarediseases.info.nih.gov/gard/10973/adult-neuronal-ceroid-lipofuscinosis">
+<Focus>Adult neuronal ceroid lipofuscinosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022797</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Adult NCL</Synonym>
+		<Synonym>Kuf's disease</Synonym>
+		<Synonym>ANCL</Synonym>
+		<Synonym>Neuronal ceroid lipofuscinosis 4</Synonym>
+		<Synonym>CLN4 disease, adult autosomal dominant</Synonym>
+		<Synonym>Autosomal recessive neuronal ceroid lipofuscinosis 4A</Synonym>
+		<Synonym>Neuronal ceroid lipofuscinosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000167-1" qtype="information">What is (are) Adult neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Adult neuronal ceroid lipofuscinosis is a rare condition that affects the nervous system. Signs and symptoms usually begin around age 30, but they can develop anytime between adolescence and late adulthood. There are two forms of adult neuronal ceroid lipofuscinosis that are differentiated by their underlying genetic cause, mode of inheritance and certain symptoms: Type A is characterized by a combination of seizures and uncontrollable muscle jerks (myoclonic epilepsy); dementia; difficulties with muscle coordination (ataxia); involuntary movements such as tremors or tics; and dysarthria. It is caused by changes (mutations) in the CLN6 or PPT1 gene and is inherited in an autosomal recessive manner. Type B shares many features with type A; however, affected people also experience behavioral abnormalities and do not develop myoclonic epilepsy or dysarthria. It can be caused by mutations in the DNAJC5 or CTSF gene and is inherited in an autosomal dominant manner. Treatment options for adult neuronal ceroid lipofuscinosis are limited to therapies that can help relieve some of the symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000167-2" qtype="symptoms">What are the symptoms of Adult neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>What are the signs and symptoms of Adult neuronal ceroid lipofuscinosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Adult neuronal ceroid lipofuscinosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal pyramidal signs 90% Abnormality of extrapyramidal motor function 90% Behavioral abnormality 90% Developmental regression 90% Incoordination 90% Involuntary movements 90% Seizures 90% Retinopathy 7.5% Visual impairment 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

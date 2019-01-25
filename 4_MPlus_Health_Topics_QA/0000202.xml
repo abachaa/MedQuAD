@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000202" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/chronicpain.html">
+<Focus>Chronic Pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0150055</CUI>
+			<CUI>C2020637</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000202-1" qtype="information">What is (are) Chronic Pain ?</Question>
+			<Answer>Pain is a feeling set off in the nervous system. Acute pain lets you know that you may be injured or have a problem you need to take care of. Chronic pain is different. The pain signals go on for weeks, months, or even years. The original cause may have been an injury or infection. There may be an ongoing cause of pain, such as arthritis or cancer. But in some cases there is no clear cause.    Problems that cause chronic pain include       - Headache    - Low back strain    - Cancer    - Arthritis    - Pain from nerve damage       Chronic pain usually cannot be cured. But treatments can help. They include medicines, acupuncture, electrical stimulation and surgery. Other treatments include psychotherapy, relaxation and meditation therapy, biofeedback, and behavior modification.     NIH: National Institute of Neurological Disorders and Stroke</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

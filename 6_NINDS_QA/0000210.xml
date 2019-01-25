@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000210" source="NINDS" url="http://www.ninds.nih.gov/disorders/myotonia/myotonia.htm">
+<Focus>Myotonia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027125</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000210-1" qtype="information">What is (are) Myotonia ?</Question>
+			<Answer>Myotonia is a medical term that refers to a neuromuscular condition in which the relaxation of a muscle is impaired. It can affect any muscle group. Repeated effort will be needed to relax the muscle, although the condition usually improves after the muscles have warmed-up. Individuals with myotonia may have trouble releasing their grip on objects or may have difficulty rising from a seated position. They may walk with a stiff, awkward gait. Myotonia is caused by an abnormality in the muscle membrane, and is often associated with inherited neurological disorders. Myotonia is commonly seen in individuals with myotonic muscular dystrophy, myotonia congenita, and in people who have one of a group of neurological disorders called the channelopathies, which are inherited diseases that are caused by mutations in the chloride sodium or potassium channels that regulate the muscle membrane. Myotonia may also be triggered by exposure to cold.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000210-2" qtype="treatment">What are the treatments for Myotonia ?</Question>
+			<Answer>Treatment for myotonia may include mexiletine, quinine, phenytoin, and other anticonvulsant drugs. Physical therapy and other rehabilitative measures may help muscle function.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000210-3" qtype="outlook">What is the outlook for Myotonia ?</Question>
+			<Answer>Myotonia is a chronic disorder. Symptoms may improve later in life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000210-4" qtype="research">what research (or clinical trials) is being done for Myotonia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke supports and conducts an extensive research program on neuromuscular disorders. The goals of this research are to learn more about these disorders and to find ways to treat, prevent, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

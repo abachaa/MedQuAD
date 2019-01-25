@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000192" source="NINDS" url="http://www.ninds.nih.gov/disorders/metachromatic_leukodystrophy/metachromatic_leukodystrophy.htm">
+<Focus>Metachromatic Leukodystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023522</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000192-1" qtype="information">What is (are) Metachromatic Leukodystrophy ?</Question>
+			<Answer>Metachromatic leukodystrophy (MLD) is one of a group of genetic disorders called the leukodystrophies, which are characterized by the toxic buildup of lipids (fatty materials such as oils and waxes) and other storage materials in cells in the white matter of the central nervous system and peripheral nerves. The buildup of storage materials impairs the growth or development of the myelin sheath, the fatty covering that acts as an insulator around nerve fibers. (Myelin, which lends its color to the white matter of the brain, is a complex substance made up of a mixture of fats and proteins.) MLD is one of several lipid storage diseases, which result in the harmful buildup of lipids in brain cells and other cells and tissues in the body. People with lipid storage diseases either do not produce enough of one of the enzymes needed to break down (metabolize) lipids or they produce enzymes that do not work properly. Some leukodystrophies are caused by genetic defects of enzymes that regulate the metabolism of fats needed in myelin synthesis. MLD, which affects males and females, is cause by a deficiency of the enzyme arylsulfatase A. MLD has three characteristic forms: late infantile, juvenile, and adult. Late infantile MLD typically begins between 12 and 20 months following birth. Infants appear normal at first but develop difficulty walking after the first year of life and eventually lose the ability to walk. Other symptoms include muscle wasting and weakness,developmental delays, progressive loss of vision leading to blindness, impaired swallowing, and dementia before age 2. Most children with this form of MLD die by age 5. Symptoms of the juvenile form of MLD (which begins between 3-10 years of age) include impaired school performance, mental deterioration, an inability to control movements, seizures, and dementia. Symptoms continue to get worse, and death eventually occurs 10 to 20 years following disease onset.. The adult form commonly begins after age 16, with symptoms that include psychiatric disturbances, seizures, tremor, impaired concentration, depression, and dementia. Death generally occurs within 6 to 14 years after onset of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000192-2" qtype="treatment">What are the treatments for Metachromatic Leukodystrophy ?</Question>
+			<Answer>There is no cure for MLD. Bone marrow transplantation may delay progression of the disease in some infantile-onset cases. Other treatment is symptomatic and supportive. Considerable progress has been made with regard to gene therapy in an animal model of MLD and in clinical trials.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000192-3" qtype="outlook">What is the outlook for Metachromatic Leukodystrophy ?</Question>
+			<Answer>The prognosis for MLD is poor. Most children within the infantile form die by age 5. Symptoms of the juvenile form progress with death occurring 10 to 20 years following onset. Those persons affected by the adult form typically die withing 6 to 14 years following onset of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000192-4" qtype="research">what research (or clinical trials) is being done for Metachromatic Leukodystrophy ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS is a part of the National Institutes of Health (NIH), the leading supporter of biomedical research in the world. Research funded by the NINDS focuses on better understanding how neurological defects arise in lipid storage disorders and on the development of new treatments targeting disease mechanisms, including gene therapies, cell-based therapies, and pharmacological approaches. NINDS-funded preclinical research aims to study the effectiveness and safety of virus-based delivery of the normal ARSA gene to promote gene expression throughout the central nervous system and overcome the mutation-caused deficiency. If successful, the project could lead to trials in humans. Other research hopes to study the use of patient-specific induced pluripotent stem cells (cells that are capable of becoming other types of cells) in correcting the gene deficiency in metachromatic leukodystrophy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

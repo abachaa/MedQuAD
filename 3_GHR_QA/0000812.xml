@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000812" source="GHR" url="https://ghr.nlm.nih.gov/condition/potassium-aggravated-myotonia">
+<Focus>potassium-aggravated myotonia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2931826</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PAM</Synonym>
+		<Synonym>sodium channel myotonia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000812-1" qtype="information">What is (are) potassium-aggravated myotonia ?</Question>
+			<Answer>Potassium-aggravated myotonia is a disorder that affects muscles used for movement (skeletal muscles). Beginning in childhood or adolescence, people with this condition experience bouts of sustained muscle tensing (myotonia) that prevent muscles from relaxing normally. Myotonia causes muscle stiffness that worsens after exercise and may be aggravated by eating potassium-rich foods such as bananas and potatoes. Stiffness occurs in skeletal muscles throughout the body. Potassium-aggravated myotonia ranges in severity from mild episodes of muscle stiffness to severe, disabling disease with frequent attacks. Unlike some other forms of myotonia, potassium-aggravated myotonia is not associated with episodes of muscle weakness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000812-2" qtype="frequency">How many people are affected by potassium-aggravated myotonia ?</Question>
+			<Answer>This condition appears to be rare; it has been reported in only a few individuals and families worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000812-3" qtype="genetic changes">What are the genetic changes related to potassium-aggravated myotonia ?</Question>
+			<Answer>Mutations in the SCN4A gene cause potassium-aggravated myotonia.  The SCN4A gene provides instructions for making a protein that is critical for the normal function of skeletal muscle cells. For the body to move normally, skeletal muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of positively charged atoms (ions), including sodium, into skeletal muscle cells. The SCN4A protein forms channels that control the flow of sodium ions into these cells.  Mutations in the SCN4A gene alter the usual structure and function of sodium channels. The altered channels cannot properly regulate ion flow, increasing the movement of sodium ions into skeletal muscle cells. The influx of extra sodium ions triggers prolonged muscle contractions, which are the hallmark of myotonia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000812-4" qtype="inheritance">Is potassium-aggravated myotonia inherited ?</Question>
+			<Answer>Potassium-aggravated myotonia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits a mutation in the SCN4A gene from one affected parent. Other cases result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000812-5" qtype="treatment">What are the treatments for potassium-aggravated myotonia ?</Question>
+			<Answer>These resources address the diagnosis or management of potassium-aggravated myotonia:  - Genetic Testing Registry: Potassium aggravated myotonia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

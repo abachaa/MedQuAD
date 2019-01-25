@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000048" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/anxiety.html">
+<Focus>Anxiety</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0860603</CUI>
+			<CUI>C0003469</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000048-1" qtype="information">What is (are) Anxiety ?</Question>
+			<Answer>Fear and anxiety are part of life. You may feel anxious before you take a test or walk down a dark street. This kind of anxiety is useful - it can make you more alert or careful. It usually ends soon after you are out of the situation that caused it. But for millions of people in the United States, the anxiety does not go away, and gets worse over time. They may have chest pains or nightmares. They may even be afraid to leave home. These people have anxiety disorders. Types include       - Panic disorder     - Obsessive-compulsive disorder     - Post-traumatic stress disorder     - Phobias     - Generalized anxiety disorder        Treatment can involve medicines, therapy or both.    NIH: National Institute of Mental Health</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

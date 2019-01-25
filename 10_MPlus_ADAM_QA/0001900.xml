@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001900" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000646.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Helping your teen with depression</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0349217</CUI>
+			<CUI>C0011570</CUI>
+			<CUI>C0011581</CUI>
+			<CUI>C0344315</CUI>
+			<CUI>C1579931</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001900-1" qtype="information">What is (are) Helping your teen with depression ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001900-2" qtype="treatment">What are the treatments for Helping your teen with depression ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001900-4" qtype="information">What is (are) Helping your teen with depression ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001900-6" qtype="when to contact a medical professional">Do I need to see a doctor for Helping your teen with depression ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

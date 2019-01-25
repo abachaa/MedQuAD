@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000239" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-sucrase-isomaltase-deficiency">
+<Focus>congenital sucrase-isomaltase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1283620</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital sucrose intolerance</Synonym>
+		<Synonym>congenital sucrose-isomaltose malabsorption</Synonym>
+		<Synonym>CSID</Synonym>
+		<Synonym>disaccharide intolerance I</Synonym>
+		<Synonym>SI deficiency</Synonym>
+		<Synonym>sucrase-isomaltase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000239-1" qtype="information">What is (are) congenital sucrase-isomaltase deficiency ?</Question>
+			<Answer>Congenital sucrase-isomaltase deficiency is a disorder that affects a person&apos;s ability to digest certain sugars. People with this condition cannot break down the sugars sucrose and maltose. Sucrose (a sugar found in fruits, and also known as table sugar) and maltose (the sugar found in grains) are called disaccharides because they are made of two simple sugars. Disaccharides are broken down into simple sugars during digestion. Sucrose is broken down into glucose and another simple sugar called fructose, and maltose is broken down into two glucose molecules. People with congenital sucrase-isomaltase deficiency cannot break down the sugars sucrose and maltose, and other compounds made from these sugar molecules (carbohydrates).  Congenital sucrase-isomaltase deficiency usually becomes apparent after an infant is weaned and starts to consume fruits, juices, and grains. After ingestion of sucrose or maltose, an affected child will typically experience stomach cramps, bloating, excess gas production, and diarrhea. These digestive problems can lead to failure to gain weight and grow at the expected rate (failure to thrive) and malnutrition. Most affected children are better able to tolerate sucrose and maltose as they get older.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000239-2" qtype="frequency">How many people are affected by congenital sucrase-isomaltase deficiency ?</Question>
+			<Answer>The prevalence of congenital sucrase-isomaltase deficiency is estimated to be 1 in 5,000 people of European descent. This condition is much more prevalent in the native populations of Greenland, Alaska, and Canada, where as many as 1 in 20 people may be affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000239-3" qtype="genetic changes">What are the genetic changes related to congenital sucrase-isomaltase deficiency ?</Question>
+			<Answer>Mutations in the SI gene cause congenital sucrase-isomaltase deficiency. The SI gene provides instructions for producing the enzyme sucrase-isomaltase. This enzyme is found in the small intestine and is responsible for breaking down sucrose and maltose into their simple sugar components. These simple sugars are then absorbed by the small intestine. Mutations that cause this condition alter the structure, disrupt the production, or impair the function of sucrase-isomaltase. These changes prevent the enzyme from breaking down sucrose and maltose, causing the intestinal discomfort seen in individuals with congenital sucrase-isomaltase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000239-4" qtype="inheritance">Is congenital sucrase-isomaltase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000239-5" qtype="treatment">What are the treatments for congenital sucrase-isomaltase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital sucrase-isomaltase deficiency:  - Genetic Testing Registry: Sucrase-isomaltase deficiency  - MedlinePlus Encyclopedia: Abdominal bloating  - MedlinePlus Encyclopedia: Inborn errors of metabolism  - MedlinePlus Encyclopedia: Malabsorption   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

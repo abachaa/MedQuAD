@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000643" source="GHR" url="https://ghr.nlm.nih.gov/condition/meier-gorlin-syndrome">
+<Focus>Meier-Gorlin syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1868684</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ear, patella, short stature syndrome</Synonym>
+		<Synonym>microtia, absent patellae, micrognathia syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000643-1" qtype="information">What is (are) Meier-Gorlin syndrome ?</Question>
+			<Answer>Meier-Gorlin syndrome is a condition primarily characterized by short stature. It is considered a form of primordial dwarfism because the growth problems begin before birth (intrauterine growth retardation). After birth, affected individuals continue to grow at a slow rate. Other characteristic features of this condition are underdeveloped or missing kneecaps (patellae), small ears, and, often, an abnormally small head (microcephaly). Despite a small head size, most people with Meier-Gorlin syndrome have normal intellect.  Some people with Meier-Gorlin syndrome have other skeletal abnormalities, such as unusually narrow long bones in the arms and legs, a deformity of the knee joint that allows the knee to bend backwards (genu recurvatum), and slowed mineralization of bones (delayed bone age).  Most people with Meier-Gorlin syndrome have distinctive facial features. In addition to being abnormally small, the ears may be low-set or rotated backward. Additional features can include a small mouth (microstomia), an underdeveloped lower jaw (micrognathia), full lips, and a narrow nose with a high nasal bridge.  Abnormalities in sexual development may also occur in Meier-Gorlin syndrome. In some males with this condition, the testes are small or undescended (cryptorchidism). Affected females may have unusually small external genital folds (hypoplasia of the labia majora) and small breasts. Both males and females with this condition can have sparse or absent underarm (axillary) hair.  Additional features of Meier-Gorlin syndrome can include difficulty feeding and a lung condition known as pulmonary emphysema or other breathing problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000643-2" qtype="frequency">How many people are affected by Meier-Gorlin syndrome ?</Question>
+			<Answer>Meier-Gorlin syndrome is a rare condition; however, its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000643-3" qtype="genetic changes">What are the genetic changes related to Meier-Gorlin syndrome ?</Question>
+			<Answer>Meier-Gorlin syndrome can be caused by mutations in one of several genes. Each of these genes, ORC1, ORC4, ORC6, CDT1, and CDC6, provides instructions for making one of a group of proteins known as the pre-replication complex. This complex regulates initiation of the copying (replication) of DNA before cells divide. Specifically, the pre-replication complex attaches (binds) to certain regions of DNA known as origins of replication, allowing copying of the DNA to begin at that location. This tightly controlled process, called replication licensing, helps ensure that DNA replication occurs only once per cell division and is required for cells to divide.  Mutations in any one of these genes impair formation of the pre-replication complex and disrupt replication licensing; however, it is not clear how a reduction in replication licensing leads to Meier-Gorlin syndrome. Researchers speculate that such a reduction delays the cell division process, which impairs growth of the bones and other tissues during development. Some research suggests that some of the pre-replication complex proteins have additional functions, impairment of which may contribute to features of Meier-Gorlin syndrome, such as delayed development of the kneecaps and ears.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000643-4" qtype="inheritance">Is Meier-Gorlin syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000643-5" qtype="treatment">What are the treatments for Meier-Gorlin syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Meier-Gorlin syndrome:  - Genetic Testing Registry: Meier-Gorlin syndrome  - Genetic Testing Registry: Meier-Gorlin syndrome 2  - Genetic Testing Registry: Meier-Gorlin syndrome 3  - Genetic Testing Registry: Meier-Gorlin syndrome 4  - Genetic Testing Registry: Meier-Gorlin syndrome 5   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

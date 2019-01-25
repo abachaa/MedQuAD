@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000218" source="NINDS" url="http://www.ninds.nih.gov/disorders/niemann/niemann.htm">
+<Focus>Niemann-Pick Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0028064</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000218-1" qtype="information">What is (are) Niemann-Pick Disease ?</Question>
+			<Answer>Niemann-Pick disease (NP) refers to a group of inherited metabolic disorders known as lipid storage diseases. Lipids (fatty materials such as waxes, fatty acids, oils, and cholesterol) and proteins are usually broken down into smaller components to provide energy for the body. In Niemann-Pick disease, harmful quantities of lipids accumulate in the brain, spleen, liver, lungs, and bone marrow. Neurological symptoms may include ataxia (lack of muscle control during voluntary movements such as walking), loss of muscle tone, brain degeneration, increased sensitivity to touch, spasticity (stiff muscles and awkward movement), and slurred speech. Other symptoms may include feeding and swallowing difficulties, eye paralysis, learning problems, and an enlarged liver and spleen. There may be clouding of the cornea and a characteristic cherry-red halo develops around the center of the retina. The disease has three categories. Type A, the most severe form, occurs in early infancy and is seen primarily in Jewish families. It is characterized by progressive weakness, an enlarged liver and spleen, swollen lymph nodes, and profound brain damage by six months of age. Children with this type rarely live beyond 18 months. Type B usually occurs in the pre-teen years, with symptoms that include ataxia and peripheral neuropathy. The brain is generally not affected. Other symptoms include enlarged liver and spleen, and pulmonary difficulties. In types A and B, insufficient activity of an enzyme called sphingomyelinase causes the build up of toxic amounts of sphingomyelin, a fatty substance present in every cell of the body. Type C may appear early in life or develop in the teen or adult years. It is caused by a lack of the NPC1 or NPC2 proteins. Affected individuals may have extensive brain damage that can cause an inability to look up and down, difficulty in walking and swallowing, and progressive loss of vision and hearing. There may be moderate enlargement of the spleen and liver. Individuals wit Type C who share a common ancestral background in Nova Scotia were previously referred to as Type D.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000218-2" qtype="treatment">What are the treatments for Niemann-Pick Disease ?</Question>
+			<Answer>There is currently no cure for Niemann-Pick disease. Treatment is supportive. Children usually die from infection or progressive neurological loss. There is currently no effective treatment for persons with type A. Bone marrow transplantation has been attempted in a few individuals with type B. The development of enzyme replacement and gene therapies might also be helpful for those with type B. restricting one&apos;s diet does not prevent the buildup of lipids in cells and tissues.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000218-3" qtype="outlook">What is the outlook for Niemann-Pick Disease ?</Question>
+			<Answer>Infants with type A die in infancy. Children with Type B may live a comparatively long time, but may require supplemental oxygen because of lung impairment. The life expectancy of persons with type C varies: some individuals die in childhood while others who appear to be less severely affected can live into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000218-4" qtype="research">what research (or clinical trials) is being done for Niemann-Pick Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), a part of the National Institutes of Health (NIH), conducts and supports research about Niemann-Pick disease through research grants to research institutions across the country. Investigators at the NINDS have identified two different genes that, when defective, contribute to Niemann-Pick disease type C. NINDS scientists are studying the mechanisms by which lipids accumulating in these storage diseases causes harm to the body. Additional research studies hope to identify biomarkers (signs that may indicate risk of a disease and improve diagnosis) for the lipid storage disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

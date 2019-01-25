@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000018" source="GARD" url="https://rarediseases.info.nih.gov/gard/8707/absence-of-tibia">
+<Focus>Absence of Tibia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0555244</CUI>
+			<CUI>C0265633</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bilateral absence of the tibia</Synonym>
+		<Synonym>Tibial hemimelia</Synonym>
+		<Synonym>Tibia, absence of</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000018-1" qtype="information">What is (are) Absence of Tibia ?</Question>
+			<Answer>Absence of tibia is a rare birth defect that is characterized by deficiency of the tibia (the shinbone) with other bones of the lower leg relatively intact. The condition may affect one or both legs. Some cases are isolated birth defects, while others are associated with a variety of skeletal and other malformations. It can also be a part of a recognized syndrome such as Werner&apos;s syndrome, tibial hemimelia-polysyndactyly-triphalangeal thumb syndrome, and CHARGE syndrome. The underlying cause is generally unknown. Although most isolated cases occur sporadically in people with no family history of the condition, absence of the tibia can rarely affect more than one family member. Treatment varies based on the severity of the condition, but generally involves surgery (i.e. amputation or reconstructive surgery with a prosthesis adapted to growth).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000018-2" qtype="symptoms">What are the symptoms of Absence of Tibia ?</Question>
+			<Answer>What are the signs and symptoms of Absence of Tibia? The Human Phenotype Ontology provides the following list of signs and symptoms for Absence of Tibia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Absent tibia - Autosomal recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001826" source="GARD" url="https://rarediseases.info.nih.gov/gard/8322/diabetic-mastopathy">
+<Focus>Diabetic mastopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1167667</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diabetic fibrous breast disease</Synonym>
+		<Synonym>Diabetic fibrous mastopathy</Synonym>
+		<Synonym>Lymphocytic mastitis</Synonym>
+		<Synonym>Lymphocytic mastopathy</Synonym>
+		<Synonym>Sclerosing lymphocytic lobulitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001826-1" qtype="information">What is (are) Diabetic mastopathy ?</Question>
+			<Answer>Diabetic mastopathy are noncancerous lesions in the breast most commonly diagnosed in premenopausal women with type 1 diabetes. The cause of this condition is unknown. Symptoms may include hard, irregular, easily movable, discrete, painless breast mass(es).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001826-2" qtype="symptoms">What are the symptoms of Diabetic mastopathy ?</Question>
+			<Answer>What are the symptoms of diabetic mastopathy? Common symptoms of diabetic mastopathy include hard, irregular, easily movable, discrete, painless breast mass(es). This condition can involve one or both breasts and can affect males and females. The breast lesions may not be palpable in some patients. Patients with diabetic mastopathy who have had insulin-requiring diabetes for a long time (&gt;15 years) commonly have other diabetes complications as well (e.g., thyroid, eye, and joint involvement).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001826-3" qtype="causes">What causes Diabetic mastopathy ?</Question>
+			<Answer>What causes diabetic mastopathy? The cause of diabetic mastopathy is unknown. Theories include an autoimmune reaction, genetic factors such as human leukocyte antigen (HLA) type, association with insulin therapy, and association with hyperglycemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001826-4" qtype="exams and tests">How to diagnose Diabetic mastopathy ?</Question>
+			<Answer>How is diabetic mastopathy diagnosed? The diagnosis of diabetic mastopathy should be considered in patients with long-standing insulin-dependent diabetes and a firm, mobile breast mass. Initial imaging may include mammography and ultrasound. While these methods can help to further differentiate the mass, they cannot provide a specific diagnosis of diabetic mastopathy with confident exclusion of malignancy. Magnetic resonance imaging (MRI) is unlikely to add additional information. Current practice dictates that a core biopsy (utilizing a needle to remove a small cylinder of tissue) be performed for a definitive diagnosis.  Biopsy results demonstrate lymphocytic lobulitis and ductitis, glandular atrophy (wasting), perivascular inflammation (vasculitis), dense keloid fibrosis (scarring), and epithelioid fibroblasts.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001826-5" qtype="treatment">What are the treatments for Diabetic mastopathy ?</Question>
+			<Answer>How is diabetic mastopathy treated? Diabetic mastopathy is a benign condition and should be managed as such. Patients should be advised about the condition and how to self examine the breasts. They should be advised that iif there are any changes in size and number of breast lumps that they should consult their breast team or general practitioner. Patients should be routinely followed up with MRI or ultrasound and core biopsy if the lesions become clinically or radiologically suspicious. Lesions can be excised for cosmetic reasons or if malignancy cannot be excluded. No followup is recommended when malignancy has been ruled out.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

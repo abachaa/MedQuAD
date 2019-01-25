@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000149" source="NINDS" url="http://www.ninds.nih.gov/disorders/ramsay2/ramsay2.htm">
+<Focus>Herpes Zoster Oticus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017409</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000149-1" qtype="information">What is (are) Herpes Zoster Oticus ?</Question>
+			<Answer>Herpes zoster oticus, also called Ramsay Hunt Syndrome or Ramsay Hunt Syndrome type II, is a common complication of shingles. Shingles is an infection caused by the varicella-zoster virus, which is the virus that causes chickenpox. Shingles occurs in people who have had chickenpox and represents a reactivation of the dormant varicella-zoster virus. Herpes zoster oticus, which is caused by the spread of the varicella-zoster virus to facial nerves, is characterized by intense ear pain, a rash around the ear, mouth, face, neck, and scalp, and paralysis of facial nerves. Other symptoms may include hearing loss, vertigo (abnormal sensation of movement), and tinnitus (abnormal sounds). Taste loss in the tongue and dry mouth and eyes may also occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000149-2" qtype="treatment">What are the treatments for Herpes Zoster Oticus ?</Question>
+			<Answer>Some cases of herpes zoster oticus do not require treatment. When treatment is needed, medications such as antiviral drugs or corticosteroids may be prescribed. Vertigo may be treated with the drug diazepam</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000149-3" qtype="outlook">What is the outlook for Herpes Zoster Oticus ?</Question>
+			<Answer>Generally, the prognosis of herpes zoster oticus is good. However, in some cases, hearing loss may be permanent. Vertigo may last for days or weeks. Facial paralysis may be temporary or permanent.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000149-4" qtype="research">what research (or clinical trials) is being done for Herpes Zoster Oticus ?</Question>
+			<Answer>The NINDS supports research on shingles and shingles-related conditions. Current studies focus on the relationship between the persistence of neurotropic viruses and development of neurological diseases including herpes simplex and varicella-zoster viruses.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

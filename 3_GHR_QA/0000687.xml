@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000687" source="GHR" url="https://ghr.nlm.nih.gov/condition/multiple-cutaneous-and-mucosal-venous-malformations">
+<Focus>multiple cutaneous and mucosal venous malformations</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241665</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>mucocutaneous venous malformations</Synonym>
+		<Synonym>VMCM</Synonym>
+		<Synonym>VMCM1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000687-1" qtype="information">What is (are) multiple cutaneous and mucosal venous malformations ?</Question>
+			<Answer>Multiple cutaneous and mucosal venous malformations (also known as VMCM) are bluish patches (lesions) on the skin (cutaneous) and the mucous membranes, such as the lining of the mouth and nose. These lesions represent areas where the underlying veins and other blood vessels did not develop properly (venous malformations). The lesions can be painful, especially when they extend from the skin into the muscles and joints, or when a calcium deposit forms within the lesion causing inflammation and swelling.  Most people with VMCM are born with at least one venous malformation. As affected individuals age, the lesions present from birth usually become larger and new lesions often appear. The size, number, and location of venous malformations vary among affected individuals, even among members of the same family.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000687-2" qtype="frequency">How many people are affected by multiple cutaneous and mucosal venous malformations ?</Question>
+			<Answer>VMCM appears to be a rare disorder, although its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000687-3" qtype="genetic changes">What are the genetic changes related to multiple cutaneous and mucosal venous malformations ?</Question>
+			<Answer>Mutations in the TEK gene (also called the TIE2 gene) cause VMCM. The TEK gene provides instructions for making a protein called TEK receptor tyrosine kinase. This receptor protein triggers chemical signals needed for forming blood vessels (angiogenesis) and maintaining their structure. This signaling process facilitates communication between two types of cells within the walls of blood vessels, endothelial cells and smooth muscle cells. Communication between these two cell types is necessary to direct angiogenesis and ensure the structure and integrity of blood vessels.  TEK gene mutations that cause VMCM result in a TEK receptor that is always turned on (overactive). An overactive TEK receptor is thought to disrupt the communication between endothelial cells and smooth muscle cells. It is unclear how a lack of communication between these cells causes venous malformations. These abnormal blood vessels show a deficiency of smooth muscle cells while endothelial cells are maintained. Venous malformations cause lesions below the surface of the skin or mucous membranes, which are characteristic of VMCM.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000687-4" qtype="inheritance">Is multiple cutaneous and mucosal venous malformations inherited ?</Question>
+			<Answer>VMCM is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase the risk of developing venous malformations.  Some gene mutations are acquired during a person&apos;s lifetime and are present only in certain cells. These changes, which are not inherited, are called somatic mutations. Researchers have discovered that some VMCM lesions have one inherited and one somatic TEK gene mutation. It is not known if the somatic mutation occurs before or after the venous malformation forms. As lesions are localized and not all veins are malformed, it is thought that the inherited mutation alone is not enough to cause venous malformations.  In most cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000687-5" qtype="treatment">What are the treatments for multiple cutaneous and mucosal venous malformations ?</Question>
+			<Answer>These resources address the diagnosis or management of VMCM:  - Gene Review: Gene Review: Multiple Cutaneous and Mucosal Venous Malformations  - Genetic Testing Registry: Multiple Cutaneous and Mucosal Venous Malformations   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

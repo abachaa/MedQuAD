@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006051" source="GARD" url="https://rarediseases.info.nih.gov/gard/7754/tetrasomy-x">
+<Focus>Tetrasomy X</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265496</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>48 XXXX</Synonym>
+		<Synonym>48 XXXX syndrome</Synonym>
+		<Synonym>Tetra X</Synonym>
+		<Synonym>Numeric sex chromosome variations</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006051-1" qtype="information">What is (are) Tetrasomy X ?</Question>
+			<Answer>Tetrasomy X is a chromosome disorder that only affects females and is caused by having four copies of the X chromosome instead of two. Females with tetrasomy X have a total of 48 chromosomes in their cells, so this condition is sometimes written as 48, XXXX. The signs and symptoms of tetrasomy X vary, but can include mild to moderate speech and learning difficulties; developmental delay; distinctive facial features; dental abnormalities; hypotonia and joint laxity; radioulnar synostosis; heart defects; hip dysplasia; and problems with ovarian function. An increased risk of childhood infections has also been reported. Tetrasomy X is caused by a random error that occurs during the development of an egg cell and is not caused by anything a mother does during her pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006051-2" qtype="symptoms">What are the symptoms of Tetrasomy X ?</Question>
+			<Answer>What are the signs and symptoms of Tetrasomy X? The Human Phenotype Ontology provides the following list of signs and symptoms for Tetrasomy X. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of chromosome segregation 90% Abnormality of the teeth 50% Cognitive impairment 50% Epicanthus 50% Hypertelorism 50% Joint hypermobility 50% Muscular hypotonia 50% Radioulnar synostosis 50% Strabismus 50% Upslanted palpebral fissure 50% Abnormality of immune system physiology 7.5% Abnormality of the hip bone 7.5% Brachydactyly syndrome 7.5% Clinodactyly of the 5th finger 7.5% Secondary amenorrhea 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006051-3" qtype="causes">What causes Tetrasomy X ?</Question>
+			<Answer>What causes tetrasomy X? Tetrasomy X is usually caused by a random error in the formation of an egg cell (before pregnancy). In some cases, it may be due to inheriting three X chromosomes from the mother and one X chromosome from the father. In other cases, it may be due to inheriting all four X chromosomes from the mother. During the normal formation of egg cells, each egg cell contains one X chromosome to pass on to offspring. However, errors in cell division can cause an egg cell to have three or four X chromosomes, instead of one. If an egg cell with the extra X chromosomes is fertilized by a sperm cell with one X chromosome, the resulting embryo will have these extra chromosomes. Rarely, tetrasomy X may be caused by an error in cell division that occurs after an egg is fertilized, or by the presence of extra X chromosomes in some of the mother&apos;s cells.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

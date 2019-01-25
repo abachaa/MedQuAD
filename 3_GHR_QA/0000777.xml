@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000777" source="GHR" url="https://ghr.nlm.nih.gov/condition/pdgfra-associated-chronic-eosinophilic-leukemia">
+<Focus>PDGFRA-associated chronic eosinophilic leukemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0346421</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PDGFRA-associated myeloproliferative neoplasm</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000777-1" qtype="information">What is (are) PDGFRA-associated chronic eosinophilic leukemia ?</Question>
+			<Answer>PDGFRA-associated chronic eosinophilic leukemia is a form of blood cell cancer characterized by an elevated number of cells called eosinophils in the blood. These cells help fight infections by certain parasites and are involved in the inflammation associated with allergic reactions. However, these circumstances do not account for the increased number of eosinophils in PDGFRA-associated chronic eosinophilic leukemia.  Another characteristic feature of PDGFRA-associated chronic eosinophilic leukemia is organ damage caused by the excess eosinophils. Eosinophils release substances to aid in the immune response, but the release of excessive amounts of these substances causes damage to one or more organs, most commonly the heart, skin, lungs, or nervous system. Eosinophil-associated organ damage can lead to a heart condition known as eosinophilic endomyocardial disease, skin rashes, coughing, difficulty breathing, swelling (edema) in the lower limbs, confusion, changes in behavior, or impaired movement or sensations. People with PDGFRA-associated chronic eosinophilic leukemia can also have an enlarged spleen (splenomegaly) and elevated levels of certain chemicals called vitamin B12 and tryptase in the blood.  Some people with PDGFRA-associated chronic eosinophilic leukemia have an increased number of other types of white blood cells, such as neutrophils or mast cells. Occasionally, people with PDGFRA-associated chronic eosinophilic leukemia develop other blood cell cancers, such as acute myeloid leukemia or B-cell or T-cell acute lymphoblastic leukemia or lymphoblastic lymphoma.  PDGFRA-associated chronic eosinophilic leukemia is often grouped with a related condition called hypereosinophilic syndrome. These two conditions have very similar signs and symptoms; however, the cause of hypereosinophilic syndrome is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000777-2" qtype="frequency">How many people are affected by PDGFRA-associated chronic eosinophilic leukemia ?</Question>
+			<Answer>PDGFRA-associated chronic eosinophilic leukemia is a rare condition; however, the exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000777-3" qtype="genetic changes">What are the genetic changes related to PDGFRA-associated chronic eosinophilic leukemia ?</Question>
+			<Answer>PDGFRA-associated chronic eosinophilic leukemia is caused by mutations in the PDGFRA gene. This condition usually occurs as a result of genetic rearrangements that fuse part of the PDGFRA gene with part of another gene. Rarely, changes in single DNA building blocks (point mutations) in the PDGFRA gene are found in people with this condition. Genetic rearrangements and point mutations affecting the PDGFRA gene are somatic mutations, which are mutations acquired during a person&apos;s lifetime that are present only in certain cells. The somatic mutation occurs initially in a single cell, which continues to grow and divide, producing a group of cells with the same mutation (a clonal population).  The most common genetic abnormality in PDGFRA-associated chronic eosinophilic leukemia results from a deletion of genetic material from chromosome 4, which brings together part of the PDGFRA gene and part of the FIP1L1 gene, creating the FIP1L1-PDGFRA fusion gene.  The FIP1L1 gene provides instructions for a protein that plays a role in forming the genetic blueprints for making proteins (messenger RNA or mRNA).  The PDGFRA gene provides instructions for making a receptor protein that is found in the cell membrane of certain cell types. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. When the ligand attaches (binds), the PDGFRA receptor protein is turned on (activated), which leads to activation of a series of proteins in multiple signaling pathways. These signaling pathways control many important cellular processes, such as cell growth and division (proliferation) and cell survival.  The FIP1L1-PDGFRA fusion gene (as well as other PDGFRA fusion genes) provides instructions for making a fusion protein that has the function of the normal PDGFRA protein. However, the fusion protein does not require ligand binding to be activated. Similarly, point mutations in the PDGFRA gene can result in a PDGFRA protein that is activated without ligand binding. As a result, the signaling pathways are constantly turned on (constitutively activated), which increases the proliferation and survival of cells. When the FIP1L1-PDGFRA fusion gene mutation or point mutations in the PDGFRA gene occur in blood cell precursors, the growth of eosinophils (and occasionally other blood cells, such as neutrophils and mast cells) is poorly controlled, leading to PDGFRA-associated chronic eosinophilic leukemia. It is unclear why eosinophils are preferentially affected by this genetic change.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000777-4" qtype="inheritance">Is PDGFRA-associated chronic eosinophilic leukemia inherited ?</Question>
+			<Answer>PDGFRA-associated chronic eosinophilic leukemia is not inherited and occurs in people with no history of the condition in their families. Mutations that lead to a PDGFRA fusion gene and PDGFRA point mutations are somatic mutations, which means they occur during a person&apos;s lifetime and are found only in certain cells. Somatic mutations are not inherited. Males are more likely to develop PDGFRA-associated chronic eosinophilic leukemia than females because, for unknown reasons, PDGFRA fusion genes are found more often in males.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000777-5" qtype="treatment">What are the treatments for PDGFRA-associated chronic eosinophilic leukemia ?</Question>
+			<Answer>These resources address the diagnosis or management of PDGFRA-associated chronic eosinophilic leukemia:  - Cancer.Net: Leukemia - Eosinophilic: Treatment  - Genetic Testing Registry: Idiopathic hypereosinophilic syndrome  - MedlinePlus Encyclopedia: Eosinophil Count - Absolute  - Seattle Cancer Care Alliance: Hypereosinophilia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

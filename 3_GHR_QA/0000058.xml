@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000058" source="GHR" url="https://ghr.nlm.nih.gov/condition/angelman-syndrome">
+<Focus>Angelman syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162635</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000058-1" qtype="information">What is (are) Angelman syndrome ?</Question>
+			<Answer>Angelman syndrome is a complex genetic disorder that primarily affects the nervous system. Characteristic features of this condition include delayed development, intellectual disability, severe speech impairment, and problems with movement and balance (ataxia). Most affected children also have recurrent seizures (epilepsy) and a small head size (microcephaly). Delayed development becomes noticeable by the age of 6 to 12 months, and other common signs and symptoms usually appear in early childhood.  Children with Angelman syndrome typically have a happy, excitable demeanor with frequent smiling, laughter, and hand-flapping movements. Hyperactivity, a short attention span, and a fascination with water are common. Most affected children also have difficulty sleeping and need less sleep than usual.  With age, people with Angelman syndrome become less excitable, and the sleeping problems tend to improve. However, affected individuals continue to have intellectual disability, severe speech impairment, and seizures throughout their lives. Adults with Angelman syndrome have distinctive facial features that may be described as &quot;coarse.&quot; Other common features include unusually fair skin with light-colored hair and an abnormal side-to-side curvature of the spine (scoliosis). The life expectancy of people with this condition appears to be nearly normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000058-2" qtype="frequency">How many people are affected by Angelman syndrome ?</Question>
+			<Answer>Angelman syndrome affects an estimated 1 in 12,000 to 20,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000058-3" qtype="genetic changes">What are the genetic changes related to Angelman syndrome ?</Question>
+			<Answer>Many of the characteristic features of Angelman syndrome result from the loss of function of a gene called UBE3A. People normally inherit one copy of the UBE3A gene from each parent. Both copies of this gene are turned on (active) in many of the body&apos;s tissues. In certain areas of the brain, however, only the copy inherited from a person&apos;s mother (the maternal copy) is active. This parent-specific gene activation is caused by a phenomenon called genomic imprinting. If the maternal copy of the UBE3A gene is lost because of a chromosomal change or a gene mutation, a person will have no active copies of the gene in some parts of the brain.  Several different genetic mechanisms can inactivate or delete the maternal copy of the UBE3A gene. Most cases of Angelman syndrome (about 70 percent) occur when a segment of the maternal chromosome 15 containing this gene is deleted. In other cases (about 11 percent), Angelman syndrome is caused by a mutation in the maternal copy of the UBE3A gene.  In a small percentage of cases, Angelman syndrome results when a person inherits two copies of chromosome 15 from his or her father (paternal copies) instead of one copy from each parent. This phenomenon is called paternal uniparental disomy. Rarely, Angelman syndrome can also be caused by a chromosomal rearrangement called a translocation, or by a mutation or other defect in the region of DNA that controls activation of the UBE3A gene. These genetic changes can abnormally turn off (inactivate) UBE3A or other genes on the maternal copy of chromosome 15.  The causes of Angelman syndrome are unknown in 10 to 15 percent of affected individuals. Changes involving other genes or chromosomes may be responsible for the disorder in these cases.  In some people who have Angelman syndrome, the loss of a gene called OCA2 is associated with light-colored hair and fair skin. The OCA2 gene is located on the segment of chromosome 15 that is often deleted in people with this disorder. However, loss of the OCA2 gene does not cause the other signs and symptoms of Angelman syndrome. The protein produced from this gene helps determine the coloring (pigmentation) of the skin, hair, and eyes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000058-4" qtype="inheritance">Is Angelman syndrome inherited ?</Question>
+			<Answer>Most cases of Angelman syndrome are not inherited, particularly those caused by a deletion in the maternal chromosome 15 or by paternal uniparental disomy. These genetic changes occur as random events during the formation of reproductive cells (eggs and sperm) or in early embryonic development. Affected people typically have no history of the disorder in their family.  Rarely, a genetic change responsible for Angelman syndrome can be inherited. For example, it is possible for a mutation in the UBE3A gene or in the nearby region of DNA that controls gene activation to be passed from one generation to the next.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000058-5" qtype="treatment">What are the treatments for Angelman syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Angelman syndrome:  - Gene Review: Gene Review: Angelman Syndrome  - Genetic Testing Registry: Angelman syndrome  - MedlinePlus Encyclopedia: Speech Disorders   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

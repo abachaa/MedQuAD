@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006498" source="GARD" url="https://rarediseases.info.nih.gov/gard/3995/x-linked-congenital-stationary-night-blindness">
+<Focus>X-linked congenital stationary night blindness</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339535</CUI>
+			<CUI>C1848172</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>X-linked CSNB</Synonym>
+		<Synonym>Congenital stationary night blindness with myopia</Synonym>
+		<Synonym>Hemeralopia-myopia</Synonym>
+		<Synonym>Myopia-night blindness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006498-1" qtype="information">What is (are) X-linked congenital stationary night blindness ?</Question>
+			<Answer>X-linked congenital stationary night blindness (XLCSNB) is a disorder of the retina. People with this condition typically experience night blindness and other vision problems, including loss of sharpness (reduced visual acuity), severe nearsightedness (myopia), nystagmus, and strabismus. Color vision is typically not affected. These vision problems are usually evident at birth, but tend to be stable (stationary) over time. There are two major types of XLCSNB: the complete form and the incomplete form. Both types have very similar signs and symptoms. However, everyone with the complete form has night blindness, while not all people with the incomplete form have night blindness. The types are distinguished by their genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006498-2" qtype="symptoms">What are the symptoms of X-linked congenital stationary night blindness ?</Question>
+			<Answer>What are the signs and symptoms of X-linked congenital stationary night blindness? The Human Phenotype Ontology provides the following list of signs and symptoms for X-linked congenital stationary night blindness. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Congenital stationary night blindness - Hemeralopia - Severe Myopia - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006498-3" qtype="exams and tests">How to diagnose X-linked congenital stationary night blindness ?</Question>
+			<Answer>Is genetic testing available for X-linked congenital stationary night blindness? Yes. About 45% of individuals with XLCSNB have the complete form, which is caused by mutations in the NYX gene. The other 55% have the incomplete form, which is caused by mutations in the CACNA1F gene. The Genetic Testing Registry (GTR) provides information about the genetic tests for this condition. The intended audience for the GTR is health care providers and researchers. Patients and consumers with specific questions about a genetic test should contact a health care provider or a genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

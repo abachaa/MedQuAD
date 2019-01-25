@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002337" source="GARD" url="https://rarediseases.info.nih.gov/gard/2295/fetal-and-neonatal-alloimmune-thrombocytopenia">
+<Focus>Fetal and neonatal alloimmune thrombocytopenia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0473780</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T028</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NAIT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002337-1" qtype="information">What is (are) Fetal and neonatal alloimmune thrombocytopenia ?</Question>
+			<Answer>Fetal and neonatal alloimmune thrombocytopenia (NAIT) is a condition where a fetus or newborn experiences severe thrombocytopenia (low platelet count). NAIT occurs when the mother&apos;s immune system develops antibodies against antigens on the fetal platelets, which are inherited from the father and different from those present in the mother. These antibodies cross the placenta and can cause severe thrombocytopenia in the fetus. NAIT has been considered to be the platelet counterpart of Rh Hemolytic Disease of the Newborn (RHD). The incidence has been estimated at 1/800 to 1/1,000 live births. The spectrum of the disease may range from mild thrombocytopenia to life-threatening bleeding.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002337-2" qtype="treatment">What are the treatments for Fetal and neonatal alloimmune thrombocytopenia ?</Question>
+			<Answer>How might fetal and neonatal alloimmune thrombocytopenia (NAIT) be treated? NAIT is often unexpected and is usually diagnosed after birth. Once suspected, the diagnosis is confirmed by demonstration of maternal anti-platelet antibodies directed against a paternal antigen inherited by the baby. Management in the newborn period involves transfusion of platelets that do not contain the specific antigens. Prompt diagnosis and treatment are essential to reduce the chances of death and disability due to severe bleeding.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

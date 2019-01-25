@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005611" source="GARD" url="https://rarediseases.info.nih.gov/gard/7638/sialadenitis">
+<Focus>Sialadenitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037023</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sialoadenitis</Synonym>
+		<Synonym>Adenitis, salivary gland</Synonym>
+		<Synonym>Salivary gland inflammation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005611-1" qtype="information">What is (are) Sialadenitis ?</Question>
+			<Answer>Sialadenitis is an infection of the salivary glands. It is usually caused by a virus or bacteria. The parotid (in front of the ear) and submandibular (under the chin) glands are most commonly affected. Sialadenitis may be associated with pain, tenderness, redness, and gradual, localized swelling of the affected area. There are both acute and chronic forms. Although it is quite common among elderly adults with salivary gland stones, sialadenitis can also occur in other age groups, including infants during the first few weeks of life. Without proper treatment, sialadenitis can develop into a severe infection, especially in people who are debilitated or elderly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005611-2" qtype="symptoms">What are the symptoms of Sialadenitis ?</Question>
+			<Answer>What are the signs and symptoms of sialadenitis? Signs and symptoms of sialadenitis may include fever, chills, and unilateral pain and swelling in the affected area. The affected gland may be firm and tender, with redness of the overlying skin. Pus may drain through the gland into the mouth.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005611-3" qtype="causes">What causes Sialadenitis ?</Question>
+			<Answer>What causes sialadenitis? Sialadenitis usually occurs after hyposecretion (reduced flow from the salivary glands) or duct obstruction, but may develop without an obvious cause. Saliva flow can be reduced in people who are sick or recovering from surgery, or people who are dehydrated, malnourished, or immunosuppressed. A stone or a kink in the salivary duct can also diminish saliva flow, as can certain medications (such as antihistamines, diuretics, psychiatric medications, beta-blockers, or barbiturates). It often occurs in chronically ill people with xerostomia (dry mouth), people with Sjogren syndrome, and in those who have had radiation therapy to the oral cavity. The most common causative organism in the infection is Staphylococcus aureus; others include streptococci, coliforms, and various anaerobic bacteria. Although less common than bacteria, several viruses have also been implicated in sialadenitis. These include the mumps virus, HIV, coxsackievirus, parainfluenza types I and II, influenza A, and herpes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005611-4" qtype="treatment">What are the treatments for Sialadenitis ?</Question>
+			<Answer>How might sialadenitis be treated? The initial treatment for sialadenitis is antibiotics active against S. aureus. Hydration, ingesting things that trigger saliva flow (such as lemon juice or hard candy), warm compresses, gland massage, and good oral hygiene are also important. Abscesses need to be drained. Occasionally, in cases of chronic or relapsing sialadenitis, a superficial parotidectomy or submandibular gland excision is needed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

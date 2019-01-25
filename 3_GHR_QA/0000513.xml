@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000513" source="GHR" url="https://ghr.nlm.nih.gov/condition/imerslund-grasbeck-syndrome">
+<Focus>Imerslund-Grsbeck syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0494218</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>defect of enterocyte intrinsic factor receptor</Synonym>
+		<Synonym>enterocyte cobalamin malabsorption</Synonym>
+		<Synonym>Imerslund-Grasbeck syndrome</Synonym>
+		<Synonym>juvenile pernicious anemia with proteinuria due to selective intestinal malabsorption of vitamin B12</Synonym>
+		<Synonym>megaloblastic anemia 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000513-1" qtype="information">What is (are) Imerslund-Grsbeck syndrome ?</Question>
+			<Answer>Imerslund-Grsbeck syndrome is a condition caused by low levels of vitamin B12 (also known as cobalamin). The primary feature of this condition is a blood disorder called megaloblastic anemia. In this form of anemia, which is a disorder characterized by the shortage of red blood cells, the red cells that are present are abnormally large. About half of people with Imerslund-Grsbeck syndrome also have high levels of protein in their urine (proteinuria). Although proteinuria can be an indication of kidney problems, people with Imerslund-Grsbeck syndrome appear to have normal kidney function.  Imerslund-Grsbeck syndrome typically begins in infancy or early childhood. The blood abnormality leads to many of the signs and symptoms of the condition, including an inability to grow and gain weight at the expected rate (failure to thrive), pale skin (pallor), excessive tiredness (fatigue), and recurring gastrointestinal or respiratory infections. Other features of Imerslund-Grsbeck syndrome include mild neurological problems, such as weak muscle tone (hypotonia), numbness or tingling in the hands or feet, movement problems, delayed development, or confusion. Rarely, affected individuals have abnormalities of organs or tissues that make up the urinary tract, such as the bladder or the tubes that carry fluid from the kidneys to the bladder (the ureters).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000513-2" qtype="frequency">How many people are affected by Imerslund-Grsbeck syndrome ?</Question>
+			<Answer>Imerslund-Grsbeck syndrome is a rare condition that was first described in Finland and Norway; in these regions, the condition is estimated to affect 1 in 200,000 people. The condition has also been reported in other countries worldwide; its prevalence in these countries is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000513-3" qtype="genetic changes">What are the genetic changes related to Imerslund-Grsbeck syndrome ?</Question>
+			<Answer>Mutations in the AMN or CUBN gene can cause Imerslund-Grsbeck syndrome. The AMN gene provides instructions for making a protein called amnionless, and the CUBN gene provides instructions for making a protein called cubilin. Together, these proteins play a role in the uptake of vitamin B12 from food. Vitamin B12, which cannot be made in the body and can only be obtained from food, is essential for the formation of DNA and proteins, the production of cellular energy, and the breakdown of fats. This vitamin is involved in the formation of red blood cells and maintenance of the brain and spinal cord (central nervous system).  The amnionless protein is embedded primarily in the membrane of kidney cells and cells that line the small intestine. Amnionless attaches (binds) to cubilin, anchoring cubilin to the cell membrane. Cubilin can interact with molecules and proteins passing through the intestine or kidneys. During digestion, vitamin B12 is released from food. As the vitamin passes through the small intestine, cubilin binds to it. Amnionless helps transfer the cubilin-vitamin B12 complex into the intestinal cell. From there, the vitamin is released into the blood and transported throughout the body. In the kidney, the amnionless and cubilin proteins are involved in the reabsorption of certain proteins that would otherwise be released in urine.  Mutations in the AMN gene prevent cubilin from attaching to the cells in the small intestine and kidneys. Without cubilin function in the small intestine, vitamin B12 is not taken into the body. A shortage of this essential vitamin impairs the proper development of red blood cells, leading to megaloblastic anemia. Low levels of vitamin B12 can also affect the central nervous system, causing neurological problems. In addition, without cubilin function in the kidneys, proteins are not reabsorbed and are instead released in urine, leading to proteinuria.  Like AMN gene mutations, some CUBN gene mutations impair cubilin&apos;s function in both the small intestine and the kidneys, leading to a shortage of vitamin B12 and proteinuria. Other CUBN gene mutations affect cubilin&apos;s function only in the small intestine, impairing uptake of vitamin B12 into the intestinal cells. Individuals with these mutations have a shortage of vitamin B12, which can lead to megaloblastic anemia and neurological problems, but not proteinuria.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000513-4" qtype="inheritance">Is Imerslund-Grsbeck syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000513-5" qtype="treatment">What are the treatments for Imerslund-Grsbeck syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Imerslund-Grsbeck syndrome:  - MedlinePlus Encyclopedia: Anemia - B12 deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

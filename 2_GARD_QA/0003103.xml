@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003103" source="GARD" url="https://rarediseases.info.nih.gov/gard/2944/ibids-syndrome">
+<Focus>IBIDS syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432267</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tay syndrome</Synonym>
+		<Synonym>Trichothiodystrophy with congenital ichtyosis</Synonym>
+		<Synonym>Ichtyosis, Brittle hair, Intellectual impairment, Decreased fertility, and Short stature</Synonym>
+		<Synonym>Trichothiodystrophy</Synonym>
+		<Synonym>Trichothiodystrophy nonphotosensitive</Synonym>
+		<Synonym>Trichothiodystrophy photosensitive</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003103-1" qtype="information">What is (are) IBIDS syndrome ?</Question>
+			<Answer>Tay syndrome is a rare genetic disorder characterized by congenital ichthyosis (dry, fish-like scaly skin present at birth) and abnormal brittle hair (trichothiodystrophy).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003103-2" qtype="symptoms">What are the symptoms of IBIDS syndrome ?</Question>
+			<Answer>What are the signs and symptoms of IBIDS syndrome? The most common symptoms of Tay syndrome are brittle hair (trichothiodystrophy); dry, thickened, scaling skin (ichthyosis); photosensitivity (abnormal light sensitivity); abnormal nails; and multiple developmental defects. Other features include: low birth weight, short stature, mental retardation, delayed neuromuscular development and other central nervous system anomalies, dysplasia of nails, hypoplasia of subcutaneous fatty tissue, prematurely-aged facial appearance, hypogonadism, cataracts, osteosclerosis (abnormal increase in density and hardness of the bone), dysphonia, and increased susceptibility to infections. The Human Phenotype Ontology provides the following list of signs and symptoms for IBIDS syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the face - Abnormality of the thorax - Asthma - Autosomal recessive inheritance - Brittle hair - Cataract - Congenital nonbullous ichthyosiform erythroderma - Cutaneous photosensitivity - Flexion contracture - Fragile nails - Hypogonadism - IgG deficiency - Intellectual disability - Intestinal obstruction - Lack of subcutaneous fatty tissue - Microcephaly - Recurrent infections - Short stature - Small for gestational age - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003103-3" qtype="inheritance">Is IBIDS syndrome inherited ?</Question>
+			<Answer>What causes Tay syndrome? How is it inherited? Although Tay syndrome is known to be genetic, the gene(s) associated with the condition is(are) unknown. Tay syndrome is inherited in an autosomal recessive pattern , which means two copies of the gene in each cell are altered (mutated). If both parents carry the gene for Tay syndrome, their children have a 25% chance of being affected with Tay syndrome. Additionally, each child has a 50% chance of being an unaffected carrier, like their parents, and a 25% chance of being a non-carrier.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003103-4" qtype="treatment">What are the treatments for IBIDS syndrome ?</Question>
+			<Answer>What treatment is available for Tay syndrome? Treatments for Tay syndrome are symptomatic. There is no cure for ichthyosis, only treatments to help manage symptoms. The main treatment for ichthyosis is to hydrate (moisturize) the skin, hold in the moisture, and keep scale thickness to a minimum.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

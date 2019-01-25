@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000216" source="NINDS" url="http://www.ninds.nih.gov/disorders/neurosyphilis/neurosyphilis.htm">
+<Focus>Neurosyphilis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027927</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000216-1" qtype="information">What is (are) Neurosyphilis ?</Question>
+			<Answer>Neurosyphilis is a disease of the coverings of the brain, the brain itself, or the spinal cord. It can occur in people with syphilis, especially if they are left untreated. Neurosyphilis is different from syphilis because it affects the nervous system, while syphilis is a sexually transmitted disease with different signs and symptoms. There are five types of neurosyphilis:
+                
+- asymptomatic neurosyphilis - meningeal neurosyphilis - meningovascular neurosyphilis - general paresis, and - tabes dorsalis.
+                
+Asymptomatic neurosyphilis means that neurosyphilis is present, but the individual reports no symptoms and does not feel sick. Meningeal syphilis can occur between the first few weeks to the first few years of getting syphilis. Individuals with meningeal syphilis can have headache, stiff neck, nausea, and vomiting. Sometimes there can also be loss of vision or hearing. Meningovascular syphilis causes the same symptoms as meningeal syphilis but affected individuals also have strokes. This form of neurosyphilis can occur within the first few months to several years after infection. General paresis can occur between 3  30 years after getting syphilis. People with general paresis can have personality or mood changes. Tabes dorsalis is characterized by pains in the limbs or abdomen, failure of muscle coordination, and bladder disturbances. Other signs include vision loss, loss of reflexes and loss of sense of vibration, poor gait, and impaired balance. Tabes dorsalis can occur anywhere from 5  50 years after initial syphilis infection. General paresis and tabes dorsalis are now less common than the other forms of neurosyphilis because of advances made in prevention, screening, and treatment. People with HIV/AIDS are at higher risk of having neurosyphilis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000216-2" qtype="treatment">What are the treatments for Neurosyphilis ?</Question>
+			<Answer>Penicillin, an antibiotic, is used to treat syphilis. Individuals with neurosyphilis can be treated with penicillin given by vein, or by daily intramuscular injections for 10  14 days. If they are treated with daily penicillin injections, individuals must also take probenecid by mouth four times a day. Some medical professionals recommend another antibiotic called ceftriaxone for neurosyphilis treatment. This drug is usually given daily by vein, but it can also be given by intramuscular injection. Individuals who receive ceftriaxone are also treated for 10 - 14 days. People with HIV/AIDS who get treated for neurosyphilis may have different outcomes than individuals without HIV/AIDS.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000216-3" qtype="outlook">What is the outlook for Neurosyphilis ?</Question>
+			<Answer>Prognosis can change based on the type of neurosyphilis and how early in the course of the disease people with neurosyphilis get diagnosed and treated. Individuals with asymptomatic neurosyphilis or meningeal neurosyphilis usually return to normal health. People with meningovascular syphilis, general paresis, or tabes dorsalis usually do not return to normal health, although they may get much better. Individuals who receive treatment many years after they have been infected have a worse prognosis. Treatment outcome is different for every person.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000216-4" qtype="research">what research (or clinical trials) is being done for Neurosyphilis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke supports and conducts research on neurodegenerative disorders, such as neurosyphilis, in an effort to find ways to prevent, treat, and ultimately cure these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

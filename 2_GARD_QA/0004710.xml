@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004710" source="GARD" url="https://rarediseases.info.nih.gov/gard/9572/papillary-renal-cell-carcinoma">
+<Focus>Papillary renal cell carcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1306837</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>RCCP</Synonym>
+		<Synonym>Renal adenocarcinoma</Synonym>
+		<Synonym>Papillary renal cell carcinoma, sporadic - (subtype)</Synonym>
+		<Synonym>Papillary renal cell carcinoma, bilateral - (subtype)</Synonym>
+		<Synonym>Papillary renal cell carcinoma, multiple - (subtype)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004710-1" qtype="information">What is (are) Papillary renal cell carcinoma ?</Question>
+			<Answer>Papillary renal cell carcinoma (PRCC) is a type of cancer that occurs in the kidneys. It accounts for about 10-15% of all renal cell carcinomas.Renal cell carcinomas are a type of kidney cancer that develop in the lining of very small tubes (tubules) in the kidney.The term &quot;papillary&quot; describes the finger-like projections that can be found in most of the tumors. PRCC can be divided into two types: type 1, which is more common and usually grows more slowly and type 2, which are usually more aggressive .Though the exact cause of papillary renal cell carcinoma is unknown, smoking, obesity, and genetic predisposition conditions (such as hereditary leiomyomatosis and renal cell cancer) may contribute to the development of this type of cancer. Treatment often begins with surgery to remove as much of the cancer as possible, and may be followed by radiation therapy, chemotherapy, biological therapy, or targeted therapy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004710-2" qtype="symptoms">What are the symptoms of Papillary renal cell carcinoma ?</Question>
+			<Answer>What are the signs and symptoms of Papillary renal cell carcinoma? The Human Phenotype Ontology provides the following list of signs and symptoms for Papillary renal cell carcinoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Incomplete penetrance - Papillary renal cell carcinoma - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

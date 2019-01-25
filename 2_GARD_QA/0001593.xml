@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001593" source="GARD" url="https://rarediseases.info.nih.gov/gard/6196/corneal-endothelial-dystrophy-type-2">
+<Focus>Corneal endothelial dystrophy type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0333606</CUI>
+			<CUI>C1857569</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CHED2</Synonym>
+		<Synonym>Corneal dystrophy, congenital hereditary endothelial</Synonym>
+		<Synonym>Congenital hereditary endothelial dystrophy of the cornea</Synonym>
+		<Synonym>Maumenee corneal dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001593-1" qtype="symptoms">What are the symptoms of Corneal endothelial dystrophy type 2 ?</Question>
+			<Answer>What are the signs and symptoms of Corneal endothelial dystrophy type 2? The Human Phenotype Ontology provides the following list of signs and symptoms for Corneal endothelial dystrophy type 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Congenital corneal dystrophy - Opacification of the corneal stroma - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001593-2" qtype="inheritance">Is Corneal endothelial dystrophy type 2 inherited ?</Question>
+			<Answer>How is corneal endothelial dystropy type 2 inherited? Most cases of corneal endothelial dystrophy type 2 are caused by homozygous mutations in the SLC4A11 gene. The condition is transmitted in an autosomal recessive manner. This means that two unaffected parents each carry one copy of a gene mutation for the condition. Neither parent will show signs or symptoms of the condition because two copies are needed for the condition to occur. There have been several families with corneal endothelial dystrophy type 2 where no mutation was found in the SLC4A11 gene. To find laboratories offering genetic testing to confirm a diagnosis, please visit the Tests and Diagnosis section of the Web site. http://rarediseases.info.nih.gov/gard/6196/ched2/resources/12</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

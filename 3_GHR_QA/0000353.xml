@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000353" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-hyperaldosteronism">
+<Focus>familial hyperaldosteronism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3713420</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial primary aldosteronism</Synonym>
+		<Synonym>FH</Synonym>
+		<Synonym>hereditary aldosteronism</Synonym>
+		<Synonym>hyperaldosteronism, familial</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000353-1" qtype="information">What is (are) familial hyperaldosteronism ?</Question>
+			<Answer>Familial hyperaldosteronism is a group of inherited conditions in which the adrenal glands, which are small glands located on top of each kidney, produce too much of the hormone aldosterone. Aldosterone helps control the amount of salt retained by the kidneys. Excess aldosterone causes the kidneys to retain more salt than normal, which in turn increases the body&apos;s fluid levels and blood pressure. People with familial hyperaldosteronism may develop severe high blood pressure (hypertension), often early in life. Without treatment, hypertension increases the risk of strokes, heart attacks, and kidney failure.  Familial hyperaldosteronism is categorized into three types, distinguished by their clinical features and genetic causes. In familial hyperaldosteronism type I, hypertension generally appears in childhood to early adulthood and can range from mild to severe. This type can be treated with steroid medications called glucocorticoids, so it is also known as glucocorticoid-remediable aldosteronism (GRA). In familial hyperaldosteronism type II, hypertension usually appears in early to middle adulthood and does not improve with glucocorticoid treatment. In most individuals with familial hyperaldosteronism type III, the adrenal glands are enlarged up to six times their normal size. These affected individuals have severe hypertension that starts in childhood. The hypertension is difficult to treat and often results in damage to organs such as the heart and kidneys. Rarely, individuals with type III have milder symptoms with treatable hypertension and no adrenal gland enlargement.  There are other forms of hyperaldosteronism that are not familial. These conditions are caused by various problems in the adrenal glands or kidneys. In some cases, a cause for the increase in aldosterone levels cannot be found.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000353-2" qtype="frequency">How many people are affected by familial hyperaldosteronism ?</Question>
+			<Answer>The prevalence of familial hyperaldosteronism is unknown. Familial hyperaldosteronism type II appears to be the most common variety. All types of familial hyperaldosteronism combined account for fewer than 1 out of 10 cases of hyperaldosteronism.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000353-3" qtype="genetic changes">What are the genetic changes related to familial hyperaldosteronism ?</Question>
+			<Answer>The various types of familial hyperaldosteronism have different genetic causes. Familial hyperaldosteronism type I is caused by the abnormal joining together (fusion) of two similar genes called CYP11B1 and CYP11B2, which are located close together on chromosome 8. These genes provide instructions for making two enzymes that are found in the adrenal glands.  The CYP11B1 gene provides instructions for making an enzyme called 11-beta-hydroxylase. This enzyme helps produce hormones called cortisol and corticosterone. The CYP11B2 gene provides instructions for making another enzyme called aldosterone synthase, which helps produce aldosterone. When CYP11B1 and CYP11B2 are abnormally fused together, too much aldosterone synthase is produced. This overproduction causes the adrenal glands to make excess aldosterone, which leads to the signs and symptoms of familial hyperaldosteronism type I.  Familial hyperaldosteronism type III is caused by mutations in the KCNJ5 gene. The KCNJ5 gene provides instructions for making a protein that functions as a potassium channel, which means that it transports positively charged atoms (ions) of potassium into and out of cells. In the adrenal glands,the flow of ions through potassium channels produced from the KCNJ5 gene is thought to help regulate the production of aldosterone. Mutations in the KCNJ5 gene likely result in the production of potassium channels that are less selective, allowing other ions (predominantly sodium) to pass as well. The abnormal ion flow results in the activation of biochemical processes (pathways) that lead to increased aldosterone production, causing the hypertension associated with familial hyperaldosteronism type III.  The genetic cause of familial hyperaldosteronism type II is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000353-4" qtype="inheritance">Is familial hyperaldosteronism inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000353-5" qtype="treatment">What are the treatments for familial hyperaldosteronism ?</Question>
+			<Answer>These resources address the diagnosis or management of familial hyperaldosteronism:  - Genetic Testing Registry: Familial hyperaldosteronism type 1  - Genetic Testing Registry: Familial hyperaldosteronism type 3  - Hormone Health Network: A Patient&apos;s Guide: Primary Hyperaldosteronism  - International Registry for Glucocorticoid-Remediable Aldosteronism  - MedlinePlus Encyclopedia: Aldosterone   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

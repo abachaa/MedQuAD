@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000658" source="GHR" url="https://ghr.nlm.nih.gov/condition/miller-syndrome">
+<Focus>Miller syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0812435</CUI>
+			<CUI>C0039082</CUI>
+			<CUI>C0265257</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Genee-Wiedemann acrofacial dysostosis</Synonym>
+		<Synonym>Genee-Wiedemann syndrome</Synonym>
+		<Synonym>postaxial acrofacial dysostosis (POADS)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000658-1" qtype="information">What is (are) Miller syndrome ?</Question>
+			<Answer>Miller syndrome is a rare condition that mainly affects the development of the face and limbs. The severity of this disorder varies among affected individuals.  Children with Miller syndrome are born with underdeveloped cheek bones (malar hypoplasia) and a very small lower jaw (micrognathia). They often have an opening in the roof of the mouth (cleft palate) and/or a split in the upper lip (cleft lip). These abnormalities frequently cause feeding problems in infants with Miller syndrome. The airway is usually restricted due to the micrognathia, which can lead to life-threatening breathing problems.  People with Miller syndrome often have eyes that slant downward, eyelids that turn out so the inner surface is exposed (ectropion), and a notch in the lower eyelids called an eyelid coloboma. Many affected individuals have small, cup-shaped ears, and some have hearing loss caused by defects in the middle ear (conductive hearing loss). Another feature of this condition is the presence of extra nipples. Miller syndrome does not affect a person&apos;s intelligence, although speech development may be delayed due to hearing impairment.  Individuals with Miller syndrome have various bone abnormalities in their arms and legs. The most common problem is absent fifth (pinky) fingers and toes. Affected individuals may also have webbed or fused fingers or toes (syndactyly) and abnormally formed bones in the forearms and lower legs. People with Miller syndrome sometimes have defects in other bones, such as the ribs or spine.  Less commonly, affected individuals have abnormalities of the heart, kidneys, genitalia, or gastrointestinal tract.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000658-2" qtype="frequency">How many people are affected by Miller syndrome ?</Question>
+			<Answer>Miller syndrome is a rare disorder; it is estimated to affect fewer than 1 in 1 million newborns. At least 30 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000658-3" qtype="genetic changes">What are the genetic changes related to Miller syndrome ?</Question>
+			<Answer>Mutations in the DHODH gene cause Miller syndrome. This gene provides instructions for making an enzyme called dihydroorotate dehydrogenase. This enzyme is involved in producing pyrimidines, which are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. Specifically, dihydroorotate dehydrogenase converts a molecule called dihydroorotate to a molecule called orotic acid. In subsequent steps, other enzymes modify orotic acid to produce pyrimidines.  Miller syndrome disrupts the development of structures called the first and second pharyngeal arches. The pharyngeal arches are five paired structures that form on each side of the head and neck during embryonic development. These structures develop into the bones, skin, nerves, and muscles of the head and neck. In particular, the first and second pharyngeal arches develop into the jaw, the nerves and muscles for chewing and facial expressions, the bones in the middle ear, and the outer ear. It remains unclear exactly how DHODH gene mutations lead to abnormal development of the pharyngeal arches in people with Miller syndrome.  Development of the arms and legs is also affected by Miller syndrome. Each limb starts out as a small mound of tissue called a limb bud, which grows outward. Many different proteins are involved in the normal shaping (patterning) of each limb. Once the overall pattern of a limb is formed, detailed shaping can take place. For example, to create individual fingers and toes, certain cells self-destruct (undergo apoptosis) to remove the webbing between each digit. The role dihydroorotate dehydrogenase plays in limb development is not known. It is also unknown how mutations in the DHODH gene cause bone abnormalities in the arms and legs of people with Miller syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000658-4" qtype="inheritance">Is Miller syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000658-5" qtype="treatment">What are the treatments for Miller syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Miller syndrome:  - Genetic Testing Registry: Miller syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

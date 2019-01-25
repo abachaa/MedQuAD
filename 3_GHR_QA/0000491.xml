@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000491" source="GHR" url="https://ghr.nlm.nih.gov/condition/hutchinson-gilford-progeria-syndrome">
+<Focus>Hutchinson-Gilford progeria syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033300</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HGPS</Synonym>
+		<Synonym>Hutchinson-Gilford Syndrome</Synonym>
+		<Synonym>Progeria</Synonym>
+		<Synonym>Progeria of childhood</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000491-1" qtype="information">What is (are) Hutchinson-Gilford progeria syndrome ?</Question>
+			<Answer>Hutchinson-Gilford progeria syndrome is a genetic condition characterized by the dramatic, rapid appearance of aging beginning in childhood. Affected children typically look normal at birth and in early infancy, but then grow more slowly than other children and do not gain weight at the expected rate (failure to thrive). They develop a characteristic facial appearance including prominent eyes, a thin nose with a beaked tip, thin lips, a small chin, and protruding ears. Hutchinson-Gilford progeria syndrome also causes hair loss (alopecia), aged-looking skin, joint abnormalities, and a loss of fat under the skin (subcutaneous fat). This condition does not disrupt intellectual development or the development of motor skills such as sitting, standing, and walking.  People with Hutchinson-Gilford progeria syndrome experience severe hardening of the arteries (arteriosclerosis) beginning in childhood. This condition greatly increases the chances of having a heart attack or stroke at a young age. These serious complications can worsen over time and are life-threatening for affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000491-2" qtype="frequency">How many people are affected by Hutchinson-Gilford progeria syndrome ?</Question>
+			<Answer>This condition is very rare; it is reported to occur in 1 in 4 million newborns worldwide. More than 130 cases have been reported in the scientific literature since the condition was first described in 1886.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000491-3" qtype="genetic changes">What are the genetic changes related to Hutchinson-Gilford progeria syndrome ?</Question>
+			<Answer>Mutations in the LMNA gene cause Hutchinson-Gilford progeria syndrome.  The LMNA gene provides instructions for making a protein called lamin A. This protein plays an important role in determining the shape of the nucleus within cells. It is an essential scaffolding (supporting) component of the nuclear envelope, which is the membrane that surrounds the nucleus. Mutations that cause Hutchinson-Gilford progeria syndrome result in the production of an abnormal version of the lamin A protein. The altered protein makes the nuclear envelope unstable and progressively damages the nucleus, making cells more likely to die prematurely. Researchers are working to determine how these changes lead to the characteristic features of Hutchinson-Gilford progeria syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000491-4" qtype="inheritance">Is Hutchinson-Gilford progeria syndrome inherited ?</Question>
+			<Answer>Hutchinson-Gilford progeria syndrome is considered an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. The condition results from new mutations in the LMNA gene, and almost always occurs in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000491-5" qtype="treatment">What are the treatments for Hutchinson-Gilford progeria syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Hutchinson-Gilford progeria syndrome:  - Gene Review: Gene Review: Hutchinson-Gilford Progeria Syndrome  - Genetic Testing Registry: Hutchinson-Gilford syndrome  - MedlinePlus Encyclopedia: Progeria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

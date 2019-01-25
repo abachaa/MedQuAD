@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000172" source="GHR" url="https://ghr.nlm.nih.gov/condition/char-syndrome">
+<Focus>Char syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1868570</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Patent ductus arteriosus with facial dysmorphism and abnormal fifth digits</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000172-1" qtype="information">What is (are) Char syndrome ?</Question>
+			<Answer>Char syndrome is a condition that affects the development of the face, heart, and limbs. It is characterized by a combination of three major features: a distinctive facial appearance, a heart defect called patent ductus arteriosus, and hand abnormalities.  Most people with Char syndrome have a characteristic facial appearance that includes flattened cheek bones and a flat nasal bridge (the area of the nose between the eyes). The tip of the nose is also flat and broad. The eyes are wide-set with droopy eyelids (ptosis) and outside corners that point downward (down-slanting palpebral fissures). Additional facial differences include a shortened distance between the nose and upper lip (a short philtrum), a triangular-shaped mouth, and thick, prominent lips.  Patent ductus arteriosus is a common heart defect in newborns, and it occurs in most babies with Char syndrome. Before birth, the ductus arteriosus forms a connection between two major arteries (the aorta and the pulmonary artery). This connection normally closes shortly after birth, but it remains open in babies with patent ductus arteriosus. If untreated, this heart defect causes infants to breathe rapidly, feed poorly, and gain weight slowly. In severe cases, it can lead to heart failure. People with patent ductus arteriosus also have an increased risk of infection.  Hand abnormalities are another feature of Char syndrome. In most people with this condition, the middle section of the fifth (pinky) finger is shortened or absent. Other abnormalities of the hands and feet have been reported but are less common.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000172-2" qtype="frequency">How many people are affected by Char syndrome ?</Question>
+			<Answer>Char syndrome is rare, although its exact incidence is unknown. Only a few families with this condition have been identified worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000172-3" qtype="genetic changes">What are the genetic changes related to Char syndrome ?</Question>
+			<Answer>Mutations in the TFAP2B gene cause Char syndrome. This gene provides instructions for making a protein known as transcription factor AP-2. A transcription factor is a protein that attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Transcription factor AP-2 regulates genes that are involved in development before birth. In particular, this protein appears to play a role in the normal formation of structures in the face, heart, and limbs.  TFAP2B mutations alter the structure of transcription factor AP-2. Some of these mutations prevent the protein from binding to DNA, while other mutations render it unable to regulate the activity of other genes. A loss of this protein&apos;s function disrupts the normal development of several parts of the body before birth, resulting in the major features of Char syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000172-4" qtype="inheritance">Is Char syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000172-5" qtype="treatment">What are the treatments for Char syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Char syndrome:  - Gene Review: Gene Review: Char Syndrome  - Genetic Testing Registry: Char syndrome  - MedlinePlus Encyclopedia: Patent Ductus Arteriosus   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

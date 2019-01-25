@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000686" source="GARD" url="https://rarediseases.info.nih.gov/gard/10777/benign-multicystic-peritoneal-mesothelioma">
+<Focus>Benign multicystic peritoneal mesothelioma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1334818</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BMPM</Synonym>
+		<Synonym>Benign cystic peritoneal mesothelioma</Synonym>
+		<Synonym>Multilocular peritoneal inclusion cysts</Synonym>
+		<Synonym>Multilocular peritoneal cysts</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000686-1" qtype="information">What is (are) Benign multicystic peritoneal mesothelioma ?</Question>
+			<Answer>Benign multicystic peritoneal mesothelioma (BMPM) is a very rare benign cystic tumor arising from the peritoneal mesothelium (lining of the abdominal wall). It commonly occurs in young to middle-aged women who have a prior history of abdominal surgery, endometriosis, or pelvic inflammatory disease. The first symptoms usually include abdominal or pelvic pain, tenderness, and rarely, constipation and/or urinary hesitancy. Since it was first described in 1979, there have been approximately 130 cases described in the medical literature. BMPM is not related to prior asbestos exposure. The specific cause is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000686-2" qtype="treatment">What are the treatments for Benign multicystic peritoneal mesothelioma ?</Question>
+			<Answer>How might benign multicystic peritoneal mesothelioma be treated? Surgery to remove the cystic lesions is the only effective treatment for BMPM. Aggressive surgical approaches are often recommended. Hormonal therapy has also been attempted in individual cases with variable degrees of success. Most affected individuals do not undergo chemotherapy and/or radiotherapy because these tumors are usually benign.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

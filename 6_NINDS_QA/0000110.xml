@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000110" source="NINDS" url="http://www.ninds.nih.gov/disorders/dyslexia/dyslexia.htm">
+<Focus>Dyslexia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0476254</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000110-1" qtype="information">What is (are) Dyslexia ?</Question>
+			<Answer>Dyslexia is a brain-based type of learning disability that specifically impairs a person&apos;s ability to read. These individuals typically read at levels significantly lower than expected despite having normal intelligence. Although the disorder varies from person to person, common characteristics among people with dyslexia are difficulty with phonological processing (the manipulation of sounds), spelling, and/or rapid visual-verbal responding. In individuals with adult onset of dyslexia, it usually occurs as a result of brain injury or in the context of dementia; this contrasts with individuals with dyslexia who simply were never identified as children or adolescents. Dyslexia can be inherited in some families, and recent studies have identified a number of genes that may predispose an individual to developing dyslexia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000110-2" qtype="treatment">What are the treatments for Dyslexia ?</Question>
+			<Answer>The main focus of treatment should be on the specific learning problems of affected individuals. The usual course is to modify teaching methods and the educational environment to meet the specific needs of the individual with dyslexia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000110-3" qtype="outlook">What is the outlook for Dyslexia ?</Question>
+			<Answer>For those with dyslexia, the prognosis is mixed. The disability affects such a wide range of people and produces such different symptoms and varying degrees of severity that predictions are hard to make. The prognosis is generally good, however, for individuals whose dyslexia is identified early, who have supportive family and friends and a strong self-image, and who are involved in a proper remediation program.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000110-4" qtype="research">what research (or clinical trials) is being done for Dyslexia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) support dyslexia research through grants to major research institutions across the country. Current research avenues focus on developing techniques to diagnose and treat dyslexia and other learning disabilities, increasing the understanding of the biological and possible genetic bases of learning disabilities, and exploring the relationship between neurophysiological processes and cognitive functions with regard to reading ability.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

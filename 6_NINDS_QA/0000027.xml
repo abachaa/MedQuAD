@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000027" source="NINDS" url="http://www.ninds.nih.gov/disorders/arachnoid_cysts/arachnoid_cysts.htm">
+<Focus>Arachnoid Cysts</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0078981</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000027-1" qtype="information">What is (are) Arachnoid Cysts ?</Question>
+			<Answer>Arachnoid cysts are cerebrospinal fluid-filled sacs that are located between the brain or spinal cord and the arachnoid membrane, one of the three membranes that cover the brain and spinal cord. Primary arachnoid cysts are present at birth and are the result of developmental abnormalities in the brain and spinal cord that arise during the early weeks of gestation. Secondary arachnoid cysts are not as common as primary cysts and develop as a result of head injury, meningitis, or tumors, or as a complication of brain surgery. The majority of arachnoid cysts form outside the temporal lobe of the brain in an area of the skull known as the middle cranial fossa. Arachnoid cysts involving the spinal cord are rarer. The location and size of the cyst determine the symptoms and when those symptoms begin. Most individuals with arachnoid cysts develop symptoms before the age of 20, and especially during the first year of life, but some people with arachnoid cysts never have symptoms. Males are four times more likely to have arachnoid cysts than females.
+                
+Typical symptoms of an arachnoid cyst around the brain include headache, nausea and vomiting, seizures, hearing and visual disturbances, vertigo, and difficulties with balance and walking. Arachnoid cysts around the spinal cord compress the spinal cord or nerve roots and cause symptoms such as progressive back and leg pain and tingling or numbness in the legs or arms. Diagnosis usually involves a brain scan or spine scan using diffusion-weighted MRI (magnetic resonance imaging) which helps distinguish fluid-filled arachnoid cysts from other types of cysts.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000027-2" qtype="treatment">What are the treatments for Arachnoid Cysts ?</Question>
+			<Answer>There has been active debate about how to treat arachnoid cysts. The need for treatment depends mostly upon the location and size of the cyst. If the cyst is small, not disturbing surrounding tissue, and not causing symptoms, some doctors will refrain from treatment. In the past, doctors placed shunts in the cyst to drain its fluid. Now with microneurosurgical techniques and endoscopic tools that allow for minimally invasive surgery, more doctors are opting to surgically remove the membranes of the cyst or open the cyst so its fluid can drain into the cerebrospinal fluid and be absorbed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000027-3" qtype="outlook">What is the outlook for Arachnoid Cysts ?</Question>
+			<Answer>Untreated, arachnoid cysts may cause permanent severe neurological damage when progressive expansion of the cyst(s) or bleeding into the cyst injures the brain or spinal cord. Symptoms usually resolve or improve with treatment.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000027-4" qtype="research">what research (or clinical trials) is being done for Arachnoid Cysts ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to brain abnormalities and disorders of the nervous system such as arachnoid cysts in laboratories at the National Institutes of Health (NIH), and supports additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure neurological disorders such as arachnoid cysts.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

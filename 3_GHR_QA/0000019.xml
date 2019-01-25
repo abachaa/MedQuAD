@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000019" source="GHR" url="https://ghr.nlm.nih.gov/condition/adenosine-monophosphate-deaminase-deficiency">
+<Focus>adenosine monophosphate deaminase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2931781</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AMP deaminase deficiency</Synonym>
+		<Synonym>exercise-induced myopathy</Synonym>
+		<Synonym>MAD deficiency</Synonym>
+		<Synonym>MADA deficiency</Synonym>
+		<Synonym>muscle AMP deaminase deficiency</Synonym>
+		<Synonym>myoadenylate deaminase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000019-1" qtype="information">What is (are) adenosine monophosphate deaminase deficiency ?</Question>
+			<Answer>Adenosine monophosphate (AMP) deaminase deficiency is a condition that can affect the muscles used for movement (skeletal muscles). People with this condition do not make enough of an enzyme called AMP deaminase. In most people, AMP deaminase deficiency does not cause any symptoms. People who do experience symptoms typically have muscle pain (myalgia) or weakness after exercise or prolonged physical activity. They often get tired more quickly and stay tired longer than would normally be expected. Some affected individuals have more severe symptoms, but it is unclear whether these symptoms are due solely to a lack of AMP deaminase or additional factors. Muscle weakness is typically apparent beginning in childhood or early adulthood.  Researchers have proposed three types of AMP deaminase deficiency, which are distinguished by their symptoms and genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000019-2" qtype="frequency">How many people are affected by adenosine monophosphate deaminase deficiency ?</Question>
+			<Answer>AMP deaminase deficiency is one of the most common inherited muscle disorders in white populations, affecting 1 in 50 to 100 people. The prevalence is lower in African Americans, affecting an estimated 1 in 40,000 people, and the condition is even less common in the Japanese population.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000019-3" qtype="genetic changes">What are the genetic changes related to adenosine monophosphate deaminase deficiency ?</Question>
+			<Answer>Mutations in the AMPD1 gene cause AMP deaminase deficiency. The AMPD1 gene provides instructions for producing an enzyme called AMP deaminase. This enzyme is found in skeletal muscle, where it plays a role in producing energy within muscle cells. Mutations in the AMPD1 gene disrupt the function of AMP deaminase and impair the muscle cells&apos; ability to produce energy. This lack of energy can lead to myalgia or other muscle problems associated with AMP deaminase deficiency.  The three types of AMP deaminase deficiency are known as the inherited type, acquired type, and coincidental inherited type.  Individuals with the inherited type have a mutation in both copies of the AMPD1 gene in each cell. Most people are asymptomatic, meaning they have no symptoms. Some people with AMP deaminase deficiency experience muscle weakness or pain following exercise.  The acquired type occurs in people who have decreased levels of AMP deaminase due to the presence of a muscle or joint condition.  People with the coincidental inherited type have a mutation in both copies of the AMPD1 gene. Additionally, they have a separate joint or muscle disorder. Some individuals experience more severe joint or muscle symptoms related to their disorder if they have AMP deaminase deficiency than do people without this enzyme deficiency. Most, however, do not have any symptoms associated with AMP deaminase deficiency.  It is not known why most people with this condition do not experience symptoms. Researchers speculate that additional mutations in other genes may be involved.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000019-4" qtype="inheritance">Is adenosine monophosphate deaminase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000019-5" qtype="treatment">What are the treatments for adenosine monophosphate deaminase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of adenosine monophosphate deaminase deficiency:  - MedlinePlus Encyclopedia: Muscle aches  - MedlinePlus Encyclopedia: Weakness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

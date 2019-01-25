@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000589" source="GHR" url="https://ghr.nlm.nih.gov/condition/legg-calve-perthes-disease">
+<Focus>Legg-Calv-Perthes disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023234</CUI>
+			<CUI>C1442965</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Calve-Perthes disease</Synonym>
+		<Synonym>LCPD</Synonym>
+		<Synonym>Perthes disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000589-1" qtype="information">What is (are) Legg-Calv-Perthes disease ?</Question>
+			<Answer>Legg-Calv-Perthes disease is a bone disorder that affects the hips. Usually, only one hip is involved, but in about 10 percent of cases, both hips are affected. Legg-Calv-Perthes disease begins in childhood, typically between ages 4 and 8, and affects boys more frequently than girls.  In this condition, the upper end of the thigh bone, known as the femoral head, breaks down. As a result, the femoral head is no longer round and does not move easily in the hip socket, which leads to hip pain, limping, and restricted leg movement. The bone eventually begins to heal itself through a normal process called bone remodeling, by which old bone is removed and new bone is created to replace it. This cycle of breakdown and healing can recur multiple times. Affected individuals are often shorter than their peers due to the bone abnormalities. Many people with Legg-Calv-Perthes disease go on to develop a painful joint disorder called osteoarthritis in the hips at an early age.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000589-2" qtype="frequency">How many people are affected by Legg-Calv-Perthes disease ?</Question>
+			<Answer>The incidence of Legg-Calv-Perthes disease varies by population. The condition is most common in white populations, in which it affects an estimated 1 to 3 in 20,000 children under age 15.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000589-3" qtype="genetic changes">What are the genetic changes related to Legg-Calv-Perthes disease ?</Question>
+			<Answer>Legg-Calv-Perthes disease is usually not caused by genetic factors. The cause in these cases is unknown. In a small percentage of cases, mutations in the COL2A1 gene cause the bone abnormalities characteristic of Legg-Calv-Perthes disease. The COL2A1 gene provides instructions for making a protein that forms type II collagen. This type of collagen is found mostly in cartilage, a tough but flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Type II collagen is essential for the normal development of bones and other connective tissues that form the body&apos;s supportive framework.  COL2A1 gene mutations involved in Legg-Calv-Perthes disease lead to production of an altered protein; collagen that contains this protein may be less stable than normal. Researchers speculate that the breakdown of bone characteristic of Legg-Calv-Perthes disease is caused by impaired blood flow to the femoral head, which leads to death of the bone tissue (osteonecrosis); however it is unclear how abnormal type II collagen is involved in this process or why the hips are specifically affected.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000589-4" qtype="inheritance">Is Legg-Calv-Perthes disease inherited ?</Question>
+			<Answer>When associated with COL2A1 gene mutations, the condition is inherited in an autosomal dominant pattern, which means one copy of the altered COL2A1 gene in each cell is sufficient to cause the disorder.  Most COL2A1-associated cases result from new mutations in the gene and occur in people with no history of the disorder in their family. These cases are referred to as sporadic. In other cases, the condition is passed through families. In these cases, referred to as familial, an affected person inherits the mutation from one affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000589-5" qtype="treatment">What are the treatments for Legg-Calv-Perthes disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Legg-Calv-Perthes disease:  - National Osteonecrosis Foundation  - Seattle Children&apos;s Hospital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

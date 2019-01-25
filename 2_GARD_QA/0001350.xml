@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001350" source="GARD" url="https://rarediseases.info.nih.gov/gard/6114/citrullinemia-type-i">
+<Focus>Citrullinemia type I</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175683</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Classic citrullinemia</Synonym>
+		<Synonym>Argininosuccinate synthetase deficiency</Synonym>
+		<Synonym>CTNL1</Synonym>
+		<Synonym>Citrullinuria</Synonym>
+		<Synonym>ASS deficiency</Synonym>
+		<Synonym>Urea cycle disorders</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001350-1" qtype="information">What is (are) Citrullinemia type I ?</Question>
+			<Answer>Citrullinemia type I is an inherited disorder that causes ammonia and other toxic substances to accumulate in the blood. This condition, also known as classic citrullinemia, belongs to a class of genetic diseases called urea cycle disorders. In most cases, the condition becomes evident in the first few days of life. Affected infants typically appear normal at birth, but as ammonia builds up in the body they experience a progressive lack of energy (lethargy), poor feeding, vomiting, seizures, and loss of consciousness. Citrullinemia type I is caused by mutations in the ASS1 gene. It is inherited in an autosomal recessive pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001350-2" qtype="symptoms">What are the symptoms of Citrullinemia type I ?</Question>
+			<Answer>What are the signs and symptoms of Citrullinemia type I? Citrullinemia type I presents as a clinical spectrum that includes an acute neonatal form, a milder late-onset form, a form without symptoms and/or hyperammonemia, and a form in which women have onset of severe symptoms during pregnancy or post partum. Infants with the acute neonatal form typically appear normal at birth, but as ammonia builds up in the body they become progressively lethargic, feed poorly, vomit, and develop signs of increased intracranial pressure, which can lead to seizures and loss of consciousness. Less commonly, a milder form of citrullinemia type I can develop later in childhood or adulthood. This later-onset form is associated with intense headaches, partial loss of vision, slurred speech, problems with balance and muscle coordination (ataxia), behavior problems, and lethargy. Episodes of high blood ammonia often happen after going without food for long periods of time, during illness or infection or after high-protein meals. Some people with gene mutations that cause citrullinemia type I never experience signs and symptoms of the disorder and are only found to be affected after a brother or sister is diagnosed. The Human Phenotype Ontology provides the following list of signs and symptoms for Citrullinemia type I. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Stroke 5% Ataxia - Autosomal recessive inheritance - Cerebral edema - Coma - Episodic ammonia intoxication - Failure to thrive - Hepatomegaly - Hyperammonemia - Hyperglutaminemia - Hypoargininemia - Intellectual disability - Irritability - Lethargy - Neonatal onset - Oroticaciduria - Phenotypic variability - Protein avoidance - Respiratory alkalosis - Seizures - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001350-3" qtype="causes">What causes Citrullinemia type I ?</Question>
+			<Answer>What causes citrullinemia type I? Citrullinemia type I is caused by mutations in the ASS1 gene. This gene provides instructions for making an enzyme, argininosuccinate synthetase 1, that is responsible for the third step in the urea cycle. Mutations in the ASS1 gene reduce the activity of the enzyme, which disrupts the urea cycle and prevents the body from processing nitrogen effectively. Excess nitrogen (in the form of ammonia) and other byproducts of the urea cycle accumulate in the bloodstream. Ammonia is particularly toxic to the nervous system, which helps explain the neurologic symptoms (such as lethargy, seizures, and ataxia) that are often seen in this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001350-4" qtype="inheritance">Is Citrullinemia type I inherited ?</Question>
+			<Answer>How is citrullinemia type I inherited? Citrullinemia type I is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001350-5" qtype="treatment">What are the treatments for Citrullinemia type I ?</Question>
+			<Answer>What happens when citrullinemia type I is not treated?  Untreated individuals with the severe form of citrullinemia type I have hyperammonemia (plasma ammonia concentration 1000-3000 mol/L). Without prompt intervention, hyperammonemia and the accumulation of other toxic metabolites result in swelling of the brain, breathing problems, increased or decreased muscle tone, muscle weakness, problems staying warm, seizures, loss of consciousness, and sometimes death. Without treatment, most babies die within the first few weeks of life.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

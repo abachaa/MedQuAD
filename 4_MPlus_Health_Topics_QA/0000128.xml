@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000128" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/breastcancer.html">
+<Focus>Breast Cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006142</CUI>
+			<CUI>C0678222</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000128-1" qtype="information">What is (are) Breast Cancer ?</Question>
+			<Answer>Breast cancer affects one in eight women during their lives. Breast cancer kills more women in the United States than any cancer except lung cancer. No one knows why some women get breast cancer, but there are a number of risk factors. Risks that you cannot change include       - Age - the chance of getting breast cancer rises as a woman gets older     - Genes - there are two genes, BRCA1 and BRCA2, that greatly increase the risk. Women who have family members with breast or ovarian cancer may wish to be tested.     - Personal factors - beginning periods before age 12 or going through menopause after age 55       Other risks include being overweight, using hormone replacement therapy (also called menopausal hormone therapy), taking birth control pills, drinking alcohol, not having children or having your first child after age 35 or having dense breasts.    Symptoms of breast cancer may include a lump in the breast, a change in size or shape of the breast or discharge from a nipple. Breast self-exam and mammography can help find breast cancer early when it is most treatable. Treatment may consist of radiation, lumpectomy, mastectomy, chemotherapy and hormone therapy.    Men can have breast cancer, too, but the number of cases is small.    NIH: National Cancer Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

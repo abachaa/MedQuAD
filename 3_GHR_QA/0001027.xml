@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001027" source="GHR" url="https://ghr.nlm.nih.gov/condition/warfarin-resistance">
+<Focus>warfarin resistance</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0750384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>coumarin resistance</Synonym>
+		<Synonym>poor metabolism of coumarin</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001027-1" qtype="information">What is (are) warfarin resistance ?</Question>
+			<Answer>Warfarin resistance is a condition in which individuals have a high tolerance for the drug warfarin. Warfarin is an anticoagulant, which means that it thins the blood, preventing blood clots from forming. Warfarin is often prescribed to prevent blood clots in people with heart valve disease who have replacement heart valves, people with an irregular heart beat (atrial fibrillation), or those with a history of heart attack, stroke, or a prior blood clot in the deep veins of the arms or legs (deep vein thrombosis).  There are two types of warfarin resistance: incomplete and complete. Those with incomplete warfarin resistance can achieve the benefits of warfarin treatment with a high dose of warfarin. Individuals with complete warfarin resistance do not respond to warfarin treatment, no matter how high the dose. If people with warfarin resistance require treatment with warfarin and take the average dose, they will remain at risk of developing a potentially harmful blood clot.  Both types of warfarin resistance are related to how the body processes warfarin. In some people with warfarin resistance, their blood clotting process does not react effectively to the drug. Others with this resistance rapidly break down (metabolize) warfarin, so the medication is quickly processed by their bodies; these individuals are classified as &quot;fast metabolizers&quot; or &quot;rapid metabolizers&quot; of warfarin. The severity of these abnormal processes determines whether the warfarin resistance is complete or incomplete.  Warfarin resistance does not appear to cause any health problems other than those associated with warfarin drug treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001027-2" qtype="frequency">How many people are affected by warfarin resistance ?</Question>
+			<Answer>Warfarin resistance is thought to be a rare condition, although its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001027-3" qtype="genetic changes">What are the genetic changes related to warfarin resistance ?</Question>
+			<Answer>Many genes are involved in the metabolism of warfarin and in determining the drug&apos;s effects in the body. Certain common changes (polymorphisms) in the VKORC1 gene account for 20 percent of the variation in warfarin metabolism due to genetic factors. Polymorphisms in other genes, some of which have not been identified, have a smaller effect on warfarin metabolism.  The VKORC1 gene provides instructions for making a vitamin K epoxide reductase enzyme. The VKORC1 enzyme helps turn on (activate) clotting proteins in the pathway that forms blood clots. Warfarin prevents (inhibits) the action of VKORC1 by binding to the complex and preventing it from binding to and activating the clotting proteins, stopping clot formation. Certain VKORC1 gene polymorphisms lead to the formation of a VKORC1 enzyme with a decreased ability to bind to warfarin. This reduction in warfarin binding causes incomplete warfarin resistance and results in more warfarin being needed to inhibit the VKORC1 enzyme and stop the clotting process. If no warfarin can bind to the VKORC1 enzyme, the result is complete warfarin resistance.  While changes in specific genes affect how the body reacts to warfarin, many other factors, including gender, age, weight, diet, and other medications, also play a role in the body&apos;s interaction with this drug.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001027-4" qtype="inheritance">Is warfarin resistance inherited ?</Question>
+			<Answer>The polymorphisms associated with this condition are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to result in warfarin resistance. However, different polymorphisms affect the activity of warfarin to varying degrees. Additionally, people who have more than one polymorphism in a gene or polymorphisms in multiple genes associated with warfarin resistance have a higher tolerance for the drug&apos;s effect or are able to process the drug more quickly.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001027-5" qtype="treatment">What are the treatments for warfarin resistance ?</Question>
+			<Answer>These resources address the diagnosis or management of warfarin resistance:  - American Society of Hematology: Antithrombotic Therapy  - MedlinePlus Drugs &amp; Supplements: Warfarin  - PharmGKB   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

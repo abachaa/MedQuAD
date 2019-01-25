@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000254" source="NINDS" url="http://www.ninds.nih.gov/disorders/sleep_apnea/sleep_apnea.htm">
+<Focus>Sleep Apnea</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037315</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000254-1" qtype="information">What is (are) Sleep Apnea ?</Question>
+			<Answer>Sleep apnea is a common sleep disorder characterized by brief interruptions of breathing during sleep. These episodes usually last 10 seconds or more and occur repeatedly throughout the night. People with sleep apnea will partially awaken as they struggle to breathe, but in the morning they will not be aware of the disturbances in their sleep. The most common type of sleep apnea is obstructive sleep apnea (OSA), caused by relaxation of soft tissue in the back of the throat that blocks the passage of air. Central sleep apnea (CSA) is caused by irregularities in the brains normal signals to breathe. Most people with sleep apnea will have a combination of both types. The hallmark symptom of the disorder is excessive daytime sleepiness. Additional symptoms of sleep apnea include restless sleep, loud snoring (with periods of silence followed by gasps), falling asleep during the day, morning headaches, trouble concentrating, irritability, forgetfulness, mood or behavior changes, anxiety, and depression. Not everyone who has these symptoms will have sleep apnea, but it is recommended that people who are experiencing even a few of these symptoms visit their doctor for evaluation. Sleep apnea is more likely to occur in men than women, and in people who are overweight or obese.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000254-2" qtype="treatment">What are the treatments for Sleep Apnea ?</Question>
+			<Answer>There are a variety of treatments for sleep apnea, depending on an individuals medical history and the severity of the disorder. Most treatment regimens begin with lifestyle changes, such as avoiding alcohol and medications that relax the central nervous system (for example, sedatives and muscle relaxants), losing weight, and quitting smoking. Some people are helped by special pillows or devices that keep them from sleeping on their backs, or oral appliances to keep the airway open during sleep. If these conservative methods are inadequate, doctors often recommend continuous positive airway pressure (CPAP), in which a face mask is attached to a tube and a machine that blows pressurized air into the mask and through the airway to keep it open. Also available are machines that offer variable positive airway pressure (VPAP) and automatic positive airway pressure (APAP). There are also surgical procedures that can be used to remove tissue and widen the airway. Some individuals may need a combination of therapies to successfully treat their sleep apnea.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000254-3" qtype="outlook">What is the outlook for Sleep Apnea ?</Question>
+			<Answer>Untreated, sleep apnea can be life threatening. Excessive daytime sleepiness can cause people to fall asleep at inappropriate times, such as while driving. Sleep apnea also appears to put individuals at risk for stroke and transient ischemic attacks (TIAs, also known as mini-strokes), and is associated with coronary heart disease, heart failure, irregular heartbeat, heart attack, and high blood pressure. Although there is no cure for sleep apnea, recent studies show that successful treatment can reduce the risk of heart and blood pressure problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000254-4" qtype="research">what research (or clinical trials) is being done for Sleep Apnea ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to sleep apnea in laboratories at the NIH, and also support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure sleep disorders, such as sleep apnea.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

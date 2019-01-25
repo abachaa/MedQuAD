@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003542" source="GARD" url="https://rarediseases.info.nih.gov/gard/9962/lentigo-maligna-melanoma">
+<Focus>Lentigo maligna melanoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2739810</CUI>
+			<CUI>C0025202</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LMM</Synonym>
+		<Synonym>Hutchison melanotic freckle</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003542-1" qtype="information">What is (are) Lentigo maligna melanoma ?</Question>
+			<Answer>Lentigo maligna melanoma (LMM) is a type of skin cancer that usually develops in older, fair-skinned adults.  The average age of diagnosis is 65.  LMM is thought to be caused by a history of sun exposure to the affected area.  Treatment includes surgery to remove as much of the LMM as possible.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

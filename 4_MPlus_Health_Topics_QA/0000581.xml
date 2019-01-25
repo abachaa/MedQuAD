@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000581" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/managedcare.html">
+<Focus>Managed Care</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0580931</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000581-1" qtype="information">What is (are) Managed Care ?</Question>
+			<Answer>Managed care plans are a type of health insurance. They have contracts with health care providers and medical facilities to provide care for members at reduced costs. These providers make up the plan&apos;s network. How much of your care the plan will pay for depends on the network&apos;s rules.    Plans that restrict your choices usually cost you less. If you want a flexible plan, it will probably cost more. There are three types of managed care plans:       - Health Maintenance Organizations (HMO) usually only pay for care within the network. You choose a primary care doctor who coordinates most of your care.    - Preferred Provider Organizations (PPO) usually pay more if you get care within the network. They still pay part of the cost if you go outside the network.    - Point of Service (POS) plans let you choose between an HMO or a PPO each time you need care.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000412" source="GHR" url="https://ghr.nlm.nih.gov/condition/glucose-phosphate-isomerase-deficiency">
+<Focus>glucose phosphate isomerase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3469598</CUI>
+			<CUI>C0398561</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>glucose-6-phosphate isomerase deficiency</Synonym>
+		<Synonym>glucosephosphate isomerase deficiency</Synonym>
+		<Synonym>GPI deficiency</Synonym>
+		<Synonym>nonspherocytic hemolytic anemia due to glucose phosphate isomerase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000412-1" qtype="information">What is (are) glucose phosphate isomerase deficiency ?</Question>
+			<Answer>Glucose phosphate isomerase (GPI) deficiency is an inherited disorder that affects red blood cells, which carry oxygen to the body&apos;s tissues. People with this disorder have a condition known as chronic hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely, resulting in a shortage of red blood cells (anemia). Chronic hemolytic anemia can lead to unusually pale skin (pallor), yellowing of the eyes and skin (jaundice), extreme tiredness (fatigue), shortness of breath (dyspnea), and a rapid heart rate (tachycardia). An enlarged spleen (splenomegaly), an excess of iron in the blood, and small pebble-like deposits in the gallbladder or bile ducts (gallstones) may also occur in this disorder.  Hemolytic anemia in GPI deficiency can range from mild to severe. In the most severe cases, affected individuals do not survive to birth. Individuals with milder disease can survive into adulthood. People with any level of severity of the disorder can have episodes of more severe hemolysis, called hemolytic crises, which can be triggered by bacterial or viral infections.  A small percentage of individuals with GPI deficiency also have neurological problems, including intellectual disability and difficulty with coordinating movements (ataxia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000412-2" qtype="frequency">How many people are affected by glucose phosphate isomerase deficiency ?</Question>
+			<Answer>GPI deficiency is a rare cause of hemolytic anemia; its prevalence is unknown. About 50 cases have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000412-3" qtype="genetic changes">What are the genetic changes related to glucose phosphate isomerase deficiency ?</Question>
+			<Answer>GPI deficiency is caused by mutations in the GPI gene, which provides instructions for making an enzyme called glucose phosphate isomerase (GPI). This enzyme has two distinct functions based on its structure. When two GPI molecules form a complex (a homodimer), the enzyme plays a role in a critical energy-producing process known as glycolysis, also called the glycolytic pathway. During glycolysis, the simple sugar glucose is broken down to produce energy. Specifically, GPI is involved in the second step of the glycolytic pathway; in this step, a molecule called glucose-6-phosphate is converted to another molecule called fructose-6-phosphate.  When GPI remains a single molecule (a monomer) it is involved in the development and maintenance of nerve cells (neurons). In this context, it is often known as neuroleukin (NLK).  Some GPI gene mutations may result in a less stable homodimer, impairing the activity of the enzyme in the glycolytic pathway. The resulting imbalance of molecules involved in the glycolytic pathway eventually impairs the ability of red blood cells to maintain their structure, leading to hemolysis.  Other GPI gene mutations may cause the monomer to break down more easily, thereby interfering with its function in nerve cells. In addition, the shortage of monomers hinders homodimer formation, which impairs the glycolytic pathway. These mutations have been identified in individuals with GPI deficiency who have both hemolytic anemia and neurological problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000412-4" qtype="inheritance">Is glucose phosphate isomerase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000412-5" qtype="treatment">What are the treatments for glucose phosphate isomerase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of GPI deficiency:  - Genetic Testing Registry: Glucosephosphate isomerase deficiency  - Genetic Testing Registry: Hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency  - National Heart, Lung, and Blood Institute: How is Hemolytic Anemia Diagnosed?  - National Heart, Lung, and Blood Institute: How is Hemolytic Anemia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

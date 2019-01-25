@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001459" source="GARD" url="https://rarediseases.info.nih.gov/gard/11897/cone-dystrophy">
+<Focus>Cone dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0730290</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Achromatopsia 2</Synonym>
+		<Synonym>Achromatopsia 3</Synonym>
+		<Synonym>Blue cone monochromatism</Synonym>
+		<Synonym>Cone dystrophy X-linked with tapetal-like sheen</Synonym>
+		<Synonym>Retinal cone dystrophy 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001459-1" qtype="information">What is (are) Cone dystrophy ?</Question>
+			<Answer>Cone dystrophy is a general term for a group of rare eye disorders that affect the cone cells of the retina. Cone cells allow a person to see color and fine detail, and they work best in bright light. The cone dystrophies can cause a variety of symptoms such as decreased visual clarity when looking straight ahead, a reduced ability to see colors, and an increased sensitivity to light. There are two main subtypes of cone dystrophy, called stationary cone dystrophy and progressive cone dystrophy. The age when symptoms begin, the type and severity of symptoms, and the progression of symptoms are all very different between individuals, even between people with the same type of cone dystrophy. Mutations in many genes have been found to cause cone dystrophy, and the condition can be inherited in an autosomal dominant, autosomal recessive, or x-linked manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001459-2" qtype="symptoms">What are the symptoms of Cone dystrophy ?</Question>
+			<Answer>What are the signs and symptoms of Cone dystrophy? The Human Phenotype Ontology provides the following list of signs and symptoms for Cone dystrophy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal electroretinogram 90% Abnormality of color vision 90% Abnormality of retinal pigmentation 90% Photophobia 90% Visual impairment 90% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001459-3" qtype="exams and tests">How to diagnose Cone dystrophy ?</Question>
+			<Answer>How is cone dystrophy diagnosed? The diagnosis of cone dystrophy is made based upon the presence of characteristic symptoms, a detailed family history, a thorough clinical evaluation and a number of supporting tests. While exams that measure visual acuity, perception of color, and field of vision are used to arrive at a proper diagnosis, an electroretinogram (ERG) is used to confirm the diagnosis. During an ERG, eye drops are used to numb the eye before a special contact lens recorder is placed on the eye. Then a series of flashes of light are used to stimulate the retina. Doctors can then measure the electrical response of the rods and cones to the light. The test is performed twice  once in  bright room and again in a dark room. A weak of absent signal of cone cells indicates cone dystrophy. More details about the diagnosis of cone dystrophy can be accessed through the University of Michigan Kellogg Eye Center.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

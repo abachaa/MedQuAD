@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000129" source="GHR" url="https://ghr.nlm.nih.gov/condition/blau-syndrome">
+<Focus>Blau syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1861303</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>arthrocutaneouveal granulomatosis</Synonym>
+		<Synonym>early-onset sarcoidosis</Synonym>
+		<Synonym>familial granulomatosis, Blau type</Synonym>
+		<Synonym>familial juvenile systemic granulomatosis</Synonym>
+		<Synonym>granulomatous inflammatory arthritis, dermatitis, and uveitis, familial</Synonym>
+		<Synonym>pediatric granulomatous arthritis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000129-1" qtype="information">What is (are) Blau syndrome ?</Question>
+			<Answer>Blau syndrome is an inflammatory disorder that primarily affects the skin, joints, and eyes. Signs and symptoms begin in childhood, usually before age 4.  A form of skin inflammation called granulomatous dermatitis is typically the earliest sign of Blau syndrome. This skin condition causes a persistent rash that can be scaly or involve hard lumps (nodules) that can be felt under the skin. The rash is usually found on the torso, arms, and legs.  Arthritis is another common feature of Blau syndrome. In affected individuals, arthritis is characterized by inflammation of the lining of joints (the synovium). This inflammation, known as synovitis, is associated with swelling and joint pain. Synovitis usually begins in the joints of the hands, feet, wrists, and ankles. As the condition worsens, it can restrict movement by decreasing the range of motion in many joints.  Most people with Blau syndrome also develop uveitis, which is swelling and inflammation of the middle layer of the eye (the uvea). The uvea includes the colored portion of the eye (the iris) and related tissues that underlie the white part of the eye (the sclera). Uveitis can cause eye irritation and pain, increased sensitivity to bright light (photophobia), and blurred vision. Other structures in the eye can also become inflamed, including the outermost protective layer of the eye (the conjunctiva), the tear glands, the specialized light-sensitive tissue that lines the back of the eye (the retina), and the nerve that carries information from the eye to the brain (the optic nerve). Inflammation of any of these structures can lead to severe vision impairment or blindness.  Less commonly, Blau syndrome can affect other parts of the body, including the liver, kidneys, brain, blood vessels, lungs, and heart. Inflammation involving these organs and tissues can cause life-threatening complications.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000129-2" qtype="frequency">How many people are affected by Blau syndrome ?</Question>
+			<Answer>Although Blau syndrome appears to be uncommon, its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000129-3" qtype="genetic changes">What are the genetic changes related to Blau syndrome ?</Question>
+			<Answer>Blau syndrome results from mutations in the NOD2 gene. The protein produced from this gene helps defend the body from foreign invaders, such as viruses and bacteria, by playing several essential roles in the immune response, including inflammatory reactions. An inflammatory reaction occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair.  The NOD2 gene mutations that cause Blau syndrome result in a NOD2 protein that is overactive, which can trigger an abnormal inflammatory reaction. However, it is unclear how overactivation of the NOD2 protein causes the specific pattern of inflammation affecting the joints, eyes, and skin that is characteristic of Blau syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000129-4" qtype="inheritance">Is Blau syndrome inherited ?</Question>
+			<Answer>Blau syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most affected individuals have one parent with the condition.  In some cases, people with the characteristic features of Blau syndrome do not have a family history of the condition. Some researchers believe that these individuals have a non-inherited version of the disorder called early-onset sarcoidosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000129-5" qtype="treatment">What are the treatments for Blau syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Blau syndrome:  - Genetic Testing Registry: Blau syndrome  - Genetic Testing Registry: Sarcoidosis, early-onset  - Merck Manual Consumer Version: Overview of Dermatitis  - Merck Manual Consumer Version: Uveitis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

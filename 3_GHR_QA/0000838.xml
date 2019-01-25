@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000838" source="GHR" url="https://ghr.nlm.nih.gov/condition/protein-s-deficiency">
+<Focus>protein S deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242666</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hereditary thrombophilia due to protein S deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000838-1" qtype="information">What is (are) protein S deficiency ?</Question>
+			<Answer>Protein S deficiency is a disorder of blood clotting. People with this condition have an increased risk of developing abnormal blood clots.  Individuals with mild protein S deficiency are at risk of a type of clot called a deep vein thrombosis (DVT) that occurs in the deep veins of the arms or legs. If a DVT travels through the bloodstream and lodges in the lungs, it can cause a life-threatening clot known as a pulmonary embolism (PE). Other factors can raise the risk of abnormal blood clots in people with mild protein S deficiency. These factors include increasing age, surgery, immobility, or pregnancy. The combination of protein S deficiency and other inherited disorders of blood clotting can also influence risk. Many people with mild protein S deficiency never develop an abnormal blood clot, however.  In severe cases of protein S deficiency, infants develop a life-threatening blood clotting disorder called purpura fulminans soon after birth. Purpura fulminans is characterized by the formation of blood clots within small blood vessels throughout the body. These blood clots disrupt normal blood flow and can lead to death of body tissue (necrosis). Widespread blood clotting uses up all available blood clotting proteins. As a result, abnormal bleeding occurs in various parts of the body and is often noticeable as large, purple skin lesions. Individuals who survive the newborn period may experience recurrent episodes of purpura fulminans.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000838-2" qtype="frequency">How many people are affected by protein S deficiency ?</Question>
+			<Answer>Mild protein S deficiency is estimated to occur in approximately 1 in 500 individuals. Severe protein S deficiency is rare; however, its exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000838-3" qtype="genetic changes">What are the genetic changes related to protein S deficiency ?</Question>
+			<Answer>Protein S deficiency is caused by mutations in the PROS1 gene. This gene provides instructions for making protein S, which is found in the bloodstream and is important for controlling blood clotting. Protein S helps block the activity of (inactivate) certain proteins that promote the formation of blood clots.  Most mutations that cause protein S deficiency change single protein building blocks (amino acids) in protein S, which disrupts its ability to control blood clotting. Individuals with this condition do not have enough functional protein S to inactivate clotting proteins, which results in the increased risk of developing abnormal blood clots. Protein S deficiency can be divided into types I, II and III based on how mutations in the PROS1 gene affect protein S.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000838-4" qtype="inheritance">Is protein S deficiency inherited ?</Question>
+			<Answer>Protein S deficiency is inherited in an autosomal dominant pattern, which means one altered copy of the PROS1 gene in each cell is sufficient to cause mild protein S deficiency. Individuals who inherit two altered copies of this gene in each cell have severe protein S deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000838-5" qtype="treatment">What are the treatments for protein S deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of protein S deficiency:  - Genetic Testing Registry: Protein S deficiency  - MedlinePlus Encyclopedia: Congenital Protein C or S Deficiency  - MedlinePlus Encyclopedia: Necrosis  - MedlinePlus Encyclopedia: Protein S  - MedlinePlus Encyclopedia: Purpura   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

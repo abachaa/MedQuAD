@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001049" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-congenital-stationary-night-blindness">
+<Focus>X-linked congenital stationary night blindness</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339535</CUI>
+			<CUI>C1848172</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>X-linked CSNB</Synonym>
+		<Synonym>XLCSNB</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001049-1" qtype="information">What is (are) X-linked congenital stationary night blindness ?</Question>
+			<Answer>X-linked congenital stationary night blindness is a disorder of the retina, which is the specialized tissue at the back of the eye that detects light and color. People with this condition typically have difficulty seeing in low light (night blindness). They also have other vision problems, including loss of sharpness (reduced acuity), severe nearsightedness (high myopia), involuntary movements of the eyes (nystagmus), and eyes that do not look in the same direction (strabismus). Color vision is typically not affected by this disorder.  The vision problems associated with this condition are congenital, which means they are present from birth. They tend to remain stable (stationary) over time.  Researchers have identified two major types of X-linked congenital stationary night blindness: the complete form and the incomplete form. The types have very similar signs and symptoms. However, everyone with the complete form has night blindness, while not all people with the incomplete form have night blindness. The types are distinguished by their genetic cause and by the results of a test called an electroretinogram, which measures the function of the retina.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001049-2" qtype="frequency">How many people are affected by X-linked congenital stationary night blindness ?</Question>
+			<Answer>The prevalence of this condition is unknown. It appears to be more common in people of Dutch-German Mennonite descent. However, this disorder has been reported in families with many different ethnic backgrounds. The incomplete form is more common than the complete form.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001049-3" qtype="genetic changes">What are the genetic changes related to X-linked congenital stationary night blindness ?</Question>
+			<Answer>Mutations in the NYX and CACNA1F genes cause the complete and incomplete forms of X-linked congenital stationary night blindness, respectively. The proteins produced from these genes play critical roles in the retina.  Within the retina, the NYX and CACNA1F proteins are located on the surface of light-detecting cells called photoreceptors. The retina contains two types of photoreceptor cells: rods and cones. Rods are needed for vision in low light. Cones are needed for vision in bright light, including color vision. The NYX and CACNA1F proteins ensure that visual signals are passed from rods and cones to other retinal cells called bipolar cells, which is an essential step in the transmission of visual information from the eyes to the brain.  Mutations in the NYX or CACNA1F gene disrupt the transmission of visual signals between photoreceptors and retinal bipolar cells, which impairs vision. In people with the complete form of X-linked congenital stationary night blindness (resulting from NYX mutations), the function of rods is severely disrupted, while the function of cones is only mildly affected. In people with the incomplete form of the condition (resulting from CACNA1F mutations), rods and cones are both affected, although they retain some ability to detect light.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001049-4" qtype="inheritance">Is X-linked congenital stationary night blindness inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The NYX and CACNA1F genes are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one altered copy of the gene in each cell is called a carrier. Carriers of an NYX or CACNA1F mutation can pass on the mutated gene, but most do not develop any of the vision problems associated with X-linked congenital stationary night blindness. However, carriers may have retinal changes that can be detected with an electroretinogram.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001049-5" qtype="treatment">What are the treatments for X-linked congenital stationary night blindness ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked congenital stationary night blindness:  - American Optometric Association: Infant Vision  - Gene Review: Gene Review: X-Linked Congenital Stationary Night Blindness  - Genetic Testing Registry: Congenital stationary night blindness  - Genetic Testing Registry: Congenital stationary night blindness, type 1A  - Genetic Testing Registry: Congenital stationary night blindness, type 2A  - MedlinePlus Encyclopedia: Electroretinography  - MedlinePlus Encyclopedia: Eye movements - Uncontrollable  - MedlinePlus Encyclopedia: Nearsightedness  - MedlinePlus Encyclopedia: Strabismus  - MedlinePlus Encyclopedia: Vision - Night Blindness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

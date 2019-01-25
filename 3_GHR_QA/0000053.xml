@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000053" source="GHR" url="https://ghr.nlm.nih.gov/condition/andermann-syndrome">
+<Focus>Andermann syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0795950</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACCPN</Synonym>
+		<Synonym>agenesis of corpus callosum with neuronopathy</Synonym>
+		<Synonym>agenesis of corpus callosum with peripheral neuropathy</Synonym>
+		<Synonym>agenesis of corpus callosum with polyneuropathy</Synonym>
+		<Synonym>Charlevoix disease</Synonym>
+		<Synonym>hereditary motor and sensory neuropathy with agenesis of the corpus callosum</Synonym>
+		<Synonym>HMSN/ACC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000053-1" qtype="information">What is (are) Andermann syndrome ?</Question>
+			<Answer>Andermann syndrome is a disorder that damages the nerves used for muscle movement and sensation (motor and sensory neuropathy). Absence (agenesis) or malformation of the tissue connecting the left and right halves of the brain (corpus callosum) also occurs in most people with this disorder.  People affected by Andermann syndrome have abnormal or absent reflexes (areflexia) and weak muscle tone (hypotonia). They experience muscle wasting (amyotrophy), severe progressive weakness and loss of sensation in the limbs, and rhythmic shaking (tremors). They typically begin walking between ages 3 and 4 and lose this ability by their teenage years. As they get older, people with this disorder frequently develop joint deformities called contractures, which restrict the movement of certain joints. Most affected individuals also develop abnormal curvature of the spine (scoliosis), which may require surgery.  Andermann syndrome also results in abnormal function of certain cranial nerves, which emerge directly from the brain and extend to various areas of the head and neck. Cranial nerve problems may result in facial muscle weakness, drooping eyelids (ptosis), and difficulty following movements with the eyes (gaze palsy).  Individuals with Andermann syndrome usually have intellectual disability, which may be mild to severe, and some experience seizures. They may also develop psychiatric symptoms such as depression, anxiety, agitation, paranoia, and hallucinations, which usually appear in adolescence.  Some people with Andermann syndrome have atypical physical features such as widely spaced eyes (ocular hypertelorism); a wide, short skull (brachycephaly); a high arch of the hard palate at the roof of the mouth; a big toe that crosses over the other toes; and partial fusion (syndactyly) of the second and third toes.  Andermann syndrome is associated with a shortened life expectancy, but affected individuals typically live into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000053-2" qtype="frequency">How many people are affected by Andermann syndrome ?</Question>
+			<Answer>Andermann syndrome is most often seen in the French-Canadian population of the Saguenay-Lac-St.-Jean and Charlevoix regions of northeastern Quebec. In this population, Andermann syndrome occurs in almost 1 in 2,000 newborns. Only a few individuals with this disorder have been identified in other regions of the world.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000053-3" qtype="genetic changes">What are the genetic changes related to Andermann syndrome ?</Question>
+			<Answer>Mutations in the SLC12A6 gene cause Andermann syndrome. The SLC12A6 gene provides instructions for making a protein called a K-Cl cotransporter. This protein is involved in moving charged atoms (ions) of potassium (K) and chlorine (Cl) across the cell membrane. The positively charged potassium ions and negatively charged chlorine ions are moved together (cotransported), so that the charges inside and outside the cell membrane are unchanged (electroneutral).  Electroneutral cotransport of ions across cell membranes is involved in many functions of the body. While the specific function of the K-Cl cotransporter produced from the SLC12A6 gene is unknown, it seems to be critical for the development and maintenance of nerve tissue. It may be involved in regulating the amounts of potassium, chlorine, or water in cells and intercellular spaces. The K-Cl cotransporter protein may also help regulate the activity of other proteins that are sensitive to ion concentrations.  Mutations in the SLC12A6 gene that cause Andermann syndrome disrupt the function of the K-Cl cotransporter protein. The lack of functional protein normally produced from the SLC12A6 gene is believed to interfere with the development of the corpus callosum and maintenance of the nerves that transmit signals needed for movement and sensation, resulting in the signs and symptoms of Andermann syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000053-4" qtype="inheritance">Is Andermann syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000053-5" qtype="treatment">What are the treatments for Andermann syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Andermann syndrome:  - Gene Review: Gene Review: Hereditary Motor and Sensory Neuropathy with Agenesis of the Corpus Callosum  - Genetic Testing Registry: Andermann syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

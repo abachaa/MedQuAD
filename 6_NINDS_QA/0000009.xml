@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000009" source="NINDS" url="http://www.ninds.nih.gov/disorders/agenesis/agenesis.htm">
+<Focus>Agenesis of the Corpus Callosum</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175754</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000009-1" qtype="information">What is (are) Agenesis of the Corpus Callosum ?</Question>
+			<Answer>Agenesis of the corpus callosum (ACC) is one of several disorders of the corpus callosum, the structure that connects the two hemispheres (left and right) of the brain. In ACC the corpus callosum is partially or completely absent. It is caused by a disruption of brain cell migration during fetal development. ACC can occur as an isolated condition or in combination with other cerebral abnormalities, including Arnold-Chiari malformation, Dandy-Walker syndrome, schizencephaly (clefts or deep divisions in brain tissue), and holoprosencephaly (failure of the forebrain to divide into lobes.) Girls may have a gender-specific condition called Aicardi syndrome, which causes severe cognitive impairment and developmental delays, seizures, abnormalities in the vertebra of the spine, and lesions on the retina of the eye. ACC can also be associated with malformations in other parts of the body, such as midline facial defects. The effects of the disorder range from subtle or mild to severe, depending on associated brain abnormalities. Children with the most severe brain malformations may have intellectual impairment, seizures, hydrocephalus, and spasticity. Other disorders of the corpus callosum include dysgenesis, in which the corpus callosum is developed in a malformed or incomplete way, and hypoplasia, in which the corpus callosum is thinner than usual. Individuals with these disorders have a higher risk of hearing deficits and cardiac abnormalities than individuals with the normal structure. It is estimated that at lease one in 4,000 individuals has a disorder of the corpus callosum.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000009-2" qtype="treatment">What are the treatments for Agenesis of the Corpus Callosum ?</Question>
+			<Answer>There is no standard course of treatment for ACC. Treatment usually involves management of symptoms and seizures if they occur. Associated difficulties are much more manageable with early recognition and therapy, especially therapies focusing on left/right coordination. Early diagnosis and interventions are currently the best treatments to improve social and developmental outcomes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000009-3" qtype="outlook">What is the outlook for Agenesis of the Corpus Callosum ?</Question>
+			<Answer>Prognosis depends on the extent and severity of malformations. Intellectual impairment does not worsen. Individuals with a disorder of the corpus callosum typically have delays in attaining developmental milestones such as walking, talking, or reading; challenges with social interactions; clumsiness and poor motor coordination, particularly on skills that require coordination of left and right hands and feet (such as swimming, bicycle riding, and driving; and mental and social processing problems that become more apparent with age, with problems particularly evident from junior high school into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000009-4" qtype="research">what research (or clinical trials) is being done for Agenesis of the Corpus Callosum ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS conducts and supports a wide range of studies that explore the complex mechanisms of normal brain development. NINDS-funded research includes studies to understand the genetic causes of ACC, as well as to understand how magnetic resonance imaging findings may help predict outcome and response to therapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

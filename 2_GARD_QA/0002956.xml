@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002956" source="GARD" url="https://rarediseases.info.nih.gov/gard/6681/hydranencephaly">
+<Focus>Hydranencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020225</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hydroanencephaly</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002956-1" qtype="information">What is (are) Hydranencephaly ?</Question>
+			<Answer>Hydranencephaly is a rare condition in which the brain&apos;s cerebral hemispheres are absent and replaced by sacs filled with cerebrospinal fluid (CSF). Affected infants may appear and act normal at birth, but irritability and hypertonia often develop within a few weeks. Other signs and symptoms may include seizures, hydrocephalus, visual impairment, lack of growth, deafness, blindness, paralysis, and intellectual disabilities. Prognosis is typically poor with many affected children dying before one year of age. In rare cases, children may survive for several years or more. It has been suspected to be an inherited condition, although some researchers believe it may be caused by prenatal blockage of the carotid artery where it enters the cranium. Treatment is generally symptomatic and supportive; hydrocephalus may be treated with a shunt.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002956-2" qtype="treatment">What are the treatments for Hydranencephaly ?</Question>
+			<Answer>How might hydranencephaly be treated? Unfortunately, there is no definitive treatment for hydranencephaly. Management of the condition typically focuses on the specific signs and symptoms present in the affected individual and is mostly supportive. Hydrocephalus (the buildup of too much cerebral spinal fluid in the brain) may be treated with a shunt (a surgically implanted tube that helps to drain fluid from the brain).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

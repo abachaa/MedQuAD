@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000115" source="GHR" url="https://ghr.nlm.nih.gov/condition/benign-chronic-pemphigus">
+<Focus>benign chronic pemphigus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085106</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>benign familial pemphigus</Synonym>
+		<Synonym>familial benign chronic pemphigus</Synonym>
+		<Synonym>Hailey-Hailey disease</Synonym>
+		<Synonym>pemphigus, benign familial</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000115-1" qtype="information">What is (are) benign chronic pemphigus ?</Question>
+			<Answer>Benign chronic pemphigus, often called Hailey-Hailey disease, is a rare skin condition that usually appears in early adulthood. The disorder is characterized by red, raw, and blistered areas of skin that occur most often in skin folds, such as the groin, armpits, neck, and under the breasts. These inflamed areas can become crusty or scaly and may itch and burn. The skin problems tend to worsen with exposure to moisture (such as sweat), friction, and hot weather.  The severity of benign chronic pemphigus varies from relatively mild episodes of skin irritation to widespread, persistent areas of raw and blistered skin that interfere with daily activities. Affected skin may become infected with bacteria or fungi, leading to pain and odor. Although the condition is described as &quot;benign&quot; (noncancerous), in rare cases the skin lesions may develop into a form of skin cancer called squamous cell carcinoma.  Many affected individuals also have white lines running the length of their fingernails. These lines do not cause any problems, but they can be useful for diagnosing benign chronic pemphigus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000115-2" qtype="frequency">How many people are affected by benign chronic pemphigus ?</Question>
+			<Answer>Benign chronic pemphigus is a rare condition; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000115-3" qtype="genetic changes">What are the genetic changes related to benign chronic pemphigus ?</Question>
+			<Answer>Benign chronic pemphigus results from mutations in the ATP2C1 gene. This gene provides instructions for producing a protein called hSPCA1, which is found in many types of cells. The hSPCA1 protein helps cells store calcium until it is needed. Calcium has several critical functions in cells, including regulating cell growth and division and helping cells stick to one another (cell adhesion). The hSPCA1 protein appears to be particularly important for the normal function of cells called keratinocytes, which are found in the outer layer of the skin (the epidermis).  Mutations in the ATP2C1 gene reduce the amount of functional hSPCA1 protein in cells. This abnormality impairs cells&apos; ability to store calcium normally. For unknown reasons, this abnormal calcium storage affects keratinocytes more than other types of cells. The abnormal regulation of calcium impairs many cell functions, including cell adhesion. As a result, keratinocytes do not stick tightly to one another, which causes the epidermis to become fragile and less resistant to minor trauma. Because the skin is easily damaged, it develops raw, blistered areas, particularly in skin folds where there is moisture and friction.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000115-4" qtype="inheritance">Is benign chronic pemphigus inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000115-5" qtype="treatment">What are the treatments for benign chronic pemphigus ?</Question>
+			<Answer>These resources address the diagnosis or management of benign chronic pemphigus:  - American Osteopathic College of Dermatology  - Genetic Testing Registry: Familial benign pemphigus   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

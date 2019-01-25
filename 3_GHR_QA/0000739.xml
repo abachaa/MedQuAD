@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000739" source="GHR" url="https://ghr.nlm.nih.gov/condition/norrie-disease">
+<Focus>Norrie disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266526</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anderson-Warburg syndrome</Synonym>
+		<Synonym>Atrophia bulborum hereditaria</Synonym>
+		<Synonym>congenital progressive oculo-acoustico-cerebral degeneration</Synonym>
+		<Synonym>Episkopi blindness</Synonym>
+		<Synonym>Fetal iritis syndrome</Synonym>
+		<Synonym>Norrie syndrome</Synonym>
+		<Synonym>Norrie-Warburg syndrome</Synonym>
+		<Synonym>Norrie's disease</Synonym>
+		<Synonym>Oligophrenia microphthalmus</Synonym>
+		<Synonym>pseudoglioma congenita</Synonym>
+		<Synonym>Whitnall-Norman syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000739-1" qtype="information">What is (are) Norrie disease ?</Question>
+			<Answer>Norrie disease is an inherited eye disorder that leads to blindness in male infants at birth or soon after birth. It causes abnormal development of the retina, the layer of sensory cells that detect light and color, with masses of immature retinal cells accumulating at the back of the eye. As a result, the pupils appear white when light is shone on them, a sign called leukocoria. The irises (colored portions of the eyes) or the entire eyeballs may shrink and deteriorate during the first months of life, and cataracts (cloudiness in the lens of the eye) may eventually develop.  About one third of individuals with Norrie disease develop progressive hearing loss, and more than half experience developmental delays in motor skills such as sitting up and walking. Other problems may include mild to moderate intellectual disability, often with psychosis, and abnormalities that can affect circulation, breathing, digestion, excretion, or reproduction.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000739-2" qtype="frequency">How many people are affected by Norrie disease ?</Question>
+			<Answer>Norrie disease is a rare disorder; its exact incidence is unknown. It is not associated with any specific racial or ethnic group.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000739-3" qtype="genetic changes">What are the genetic changes related to Norrie disease ?</Question>
+			<Answer>Mutations in the NDP gene cause Norrie disease.  The NDP gene provides instructions for making a protein called norrin. Norrin participates in the Wnt cascade, a sequence of steps that affect the way cells and tissues develop. In particular, norrin seems to play a critical role in the specialization of retinal cells for their unique sensory capabilities. It is also involved in the establishment of a blood supply to tissues of the retina and the inner ear, and the development of other body systems.  In order to initiate the Wnt cascade, norrin must bind (attach) to another protein called frizzled-4. Mutations in the norrin protein interfere with its ability to bind to frizzled-4, resulting in the signs and symptoms of Norrie disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000739-4" qtype="inheritance">Is Norrie disease inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one altered copy of the gene in each cell is called a carrier. She can pass on the gene, but generally does not experience signs and symptoms of the disorder. In rare cases, however, carrier females have shown some retinal abnormalities or mild hearing loss associated with Norrie disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000739-5" qtype="treatment">What are the treatments for Norrie disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Norrie disease:  - Gene Review: Gene Review: NDP-Related Retinopathies  - Genetic Testing Registry: Atrophia bulborum hereditaria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

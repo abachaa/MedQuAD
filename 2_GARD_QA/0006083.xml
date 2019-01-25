@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006083" source="GARD" url="https://rarediseases.info.nih.gov/gard/9430/thrombotic-thrombocytopenic-purpura-congenital">
+<Focus>Thrombotic thrombocytopenic purpura, congenital</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1268935</CUI>
+			<CUI>C0034150</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TTP, congenital</Synonym>
+		<Synonym>Thrombotic thrombocytopenic purpura, familial</Synonym>
+		<Synonym>Microangiopathic hemolytic anemia</Synonym>
+		<Synonym>Upshaw-Schulman syndrome</Synonym>
+		<Synonym>USS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006083-1" qtype="information">What is (are) Thrombotic thrombocytopenic purpura, congenital ?</Question>
+			<Answer>Thrombotic thrombocytopenic purpura (TTP), congenital is a blood disorder characterized by low platelets (i.e., thrombocytopenia), small areas of bleeding under the skin (i.e., purpura), low red blood cell count, and hemolytic anemia. TTP causes blood clots (thrombi) to form in small blood vessels throughout the body. These clots can cause serious medical problems if they block vessels and restrict blood flow to organs such as the brain, kidneys, and heart. Resulting complications can include neurological problems (such as personality changes, headaches, confusion, and slurred speech), fever, abnormal kidney function, abdominal pain, and heart problems. Hemolytic anemia can lead to paleness, yellowing of the eyes and skin (jaundice), fatigue, shortness of breath, and a rapid heart rate. TTP, congenital is much rarer than the acquired form and typically appears in infancy or early childhood. Signs and symptoms often recur on a regular basis. TTP, congenital results from mutations in the ADAMTS13 gene. The condition is inherited in an autosomal recessive manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006083-2" qtype="symptoms">What are the symptoms of Thrombotic thrombocytopenic purpura, congenital ?</Question>
+			<Answer>What are the signs and symptoms of Thrombotic thrombocytopenic purpura, congenital? The Human Phenotype Ontology provides the following list of signs and symptoms for Thrombotic thrombocytopenic purpura, congenital. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Respiratory distress 5% Autosomal recessive inheritance - Confusion - Elevated serum creatinine - Fever - Hemolytic-uremic syndrome - Heterogeneous - Increased blood urea nitrogen (BUN) - Increased serum lactate - Microangiopathic hemolytic anemia - Microscopic hematuria - Prolonged neonatal jaundice - Proteinuria - Reticulocytosis - Schistocytosis - Thrombocytopenia - Tremor - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

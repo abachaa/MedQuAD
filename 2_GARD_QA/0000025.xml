@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000025" source="GARD" url="https://rarediseases.info.nih.gov/gard/8604/acanthoma">
+<Focus>Acanthoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0846967</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000025-1" qtype="information">What is (are) Acanthoma ?</Question>
+			<Answer>An acanthoma is a small, reddish bump that usually develops on the skin of an older adult.  There are several types of acanthoma, including &quot;acantholytic&quot;, &quot;epidermolytic&quot;, &quot;clear cell&quot;, and &quot;melanoacanthoma&quot;.  Though most individuals have only one acanthoma, there have been rare reports of individuals who have developed many.  The exact cause of acanthoma is not known; it is sometimes called a benign tumor, and sometimes described as the result of inflammation.  Acanthomas are not considered dangerous and do not require treatment, but they may be removed for cosmetic reasons or to relieve any associated symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000025-2" qtype="treatment">What are the treatments for Acanthoma ?</Question>
+			<Answer>How might an acanthoma be treated? Acanthomas are considered benign, but treatment may be done for cosmetic reasons or to relieve any associated symptoms.  Because acanthomas are quite rare, there are no established guidelines for treatment.  Treatment may depend on the type, number, and location of acanthomas.  For example, a single acanthoma may be removed by surgery, whereas multiple acanthomas may be treated with cryosurgery or the use of the medication fluorouracil cream.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

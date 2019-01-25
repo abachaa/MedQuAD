@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001007" source="GHR" url="https://ghr.nlm.nih.gov/condition/ulcerative-colitis">
+<Focus>ulcerative colitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009324</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>colitis gravis</Synonym>
+		<Synonym>idiopathic proctocolitis</Synonym>
+		<Synonym>inflammatory bowel disease, ulcerative colitis type</Synonym>
+		<Synonym>UC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001007-1" qtype="information">What is (are) ulcerative colitis ?</Question>
+			<Answer>Ulcerative colitis is a chronic disorder that affects the digestive system. This condition is characterized by abnormal inflammation of the inner surface of the rectum and colon, which make up most of the length of the large intestine. The inflammation usually causes open sores (ulcers) to develop in the large intestine. Ulcerative colitis usually appears between ages 15 and 30, although it can develop at any age. The inflammation tends to flare up multiple times throughout life, which causes recurring signs and symptoms.  The most common symptoms of ulcerative colitis are abdominal pain and cramping and frequent diarrhea, often with blood, pus, or mucus in the stool. Other signs and symptoms include nausea, loss of appetite, fatigue, and fevers. Chronic bleeding from the inflamed and ulcerated intestinal tissue can cause a shortage of red blood cells (anemia) in some affected individuals. People with this disorder have difficulty absorbing enough fluids and nutrients from their diet and often experience weight loss. Affected children usually grow more slowly than normal. Less commonly, ulcerative colitis causes problems with the skin, joints, eyes, kidneys, or liver, which are most likely due to abnormal inflammation.  Toxic megacolon is a rare complication of ulcerative colitis that can be life-threatening. Toxic megacolon involves widening of the colon and an overwhelming bacterial infection (sepsis). Ulcerative colitis also increases the risk of developing colon cancer, especially in people whose entire colon is inflamed and in people who have had ulcerative colitis for 8 or more years.  Ulcerative colitis is one common form of inflammatory bowel disease (IBD). Another type of IBD, Crohn disease, also causes chronic inflammation of the intestines. Unlike ulcerative colitis, which affects only the inner surface of the large intestine, Crohn disease can cause inflammation in any part of the digestive system, and the inflammation extends deeper into the intestinal tissue.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001007-2" qtype="frequency">How many people are affected by ulcerative colitis ?</Question>
+			<Answer>Ulcerative colitis is most common in North America and Western Europe; however the prevalence is increasing in other regions. In North America, ulcerative colitis affects approximately 40 to 240 in 100,000 people. It is estimated that more than 750,000 North Americans are affected by this disorder. Ulcerative colitis is more common in whites and people of eastern and central European (Ashkenazi) Jewish descent than among people of other ethnic backgrounds.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001007-3" qtype="genetic changes">What are the genetic changes related to ulcerative colitis ?</Question>
+			<Answer>A variety of genetic and environmental factors are likely involved in the development of ulcerative colitis. Recent studies have identified variations in dozens of genes that may be linked to ulcerative colitis; however, the role of these variations is not completely understood. Researchers speculate that this condition may result from changes in the intestinal lining&apos;s protective function or an abnormal immune response to the normal bacteria in the digestive tract, both of which may be influenced by genetic variations.  Several of the genes that may be associated with ulcerative colitis are involved in the protective function of the intestines. The inner surface of the intestines provides a barrier that protects the body&apos;s tissues from the bacteria that live in the intestines and from toxins that pass through the digestive tract. Researchers speculate that a breakdown of this barrier allows contact between the intestinal tissue and the bacteria and toxins, which can trigger an immune reaction. This immune response may lead to chronic inflammation and the digestive problems characteristic of ulcerative colitis.  Other possible disease-associated genes are involved in the immune system, particularly in the maturation and function of immune cells called T cells. T cells identify foreign substances and defend the body against infection. Certain genetic variations may make some individuals more prone to an overactive immune response to the bacteria and other microbes in the intestines, which may cause the chronic inflammation that occurs in ulcerative colitis. Another possible explanation is that ulcerative colitis occurs when the immune system malfunctions and attacks the cells of the intestines, causing inflammation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001007-4" qtype="inheritance">Is ulcerative colitis inherited ?</Question>
+			<Answer>The inheritance pattern of ulcerative colitis is unknown because many genetic and environmental factors are likely to be involved. Even though the inheritance pattern of this condition is unclear, having a family member with ulcerative colitis increases the risk of developing the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001007-5" qtype="treatment">What are the treatments for ulcerative colitis ?</Question>
+			<Answer>These resources address the diagnosis or management of ulcerative colitis:  - American Society of Colon and Rectal Surgeons  - Cedars-Sinai  - Crohn&apos;s &amp; Colitis Foundation of America: Colitis Diagnosis and Testing  - Crohn&apos;s &amp; Colitis Foundation of America: Colitis Treatment Options  - Genetic Testing Registry: Inflammatory bowel disease 1  - MedlinePlus Encyclopedia: Ulcerative Colitis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

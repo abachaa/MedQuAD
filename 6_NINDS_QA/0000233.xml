@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000233" source="NINDS" url="http://www.ninds.nih.gov/disorders/piriformis_syndrome/piriformis_syndrome.htm">
+<Focus>Piriformis Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0458224</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000233-1" qtype="information">What is (are) Piriformis Syndrome ?</Question>
+			<Answer>Piriformis syndrome is a rare neuromuscular disorder that occurs when the piriformis muscle compresses or irritates the sciatic nerve-the largest nerve in the body. The piriformis muscle is a narrow muscle located in the buttocks. Compression of the sciatic nerve causes pain-frequently described as tingling or numbness-in the buttocks and along the nerve, often down to the leg. The pain may worsen as a result of sitting for a long period of time, climbing stairs, walking, or running.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000233-2" qtype="treatment">What are the treatments for Piriformis Syndrome ?</Question>
+			<Answer>Generally, treatment for the disorder begins with stretching exercises and massage. Anti-inflammatory drugs may be prescribed. Cessation of running, bicycling, or similar activities may be advised. A corticosteroid injection near where the piriformis muscle and the sciatic nerve meet may provide temporary relief. In some cases, surgery is recommended.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000233-3" qtype="outlook">What is the outlook for Piriformis Syndrome ?</Question>
+			<Answer>The prognosis for most individuals with piriformis syndrome is good. Once symptoms of the disorder are addressed, individuals can usually resume their normal activities. In some cases, exercise regimens may need to be modified in order to reduce the likelihood of recurrence or worsening.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000233-4" qtype="research">what research (or clinical trials) is being done for Piriformis Syndrome ?</Question>
+			<Answer>Within the NINDS research programs, piriformis syndrome is addressed primarily through studies associated with pain research. NINDS vigorously pursues a research program seeking new treatments for pain and nerve damage with the ultimate goal of reversing debilitating conditions such as piriformis syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

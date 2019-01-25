@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000051" source="GHR" url="https://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly">
+<Focus>Amish lethal microcephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3151529</CUI>
+			<CUI>C1846648</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Amish microcephaly</Synonym>
+		<Synonym>MCPHA</Synonym>
+		<Synonym>microcephaly, Amish type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000051-1" qtype="information">What is (are) Amish lethal microcephaly ?</Question>
+			<Answer>Amish lethal microcephaly is a disorder in which infants are born with a very small head and underdeveloped brain.  Infants with Amish lethal microcephaly have a sloping forehead and an extremely small head size. They may also have an unusually small lower jaw and chin (micrognathia) and an enlarged liver (hepatomegaly).  Affected infants may have seizures and difficulty maintaining their body temperature. Often they become very irritable starting in the second or third month of life. A compound called alpha-ketoglutaric acid can be detected in their urine (alpha-ketoglutaric aciduria), and during episodes of viral illness they tend to develop elevated levels of acid in the blood and tissues (metabolic acidosis). Infants with this disorder typically feed adequately but do not develop skills such as purposeful movement or the ability to track faces and sounds. Affected infants live only about six months.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000051-2" qtype="frequency">How many people are affected by Amish lethal microcephaly ?</Question>
+			<Answer>Amish lethal microcephaly occurs in approximately 1 in 500 newborns in the Old Order Amish population of Pennsylvania. It has not been found outside this population.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000051-3" qtype="genetic changes">What are the genetic changes related to Amish lethal microcephaly ?</Question>
+			<Answer>Mutations in the SLC25A19 gene cause Amish lethal microcephaly.  The SLC25A19 gene provides instructions for producing a protein that is a member of the solute carrier (SLC) family of proteins. Proteins in the SLC family transport various compounds across the membranes surrounding the cell and its component parts. The protein produced from the SLC25A19 gene transports a molecule called thiamine pyrophosphate into the mitochondria, the energy-producing centers of cells. This compound is involved in the activity of a group of mitochondrial enzymes called the dehydrogenase complexes, one of which is the alpha-ketoglutarate dehydrogenase complex. The transport of thiamine pyrophosphate into the mitochondria is believed to be important in brain development.  All known individuals with Amish lethal microcephaly have a mutation in which the protein building block (amino acid) alanine is substituted for the amino acid glycine at position 177 of the SLC25A19 protein, written as Gly177Ala or G177A. Researchers believe that this mutation interferes with the transport of thiamine pyrophosphate into the mitochondria and the activity of the alpha-ketoglutarate dehydrogenase complex, resulting in the abnormal brain development and alpha-ketoglutaric aciduria seen in Amish lethal microcephaly.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000051-4" qtype="inheritance">Is Amish lethal microcephaly inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000051-5" qtype="treatment">What are the treatments for Amish lethal microcephaly ?</Question>
+			<Answer>These resources address the diagnosis or management of Amish lethal microcephaly:  - Gene Review: Gene Review: Amish Lethal Microcephaly  - Genetic Testing Registry: Amish lethal microcephaly  - MedlinePlus Encyclopedia: Microcephaly   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

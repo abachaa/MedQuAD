@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000389" source="GHR" url="https://ghr.nlm.nih.gov/condition/frontometaphyseal-dysplasia">
+<Focus>frontometaphyseal dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265293</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FMD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000389-1" qtype="information">What is (are) frontometaphyseal dysplasia ?</Question>
+			<Answer>Frontometaphyseal dysplasia is a disorder involving abnormalities in skeletal development and other health problems. It is a member of a group of related conditions called otopalatodigital spectrum disorders, which also includes otopalatodigital syndrome type 1, otopalatodigital syndrome type 2, and Melnick-Needles syndrome. In general, these disorders involve hearing loss caused by malformations in the tiny bones in the ears (ossicles), problems in the development of the roof of the mouth (palate), and skeletal abnormalities involving the fingers and/or toes (digits).  Frontometaphyseal dysplasia is distinguished from the other otopalatodigital spectrum disorders by the presence of joint deformities called contractures that restrict the movement of certain joints. People with frontometaphyseal dysplasia may also have bowed limbs, an abnormal curvature of the spine (scoliosis), and abnormalities of the fingers and hands.  Characteristic facial features may include prominent brow ridges; wide-set and downward-slanting eyes; a very small lower jaw and chin (micrognathia); and small, missing or misaligned teeth. Some affected individuals have hearing loss.  In addition to skeletal abnormalities, individuals with frontometaphyseal dysplasia may have obstruction of the ducts between the kidneys and bladder (ureters), heart defects, or constrictions in the passages leading from the windpipe to the lungs (the bronchi) that can cause problems with breathing.  Males with frontometaphyseal dysplasia generally have more severe signs and symptoms of the disorder than do females, who may show only the characteristic facial features.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000389-2" qtype="frequency">How many people are affected by frontometaphyseal dysplasia ?</Question>
+			<Answer>Frontometaphyseal dysplasia is a rare disorder; only a few dozen cases have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000389-3" qtype="genetic changes">What are the genetic changes related to frontometaphyseal dysplasia ?</Question>
+			<Answer>Mutations in the FLNA gene cause frontometaphyseal dysplasia.  The FLNA gene provides instructions for producing the protein filamin A, which helps build the network of protein filaments (cytoskeleton) that gives structure to cells and allows them to change shape and move. Filamin A binds to another protein called actin, and helps the actin to form the branching network of filaments that make up the cytoskeleton. Filamin A also links actin to many other proteins to perform various functions within the cell.  A small number of mutations in the FLNA gene have been identified in people with frontometaphyseal dysplasia. These mutations are described as &quot;gain-of-function&quot; because they appear to enhance the activity of the filamin A protein or give the protein a new, atypical function. Researchers believe that the mutations may change the way the filamin A protein helps regulate processes involved in skeletal development, but it is not known how changes in the protein relate to the specific signs and symptoms of frontometaphyseal dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000389-4" qtype="inheritance">Is frontometaphyseal dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked dominant pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell is sufficient to cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In most cases, males experience more severe symptoms of the disorder than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000389-5" qtype="treatment">What are the treatments for frontometaphyseal dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of frontometaphyseal dysplasia:  - Gene Review: Gene Review: Otopalatodigital Spectrum Disorders  - Genetic Testing Registry: Frontometaphyseal dysplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004557" source="GARD" url="https://rarediseases.info.nih.gov/gard/9890/optic-atrophy-1">
+<Focus>Optic atrophy 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0333641</CUI>
+			<CUI>C0338508</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>OPA1</Synonym>
+		<Synonym>Optic atrophy, juvenile</Synonym>
+		<Synonym>Kjer-type optic atrophy</Synonym>
+		<Synonym>Optic atrophy, Kjer type</Synonym>
+		<Synonym>OAK</Synonym>
+		<Synonym>Dominant optic atrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004557-1" qtype="information">What is (are) Optic atrophy 1 ?</Question>
+			<Answer>Optic atrophy 1 is a condition that mainly affects vision, but may include other features. Vision loss typically begins within the first decade of life; severity varies widely among affected people (from nearly normal vision to complete blindness), even among members of the same family. Vision problems may include difficulty distinguishing colors, progressive narrowing of the field of vision (tunnel vision) and an abnormally pale appearance (pallor) of the optic nerve. Additional, less common abnormalities may include sensorineural hearing loss, ataxia, myopathy (muscle disease) and other neurological findings. It is usually caused by mutations in the OPA1 gene, although some individuals with optic atrophy 1 do not have identified mutations in this gene, in which case the cause of the condition is unknown. This condition is inherited in an autosomal dominant pattern but some cases result from a new mutation in the gene and occur in people with no history of the disorder in their family. Treatment focuses on individual symptoms when possible.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004557-2" qtype="symptoms">What are the symptoms of Optic atrophy 1 ?</Question>
+			<Answer>What are the signs and symptoms of Optic atrophy 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Optic atrophy 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Strabismus 10% Horizontal nystagmus 5% Progressive external ophthalmoplegia 48/104 Proximal muscle weakness 37/104 Ataxia 31/104 Abnormal amplitude of pattern reversal visual evoked potentials - Autosomal dominant inheritance - Central scotoma - Centrocecal scotoma - Incomplete penetrance - Insidious onset - Optic atrophy - Red-green dyschromatopsia - Reduced visual acuity - Tritanomaly - Visual impairment - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

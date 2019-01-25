@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000843" source="GHR" url="https://ghr.nlm.nih.gov/condition/pseudocholinesterase-deficiency">
+<Focus>pseudocholinesterase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268379</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>butyrylcholinesterase deficiency</Synonym>
+		<Synonym>cholinesterase II deficiency</Synonym>
+		<Synonym>deficiency of butyrylcholine esterase</Synonym>
+		<Synonym>pseudocholinesterase E1 deficiency</Synonym>
+		<Synonym>succinylcholine sensitivity</Synonym>
+		<Synonym>suxamethonium sensitivity</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000843-1" qtype="information">What is (are) pseudocholinesterase deficiency ?</Question>
+			<Answer>Pseudocholinesterase deficiency is a condition that results in increased sensitivity to certain muscle relaxant drugs used during general anesthesia, called choline esters. These fast-acting drugs, such as succinylcholine and mivacurium, are given to relax the muscles used for movement (skeletal muscles), including the muscles involved in breathing. The drugs are often employed for brief surgical procedures or in emergencies when a breathing tube must be inserted quickly. Normally, these drugs are broken down (metabolized) by the body within a few minutes of being administered, at which time the muscles can move again. However, people with pseudocholinesterase deficiency may not be able to move or breathe on their own for a few hours after the drugs are administered. Affected individuals must be supported with a machine to help them breathe (mechanical ventilation) until the drugs are cleared from the body.  People with pseudocholinesterase deficiency may also have increased sensitivity to certain other drugs, including the local anesthetic procaine, and to specific agricultural pesticides. The condition causes no other signs or symptoms and is usually not discovered until an abnormal drug reaction occurs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000843-2" qtype="frequency">How many people are affected by pseudocholinesterase deficiency ?</Question>
+			<Answer>Pseudocholinesterase deficiency occurs in 1 in 3,200 to 1 in 5,000 people. It is more common in certain populations, such as the Persian Jewish community and Alaska Natives.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000843-3" qtype="genetic changes">What are the genetic changes related to pseudocholinesterase deficiency ?</Question>
+			<Answer>Pseudocholinesterase deficiency can be caused by mutations in the BCHE gene. This gene provides instructions for making the pseudocholinesterase enzyme, also known as butyrylcholinesterase, which is produced by the liver and circulates in the blood. The pseudocholinesterase enzyme is involved in the breakdown of choline ester drugs. It is likely that the enzyme has other functions in the body, but these functions are not well understood. Studies suggest that the enzyme may be involved in the transmission of nerve signals.  Some BCHE gene mutations that cause pseudocholinesterase deficiency result in an abnormal pseudocholinesterase enzyme that does not function properly. Other mutations prevent the production of the pseudocholinesterase enzyme. A lack of functional pseudocholinesterase enzyme impairs the body&apos;s ability to break down choline ester drugs efficiently, leading to abnormally prolonged drug effects.  Pseudocholinesterase deficiency can also have nongenetic causes. In these cases, the condition is called acquired pseudocholinesterase deficiency; it is not inherited and cannot be passed to the next generation. Activity of the pseudocholinesterase enzyme can be impaired by kidney or liver disease, malnutrition, major burns, cancer, or certain drugs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000843-4" qtype="inheritance">Is pseudocholinesterase deficiency inherited ?</Question>
+			<Answer>When due to genetic causes, this condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive disorder have one copy of the altered gene in each cell and are called carriers. They can pass on the gene mutation to their children, but they do not usually experience signs and symptoms of the disorder. In some cases, carriers of BCHE gene mutations take longer than usual to clear choline ester drugs from the body, but not as long as those with two copies of the altered gene in each cell.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000843-5" qtype="treatment">What are the treatments for pseudocholinesterase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of pseudocholinesterase deficiency:  - MedlinePlus Encyclopedia: Cholinesterase (blood test)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000310" source="GHR" url="https://ghr.nlm.nih.gov/condition/dystrophic-epidermolysis-bullosa">
+<Focus>dystrophic epidermolysis bullosa</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079294</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Epidermolysis Bullosa Dystrophica</Synonym>
+		<Synonym>Epidermolysis Bullosa, Dystrophic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000310-1" qtype="information">What is (are) dystrophic epidermolysis bullosa ?</Question>
+			<Answer>Epidermolysis bullosa is a group of genetic conditions that cause the skin to be very fragile and to blister easily. Blisters and skin erosions form in response to minor injury or friction, such as rubbing or scratching. Dystrophic epidermolysis bullosa (DEB) is one of the major forms of epidermolysis bullosa. The signs and symptoms of this condition vary widely among affected individuals. In mild cases, blistering may primarily affect the hands, feet, knees, and elbows. Severe cases of this condition involve widespread blistering that can lead to vision loss, disfigurement, and other serious medical problems.  Researchers classify dystrophic epidermolysis bullosa into three major types. Although the types differ in severity, their features overlap significantly and they are caused by mutations in the same gene.  Autosomal recessive dystrophic epidermolysis bullosa, Hallopeau-Siemens type (RDEB-HS) is the most severe, classic form of the condition. Affected infants are typically born with widespread blistering and areas of missing skin, often caused by trauma during birth. Most often, blisters are present over the whole body and affect mucous membranes such as the moist lining of the mouth and digestive tract. As the blisters heal, they result in severe scarring. Scarring in the mouth and esophagus can make it difficult to chew and swallow food, leading to chronic malnutrition and slow growth. Additional complications of progressive scarring can include fusion of the fingers and toes, loss of fingernails and toenails, joint deformities (contractures) that restrict movement, and eye inflammation leading to vision loss. Additionally, young adults with the classic form of dystrophic epidermolysis bullosa have a very high risk of developing a form of skin cancer called squamous cell carcinoma, which tends to be unusually aggressive and is often life-threatening.  A second type of autosomal recessive dystrophic epidermolysis bullosa is known as the non-Hallopeau-Siemens type (non-HS RDEB). This form of the condition is somewhat less severe than the classic type and includes a range of subtypes. Blistering is limited to the hands, feet, knees, and elbows in mild cases, but may be widespread in more severe cases. Affected people often have malformed fingernails and toenails. Non-HS RDEB involves scarring in the areas where blisters occur, but this form of the condition does not cause the severe scarring characteristic of the classic type.  The third major type of dystrophic epidermolysis bullosa is known as the autosomal dominant type (DDEB). The signs and symptoms of this condition tend to be milder than those of the autosomal recessive forms, with blistering often limited to the hands, feet, knees, and elbows. The blisters heal with scarring, but it is less severe. Most affected people have malformed fingernails and toenails, and the nails may be lost over time. In the mildest cases, abnormal nails are the only sign of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000310-2" qtype="frequency">How many people are affected by dystrophic epidermolysis bullosa ?</Question>
+			<Answer>Considered together, the incidence of all types of dystrophic epidermolysis bullosa is estimated to be 6.5 per million newborns in the United States. The severe autosomal recessive forms of this disorder affect fewer than 1 per million newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000310-3" qtype="genetic changes">What are the genetic changes related to dystrophic epidermolysis bullosa ?</Question>
+			<Answer>Mutations in the COL7A1 gene cause all three major forms of dystrophic epidermolysis bullosa. This gene provides instructions for making a protein that is used to assemble type VII collagen. Collagens are molecules that give structure and strength to connective tissues, such as skin, tendons, and ligaments, throughout the body. Type VII collagen plays an important role in strengthening and stabilizing the skin. It is the main component of structures called anchoring fibrils, which anchor the top layer of skin, called the epidermis, to an underlying layer called the dermis.  COL7A1 mutations alter the structure or disrupt the production of type VII collagen, which impairs its ability to help connect the epidermis to the dermis. When type VII collagen is abnormal or missing, friction or other minor trauma can cause the two skin layers to separate. This separation leads to the formation of blisters, which can cause extensive scarring as they heal. Researchers are working to determine how abnormalities of type VII collagen also underlie the increased risk of skin cancer seen in the severe form of dystrophic epidermolysis bullosa.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000310-4" qtype="inheritance">Is dystrophic epidermolysis bullosa inherited ?</Question>
+			<Answer>The most severe types of dystrophic epidermolysis bullosa are inherited in an autosomal recessive pattern. Autosomal recessive inheritance means that both copies of the COL7A1 gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.  A milder form of dystrophic epidermolysis bullosa has an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means that one copy of the altered gene in each cell is sufficient to cause the disorder. About 70 percent of all people with autosomal dominant dystrophic epidermolysis bullosa have inherited an altered COL7A1 gene from an affected parent. The remaining 30 percent of affected people have the condition as a result of a new mutation in the COL7A1 gene. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000310-5" qtype="treatment">What are the treatments for dystrophic epidermolysis bullosa ?</Question>
+			<Answer>These resources address the diagnosis or management of dystrophic epidermolysis bullosa:  - Gene Review: Gene Review: Dystrophic Epidermolysis Bullosa  - Genetic Testing Registry: Dystrophic epidermolysis bullosa  - Genetic Testing Registry: Generalized dominant dystrophic epidermolysis bullosa  - Genetic Testing Registry: Recessive dystrophic epidermolysis bullosa  - MedlinePlus Encyclopedia: Epidermolysis bullosa  - MedlinePlus Encyclopedia: Squamous Cell Skin Cancer   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

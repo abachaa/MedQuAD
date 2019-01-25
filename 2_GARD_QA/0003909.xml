@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003909" source="GARD" url="https://rarediseases.info.nih.gov/gard/2436/menetrier-disease">
+<Focus>Menetrier disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2936660</CUI>
+			<CUI>C0017155</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Giant hypertrophic gastritis</Synonym>
+		<Synonym>Giant hypertrophic gastropathy</Synonym>
+		<Synonym>Gastroenteropathy, protein losing</Synonym>
+		<Synonym>Giant hypertrophy of the gastric mucosa</Synonym>
+		<Synonym>Hypertrophic gastropathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003909-1" qtype="information">What is (are) Menetrier disease ?</Question>
+			<Answer>Mntrier disease is a condition characterized by inflammation and ulcers of the mucosa (inner lining) of the stomach and by overgrowth of the cells that make up the mucosa. The condition is associated with the following signs: protein loss from the stomach, excessive mucus production, and hypochlorhydria (low levels of stomach acid) or achlorhydia (absent levels of stomach acid).   Symptoms usually include vomiting, diarrhea, and weight loss. The disease may increase an individual&apos;s risk of developing stomach cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003909-2" qtype="symptoms">What are the symptoms of Menetrier disease ?</Question>
+			<Answer>What are the signs and symptoms of Menetrier disease? Although some patients with Mntrier disease may not experience symptoms, most patients have stomach pain, diarrhea, weight loss, peripheral edema, and sometimes bleeding. The Human Phenotype Ontology provides the following list of signs and symptoms for Menetrier disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal pain 90% Edema of the lower limbs 90% Nausea and vomiting 90% Anorexia 50% Gastrointestinal hemorrhage 50% Hypoproteinemia 50% Iron deficiency anemia 50% Weight loss 50% Sepsis 7.5% Giant hypertrophic gastritis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003909-3" qtype="causes">What causes Menetrier disease ?</Question>
+			<Answer>What causes Mntrier disease? The exact cause of Mntrier disease is unknown.  However, it has been associated with cytomegalovirus (CMV) infection in children and Heliobacter pylori (H. pylori) infection in adults. In addition, some have suggested that overexpression of a type of growth factor called the transforming growth factor-, which is found in a specific part of the stomach, the superficial gastric epithelium, might play a role.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003909-4" qtype="treatment">What are the treatments for Menetrier disease ?</Question>
+			<Answer>What treatment is available for Mntrier disease? No one treatment has proven effective for all patients with Mntrier disease; however, some benefit has been shown through the use of anticholinergic drugs, acid suppression, octreotide, and H. pylori eradication. Partial or complete removal of the stomach is generally recommended for those patients who continue to have protein loss or who have signs of pre-cancer or cancer. You can locate additional treatment information by searching PubMed, a searchable database of medical literature. Information on finding an article and its title, authors, and publishing details is listed here.  Some articles are available as a complete document, while information on other studies is available as a summary abstract.  To obtain the full article, contact a medical/university library (or your local library for interlibrary loan), or order it online using the following link. Using &quot;menetrier disease AND treatment&quot; as your search term should locate articles. To narrow your search, click on the Limits tab under the search box and specify your criteria for locating more relevant articles.  Click here to view a search. http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed The National Library of Medicine (NLM) Web site has a page for locating libraries in your area that can provide direct access to these journals (print or online). The Web page also describes how you can get these articles through interlibrary loan and Loansome Doc (an NLM document-ordering service). You can access this page at the following link http://nnlm.gov/members/. You can also contact the NLM toll-free at 888-346-3656 to locate libraries in your area.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

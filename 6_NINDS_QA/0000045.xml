@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000045" source="NINDS" url="http://www.ninds.nih.gov/disorders/pseudotumorcerebri/pseudotumorcerebri.htm">
+<Focus>Pseudotumor Cerebri</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033845</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000045-1" qtype="information">What is (are) Pseudotumor Cerebri ?</Question>
+			<Answer>Pseudotumor cerebri literally means &quot;false brain tumor.&quot; It is likely due to high pressure within the skull caused by the buildup or poor absorption of cerebrospinal fluid (CSF). The disorder is most common in women between the ages of 20 and 50. Symptoms of pseudotumor cerebri, which include headache, nausea, vomiting, and pulsating sounds within the head, closely mimic symptoms of large brain tumors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000045-2" qtype="treatment">What are the treatments for Pseudotumor Cerebri ?</Question>
+			<Answer>Obesity, other treatable diseases, and some medications can cause raised intracranial pressure and symptoms of pseudotumor cerebri. A thorough medical history and physical examination is needed to evaluate these factors. If a diagnosis of pseudotumor cerebri is confirmed, close, repeated ophthalmologic exams are required to monitor any changes in vision. Drugs may be used to reduce fluid buildup and to relieve pressure. Weight loss through dieting or weight loss surgery and cessation of certain drugs (including oral contraceptives, tetracycline, and a variety of steroids) may lead to improvement. Surgery may be needed to remove pressure on the optic nerve. Therapeutic shunting, which involves surgically inserting a tube to drain CSF from the lower spine into the abdominal cavity, may be needed to remove excess CSF and relieve CSF pressure.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000045-3" qtype="outlook">What is the outlook for Pseudotumor Cerebri ?</Question>
+			<Answer>The disorder may cause progressive, permanent visual loss in some patients. In some cases, pseudotumor cerebri recurs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000045-4" qtype="research">what research (or clinical trials) is being done for Pseudotumor Cerebri ?</Question>
+			<Answer>The NINDS conducts and supports research on disorders of the brain and nervous system, including pseudotumor cerebri. This research focuses primarily on increasing scientific understanding of these disorders and finding ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000944" source="GHR" url="https://ghr.nlm.nih.gov/condition/spondylocostal-dysostosis">
+<Focus>spondylocostal dysostosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265343</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Jarcho-Levin syndrome</Synonym>
+		<Synonym>SCDO</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000944-1" qtype="information">What is (are) spondylocostal dysostosis ?</Question>
+			<Answer>Spondylocostal dysostosis is a group of conditions characterized by abnormal development of bones in the spine and ribs. The bones of the spine (vertebrae) are misshapen and abnormally joined together (fused). Many people with this condition have abnormal side-to-side curvature of the spine (scoliosis) due to malformation of the vertebrae. In addition to spine abnormalities, some of the rib bones may be fused together or missing. Affected individuals have short, rigid necks and short midsections because of the bone malformations. As a result, people with spondylocostal dysostosis have short bodies but normal length arms and legs, called short-trunk dwarfism.  The spine and rib abnormalities cause other signs and symptoms of spondylocostal dysostosis. Infants with this condition are born with small chests that cannot expand adequately, often leading to life-threatening breathing problems. As the lungs expand in the narrow chest, the muscle that separates the abdomen from the chest cavity (the diaphragm) is forced down and the abdomen is pushed out. The increased pressure in the abdomen can cause a soft out-pouching around the lower abdomen (inguinal hernia), particularly in males with spondylocostal dysostosis.  There are several types of spondylocostal dysostosis, designated types 1 through 4 and the autosomal dominant (AD) type. These types have similar features and are distinguished by their genetic cause and inheritance pattern. Spondylocostal dysostosis has often been grouped with a similar condition called spondylothoracic dysostosis, and both are called Jarcho-Levin syndrome; however, they are now considered distinct conditions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000944-2" qtype="frequency">How many people are affected by spondylocostal dysostosis ?</Question>
+			<Answer>Spondylocostal dysostosis is a rare condition, although its exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000944-3" qtype="genetic changes">What are the genetic changes related to spondylocostal dysostosis ?</Question>
+			<Answer>Mutations in at least four genes are known to cause spondylocostal dysostosis: Mutations in the DLL3 gene cause spondylocostal dysostosis type 1; mutations in the MESP2 gene cause spondylocostal dysostosis type 2; mutations in the LFNG gene cause spondylocostal dysostosis type 3; and mutations in the HES7 gene cause spondylocostal dysostosis type 4. The genetic cause of AD spondylocostal dysostosis is unknown.  The DLL3, MESP2, LFNG, and HES7 genes play a role in the Notch signaling pathway, an important pathway in embryonic development. One of the functions of the Notch pathway is separating future vertebrae from one another during early development, a process called somite segmentation. When this pathway is disrupted, somite segmentation does not occur properly, resulting in the malformation and fusion of the bones of the spine and ribs seen in spondylocostal dysostosis.  Mutations in the four identified genes account for approximately 25 percent of diagnosed spondylocostal dysostosis. Researchers suggest that additional genes in the Notch signaling pathway might also be involved.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000944-4" qtype="inheritance">Is spondylocostal dysostosis inherited ?</Question>
+			<Answer>Spondylocostal dysostosis can have different inheritance patterns. Types 1, 2, 3, and 4 are inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. AD spondylocostal dysostosis is inherited in an autosomal dominant pattern. Autosomal dominant inheritance means that one copy of an altered gene in each cell is sufficient to cause the disorder, although in these cases no causative genes have been identified. The signs and symptoms of spondylocostal dysostosis are typically more severe with autosomal recessive inheritance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000944-5" qtype="treatment">What are the treatments for spondylocostal dysostosis ?</Question>
+			<Answer>These resources address the diagnosis or management of spondylocostal dysostosis:  - Gene Review: Gene Review: Spondylocostal Dysostosis, Autosomal Recessive  - Genetic Testing Registry: Jarcho-Levin syndrome  - Genetic Testing Registry: Spondylocostal dysostosis 1  - Genetic Testing Registry: Spondylocostal dysostosis 2  - Genetic Testing Registry: Spondylocostal dysostosis 3  - Genetic Testing Registry: Spondylocostal dysostosis 4, autosomal recessive  - KidsHealth: X-Ray Exam (Scoliosis)  - MedlinePlus Encyclopedia: Scoliosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000126" source="NINDS" url="http://www.ninds.nih.gov/disorders/periodic_paralysis/periodic_paralysis.htm">
+<Focus>Familial Periodic Paralyses</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0522224</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000126-1" qtype="information">What is (are) Familial Periodic Paralyses ?</Question>
+			<Answer>Familial periodic paralyses are a group of inherited neurological disorders caused by mutations in genes that regulate sodium and calcium channels in nerve cells. They are characterized by episodes in which the affected muscles become slack, weak, and unable to contract. Between attacks, the affected muscles usually work as normal.
+                
+The two most common types of periodic paralyses are: Hypokalemic periodic paralysis is characterized by a fall in potassium levels in the blood. In individuals with this mutation attacks often begin in adolescence and are triggered by strenuous exercise, high carbohydrate meals, or by injection of insulin, glucose, or epinephrine. Weakness may be mild and limited to certain muscle groups, or more severe and affect the arms and legs. Attacks may last for a few hours or persist for several days. Some patients may develop chronic muscle weakness later in life. Hyperkalemic periodic paralysis is characterized by a rise in potassium levels in the blood. Attacks often begin in infancy or early childhood and are precipitated by rest after exercise or by fasting. Attacks are usually shorter, more frequent, and less severe than the hypokalemic form. Muscle spasms are common.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000126-2" qtype="treatment">What are the treatments for Familial Periodic Paralyses ?</Question>
+			<Answer>Treatment of the periodic paralyses focuses on preventing further attacks and relieving acute symptoms. Avoiding carbohydrate-rich meals and strenuous exercise, and taking acetazolamide daily may prevent hypokalemic attacks. Attacks can be managed by drinking a potassium chloride oral solution. Eating carbohydrate-rich, low-potassium foods, and avoiding strenuous exercise and fasting, can help prevent hyperkalemic attacks. Dichorphenamide may prevent attacks.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000126-3" qtype="outlook">What is the outlook for Familial Periodic Paralyses ?</Question>
+			<Answer>The prognosis for the familial periodic paralyses varies. Chronic attacks may result in progressive weakness that persists between attacks. Some cases respond well to treatment, which can prevent or reverse progressive muscle weakness.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000126-4" qtype="research">what research (or clinical trials) is being done for Familial Periodic Paralyses ?</Question>
+			<Answer>The NINDS conducts and supports research on neuromuscular disorders such as the familial periodic paralyses. These studies are aimed at increasing knowledge about these disorders and finding ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

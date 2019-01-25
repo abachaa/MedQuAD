@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000461" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-hemochromatosis">
+<Focus>hereditary hemochromatosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0392514</CUI>
+			<CUI>C0018995</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>bronze diabetes</Synonym>
+		<Synonym>bronzed cirrhosis</Synonym>
+		<Synonym>familial hemochromatosis</Synonym>
+		<Synonym>genetic hemochromatosis</Synonym>
+		<Synonym>haemochromatosis</Synonym>
+		<Synonym>HC</Synonym>
+		<Synonym>hemochromatosis</Synonym>
+		<Synonym>hereditary haemochromatosis</Synonym>
+		<Synonym>HH</Synonym>
+		<Synonym>HLAH</Synonym>
+		<Synonym>iron storage disorder</Synonym>
+		<Synonym>pigmentary cirrhosis</Synonym>
+		<Synonym>primary hemochromatosis</Synonym>
+		<Synonym>Troisier-Hanot-Chauffard syndrome</Synonym>
+		<Synonym>Von Recklenhausen-Applebaum disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000461-1" qtype="information">What is (are) hereditary hemochromatosis ?</Question>
+			<Answer>Hereditary hemochromatosis is a disorder that causes the body to absorb too much iron from the diet. The excess iron is stored in the body&apos;s tissues and organs, particularly the skin, heart, liver, pancreas, and joints. Because humans cannot increase the excretion of iron, excess iron can overload and eventually damage tissues and organs. For this reason, hereditary hemochromatosis is also called an iron overload disorder.  Early symptoms of hereditary hemochromatosis are nonspecific and may include fatigue, joint pain, abdominal pain, and loss of sex drive. Later signs and symptoms can include arthritis, liver disease, diabetes, heart abnormalities, and skin discoloration. The appearance and progression of symptoms can be affected by environmental and lifestyle factors such as the amount of iron in the diet, alcohol use, and infections.  Hereditary hemochromatosis is classified by type depending on the age of onset and other factors such as genetic cause and mode of inheritance. Type 1, the most common form of the disorder, and type 4 (also called ferroportin disease) begin in adulthood. Men with type 1 or type 4 hemochromatosis typically develop symptoms between the ages of 40 and 60, and women usually develop symptoms after menopause.  Type 2 hemochromatosis is a juvenile-onset disorder. Iron accumulation begins early in life, and symptoms may appear in childhood. By age 20, decreased or absent secretion of sex hormones is evident. Females usually begin menstruation in a normal manner, but menses stop after a few years. Males may experience delayed puberty or symptoms related to a shortage of sex hormones. If the disorder is untreated, heart disease becomes evident by age 30.  The onset of type 3 hemochromatosis is usually intermediate between types 1 and 2. Symptoms of type 3 hemochromatosis generally begin before age 30.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000461-2" qtype="frequency">How many people are affected by hereditary hemochromatosis ?</Question>
+			<Answer>Type 1 hemochromatosis is one of the most common genetic disorders in the United States, affecting about 1 million people. It most often affects people of Northern European descent. The other types of hemochromatosis are considered rare and have been studied in only a small number of families worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000461-3" qtype="genetic changes">What are the genetic changes related to hereditary hemochromatosis ?</Question>
+			<Answer>Mutations in the HAMP, HFE, HFE2, SLC40A1, and TFR2 genes cause hereditary hemochromatosis. Type 1 hemochromatosis results from mutations in the HFE gene, and type 2 hemochromatosis results from mutations in either the HFE2 or HAMP gene. Mutations in the TFR2 gene cause type 3 hemochromatosis, and mutations in the SLC40A1 gene cause type 4 hemochromatosis.  The proteins produced from these genes play important roles in regulating the absorption, transport, and storage of iron. Mutations in any of these genes impair the control of iron absorption during digestion and alter the distribution of iron to other parts of the body. As a result, iron accumulates in tissues and organs, which can disrupt their normal functions.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000461-4" qtype="inheritance">Is hereditary hemochromatosis inherited ?</Question>
+			<Answer>Types 1, 2, and 3 hemochromatosis are inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene but do not show signs and symptoms of the condition.  Type 4 hemochromatosis is distinguished by its autosomal dominant inheritance pattern. With this type of inheritance, one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000461-5" qtype="treatment">What are the treatments for hereditary hemochromatosis ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary hemochromatosis:  - Gene Review: Gene Review: HFE-Associated Hereditary Hemochromatosis  - Gene Review: Gene Review: Juvenile Hereditary Hemochromatosis  - Gene Review: Gene Review: TFR2-Related Hereditary Hemochromatosis  - GeneFacts: Hereditary Hemochromatosis: Diagnosis  - GeneFacts: Hereditary Hemochromatosis: Management  - Genetic Testing Registry: Hemochromatosis type 1  - Genetic Testing Registry: Hemochromatosis type 2A  - Genetic Testing Registry: Hemochromatosis type 3  - Genetic Testing Registry: Hemochromatosis type 4  - MedlinePlus Encyclopedia: Hemochromatosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000635" source="GHR" url="https://ghr.nlm.nih.gov/condition/mecp2-duplication-syndrome">
+<Focus>MECP2 duplication syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1846058</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lubs X-linked mental retardation syndrome</Synonym>
+		<Synonym>Trisomy Xq28</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000635-1" qtype="information">What is (are) MECP2 duplication syndrome ?</Question>
+			<Answer>MECP2 duplication syndrome is a condition that occurs almost exclusively in males and is characterized by moderate to severe intellectual disability. Most people with this condition also have weak muscle tone in infancy, feeding difficulties, poor or absent speech, seizures that may not improve with treatment, or muscle stiffness (spasticity). Individuals with MECP2 duplication syndrome have delayed development of motor skills such as sitting and walking. Some affected individuals experience the loss of previously acquired skills (developmental regression). Approximately one third of people with this condition cannot walk without assistance. Many individuals with MECP2 duplication syndrome have recurrent respiratory tract infections. These respiratory infections are a major cause of death in affected individuals, with almost half succumbing by age 25.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000635-2" qtype="frequency">How many people are affected by MECP2 duplication syndrome ?</Question>
+			<Answer>The prevalence of MECP2 duplication syndrome is unknown; approximately 120 affected individuals have been reported in the scientific literature. It is estimated that this condition is responsible for 1 to 2 percent of all cases of intellectual disability caused by changes in the X chromosome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000635-3" qtype="genetic changes">What are the genetic changes related to MECP2 duplication syndrome ?</Question>
+			<Answer>MECP2 duplication syndrome is caused by a genetic change in which there is an extra copy of the MECP2 gene in each cell. This extra copy of the MECP2 gene is caused by a duplication of genetic material on the long (q) arm of the X chromosome. The size of the duplication varies from 100,000 to 900,000 DNA building blocks (base pairs), also written as 100 to 900 kilobases (kb). The MECP2 gene is always included in this duplication, and other genes may be involved, depending on the size of the duplicated segment. Extra copies of these other genes do not seem to affect the severity of the condition, because people with larger duplications have signs and symptoms that are similar to people with smaller duplications.  The MECP2 gene provides instructions for making a protein called MeCP2 that is critical for normal brain function. Researchers believe that this protein has several functions, including regulating other genes in the brain by switching them off when they are not needed. An extra copy of the MECP2 gene leads to the production of excess MeCP2 protein, which is unable to properly regulate the expression of other genes. The misregulation of gene expression in the brain results in abnormal nerve cell (neuronal) function. These neuronal abnormalities cause irregular brain activity, leading to the signs and symptoms of MECP2 duplication syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000635-4" qtype="inheritance">Is MECP2 duplication syndrome inherited ?</Question>
+			<Answer>MECP2 duplication syndrome is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), a duplication of the only copy of the MECP2 gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a duplication of one of the two copies of the gene typically does not cause the disorder. Females usually do not have signs and symptoms of MECP2 duplication syndrome because the X chromosome that contains the duplication may be turned off (inactive) due to a process called X-inactivation.  Early in embryonic development in females, one of the two X chromosomes is permanently inactivated in somatic cells (cells other than egg and sperm cells). X-inactivation ensures that females, like males, have only one active copy of the X chromosome in each body cell. Usually X-inactivation occurs randomly, such that each X chromosome is active in about half of the body cells. Sometimes X-inactivation is not random, and one X chromosome is active in more than half of cells. When X-inactivation does not occur randomly, it is called skewed X-inactivation.  Research shows that females with an MECP2 gene duplication have skewed X-inactivation, which results in the inactivation of the X chromosome containing the duplication in most cells of the body. This skewed X inactivation ensures that only the chromosome with the normal MECP2 gene is expressed. This skewed X-inactivation is why females with an MECP2 gene duplication typically do not have any features related to the additional genetic material.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000635-5" qtype="treatment">What are the treatments for MECP2 duplication syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of MECP2 duplication syndrome:  - Cincinnati Children&apos;s Hospital: MECP2-Related Disorders  - Cleveland Clinic: Spasticity  - Gene Review: Gene Review: MECP2 Duplication Syndrome  - Genetic Testing Registry: MECP2 duplication syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

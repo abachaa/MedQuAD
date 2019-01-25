@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000477" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/hivaids.html">
+<Focus>HIV/AIDS</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0497169</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acquired immunodeficiency syndrome</Synonym>
+		<Synonym>AIDS</Synonym>
+		<Synonym>HIV</Synonym>
+		<Synonym>Human immunodeficiency virus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000477-1" qtype="information">What is (are) HIV/AIDS ?</Question>
+			<Answer>HIV stands for human immunodeficiency virus. It kills or damages the body&apos;s immune system cells. AIDS stands for acquired immunodeficiency syndrome. It is the most advanced stage of infection with HIV.     HIV most often spreads through unprotected sex with an infected person. It may also spread by sharing drug needles or through contact with the blood of an infected person. Women can give it to their babies during pregnancy or childbirth.     The first signs of HIV infection may be swollen glands and flu-like symptoms. These may come and go a month or two after infection. Severe symptoms may not appear until months or years later.     A blood test can tell if you have HIV infection. Your health care provider can perform the test, or call the national referral hotline at 1-800-CDC-INFO (24 hours a day, 1-800-232-4636 in English and en espaol; 1-888-232-6348 - TTY).     There is no cure, but there are many medicines to fight both HIV infection and the infections and cancers that come with it. People can live with the disease for many years.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

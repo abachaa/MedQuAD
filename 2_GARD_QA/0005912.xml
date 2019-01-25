@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005912" source="GARD" url="https://rarediseases.info.nih.gov/gard/7706/sturge-weber-syndrome">
+<Focus>Sturge-Weber syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038505</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SWS</Synonym>
+		<Synonym>Sturge Weber syndrome</Synonym>
+		<Synonym>Encephalotrigeminal angiomatosis</Synonym>
+		<Synonym>Fourth phacomatosis</Synonym>
+		<Synonym>Meningeal capillary angiomatosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005912-1" qtype="information">What is (are) Sturge-Weber syndrome ?</Question>
+			<Answer>Sturge-Weber syndrome is a rare disorder that is present at birth. Affected individuals have a large port-wine stain birthmark on their face, which is caused by blood vessel abnormalities. People with Sturge-Weber syndrome also develop blood vessel abnormalities in the brain called leptomeningeal angiomas. Other features of this syndrome include glaucoma, seizures, muscle weakness, paralysis, developmental delay, and intellectual disability. Sturge-Weber syndrome is caused by a mutation in the GNAQ gene. The gene mutation is not inherited, but occurs by chance in cells of the developing embryo.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005912-2" qtype="symptoms">What are the symptoms of Sturge-Weber syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Sturge-Weber syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Sturge-Weber syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Seizures 90% Attention deficit hyperactivity disorder 50% Cerebral ischemia 50% Cognitive impairment 50% Glaucoma 50% Hyperreflexia 50% Optic atrophy 50% Abnormality of the retinal vasculature 7.5% Arnold-Chiari malformation 7.5% Autism 7.5% Cerebral calcification 7.5% Cerebral cortical atrophy 7.5% Choroideremia 7.5% Conjunctival telangiectasia 7.5% Corneal dystrophy 7.5% Feeding difficulties in infancy 7.5% Gingival overgrowth 7.5% Hearing abnormality 7.5% Heterochromia iridis 7.5% Hydrocephalus 7.5% Iris coloboma 7.5% Macrocephaly 7.5% Neurological speech impairment 7.5% Retinal detachment 7.5% Visual impairment 7.5% Arachnoid hemangiomatosis - Buphthalmos - Choroidal hemangioma - Facial hemangioma - Intellectual disability - Sporadic - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005912-3" qtype="treatment">What are the treatments for Sturge-Weber syndrome ?</Question>
+			<Answer>What are some of the benefits and risks of laser treatment for port-wine stains associated with Sturge-Weber syndrome? Pulsed dye laser (PDL) remains the treatment of choice for the majority of children with a port-wine stain (PWS). Laser treatment of port-wine stains may produce good cosmetic results, with a low incidence of adverse skin changes and other side effects. A major benefit of laser treatment for a PWS is that it can help to minimize psychological problems associated with the social consequences of having a PWS. It has been shown that large facial port-wine stains are associated with an increase in mood and social problems in children older than 10 years of age.Most experts agree that there is little risk associated with the use of PDL in a child with Sturge-Weber syndrome (SWS), provided that anticonvulsant therapy is maintained and that adequate care is taken. The level of pain associated with laser treatment varies. Management of anesthesia should be carefully planned to minimize the potential for secondary effects. Few children with SWS achieve complete clearance of their PWS with laser treatment; PDL does have limitations when large areas or dermatomal patterns are involved.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

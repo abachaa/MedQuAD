@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003789" source="GARD" url="https://rarediseases.info.nih.gov/gard/6969/mantle-cell-lymphoma">
+<Focus>Mantle cell lymphoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lymphoma, mantle cell</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003789-1" qtype="information">What is (are) Mantle cell lymphoma ?</Question>
+			<Answer>Mantle cell lymphoma (MCL) belongs to a group of diseases known as  non-Hodgkins lymphomas (NHL), which are cancers that affect the the lymphatic system (part of the immune system). MCL accounts for 6% of all non-Hodgkin lymphomas and is mostly found in males during their early 60s. Lymphocytes, which are white blood cells that make up the lymphatic system. There are two main types: B-lymphocytes (B-cells) and T-lymphocytes (T-cells). Mantel cell lymphoma is a B-cell lymphoma that develops from cancerous B-cells within a region of the lymph node known as the mantle zone. Although mantle cell lymphomas are slow-growing cancers, at the time of diagnosis, they are usually widespread in the lymph nodes and require intensive treatment because they can become lethal within a short period of time.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003789-2" qtype="symptoms">What are the symptoms of Mantle cell lymphoma ?</Question>
+			<Answer>What are the signs and symptoms of Mantle cell lymphoma? Common symptoms of Mantle cell lymphoma include fatigue, loss of appetite, and enlarged lymph nodes, spleen, and/or liver. Other symptoms may include night sweats, unexplained high fevers, and weight loss. The Human Phenotype Ontology provides the following list of signs and symptoms for Mantle cell lymphoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Hematological neoplasm 90% Lymphadenopathy 90% Anorexia 50% Splenomegaly 50% Weight loss 50% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003789-3" qtype="causes">What causes Mantle cell lymphoma ?</Question>
+			<Answer>What causes Mantle cell lymphoma? Most lymphomas are not inherited, but rather an acquired disease in which the DNAwithin the cells has been damaged. Damage to the DNA occurs by a combination of different factors. Many mantle cell lymphomas are found to be associated with a chromsosome translocation. Some causes of non-Hodgkin lymphomas (NHL) have been linked to viral infections including Ebstein-Barr virus, HIV, and human herpesvirus 6. It has also been found that immunodeficiencies and environmental factors like hair dyes and pesticides may lead to NHLs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003789-4" qtype="exams and tests">How to diagnose Mantle cell lymphoma ?</Question>
+			<Answer>How is Mantle cell lymphoma diagnosed? Mantle cell lymphoma is diagnosed by a biopsy (surgical removal) of the lymph nodes. If lymph nodes are not easily accessible to be biopsied, a fine needle aspiration may be performed, but the diagnosis will not be definite. Chromosome translocations in Mantle cell lymphoma can be found by genetic molecular testing methods such as PCR and FISH.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003789-5" qtype="treatment">What are the treatments for Mantle cell lymphoma ?</Question>
+			<Answer>How might Mantle cell lympoma be treated? Various treatmentsare currently available for Mantle cell lymphomas. Rare cases of early stage mantle cell lymphomas may be treated with radiation therapy. For more advance stagestreatment includes chemotherapy, immunotherapy, bone marrow transplant, and medication.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

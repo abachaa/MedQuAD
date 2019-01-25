@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000511" source="GHR" url="https://ghr.nlm.nih.gov/condition/idiopathic-inflammatory-myopathy">
+<Focus>idiopathic inflammatory myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751356</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>idiopathic inflammatory myopathies</Synonym>
+		<Synonym>idiopathic inflammatory myositis</Synonym>
+		<Synonym>inflammatory myopathy, idiopathic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000511-1" qtype="information">What is (are) idiopathic inflammatory myopathy ?</Question>
+			<Answer>Idiopathic inflammatory myopathy is a group of disorders characterized by inflammation of the muscles used for movement (skeletal muscles). Idiopathic inflammatory myopathy usually appears in adults between ages 40 and 60 or in children between ages 5 and 15, though it can occur at any age.  The primary symptom of idiopathic inflammatory myopathy is muscle weakness, which develops gradually over a period of weeks to months or even years. Other symptoms include joint pain and general tiredness (fatigue).  There are several forms of idiopathic inflammatory myopathy, including polymyositis, dermatomyositis, and sporadic inclusion body myositis.  Polymyositis and dermatomyositis involve weakness of the muscles closest to the center of the body (proximal muscles), such as the muscles of the hips and thighs, upper arms, and neck. People with these forms of idiopathic inflammatory myopathy may find it difficult to climb stairs, get up from a seated position, or lift items above their head. In some cases, muscle weakness may make swallowing or breathing difficult.  Polymyositis and dermatomyositis have similar symptoms, but dermatomyositis is distinguished by a reddish or purplish rash on the eyelids, elbows, knees, or knuckles. Sometimes, abnormal calcium deposits form hard, painful bumps under the skin (calcinosis).  In sporadic inclusion body myositis, the muscles most affected are those of the wrists and fingers and the front of the thigh. Affected individuals may frequently stumble while walking and find it difficult to grasp items. As in dermatomyositis and polymyositis, swallowing can be difficult.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000511-2" qtype="frequency">How many people are affected by idiopathic inflammatory myopathy ?</Question>
+			<Answer>The incidence of idiopathic inflammatory myopathy is approximately 2 to 8 cases per million people each year.  For unknown reasons, polymyositis and dermatomyositis are about twice as common in women as in men, while sporadic inclusion body myositis is more common in men.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000511-3" qtype="genetic changes">What are the genetic changes related to idiopathic inflammatory myopathy ?</Question>
+			<Answer>Idiopathic inflammatory myopathy is thought to arise from a combination of genetic and environmental factors. The term &quot;idiopathic&quot; indicates that the specific cause of the disorder is unknown.  Researchers have identified variations in several genes that may influence the risk of developing idiopathic inflammatory myopathy. The most commonly associated genes belong to a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person&apos;s immune system to react to a wide range of foreign proteins. Specific variations of several HLA genes seem to affect the risk of developing idiopathic inflammatory myopathy. Researchers are studying variations in other genes related to the body&apos;s immune function to understand how they contribute to the risk of developing idiopathic inflammatory myopathy.  It is likely that specific genetic variations increase a person&apos;s risk of developing idiopathic inflammatory myopathy, and then exposure to certain environmental factors triggers the disorder. Infection, exposure to certain medications, and exposure to ultraviolet light (such as sunlight) have been identified as possible environmental triggers, but most risk factors for this condition remain unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000511-4" qtype="inheritance">Is idiopathic inflammatory myopathy inherited ?</Question>
+			<Answer>Most cases of idiopathic inflammatory myopathy are sporadic, which means they occur in people with no history of the disorder in their family. However, several people with idiopathic inflammatory myopathy have had close relatives with autoimmune disorders. Autoimmune diseases occur when the immune system malfunctions and attacks the body&apos;s tissues and organs.  A small percentage of all cases of idiopathic inflammatory myopathy have been reported to run in families; however, the condition does not have a clear pattern of inheritance. Multiple genetic and environmental factors likely play a part in determining the risk of developing this disorder. As a result, inheriting a genetic variation linked with idiopathic inflammatory myopathy does not mean that a person will develop the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000511-5" qtype="treatment">What are the treatments for idiopathic inflammatory myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of idiopathic inflammatory myopathy:  - Genetic Testing Registry: Idiopathic myopathy  - Genetic Testing Registry: Inclusion body myositis  - Johns Hopkins Myositis Center: Diagnosis  - Johns Hopkins Myositis Center: Treatment  - Muscular Dystrophy Association: Facts about Inflammatory Myopathies (Myositis)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

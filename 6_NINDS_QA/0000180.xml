@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000180" source="NINDS" url="http://www.ninds.nih.gov/disorders/lesch_nyhan/lesch_nyhan.htm">
+<Focus>Lesch-Nyhan Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023374</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000180-1" qtype="information">What is (are) Lesch-Nyhan Syndrome ?</Question>
+			<Answer>Lesch-Nyhan syndrome (LNS) is a rare, inherited disorder caused by a deficiency of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HPRT). LNS is an X-linked recessive disease-- the gene is carried by the mother and passed on to her son. LNS is present at birth in baby boys. The lack of HPRT causes a build-up of uric acid in all body fluids, and leads to symptoms such as severe gout, poor muscle control, and moderate retardation, which appear in the first year of life. A striking feature of LNS is self-mutilating behaviors  characterized by lip and finger biting  that begin in the second year of life. Abnormally high uric acid levels can cause sodium urate crystals to form in the joints, kidneys, central nervous system, and other tissues of the body, leading to gout-like swelling in the joints and severe kidney problems. Neurological symptoms include facial grimacing, involuntary writhing, and repetitive movements of the arms and legs similar to those seen in Huntingtons disease. Because a lack of HPRT causes the body to poorly utilize vitamin B12, some boys may develop a rare disorder called megaloblastic anemia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000180-2" qtype="treatment">What are the treatments for Lesch-Nyhan Syndrome ?</Question>
+			<Answer>Treatment for LNS is symptomatic. Gout can be treated with allopurinol to control excessive amounts of uric acid. Kidney stones may be treated with lithotripsy, a technique for breaking up kidney stones using shock waves or laser beams. There is no standard treatment for the neurological symptoms of LNS. Some may be relieved with the drugs carbidopa/levodopa, diazepam, phenobarbital, or haloperidol.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000180-3" qtype="outlook">What is the outlook for Lesch-Nyhan Syndrome ?</Question>
+			<Answer>The prognosis for individuals with LNS is poor. Death is usually due to renal failure in the first or second decade of life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000180-4" qtype="research">what research (or clinical trials) is being done for Lesch-Nyhan Syndrome ?</Question>
+			<Answer>The gene associated with LNS is known. The NINDS supports and conducts research on genetic disorders such as LNS in an effort to find ways to prevent and treat these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

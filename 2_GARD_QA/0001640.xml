@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001640" source="GARD" url="https://rarediseases.info.nih.gov/gard/10486/craniopharyngioma">
+<Focus>Craniopharyngioma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010276</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Rathke's pouch tumor</Synonym>
+		<Synonym>Craniopharyngeal duct tumor</Synonym>
+		<Synonym>Adamantinoma</Synonym>
+		<Synonym>Adamantinomatous tumor</Synonym>
+		<Synonym>Dysodontogenic epithelial tumor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001640-1" qtype="information">What is (are) Craniopharyngioma ?</Question>
+			<Answer>A craniopharyngioma is a slow-growing benign tumor that develops near the pituitary gland (a small endocrine gland at the base of the brain) and the hypothalamus (a small cone-shaped organ connected to the pituitary gland by nerves). This tumor most commonly affects children between 5 and 10 years of age; however, adults can sometimes be affected. Craniopharyngiomas are thought to arise from remnants of the craniopharyngeal duct and/or Rathke cleft or from metaplasia (abnormal transformation of cells) of squamous epithelial cell remnants of the stomadeum.[orphanet] Craniopharyngioma is treated with surgery alone or by surgery followed by radiation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001640-2" qtype="symptoms">What are the symptoms of Craniopharyngioma ?</Question>
+			<Answer>What symptoms may be associated with craniopharyngioma? Craniopharyngioma causes symptoms in three different ways: by increasing the pressure on the brain (intracranial pressure) by disrupting the function of the pituitary gland by damaging the optic nerve Increased pressure on the brain causes headache, nausea, vomiting (especially in the morning), and difficulty with balance. Damage to the pituitary gland causes hormone imbalances that can lead to excessive thirst and urination (diabetes insipidus) and stunted growth. When the optic nerve is damaged by the tumor, vision problems develop. These defects are often permanent, and may be worse after surgery to remove the tumor. Most patients have at least some visual defects and evidence of decreased hormone production at the time of diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001640-3" qtype="causes">What causes Craniopharyngioma ?</Question>
+			<Answer>What causes craniopharyngioma? Craniopharyngiomas are thought to arise from epithelial remnants of the craniopharyngeal duct or Rathke&apos;s pouch (adamantinomatous type tumours) or from metaplasia of squamous epithelial cell rests that are remnants of the part of the stomadeum that contributed to the buccal mucosa (squamous papillary type tumours).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001640-4" qtype="treatment">What are the treatments for Craniopharyngioma ?</Question>
+			<Answer>How might craniopharyngiomas be treated? Traditionally, surgery has been the main treatment for craniopharyngioma. However, radiation treatment instead of surgery may be the best choice for some patients. In tumors that cannot be removed completely with surgery alone, radiation therapy is usually necessary. If the tumor has a classic appearance on CT scan, then even a biopsy may not be necessary, if treatment with radiation alone is planned. This tumor is best treated at a center with experience managing craniopharyngiomas.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

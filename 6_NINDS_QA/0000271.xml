@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000271" source="NINDS" url="http://www.ninds.nih.gov/disorders/tremor/tremor.htm">
+<Focus>Tremor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963252</CUI>
+			<CUI>C0040822</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000271-1" qtype="information">What is (are) Tremor ?</Question>
+			<Answer>Tremor is an unintentional, rhythmic, muscle movement involving to-and-fro movements of one or more parts of the body. Most tremors occur in the hands, although they can also affect the arms, head, face, voice, trunk, and legs. Sometimes tremor is a symptom of another neurological disorder or a side effect of certain drugs, but the most common form occurs in otherwise healthy people. Some forms of tremor are inherited and run in families, while others have no known cause. Excessive alcohol consumption or alcohol withdrawal can kill certain nerve cells, resulting in tremor, especially in the hand. Other causes include an overactive thyroid and the use of certain drugs. Tremor may occur at any age but is most common in middle-aged and older persons.
+                
+There are several forms of tremor, including:
+                
+Essential tremor (sometimes called benign essential tremor) is the most common form of abnormal tremor.The hands are most often affected but the head, voice, tongue, legs, and trunk may also be involved. Head tremor may be seen as a &quot;yes-yes&quot; or &quot;no-no&quot; motion. Onset is most common after age 40, although symptoms can appear at any age. Parkinsonian tremor is caused by damage to structures within the brain that control movement. The tremor is classically seen as a &quot;pill-rolling&quot; action of the hands but may also affect the chin, lips, legs, and trunk. Dystonic tremor occurs in individuals of all ages who are affected by dystonia, a movement disorder in which sustained involuntary muscle contractions cause twisting motions or painful postures or positions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000271-2" qtype="treatment">What are the treatments for Tremor ?</Question>
+			<Answer>There is no cure for most tremors. The appropriate treatment depends on accurate diagnosis of the cause. Drug treatment for parkinsonian tremor involves levodopa or dopamine-like drugs such as pramipexole and ropinirole. Essential tremor may be treated with propranolol or other beta blockers (such as nadolol) and primidone, an anticonvulsant drug. Dystonic tremor may respond to clonazepam, anticholinergic drugs, and intramuscular injections of botulinum toxin. Eliminating tremor &quot;triggers&quot; such as caffeine and other stimulants from the diet is often recommended. Physical therapy may help to reduce tremor and improve coordination and muscle control for some individuals. Surgical intervention, such as thalamotomy and deep brain stimulation, are usually performed only when the tremor is severe and does not respond to drugs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000271-3" qtype="outlook">What is the outlook for Tremor ?</Question>
+			<Answer>Although tremor is not life-threatening, it can be embarrassing to some people and make it harder to perform daily tasks.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000271-4" qtype="research">what research (or clinical trials) is being done for Tremor ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke, a unit of the National Institutes of Health (NIH) within the U.S. Department of Health and Human Services, is the nations leading federal funder of research on disorders of the brain and nervous system. The NINDS sponsors research on tremor both at its facilities at the NIH and through grants to medical centers. Scientists are evaluating the effectiveness of certain drugs and searching for genes that can cause certain forms of tremor.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

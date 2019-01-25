@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002157" source="GARD" url="https://rarediseases.info.nih.gov/gard/6372/erythema-multiforme">
+<Focus>Erythema multiforme</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014742</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>EM</Synonym>
+		<Synonym>Erythema polymorphe, erythema multiforme type</Synonym>
+		<Synonym>Erythema multiforme bullosum</Synonym>
+		<Synonym>Dermatostomatitis, erythema multiforme type</Synonym>
+		<Synonym>Febrile mucocutaneous syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002157-1" qtype="information">What is (are) Erythema multiforme ?</Question>
+			<Answer>Erythema multiforme (EM) refers to a group of hypersensitivity disorders characterized by symmetric red, patchy lesions, primarily on the arms and legs. The cause is unknown, but EM frequently occurs in association with herpes simplex virus, suggesting an immunologic process initiated by the virus. In half of the cases, the triggering agents appear to be medications, including anticonvulsants, sulfonamides, nonsteroidal anti-inflammatory drugs, and other antibiotics. In addition, some cases appear to be associated with infectious organisms such as Mycoplasma pneumoniae and many viral agents. Erythema multiforme is the mildest of three skin disorders that are often discussed in relation to each other. It is generally the mildest of the three. More severe is Stevens-Johnson syndrome. The most severe of the three is toxic epidermal necrolysis (TEN).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

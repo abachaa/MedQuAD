@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000498" source="GHR" url="https://ghr.nlm.nih.gov/condition/hyperparathyroidism-jaw-tumor-syndrome">
+<Focus>hyperparathyroidism-jaw tumor syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1704981</CUI>
+			<CUI>C0022364</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial cystic parathyroid adenomatosis</Synonym>
+		<Synonym>familial primary hyperparathyroidism with multiple ossifying jaw fibromas</Synonym>
+		<Synonym>hereditary hyperparathyroidism-jaw tumor syndrome</Synonym>
+		<Synonym>HPT-JT</Synonym>
+		<Synonym>hyperparathyroidism 2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000498-1" qtype="information">What is (are) hyperparathyroidism-jaw tumor syndrome ?</Question>
+			<Answer>Hyperparathyroidism-jaw tumor syndrome is a condition characterized by overactivity of the parathyroid glands (hyperparathyroidism). The four parathyroid glands are located in the neck and secrete a hormone that regulates the body&apos;s use of calcium. Hyperparathyroidism disrupts the normal balance of calcium in the blood, which can lead to kidney stones, thinning of the bones (osteoporosis), nausea, vomiting, high blood pressure (hypertension), weakness, and fatigue.  In people with hyperthyroidism-jaw tumor syndrome, hyperparathyroidism is caused by tumors that form in the parathyroid glands. Typically only one of the four parathyroid glands is affected, but in some people, tumors are found in more than one gland. The tumors are usually noncancerous (benign), in which case they are called adenomas. Approximately 15 percent of people with hyperparathyroidism-jaw tumor syndrome develop a cancerous tumor called parathyroid carcinoma. People with hyperparathyroidism-jaw tumor syndrome may also have a type of benign tumor called a fibroma in the jaw. Even though jaw tumors are specified in the name of this condition, it is estimated that only 25 to 50 percent of affected individuals have this symptom.  Other tumors, both benign and cancerous, are often seen in hyperparathyroidism-jaw tumor syndrome. For example, tumors of the uterus occur in about 75 percent of women with this condition. The kidneys are affected in about 20 percent of people with hyperparathyroidism-jaw tumor syndrome. Benign kidney cysts are the most common kidney feature, but a rare tumor called Wilms tumor and other types of kidney tumor have also been found.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000498-2" qtype="frequency">How many people are affected by hyperparathyroidism-jaw tumor syndrome ?</Question>
+			<Answer>The exact prevalence of hyperparathyroidism-jaw tumor syndrome is unknown. Approximately 200 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000498-3" qtype="genetic changes">What are the genetic changes related to hyperparathyroidism-jaw tumor syndrome ?</Question>
+			<Answer>Mutations in the CDC73 gene (also known as the HRPT2 gene) cause hyperparathyroidism-jaw tumor syndrome. The CDC73 gene provides instructions for making a protein called parafibromin. This protein is found throughout the body and is likely involved in gene transcription, which is the first step in protein production. Parafibromin is also thought to play a role in cell growth and division (proliferation), either promoting or inhibiting cell proliferation depending on signals within the cell.  CDC73 gene mutations cause hyperparathyroidism-jaw tumor syndrome by reducing the amount of functional parafibromin that is produced. Most of these mutations result in a parafibromin protein that is abnormally short and nonfunctional. Without functional parafibromin, cell proliferation is not properly regulated. Uncontrolled cell division can lead to the formation of tumors. It is unknown why only certain tissues seem to be affected by changes in parafibromin.  Some people with hyperparathyroidism-jaw tumor syndrome do not have identified mutations in the CDC73 gene. The cause of the condition in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000498-4" qtype="inheritance">Is hyperparathyroidism-jaw tumor syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000498-5" qtype="treatment">What are the treatments for hyperparathyroidism-jaw tumor syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of hyperparathyroidism-jaw tumor syndrome:  - Gene Review: Gene Review: CDC73-Related Disorders  - Genetic Testing Registry: Hyperparathyroidism 2  - MedlinePlus Encyclopedia: Hyperparathyroidism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000011" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/addisondisease.html">
+<Focus>Addison Disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266273</CUI>
+			<CUI>C0001403</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Adrenal insufficiency</Synonym>
+		<Synonym>Adrenocortical hypofunction</Synonym>
+		<Synonym>Hypocortisolism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000011-1" qtype="information">What is (are) Addison Disease ?</Question>
+			<Answer>Your adrenal glands are just above your kidneys. The outside layer of these glands makes hormones that help your body respond to stress and regulate your blood pressure and water and salt balance. Addison disease happens if the adrenal glands don&apos;t make enough of these hormones.    A problem with your immune system usually causes Addison disease. The immune system mistakenly attacks your own tissues, damaging your adrenal glands. Other causes include infections and cancer.    Symptoms include       - Weight loss     - Muscle weakness     - Fatigue that gets worse over time     - Low blood pressure     - Patchy or dark skin        Lab tests can confirm that you have Addison disease. If you don&apos;t treat it, it can be fatal. You will need to take hormone pills for the rest of your life. If you have Addison disease, you should carry an emergency ID. It should say that you have the disease, list your medicines and say how much you need in an emergency.    NIH: National Institute of Diabetes and Digestive and Kidney Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

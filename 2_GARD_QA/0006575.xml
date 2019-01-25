@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006575" source="GARD" url="https://rarediseases.info.nih.gov/gard/10716/2-methyl-3-hydroxybutyric-aciduria">
+<Focus>2-methyl-3-hydroxybutyric aciduria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3266731</CUI>
+			<CUI>C0278026</CUI>
+			<CUI>C1845517</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HSD10 deficiency</Synonym>
+		<Synonym>3H2MBD deficiency</Synonym>
+		<Synonym>3-hydroxy-2-methylbutyryl-CoA dehydrogenase deficiency</Synonym>
+		<Synonym>Hydroxyacyl-CoA dehydrogenase II deficiency</Synonym>
+		<Synonym>2M3HBA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006575-1" qtype="information">What is (are) 2-methyl-3-hydroxybutyric aciduria ?</Question>
+			<Answer>2-methyl-3-hydroxybutyric aciduria is an inherited disorder in which the body cannot effectively process the amino acid isoleucine. Signs and symptoms of this condition usually develop in infancy or early childhood and include metabolic acidosis, hypoglycemia, hypotonia, seizures, movement problems, retinal degeneration, and hearing loss. Affected males have severe neurodegeneration with loss of developmental milestones, whereas females have mild to moderate developmental delay. 2-methyl-3-hydroxybutyric aciduria is caused by mutations in the HSD17B10 gene; it has an X-linked dominant pattern of inheritance.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006575-2" qtype="symptoms">What are the symptoms of 2-methyl-3-hydroxybutyric aciduria ?</Question>
+			<Answer>What are the signs and symptoms of 2-methyl-3-hydroxybutyric aciduria? The Human Phenotype Ontology provides the following list of signs and symptoms for 2-methyl-3-hydroxybutyric aciduria. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Choreoathetosis - Delayed speech and language development - Developmental regression - Hypertrophic cardiomyopathy - Hypoglycemia - Infantile onset - Intellectual disability - Lactic acidosis - Metabolic acidosis - Muscular hypotonia - Nystagmus - Progressive neurologic deterioration - Restlessness - Retinal degeneration - Seizures - Sensorineural hearing impairment - X-linked dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

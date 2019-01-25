@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000256" source="GHR" url="https://ghr.nlm.nih.gov/condition/crouzonodermoskeletal-syndrome">
+<Focus>Crouzonodermoskeletal syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2677099</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Crouzon syndrome with acanthosis nigricans</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000256-1" qtype="information">What is (are) Crouzonodermoskeletal syndrome ?</Question>
+			<Answer>Crouzonodermoskeletal syndrome is a disorder characterized by the premature joining of certain bones of the skull (craniosynostosis) during development and a skin condition called acanthosis nigricans.  The signs and symptoms of Crouzonodermoskeletal syndrome overlap with those of a similar condition called Crouzon syndrome. Common features include premature fusion of the skull bones, which affects the shape of the head and face; wide-set, bulging eyes due to shallow eye sockets; eyes that do not point in the same direction (strabismus); a small, beaked nose; and an underdeveloped upper jaw. People with Crouzon syndrome or Crouzonodermoskeletal syndrome usually have normal intelligence.  Several features distinguish Crouzonodermoskeletal syndrome from Crouzon syndrome. People with Crouzonodermoskeletal syndrome have acanthosis nigricans, a skin condition characterized by thick, dark, velvety skin in body folds and creases, including the neck and underarms. In addition, subtle changes may be seen in the bones of the spine (vertebrae) on x-rays. Noncancerous growths called cementomas may develop in the jaw during young adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000256-2" qtype="frequency">How many people are affected by Crouzonodermoskeletal syndrome ?</Question>
+			<Answer>Crouzonodermoskeletal syndrome is rare; this condition is seen in about 1 person per million.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000256-3" qtype="genetic changes">What are the genetic changes related to Crouzonodermoskeletal syndrome ?</Question>
+			<Answer>Mutations in the FGFR3 gene cause Crouzonodermoskeletal syndrome.  The FGFR3 gene provides instructions for making a protein that is involved in the development and maintenance of bone and brain tissue. It remains unclear how a mutation in the FGFR3 gene leads to the characteristic features of Crouzonodermoskeletal syndrome. This genetic change appears to disrupt the normal growth of skull bones and affect skin pigmentation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000256-4" qtype="inheritance">Is Crouzonodermoskeletal syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. More commonly, this condition results from new mutations in the gene. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000256-5" qtype="treatment">What are the treatments for Crouzonodermoskeletal syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Crouzonodermoskeletal syndrome:  - Gene Review: Gene Review: FGFR-Related Craniosynostosis Syndromes  - Genetic Testing Registry: Crouzon syndrome with acanthosis nigricans  - MedlinePlus Encyclopedia: Acanthosis Nigricans  - MedlinePlus Encyclopedia: Craniosynostosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

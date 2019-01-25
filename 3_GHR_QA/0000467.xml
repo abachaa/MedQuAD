@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000467" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-myopathy-with-early-respiratory-failure">
+<Focus>hereditary myopathy with early respiratory failure</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3807376</CUI>
+			<CUI>C1863599</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Edstrom myopathy</Synonym>
+		<Synonym>HMERF</Synonym>
+		<Synonym>MPRM</Synonym>
+		<Synonym>myopathy, proximal, with early respiratory muscle involvement</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000467-1" qtype="information">What is (are) hereditary myopathy with early respiratory failure ?</Question>
+			<Answer>Hereditary myopathy with early respiratory failure (HMERF) is an inherited muscle disease that predominantly affects muscles close to the center of the body (proximal muscles) and muscles that are needed for breathing.  The major signs and symptoms of HMERF usually appear in adulthood, on average around age 35. Among the earliest muscles affected in HMERF are the neck flexors, which are muscles at the front of the neck that help hold the head up. Other proximal muscles that become weak in people with HMERF include those of the hips, thighs, and upper arms. Some affected individuals have also reported weakness in muscles of the lower leg and foot called the dorsal foot extensors.  HMERF also causes severe weakness in muscles of the chest that are involved in breathing, particularly the diaphragm. This weakness leads to breathing problems and life-threatening respiratory failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000467-2" qtype="frequency">How many people are affected by hereditary myopathy with early respiratory failure ?</Question>
+			<Answer>HMERF is a rare condition. It has been reported in several families of Swedish and French descent, and in at least one individual from Italy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000467-3" qtype="genetic changes">What are the genetic changes related to hereditary myopathy with early respiratory failure ?</Question>
+			<Answer>HMERF can be caused by a mutation in the TTN gene. This gene provides instructions for making a protein called titin. Titin plays an important role in muscles the body uses for movement (skeletal muscles) and in heart (cardiac) muscle.  Within muscle cells, titin is an essential component of structures called sarcomeres. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract. Titin has several functions within sarcomeres. One of its most important jobs is to provide structure, flexibility, and stability to these cell structures. Titin also plays a role in chemical signaling and in assembling new sarcomeres.  The TTN gene mutation responsible for HMERF leads to the production of an altered version of the titin protein. Studies suggest that this change may disrupt titin&apos;s interactions with other proteins within sarcomeres and interfere with the protein&apos;s role in chemical signaling. Consequently, muscle fibers become damaged and weaken over time. It is unclear why these effects are usually limited to proximal muscles and muscles involved in breathing.  Some people with the characteristic features of HMERF do not have identified mutations in the TTN gene. In these cases, the genetic cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000467-4" qtype="inheritance">Is hereditary myopathy with early respiratory failure inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000467-5" qtype="treatment">What are the treatments for hereditary myopathy with early respiratory failure ?</Question>
+			<Answer>These resources address the diagnosis or management of HMERF:  - Gene Review: Gene Review: Hereditary Myopathy with Early Respiratory Failure (HMERF)  - Genetic Testing Registry: Hereditary myopathy with early respiratory failure  - National Heart, Lung, and Blood Institute: How Is Respiratory Failure Diagnosed?  - National Heart, Lung, and Blood Institute: How Is Respiratory Failure Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

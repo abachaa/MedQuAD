@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000644" source="GHR" url="https://ghr.nlm.nih.gov/condition/meige-disease">
+<Focus>Meige disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238261</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hereditary lymphedema II</Synonym>
+		<Synonym>late-onset lymphedema</Synonym>
+		<Synonym>LMPH2</Synonym>
+		<Synonym>lymphedema praecox</Synonym>
+		<Synonym>Meige lymphedema</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000644-1" qtype="information">What is (are) Meige disease ?</Question>
+			<Answer>Meige disease is a condition that affects the normal function of the lymphatic system. The lymphatic system consists of a network of vessels that transport lymphatic fluid and immune cells throughout the body. Meige disease is characterized by the abnormal transport of lymphatic fluid. When this fluid builds up abnormally, it causes swelling (lymphedema) in the lower limbs.  Meige disease is classified as a primary lymphedema, which means it is a form of lymphedema that is not caused by other health conditions. In Meige disease, the lymphatic system abnormalities are present from birth (congenital), although the swelling is not usually apparent until puberty. The swelling often begins in the feet and ankles and progresses up the legs to the knees. Some affected individuals develop non-contagious skin infections called cellulitis or erysipelas in the legs, which can further damage the vessels that carry lymphatic fluid.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000644-2" qtype="frequency">How many people are affected by Meige disease ?</Question>
+			<Answer>The prevalence of Meige disease is unknown. Collectively, the many types of primary lymphedema affect an estimated 1 in 100,000 people younger than 20; Meige disease is the most common type of primary lymphedema.  For unknown reasons, this condition affects females about three times as often as males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000644-3" qtype="genetic changes">What are the genetic changes related to Meige disease ?</Question>
+			<Answer>The cause of Meige disease is unknown. The condition is thought to be genetic because it tends to run in families, and other forms of primary lymphedema have been found to have a genetic cause. Researchers have studied many genes associated with the lymphatic system; however, no genetic change has been definitively found to cause the signs and symptoms of Meige disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000644-4" qtype="inheritance">Is Meige disease inherited ?</Question>
+			<Answer>Meige disease appears to have an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of an altered gene in each cell is sufficient to cause the disorder, although no genes have been associated with Meige disease.  People with Meige disease usually have at least one other affected family member. In most cases, an affected person has one parent with the condition. When the condition occurs in only one person in a family, the condition is described as Meige-like disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000644-5" qtype="treatment">What are the treatments for Meige disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Meige disease:  - Genetic Testing Registry: Lymphedema praecox  - Johns Hopkins Medicine: Lymphedema Management   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

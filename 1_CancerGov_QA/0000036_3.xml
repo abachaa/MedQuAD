@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000036_3" source="CancerGov" url="https://www.cancer.gov/types/prostate/patient/prostate-screening-pdq">
+<Focus>Prostate Cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0376358</CUI>
+			<CUI>C0600139</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000036_3-1" qtype="information">What is (are) Prostate Cancer ?</Question>
+			<Answer>Key Points
+                    - Prostate cancer is a disease in which malignant (cancer) cells form in the tissues of the prostate.    - Prostate cancer is the most common nonskin cancer among men in the United States.    - Different factors increase or decrease the risk of developing prostate cancer.
+                
+                
+                    Prostate cancer is a disease in which malignant (cancer) cells form in the tissues of the prostate.
+                    The prostate is a gland in the male reproductive system located just below the bladder (the organ that collects and empties urine) and in front of the rectum (the lower part of the intestine). It is about the size of a walnut and surrounds part of the urethra (the tube that empties urine from the bladder). The prostate gland produces fluid that makes up part of semen.      As men age, the prostate may get bigger. A bigger prostate may block the flow of urine from the bladder and cause problems with sexual function. This condition is called benign prostatic hyperplasia (BPH), and although it is not cancer, surgery may be needed to correct it. The symptoms of benign prostatic hyperplasia or of other problems in the prostate may be similar to symptoms of prostate cancer.      See the following PDQ summaries for more information about prostate cancer:         -   Prostate Cancer Prevention     -  Prostate Cancer Treatment</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000036_3-2" qtype="susceptibility">Who is at risk for Prostate Cancer? ?</Question>
+			<Answer>Prostate cancer is the most common nonskin cancer among men in the United States. Prostate cancer is found mainly in older men. Although the number of men with prostate cancer is large, most men diagnosed with this disease do not die from it. Prostate cancer causes more deaths in men than any other cancer except lung cancer and colorectal cancer. Prostate cancer occurs more often in African-American men than in white men. African-American men with prostate cancer are more likely to die from the disease than white men with prostate cancer.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000036_3-3" qtype="susceptibility">Who is at risk for Prostate Cancer? ?</Question>
+			<Answer>Different factors increase or decrease the risk of developing prostate cancer. Anything that increases a person&apos;s chance of developing a disease is called a risk factor. Anything that decreases your chance of getting a disease is called a protective factor.   For information about risk factors and protective factors for prostate cancer, see the PDQ summary on Prostate Cancer Prevention.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

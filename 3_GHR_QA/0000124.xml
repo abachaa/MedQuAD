@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000124" source="GHR" url="https://ghr.nlm.nih.gov/condition/biotin-thiamine-responsive-basal-ganglia-disease">
+<Focus>biotin-thiamine-responsive basal ganglia disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1843807</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BBGD</Synonym>
+		<Synonym>biotin-responsive basal ganglia disease</Synonym>
+		<Synonym>BTBGD</Synonym>
+		<Synonym>thiamine metabolism dysfunction syndrome 2</Synonym>
+		<Synonym>thiamine-responsive encephalopathy</Synonym>
+		<Synonym>thiamine transporter-2 deficiency</Synonym>
+		<Synonym>THMD2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000124-1" qtype="information">What is (are) biotin-thiamine-responsive basal ganglia disease ?</Question>
+			<Answer>Biotin-thiamine-responsive basal ganglia disease is a disorder that affects the nervous system, including a group of structures in the brain called the basal ganglia, which help control movement. As its name suggests, the condition may improve if the vitamins biotin and thiamine are given as treatment. Without early and lifelong vitamin treatment, people with biotin-thiamine-responsive basal ganglia disease experience a variety of neurological problems that gradually get worse. The occurrence of specific neurological problems and their severity vary even among affected individuals within the same family.  The signs and symptoms of biotin-thiamine-responsive basal ganglia disease usually begin between the ages of 3 and 10, but the disorder can appear at any age. Many of the neurological problems that can occur in biotin-thiamine-responsive basal ganglia disease affect movement, and can include involuntary tensing of various muscles (dystonia), muscle rigidity, muscle weakness on one or both sides of the body (hemiparesis or quadriparesis), problems coordinating movements (ataxia), and exaggerated reflexes (hyperreflexia). Movement problems can also affect the face, and may include the inability to move facial muscles due to facial nerve paralysis (supranuclear facial palsy), paralysis of the eye muscles (external ophthalmoplegia), difficulty chewing or swallowing (dysphagia), and slurred speech. Affected individuals may also experience confusion, loss of previously learned skills, intellectual disability, and seizures. Severe cases may result in coma and become life-threatening.  Typically, the neurological symptoms occur as increasingly severe episodes, which may be triggered by fever, injury, or other stresses on the body. Less commonly, the signs and symptoms persist at the same level or slowly increase in severity over time rather than occurring as episodes that come and go. In these individuals, the neurological problems are usually limited to dystonia, seizure disorders, and delay in the development of mental and motor skills (psychomotor delay).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000124-2" qtype="frequency">How many people are affected by biotin-thiamine-responsive basal ganglia disease ?</Question>
+			<Answer>Biotin-thiamine-responsive basal ganglia disease is a rare disorder; its prevalence is unknown. Approximately 48 cases have been reported in the medical literature; most of these are individuals from Arab populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000124-3" qtype="genetic changes">What are the genetic changes related to biotin-thiamine-responsive basal ganglia disease ?</Question>
+			<Answer>Biotin-thiamine-responsive basal ganglia disease is caused by mutations in the SLC19A3 gene. This gene provides instructions for making a protein called a thiamine transporter, which moves thiamine into cells. Thiamine, also known as vitamin B1, is obtained from the diet and is necessary for proper functioning of the nervous system.  Mutations in the SLC19A3 gene likely result in a protein with impaired ability to transport thiamine into cells, resulting in decreased absorption of the vitamin and leading to neurological dysfunction. In this disorder, abnormalities affect several parts of the brain. Using medical imaging, generalized swelling as well as specific areas of damage (lesions) in the brain can often be seen, including in the basal ganglia. The relationship between these specific brain abnormalities and the abnormal thiamine transporter is unknown.  It is unclear how biotin is related to this disorder. Some researchers suggest that the excess biotin given along with thiamine as treatment for the disorder may increase the amount of thiamine transporter that is produced, partially compensating for the impaired efficiency of the abnormal protein. Others propose that biotin transporter proteins may interact with thiamine transporters in such a way that biotin levels influence the course of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000124-4" qtype="inheritance">Is biotin-thiamine-responsive basal ganglia disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000124-5" qtype="treatment">What are the treatments for biotin-thiamine-responsive basal ganglia disease ?</Question>
+			<Answer>These resources address the diagnosis or management of biotin-thiamine-responsive basal ganglia disease:  - Gene Review: Gene Review: Biotin-Thiamine-Responsive Basal Ganglia Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

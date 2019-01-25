@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001061" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-severe-combined-immunodeficiency">
+<Focus>X-linked severe combined immunodeficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085110</CUI>
+			<CUI>C1279481</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>IL2RG SCID, T- B+ NK-</Synonym>
+		<Synonym>SCIDX1</Synonym>
+		<Synonym>X-linked SCID</Synonym>
+		<Synonym>X-SCID</Synonym>
+		<Synonym>XSCID</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001061-1" qtype="information">What is (are) X-linked severe combined immunodeficiency ?</Question>
+			<Answer>X-linked severe combined immunodeficiency (SCID) is an inherited disorder of the immune system that occurs almost exclusively in males. Boys with X-linked SCID are prone to recurrent and persistent infections because they lack the necessary immune cells to fight off certain bacteria, viruses, and fungi. Many infants with X-linked SCID develop chronic diarrhea, a fungal infection called thrush, and skin rashes. Affected individuals also grow more slowly than other children. Without treatment, males with X-linked SCID usually do not live beyond infancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001061-2" qtype="frequency">How many people are affected by X-linked severe combined immunodeficiency ?</Question>
+			<Answer>X-linked SCID is the most common form of severe combined immunodeficiency. Its exact incidence is unknown, but the condition probably affects at least 1 in 50,000 to 100,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001061-3" qtype="genetic changes">What are the genetic changes related to X-linked severe combined immunodeficiency ?</Question>
+			<Answer>Mutations in the IL2RG gene cause X-linked SCID. The IL2RG gene provides instructions for making a protein that is critical for normal immune system function. This protein is necessary for the growth and maturation of developing immune system cells called lymphocytes. Lymphocytes defend the body against potentially harmful invaders, make antibodies, and help regulate the entire immune system. Mutations in the IL2RG gene prevent these cells from developing and functioning normally. Without functional lymphocytes, the body is unable to fight off infections.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001061-4" qtype="inheritance">Is X-linked severe combined immunodeficiency inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001061-5" qtype="treatment">What are the treatments for X-linked severe combined immunodeficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked SCID:  - Baby&apos;s First Test: Severe Combined Immunodeficiency  - Gene Review: Gene Review: X-Linked Severe Combined Immunodeficiency  - Genetic Testing Registry: X-linked severe combined immunodeficiency  - MedlinePlus Encyclopedia: Immunodeficiency Disorders  - National Marrow Donor Program: Severe Combined Immunodeficiency and Transplant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

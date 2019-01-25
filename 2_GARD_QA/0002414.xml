@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002414" source="GARD" url="https://rarediseases.info.nih.gov/gard/2365/fowlers-syndrome">
+<Focus>Fowler's syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3203738</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Voiding dysfunction and polycystic ovaries</Synonym>
+		<Synonym>Polycystic ovaries urethral sphincter dysfunction</Synonym>
+		<Synonym>Fowler Christmas Chapple syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002414-1" qtype="information">What is (are) Fowler's syndrome ?</Question>
+			<Answer>Fowlers syndrome is characterized by urinary retention associated with abnormal electromyographic activity in young women in the absence of overt neurologic disease. Some women with this syndrome have polycystic ovaries as well.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002414-2" qtype="symptoms">What are the symptoms of Fowler's syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Fowler&apos;s syndrome? Fowlers syndrome typically occurs in premenopausal women (often in women under 30 years of age) who are unable to void for a day or more with no feeling of urinary urgency, but with increasing lower abdominal discomfort. The Human Phenotype Ontology provides the following list of signs and symptoms for Fowler&apos;s syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the urethra 90% Acne 90% Hypertrichosis 90% Polycystic ovaries 90% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002414-3" qtype="causes">What causes Fowler's syndrome ?</Question>
+			<Answer>What causes Fowlers syndrome? The cause of Fowler&apos;s syndrome is not known. The association of Fowlers syndrome and polycystic ovaries in some patients raises the possibility that the syndrome is linked in some way to impaired muscle membrane stability, owing possibly to a hormonal abnormality. The involvement of such a hormonal abnormality may also explain why it primarily affects premenopausal women.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002414-4" qtype="exams and tests">How to diagnose Fowler's syndrome ?</Question>
+			<Answer>How is Fowlers syndrome diagnosed? Diagnosis of Fowlers syndrome involves ruling out neurological or laboratory features that would support a diagnosis of a underlying neurological disease, and identification of a bladder capacity of over 1 liter with no sensation of urgency. Also in Fowlers syndrome, analysis of the striated muscle of the urethral sphincter using concentric needle electrode examination reveals a fairly unique electromyographic (EMG) abnormality. This EMG abnormality is found in association with the urethral sphincter (group of muscles which surround the urinary passage below the bladder), and consists of a type of activity that would be expected to cause inappropriate contraction of the muscle (i.e., impair sphincter relaxation).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002414-5" qtype="treatment">What are the treatments for Fowler's syndrome ?</Question>
+			<Answer>How might Fowlers syndrome be treated? The urinary incontinence caused by Fowlers syndrome may be treated by sacral neuromodulation therapy. The success rate for treatment of Fowlers syndrome with neuromodulation has been estimated to be around 70%, even in women who have been experiencing symptoms for a while. Neuromodulation therapy involves the stimulation of nerves to the bladder leaving the spine. The FDA has approved a device called InterStim for this purpose. Your doctor will need to test to determine if this device would be helpful to you. The doctor applies an external stimulator to determine if neuromodulation works in you. If you have a 50 percent reduction in symptoms, a surgeon will implant the device. Although neuromodulation can be effective, it is not for everyone. The therapy is expensive, involving surgery with possible surgical revisions and replacement. Other treatments that have been tried with little success include hormonal manipulation, pharmacologic therapy, and injections of botulinum toxin.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

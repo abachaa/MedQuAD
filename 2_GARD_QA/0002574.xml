@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002574" source="GARD" url="https://rarediseases.info.nih.gov/gard/6513/glioma">
+<Focus>Glioma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017638</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002574-1" qtype="information">What is (are) Glioma ?</Question>
+			<Answer>Glioma refers to a type of brain tumor that develops from the glial cells, which are specialized cells that surround and support neurons (nerve cells) in the brain. It is generally classified based on which type of glial cell is involved in the tumor: Astocytoma - tumors that develop from star-shaped glial cells called astrocytes Ependymomas - tumors that arise from ependymal cells that line the ventricles of the brain and the center of the spinal cord Oligodendrogliomas - tumors that affect the oligodendrocytes The symptoms of glioma vary by type but may include headaches; nausea and vomiting; confusion; personality changes; trouble with balance; vision problems; speech difficulties; and/or seizures. The exact underlying cause is unknown. In most cases, the tumor occurs sporadically in people with no family history of the condition. Treatment depends on many factors, including the type, size, stage and location of the tumor, but may include surgery, radiation therapy, chemotherapy and/or targeted therapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

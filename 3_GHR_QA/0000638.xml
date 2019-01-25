@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000638" source="GHR" url="https://ghr.nlm.nih.gov/condition/medullary-cystic-kidney-disease-type-1">
+<Focus>medullary cystic kidney disease type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2919861</CUI>
+			<CUI>C1691228</CUI>
+			<CUI>C0022679</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal dominant interstitial kidney disease</Synonym>
+		<Synonym>autosomal dominant medullary cystic kidney disease</Synonym>
+		<Synonym>polycystic kidneys, medullary type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000638-1" qtype="information">What is (are) medullary cystic kidney disease type 1 ?</Question>
+			<Answer>Medullary cystic kidney disease type 1 (MCKD1) is an inherited condition that affects the kidneys. It leads to scarring (fibrosis) and impaired function of the kidneys, usually beginning in adulthood. The kidneys filter fluid and waste products from the body. They also reabsorb needed nutrients and release them back into the blood. As MCKD1 progresses, the kidneys are less able to function, resulting in kidney failure.  Declining kidney function in people with MCKD1 leads to the signs and symptoms of the condition. The features are variable, even among members of the same family. Many individuals with MCKD1 develop high blood pressure (hypertension), especially as kidney function worsens. Some develop high levels of a waste product called uric acid in the blood (hyperuricemia) because the damaged kidneys are unable to remove uric acid effectively. In a small number of affected individuals, the buildup of this waste product can cause gout, which is a form of arthritis resulting from uric acid crystals in the joints.  Although the condition is named medullary cystic kidney disease, only about 40 percent of affected individuals have medullary cysts, which are fluid filled pockets found in a particular region of the kidney. When present, the cysts are usually found in the inner part of the kidney (the medullary region) or the border between the inner and outer parts (corticomedullary region). These cysts are visible by tests such as ultrasound or CT scan.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000638-2" qtype="frequency">How many people are affected by medullary cystic kidney disease type 1 ?</Question>
+			<Answer>MCKD1 is a rare disorder, although its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000638-3" qtype="genetic changes">What are the genetic changes related to medullary cystic kidney disease type 1 ?</Question>
+			<Answer>MCKD1 is caused by mutations in the MUC1 gene. This gene provides instructions for making a protein called mucin 1, which is one of several mucin proteins that make up mucus. Mucus is a slippery substance that lubricates the lining of the airways, digestive system, reproductive system, and other organs and tissues and protects them from foreign invaders and other particles.  In addition to its role in mucus, mucin 1 relays signals from outside the cell to the cell&apos;s nucleus. Through this cellular signaling, mucin 1 is thought to be involved in the growth, movement, and survival of cells. Research suggests that mucin 1 plays a role in the normal development of the kidneys.  MCKD1 is caused by the insertion of a single DNA building block (nucleotide) called cytosine into the MUC1 gene. These mutations have been found in one particular region of the gene. They lead to the production of an altered protein. It is unclear how this change causes kidney disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000638-4" qtype="inheritance">Is medullary cystic kidney disease type 1 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000638-5" qtype="treatment">What are the treatments for medullary cystic kidney disease type 1 ?</Question>
+			<Answer>These resources address the diagnosis or management of medullary cystic kidney disease type 1:  - MedlinePlus Encyclopedia: Medullary Cystic Kidney Disease  - Merck Manual for Health Care Professionals: Nephronophthisis and Medullary Cystic Kidney Disease Complex   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

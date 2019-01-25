@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005631" source="GARD" url="https://rarediseases.info.nih.gov/gard/7647/silicosis">
+<Focus>Silicosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037116</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chronic silicosis</Synonym>
+		<Synonym>Accelerated silicosis</Synonym>
+		<Synonym>Acute silicosis</Synonym>
+		<Synonym>Experimental silicosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005631-1" qtype="information">What is (are) Silicosis ?</Question>
+			<Answer>Silicosis is a respiratory disease caused by breathing in (inhaling) silica dust. There are three types of silicosis: Simple chronic silicosis, the most common type of silicosis, results from long-term exposure (usually more than 20 years) to low amounts of silica dust. Simple chronic silicosis may cause people to have difficulty breathing.  Accelerated silicosis occurs after 5 to 15 years of exposure of higher levels of silica. Swelling of the lungs and other symptoms occur faster in this type of silicosis than in the simple chronic form.  Acute silicosis results from short-term exposure (weeks or months) of large amounts of silica. The lungs become very inflamed and can fill with fluid, causing severe shortness of breath and low blood oxygen levels. A cough, weight loss, and fatigue may also be present. Acute silicosis progresses rapidly and can be fatal within months.  People who work in jobs where they are exposed to silica dust (mining, quarrying, construction, sand blasting, stone cutting) are at risk of developing this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005631-2" qtype="symptoms">What are the symptoms of Silicosis ?</Question>
+			<Answer>What are the symptoms of silicosis? Symptoms of silicosis may include:  Chronic cough Shortness of breath with exercise, usually in patients who have progressive massive fibrosis Weakness  Other symptoms of this disease, especially in acute silicosis, may also include: Cough Fever Severe breathing difficulty Weight loss Night Sweats Chest pains</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005631-3" qtype="causes">What causes Silicosis ?</Question>
+			<Answer>What causes silicosis? Silicosis is caused by breathing in tiny bits of silica dust. When people breathe silica dust, they inhale tiny particles of silica that has crystallized. This silica dust can cause fluid buildup and scar tissue in the lungs that cuts down the ability to breathe.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000599" source="GHR" url="https://ghr.nlm.nih.gov/condition/leydig-cell-hypoplasia">
+<Focus>Leydig cell hypoplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0860158</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>46,XY disorder of sex development due to LH defects</Synonym>
+		<Synonym>LCH</Synonym>
+		<Synonym>Leydig cell agenesis</Synonym>
+		<Synonym>LH resistance due to LH receptor deactivation</Synonym>
+		<Synonym>male hypergonadotropic hypogonadism due to LHCGR defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000599-1" qtype="information">What is (are) Leydig cell hypoplasia ?</Question>
+			<Answer>Leydig cell hypoplasia is a condition that affects male sexual development. It is characterized by underdevelopment (hypoplasia) of Leydig cells in the testes. Leydig cells secrete male sex hormones (androgens) that are important for normal male sexual development before birth and during puberty.  In Leydig cell hypoplasia, affected individuals with a typical male chromosomal pattern (46,XY) may have a range of genital abnormalities. Affected males may have a small penis (micropenis), the opening of the urethra on the underside of the penis (hypospadias), or a scrotum divided into two lobes (bifid scrotum). Because of these abnormalities, the external genitalia may not look clearly male or clearly female (ambiguous genitalia).  In more severe cases of Leydig cell hypoplasia, people with a typical male chromosomal pattern (46,XY) have female external genitalia. They have small testes that are undescended, which means they are abnormally located in the pelvis, abdomen, or groin. People with this form of the disorder do not develop secondary sex characteristics, such as increased body hair, at puberty. Some researchers refer to this form of Leydig cell hypoplasia as type 1 and designate less severe cases as type 2.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000599-2" qtype="frequency">How many people are affected by Leydig cell hypoplasia ?</Question>
+			<Answer>Leydig cell hypoplasia is a rare disorder; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000599-3" qtype="genetic changes">What are the genetic changes related to Leydig cell hypoplasia ?</Question>
+			<Answer>Mutations in the LHCGR gene cause Leydig cell hypoplasia. The LHCGR gene provides instructions for making a protein called the luteinizing hormone/chorionic gonadotropin receptor. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. Together, ligands and their receptors trigger signals that affect cell development and function.  The protein produced from the LHCGR gene acts as a receptor for two ligands: luteinizing hormone and a similar hormone called chorionic gonadotropin. The receptor allows the body to respond appropriately to these hormones. In males, chorionic gonadotropin stimulates the development of cells in the testes called Leydig cells, and luteinizing hormone triggers these cells to produce androgens. Androgens, including testosterone, are the hormones that control male sexual development and reproduction. In females, luteinizing hormone triggers the release of egg cells from the ovary (ovulation). Chorionic gonadotropin is produced during pregnancy and helps maintain conditions necessary for the pregnancy to continue.  The LHCGR gene mutations that cause Leydig cell hypoplasia disrupt luteinizing hormone/chorionic gonadotropin receptor function, impeding the body&apos;s ability to react to these hormones. In males, the mutations result in poorly developed or absent Leydig cells and impaired production of testosterone. A lack of testosterone interferes with the development of male reproductive organs before birth and the changes that appear at puberty. Mutations that prevent the production of any functional receptor protein cause the more severe features of Leydig cell hypoplasia, and mutations that allow some receptor protein function cause milder signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000599-4" qtype="inheritance">Is Leydig cell hypoplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Only people who have mutations in both copies of the LHCGR gene and are genetically male (with one X and one Y chromosome in each cell) have the characteristic signs of Leydig cell hypoplasia. Although people who are genetically female (with two X chromosomes in each cell) may inherit mutations in both copies of the LHCGR gene, they do not have Leydig cell hypoplasia because they do not have Leydig cells. They have normal female genitalia and normal breast and pubic hair development, but they may begin menstruation later than usual (after age 16) and have irregular menstrual periods. LHCGR gene mutations in females also prevent ovulation, leading to inability to have children (infertility).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000599-5" qtype="treatment">What are the treatments for Leydig cell hypoplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of Leydig cell hypoplasia:  - Genetic Testing Registry: Leydig cell agenesis  - MedlinePlus Encyclopedia: Ambiguous Genitalia  - MedlinePlus Encyclopedia: Hypospadias  - MedlinePlus Encyclopedia: Intersex   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

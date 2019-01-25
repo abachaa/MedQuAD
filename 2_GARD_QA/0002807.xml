@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002807" source="GARD" url="https://rarediseases.info.nih.gov/gard/9331/hepatocellular-carcinoma-childhood">
+<Focus>Hepatocellular carcinoma, childhood</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007097</CUI>
+			<CUI>C0279606</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002807-1" qtype="information">What is (are) Hepatocellular carcinoma, childhood ?</Question>
+			<Answer>Hepatocellular carcinoma, childhood is a rare type of cancer of the liver that affects children. Symptoms may include a mass in the abdomen, swollen abdomen, abdominal pain, weight loss, poor appetite, jaundice, vomiting, fever, itchy skin, anemia, and back pain. Treatment options may vary depending on a variety of factors including the stage of the cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002807-2" qtype="symptoms">What are the symptoms of Hepatocellular carcinoma, childhood ?</Question>
+			<Answer>What are the signs and symptoms of Hepatocellular carcinoma, childhood? The Human Phenotype Ontology provides the following list of signs and symptoms for Hepatocellular carcinoma, childhood. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Hepatocellular carcinoma - Micronodular cirrhosis - Somatic mutation - Subacute progressive viral hepatitis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002807-3" qtype="causes">What causes Hepatocellular carcinoma, childhood ?</Question>
+			<Answer>What causes hepatocellular carcinoma, childhood? A review of the literature suggests that knowledge regarding the cause of hepatocellular carcinoma in children is lacking due to the rarity of this disease.  Children living in regions of the world where heptatitis B virus is common have been reported to have a much greater risk of developing this disease.  Chronic infection by hepatitis C virus has also been linked to the development of hepatocellular carcinoma. Hepatocellular carcinoma has also been reported to develop in the presence of liver disease, cirrhosis, and inborn errors of metabolism. In addition, various other reported risk factors for developing hepatocellular carcinoma include: male sex, co-infection with other viral liver disease, co-infection with HIV, alcohol abuse, family history of this carcinoma, increased hepatic iron, increased serum alanine aminotransferase levels, exposure to aflatoxin B1 by food contamination, genetic variants of glutathione S-transferase, and various metabolic liver disorders. Chronic Epstein Barr virus infections have also been suggested to play a role in the development of hepatocellular carcinoma in Asian patients. This association remains to be confirmed in other populations.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

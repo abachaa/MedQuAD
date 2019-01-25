@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006546" source="GARD" url="https://rarediseases.info.nih.gov/gard/12894/zika-virus-infection">
+<Focus>Zika virus infection</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0276289</CUI>
+			<CUI>C0042769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Zika fever</Synonym>
+		<Synonym>Zika virus disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006546-1" qtype="information">What is (are) Zika virus infection ?</Question>
+			<Answer>Zika virus infection is spread to people primarily through the bite of an infected mosquito. Zika virus can also be spread from a pregnant mother to her child and through sexual contact with an affected male partner. Cases of Zika virus transmission via blood transfusions have also been reported. Zika virus outbreaks are currently occurring in many countries. Within the continental United States, Zika virus infections have mostly been in returning travelers. The illness associated with Zika virus infection is usually mild, with symptoms lasting for several days to a week. The most common symptoms of Zika are fever, rash, joint pain, and conjunctivitis (red eyes). However, recent research has suggested a link between Zika virus infection and Guillain-Barre syndrome (GBS). In addition, prenatal Zika virus infection has been shown to cause adverse pregnancy outcomes, including microcephaly and other serious brain anomalies. The precise risk of an adverse pregnancy outcome for a woman infected with Zika virus during pregnancy and the full spectrum of associated birth defects has not yet been determined. No vaccine currently exists to prevent Zika virus infection, but there are still ways to protect oneself. The CDC recommends that pregnant women consider postponing travel to Zika-affected areas. People living in or traveling to areas where Zika virus is found should take steps to prevent mosquito bites. Men who live in or who have traveled to Zika-affected areas can also take steps to prevent sexual transmission of the Zika virus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006546-2" qtype="treatment">What are the treatments for Zika virus infection ?</Question>
+			<Answer>How might a Zika virus infection be treated? There is no vaccine to prevent Zika virus infections, nor is there a specific medicine to treat Zika. Individuals infected with the Zika virus should get plenty of rest, drink fluids, and take medications such as acetaminophen for pain. Aspirin and other nonsteroidal anti-inflammatory medications (NSAIDS) should be avoided until dengue has been ruled out. In pregnant women with evidence of Zika virus in the blood or amniotic fluid, serial ultrasounds should be considered to monitor fetal anatomy and growth every 3-4 weeks. Referral to a maternal-fetal medicine specialist or infectious disease specialist with expertise in pregnancy management is recommended.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000095" source="NINDS" url="http://www.ninds.nih.gov/disorders/subacute_panencephalitis/subacute_panencephalitis.htm">
+<Focus>Subacute Sclerosing Panencephalitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038522</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000095-1" qtype="information">What is (are) Subacute Sclerosing Panencephalitis ?</Question>
+			<Answer>Subacute sclerosing panencephalitis (SSPE) is a progressive neurological disorder of children and young adults that affects the central nervous system (CNS). It is a slow, but persistent, viral infection caused by defective measles virus. SSPE has been reported from all parts of the world, but it is considered a rare disease in developed countries, with fewer than 10 cases per year reported in the United States. The incidence of SSPE declined by at least 90 percent in countries that have practiced widespread immunization with measles vaccine. The incidence of SSPE is still high in developing countries such as India and Eastern Europe. There is a higher incidence among males than females (male/female: 3/1). Most youngsters with SSPE have a history of measles infection at an early age, usually younger than 2 years, followed by a latent period of 6 to 8 years before neurological symptoms begin. Despite the long interval between the measles infection and the onset of SSPE, researchers think that the infection of the brain occurs soon after the primary bout with measles and progresses slowly. Why it persists and progresses still isn&apos;t clear. The initial symptoms of SSPE are subtle and include mild mental deterioration (such as memory loss) and changes in behavior (such as irritability) followed by disturbances in motor function, including uncontrollable involuntary jerking movements of the head, trunk or limbs called myoclonic jerks. Seizures may also occur. Some people may become blind. In advanced stages of the disease, individuals may lose the ability to walk, as their muscles stiffen or spasm. There is progressive deterioration to a comatose state, and then to a persistent vegetative state. Death is usually the result of fever, heart failure, or the brain&apos;s inability to continue controlling the autonomic nervous system.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000095-2" qtype="treatment">What are the treatments for Subacute Sclerosing Panencephalitis ?</Question>
+			<Answer>Currently, there is no cure for SSPE. Clinical trials of antiviral (isoprinosine and ribavirin) and immunomodulatory (interferon alpha) drugs have suggested that these types of therapies given alone or in combination halt the progression of the disease and can prolong life, but their long-term effects on individuals, and eventual outcome, are unknown. Good nursing care is the most important aspect of treatment for SSPE, along with anticonvulsant and antispasmodic drugs when needed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000095-3" qtype="outlook">What is the outlook for Subacute Sclerosing Panencephalitis ?</Question>
+			<Answer>Most individuals with SSPE will die within 1 to 3 years of diagnosis. In a small percentage of people, the disease will progress rapidly, leading to death over a short course within three months of diagnosis. Another small group will have a chronic, slowly progressive form, some with relapses and remissions. A very small number (approximately 5 percent) may experience spontaneous long term improvement and regain lost function. Prevention, in the form of measles vaccination, is the only real &quot;cure&quot; for SSPE.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000095-4" qtype="research">what research (or clinical trials) is being done for Subacute Sclerosing Panencephalitis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes at the National Institutes of Health conduct research related to SSPE in their clinics and laboratories and support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat and ultimately cure SSPE.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

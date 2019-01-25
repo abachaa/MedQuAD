@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001827" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003024.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Headache</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2096315</CUI>
+			<CUI>C0018681</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pain - head</Synonym>
+		<Synonym>Rebound headaches</Synonym>
+		<Synonym>Medication overuse headaches</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001827-1" qtype="information">What is (are) Headache ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001827-2" qtype="causes">What causes Headache ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001827-3" qtype="considerations">What to do for Headache ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001827-4" qtype="when to contact a medical professional">Do I need to see a doctor for Headache ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001827-5" qtype="outlook">What is the outlook for Headache ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000662" source="GHR" url="https://ghr.nlm.nih.gov/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes">
+<Focus>mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162666</CUI>
+			<CUI>C1857287</CUI>
+			<CUI>C0001125</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MELAS</Synonym>
+		<Synonym>MELAS syndrome</Synonym>
+		<Synonym>mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes</Synonym>
+		<Synonym>mitochondrial myopathy, lactic acidosis, stroke-like episode</Synonym>
+		<Synonym>myopathy, mitochondrial-encephalopathy-lactic acidosis-stroke</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000662-1" qtype="information">What is (are) mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes ?</Question>
+			<Answer>Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes (MELAS) is a condition that affects many of the body&apos;s systems, particularly the brain and nervous system (encephalo-) and muscles (myopathy). The signs and symptoms of this disorder most often appear in childhood following a period of normal development, although they can begin at any age. Early symptoms may include muscle weakness and pain, recurrent headaches, loss of appetite, vomiting, and seizures. Most affected individuals experience stroke-like episodes beginning before age 40. These episodes often involve temporary muscle weakness on one side of the body (hemiparesis), altered consciousness, vision abnormalities, seizures, and severe headaches resembling migraines. Repeated stroke-like episodes can progressively damage the brain, leading to vision loss, problems with movement, and a loss of intellectual function (dementia).  Most people with MELAS have a buildup of lactic acid in their bodies, a condition called lactic acidosis. Increased acidity in the blood can lead to vomiting, abdominal pain, extreme tiredness (fatigue), muscle weakness, and difficulty breathing. Less commonly, people with MELAS may experience involuntary muscle spasms (myoclonus), impaired muscle coordination (ataxia), hearing loss, heart and kidney problems, diabetes, and hormonal imbalances.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000662-2" qtype="frequency">How many people are affected by mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes ?</Question>
+			<Answer>The exact incidence of MELAS is unknown. It is one of the more common conditions in a group known as mitochondrial diseases. Together, mitochondrial diseases occur in about 1 in 4,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000662-3" qtype="genetic changes">What are the genetic changes related to mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes ?</Question>
+			<Answer>MELAS can result from mutations in one of several genes, including MT-ND1, MT-ND5, MT-TH, MT-TL1, and MT-TV. These genes are found in the DNA of cellular structures called mitochondria, which convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA, known as mitochondrial DNA or mtDNA.  Some of the genes related to MELAS provide instructions for making proteins involved in normal mitochondrial function. These proteins are part of a large enzyme complex in mitochondria that helps convert oxygen, fats, and simple sugars to energy. Other genes associated with this disorder provide instructions for making molecules called transfer RNAs (tRNAs), which are chemical cousins of DNA. These molecules help assemble protein building blocks called amino acids into full-length, functioning proteins within mitochondria.  Mutations in a particular transfer RNA gene, MT-TL1, cause more than 80 percent of all cases of MELAS. These mutations impair the ability of mitochondria to make proteins, use oxygen, and produce energy. Researchers have not determined how changes in mtDNA lead to the specific signs and symptoms of MELAS. They continue to investigate the effects of mitochondrial gene mutations in different tissues, particularly in the brain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000662-4" qtype="inheritance">Is mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes inherited ?</Question>
+			<Answer>This condition is inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.  In most cases, people with MELAS inherit an altered mitochondrial gene from their mother. Less commonly, the disorder results from a new mutation in a mitochondrial gene and occurs in people with no family history of MELAS.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000662-5" qtype="treatment">What are the treatments for mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes ?</Question>
+			<Answer>These resources address the diagnosis or management of MELAS:  - Gene Review: Gene Review: MELAS  - Gene Review: Gene Review: Mitochondrial Disorders Overview  - Genetic Testing Registry: Juvenile myopathy, encephalopathy, lactic acidosis AND stroke  - MedlinePlus Encyclopedia: Lactic acidosis  - MedlinePlus Encyclopedia: Stroke   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

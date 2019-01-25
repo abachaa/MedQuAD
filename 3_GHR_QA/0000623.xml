@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000623" source="GHR" url="https://ghr.nlm.nih.gov/condition/mandibulofacial-dysostosis-with-microcephaly">
+<Focus>mandibulofacial dysostosis with microcephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013393</CUI>
+			<CUI>C1864652</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>mandibulofacial dysostosis, Guion-Almeida type</Synonym>
+		<Synonym>MFDGA</Synonym>
+		<Synonym>MFDM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000623-1" qtype="information">What is (are) mandibulofacial dysostosis with microcephaly ?</Question>
+			<Answer>Mandibulofacial dysostosis with microcephaly (MFDM) is a disorder that causes abnormalities of the head and face. People with this disorder often have an unusually small head at birth, and the head does not grow at the same rate as the rest of the body, so it appears that the head is getting smaller as the body grows (progressive microcephaly). Affected individuals have developmental delay and intellectual disability that can range from mild to severe. Speech and language problems are also common in this disorder.  Facial abnormalities that occur in MFDM include underdevelopment of the middle of the face and the cheekbones (midface and malar hypoplasia) and an unusually small lower jaw (mandibular hypoplasia, also called micrognathia). The external ears are small and abnormally shaped, and they may have skin growths in front of them called preauricular tags. There may also be abnormalities of the ear canal, the tiny bones in the ears (ossicles), or a part of the inner ear called the semicircular canals. These ear abnormalities lead to hearing loss in most affected individuals. Some people with MFDM have an opening in the roof of the mouth (cleft palate), which may also contribute to hearing loss by increasing the risk of ear infections. Affected individuals can also have a blockage of the nasal passages (choanal atresia) that can cause respiratory problems.  Heart problems, abnormalities of the thumbs, and short stature are other features that can occur in MFDM. Some people with this disorder also have blockage of the esophagus (esophageal atresia). In esophageal atresia, the upper esophagus does not connect to the lower esophagus and stomach. Most babies born with esophageal atresia (EA) also have a tracheoesophageal fistula (TEF), in which the esophagus and the trachea are abnormally connected, allowing fluids from the esophagus to get into the airways and interfere with breathing. Esophageal atresia/tracheoesophageal fistula (EA/TEF) is a life-threatening condition; without treatment, it prevents normal feeding and can cause lung damage from repeated exposure to esophageal fluids.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000623-2" qtype="frequency">How many people are affected by mandibulofacial dysostosis with microcephaly ?</Question>
+			<Answer>MFDM is a rare disorder; its exact prevalence is unknown. More than 60 affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000623-3" qtype="genetic changes">What are the genetic changes related to mandibulofacial dysostosis with microcephaly ?</Question>
+			<Answer>MFDM is caused by mutations in the EFTUD2 gene. This gene provides instructions for making one part (subunit) of two complexes called the major and minor spliceosomes. Spliceosomes help process messenger RNA (mRNA), which is a chemical cousin of DNA that serves as a genetic blueprint for making proteins. The spliceosomes recognize and then remove regions called introns to help produce mature mRNA molecules.  EFTUD2 gene mutations that cause MFDM result in the production of little or no functional enzyme from one copy of the gene in each cell. A shortage of this enzyme likely impairs mRNA processing. The relationship between these mutations and the specific symptoms of MFDM is not well understood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000623-4" qtype="inheritance">Is mandibulofacial dysostosis with microcephaly inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family. In other cases, an affected person inherits the mutation from a parent. The parent may be mildly affected or may be unaffected. Sometimes the parent has the gene mutation only in some or all of their sperm or egg cells, which is known as germline mosaicism. In these cases, the parent has no signs or symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000623-5" qtype="treatment">What are the treatments for mandibulofacial dysostosis with microcephaly ?</Question>
+			<Answer>These resources address the diagnosis or management of MFDM:  - Gene Review: Gene Review: Mandibulofacial Dysostosis with Microcephaly  - Genetic Testing Registry: Growth and mental retardation, mandibulofacial dysostosis, microcephaly, and cleft palate   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

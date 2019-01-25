@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000252" source="GHR" url="https://ghr.nlm.nih.gov/condition/crigler-najjar-syndrome">
+<Focus>Crigler-Najjar syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010324</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Crigler Najjar syndrome</Synonym>
+		<Synonym>familial nonhemolytic unconjugated hyperbilirubinemia</Synonym>
+		<Synonym>hereditary unconjugated hyperbilirubinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000252-1" qtype="information">What is (are) Crigler-Najjar syndrome ?</Question>
+			<Answer>Crigler-Najjar syndrome is a severe condition characterized by high levels of a toxic substance called bilirubin in the blood (hyperbilirubinemia). Bilirubin is produced when red blood cells are broken down. This substance is removed from the body only after it undergoes a chemical reaction in the liver, which converts the toxic form of bilirubin (called unconjugated bilirubin) to a nontoxic form called conjugated bilirubin. People with Crigler-Najjar syndrome have a buildup of unconjugated bilirubin in their blood (unconjugated hyperbilirubinemia).  Bilirubin has an orange-yellow tint, and hyperbilirubinemia causes yellowing of the skin and whites of the eyes (jaundice). In Crigler-Najjar syndrome, jaundice is apparent at birth or in infancy. Severe unconjugated hyperbilirubinemia can lead to a condition called kernicterus, which is a form of brain damage caused by the accumulation of unconjugated bilirubin in the brain and nerve tissues. Babies with kernicterus are often extremely tired (lethargic) and may have weak muscle tone (hypotonia). These babies may experience episodes of increased muscle tone (hypertonia) and arching of their backs. Kernicterus can lead to other neurological problems, including involuntary writhing movements of the body (choreoathetosis), hearing problems, or intellectual disability.  Crigler-Najjar syndrome is divided into two types. Type 1 (CN1) is very severe, and affected individuals can die in childhood due to kernicterus, although with proper treatment, they may survive longer. Type 2 (CN2) is less severe. People with CN2 are less likely to develop kernicterus, and most affected individuals survive into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000252-2" qtype="frequency">How many people are affected by Crigler-Najjar syndrome ?</Question>
+			<Answer>Crigler-Najjar syndrome is estimated to affect fewer than 1 in 1 million newborns worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000252-3" qtype="genetic changes">What are the genetic changes related to Crigler-Najjar syndrome ?</Question>
+			<Answer>Mutations in the UGT1A1 gene cause Crigler-Najjar syndrome. This gene provides instructions for making the bilirubin uridine diphosphate glucuronosyl transferase (bilirubin-UGT) enzyme, which is found primarily in liver cells and is necessary for the removal of bilirubin from the body.  The bilirubin-UGT enzyme performs a chemical reaction called glucuronidation. During this reaction, the enzyme transfers a compound called glucuronic acid to unconjugated bilirubin, converting it to conjugated bilirubin. Glucuronidation makes bilirubin dissolvable in water so that it can be removed from the body.  Mutations in the UGT1A1 gene that cause Crigler-Najjar syndrome result in reduced or absent function of the bilirubin-UGT enzyme. People with CN1 have no enzyme function, while people with CN2 have less than 20 percent of normal function. The loss of bilirubin-UGT function decreases glucuronidation of unconjugated bilirubin. This toxic substance then builds up in the body, causing unconjugated hyperbilirubinemia and jaundice.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000252-4" qtype="inheritance">Is Crigler-Najjar syndrome inherited ?</Question>
+			<Answer>Crigler-Najjar syndrome is inherited in an autosomal recessive pattern, which means both copies of the UGT1A1 gene in each cell have mutations. A less severe condition called Gilbert syndrome can occur when one copy of the UGT1A1 gene has a mutation.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000252-5" qtype="treatment">What are the treatments for Crigler-Najjar syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Crigler-Najjar syndrome:  - Centers for Disease Control and Prevention: Facts About Jaundice and Kernicterus  - Genetic Testing Registry: Crigler Najjar syndrome, type 1  - Genetic Testing Registry: Crigler-Najjar syndrome  - Genetic Testing Registry: Crigler-Najjar syndrome, type II   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

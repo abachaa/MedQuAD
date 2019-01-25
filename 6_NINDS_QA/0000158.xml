@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000158" source="NINDS" url="http://www.ninds.nih.gov/disorders/hypertonia/hypertonia.htm">
+<Focus>Hypertonia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026826</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000158-1" qtype="information">What is (are) Hypertonia ?</Question>
+			<Answer>Hypertonia is a condition in which there is too much muscle tone so that arms or legs, for example, are stiff and difficult to move. Muscle tone is regulated by signals that travel from the brain to the nerves and tell the muscle to contract. Hypertonia happens when the regions of the brain or spinal cord that control these signals are damaged. This can occur for many reasons, such as a blow to the head, stroke, brain tumors, toxins that affect the brain, neurodegenerative processes such as in multiple sclerosis or Parkinson&apos;s disease, or neurodevelopmental abnormalities such as in cerebral palsy.
+                
+Hypertonia often limits how easily the joints can move. If it affects the legs, walking can become stiff and people may fall because it is difficult for the body to react quickly enough to regain balance. If hypertonia is severe, it can cause a joint to become &quot;frozen,&quot; which doctors call a joint contracture.
+                
+Spasticity is a term that is often used interchangeably with hypertonia. Spasticity, however, is a particular type of hypertonia in which the muscles&apos; spasms are increased by movement. In this type, patients usually have exaggerated reflex responses.
+                
+Rigidity is another type of hypertonia in which the muscles have the same amount of stiffness independent of the degree of movement. Rigidity usually occurs in diseases such as Parkinson&apos;s disease, that involve the basal ganglia (a deep region of the brain). To distinguish these types of hypertonia, a doctor will as the patient to relax and then will move the arm or leg at different speeds and in a variety of directions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000158-2" qtype="treatment">What are the treatments for Hypertonia ?</Question>
+			<Answer>Muscle relaxing drugs such as baclofen, diazepam, and dantrolene may be prescribed to reduce spasticity. All of these drugs can be taken by mouth, but baclofen may also be injected directly into the cerebrospinal fluid through an implanted pump. Botulinum toxin is often used to relieve hypertonia in a specific area of the body because its effects are local, not body-wide. People with hypertonia should try to preserve as much movement as possibly by exercising within their limits and using physical therapy.
+                
+Drugs that affect the dopamine system (dopamine is a chemical in the brain) such as levodopa/carbidopa, or entacapone, are often used to treat the rigidity associated with Parkinson&apos;s disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000158-3" qtype="outlook">What is the outlook for Hypertonia ?</Question>
+			<Answer>The prognosis depends upon the severity of the hypertonia and its cause. In some cases, such as cerebral palsy, the hypertonia may not change over the course of a lifetime. in other cases, the hypertonia may worsen along with the underlying disease If the hypertonia is mild, it has little or no effect on a person&apos;s health. If there is moderate hypertonia, falls or joint contractures may have an impact on a person&apos;s health and safety. If the hypertonia is so severe that is caused immobility, potential consequences include increased bone fragility and fracture, infection, bed sores, and pneumonia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000158-4" qtype="research">what research (or clinical trials) is being done for Hypertonia ?</Question>
+			<Answer>NINDS supports research on brain and spinal cord disorders that can cause hypertonia. The goals of this research are to learn more about how the nervous system adapts after injury or disease and to find ways to prevent and treat these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

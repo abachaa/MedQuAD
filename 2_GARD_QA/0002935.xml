@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002935" source="GARD" url="https://rarediseases.info.nih.gov/gard/9783/human-t-cell-leukemia-virus-type-2">
+<Focus>Human T-cell leukemia virus type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023492</CUI>
+			<CUI>C0020099</CUI>
+			<CUI>C0596828</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T005</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HTLV-2</Synonym>
+		<Synonym>Human T lymphotropic virus type 2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002935-1" qtype="information">What is (are) Human T-cell leukemia virus type 2 ?</Question>
+			<Answer>Human T-cell leukemia virus, type 2 (HTLV-2) is a retroviral infection that affect the T cells (a type of white blood cell). Although this virus generally causes no signs or symptoms, scientists suspect that some affected people may later develop neurological problems and/or chronic lung infections. HTLV-2 is spread by blood transfusions, sexual contact and sharing needles. It can also be spread from mother to child during birth or breast-feeding. There is no cure or treatment for HTLV-2 and it is considered a lifelong condition; however, most infected people remain asymptomatic (show no symptoms) throughout life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002935-2" qtype="symptoms">What are the symptoms of Human T-cell leukemia virus type 2 ?</Question>
+			<Answer>What are the signs and symptoms of human T-cell leukemia virus, type 2? Human T-cell leukemia virus, type 2 (HTLV-2) generally causes no signs or symptoms. Although HTLV-2 has not been definitively linked with any specific health problems, scientists suspect that some affected people may later develop neurological problems such as:[7046] Sensory neuropathies (conditions that affect the nerves that provide feeling) Gait abnormalities Bladder dysfunction Mild cognitive impairment Motor abnormalities (loss of or limited muscle control or movement, or limited mobility) Erectile dysfunction Although evidence is limited, there may also be a link between HTLV-2 and chronic lung infections (i.e. pneumonia and bronchitis), arthritis, asthma, and dermatitis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002935-3" qtype="causes">What causes Human T-cell leukemia virus type 2 ?</Question>
+			<Answer>What causes human T-cell leukemia virus, type 2? Human T-cell leukemia virus, type 2 (HTLV-2) occurs when a person is infected by the human T-cell leukemia retrovirus. HTLV-2 is spread by blood transfusions, sexual contact and sharing needles. It can also be spread from mother to child during birth or breast-feeding. It is unclear why some people with HTLV-2 may develop neurological problems and other medical conditions, while others remain asymptomatic (show no signs or symptoms) their entire lives.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002935-4" qtype="exams and tests">How to diagnose Human T-cell leukemia virus type 2 ?</Question>
+			<Answer>How is human T-cell leukemia virus, type 2 diagnosed? Human T-cell leukemia virus, type 2 (HTLV-2) is usually diagnosed based on blood tests that detect antibodies to the virus. However, HTLV-2 is often never suspected or diagnosed since most people never develop any signs or symptoms of the infection. Diagnosis may occur during screening for blood donation, testing performed due to a family history of the infection, or a work-up for an HTLV-2-associated medical problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002935-5" qtype="treatment">What are the treatments for Human T-cell leukemia virus type 2 ?</Question>
+			<Answer>How might human T-cell leukemia virus, type 2 be treated? No cure or treatment exists for human T-cell leukemia virus, type 2 (HTLV-2). Management is focused on early detection and preventing the spread of HTLV-2 to others. Screening blood doners, promoting safe sex and discouraging needle sharing can decrease the number of new infections. Mother-to-child transmission can be reduced by screening pregnant women so infected mothers can avoid breastfeeding.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

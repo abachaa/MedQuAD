@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000282" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/diarrhea.html">
+<Focus>Diarrhea</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011991</CUI>
+			<CUI>C1963091</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dysentery</Synonym>
+		<Synonym>The runs</Synonym>
+		<Synonym>The trots</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000282-1" qtype="information">What is (are) Diarrhea ?</Question>
+			<Answer>Diarrhea means that you have loose, watery stools more than three times in one day. You may also have cramps, bloating, nausea and an urgent need to have a bowel movement.     Causes of diarrhea include bacteria, viruses or parasites, certain medicines, food intolerances and diseases that affect the stomach, small intestine or colon. In many cases, no cause can be found.     Although usually not harmful, diarrhea can become dangerous or signal a more serious problem. You should talk to your doctor if you have a strong pain in your abdomen or rectum, a fever, blood in your stools, severe diarrhea for more than three days or symptoms of dehydration. If your child has diarrhea, do not hesitate to call the doctor for advice. Diarrhea can be dangerous in children.     NIH: National Institute of Diabetes and Digestive and Kidney Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000772" source="GHR" url="https://ghr.nlm.nih.gov/condition/parkes-weber-syndrome">
+<Focus>Parkes Weber syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022739</CUI>
+			<CUI>C0038505</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Parkes-Weber syndrome</Synonym>
+		<Synonym>PKWS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000772-1" qtype="information">What is (are) Parkes Weber syndrome ?</Question>
+			<Answer>Parkes Weber syndrome is a disorder of the vascular system, which is the body&apos;s complex network of blood vessels. The vascular system consists of arteries, which carry oxygen-rich blood from the heart to the body&apos;s various organs and tissues; veins, which carry blood back to the heart; and capillaries, which are tiny blood vessels that connect arteries and veins.  Parkes Weber syndrome is characterized by vascular abnormalities known as capillary malformations and arteriovenous fistulas (AVFs), which are present from birth. The capillary malformations increase blood flow near the surface of the skin. They usually look like large, flat, pink stains on the skin, and because of their color are sometimes called &quot;port-wine stains.&quot; In people with Parkes Weber syndrome, capillary malformations occur together with multiple micro-AVFs, which are tiny abnormal connections between arteries and veins that affect blood circulation. These AVFs can be associated with life-threatening complications including abnormal bleeding and heart failure.  Another characteristic feature of Parkes Weber syndrome is overgrowth of one limb, most commonly a leg. Abnormal growth occurs in bones and soft tissues, making one of the limbs longer and larger around than the corresponding one.  Some vascular abnormalities seen in Parkes Weber syndrome are similar to those that occur in a condition called capillary malformation-arteriovenous malformation syndrome (CM-AVM). CM-AVM and some cases of Parkes Weber syndrome have the same genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000772-2" qtype="frequency">How many people are affected by Parkes Weber syndrome ?</Question>
+			<Answer>Parkes Weber syndrome is a rare condition; its exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000772-3" qtype="genetic changes">What are the genetic changes related to Parkes Weber syndrome ?</Question>
+			<Answer>Some cases of Parkes Weber syndrome result from mutations in the RASA1 gene. When the condition is caused by RASA1 gene mutations, affected individuals usually have multiple capillary malformations. People with Parkes Weber syndrome who do not have multiple capillary malformations are unlikely to have mutations in the RASA1 gene; in these cases, the cause of the condition is often unknown.  The RASA1 gene provides instructions for making a protein known as p120-RasGAP, which is involved in transmitting chemical signals from outside the cell to the nucleus. These signals help control several important cell functions, including the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), and cell movement. The role of the p120-RasGAP protein is not fully understood, although it appears to be essential for the normal development of the vascular system.  Mutations in the RASA1 gene lead to the production of a nonfunctional version of the p120-RasGAP protein. A loss of this protein&apos;s activity disrupts tightly regulated chemical signaling during development. However, it is unclear how these changes lead to the specific vascular abnormalities and limb overgrowth seen in people with Parkes Weber syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000772-4" qtype="inheritance">Is Parkes Weber syndrome inherited ?</Question>
+			<Answer>Most cases of Parkes Weber syndrome occur in people with no history of the condition in their family. These cases are described as sporadic.  When Parkes Weber syndrome is caused by mutations in the RASA1 gene, it is sometimes inherited from an affected parent. In these cases, the condition has an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000772-5" qtype="treatment">What are the treatments for Parkes Weber syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Parkes Weber syndrome:  - Gene Review: Gene Review: RASA1-Related Disorders  - Genetic Testing Registry: Parkes Weber syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

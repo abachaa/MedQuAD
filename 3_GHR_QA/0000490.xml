@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000490" source="GHR" url="https://ghr.nlm.nih.gov/condition/huntington-disease-like-syndrome">
+<Focus>Huntington disease-like syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3711380</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Huntington disease-like syndromes</Synonym>
+		<Synonym>Huntington's disease-like syndromes</Synonym>
+		<Synonym>Huntington's disease phenocopies</Synonym>
+		<Synonym>Huntington's disease phenocopy syndromes</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000490-1" qtype="information">What is (are) Huntington disease-like syndrome ?</Question>
+			<Answer>As its name suggests, a Huntington disease-like (HDL) syndrome is a condition that resembles Huntington disease. Researchers have described four HDL syndromes, designated Huntington disease-like 1 (HDL1) through Huntington disease-like 4 (HDL4). These progressive brain disorders are characterized by uncontrolled movements, emotional problems, and loss of thinking ability. HDL syndromes occur in people with the characteristic features of Huntington disease who do not have a mutation in HD, the gene typically associated with that disorder.  HDL1, HDL2, and HDL4 usually appear in early to mid-adulthood, although they can begin earlier in life. The first signs and symptoms of these conditions often include irritability, emotional problems, small involuntary movements, poor coordination, and trouble learning new information or making decisions. Many affected people develop involuntary jerking or twitching movements known as chorea. As the disease progresses, these abnormal movements become more pronounced. Affected individuals may develop problems with walking, speaking, and swallowing. People with these disorders also experience changes in personality and a decline in thinking and reasoning abilities. Individuals with an HDL syndrome can live for a few years to more than a decade after signs and symptoms begin.  HDL3 begins much earlier in life than most of the other HDL syndromes (usually around age 3 or 4). Affected children experience a decline in thinking ability, difficulties with movement and speech, and seizures. Because HDL3 has a somewhat different pattern of signs and symptoms and a different pattern of inheritance, researchers are unsure whether it belongs in the same category as the other HDL syndromes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000490-2" qtype="frequency">How many people are affected by Huntington disease-like syndrome ?</Question>
+			<Answer>Overall, HDL syndromes are rare. They are much less common than Huntington disease, which affects an estimated 3 to 7 per 100,000 people of European ancestry.  Of the four described HDL syndromes, HDL4 appears to be the most common. HDL2 is the second most common and occurs almost exclusively in people of African heritage (especially black South Africans). HDL1 has been reported in only one family. HDL3 has been found in two families, both of which were from Saudi Arabia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000490-3" qtype="genetic changes">What are the genetic changes related to Huntington disease-like syndrome ?</Question>
+			<Answer>In about one percent of people with the characteristic features of Huntington disease, no mutation in the HD gene has been identified. Mutations in the PRNP, JPH3, and TBP genes have been found to cause the signs and symptoms in some of these individuals. HDL1 is caused by mutations in the PRNP gene, while HDL2 results from mutations in JPH3. Mutations in the TBP gene are responsible for HDL4 (also known as spinocerebellar ataxia type 17). The genetic cause of HDL3 is unknown.  The PRNP, JPH3, and TBP genes provide instructions for making proteins that are important for normal brain function. The features of HDL syndromes result from a particular type of mutation in any one of these genes. This mutation increases the length of a repeated segment of DNA within the gene, which leads to the production of an abnormal PRNP, JPH3, or TBP protein. The abnormal protein can build up in nerve cells (neurons) and disrupt the normal functions of these cells. The dysfunction and eventual death of neurons in certain areas of the brain underlie the signs and symptoms of HDL syndromes.  Other medical conditions and gene mutations may also cause signs and symptoms resembling Huntington disease. In some affected people, the cause of the disorder is never identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000490-4" qtype="inheritance">Is Huntington disease-like syndrome inherited ?</Question>
+			<Answer>HDL1, HDL2, and HDL4 are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the mutation from one affected parent.  As the mutation responsible for HDL2 or HDL4 is passed down from one generation to the next, the length of the repeated DNA segment may increase. A longer repeat segment is often associated with more severe signs and symptoms that appear earlier in life. This phenomenon is known as anticipation.  HDL3 is probably inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000490-5" qtype="treatment">What are the treatments for Huntington disease-like syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Huntington disease-like syndrome:  - Gene Review: Gene Review: Huntington Disease-Like 2  - Gene Review: Gene Review: Spinocerebellar Ataxia Type 17  - Genetic Testing Registry: Huntington disease-like 1  - Genetic Testing Registry: Huntington disease-like 2  - Genetic Testing Registry: Huntington disease-like 3  - Genetic Testing Registry: Spinocerebellar ataxia 17   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002180" source="GARD" url="https://rarediseases.info.nih.gov/gard/6390/ewing-sarcoma">
+<Focus>Ewing sarcoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1261473</CUI>
+			<CUI>C0553580</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ewing's tumor</Synonym>
+		<Synonym>Sarcoma, Ewing's</Synonym>
+		<Synonym>Ewing tumor</Synonym>
+		<Synonym>Ewing's sarcoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002180-1" qtype="information">What is (are) Ewing sarcoma ?</Question>
+			<Answer>Ewing sarcoma is a malignant (cancerous) bone tumor that affects children. It can occur any time during childhood and young adulthood, but usually develops during puberty, when bones are growing rapidly. The tumor may arise anywhere in the body, usually in the long bones of the arms and legs, the pelvis, or the chest. It may also develop in the skull or the flat bones of the trunk. There are few symptoms. The most common is pain and occasionally swelling at the site of the tumor. Fever may also be present. The tumor often spreads (metastasis) to the lungs and other bones. The cause of Ewing sarcoma is unknown. Most cases are thought to occur randomly and many involved a reciprocal translocation between chromosomes 11 and 22. Treatment depends upon a number of factors, but may include chemotherapy, radiation and/or surgical interventions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002180-2" qtype="symptoms">What are the symptoms of Ewing sarcoma ?</Question>
+			<Answer>What are the signs and symptoms of Ewing sarcoma? The Human Phenotype Ontology provides the following list of signs and symptoms for Ewing sarcoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Ewing&apos;s sarcoma - Somatic mutation - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002180-3" qtype="causes">What causes Ewing sarcoma ?</Question>
+			<Answer>What causes Ewing sarcoma? The exact cause of Ewing sarcoma remains largely unknown. Chromosomal studies have found that Ewing sarcoma cells are often characterized by an abnormal change in their genetic makeup known as a reciprocal translocation. The most common mutation, occurring in approximately 85% of Ewing sarcoma tumors, involves two genes, the EWSR1 gene on chromosome 22 and the FLI1 gene on chromosome 11. This rearrangement of genetic material between chromosomes 22 and 11 fuses part of the EWSR1 gene with part of the FLI1 gene, creating the EWSR1/FLI1 fusion gene. This mutation is acquired during a person&apos;s lifetime and is present only in tumor cells. This type of genetic change, called a somatic mutation, is not inherited. In extremely rare cases, Ewing sarcoma may develop as a second malignancy, which means that the condition develops as a late-onset complication of earlier treatment for another form of cancer.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002180-4" qtype="inheritance">Is Ewing sarcoma inherited ?</Question>
+			<Answer>Is Ewing sarcoma an inherited condition? This condition is generally not inherited but arises from a mutation in the body&apos;s cells that occurs after conception (somatic mutation). Most cases are considered to be sporadic. However, the incidence of neuroectodermal and stomach malignancies is increased among family members of patients with tumors of the Ewing sarcoma family.  A search of the medical literature did identify a very small number of cases of Ewing sarcoma among siblings. To access articles on this topic, click here.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000641" source="GHR" url="https://ghr.nlm.nih.gov/condition/megalencephaly-capillary-malformation-syndrome">
+<Focus>megalencephaly-capillary malformation syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3813729</CUI>
+			<CUI>C1865285</CUI>
+			<CUI>C0340803</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>M-CM</Synonym>
+		<Synonym>macrocephaly-capillary malformation syndrome</Synonym>
+		<Synonym>macrocephaly cutis marmorata telangiectatica congenita</Synonym>
+		<Synonym>MCAP</Synonym>
+		<Synonym>MCMTC</Synonym>
+		<Synonym>megalencephaly-capillary malformation-polymicrogyria syndrome</Synonym>
+		<Synonym>megalencephaly cutis marmorata telangiectatica congenita</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000641-1" qtype="information">What is (are) megalencephaly-capillary malformation syndrome ?</Question>
+			<Answer>Megalencephaly-capillary malformation syndrome (MCAP) is a disorder characterized by overgrowth of several tissues in the body. Its primary features are a large brain (megalencephaly) and abnormalities of small blood vessels in the skin called capillaries (capillary malformations).  In individuals with MCAP, megalencephaly leads to an unusually large head size (macrocephaly), which is typically evident at birth. After birth, the brain and head continue to grow at a fast rate for the first few years of life; then, the growth slows to a normal rate, although the head remains larger than average. Additional brain abnormalities are common in people with MCAP; these can include excess fluid within the brain (hydrocephalus) and abnormalities in the brain&apos;s structure, such as those known as Chiari malformation and polymicrogyria. Abnormal brain development leads to intellectual disability in most affected individuals and can also cause seizures or weak muscle tone (hypotonia). In particular, polymicrogyria is associated with speech delays and difficulty chewing and swallowing.  The capillary malformations characteristic of MCAP are composed of enlarged capillaries that increase blood flow near the surface of the skin. These malformations usually look like pink or red spots on the skin. In most affected individuals, capillary malformations occur on the face, particularly the nose, the upper lip, and the area between the nose and upper lip (the philtrum). In other people with MCAP, the malformations appear as patches spread over the body or as a reddish net-like pattern on the skin (cutis marmorata).  In some people with MCAP, excessive growth affects not only the brain but other individual parts of the body, which is known as segmental overgrowth. This can lead to one arm or leg that is bigger or longer than the other or a few oversized fingers or toes. Some affected individuals have fusion of the skin between two or more fingers or toes (cutaneous syndactyly).  Additional features of MCAP can include flexible joints and skin that stretches easily. Some affected individuals are said to have doughy skin because the tissue under the skin is unusually thick and soft.  The gene involved in MCAP is also associated with several types of cancer. Although a small number of individuals with MCAP have developed tumors (in particular, a childhood form of kidney cancer known as Wilms tumor and noncancerous tumors in the nervous system known as meningiomas), people with MCAP do not appear to have a greater risk of developing cancer than the general population.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000641-2" qtype="frequency">How many people are affected by megalencephaly-capillary malformation syndrome ?</Question>
+			<Answer>The prevalence of MCAP is unknown. At least 150 affected individuals have been reported in the medical literature. Because the condition is often thought to be misdiagnosed or underdiagnosed, it may be more common than reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000641-3" qtype="genetic changes">What are the genetic changes related to megalencephaly-capillary malformation syndrome ?</Question>
+			<Answer>MCAP is caused by mutations in the PIK3CA gene, which provides instructions for making the p110 alpha (p110) protein. This protein is one piece (subunit) of an enzyme called phosphatidylinositol 3-kinase (PI3K), which plays a role in chemical signaling within cells. PI3K signaling is important for many cell activities, including cell growth and division (proliferation), movement (migration) of cells, and cell survival. These functions make PI3K important for the development of tissues throughout the body, including the brain and blood vessels.  PIK3CA gene mutations involved in MCAP alter the p110 protein. The altered subunit makes PI3K abnormally active, which allows cells to grow and divide continuously. Increased cell proliferation leads to the overgrowth of the brain, blood vessels, and other organs and tissues characteristic of MCAP.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000641-4" qtype="inheritance">Is megalencephaly-capillary malformation syndrome inherited ?</Question>
+			<Answer>MCAP is not inherited from a parent and does not run in families. In people with MCAP, a PIK3CA gene mutation arises randomly in one cell during the early stages of development before birth. As cells continue to divide, some cells will have the mutation and other cells will not. This mixture of cells with and without a genetic mutation is known as mosaicism.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000641-5" qtype="treatment">What are the treatments for megalencephaly-capillary malformation syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of megalencephaly-capillary malformation syndrome:  - Contact a Family  - Gene Review: Gene Review: PIK3CA-Related Segmental Overgrowth  - Genetic Testing Registry: Megalencephaly cutis marmorata telangiectatica congenita  - M-CM Network: How is M-CM Diagnosed?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

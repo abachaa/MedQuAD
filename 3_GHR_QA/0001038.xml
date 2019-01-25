@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001038" source="GHR" url="https://ghr.nlm.nih.gov/condition/winchester-syndrome">
+<Focus>Winchester syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432289</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Winchester disease</Synonym>
+		<Synonym>WNCHRS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001038-1" qtype="information">What is (are) Winchester syndrome ?</Question>
+			<Answer>Winchester syndrome is a rare inherited disease characterized by a loss of bone tissue (osteolysis), particularly in the hands and feet. Winchester syndrome used to be considered part of a related condition now called multicentric osteolysis, nodulosis, and arthropathy (MONA). However, because Winchester syndrome and MONA are caused by mutations in different genes, they are now thought to be separate disorders.  In most cases of Winchester syndrome, bone loss begins in the hands and feet, causing pain and limiting movement. Bone abnormalities later spread to other parts of the body, with joint problems (arthropathy) occurring in the elbows, shoulders, knees, hips, and spine. Most people with Winchester syndrome develop low bone mineral density (osteopenia) and thinning of the bones (osteoporosis) throughout the skeleton. These abnormalities make bones brittle and more prone to fracture. The bone abnormalities also lead to short stature.  Some people with Winchester syndrome have skin abnormalities including patches of dark, thick, and leathery skin. Other features of the condition can include clouding of the clear front covering of the eye (corneal opacity), excess hair growth (hypertrichosis), overgrowth of the gums, heart abnormalities, and distinctive facial features that are described as &quot;coarse.&quot;</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001038-2" qtype="frequency">How many people are affected by Winchester syndrome ?</Question>
+			<Answer>Winchester syndrome is a rare condition whose prevalence is unknown. It has been reported in only a few individuals worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001038-3" qtype="genetic changes">What are the genetic changes related to Winchester syndrome ?</Question>
+			<Answer>Winchester syndrome is caused by mutations in the MMP14 gene (also known as MT1-MMP). This gene provides instructions for making a protein called matrix metallopeptidase 14, which is found on the surface of cells. Matrix metallopeptidase 14 normally helps modify and break down various components of the extracellular matrix, which is the intricate lattice of proteins and other molecules that forms in the spaces between cells. These changes influence many cell activities and functions, including promoting cell growth and stimulating cell movement (migration). Matrix metallopeptidase 14 also turns on (activates) a protein called matrix metallopeptidase 2. The activity of matrix metallopeptidase 2 appears to be important for a variety of body functions, including bone remodeling, which is a normal process in which old bone is broken down and new bone is created to replace it.  Mutations in the MMP14 gene alter matrix metallopeptidase 14 so that less of the enzyme is able to reach the cell surface. As a result, not enough of the enzyme is available to break down components of the extracellular matrix and activate matrix metallopeptidase 2. It is unclear how a shortage of this enzyme leads to the signs and symptoms of Winchester syndrome. It is possible that a loss of matrix metallopeptidase 2 activation somehow disrupts the balance of new bone creation and the breakdown of existing bone during bone remodeling, causing a progressive loss of bone tissue. How a reduced amount of matrix metallopeptidase 14 leads to the other features of Winchester syndrome is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001038-4" qtype="inheritance">Is Winchester syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001038-5" qtype="treatment">What are the treatments for Winchester syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Winchester syndrome:  - Genetic Testing Registry: Winchester syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

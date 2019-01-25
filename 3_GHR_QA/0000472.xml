@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000472" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-sensory-and-autonomic-neuropathy-type-ie">
+<Focus>hereditary sensory and autonomic neuropathy type IE</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3279885</CUI>
+			<CUI>C0259749</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DNMT1-related dementia, deafness, and sensory neuropathy</Synonym>
+		<Synonym>hereditary sensory and autonomic neuropathy type 1 with dementia and hearing loss</Synonym>
+		<Synonym>hereditary sensory neuropathy type IE</Synonym>
+		<Synonym>HSN IE</Synonym>
+		<Synonym>HSNIE</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000472-1" qtype="information">What is (are) hereditary sensory and autonomic neuropathy type IE ?</Question>
+			<Answer>Hereditary sensory and autonomic neuropathy type IE (HSAN IE) is a disorder that affects the nervous system. Affected individuals have a gradual loss of intellectual function (dementia), typically beginning in their thirties. In some people with this disorder, changes in personality become apparent before problems with thinking skills.  People with HSAN IE also develop hearing loss that is caused by abnormalities in the inner ear (sensorineural hearing loss). The hearing loss gets worse over time and usually progresses to moderate or severe deafness between the ages of 20 and 35.  HSAN IE is characterized by impaired function of nerve cells called sensory neurons, which transmit information about sensations such as pain, temperature, and touch. Sensations in the feet and legs are particularly affected in people with HSAN IE. Gradual loss of sensation in the feet (peripheral neuropathy), which usually begins in adolescence or early adulthood, can lead to difficulty walking. Affected individuals may not be aware of injuries to their feet, which can lead to open sores and infections. If these complications are severe, amputation of the affected areas may be required.  HSAN IE is also characterized by a loss of the ability to sweat (sudomotor function), especially on the hands and feet. Sweating is a function of the autonomic nervous system, which also controls involuntary body functions such as heart rate, digestion, and breathing. These other autonomic functions are unaffected in people with HSAN IE.  The severity of the signs and symptoms of HSAN IE and their age of onset are variable, even within the same family.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000472-2" qtype="frequency">How many people are affected by hereditary sensory and autonomic neuropathy type IE ?</Question>
+			<Answer>HSAN IE is a rare disorder; its prevalence is unknown. Small numbers of affected families have been identified in populations around the world.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000472-3" qtype="genetic changes">What are the genetic changes related to hereditary sensory and autonomic neuropathy type IE ?</Question>
+			<Answer>HSAN IE is caused by mutations in the DNMT1 gene. This gene provides instructions for making an enzyme called DNA (cytosine-5)-methyltransferase 1. This enzyme is involved in DNA methylation, which is the addition of methyl groups, consisting of one carbon atom and three hydrogen atoms, to DNA molecules. In particular, the enzyme helps add methyl groups to DNA building blocks (nucleotides) called cytosines.  DNA methylation is important in many cellular functions. These include determining whether the instructions in a particular segment of DNA are carried out or suppressed (gene silencing), regulating reactions involving proteins and fats (lipids), and controlling the processing of chemicals that relay signals in the nervous system (neurotransmitters). DNA (cytosine-5)-methyltransferase 1 is active in the adult nervous system. Although its specific function is not well understood, the enzyme may help regulate nerve cell (neuron) maturation and specialization (differentiation), the ability of neurons to migrate where needed and connect with each other, and neuron survival.  DNMT1 gene mutations that cause HSAN IE reduce or eliminate the enzyme&apos;s methylation function, resulting in abnormalities in the maintenance of the neurons that make up the nervous system. However, it is not known how the mutations cause the specific signs and symptoms of HSAN IE.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000472-4" qtype="inheritance">Is hereditary sensory and autonomic neuropathy type IE inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000472-5" qtype="treatment">What are the treatments for hereditary sensory and autonomic neuropathy type IE ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary sensory and autonomic neuropathy type IE:  - Gene Review: Gene Review: DNMT1-Related Dementia, Deafness, and Sensory Neuropathy  - University of Chicago: Center for Peripheral Neuropathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

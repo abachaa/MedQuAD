@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000070" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/atrialfibrillation.html">
+<Focus>Atrial Fibrillation</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963067</CUI>
+			<CUI>C0004238</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AF</Synonym>
+		<Synonym>AFib</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000070-1" qtype="information">What is (are) Atrial Fibrillation ?</Question>
+			<Answer>An arrhythmia is a problem with the speed or rhythm of the heartbeat. Atrial fibrillation (AF) is the most common type of arrhythmia. The cause is a disorder in the heart&apos;s electrical system.      Often, people who have AF may not even feel symptoms. But you may feel        - Palpitations -- an abnormal rapid heartbeat    - Shortness of breath    - Weakness or difficulty exercising    - Chest pain    - Dizziness or fainting    - Fatigue    - Confusion        AF can lead to an increased risk of stroke. In many patients, it can also cause chest pain, heart attack, or heart failure.      Doctors diagnose AF using family and medical history, a physical exam, and a test called an electrocardiogram (EKG), which looks at the electrical waves your heart makes. Treatments include medicines and procedures to restore normal rhythm.     NIH: National Heart, Lung, and Blood Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

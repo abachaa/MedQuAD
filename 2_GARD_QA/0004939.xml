@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004939" source="GARD" url="https://rarediseases.info.nih.gov/gard/7419/polycystic-kidney-disease">
+<Focus>Polycystic kidney disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022680</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PKD</Synonym>
+		<Synonym>Polycystic kidneys</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004939-1" qtype="information">What is (are) Polycystic kidney disease ?</Question>
+			<Answer>Polycystic kidney disease refers to a group of inherited kidney disorders characterized by the presence of multiple cysts in both kidneys. Normal kidney tissue is replaced by fluid-filled sacs that interfere with the their ability to filter waste products from the blood. The growth of cysts causes the kidneys to become enlarged and can lead to kidney failure. Cysts may also develop in other organs, particularly the liver. However, signs and symptom severity can vary greatly from person to person. Treatment is tailored to the individual based upon their signs and symptoms. The two major forms of polycystic kidney disease are distinguished by the usual age of onset and their pattern of inheritance: (1) Autosomal dominant polycystic kidney disease (ADPKD) is the most common form that usually causes symptoms between the ages of 30 and 40; but they can begin earlier, even in childhood. ADPKD can be further divided into type 1 and type 2, depending on the underlying genetic cause. (2) Autosomal recessive polycystic kidney disease (ARPKD) is a rare form that usually causes symptoms in infancy and early childhood and is often lethal early in life. Some people with ARPKD do not develop symptoms until later in childhood or even adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004939-2" qtype="symptoms">What are the symptoms of Polycystic kidney disease ?</Question>
+			<Answer>What are the signs and symptoms of Polycystic kidney disease? Signs and symptoms vary greatly from person to person. But affected individuals typically develop multiple cysts in both kidneys, which impair their ability to filter waste products from the blood. Later in the disease, the cysts cause the kidneys to become enlarged and can lead to kidney failure. Cysts may also develop in other organs, particularly the liver. Frequent complications of polycystic kidney disease include dangerously high blood pressure (hypertension), severe pain in the back or sides, blood in the urine (hematuria), recurrent urinary tract infections, kidney stones, and heart valve abnormalities. People with this condition also have an increased risk an aortic aneurysm in the brain (an abnormal bulging of the large blood vessel at the base of the brain). Aneurysms can be life-threatening if they tear or rupture. The Human Phenotype Ontology provides the following list of signs and symptoms for Polycystic kidney disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Polycystic kidney dysplasia 90% Anemia 50% Cystic liver disease 50% Hematuria 50% Hypertension 50% Nephrolithiasis 50% Proteinuria 50% Renal insufficiency 50% Abnormality of prenatal development or birth 7.5% Abnormality of the pancreas 7.5% Abnormality of the respiratory system 7.5% Aneurysm 7.5% Dilatation of the ascending aorta 7.5% Hydrocephalus 7.5% Recurrent fractures 7.5% Reduced bone mineral density 7.5% Sarcoma 7.5% Autosomal dominant inheritance - Cerebral aneurysm - Colonic diverticula - Hepatic cysts - Heterogeneous - Increased prevalence of valvular disease - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

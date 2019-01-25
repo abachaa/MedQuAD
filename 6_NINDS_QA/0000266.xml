@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000266" source="NINDS" url="http://www.ninds.nih.gov/disorders/tethered_cord/tethered_cord.htm">
+<Focus>Tethered Spinal Cord Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0080218</CUI>
+			<CUI>C0560648</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000266-1" qtype="information">What is (are) Tethered Spinal Cord Syndrome ?</Question>
+			<Answer>Tethered spinal cord syndrome is a neurological disorder caused by tissue attachments that limit the movement of the spinal cord within the spinal column. Attachments may occur congenitally at the base of the spinal cord (conus medullaris) or they may develop near the site of an injury to the spinal cord. These attachments cause an abnormal stretching of the spinal cord. The course of the disorder is progressive. In children, symptoms may include lesions, hairy patches, dimples, or fatty tumors on the lower back; foot and spinal deformities; weakness in the legs; low back pain; scoliosis; and incontinence. This type of tethered spinal cord syndrome appears to be the result of improper growth of the neural tube during fetal development, and is closely linked to spina bifida. Tethered spinal cord syndrome may go undiagnosed until adulthood, when pain, sensory and motor problems, and loss of bowel and bladder control emerge. This delayed presentation of symptoms is related to the degree of strain placed on the spinal cord over time and may be exacerbated during sports or pregnancy, or may be due to narrowing of the spinal column (stenosis) with age. Tethering may also develop after spinal cord injury and scar tissue can block the flow of fluids around the spinal cord. Fluid pressure may cause cysts to form in the spinal cord, a condition called syringomyelia. This can lead to additional loss of movement, feeling or the onset of pain or autonomic symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000266-2" qtype="treatment">What are the treatments for Tethered Spinal Cord Syndrome ?</Question>
+			<Answer>MRI imaging is often used to evaluate individuals with these symptoms, and can be used to diagnose the location of the tethering, lower than normal position of the conus medullaris, or presence of a tumor or fatty mass (lipoma). In children, early surgery is recommended to prevent further neurological deterioration. Regular follow-up is important: retethering may occur in some individuals during periods of rapid growth and may be seen between five to nine years of age. If surgery is not advisable, spinal cord nerve roots may be cut to relieve pain. In adults, surgery to free (detether) the spinal cord can reduce the size and further development of cysts in the cord and may restore some function or alleviate other symptoms. Other treatment is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000266-3" qtype="outlook">What is the outlook for Tethered Spinal Cord Syndrome ?</Question>
+			<Answer>With treatment, individuals with tethered spinal cord syndrome have a normal life expectancy. However, some neurological and motor impairments may not be fully correctable. Surgery soon after symptoms emerge appears to improve chances for recovery and can prevent further functional decline.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000266-4" qtype="research">what research (or clinical trials) is being done for Tethered Spinal Cord Syndrome ?</Question>
+			<Answer>The NINDS conducts and supports research on disorders of the spinal cord. The goals of this research are to find ways to prevent, treat, and cure these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

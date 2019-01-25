@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000062" source="GARD" url="https://rarediseases.info.nih.gov/gard/10898/acquired-pure-red-cell-aplasia">
+<Focus>Acquired pure red cell aplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0340961</CUI>
+			<CUI>C0034902</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Idiopathic pure red cell aplasia</Synonym>
+		<Synonym>Adult pure red cell aplasia</Synonym>
+		<Synonym>Acquired PRCA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000062-1" qtype="information">What is (are) Acquired pure red cell aplasia ?</Question>
+			<Answer>Acquired pure red cell aplasia (PRCA) is a bone marrow disorder characterized by a reduction of red blood cells (erythrocytes) produced by the bone marrow. Signs and symptoms may include fatigue, lethargy, and/or abnormal paleness of the skin (pallor) due to the anemia the caused by the disorder. In most cases, the cause of acquired PRCA is unknown (idiopathic). In other cases it may occur secondary to autoimmune disorders, tumors of the thymus gland (thymomas), hematologic cancers, solid tumors, viral infections, or certain drugs. Treatment depends on the cause of the condition (if known) but often includes transfusions for individuals who are severely anemic and have cardiorespiratory failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000062-2" qtype="treatment">What are the treatments for Acquired pure red cell aplasia ?</Question>
+			<Answer>How might acquired pure red cell aplasia be treated? The main goals of treatment for pure red cell aplasia (PRCA) are to restore the production of red blood cells, maintain adequate hemoglobin levels, and treat underlying disorders that may be causing the condition. The initial treatment plan typically includes blood transfusions for individuals who are severely anemic and have cardiorespiratory failure. PRCA due to medication or infections is usually reversible within a few months. Therefore, medications that may be causing the condition should be discontinued, and infections that may cause the condition should be treated. Underlying conditions that may cause PRCA such as a thymoma, hematological cancers, solid tumors, and systemic lupus erythematosus (SLE) should be treated as necessary as well. When the condition is idiopathic (of unknown cause) or due to an autoimmune disorder, PRCA is typically initially treated with corticosteroids. It has been reported that individuals who seem to be resistant to treatment may respond to a single course of intravenous immunoglobulin (IVIG,) while others have responded to a single dose. In the United States, financial issues may make it difficult to obtain this treatment because IVIG is expensive and is not approved by the Food and Drug Administration to treat PRCA. Additional and more detailed information about the management of acquired PRCA may be found on eMedicine&apos;s web site and can be viewed by clicking here.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

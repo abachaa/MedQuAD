@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000270" source="NINDS" url="http://www.ninds.nih.gov/disorders/transversemyelitis/transversemyelitis.htm">
+<Focus>Transverse Myelitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026976</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000270-1" qtype="information">What is (are) Transverse Myelitis ?</Question>
+			<Answer>Transverse myelitis is a neurological disorder caused by inflammation across both sides of one level, or segment, of the spinal cord. The segment of the spinal cord at which the damage occurs determines which parts of the body are affected. Damage at one segment will affect function at that segment and segments below it. In people with transverse myelitis, inflammation usually occurs at the thoracic (upper back) level, causing problems with leg movement and bowel and bladder control, which require signals from the lower segments of the spinal cord. What usually begins as a sudden onset of lower back pain, muscle weakness, or abnormal sensations in the toes and feet can rapidly progress to more severe symptoms, including paralysis, urinary retention, and loss of bowel control.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000270-2" qtype="treatment">What are the treatments for Transverse Myelitis ?</Question>
+			<Answer>No effective cure currently exists for people with transverse myelitis. Physicians often prescribe corticosteroid therapy during the first few weeks of illness to decrease inflammation. Following initial therapy, the most critical part of the treatment for this disorder consists of keeping the patients body functioning while hoping for either complete or partial spontaneous recovery of the nervous system. If an individual begins to recover limb control, physical therapy begins to help improve muscle strength, coordination, and range of motion.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000270-3" qtype="outlook">What is the outlook for Transverse Myelitis ?</Question>
+			<Answer>Most individuals will have only one episode of transverse myelitis. Recovery usually begins within 2 to 12 weeks of the onset of symptoms and may continue for up to 2 years and in some cases longer--requiring aggressive physical therapy and rehabilitation. However, if there is no improvement within the first 3 to 6 months, complete recovery is unlikely (although some recovery can occur). Historic data, shows that about one-third of people affected with transverse myelitis experience good or full recovery from their symptoms. Another one-third show only fair recovery and are left with significant deficits. The remaining one-third show no recovery at all, with marked dependence on others for basic functions of daily living. New, more aggressive treatment protocols may result in greater recovery statistics.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000270-4" qtype="research">what research (or clinical trials) is being done for Transverse Myelitis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to transverse myelitis in its laboratories at the National Institutes of Health (NIH), and also supports additional transverse myelitis research through grants to major medical institutions across the country. Some studies focus on strategies to repair the spinal cord, including approaches using cell transplantation. The NINDS also funds researchers who are using animal models of spinal cord injury to study strategies for replacement or regeneration of spinal cord nerve cells. The knowledge gained from such research should lead to a greater knowledge of the mechanisms responsible for transverse myelitis and may ultimately provide a means to prevent and treat this disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

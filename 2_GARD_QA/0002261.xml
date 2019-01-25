@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002261" source="GARD" url="https://rarediseases.info.nih.gov/gard/3947/familial-hyperinsulinism">
+<Focus>Familial hyperinsulinism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020459</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Persistent hyperinsulinemic hypoglycemia of infancy</Synonym>
+		<Synonym>PHHI</Synonym>
+		<Synonym>Hyperinsulinemic hypoglycemia familial</Synonym>
+		<Synonym>Hypoglycemia hyperinsulinemic of infancy</Synonym>
+		<Synonym>Hyperinsulinism familial with pancreatic nesidioblastosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002261-1" qtype="information">What is (are) Familial hyperinsulinism ?</Question>
+			<Answer>Familial hyperinsulinism is an inherited condition that causes individuals to have abnormally high levels of insulin, which leads to frequent episodes of low blood sugar (hypoglycemia). In infants and young children, these episodes are characterized by a lack of energy (lethargy), irritability, and/or difficulty feeding. Repeated episodes of low blood sugar increase the risk for serious complications such as seizures, intellectual disability, breathing difficulties, and/or coma. Unlike typical episodes of hypoglycemia, which occur after periods without food (fasting), episodes of hypoglycemia in people with familial hyperinsulinism can also occur after eating or exercising. Mutations in at least seven genes have been found to cause this condition. It is often inherited in an autosomal recessive pattern or less commonly, an autosomal dominant pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002261-2" qtype="symptoms">What are the symptoms of Familial hyperinsulinism ?</Question>
+			<Answer>What are the signs and symptoms of Familial hyperinsulinism? The Human Phenotype Ontology provides the following list of signs and symptoms for Familial hyperinsulinism. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the pancreas 90% Hyperinsulinemia 90% Hypoglycemia 90% Autosomal dominant inheritance - Autosomal recessive inheritance - Heterogeneous - Hyperinsulinemic hypoglycemia - Hypoglycemic coma - Hypoglycemic seizures - Intellectual disability - Large for gestational age - Pancreatic islet-cell hyperplasia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

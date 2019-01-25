@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000627" source="GHR" url="https://ghr.nlm.nih.gov/condition/marfan-syndrome">
+<Focus>Marfan syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024796</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Marfan's syndrome</Synonym>
+		<Synonym>MFS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000627-1" qtype="information">What is (are) Marfan syndrome ?</Question>
+			<Answer>Marfan syndrome is a disorder that affects the connective tissue in many parts of the body. Connective tissue provides strength and flexibility to structures such as bones, ligaments, muscles, blood vessels, and heart valves. The signs and symptoms of Marfan syndrome vary widely in severity, timing of onset, and rate of progression.  The two primary features of Marfan syndrome are vision problems caused by a dislocated lens (ectopia lentis) in one or both eyes and defects in the large blood vessel that distributes blood from the heart to the rest of the body (the aorta). The aorta can weaken and stretch, which may lead to a bulge in the blood vessel wall (an aneurysm). Stretching of the aorta may cause the aortic valve to leak, which can lead to a sudden tearing of the layers in the aorta wall (aortic dissection). Aortic aneurysm and dissection can be life threatening.  Many people with Marfan syndrome have additional heart problems including a leak in the valve that connects two of the four chambers of the heart (mitral valve prolapse) or the valve that regulates blood flow from the heart into the aorta (aortic valve regurgitation). Leaks in these valves can cause shortness of breath, fatigue, and an irregular heartbeat felt as skipped or extra beats (palpitations).  Individuals with Marfan syndrome are usually tall and slender, have elongated fingers and toes (arachnodactyly), and have an arm span that exceeds their body height. Other common features include a long and narrow face, crowded teeth, an abnormal curvature of the spine (scoliosis or kyphosis), and either a sunken chest (pectus excavatum) or a protruding chest (pectus carinatum). Some individuals develop an abnormal accumulation of air in the chest cavity that can result in the collapse of a lung (spontaneous pneumothorax). A membrane called the dura, which surrounds the brain and spinal cord, can be abnormally enlarged (dural ectasia) in people with Marfan syndrome. Dural ectasia can cause pain in the back, abdomen, legs, or head. Most individuals with Marfan syndrome have some degree of nearsightedness (myopia). Clouding of the lens (cataract) may occur in mid-adulthood, and increased pressure within the eye (glaucoma) occurs more frequently in people with Marfan syndrome than in those without the condition.  The features of Marfan syndrome can become apparent anytime between infancy and adulthood. Depending on the onset and severity of signs and symptoms, Marfan can be fatal early in life; however, the majority of affected individuals survive into mid- to late adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000627-2" qtype="frequency">How many people are affected by Marfan syndrome ?</Question>
+			<Answer>The incidence of Marfan syndrome is approximately 1 in 5,000 worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000627-3" qtype="genetic changes">What are the genetic changes related to Marfan syndrome ?</Question>
+			<Answer>Mutations in the FBN1 gene cause Marfan syndrome. The FBN1 gene provides instructions for making a protein called fibrillin-1. Fibrillin-1 attaches (binds) to other fibrillin-1 proteins and other molecules to form threadlike filaments called microfibrils. Microfibrils become part of the fibers that provide strength and flexibility to connective tissue. Additionally, microfibrils store molecules called growth factors and release them at various times to control the growth and repair of tissues and organs throughout the body. A mutation in the FBN1 gene can reduce the amount of functional fibrillin-1 that is available to form microfibrils, which leads to decreased microfibril formation. As a result, excess growth factors are released and elasticity in many tissues is decreased, leading to overgrowth and instability of tissues.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000627-4" qtype="inheritance">Is Marfan syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  At least 25 percent of Marfan syndrome cases result from a new mutation in the FBN1 gene. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000627-5" qtype="treatment">What are the treatments for Marfan syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Marfan syndrome:  - Gene Review: Gene Review: Marfan Syndrome  - Genetic Testing Registry: Marfan syndrome  - MarfanDX  - MedlinePlus Encyclopedia: Aortic Dissection  - MedlinePlus Encyclopedia: Marfan Syndrome  - MedlinePlus Encyclopedia: Thoracic Aortic Aneurysm  - National Marfan Foundation: Diagnosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

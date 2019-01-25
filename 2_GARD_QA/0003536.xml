@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003536" source="GARD" url="https://rarediseases.info.nih.gov/gard/6880/leiomyosarcoma">
+<Focus>Leiomyosarcoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023269</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003536-1" qtype="information">What is (are) Leiomyosarcoma ?</Question>
+			<Answer>Leiomyosarcoma is a rare cancerous tumor that consists of smooth (involuntary) muscle cells. Leiomyosarcoma is a type of sarcoma. It spreads through the blood stream and can affect the lungs, liver, blood vessels, or any other soft tissue in the body. The exact cause of leiomyosarcoma is not known, although genetic and environmental factors appear to be involved. It is most often found in the uterus or abdomen.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003536-2" qtype="treatment">What are the treatments for Leiomyosarcoma ?</Question>
+			<Answer>How might leiomyosarcoma be treated? Treatment of leiomyosarcoma varies depending on the location and stage of the cancer. Surgery is typically the first choice for treatment, however, chemotherapy, targeted drugs, radiation therapy, and hormonal therapy may also be used to treat leiomyosarcoma. Additional information on the treatment of intestinal leiomyosarcoma is available from Medscape Reference. You may need to register to view this online medical resource, but registration is free</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

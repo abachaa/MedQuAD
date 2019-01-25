@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000977" source="GHR" url="https://ghr.nlm.nih.gov/condition/thiamine-responsive-megaloblastic-anemia-syndrome">
+<Focus>thiamine-responsive megaloblastic anemia syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342287</CUI>
+			<CUI>C0002888</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Rogers syndrome</Synonym>
+		<Synonym>Thiamine-responsive myelodysplasia</Synonym>
+		<Synonym>TRMA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000977-1" qtype="information">What is (are) thiamine-responsive megaloblastic anemia syndrome ?</Question>
+			<Answer>Thiamine-responsive megaloblastic anemia syndrome is a rare condition characterized by hearing loss, diabetes, and a blood disorder called megaloblastic anemia. Megaloblastic anemia occurs when a person has a low number of red blood cells (anemia), and the remaining red blood cells are larger than normal (megaloblastic). The symptoms of this blood disorder may include decreased appetite, lack of energy, headaches, pale skin, diarrhea, and tingling or numbness in the hands and feet. Individuals with thiamine-responsive megaloblastic anemia syndrome begin to show symptoms of megaloblastic anemia between infancy and adolescence. This syndrome is called &quot;thiamine-responsive&quot; because the anemia can be treated with high doses of vitamin B1 (thiamine).  People with thiamine-responsive megaloblastic anemia syndrome develop hearing loss caused by abnormalities of the inner ear (sensorineural hearing loss) during early childhood. It remains unclear whether thiamine treatment can improve hearing or prevent hearing loss.  Diabetes becomes apparent in affected individuals sometime between infancy and adolescence. Although these individuals develop diabetes during childhood, they do not have the form of the disease that develops most often in children, called type 1 (autoimmune) diabetes. People with thiamine-responsive megaloblastic anemia syndrome usually require insulin to treat their diabetes. In some cases, treatment with thiamine can reduce the amount of insulin a person needs.  Some individuals with thiamine-responsive megaloblastic anemia syndrome develop optic atrophy, which is the degeneration (atrophy) of the nerves that carry information from the eyes to the brain. Heart and blood vessel (cardiovascular) problems such as heart rhythm abnormalities and heart defects have also been reported in some people with this syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000977-2" qtype="frequency">How many people are affected by thiamine-responsive megaloblastic anemia syndrome ?</Question>
+			<Answer>Thiamine-responsive megaloblastic anemia syndrome has been reported in approximately 30 families worldwide. Its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000977-3" qtype="genetic changes">What are the genetic changes related to thiamine-responsive megaloblastic anemia syndrome ?</Question>
+			<Answer>Mutations in the SLC19A2 gene cause thiamine-responsive megaloblastic anemia syndrome. This gene provides instructions for making a protein called thiamine transporter 1, which transports thiamine into cells. Thiamine is found in many different foods and is important for numerous body functions.  Most mutations in the SLC19A2 gene lead to the production of an abnormally short, nonfunctional thiamine transporter 1. Other mutations change single protein building blocks (amino acids) in this protein. All of these mutations prevent thiamine transporter 1 from bringing thiamine into the cell. It remains unclear how the absence of this protein leads to the seemingly unrelated symptoms of megaloblastic anemia, diabetes, and hearing loss. Research suggests that an alternative method for transporting thiamine is present in all the cells of the body, except where blood cells and insulin are formed (in the bone marrow and pancreas, respectively) and cells in the inner ear.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000977-4" qtype="inheritance">Is thiamine-responsive megaloblastic anemia syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000977-5" qtype="treatment">What are the treatments for thiamine-responsive megaloblastic anemia syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of thiamine-responsive megaloblastic anemia syndrome:  - Gene Review: Gene Review: Thiamine-Responsive Megaloblastic Anemia Syndrome  - Genetic Testing Registry: Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness  - MedlinePlus Encyclopedia: Optic nerve atrophy  - MedlinePlus Encyclopedia: Thiamine   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000071" source="GHR" url="https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy">
+<Focus>arrhythmogenic right ventricular cardiomyopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0349788</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>arrhythmogenic right ventricular cardiomyopathy-dysplasia</Synonym>
+		<Synonym>arrhythmogenic right ventricular dysplasia</Synonym>
+		<Synonym>arrhythmogenic right ventricular dysplasia/cardiomyopathy</Synonym>
+		<Synonym>ARVC</Synonym>
+		<Synonym>ARVD</Synonym>
+		<Synonym>ARVD/C</Synonym>
+		<Synonym>right ventricular dysplasia, arrhythmogenic</Synonym>
+		<Synonym>ventricular dysplasia, right, arrhythmogenic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000071-1" qtype="information">What is (are) arrhythmogenic right ventricular cardiomyopathy ?</Question>
+			<Answer>Arrhythmogenic right ventricular cardiomyopathy (ARVC) is a form of heart disease that usually appears in adulthood. ARVC is a disorder of the myocardium, which is the muscular wall of the heart. This condition causes part of the myocardium to break down over time, increasing the risk of an abnormal heartbeat (arrhythmia) and sudden death.  ARVC may not cause any symptoms in its early stages. However, affected individuals may still be at risk of sudden death, especially during strenuous exercise. When symptoms occur, they most commonly include a sensation of fluttering or pounding in the chest (palpitations), light-headedness, and fainting (syncope). Over time, ARVC can also cause shortness of breath and abnormal swelling in the legs or abdomen. If the myocardium becomes severely damaged in the later stages of the disease, it can lead to heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000071-2" qtype="frequency">How many people are affected by arrhythmogenic right ventricular cardiomyopathy ?</Question>
+			<Answer>ARVC occurs in an estimated 1 in 1,000 to 1 in 1,250 people. This disorder may be underdiagnosed because it can be difficult to detect in people with mild or no symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000071-3" qtype="genetic changes">What are the genetic changes related to arrhythmogenic right ventricular cardiomyopathy ?</Question>
+			<Answer>ARVC can result from mutations in at least eight genes. Many of these genes are involved in the function of desmosomes, which are structures that attach heart muscle cells to one another. Desmosomes provide strength to the myocardium and play a role in signaling between neighboring cells.  Mutations in the genes responsible for ARVC often impair the normal function of desmosomes. Without normal desmosomes, cells of the myocardium detach from one another and die, particularly when the heart muscle is placed under stress (such as during vigorous exercise). These changes primarily affect the myocardium surrounding the right ventricle, one of the two lower chambers of the heart. The damaged myocardium is gradually replaced by fat and scar tissue. As this abnormal tissue builds up, the walls of the right ventricle become stretched out, preventing the heart from pumping blood effectively. These changes also disrupt the electrical signals that control the heartbeat, which can lead to arrhythmia.  Gene mutations have been found in 30 to 40 percent of people with ARVC. Mutations in a gene called PKP2 are most common. In people without an identified mutation, the cause of the disorder is unknown. Researchers are looking for additional genetic factors, particularly those involved in the function of desmosomes, that may play a role in causing ARVC.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000071-4" qtype="inheritance">Is arrhythmogenic right ventricular cardiomyopathy inherited ?</Question>
+			<Answer>Up to half of all cases of ARVC appear to run in families. Most familial cases of the disease have an autosomal dominant pattern of inheritance, which means one copy of an altered gene in each cell is sufficient to cause the disorder.  Rarely, ARVC has an autosomal recessive pattern of inheritance, which means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000071-5" qtype="treatment">What are the treatments for arrhythmogenic right ventricular cardiomyopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of ARVC:  - Brigham and Women&apos;s Hospital  - Cleveland Clinic: How Are Arrhythmias Treated?  - Gene Review: Gene Review: Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 1  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 10  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 11  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 12  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 2  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 3  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 4  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 5  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 6  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 7  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 8  - Genetic Testing Registry: Arrhythmogenic right ventricular cardiomyopathy, type 9  - Genetic Testing Registry: Arrhythmogenic right ventricular dysplasia, familial, 11, with mild palmoplantar keratoderma and woolly hair  - St. Luke&apos;s-Roosevelt Hospital Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

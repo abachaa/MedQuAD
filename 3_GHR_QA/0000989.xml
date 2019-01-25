@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000989" source="GHR" url="https://ghr.nlm.nih.gov/condition/treacher-collins-syndrome">
+<Focus>Treacher Collins syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242387</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Franceschetti-Zwahlen-Klein syndrome</Synonym>
+		<Synonym>mandibulofacial dysostosis (MFD1)</Synonym>
+		<Synonym>Treacher Collins-Franceschetti syndrome</Synonym>
+		<Synonym>zygoauromandibular dysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000989-1" qtype="information">What is (are) Treacher Collins syndrome ?</Question>
+			<Answer>Treacher Collins syndrome is a condition that affects the development of bones and other tissues of the face. The signs and symptoms of this disorder vary greatly, ranging from almost unnoticeable to severe. Most affected individuals have underdeveloped facial bones, particularly the cheek bones, and a very small jaw and chin (micrognathia). Some people with this condition are also born with an opening in the roof of the mouth called a cleft palate. In severe cases, underdevelopment of the facial bones may restrict an affected infant&apos;s airway, causing potentially life-threatening respiratory problems.  People with Treacher Collins syndrome often have eyes that slant downward, sparse eyelashes, and a notch in the lower eyelids called an eyelid coloboma. Some affected individuals have additional eye abnormalities that can lead to vision loss. This condition is also characterized by absent, small, or unusually formed ears. Hearing loss occurs in about half of all affected individuals; hearing loss is caused by defects of the three small bones in the middle ear, which transmit sound, or by underdevelopment of the ear canal. People with Treacher Collins syndrome usually have normal intelligence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000989-2" qtype="frequency">How many people are affected by Treacher Collins syndrome ?</Question>
+			<Answer>This condition affects an estimated 1 in 50,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000989-3" qtype="genetic changes">What are the genetic changes related to Treacher Collins syndrome ?</Question>
+			<Answer>Mutations in the TCOF1, POLR1C, or POLR1D gene can cause Treacher Collins syndrome. TCOF1 gene mutations are the most common cause of the disorder, accounting for 81 to 93 percent of all cases. POLR1C and POLR1D gene mutations cause an additional 2 percent of cases. In individuals without an identified mutation in one of these genes, the genetic cause of the condition is unknown.  The proteins produced from the TCOF1, POLR1C, and POLR1D genes all appear to play important roles in the early development of bones and other tissues of the face. These proteins are involved in the production of a molecule called ribosomal RNA (rRNA), a chemical cousin of DNA. Ribosomal RNA helps assemble protein building blocks (amino acids) into new proteins, which is essential for the normal functioning and survival of cells. Mutations in the TCOF1, POLR1C, or POLR1D gene reduce the production of rRNA. Researchers speculate that a decrease in the amount of rRNA may trigger the self-destruction (apoptosis) of certain cells involved in the development of facial bones and tissues. The abnormal cell death could lead to the specific problems with facial development found in Treacher Collins syndrome. However, it is unclear why the effects of a reduction in rRNA are limited to facial development.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000989-4" qtype="inheritance">Is Treacher Collins syndrome inherited ?</Question>
+			<Answer>When Treacher Collins syndrome results from mutations in the TCOF1 or POLR1D gene, it is considered an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. About 60 percent of these cases result from new mutations in the gene and occur in people with no history of the disorder in their family. In the remaining autosomal dominant cases, a person with Treacher Collins syndrome inherits the altered gene from an affected parent.  When Treacher Collins syndrome is caused by mutations in the POLR1C gene, the condition has an autosomal recessive pattern of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000989-5" qtype="treatment">What are the treatments for Treacher Collins syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Treacher Collins syndrome:  - Gene Review: Gene Review: Treacher Collins Syndrome  - Genetic Testing Registry: Mandibulofacial dysostosis, Treacher Collins type, autosomal recessive  - Genetic Testing Registry: Treacher Collins syndrome  - Genetic Testing Registry: Treacher collins syndrome 1  - Genetic Testing Registry: Treacher collins syndrome 2  - MedlinePlus Encyclopedia: Micrognathia  - MedlinePlus Encyclopedia: Pinna Abnormalities and Low-Set Ears  - MedlinePlus Encyclopedia: Treacher-Collins Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

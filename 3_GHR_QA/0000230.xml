@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000230" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism">
+<Focus>congenital hypothyroidism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010308</CUI>
+			<CUI>C0342200</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CH</Synonym>
+		<Synonym>CHT</Synonym>
+		<Synonym>congenital myxedema</Synonym>
+		<Synonym>cretinism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000230-1" qtype="information">What is (are) congenital hypothyroidism ?</Question>
+			<Answer>Congenital hypothyroidism is a partial or complete loss of function of the thyroid gland (hypothyroidism) that affects infants from birth (congenital). The thyroid gland is a butterfly-shaped tissue in the lower neck. It makes iodine-containing hormones that play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism). People with congenital hypothyroidism have lower-than-normal levels of these important hormones.  Congenital hypothyroidism occurs when the thyroid gland fails to develop or function properly. In 80 to 85 percent of cases, the thyroid gland is absent, severely reduced in size (hypoplastic), or abnormally located. These cases are classified as thyroid dysgenesis. In the remainder of cases, a normal-sized or enlarged thyroid gland (goiter) is present, but production of thyroid hormones is decreased or absent. Most of these cases occur when one of several steps in the hormone synthesis process is impaired; these cases are classified as thyroid dyshormonogenesis. Less commonly, reduction or absence of thyroid hormone production is caused by impaired stimulation of the production process (which is normally done by a structure at the base of the brain called the pituitary gland), even though the process itself is unimpaired. These cases are classified as central (or pituitary) hypothyroidism.  Signs and symptoms of congenital hypothyroidism result from the shortage of thyroid hormones. Affected babies may show no features of the condition, although some babies with congenital hypothyroidism are less active and sleep more than normal. They may have difficulty feeding and experience constipation. If untreated, congenital hypothyroidism can lead to intellectual disability and slow growth. In the United States and many other countries, all hospitals test newborns for congenital hypothyroidism. If treatment begins in the first two weeks after birth, infants usually develop normally.  Congenital hypothyroidism can also occur as part of syndromes that affect other organs and tissues in the body. These forms of the condition are described as syndromic. Some common forms of syndromic hypothyroidism include Pendred syndrome, Bamforth-Lazarus syndrome, and brain-lung-thyroid syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000230-2" qtype="frequency">How many people are affected by congenital hypothyroidism ?</Question>
+			<Answer>Congenital hypothyroidism affects an estimated 1 in 2,000 to 4,000 newborns. For reasons that remain unclear, congenital hypothyroidism affects more than twice as many females as males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000230-3" qtype="genetic changes">What are the genetic changes related to congenital hypothyroidism ?</Question>
+			<Answer>Congenital hypothyroidism can be caused by a variety of factors, only some of which are genetic. The most common cause worldwide is a shortage of iodine in the diet of the mother and the affected infant. Iodine is essential for the production of thyroid hormones. Genetic causes account for about 15 to 20 percent of cases of congenital hypothyroidism.  The cause of the most common type of congenital hypothyroidism, thyroid dysgenesis, is usually unknown. Studies suggest that 2 to 5 percent of cases are inherited. Two of the genes involved in this form of the condition are PAX8 and TSHR. These genes play roles in the proper growth and development of the thyroid gland. Mutations in these genes prevent or disrupt normal development of the gland. The abnormal or missing gland cannot produce normal amounts of thyroid hormones.  Thyroid dyshormonogenesis results from mutations in one of several genes involved in the production of thyroid hormones. These genes include DUOX2, SLC5A5, TG, and TPO. Mutations in each of these genes disrupt a step in thyroid hormone synthesis, leading to abnormally low levels of these hormones. Mutations in the TSHB gene disrupt the synthesis of thyroid hormones by impairing the stimulation of hormone production. Changes in this gene are the primary cause of central hypothyroidism. The resulting shortage of thyroid hormones disrupts normal growth, brain development, and metabolism, leading to the features of congenital hypothyroidism.  Mutations in other genes that have not been as well characterized can also cause congenital hypothyroidism. Still other genes are involved in syndromic forms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000230-4" qtype="inheritance">Is congenital hypothyroidism inherited ?</Question>
+			<Answer>Most cases of congenital hypothyroidism are sporadic, which means they occur in people with no history of the disorder in their family.  When inherited, the condition usually has an autosomal recessive inheritance pattern, which means both copies of the gene in each cell have mutations. Typically, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they do not show signs and symptoms of the condition.  When congenital hypothyroidism results from mutations in the PAX8 gene or from certain mutations in the TSHR or DUOX2 gene, the condition has an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some of these cases, an affected person inherits the mutation from one affected parent. Other cases result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000230-5" qtype="treatment">What are the treatments for congenital hypothyroidism ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital hypothyroidism:  - Baby&apos;s First Test  - Genetic Testing Registry: Congenital hypothyroidism  - Genetic Testing Registry: Hypothyroidism, congenital, nongoitrous, 1  - MedlinePlus Encyclopedia: Congenital Hypothyroidism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

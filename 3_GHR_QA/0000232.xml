@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000232" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-insensitivity-to-pain-with-anhidrosis">
+<Focus>congenital insensitivity to pain with anhidrosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002768</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CIPA</Synonym>
+		<Synonym>hereditary insensitivity to pain with anhidrosis</Synonym>
+		<Synonym>hereditary sensory and autonomic neuropathy type IV</Synonym>
+		<Synonym>hereditary sensory and autonomic neuropathy, type 4</Synonym>
+		<Synonym>HSAN type IV</Synonym>
+		<Synonym>HSAN4</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000232-1" qtype="information">What is (are) congenital insensitivity to pain with anhidrosis ?</Question>
+			<Answer>Congenital insensitivity to pain with anhidrosis (CIPA) has two characteristic features: the inability to feel pain and temperature, and decreased or absent sweating (anhidrosis). This condition is also known as hereditary sensory and autonomic neuropathy type IV. The signs and symptoms of CIPA appear early, usually at birth or during infancy, but with careful medical attention, affected individuals can live into adulthood.  An inability to feel pain and temperature often leads to repeated severe injuries. Unintentional self-injury is common in people with CIPA, typically by biting the tongue, lips, or fingers, which may lead to spontaneous amputation of the affected area. In addition, people with CIPA heal slowly from skin and bone injuries. Repeated trauma can lead to chronic bone infections (osteomyelitis) or a condition called Charcot joints, in which the bones and tissue surrounding joints are destroyed.  Normally, sweating helps cool the body temperature. However, in people with CIPA, anhidrosis often causes recurrent, extremely high fevers (hyperpyrexia) and seizures brought on by high temperature (febrile seizures).  In addition to the characteristic features, there are other signs and symptoms of CIPA. Many affected individuals have thick, leathery skin (lichenification) on the palms of their hands or misshapen fingernails or toenails. They can also have patches on their scalp where hair does not grow (hypotrichosis). About half of people with CIPA show signs of hyperactivity or emotional instability, and many affected individuals have intellectual disability. Some people with CIPA have weak muscle tone (hypotonia) when they are young, but muscle strength and tone become more normal as they get older.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000232-2" qtype="frequency">How many people are affected by congenital insensitivity to pain with anhidrosis ?</Question>
+			<Answer>CIPA is a rare condition; however, the prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000232-3" qtype="genetic changes">What are the genetic changes related to congenital insensitivity to pain with anhidrosis ?</Question>
+			<Answer>Mutations in the NTRK1 gene cause CIPA. The NTRK1 gene provides instructions for making a receptor protein that attaches (binds) to another protein called NGF. The NTRK1 receptor is important for the survival of nerve cells (neurons).  The NTRK1 receptor is found on the surface of cells, particularly neurons that transmit pain, temperature, and touch sensations (sensory neurons). When the NGF protein binds to the NTRK1 receptor, signals are transmitted inside the cell that tell the cell to grow and divide, and that help it survive. Mutations in the NTRK1 gene lead to a protein that cannot transmit signals. Without the proper signaling, neurons die by a process of self-destruction called apoptosis. Loss of sensory neurons leads to the inability to feel pain in people with CIPA. In addition, people with CIPA lose the nerves leading to their sweat glands, which causes the anhidrosis seen in affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000232-4" qtype="inheritance">Is congenital insensitivity to pain with anhidrosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000232-5" qtype="treatment">What are the treatments for congenital insensitivity to pain with anhidrosis ?</Question>
+			<Answer>These resources address the diagnosis or management of CIPA:  - Gene Review: Gene Review: Congenital Insensitivity to Pain with Anhidrosis  - Genetic Testing Registry: Hereditary insensitivity to pain with anhidrosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

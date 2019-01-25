@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000261" source="NINDS" url="http://www.ninds.nih.gov/disorders/stroke/stroke.htm">
+<Focus>Stroke</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038454</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000261-1" qtype="information">What is (are) Stroke ?</Question>
+			<Answer>A stroke occurs when the blood supply to part of the brain is suddenly interrupted or when a blood vessel in the brain bursts, spilling blood into the spaces surrounding brain cells. Brain cells die when they no longer receive oxygen and nutrients from the blood or there is sudden bleeding into or around the brain. The symptoms of a stroke include sudden numbness or weakness, especially on one side of the body; sudden confusion or trouble speaking or understanding speech; sudden trouble seeing in one or both eyes; sudden trouble with walking, dizziness, or loss of balance or coordination; or sudden severe headache with no known cause. There are two forms of stroke: ischemic - blockage of a blood vessel supplying the brain, and hemorrhagic - bleeding into or around the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000261-2" qtype="treatment">What are the treatments for Stroke ?</Question>
+			<Answer>Generally there are three treatment stages for stroke: prevention, therapy immediately after the stroke, and post-stroke rehabilitation. Therapies to prevent a first or recurrent stroke are based on treating an individual&apos;s underlying risk factors for stroke, such as hypertension, atrial fibrillation, and diabetes. Acute stroke therapies try to stop a stroke while it is happening by quickly dissolving the blood clot causing an ischemic stroke or by stopping the bleeding of a hemorrhagic stroke. Post-stroke rehabilitation helps individuals overcome disabilities that result from stroke damage. Medication or drug therapy is the most common treatment for stroke. The most popular classes of drugs used to prevent or treat stroke are antithrombotics (antiplatelet agents and anticoagulants) and thrombolytics.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000261-3" qtype="outlook">What is the outlook for Stroke ?</Question>
+			<Answer>Although stroke is a disease of the brain, it can affect the entire body. A common disability that results from stroke is complete paralysis on one side of the body, called hemiplegia. A related disability that is not as debilitating as paralysis is one-sided weakness or hemiparesis. Stroke may cause problems with thinking, awareness, attention, learning, judgment, and memory. Stroke survivors often have problems understanding or forming speech. A stroke can lead to emotional problems. Stroke patients may have difficulty controlling their emotions or may express inappropriate emotions. Many stroke patients experience depression. Stroke survivors may also have numbness or strange sensations. The pain is often worse in the hands and feet and is made worse by movement and temperature changes, especially cold temperatures.
+                
+Recurrent stroke is frequent; about 25 percent of people who recover from their first stroke will have another stroke within 5 years.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000261-4" qtype="research">what research (or clinical trials) is being done for Stroke ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts stroke research and clinical trials at its laboratories and clinics at the National Institutes of Health (NIH), and through grants to major medical institutions across the country. Currently, NINDS researchers are studying the mechanisms of stroke risk factors and the process of brain damage that results from stroke. Basic research has also focused on the genetics of stroke and stroke risk factors. Scientists are working to develop new and better ways to help the brain repair itself to restore important functions. New advances in imaging and rehabilitation have shown that the brain can compensate for function lost as a result of stroke.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

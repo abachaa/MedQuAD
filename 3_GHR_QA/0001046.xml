@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001046" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-agammaglobulinemia">
+<Focus>X-linked agammaglobulinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221026</CUI>
+			<CUI>C0001768</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>agammaglobulinemia</Synonym>
+		<Synonym>Bruton's agammaglobulinemia</Synonym>
+		<Synonym>congenital agammaglobulinemia</Synonym>
+		<Synonym>hypogammaglobulinemia</Synonym>
+		<Synonym>XLA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001046-1" qtype="information">What is (are) X-linked agammaglobulinemia ?</Question>
+			<Answer>X-linked agammaglobulinemia (XLA) is a condition that affects the immune system and occurs almost exclusively in males. People with XLA have very few B cells, which are specialized white blood cells that help protect the body against infection. B cells can mature into the cells that produce special proteins called antibodies or immunoglobulins. Antibodies attach to specific foreign particles and germs, marking them for destruction. Individuals with XLA are more susceptible to infections because their body makes very few antibodies.  Children with XLA are usually healthy for the first 1 or 2 months of life because they are protected by antibodies acquired before birth from their mother. After this time, the maternal antibodies are cleared from the body, and the affected child begins to develop recurrent infections. In children with XLA, infections generally take longer to get better and then they come back again, even with antibiotic medications. The most common bacterial infections that occur in people with XLA are lung infections (pneumonia and bronchitis), ear infections (otitis), pink eye (conjunctivitis), and sinus infections (sinusitis). Infections that cause chronic diarrhea are also common. Recurrent infections can lead to organ damage. People with XLA can develop severe, life-threatening bacterial infections; however, affected individuals are not particularly vulnerable to infections caused by viruses. With treatment to replace antibodies, infections can usually be prevented, improving the quality of life for people with XLA.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001046-2" qtype="frequency">How many people are affected by X-linked agammaglobulinemia ?</Question>
+			<Answer>XLA occurs in approximately 1 in 200,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001046-3" qtype="genetic changes">What are the genetic changes related to X-linked agammaglobulinemia ?</Question>
+			<Answer>Mutations in the BTK gene cause XLA. This gene provides instructions for making the BTK protein, which is important for the development of B cells and normal functioning of the immune system. Most mutations in the BTK gene prevent the production of any BTK protein. The absence of functional BTK protein blocks B cell development and leads to a lack of antibodies. Without antibodies, the immune system cannot properly respond to foreign invaders and prevent infection.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001046-4" qtype="inheritance">Is X-linked agammaglobulinemia inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  About half of affected individuals do not have a family history of XLA. In most of these cases, the affected person&apos;s mother is a carrier of one altered BTK gene. Carriers do not have the immune system abnormalities associated with XLA, but they can pass the altered gene to their children. In other cases, the mother is not a carrier and the affected individual has a new mutation in the BTK gene.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001046-5" qtype="treatment">What are the treatments for X-linked agammaglobulinemia ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked agammaglobulinemia:  - Gene Review: Gene Review: X-Linked Agammaglobulinemia  - Genetic Testing Registry: X-linked agammaglobulinemia  - MedlinePlus Encyclopedia: Agammaglobulinemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000222" source="NINDS" url="http://www.ninds.nih.gov/disorders/paresthesia/paresthesia.htm">
+<Focus>Paresthesia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030554</CUI>
+			<CUI>C2242996</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000222-1" qtype="information">What is (are) Paresthesia ?</Question>
+			<Answer>Paresthesia refers to a burning or prickling sensation that is usually felt in the hands, arms, legs, or feet, but can also occur in other parts of the body. The sensation, which happens without warning, is usually painless and described as tingling or numbness, skin crawling, or itching.  Most people have experienced temporary paresthesia -- a feeling of &quot;pins and needles&quot; -- at some time in their lives when they have sat with legs crossed for too long, or fallen asleep with an arm crooked under their head. It happens when sustained pressure is placed on a nerve. The feeling quickly goes away once the pressure is relieved.  Chronic paresthesia is often a symptom of an underlying neurological disease or traumatic nerve damage. Paresthesia can be caused by disorders affecting the central nervous system, such as stroke and transient ischemic attacks (mini-strokes), multiple sclerosis, transverse myelitis, and encephalitis. A tumor or vascular lesion pressed up against the brain or spinal cord can also cause paresthesia. Nerve entrapment syndromes, such as carpal tunnel syndrome, can damage peripheral nerves and cause paresthesia accompanied by pain. Diagnostic evaluation is based on determining the underlying condition causing the paresthetic sensations. An individual&apos;s medical history, physical examination, and laboratory tests are essential for the diagnosis. Physicians may order additional tests depending on the suspected cause of the paresthesia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000222-2" qtype="treatment">What are the treatments for Paresthesia ?</Question>
+			<Answer>The appropriate treatment for paresthesia depends on accurate diagnosis of the underlying cause.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000222-3" qtype="outlook">What is the outlook for Paresthesia ?</Question>
+			<Answer>The prognosis for those with paresthesia depends on the severity of the sensations and the associated disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000222-4" qtype="research">what research (or clinical trials) is being done for Paresthesia ?</Question>
+			<Answer>The NINDS supports research on disorders of the brain, spinal cord, and peripheral nerves that can cause paresthesia. The goals of this research are to increase scientific understanding of these disorders and to find ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

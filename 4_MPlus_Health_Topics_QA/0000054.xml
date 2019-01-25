@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000054" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/arrhythmia.html">
+<Focus>Arrhythmia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003811</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Irregular heartbeat</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000054-1" qtype="information">What is (are) Arrhythmia ?</Question>
+			<Answer>An arrhythmia is a problem with the rate or rhythm of your heartbeat. It means that your heart beats too quickly, too slowly, or with an irregular pattern. When the heart beats faster than normal, it is called tachycardia. When the heart beats too slowly, it is called bradycardia. The most common type of arrhythmia is atrial fibrillation, which causes an irregular and fast heart beat.    Many factors can affect your heart&apos;s rhythm, such as having had a heart attack, smoking, congenital heart defects, and stress. Some substances or medicines may also cause arrhythmias.     Symptoms of arrhythmias include       - Fast or slow heart beat    - Skipping beats    - Lightheadedness or dizziness    - Chest pain    - Shortness of breath     - Sweating        Your doctor can run tests to find out if you have an arrhythmia. Treatment to restore a normal heart rhythm may include medicines, an implantable cardioverter-defibrillator (ICD) or pacemaker, or sometimes surgery.     NIH: National Heart, Lung, and Blood Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

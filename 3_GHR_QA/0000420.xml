@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000420" source="GHR" url="https://ghr.nlm.nih.gov/condition/glycine-encephalopathy">
+<Focus>glycine encephalopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751748</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hyperglycinemia, Nonketotic</Synonym>
+		<Synonym>NKH</Synonym>
+		<Synonym>non-ketotic hyperglycinemia</Synonym>
+		<Synonym>Nonketotic Hyperglycinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000420-1" qtype="information">What is (are) glycine encephalopathy ?</Question>
+			<Answer>Glycine encephalopathy, which is also known as nonketotic hyperglycinemia or NKH, is a genetic disorder characterized by abnormally high levels of a molecule called glycine. This molecule is an amino acid, which is a building block of proteins. Glycine also acts as a neurotransmitter, which is a chemical messenger that transmits signals in the brain. Glycine encephalopathy is caused by the shortage of an enzyme that normally breaks down glycine in the body. A lack of this enzyme allows excess glycine to build up in tissues and organs, particularly the brain, leading to serious medical problems.  The most common form of glycine encephalopathy, called the classical type, appears shortly after birth. Affected infants experience a progressive lack of energy (lethargy), feeding difficulties, weak muscle tone (hypotonia), abnormal jerking movements, and life-threatening problems with breathing. Most children who survive these early signs and symptoms develop profound intellectual disability and seizures that are difficult to treat. For unknown reasons, affected males are more likely to survive and have less severe developmental problems than affected females.  Researchers have identified several other types of glycine encephalopathy with variable signs and symptoms. The most common of these atypical types is called the infantile form. Children with this condition develop normally until they are about 6 months old, when they experience delayed development and may begin having seizures. As they get older, many develop intellectual disability, abnormal movements, and behavioral problems. Other atypical types of glycine encephalopathy appear later in childhood or adulthood and cause a variety of medical problems that primarily affect the nervous system.  Rarely, the characteristic features of classical glycine encephalopathy improve with time. These cases are classified as transient glycine encephalopathy. In this form of the condition, glycine levels decrease to normal or near-normal after being very high at birth. Many children with temporarily high glycine levels go on to develop normally and experience few long-term medical problems. Intellectual disability and seizures occur in some affected individuals, however, even after glycine levels decrease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000420-2" qtype="frequency">How many people are affected by glycine encephalopathy ?</Question>
+			<Answer>The worldwide incidence of glycine encephalopathy is unknown. Its frequency has been studied in only a few regions: this condition affects about 1 in 55,000 newborns in Finland and about 1 in 63,000 newborns in British Columbia, Canada.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000420-3" qtype="genetic changes">What are the genetic changes related to glycine encephalopathy ?</Question>
+			<Answer>Mutations in the AMT and GLDC genes cause glycine encephalopathy.  About 80 percent of cases of glycine encephalopathy result from mutations in the GLDC gene, while AMT mutations cause 10 percent to 15 percent of all cases. In a small percentage of affected individuals, the cause of this condition is unknown.  The AMT and GLDC genes provide instructions for making proteins that work together as part of a larger enzyme complex. This complex, known as glycine cleavage enzyme, is responsible for breaking down glycine into smaller pieces. Mutations in either the AMT or GLDC gene prevent the complex from breaking down glycine properly. When glycine cleavage enzyme is defective, excess glycine can build up to toxic levels in the body&apos;s organs and tissues. Damage caused by harmful amounts of this molecule in the brain and spinal cord is responsible for the intellectual disability, seizures, and breathing difficulties characteristic of glycine encephalopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000420-4" qtype="inheritance">Is glycine encephalopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000420-5" qtype="treatment">What are the treatments for glycine encephalopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of glycine encephalopathy:  - Baby&apos;s First Test  - Gene Review: Gene Review: Glycine Encephalopathy  - Genetic Testing Registry: Non-ketotic hyperglycinemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000597" source="GHR" url="https://ghr.nlm.nih.gov/condition/leukoencephalopathy-with-brainstem-and-spinal-cord-involvement-and-lactate-elevation">
+<Focus>leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270612</CUI>
+			<CUI>C1970180</CUI>
+			<CUI>C0748903</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LBSL</Synonym>
+		<Synonym>mitochondrial aspartyl-tRNA synthetase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000597-1" qtype="information">What is (are) leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation ?</Question>
+			<Answer>Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation (commonly referred to as LBSL) is a progressive disorder that affects the brain and spinal cord. Leukoencephalopathy refers to abnormalities in the white matter of the brain, which is tissue containing nerve cell fibers (axons) that transmit nerve impulses.  Most affected individuals begin to develop movement problems during childhood or adolescence. However, in some individuals, these problems do not develop until adulthood. People with LBSL have abnormal muscle stiffness (spasticity) and difficulty with coordinating movements (ataxia). In addition, affected individuals lose the ability to sense the position of their limbs or vibrations with their limbs. These movement and sensation problems affect the legs more than the arms, making walking difficult. Most affected individuals eventually require wheelchair assistance, sometimes as early as their teens, although the age varies.  People with LBSL can have other signs and symptoms of the condition. Some affected individuals develop recurrent seizures (epilepsy), speech difficulties (dysarthria), learning problems, or mild deterioration of mental functioning. Some people with this disorder are particularly vulnerable to severe complications following minor head trauma, which may trigger a loss of consciousness, other reversible neurological problems, or fever.  Distinct changes in the brains of people with LBSL can be seen using magnetic resonance imaging (MRI). These characteristic abnormalities typically involve particular parts of the white matter of the brain and specific regions (called tracts) within the brain stem and spinal cord, especially the pyramidal tract and the dorsal column. In addition, most affected individuals have a high level of a substance called lactate in the white matter of the brain, which is identified using another test called magnetic resonance spectroscopy (MRS).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000597-2" qtype="frequency">How many people are affected by leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation ?</Question>
+			<Answer>LBSL is a rare condition. Its exact prevalence is not known.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000597-3" qtype="genetic changes">What are the genetic changes related to leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation ?</Question>
+			<Answer>LBSL is caused by mutations in the DARS2 gene, which provides instructions for making an enzyme called mitochondrial aspartyl-tRNA synthetase. This enzyme is important in the production (synthesis) of proteins in cellular structures called mitochondria, the energy-producing centers in cells. While most protein synthesis occurs in the fluid surrounding the nucleus (cytoplasm), some proteins are synthesized in the mitochondria.  During protein synthesis, in either the mitochondria or the cytoplasm, building blocks (amino acids) are connected together in a specific order, creating a chain of amino acids that forms the protein. Mitochondrial aspartyl-tRNA synthetase plays a role in adding the amino acid aspartic acid at the proper place in mitochondrial proteins.  Mutations in the DARS2 gene result in decreased mitochondrial aspartyl-tRNA synthetase enzyme activity, which hinders the addition of aspartic acid to mitochondrial proteins. It is unclear how the gene mutations lead to the signs and symptoms of LBSL. Researchers do not understand why reduced activity of mitochondrial aspartyl-tRNA synthetase specifically affects certain parts of the brain and spinal cord.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000597-4" qtype="inheritance">Is leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation inherited ?</Question>
+			<Answer>LBSL is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. In this condition, each copy of the gene carries a different mutation (compound heterozygous mutations). An affected individual never has the same mutation in both copies of the gene (a homozygous mutation). The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000597-5" qtype="treatment">What are the treatments for leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation ?</Question>
+			<Answer>These resources address the diagnosis or management of LBSL:  - Gene Review: Gene Review: Leukoencephalopathy with Brain Stem and Spinal Cord Involvement and Lactate Elevation  - Genetic Testing Registry: Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

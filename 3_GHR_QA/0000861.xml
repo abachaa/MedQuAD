@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000861" source="GHR" url="https://ghr.nlm.nih.gov/condition/recurrent-hydatidiform-mole">
+<Focus>recurrent hydatidiform mole</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0278796</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial biparental hydatidiform mole</Synonym>
+		<Synonym>familial recurrent hydatidiform mole</Synonym>
+		<Synonym>FRHM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000861-1" qtype="information">What is (are) recurrent hydatidiform mole ?</Question>
+			<Answer>Recurrent hydatidiform mole occurs when women have at least two abnormal pregnancies described as hydatidiform moles. A hydatidiform mole occurs early in pregnancy when an embryo does not fully develop and the placenta develops abnormally. The placenta is a solid structure in the uterus that normally provides nutrients to a growing fetus. If a hydatidiform mole occurs once, it is known a sporadic hydatidiform mole; if it happens again, the condition is known as recurrent hydatidiform mole.  A hydatidiform mole often causes vaginal bleeding in the first trimester of the pregnancy. In an ultrasound examination, the abnormal placenta appears as numerous small sacs, often described as resembling a bunch of grapes. In some cases, the ultrasound shows no fetus, umbilical cord, or amniotic sac (a fluid-filled sac that normally surrounds the fetus).  Hydatidiform moles are not naturally discharged from the body and must be surgically removed, typically by the end of the first trimester. After removal, there is up to a 20 percent risk that any tissue left behind (persistent mole) will continue to grow and become a cancerous tumor called an invasive mole. The invasive mole can transform into a different form of cancer called gestational choriocarcinoma that can spread (metastasize) to other tissues such as the liver, lungs, or brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000861-2" qtype="frequency">How many people are affected by recurrent hydatidiform mole ?</Question>
+			<Answer>Hydatidiform moles occur in 1 in 600 to 1,000 pregnancies in western countries and are more common in developing countries. One to six percent of previously affected women will have a recurrent hydatidiform mole.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000861-3" qtype="genetic changes">What are the genetic changes related to recurrent hydatidiform mole ?</Question>
+			<Answer>Mutations in the NLRP7 or KHDC3L gene can cause recurrent hydatidiform mole, with NLRP7 gene mutations being the most common cause.  Within egg cells (oocytes), both the NLRP7 and KHDC3L proteins are thought to play a role in turning off (inactivating) certain genes based on which parent the copy of the gene came from, a phenomenon known as genomic imprinting. For most genes, both copies of the gene (one copy inherited from each parent) are active in all cells. For a small subset of genes, however, only one of the two copies is active; for some of these genes, the copy from the father is normally active, while for others, the copy from the mother is normally active. The NLRP7 and KHDC3L proteins are likely involved in imprinting multiple maternal genes in oocytes, ensuring that they will be inactive in the developing embryo; the corresponding paternal genes are active.  NLRP7 or KHDC3L gene mutations result in the production of proteins with impaired function. As a result, multiple genes that contribute to a developing embryo are not imprinted properly, leading to abnormal gene activity (expression) in all pregnancies. Because many genes that would normally be inactive are instead active, embryonic development is impaired, resulting in a hydatidiform mole.  The NLRP7 protein has also been found to play a role in cell growth and division (proliferation) and cell maturation (differentiation). Research suggests that the NLRP7 protein plays an additional role in immune responses by regulating the release of an immune protein called interleukin-1 beta. Normally, the immune system would recognize a hydatidiform mole as a non-growing pregnancy or foreign tissue and signal the body to remove it. Because the impaired NLRP7 protein slows interleukin-1 beta release, the body cannot trigger an immune response to the abnormal pregnancy. Instead, the hydatidiform mole remains in the body. The cause of the retention of the pregnancy in women with KHDC3L gene mutations is unclear.  In some cases of recurrent hydatidiform mole, no mutations in either of these genes have been identified. In these instances, the cause of the condition is unknown.  When there is only a single instance of hydatidiform mole, it is often caused by abnormal fertilization of an egg. In sporadic hydatidiform mole, the embryo either receives genetic information only from sperm cells because the egg has no DNA-containing nucleus, or the embryo receives too much genetic information because two sperm cells fertilized one egg.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000861-4" qtype="inheritance">Is recurrent hydatidiform mole inherited ?</Question>
+			<Answer>This condition is often inherited in an autosomal recessive pattern, which means a woman has to have mutations in both copies of the gene in each of her cells to have recurrent hydatidiform mole pregnancies. Because the mutations are present in all of a woman&apos;s cells, including oocytes (which need these genes to promote normal embryonic development), a hydatidiform mole will develop in each pregnancy that occurs with those egg cells.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000861-5" qtype="treatment">What are the treatments for recurrent hydatidiform mole ?</Question>
+			<Answer>These resources address the diagnosis or management of recurrent hydatidiform mole:  - American Cancer Society: Signs and Symptoms of Gestational Trophoblastic Disease  - Genetic Testing Registry: Hydatidiform mole  - Genetic Testing Registry: Hydatidiform mole, recurrent, 2  - MedlinePlus Encyclopedia: Choriocarcinoma  - MedlinePlus Encyclopedia: Hydatidiform Mole   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

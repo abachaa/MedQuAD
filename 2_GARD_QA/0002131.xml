@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002131" source="GARD" url="https://rarediseases.info.nih.gov/gard/1039/epidermolytic-ichthyosis">
+<Focus>Epidermolytic ichthyosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079153</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bullous congenital ichthyosiform erythroderma</Synonym>
+		<Synonym>epidermolytic hyperkeratosis</Synonym>
+		<Synonym>EHK</Synonym>
+		<Synonym>Congenital bullous ichthyosiform erythroderma</Synonym>
+		<Synonym>BCIE</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002131-1" qtype="information">What is (are) Epidermolytic ichthyosis ?</Question>
+			<Answer>Epidermolytic ichthyosis (EI) is a rare, genetic skin disorder. It becomes apparent at birth, or shortly after birth, with reddening, scaling, and severe blistering of the skin. Hyperkeratosis (thickening of the skin) develops within months and worsens over time. Blister formation decreases, but may still occur after skin trauma or during summer months. Skin can be itchy and smelly, and prone to infection. Other features may include reduced sweating; nail abnormalities; and in severe cases, growth failure. EI is caused by changes (mutations) in the KRT1 or KRT10 genes. About half of cases are due to new mutations and are not inherited from a parent (sporadic). Other cases are usually inherited in an autosomal dominant manner, and rarely, in an autosomal recessive manner. Treatment aims at alleviating and preventing symptoms and may include topical moisturizers or medications, and antiseptic washes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002131-2" qtype="symptoms">What are the symptoms of Epidermolytic ichthyosis ?</Question>
+			<Answer>What are the signs and symptoms of Epidermolytic ichthyosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Epidermolytic ichthyosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal blistering of the skin 90% Ichthyosis 90% Weight loss 90% Melanocytic nevus 50% Conjunctival hamartoma 7.5% Palmoplantar keratoderma 7.5% Skin ulcer 7.5% Autosomal dominant inheritance - Erythroderma - Palmoplantar hyperkeratosis - Scaling skin - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002131-3" qtype="inheritance">Is Epidermolytic ichthyosis inherited ?</Question>
+			<Answer>How is epidermolytic ichthyosis inherited? Many cases of epidermolytic ichthyosis (EI) are sporadic. This means they result from a new mutation in one of the responsible genes (KRT1 or KRT10), in people with no family history of EI. However, while people with sporadic EI did not inherit the condition from a parent, they may still pass the condition on to their children. Inherited cases of EI usually have an autosomal dominant inheritance pattern. This means that having a mutation in only one copy of KRT1 or KRT10 in each cell is enough to cause features of the condition. When a person with a mutation that causes an autosomal dominant condition has children, each child has a 50% (1 in 2) chance to inherit that mutation. Typically, EI due to a new mutation will follow autosomal dominant inheritance in subsequent generations. Very rarely, EI caused by mutations in the KRT10 gene is inherited in an autosomal recessive manner. This means that to be affected, a person must have a mutation in both copies of the responsible gene in each cell. Affected people inherit one mutated copy of the gene from each parent, who is referred to as a carrier. Carriers of an autosomal recessive condition typically do not have any signs or symptoms (they are unaffected). When 2 carriers of an autosomal recessive condition have children, each child has a: 25% (1 in 4) chance to be affected 50% (1 in 2) chance to be an unaffected carrier like each parent 25% chance to be unaffected and not be a carrier.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

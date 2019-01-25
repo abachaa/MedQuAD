@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001427" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000128.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Epilepsy or seizures - discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0036572</CUI>
+			<CUI>C0014544</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Focal seizure - discharge</Synonym>
+		<Synonym>Jacksonian seizure - discharge</Synonym>
+		<Synonym>Seizure - partial (focal) - discharge</Synonym>
+		<Synonym>TLE - discharge</Synonym>
+		<Synonym>Seizure - temporal lobe - discharge</Synonym>
+		<Synonym>Seizure - tonic-clonic - discharge</Synonym>
+		<Synonym>Seizure - grand mal - discharge</Synonym>
+		<Synonym>Grand mal seizure - discharge</Synonym>
+		<Synonym>Seizure - generalized - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001427-1" qtype="information">What is (are) Epilepsy or seizures - discharge ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001427-2" qtype="outlook">What is the outlook for Epilepsy or seizures - discharge ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001427-6" qtype="when to contact a medical professional">Do I need to see a doctor for Epilepsy or seizures - discharge ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

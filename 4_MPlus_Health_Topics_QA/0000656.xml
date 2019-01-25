@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000656" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/obesity.html">
+<Focus>Obesity</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0028754</CUI>
+			<CUI>C1963185</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000656-1" qtype="information">What is (are) Obesity ?</Question>
+			<Answer>Obesity means having too much body fat. It is different from being overweight, which means weighing too much. The weight may come from muscle, bone, fat, and/or body water. Both terms mean that a person&apos;s weight is greater than what&apos;s considered healthy for his or her height.     Obesity occurs over time when you eat more calories than you use. The balance between calories-in and calories-out differs for each person. Factors that might affect your weight include your genetic makeup, overeating, eating high-fat foods, and not being physically active.     Being obese increases your risk of diabetes, heart disease, stroke, arthritis, and some cancers. If you are obese, losing even 5 to 10 percent of your weight can delay or prevent some of these diseases. For example, that means losing 10 to 20 pounds if you weigh 200 pounds.    NIH: National Institute of Diabetes and Digestive and Kidney Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

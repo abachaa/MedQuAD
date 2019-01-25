@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005090" source="GARD" url="https://rarediseases.info.nih.gov/gard/7140/progressive-myoclonic-epilepsy">
+<Focus>Progressive myoclonic epilepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751778</CUI>
+			<CUI>C0751785</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial progressive myoclonic epilepsy</Synonym>
+		<Synonym>Familial encephalopathy with neuroserpin inclusion bodies</Synonym>
+		<Synonym>Lafora disease</Synonym>
+		<Synonym>Unverricht-Lundborg disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005090-1" qtype="information">What is (are) Progressive myoclonic epilepsy ?</Question>
+			<Answer>Progressive myoclonus epilepsy (PME) refers to a group of inherited conditions involving the central nervous system and representing more than a dozen different diseases. These diseases share certain features, including a worsening of symptoms over time and the presence of both muscle contractions (myoclonus) and seizures (epilepsy). PME is different from myoclonic epilepsy. Other features include dementia, dystonia, and trouble walking or speaking. These rare disorders often get worse over time and sometimes are fatal. Many of these PME diseases begin in childhood or adolescence.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

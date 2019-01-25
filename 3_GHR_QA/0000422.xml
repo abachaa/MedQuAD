@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000422" source="GHR" url="https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-i">
+<Focus>glycogen storage disease type I</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017920</CUI>
+			<CUI>C0267971</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>glucose-6-phosphate deficiency</Synonym>
+		<Synonym>glucose-6-phosphate transport defect</Synonym>
+		<Synonym>GSD I</Synonym>
+		<Synonym>GSD type I</Synonym>
+		<Synonym>hepatorenal form of glycogen storage disease</Synonym>
+		<Synonym>hepatorenal glycogenosis</Synonym>
+		<Synonym>von Gierke disease</Synonym>
+		<Synonym>von Gierke's disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000422-1" qtype="information">What is (are) glycogen storage disease type I ?</Question>
+			<Answer>Glycogen storage disease type I (also known as GSDI or von Gierke disease) is an inherited disorder caused by the buildup of a complex sugar called glycogen in the body&apos;s cells. The accumulation of glycogen in certain organs and tissues, especially the liver, kidneys, and small intestines, impairs their ability to function normally.  Signs and symptoms of this condition typically appear around the age of 3 or 4 months, when babies start to sleep through the night and do not eat as frequently as newborns. Affected infants may have low blood sugar (hypoglycemia), which can lead to seizures. They can also have a buildup of lactic acid in the body (lactic acidosis), high blood levels of a waste product called uric acid (hyperuricemia), and excess amounts of fats in the blood (hyperlipidemia). As they get older, children with GSDI have thin arms and legs and short stature. An enlarged liver may give the appearance of a protruding abdomen. The kidneys may also be enlarged. Affected individuals may also have diarrhea and deposits of cholesterol in the skin (xanthomas).  People with GSDI may experience delayed puberty. Beginning in young to mid-adulthood, affected individuals may have thinning of the bones (osteoporosis), a form of arthritis resulting from uric acid crystals in the joints (gout), kidney disease, and high blood pressure in the blood vessels that supply the lungs (pulmonary hypertension). Females with this condition may also have abnormal development of the ovaries (polycystic ovaries). In affected teens and adults, tumors called adenomas may form in the liver. Adenomas are usually noncancerous (benign), but occasionally these tumors can become cancerous (malignant).  Researchers have described two types of GSDI, which differ in their signs and symptoms and genetic cause. These types are known as glycogen storage disease type Ia (GSDIa) and glycogen storage disease type Ib (GSDIb). Two other forms of GSDI have been described, and they were originally named types Ic and Id. However, these types are now known to be variations of GSDIb; for this reason, GSDIb is sometimes called GSD type I non-a.  Many people with GSDIb have a shortage of white blood cells (neutropenia), which can make them prone to recurrent bacterial infections. Neutropenia is usually apparent by age 1. Many affected individuals also have inflammation of the intestinal walls (inflammatory bowel disease). People with GSDIb may have oral problems including cavities, inflammation of the gums (gingivitis), chronic gum (periodontal) disease, abnormal tooth development, and open sores (ulcers) in the mouth. The neutropenia and oral problems are specific to people with GSDIb and are typically not seen in people with GSDIa.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000422-2" qtype="frequency">How many people are affected by glycogen storage disease type I ?</Question>
+			<Answer>The overall incidence of GSDI is 1 in 100,000 individuals. GSDIa is more common than GSDIb, accounting for 80 percent of all GSDI cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000422-3" qtype="genetic changes">What are the genetic changes related to glycogen storage disease type I ?</Question>
+			<Answer>Mutations in two genes, G6PC and SLC37A4, cause GSDI. G6PC gene mutations cause GSDIa, and SLC37A4 gene mutations cause GSDIb.  The proteins produced from the G6PC and SLC37A4 genes work together to break down a type of sugar molecule called glucose 6-phosphate. The breakdown of this molecule produces the simple sugar glucose, which is the primary energy source for most cells in the body.  Mutations in the G6PC and SLC37A4 genes prevent the effective breakdown of glucose 6-phosphate. Glucose 6-phosphate that is not broken down to glucose is converted to glycogen and fat so it can be stored within cells. Too much glycogen and fat stored within a cell can be toxic. This buildup damages organs and tissues throughout the body, particularly the liver and kidneys, leading to the signs and symptoms of GSDI.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000422-4" qtype="inheritance">Is glycogen storage disease type I inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000422-5" qtype="treatment">What are the treatments for glycogen storage disease type I ?</Question>
+			<Answer>These resources address the diagnosis or management of glycogen storage disease type I:  - American Liver Foundation  - Canadian Liver Foundation  - Gene Review: Gene Review: Glycogen Storage Disease Type I  - Genetic Testing Registry: Glucose-6-phosphate transport defect  - Genetic Testing Registry: Glycogen storage disease type 1A  - Genetic Testing Registry: Glycogen storage disease, type I  - MedlinePlus Encyclopedia: Von Gierke Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

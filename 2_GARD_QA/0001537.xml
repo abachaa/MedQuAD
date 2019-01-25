@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001537" source="GARD" url="https://rarediseases.info.nih.gov/gard/9138/congenital-muscular-dystrophy">
+<Focus>Congenital muscular dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0699743</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital MD</Synonym>
+		<Synonym>CMD</Synonym>
+		<Synonym>MDC</Synonym>
+		<Synonym>Arthrogryposis due to muscular dystrophy</Synonym>
+		<Synonym>Bethlem myopathy</Synonym>
+		<Synonym>Congenital muscular dystrophy due to dystroglycanopathy</Synonym>
+		<Synonym>Congenital muscular dystrophy due to LMNA mutation</Synonym>
+		<Synonym>Congenital muscular dystrophy syringomyelia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001537-1" qtype="information">What is (are) Congenital muscular dystrophy ?</Question>
+			<Answer>Congenital muscular dystrophy (CMD) refers to a group of inherited conditions that affect the muscles and are present at birth or in early infancy. The severity of the condition, the associated signs and symptoms and the disease progression vary significantly by type. Common features include hypotonia; progressive muscle weakness and degeneration (atrophy); joint contractures; and delayed motor milestones (i.e. sitting up, walking, etc). CMD can be caused by a variety of different genes. Most forms are inherited in an autosomal recessive manner. Treatment is based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

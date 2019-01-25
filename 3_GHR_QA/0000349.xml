@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000349" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-glucocorticoid-deficiency">
+<Focus>familial glucocorticoid deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1955741</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACTH resistance</Synonym>
+		<Synonym>adrenal unresponsiveness to ACTH</Synonym>
+		<Synonym>glucocorticoid deficiency</Synonym>
+		<Synonym>hereditary unresponsiveness to adrenocorticotropic hormone</Synonym>
+		<Synonym>isolated glucocorticoid deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000349-1" qtype="information">What is (are) familial glucocorticoid deficiency ?</Question>
+			<Answer>Familial glucocorticoid deficiency is a condition that occurs when the adrenal glands, which are hormone-producing glands located on top of each kidney, do not produce certain hormones called glucocorticoids. These hormones, which include cortisol and corticosterone, aid in immune system function, play a role in maintaining normal blood sugar levels, help trigger nerve cell signaling in the brain, and serve many other purposes in the body.  A shortage of adrenal hormones (adrenal insufficiency) causes the signs and symptoms of familial glucocorticoid deficiency. These signs and symptoms often begin in infancy or early childhood. Most affected children first develop low blood sugar (hypoglycemia). These hypoglycemic children can fail to grow and gain weight at the expected rate (failure to thrive). If left untreated, hypoglycemia can lead to seizures, learning difficulties, and other neurological problems. Hypoglycemia that is left untreated for prolonged periods can lead to neurological damage and death. Other features of familial glucocorticoid deficiency can include recurrent infections and skin coloring darker than that of other family members (hyperpigmentation).  There are multiple types of familial glucocorticoid deficiency, which are distinguished by their genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000349-2" qtype="frequency">How many people are affected by familial glucocorticoid deficiency ?</Question>
+			<Answer>The prevalence of familial glucocorticoid deficiency is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000349-3" qtype="genetic changes">What are the genetic changes related to familial glucocorticoid deficiency ?</Question>
+			<Answer>Mutations in the MC2R, MRAP, and NNT genes account for the majority of cases of familial glucocorticoid deficiency; mutations in other genes, some known and some unidentified, can also cause this condition.  The MC2R gene provides instructions for making a protein called adrenocorticotropic hormone (ACTH) receptor, which is found primarily in the adrenal glands. The protein produced from the MRAP gene transports the ACTH receptor from the interior of the cell to the cell membrane. When the ACTH receptor is embedded within the cell membrane, it is turned on (activated) by the MRAP protein. Activated ACTH receptor can then attach (bind) to ACTH, and this binding triggers the adrenal glands to produce glucocorticoids. MC2R gene mutations lead to the production of a receptor that cannot be transported to the cell membrane or, if it does get to the cell membrane, cannot bind to ACTH. MRAP gene mutations impair the transport of the ACTH receptor to the cell membrane. Without the binding of the ACTH receptor to its hormone, there is no signal to trigger the adrenal glands to produce glucocorticoids.  The NNT gene provides instructions for making an enzyme called nicotinamide nucleotide transhydrogenase. This enzyme is found embedded in the inner membrane of structures called mitochondria, which are the energy-producing centers of cells. This enzyme helps produce a substance called NADPH, which is involved in removing potentially toxic molecules called reactive oxygen species that can damage DNA, proteins, and cell membranes. NNT gene mutations impair the enzyme&apos;s ability to produce NADPH, leading to an increase in reactive oxygen species in adrenal gland tissues. Over time, these toxic molecules can impair the function of adrenal gland cells and lead to their death (apoptosis), diminishing the production of glucocorticoids.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000349-4" qtype="inheritance">Is familial glucocorticoid deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000349-5" qtype="treatment">What are the treatments for familial glucocorticoid deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of familial glucocorticoid deficiency:  - Genetic Testing Registry: ACTH resistance  - Genetic Testing Registry: Glucocorticoid deficiency 2  - Genetic Testing Registry: Glucocorticoid deficiency 3  - Genetic Testing Registry: Glucocorticoid deficiency 4  - Genetic Testing Registry: Natural killer cell deficiency, familial isolated   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

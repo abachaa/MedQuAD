@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003737" source="GARD" url="https://rarediseases.info.nih.gov/gard/10260/macular-degeneration">
+<Focus>Macular degeneration</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024437</CUI>
+			<CUI>C0242383</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Age-related macular degeneration</Synonym>
+		<Synonym>ARM</Synonym>
+		<Synonym>Age-related maculopathy</Synonym>
+		<Synonym>AMD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003737-1" qtype="information">What is (are) Macular degeneration ?</Question>
+			<Answer>Age-related macular degeneration (AMD) is an eye condition characterized by progressive destruction of the macula. The macula is located in the retina in the eye and enables one to see fine details and perform tasks that require central vision, such as reading and driving. Signs and symptoms include vision loss, which usually becomes noticeable in a person&apos;s sixties or seventies and tends to worsen over time. There are 2 major types of AMD, known as the dry form and the wet form. The dry form accounts for up to 90% of cases and is characterized by slowly progressive vision loss. The wet form is associated with severe vision loss that can worsen rapidly. AMD is caused by a combination of genetic and environmental factors, some of which have been identified. Increasing age is the most important non-genetic risk factor. The condition appears to run in families in some cases. While there is currently no cure for AMD, there are therapies available to help slow the progression of the condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

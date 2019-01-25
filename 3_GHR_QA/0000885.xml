@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000885" source="GHR" url="https://ghr.nlm.nih.gov/condition/rotor-syndrome">
+<Focus>Rotor syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220991</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hyperbilirubinemia, Rotor type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000885-1" qtype="information">What is (are) Rotor syndrome ?</Question>
+			<Answer>Rotor syndrome is a relatively mild condition characterized by elevated levels of a substance called bilirubin in the blood (hyperbilirubinemia). Bilirubin is produced when red blood cells are broken down. It has an orange-yellow tint, and buildup of this substance can cause yellowing of the skin or whites of the eyes (jaundice). In people with Rotor syndrome, jaundice is usually evident shortly after birth or in childhood and may come and go; yellowing of the whites of the eyes (also called conjunctival icterus) is often the only symptom.  There are two forms of bilirubin in the body: a toxic form called unconjugated bilirubin and a nontoxic form called conjugated bilirubin. People with Rotor syndrome have a buildup of both unconjugated and conjugated bilirubin in their blood, but the majority is conjugated.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000885-2" qtype="frequency">How many people are affected by Rotor syndrome ?</Question>
+			<Answer>Rotor syndrome is a rare condition, although its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000885-3" qtype="genetic changes">What are the genetic changes related to Rotor syndrome ?</Question>
+			<Answer>The SLCO1B1 and SLCO1B3 genes are involved in Rotor syndrome. Mutations in both genes are required for the condition to occur. The SLCO1B1 and SLCO1B3 genes provide instructions for making similar proteins, called organic anion transporting polypeptide 1B1 (OATP1B1) and organic anion transporting polypeptide 1B3 (OATP1B3), respectively. Both proteins are found in liver cells; they transport bilirubin and other compounds from the blood into the liver so that they can be cleared from the body. In the liver, bilirubin is dissolved in a digestive fluid called bile and then excreted from the body.  The SLCO1B1 and SLCO1B3 gene mutations that cause Rotor syndrome lead to abnormally short, nonfunctional OATP1B1 and OATP1B3 proteins or an absence of these proteins. Without the function of either transport protein, bilirubin is less efficiently taken up by the liver and removed from the body. The buildup of this substance leads to jaundice in people with Rotor syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000885-4" qtype="inheritance">Is Rotor syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern. In autosomal recessive inheritance, both copies of a gene in each cell have mutations. In Rotor syndrome, an affected individual must have mutations in both the SLCO1B1 and the SLCO1B3 gene, so both copies of the two genes are altered. The parents of an individual with this condition each carry one altered copy of both genes, but they do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000885-5" qtype="treatment">What are the treatments for Rotor syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Rotor syndrome:  - Centers for Disease Control and Prevention: Facts About Jaundice and Kernicterus  - Gene Review: Gene Review: Rotor Syndrome  - Genetic Testing Registry: Rotor syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

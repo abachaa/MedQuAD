@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001548" source="GARD" url="https://rarediseases.info.nih.gov/gard/4446/congenital-porphyria">
+<Focus>Congenital porphyria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162530</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital erythropoietic porphyria</Synonym>
+		<Synonym>Porphyria, congenital erythropoietic</Synonym>
+		<Synonym>CEP</Synonym>
+		<Synonym>Gnther disease</Synonym>
+		<Synonym>Uroporphyrinogen III synthase, deficiency of</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001548-1" qtype="information">What is (are) Congenital porphyria ?</Question>
+			<Answer>Congenital erythropoietic porphyria (CEP) is the rarest porphyria and is commonly seen in infancy, although it may begin in adulthood.  It is characterized by severe skin photosensitivity that may lead to scarring, blistering, and increased hair growth at the face and back of the hands. Photosensitivity and infection may cause the loss of fingers and facial features. Symptoms of CEP range from mild to severe and may include hypertrichosis, reddish discoloration of the teeth, anemia, and reddish-colored urine. In CEP, there is a defect in the synthesis of heme within the red blood cells of bone marrow. This defect leads to an increase in the buildup and, therefore, waste of porphyrin and its precursors, which leads to the signs and symptoms. Treatment for CEP may include activated charcoal or a bone marrow transplant, which can improve the anemia and future blister or scar formations from photosensitivity. Blood transfusions or spleen removal may also reduce the amount of porphyrin produced from bone marrow. This condition is inherited in an autosomal recessive fashion and is caused by mutations in the UROS gene.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001548-2" qtype="symptoms">What are the symptoms of Congenital porphyria ?</Question>
+			<Answer>What are the signs and symptoms of Congenital porphyria? The Human Phenotype Ontology provides the following list of signs and symptoms for Congenital porphyria. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal blistering of the skin 90% Abnormality of dental color 90% Abnormality of the heme biosynthetic pathway 90% Abnormality of urine homeostasis 90% Cutaneous photosensitivity 90% Hemolytic anemia 90% Hypertrichosis 90% Self-injurious behavior 90% Splenomegaly 90% Abnormality of immune system physiology 50% Recurrent fractures 50% Reduced bone mineral density 50% Thrombocytopenia 7.5% Abnormality of the mouth - Alopecia - Atypical scarring of skin - Autosomal recessive inheritance - Cholelithiasis - Congenital onset - Conjunctivitis - Corneal scarring - Hyperpigmentation of the skin - Hypopigmentation of the skin - Joint contracture of the hand - Loss of eyelashes - Osteolysis - Osteopenia - Pathologic fracture - Scleroderma - Short stature - Thickened skin - Vertebral compression fractures - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

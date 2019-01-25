@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003521" source="GARD" url="https://rarediseases.info.nih.gov/gard/8476/leber-hereditary-optic-neuropathy-with-dystonia">
+<Focus>Leber hereditary optic neuropathy with dystonia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1839040</CUI>
+			<CUI>C0730309</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LHON and dystonia</Synonym>
+		<Synonym>Leber optic atrophy and dystonia</Synonym>
+		<Synonym>LDYT</Synonym>
+		<Synonym>Marsden syndrome</Synonym>
+		<Synonym>Dystonia familial, with visual failure and striatal lucencies</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003521-1" qtype="information">What is (are) Leber hereditary optic neuropathy with dystonia ?</Question>
+			<Answer>Leber hereditary optic neuropathy (LHON) with dystonia is a very rare variant of LHON where an individual has LHON associated with dystonia, which involves involuntary muscle contractions, tremors, and other unctrolled movements. It is caused by mutations in one of three mitochondrial genes: MT-ND1, MT-ND3, MT-ND4, and MT-ND6. Other features that have been associated with this condition include difficulty walking, muscle wasting, scoliosis, dysphagia, dysarthria, intellectual disability, dementia, and spasticity. The dystonia usually begins in childhood; vision loss may begin in early adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003521-2" qtype="symptoms">What are the symptoms of Leber hereditary optic neuropathy with dystonia ?</Question>
+			<Answer>What are the signs and symptoms of Leber hereditary optic neuropathy with dystonia? The Human Phenotype Ontology provides the following list of signs and symptoms for Leber hereditary optic neuropathy with dystonia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of eye movement - Athetosis - Bradykinesia - Dementia - Dysarthria - Dysphagia - Dystonia - Increased CSF lactate - Increased serum lactate - Intellectual disability - Leber optic atrophy - Mitochondrial inheritance - Optic atrophy - Peripheral neuropathy - Scoliosis - Skeletal muscle atrophy - Spasticity - Visual loss - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

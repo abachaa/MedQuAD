@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001059" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-lymphoproliferative-disease">
+<Focus>X-linked lymphoproliferative disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0549463</CUI>
+			<CUI>C0024314</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Duncan disease</Synonym>
+		<Synonym>Epstein-Barr virus-induced lymphoproliferative disease in males</Synonym>
+		<Synonym>familial fatal Epstein-Barr infection</Synonym>
+		<Synonym>Purtilo syndrome</Synonym>
+		<Synonym>severe susceptibility to EBV infection</Synonym>
+		<Synonym>severe susceptibility to infectious mononucleosis</Synonym>
+		<Synonym>X-linked lymphoproliferative syndrome</Synonym>
+		<Synonym>XLP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001059-1" qtype="information">What is (are) X-linked lymphoproliferative disease ?</Question>
+			<Answer>X-linked lymphoproliferative disease (XLP) is a disorder of the immune system and blood-forming cells that is found almost exclusively in males. More than half of individuals with this disorder experience an exaggerated immune response to the Epstein-Barr virus (EBV). EBV is a very common virus that eventually infects most humans. In some people it causes infectious mononucleosis (commonly known as &quot;mono&quot;). Normally, after initial infection, EBV remains in certain immune system cells (lymphocytes) called B cells. However, the virus is generally inactive (latent) because it is controlled by other lymphocytes called T cells that specifically target EBV-infected B cells.  People with XLP may respond to EBV infection by producing abnormally large numbers of T cells, B cells, and other lymphocytes called macrophages. This proliferation of immune cells often causes a life-threatening reaction called hemophagocytic lymphohistiocytosis. Hemophagocytic lymphohistiocytosis causes fever, destroys blood-producing cells in the bone marrow, and damages the liver. The spleen, heart, kidneys, and other organs and tissues may also be affected. In some individuals with XLP, hemophagocytic lymphohistiocytosis or related symptoms may occur without EBV infection.  About one-third of people with XLP experience dysgammaglobulinemia, which means they have abnormal levels of some types of antibodies. Antibodies (also known as immunoglobulins) are proteins that attach to specific foreign particles and germs, marking them for destruction. Individuals with dysgammaglobulinemia are prone to recurrent infections.  Cancers of immune system cells (lymphomas) occur in about one-third of people with XLP.  Without treatment, most people with XLP survive only into childhood. Death usually results from hemophagocytic lymphohistiocytosis.  XLP can be divided into two types based on its genetic cause and pattern of signs and symptoms: XLP1 (also known as classic XLP) and XLP2. People with XLP2 have not been known to develop lymphoma, are more likely to develop hemophagocytic lymphohistiocytosis without EBV infection, usually have an enlarged spleen (splenomegaly), and may also have inflammation of the large intestine (colitis). Some researchers believe that these individuals should actually be considered to have a similar but separate disorder rather than a type of XLP.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001059-2" qtype="frequency">How many people are affected by X-linked lymphoproliferative disease ?</Question>
+			<Answer>XLP1 is estimated to occur in about 1 per million males worldwide. XLP2 is less common, occurring in about 1 per 5 million males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001059-3" qtype="genetic changes">What are the genetic changes related to X-linked lymphoproliferative disease ?</Question>
+			<Answer>Mutations in the SH2D1A and XIAP genes cause XLP. SH2D1A gene mutations cause XLP1, and XIAP gene mutations cause XLP2.  The SH2D1A gene provides instructions for making a protein called signaling lymphocyte activation molecule (SLAM) associated protein (SAP). This protein is involved in the functioning of lymphocytes that destroy other cells (cytotoxic lymphocytes) and is necessary for the development of specialized T cells called natural killer T cells. The SAP protein also helps control immune reactions by triggering self-destruction (apoptosis) of cytotoxic lymphocytes when they are no longer needed.  Some SH2D1A gene mutations impair SAP function. Others result in an abnormally short protein that is unstable or nonfunctional, or prevent any SAP from being produced. The loss of functional SAP disrupts proper signaling in the immune system and may prevent the body from controlling the immune reaction to EBV infection. In addition, lymphomas may develop when defective lymphocytes are not properly destroyed by apoptosis.  The XIAP gene provides instructions for making a protein that helps protect cells from undergoing apoptosis in response to certain signals. XIAP gene mutations can lead to an absence of XIAP protein or decrease the amount of XIAP protein that is produced. It is unknown how a lack of XIAP protein results in the signs and symptoms of XLP, or why features of this disorder differ somewhat between people with XIAP and SH2D1A gene mutations.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001059-4" qtype="inheritance">Is X-linked lymphoproliferative disease inherited ?</Question>
+			<Answer>This condition is generally inherited in an X-linked recessive pattern. The genes associated with this condition are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of an associated gene in each cell is sufficient to cause the condition. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In females (who have two X chromosomes), a mutation usually has to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of an associated gene, males are affected by X-linked recessive disorders much more frequently than females. However, in rare cases a female carrying one altered copy of the SH2D1A or XIAP gene in each cell may develop signs and symptoms of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001059-5" qtype="treatment">What are the treatments for X-linked lymphoproliferative disease ?</Question>
+			<Answer>These resources address the diagnosis or management of XLP:  - Children&apos;s Hospital of Philadelphia  - Gene Review: Gene Review: Lymphoproliferative Disease, X-Linked  - Genetic Testing Registry: Lymphoproliferative syndrome 1, X-linked  - Genetic Testing Registry: Lymphoproliferative syndrome 2, X-linked  - MedlinePlus Encyclopedia: Epstein-Barr Virus Test  - Merck Manual for Healthcare Professionals  - XLP Research Trust: Immunoglobulin Replacement  - XLP Research Trust: Preparing for Bone Marrow Transplant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

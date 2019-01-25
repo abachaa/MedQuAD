@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000470" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-pancreatitis">
+<Focus>hereditary pancreatitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238339</CUI>
+			<CUI>C0030305</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal dominant hereditary pancreatitis</Synonym>
+		<Synonym>familial pancreatitis</Synonym>
+		<Synonym>hereditary chronic pancreatitis</Synonym>
+		<Synonym>HP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000470-1" qtype="information">What is (are) hereditary pancreatitis ?</Question>
+			<Answer>Hereditary pancreatitis is a genetic condition characterized by recurrent episodes of inflammation of the pancreas (pancreatitis). The pancreas produces enzymes that help digest food, and it also produces insulin, a hormone that controls blood sugar levels in the body. Episodes of pancreatitis can lead to permanent tissue damage and loss of pancreatic function.  Signs and symptoms of this condition usually begin in late childhood with an episode of acute pancreatitis. A sudden (acute) attack can cause abdominal pain, fever, nausea, or vomiting. An episode typically lasts from one to three days, although some people may experience severe episodes that last longer. Hereditary pancreatitis progresses to recurrent acute pancreatitis with multiple episodes of acute pancreatitis that recur over a period of at least a year; the number of episodes a person experiences varies. Recurrent acute pancreatitis leads to chronic pancreatitis, which occurs when the pancreas is persistently inflamed. Chronic pancreatitis usually develops by early adulthood in affected individuals. Signs and symptoms of chronic pancreatitis include occasional or frequent abdominal pain of varying severity, flatulence, and bloating. Many individuals with hereditary pancreatitis also develop abnormal calcium deposits in the pancreas (pancreatic calcifications) by early adulthood.  Years of inflammation damage the pancreas, causing the formation of scar tissue (fibrosis) in place of functioning pancreatic tissue. Pancreatic fibrosis leads to the loss of pancreatic function in many affected individuals. This loss of function can impair the production of digestive enzymes and disrupt normal digestion, leading to fatty stool (steatorrhea), weight loss, and protein and vitamin deficiencies. Because of a decrease in insulin production due to a loss of pancreatic function, about a quarter of individuals with hereditary pancreatitis will develop type 1 diabetes mellitus by mid-adulthood; the risk of developing diabetes increases with age.  Chronic pancreatic inflammation and damage to the pancreas increase the risk of developing pancreatic cancer. The risk is particularly high in people with hereditary pancreatitis who also smoke, use alcohol, have type 1 diabetes mellitus, or have a family history of cancer. In affected individuals who develop pancreatic cancer, it is typically diagnosed in mid-adulthood.  Complications from pancreatic cancer and type 1 diabetes mellitus are the most common causes of death in individuals with hereditary pancreatitis, although individuals with this condition are thought to have a normal life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000470-2" qtype="frequency">How many people are affected by hereditary pancreatitis ?</Question>
+			<Answer>Hereditary pancreatitis is thought to be a rare condition. In Europe, its prevalence is estimated to be 3 to 6 per million individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000470-3" qtype="genetic changes">What are the genetic changes related to hereditary pancreatitis ?</Question>
+			<Answer>Mutations in the PRSS1 gene cause most cases of hereditary pancreatitis. The PRSS1 gene provides instructions for making an enzyme called cationic trypsinogen. This enzyme is produced in the pancreas and helps with the digestion of food. When cationic trypsinogen is needed, it is released (secreted) from the pancreas and transported to the small intestine, where it is cut (cleaved) into its working or active form called trypsin. When digestion is complete and trypsin is no longer needed, the enzyme is broken down.  Some PRSS1 gene mutations that cause hereditary pancreatitis result in the production of a cationic trypsinogen enzyme that is prematurely converted to trypsin while it is still in the pancreas. Other mutations prevent trypsin from being broken down. These changes result in elevated levels of trypsin in the pancreas. Trypsin activity in the pancreas can damage pancreatic tissue and can also trigger an immune response, causing inflammation in the pancreas.  It is estimated that 65 to 80 percent of people with hereditary pancreatitis have mutations in the PRSS1 gene. The remaining cases are caused by mutations in other genes, some of which have not been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000470-4" qtype="inheritance">Is hereditary pancreatitis inherited ?</Question>
+			<Answer>When hereditary pancreatitis is caused by mutations in the PRSS1 gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the PRSS1 gene mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  It is estimated that 20 percent of people who have the altered PRSS1 gene never have an episode of pancreatitis. (This situation is known as reduced penetrance.) It is unclear why some people with a mutated gene never develop signs and symptoms of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000470-5" qtype="treatment">What are the treatments for hereditary pancreatitis ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary pancreatitis:  - Encyclopedia: Chronic Pancreatitis  - Gene Review: Gene Review: PRSS1-Related Hereditary Pancreatitis  - Gene Review: Gene Review: Pancreatitis Overview  - Genetic Testing Registry: Hereditary pancreatitis  - Johns Hopkins Medicine: Treatment Options for Pancreatitis  - MD Anderson Cancer Center: Pancreatic Cancer Diagnosis  - MedlinePlus Encyclopedia: Acute Pancreatitis  - MedlinePlus Encyclopedia: Chronic Pancreatitis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000821" source="GHR" url="https://ghr.nlm.nih.gov/condition/primary-hyperoxaluria">
+<Focus>primary hyperoxaluria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020501</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital oxaluria</Synonym>
+		<Synonym>D-glycerate dehydrogenase deficiency</Synonym>
+		<Synonym>glyceric aciduria</Synonym>
+		<Synonym>glycolic aciduria</Synonym>
+		<Synonym>hepatic AGT deficiency</Synonym>
+		<Synonym>hyperoxaluria, primary</Synonym>
+		<Synonym>oxalosis</Synonym>
+		<Synonym>oxaluria, primary</Synonym>
+		<Synonym>peroxisomal alanine:glyoxylate aminotransferase deficiency</Synonym>
+		<Synonym>primary oxalosis</Synonym>
+		<Synonym>primary oxaluria</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000821-1" qtype="information">What is (are) primary hyperoxaluria ?</Question>
+			<Answer>Primary hyperoxaluria is a rare condition characterized by recurrent kidney and bladder stones. The condition often results in end stage renal disease (ESRD), which is a life-threatening condition that prevents the kidneys from filtering fluids and waste products from the body effectively.  Primary hyperoxaluria results from the overproduction of a substance called oxalate. Oxalate is filtered through the kidneys and excreted as a waste product in urine, leading to abnormally high levels of this substance in urine (hyperoxaluria). During its excretion, oxalate can combine with calcium to form calcium oxalate, a hard compound that is the main component of kidney and bladder stones. Deposits of calcium oxalate can damage the kidneys and other organs and lead to blood in the urine (hematuria), urinary tract infections, kidney damage, ESRD, and injury to other organs. Over time, kidney function decreases such that the kidneys can no longer excrete as much oxalate as they receive. As a result oxalate levels in the blood rise, and the substance gets deposited in tissues throughout the body (systemic oxalosis), particularly in bones and the walls of blood vessels. Oxalosis in bones can cause fractures.  There are three types of primary hyperoxaluria that differ in their severity and genetic cause. In primary hyperoxaluria type 1, kidney stones typically begin to appear anytime from childhood to early adulthood, and ESRD can develop at any age. Primary hyperoxaluria type 2 is similar to type 1, but ESRD develops later in life. In primary hyperoxaluria type 3, affected individuals often develop kidney stones in early childhood, but few cases of this type have been described so additional signs and symptoms of this type are unclear.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000821-2" qtype="frequency">How many people are affected by primary hyperoxaluria ?</Question>
+			<Answer>Primary hyperoxaluria is estimated to affect 1 in 58,000 individuals worldwide. Type 1 is the most common form, accounting for approximately 80 percent of cases. Types 2 and 3 each account for about 10 percent of cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000821-3" qtype="genetic changes">What are the genetic changes related to primary hyperoxaluria ?</Question>
+			<Answer>Mutations in the AGXT, GRHPR, and HOGA1 genes cause primary hyperoxaluria types 1, 2, and 3, respectively. These genes provide instructions for making enzymes that are involved in the breakdown and processing of protein building blocks (amino acids) and other compounds. The enzyme produced from the HOGA1 gene is involved in the breakdown of an amino acid, which results in the formation of a compound called glyoxylate. This compound is further broken down by the enzymes produced from the AGXT and GRHPR genes.  Mutations in the AGXT, GRHPR, or HOGA1 gene lead to a decrease in production or activity of the respective proteins, which prevents the normal breakdown of glyoxylate. AGXT and GRHPR gene mutations result in an accumulation of glyoxylate, which is then converted to oxalate for removal from the body as a waste product. HOGA1 gene mutations also result in excess oxalate, although researchers are unsure as to how this occurs. Oxalate that is not excreted from the body combines with calcium to form calcium oxalate deposits, which can damage the kidneys and other organs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000821-4" qtype="inheritance">Is primary hyperoxaluria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000821-5" qtype="treatment">What are the treatments for primary hyperoxaluria ?</Question>
+			<Answer>These resources address the diagnosis or management of primary hyperoxaluria:  - Gene Review: Gene Review: Primary Hyperoxaluria Type 1  - Gene Review: Gene Review: Primary Hyperoxaluria Type 2  - Gene Review: Gene Review: Primary Hyperoxaluria Type 3  - Genetic Testing Registry: Hyperoxaluria  - Genetic Testing Registry: Primary hyperoxaluria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

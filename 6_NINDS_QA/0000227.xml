@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000227" source="NINDS" url="http://www.ninds.nih.gov/disorders/pelizaeus_merzbacher/pelizaeus_merzbacher.htm">
+<Focus>Pelizaeus-Merzbacher Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0205711</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000227-1" qtype="information">What is (are) Pelizaeus-Merzbacher Disease ?</Question>
+			<Answer>Pelizaeus-Merzbacher disease (PMD) is a rare, progressive, degenerative central nervous system disorder in which coordination, motor abilities, and intellectual function deteriorate. The disease is one of a group of gene-linked disorders known as the leukodystrophies, which affect growth of the myelin sheath -- the fatty covering that wraps around and protects nerve fibers in the brain. The disease is caused by a mutation in the gene that controls the production of a myelin protein called proteolipid protein-1 (PLP1). PMD is inherited as an X-linked recessive trait; the affected individuals are male and the mothers are carriers of the PLP1 mutation. Severity and onset of the disease ranges widely, depending on the type of PLP1 mutation. PMD is one of a spectrum of diseases associated with PLP1, which also includes Spastic Paraplegia Type 2 (SPG2). The PLP1-related disorders span a continuum of neurologic symptoms that range from severe central nervous system involvement (PMD) to progressive weakness and stiffness of the legs (SPG2). There are four general classifications within this spectrum of diseases. In order of severity, they are:
+                
+- Connatal PMD, which is the most severe type and involves delayed mental and physical development and severe neurological symptoms; - Classic PMD, in which the early symptoms include muscle weakness, involuntary movements of the eyes (nystagmus), and delays in motor development within the first year of life; - Complicated SPG2, which features motor development issues and brain involvement, and, - Pure SPG2, which includes cases of PMD that do not have neurologic complications.
+                
+Noticeable changes in the extent of myelination can be detected by MRI analyses of the brain. Additional symptoms of PMD may include slow growth, tremor, failure to develop normal control of head movement, and deteriorating speech and cognitive function.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000227-2" qtype="treatment">What are the treatments for Pelizaeus-Merzbacher Disease ?</Question>
+			<Answer>There is no cure for Pelizaeus-Merzbacher disease, nor is there a standard course of treatment. Treatment is symptomatic and supportive and may include medication for movement disorders.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000227-3" qtype="outlook">What is the outlook for Pelizaeus-Merzbacher Disease ?</Question>
+			<Answer>The prognosis for those with the severe forms of Pelizaeus-Merzbacher disease is poor, with progressive deterioration until death. On the other end of the disease spectrum, individuals with the mild form, in which spastic paraplegia is the chief symptom, may have nearly normal activity and life span.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000227-4" qtype="research">what research (or clinical trials) is being done for Pelizaeus-Merzbacher Disease ?</Question>
+			<Answer>NINDS supports research on gene-linked disorders, including the leukodystrophies. The goals of this research are to increase scientific understanding of these disorders and to find ways to prevent, treat, and ultimately cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

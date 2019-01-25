@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005208" source="GARD" url="https://rarediseases.info.nih.gov/gard/12813/pustular-psoriasis">
+<Focus>Pustular psoriasis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152081</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Generalized pustular psoriasis</Synonym>
+		<Synonym>Pustulosis palmaris et plantaris</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005208-1" qtype="information">What is (are) Pustular psoriasis ?</Question>
+			<Answer>Pustular psoriasis is a rare form of psoriasis that is characterized by widespread pustules and reddish skin. This condition can occur alone or with plaque-type psoriasis. Most cases of pustular psoriasis are thought to be &quot;multifactorial&quot; or associated with the effects of multiple genes in combination with lifestyle and environmental factors. There are several triggers for this conditions including withdrawal from corticosteroids, exposure to various medications and/or infections. Some cases of the generalized form are caused by changes (mutations) in the IL36RN gene and are inherited in an autosomal recessive pattern. In severe cases, hospitalization may be required. Treatment aims to alleviate the associated symptoms and may include certain medications and/or phototherapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

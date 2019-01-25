@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000097" source="NINDS" url="http://www.ninds.nih.gov/disorders/deep_brain_stimulation/deep_brain_stimulation.htm">
+<Focus>Deep Brain Stimulation for Parkinson's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030567</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000097-1" qtype="information">What is (are) Deep Brain Stimulation for Parkinson's Disease ?</Question>
+			<Answer>Deep brain stimulation (DBS) is a surgical procedure used to treat several disabling neurological symptomsmost commonly the debilitating motor symptoms of Parkinsons disease (PD), such as tremor, rigidity, stiffness, slowed movement, and walking problems. The procedure is also used to treat essential tremor and dystonia. At present, the procedure is used only for individuals whose symptoms cannot be adequately controlled with medications. However, only individuals who improve to some degree after taking medication for Parkinsons benefit from DBS. A variety of conditions may mimic PD but do not respond to medications or DBS. DBS uses a surgically implanted, battery-operated medical device called an implantable pulse generator (IPG) - similar to a heart pacemaker and approximately the size of a stopwatch to - deliver electrical stimulation to specific areas in the brain that control movement, thus blocking the abnormal nerve signals that cause PD symptoms.
+                
+Before the procedure, a neurosurgeon uses magnetic resonance imaging (MRI) or computed tomography (CT) scanning to identify and locate the exact target within the brain for surgical intervention. Some surgeons may use microelectrode recording - which involves a small wire that monitors the activity of nerve cells in the target area - to more specifically identify the precise brain area that will be stimulated. Generally, these areas are the thalamus, subthalamic nucleus, and globus pallidus. There is a low chance that placement of the stimulator may cause bleeding or infection in the brain.
+                
+The DBS system consists of three components: the lead, the extension, and the IPG. The lead (also called an electrode)a thin, insulated wireis inserted through a small opening in the skull and implanted in the brain. The tip of the electrode is positioned within the specific brain area. 
+                
+The extension is an insulated wire that is passed under the skin of the head, neck, and shoulder, connecting the lead to the implantable pulse generator. The IPG (the &quot;battery pack&quot;) is the third component and is usually implanted under the skin near the collarbone. In some cases it may be implanted lower in the chest or under the skin over the abdomen.
+                
+Once the system is in place, electrical impulses are sent from the IPG up along the extension wire and the lead and into the brain. These impulses block abnormal electrical signals and alleviate PD motor symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000097-2" qtype="treatment">What are the treatments for Deep Brain Stimulation for Parkinson's Disease ?</Question>
+			<Answer>Unlike previous surgeries for PD, DBS involves minimal permanent surgical changes to the brain. Instead, the procedure uses electrical stimulation to regulate electrical signals in neural circuits to and from identified areas in the brain to improve PD symptoms. Thus, if DBS causes unwanted side effects or newer, more promising treatments develop in the future, the implantable pulse generator can be removed, and the DBS procedure can be halted. Also, stimulation from the IPG is easily adjustablewithout further surgeryif the persons condition changes. Some people describe the pulse generator adjustments as &quot;programming.&quot;</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000097-3" qtype="outlook">What is the outlook for Deep Brain Stimulation for Parkinson's Disease ?</Question>
+			<Answer>Although most individuals still need to take medication after undergoing DBS, many people with Parkinsons disease experience considerable reduction of their motor symptoms and are able to reduce their medications. The amount of reduction varies but can be considerably reduced in most individuals, and can lead to a significant improvement in side effects such as dyskinesias (involuntary movements caused by long-term use of levodopa). In some cases, the stimulation itself can suppress dyskinesias without a reduction in medication. DBS does not improve cognitive symptoms in PD and indeed may worsen them, so it is not generally used if there are signs of dementia. DBS changes the brain firing pattern but does not slow the progression of the neurodegeneration.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000097-4" qtype="research">what research (or clinical trials) is being done for Deep Brain Stimulation for Parkinson's Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), a part of the National institutes of Health (NIH), supports research on DBS to determine its safety, reliability, and effectiveness as a treatment for PD. NINDS supported research on brain circuitry was critical to the development of DBS.
+                
+Researchers are continuing to study DBS and to develop ways of improving it. A two-part study funded by the NINDS and the Department of Veterans Affairs first compared bilateral DBS to best medical therapy, including medication adjustment and physical therapy. Bilateral DBS showed overall superiority to best medical therapy at improving motor symptoms and quality of life. The second part of the study, involving nearly 300 patients, compared subthalamic nucleus (STN) DBS to globus pallidus interna (GPI) DBS. The two groups reported similar improvements in motor control and quality of life in scores on the Unified Parkinsons Disease Rating Scale. On a variety of neuropsychological tests, there were no significant differences between the two groups. However, the STN DBS group experienced a greater decline on a test of visuomotor processing speed, which measures how quickly someone thinks and acts on information. Also, the STN DBS group had slight worsening on a standard assessment of depression, while the GPI DBS group had slight improvement on the same test. The importance of these two differences is not clear, and will be scrutinized in follow-up research.
+                
+In addition, NINDS-supported researchers are developing and testing improved implantable pulse generators, and conducting studies to better understand the therapeutic effect of neurostimulation on neural circuitry and brain regions affected in PD. For more information about current studies on brain stimulation and Parkinsons disease, see www.clinicaltrials.gov and search for deep brain stimulation AND Parkinson AND NINDS. For information about NINDS-and NIH-supported research studies in this area, see the NIH RePORTER (Research Portfolio Online Reporting Tools) at http://projectreporter.nih.gov and search for deep brain stimulation AND Parkinson.
+                
+The Brain Initiative for Advancing Innovative Neurotechnologies (BRAIN) initiative, announced in 2013, offers unprecedented opportunities to unlock the mysteries of the brain and accelerate the development of research and technologies to treat disorders such as Parkinsons disease. For more information about the BRAIN initiative, see www.nih.gov/science/brain.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

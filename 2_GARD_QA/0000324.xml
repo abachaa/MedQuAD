@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000324" source="GARD" url="https://rarediseases.info.nih.gov/gard/5860/anaplastic-astrocytoma">
+<Focus>Anaplastic astrocytoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334579</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Grade III astrocytoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000324-1" qtype="information">What is (are) Anaplastic astrocytoma ?</Question>
+			<Answer>Anaplastic astrocytoma is a rare, cancerous (malignant) type of brain tumor that arises from star-shaped brain cells called astrocytes. These cells surround and protect nerve cells in the brain and spinal cord. An anaplastic astrocytoma usually develops slowly over time, but may develop rapidly. Signs and symptoms vary depending on the location and size of the tumor and may include headaches, drowsiness, vomiting, and changes in personality or mental status. Some affected people have seizures, vision problems, weakness of the limbs, and/or coordination problems. Anaplastic astroctyomas usually occur sporadically but can be associated with a few rare, genetic disorders. Treatment may include surgery, radiation, and/or chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000324-2" qtype="inheritance">Is Anaplastic astrocytoma inherited ?</Question>
+			<Answer>Are anaplastic astrocytomas inherited? Anaplastic astrocytomas are usually not inherited. These tumors typically occur sporadically, in people with no family history of astrocytomas. In most cases, the exact cause is unknown. Familial cases of isolated astrocytomas have been reported but are very rare. Astrocytomas can have a genetic link when they are associated with a few rare, inherited disorders. These include neurofibromatosis type I, Li-Fraumeni syndrome, Turcot syndrome, and tuberous sclerosis. Astrosytomas occur more frequently in people with one of these disorders. Like many other cancers, it is believed that isolated astrocytomas may occur due to a combination of genetic and environmental factors. This means that a person may carry a gene (or a combination of genes) that predisposes them to developing an astrocytoma, but it may not develop unless it is &quot;triggered&quot; by an environmental factor.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000324-3" qtype="exams and tests">How to diagnose Anaplastic astrocytoma ?</Question>
+			<Answer>Is genetic testing available for anaplastic astrocytomas? When anaplastic astrocytomas are not associated with an inherited condition, the cause typically remains unknown. In these cases, genetic testing is not available. However, genetic testing is available for the few genetic disorders that are associated with an increased risk for developing an astrocytoma. These include neurofibromatosis type I, Li-Fraumeni syndrome, Turcot syndrome, and tuberous sclerosis. The Genetic Testing Registry (GTR) provides information about the labs that offer genetic testing for these conditions. On the GTR Web site, search for a disorder to find out about the genetic tests that are available. The intended audience for the GTR is health care providers and researchers. Therefore, patients and consumers with specific questions about a genetic test should contact a health care provider or a genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

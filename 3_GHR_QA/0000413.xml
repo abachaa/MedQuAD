@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000413" source="GHR" url="https://ghr.nlm.nih.gov/condition/glucose-6-phosphate-dehydrogenase-deficiency">
+<Focus>glucose-6-phosphate dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2939465</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Deficiency of glucose-6-phosphate dehydrogenase</Synonym>
+		<Synonym>G6PD Deficiency</Synonym>
+		<Synonym>G6PDD</Synonym>
+		<Synonym>glucose 6 phosphate dehydrogenase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000413-1" qtype="information">What is (are) glucose-6-phosphate dehydrogenase deficiency ?</Question>
+			<Answer>Glucose-6-phosphate dehydrogenase deficiency is a genetic disorder that occurs most often in males. This condition mainly affects red blood cells, which carry oxygen from the lungs to tissues throughout the body. In affected individuals, a defect in an enzyme called glucose-6-phosphate dehydrogenase causes red blood cells to break down prematurely. This destruction of red blood cells is called hemolysis.  The most common medical problem associated with glucose-6-phosphate dehydrogenase deficiency is hemolytic anemia, which occurs when red blood cells are destroyed faster than the body can replace them. This type of anemia leads to paleness, yellowing of the skin and whites of the eyes (jaundice), dark urine, fatigue, shortness of breath, and a rapid heart rate. In people with glucose-6-dehydrogenase deficiency, hemolytic anemia is most often triggered by bacterial or viral infections or by certain drugs (such as some antibiotics and medications used to treat malaria). Hemolytic anemia can also occur after eating fava beans or inhaling pollen from fava plants (a reaction called favism).  Glucose-6-dehydrogenase deficiency is also a significant cause of mild to severe jaundice in newborns. Many people with this disorder, however, never experience any signs or symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000413-2" qtype="frequency">How many people are affected by glucose-6-phosphate dehydrogenase deficiency ?</Question>
+			<Answer>An estimated 400 million people worldwide have glucose-6-phosphate dehydrogenase deficiency. This condition occurs most frequently in certain parts of Africa, Asia, and the Mediterranean. It affects about 1 in 10 African American males in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000413-3" qtype="genetic changes">What are the genetic changes related to glucose-6-phosphate dehydrogenase deficiency ?</Question>
+			<Answer>Mutations in the G6PD gene cause glucose-6-phosphate dehydrogenase deficiency.  The G6PD gene provides instructions for making an enzyme called glucose-6-phosphate dehydrogenase. This enzyme is involved in the normal processing of carbohydrates. It also protects red blood cells from the effects of potentially harmful molecules called reactive oxygen species. Reactive oxygen species are byproducts of normal cellular functions. Chemical reactions involving glucose-6-phosphate dehydrogenase produce compounds that prevent reactive oxygen species from building up to toxic levels within red blood cells.  If mutations in the G6PD gene reduce the amount of glucose-6-phosphate dehydrogenase or alter its structure, this enzyme can no longer play its protective role. As a result, reactive oxygen species can accumulate and damage red blood cells. Factors such as infections, certain drugs, or ingesting fava beans can increase the levels of reactive oxygen species, causing red blood cells to be destroyed faster than the body can replace them. A reduction in the amount of red blood cells causes the signs and symptoms of hemolytic anemia.  Researchers believe that carriers of a G6PD mutation may be partially protected against malaria, an infectious disease carried by a certain type of mosquito. A reduction in the amount of functional glucose-6-dehydrogenase appears to make it more difficult for this parasite to invade red blood cells. Glucose-6-phosphate dehydrogenase deficiency occurs most frequently in areas of the world where malaria is common.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000413-4" qtype="inheritance">Is glucose-6-phosphate dehydrogenase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000413-5" qtype="treatment">What are the treatments for glucose-6-phosphate dehydrogenase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of glucose-6-phosphate dehydrogenase deficiency:  - Baby&apos;s First Test  - Genetic Testing Registry: Glucose 6 phosphate dehydrogenase deficiency  - MedlinePlus Encyclopedia: Glucose-6-phosphate dehydrogenase deficiency  - MedlinePlus Encyclopedia: Glucose-6-phosphate dehydrogenase test  - MedlinePlus Encyclopedia: Hemolytic anemia  - MedlinePlus Encyclopedia: Newborn jaundice   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

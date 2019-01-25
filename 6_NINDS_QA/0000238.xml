@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000238" source="NINDS" url="http://www.ninds.nih.gov/disorders/primary_lateral_sclerosis/primary_lateral_sclerosis.htm">
+<Focus>Primary Lateral Sclerosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0154682</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000238-1" qtype="information">What is (are) Primary Lateral Sclerosis ?</Question>
+			<Answer>Primary lateral sclerosis (PLS) is a rare neuromuscular disease with slowly progressive weakness in voluntary muscle movement. PLS belongs to a group of disorders known as motor neuron diseases. PLS affects the upper motor neurons (also called corticospinal neurons) in the arms, legs, and face. It occurs when nerve cells in the motor regions of the cerebral cortex (the thin layer of cells covering the brain which is responsible for most higher level mental functions) gradually degenerate, causing movements to be slow and effortful. The disorder often affects the legs first, followed by the body, trunk, arms and hands, and, finally the bulbar muscles (muscles that control speech, swallowing, and chewing). Symptoms include weakness, muscle stiffness and spasticity, clumsiness, slowing of movement, and problems with balance and speech. PLS is more common in men than in women, with a varied gradual onset that generally occurs between ages 40 and 60. PLS progresses gradually over a number of years, or even decades. Scientists do not believe PLS has a simple hereditary cause. The diagnosis of PLS requires extensive testing to exclude other diseases. When symptoms begin, PLS may be mistaken for amyotrophic lateral sclerosis (ALS) or spastic paraplegia. Most neurologists follow an affected individual&apos;s clinical course for at least 3 to 4 years before making a diagnosis of PLS..</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000238-2" qtype="treatment">What are the treatments for Primary Lateral Sclerosis ?</Question>
+			<Answer>Treatment for individuals with PLS is symptomatic. Muscle relaxants such as baclofen, tizanidine, and the benzodiazepines may reduce spasticity. Other drugs may relieve pain and antidepressants can help treat depression. Physical therapy, occupational therapy, and rehabilitation may prevent joint immobility and slow muscle weakness and atrophy. Assistive devices such as supports or braces, speech synthesizers, and wheelchairs ma help some people retain independence.. Speech therapy may be useful for those with involvement of the facial muscles.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000238-3" qtype="outlook">What is the outlook for Primary Lateral Sclerosis ?</Question>
+			<Answer>PLS is not fatal. There is no cure and the progression of symptoms varies. Some people may retain the ability to walk without assistance, but others eventually require wheelchairs, canes, or other assistive devices.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000238-4" qtype="research">what research (or clinical trials) is being done for Primary Lateral Sclerosis ?</Question>
+			<Answer>The NINDS conducts a broad range of research on neuromuscular disorders such as PLS. This research is aimed at developing techniques to diagnose, treat, prevent, and ultimately cure these devastating diseases.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

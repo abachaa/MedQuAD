@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000098" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-recessive-congenital-methemoglobinemia">
+<Focus>autosomal recessive congenital methemoglobinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0272087</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>chronic familial methemoglobin reductase deficiency</Synonym>
+		<Synonym>congenital methemoglobinemia due to NADH-cytochrome b5 reductase 3 deficiency</Synonym>
+		<Synonym>congenital NADH-methemoglobin reductase deficiency</Synonym>
+		<Synonym>cytochrome b5 reductase deficiency</Synonym>
+		<Synonym>deficiency of cytochrome-b5 reductase</Synonym>
+		<Synonym>diaphorase deficiency</Synonym>
+		<Synonym>NADH-CYB5R deficiency</Synonym>
+		<Synonym>NADH-cytochrome b5 reductase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000098-1" qtype="information">What is (are) autosomal recessive congenital methemoglobinemia ?</Question>
+			<Answer>Autosomal recessive congenital methemoglobinemia is an inherited condition that mainly affects the function of red blood cells. Specifically, it alters a molecule within these cells called hemoglobin. Hemoglobin carries oxygen to cells and tissues throughout the body. In people with autosomal recessive congenital methemoglobinemia, some of the normal hemoglobin is replaced by an abnormal form called methemoglobin, which is unable to deliver oxygen to the body&apos;s tissues. As a result, tissues in the body become oxygen deprived, leading to a bluish appearance of the skin, lips, and nails (cyanosis).  There are two forms of autosomal recessive congenital methemoglobinemia: types I and II. People with type I have cyanosis from birth and may experience weakness or shortness of breath related to the shortage of oxygen in their tissues. People with type II have cyanosis as well as severe neurological problems. After a few months of apparently normal development, children with type II develop severe brain dysfunction (encephalopathy), uncontrolled muscle tensing (dystonia), and involuntary limb movements (choreoathetosis); also, the size of their head remains small and does not grow in proportion with their body (microcephaly). People with type II have severe intellectual disability; they can recognize faces and usually babble but speak no words. They can sit unassisted and grip objects but have impaired motor skills that leave them unable to walk. In type II, growth is often slowed. Abnormal facial muscle movements can interfere with swallowing, which can lead to feeding difficulties and further slow growth.  People with autosomal recessive congenital methemoglobinemia type I have a normal life expectancy, but people with type II often do not survive past early adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000098-2" qtype="frequency">How many people are affected by autosomal recessive congenital methemoglobinemia ?</Question>
+			<Answer>The incidence of autosomal recessive congenital methemoglobinemia is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000098-3" qtype="genetic changes">What are the genetic changes related to autosomal recessive congenital methemoglobinemia ?</Question>
+			<Answer>Autosomal recessive congenital methemoglobinemia is caused by mutations in the CYB5R3 gene. This gene provides instruction for making an enzyme called cytochrome b5 reductase 3. This enzyme is involved in transferring negatively charged particles called electrons from one molecule to another. Two versions (isoforms) of this enzyme are produced from the CYB5R3 gene. The soluble isoform is present only in red blood cells, and the membrane-bound isoform is found in all other cell types.  Each hemoglobin molecule contains four iron atoms, which are needed to carry oxygen. In normal red blood cells, the iron in hemoglobin is ferrous (Fe2+), but it can spontaneously become ferric (Fe3+). When hemoglobin contains ferric iron, it is methemoglobin. The soluble isoform of cytochrome b5 reductase 3 changes ferric iron back to ferrous iron so hemoglobin can deliver oxygen to tissues. Normally, red blood cells contain less than 2 percent methemoglobin.  The membrane-bound isoform is widely used in the body. This isoform is necessary for many chemical reactions, including the breakdown and formation of fatty acids, the formation of cholesterol, and the breakdown of various molecules and drugs.  CYB5R3 gene mutations that cause autosomal recessive congenital methemoglobinemia type I typically reduce enzyme activity or stability. As a result, the enzyme cannot efficiently change ferric iron to ferrous iron, leading to a 10 to 50 percent increase in methemoglobin within red blood cells. This increase in methemoglobin and the corresponding decrease in normal hemoglobin reduces the amount of oxygen delivered to tissues. The altered enzyme activity affects only red blood cells because other cells can compensate for a decrease in enzyme activity, but red blood cells cannot.  Mutations that cause autosomal recessive congenital methemoglobinemia type II usually result in a complete loss of enzyme activity. Cells cannot compensate for a complete loss of this enzyme, which results in a 10 to 70 percent increase in methemoglobin within red blood cells. This increase in methemoglobin and the corresponding decrease in normal hemoglobin leads to cyanosis. The lack of enzyme activity in other cells leads to the neurological features associated with type II. Researchers suspect that the neurological problems are caused by impaired fatty acid and cholesterol formation, which reduces the production of a fatty substance called myelin. Myelin insulates nerve cells and promotes the rapid transmission of nerve impulses. This reduced ability to form myelin (hypomyelination) leads to a loss of nerve cells, particularly in the brain. The loss of these cells likely contributes to the encephalopathy and movement disorders characteristic of autosomal recessive congenital methemoglobinemia type II.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000098-4" qtype="inheritance">Is autosomal recessive congenital methemoglobinemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000098-5" qtype="treatment">What are the treatments for autosomal recessive congenital methemoglobinemia ?</Question>
+			<Answer>These resources address the diagnosis or management of autosomal recessive congenital methemoglobinemia:  - Genetic Testing Registry: METHEMOGLOBINEMIA, TYPE I  - Genetic Testing Registry: Methemoglobinemia type 2  - KidsHealth from Nemours: Blood Test: Hemoglobin  - MedlinePlus Encyclopedia: Hemoglobin  - MedlinePlus Encyclopedia: Methemoglobinemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

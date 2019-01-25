@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006399" source="GARD" url="https://rarediseases.info.nih.gov/gard/8580/warfarin-syndrome">
+<Focus>Warfarin syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265374</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Warfarin embryopathy</Synonym>
+		<Synonym>Fetal anticoagulant syndrome</Synonym>
+		<Synonym>DiSala syndrome</Synonym>
+		<Synonym>Congenital warfarin syndrome</Synonym>
+		<Synonym>Coumarin syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006399-1" qtype="symptoms">What are the symptoms of Warfarin syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Warfarin syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Warfarin syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal vertebral ossification 90% Anteverted nares 90% Depressed nasal bridge 90% Epiphyseal stippling 90% Short nose 90% Anonychia 50% Brachydactyly syndrome 50% Cognitive impairment 50% Intrauterine growth retardation 50% Respiratory insufficiency 50% Short distal phalanx of finger 50% Short neck 50% Abnormality of the outer ear 7.5% Abnormality of the tongue 7.5% Aplasia/Hypoplasia affecting the eye 7.5% Cataract 7.5% Choanal atresia 7.5% Hearing impairment 7.5% Hydrocephalus 7.5% Hypertelorism 7.5% Muscular hypotonia 7.5% Myelomeningocele 7.5% Optic atrophy 7.5% Proptosis 7.5% Seizures 7.5% Visual impairment 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

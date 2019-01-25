@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000417" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/hairloss.html">
+<Focus>Hair Loss</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002170</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alopecia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000417-1" qtype="information">What is (are) Hair Loss ?</Question>
+			<Answer>You lose up to 100 hairs from your scalp every day. That&apos;s normal, and in most people, those hairs grow back. But many men -- and some women -- lose hair as they grow older. You can also lose your hair if you have certain diseases, such as thyroid problems, diabetes, or lupus. If you take certain medicines or have chemotherapy for cancer, you may also lose your hair. Other causes are stress, a low protein diet, a family history, or poor nutrition.     Treatment for hair loss depends on the cause. In some cases, treating the underlying cause will correct the problem. Other treatments include medicines and hair restoration.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

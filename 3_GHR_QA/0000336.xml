@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000336" source="GHR" url="https://ghr.nlm.nih.gov/condition/factor-v-leiden-thrombophilia">
+<Focus>factor V Leiden thrombophilia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1861171</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>APC resistance, Leiden type</Synonym>
+		<Synonym>Hereditary resistance to activated protein C</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000336-1" qtype="information">What is (are) factor V Leiden thrombophilia ?</Question>
+			<Answer>Factor V Leiden thrombophilia is an inherited disorder of blood clotting. Factor V Leiden is the name of a specific gene mutation that results in thrombophilia, which is an increased tendency to form abnormal blood clots that can block blood vessels.  People with factor V Leiden thrombophilia have a higher than average risk of developing a type of blood clot called a deep venous thrombosis (DVT). DVTs occur most often in the legs, although they can also occur in other parts of the body, including the brain, eyes, liver, and kidneys. Factor V Leiden thrombophilia also increases the risk that clots will break away from their original site and travel through the bloodstream. These clots can lodge in the lungs, where they are known as pulmonary emboli. Although factor V Leiden thrombophilia increases the risk of blood clots, only about 10 percent of individuals with the factor V Leiden mutation ever develop abnormal clots.  The factor V Leiden mutation is associated with a slightly increased risk of pregnancy loss (miscarriage). Women with this mutation are two to three times more likely to have multiple (recurrent) miscarriages or a pregnancy loss during the second or third trimester. Some research suggests that the factor V Leiden mutation may also increase the risk of other complications during pregnancy, including pregnancy-induced high blood pressure (preeclampsia), slow fetal growth, and early separation of the placenta from the uterine wall (placental abruption). However, the association between the factor V Leiden mutation and these complications has not been confirmed. Most women with factor V Leiden thrombophilia have normal pregnancies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000336-2" qtype="frequency">How many people are affected by factor V Leiden thrombophilia ?</Question>
+			<Answer>Factor V Leiden is the most common inherited form of thrombophilia. Between 3 and 8 percent of people with European ancestry carry one copy of the factor V Leiden mutation in each cell, and about 1 in 5,000 people have two copies of the mutation. The mutation is less common in other populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000336-3" qtype="genetic changes">What are the genetic changes related to factor V Leiden thrombophilia ?</Question>
+			<Answer>A particular mutation in the F5 gene causes factor V Leiden thrombophilia. The F5 gene provides instructions for making a protein called coagulation factor V. This protein plays a critical role in the coagulation system, which is a series of chemical reactions that forms blood clots in response to injury.  The coagulation system is controlled by several proteins, including a protein called activated protein C (APC). APC normally inactivates coagulation factor V, which slows down the clotting process and prevents clots from growing too large. However, in people with factor V Leiden thrombophilia, coagulation factor V cannot be inactivated normally by APC. As a result, the clotting process remains active longer than usual, increasing the chance of developing abnormal blood clots.  Other factors also increase the risk of developing blood clots in people with factor V Leiden thrombophilia. These factors include increasing age, obesity, injury, surgery, smoking, pregnancy, and the use of oral contraceptives (birth control pills) or hormone replacement therapy. The risk of abnormal clots is also much higher in people who have a combination of the factor V Leiden mutation and another mutation in the F5 gene. Additionally, the risk is increased in people who have the factor V Leiden mutation together with a mutation in another gene involved in the coagulation system.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000336-4" qtype="inheritance">Is factor V Leiden thrombophilia inherited ?</Question>
+			<Answer>The chance of developing an abnormal blood clot depends on whether a person has one or two copies of the factor V Leiden mutation in each cell. People who inherit two copies of the mutation, one from each parent, have a higher risk of developing a clot than people who inherit one copy of the mutation. Considering that about 1 in 1,000 people per year in the general population will develop an abnormal blood clot, the presence of one copy of the factor V Leiden mutation increases that risk to 3 to 8 in 1,000, and having two copies of the mutation may raise the risk to as high as 80 in 1,000.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000336-5" qtype="treatment">What are the treatments for factor V Leiden thrombophilia ?</Question>
+			<Answer>These resources address the diagnosis or management of factor V Leiden thrombophilia:  - American College of Medical Genetics Consensus Statement on Factor V Leiden Mutation Testing  - Gene Review: Gene Review: Factor V Leiden Thrombophilia  - GeneFacts: Factor V Leiden-Associated Thrombosis: Diagnosis  - GeneFacts: Factor V Leiden-Associated Thrombosis: Management  - Genetic Testing Registry: Thrombophilia due to activated protein C resistance  - Genetic Testing Registry: Thrombophilia due to factor V Leiden  - MedlinePlus Encyclopedia: Deep Venous Thrombosis  - MedlinePlus Encyclopedia: Pulmonary Embolus   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

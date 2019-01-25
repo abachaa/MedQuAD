@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000576" source="GHR" url="https://ghr.nlm.nih.gov/condition/lama2-related-muscular-dystrophy">
+<Focus>LAMA2-related muscular dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0445223</CUI>
+			<CUI>C0026850</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LAMA2 MD</Synonym>
+		<Synonym>laminin alpha 2 deficiency</Synonym>
+		<Synonym>laminin alpha-2 deficient muscular dystrophy</Synonym>
+		<Synonym>MDC1A</Synonym>
+		<Synonym>merosin-deficient muscular dystrophy</Synonym>
+		<Synonym>muscular dystrophy due to LAMA2 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000576-1" qtype="information">What is (are) LAMA2-related muscular dystrophy ?</Question>
+			<Answer>LAMA2-related muscular dystrophy is a disorder that causes weakness and wasting (atrophy) of muscles used for movement (skeletal muscles). This condition generally appears in one of two ways: as a severe, early-onset type or a milder, late-onset form.  Early-onset LAMA2-related muscular dystrophy is apparent at birth or within the first few months of life. It is considered part of a class of muscle disorders called congenital muscular dystrophies and is sometimes called congenital muscular dystrophy type 1A. Affected infants have severe muscle weakness, lack of muscle tone (hypotonia), little spontaneous movement, and joint deformities (contractures). Weakness of the muscles in the face and throat can result in feeding difficulties and an inability to grow and gain weight at the expected rate (failure to thrive). Hypotonia also affects the muscles used for breathing, which causes a weak cry and breathing problems that can lead to frequent, potentially life-threatening lung infections.  As affected children grow, they often develop an abnormal, gradually worsening side-to-side curvature of the spine (scoliosis) and inward curvature of the back (lordosis). Children with early-onset LAMA2-related muscular dystrophy usually do not learn to walk unassisted. Speech problems may result from weakness of the facial muscles and tongue, but intelligence is usually normal. Heart problems and seizures occasionally occur in early-onset LAMA2-related muscular dystrophy. Because of the serious health problems that occur in this form of the disorder, many affected individuals do not survive past adolescence.  Late-onset LAMA2-related muscular dystrophy occurs later in childhood or in adulthood. Signs and symptoms of this form of the disorder are milder than in the early-onset type and are similar to those of a group of muscle disorders classified as limb-girdle muscular dystrophies. In late-onset LAMA2-related muscular dystrophy, the muscles most affected are those closest to the body (proximal muscles), specifically the muscles of the shoulders, upper arms, pelvic area, and thighs. Children with late-onset LAMA2-related muscular dystrophy sometimes have delayed development of motor skills such as walking, but generally achieve the ability to walk without assistance. Over time, they may develop rigidity of the back, joint contractures, scoliosis, and breathing problems. However, most affected individuals retain the ability to walk and climb stairs, and life expectancy and intelligence are usually not affected in late-onset LAMA2-related muscular dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000576-2" qtype="frequency">How many people are affected by LAMA2-related muscular dystrophy ?</Question>
+			<Answer>The prevalence of early-onset LAMA2-related muscular dystrophy is estimated at 1 in 30,000 individuals. This condition accounts for between 30 and 40 percent of total cases of congenital muscular dystrophy, although its contribution may be higher or lower than this range in specific populations. Late-onset LAMA2-related muscular dystrophy is rare; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000576-3" qtype="genetic changes">What are the genetic changes related to LAMA2-related muscular dystrophy ?</Question>
+			<Answer>As its name suggests, LAMA2-related muscular dystrophy is caused by mutations in the LAMA2 gene. This gene provides instructions for making a part (subunit) of certain members of a protein family called laminins. Laminin proteins are made of three different subunits called alpha, beta, and gamma. There are several forms of each subunit, and each form is produced from instructions carried by a different gene. The LAMA2 gene provides instructions for the alpha-2 subunit. This subunit is found in the laminin 2 protein, also known as merosin; it is also part of another laminin protein called laminin 4.  Laminins are found in an intricate lattice of proteins and other molecules that forms in the spaces between cells (the extracellular matrix). Laminin 2 and laminin 4 play a particularly important role in the muscles used for movement (skeletal muscles). The laminins attach (bind) to other proteins in the extracellular matrix and in the membrane of muscle cells, which helps maintain the stability of muscle fibers.  Most LAMA2 gene mutations that cause the severe, early-onset form of LAMA2-related muscular dystrophy result in the absence of functional laminin alpha-2 subunit. Mutations that cause the milder, later-onset form usually result in a reduction (deficiency) of functional laminin alpha-2 subunit. Deficiency or absence of the laminin alpha-2 subunit results in a corresponding lack of laminin 2 and laminin 4, reducing the strength and stability of muscle tissue and leading to the signs and symptoms of LAMA2-related muscular dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000576-4" qtype="inheritance">Is LAMA2-related muscular dystrophy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000576-5" qtype="treatment">What are the treatments for LAMA2-related muscular dystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of LAMA2-related muscular dystrophy:  - Boston Children&apos;s Hospital: Treatment and Care for Muscular Dystrophy  - Gene Review: Gene Review: LAMA2-Related Muscular Dystrophy  - Genetic Testing Registry: Congenital muscular dystrophy due to partial LAMA2 deficiency  - Genetic Testing Registry: Merosin deficient congenital muscular dystrophy  - Kennedy Krieger Institute: Center for Genetic Muscle Disorders   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

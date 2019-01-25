@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000723" source="GHR" url="https://ghr.nlm.nih.gov/condition/neuroferritinopathy">
+<Focus>neuroferritinopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1853578</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>basal ganglia disease, adult-onset</Synonym>
+		<Synonym>ferritin-related neurodegeneration</Synonym>
+		<Synonym>hereditary ferritinopathy</Synonym>
+		<Synonym>NBIA3</Synonym>
+		<Synonym>neurodegeneration with brain iron accumulation 3</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000723-1" qtype="information">What is (are) neuroferritinopathy ?</Question>
+			<Answer>Neuroferritinopathy is a disorder in which iron gradually accumulates in the brain. Certain brain regions that help control movement (basal ganglia) are particularly affected. People with neuroferritinopathy have progressive problems with movement that begin at about age 40. These movement problems can include involuntary jerking motions (chorea), rhythmic shaking (tremor), difficulty coordinating movements (ataxia), or uncontrolled tensing of muscles (dystonia). Symptoms of the disorder may be more apparent on one side of the body than on the other. Affected individuals may also have difficulty swallowing (dysphagia) and speaking (dysarthria).  Intelligence is unaffected in most people with neuroferritinopathy, but some individuals develop a gradual decline in thinking and reasoning abilities (dementia). Personality changes such as reduced inhibitions and difficulty controlling emotions may also occur as the disorder progresses.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000723-2" qtype="frequency">How many people are affected by neuroferritinopathy ?</Question>
+			<Answer>The prevalence of neuroferritinopathy is unknown. Fewer than 100 individuals with this disorder have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000723-3" qtype="genetic changes">What are the genetic changes related to neuroferritinopathy ?</Question>
+			<Answer>Mutations in the FTL gene cause neuroferritinopathy. The FTL gene provides instructions for making the ferritin light chain, which is one part (subunit) of a protein called ferritin. Ferritin stores and releases iron in cells. Each ferritin molecule can hold as many as 4,500 iron atoms. This storage capacity allows ferritin to regulate the amount of iron in the cells and tissues.  Mutations in the FTL gene that cause neuroferritinopathy are believed to reduce ferritin&apos;s ability to store iron, resulting in the release of excess iron in nerve cells (neurons) of the brain. The cells may respond by producing more ferritin in an attempt to handle the free iron. Excess iron and ferritin accumulate in the brain, particularly in the basal ganglia, resulting in the movement problems and other neurological changes seen in neuroferritinopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000723-4" qtype="inheritance">Is neuroferritinopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000723-5" qtype="treatment">What are the treatments for neuroferritinopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of neuroferritinopathy:  - Gene Review: Gene Review: Neuroferritinopathy  - Genetic Testing Registry: Neuroferritinopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

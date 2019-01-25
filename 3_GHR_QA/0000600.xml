@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000600" source="GHR" url="https://ghr.nlm.nih.gov/condition/li-fraumeni-syndrome">
+<Focus>Li-Fraumeni syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085390</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LFS</Synonym>
+		<Synonym>Sarcoma family syndrome of Li and Fraumeni</Synonym>
+		<Synonym>Sarcoma, breast, leukemia, and adrenal gland (SBLA) syndrome</Synonym>
+		<Synonym>SBLA syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000600-1" qtype="information">What is (are) Li-Fraumeni syndrome ?</Question>
+			<Answer>Li-Fraumeni syndrome is a rare disorder that greatly increases the risk of developing several types of cancer, particularly in children and young adults.  The cancers most often associated with Li-Fraumeni syndrome include breast cancer, a form of bone cancer called osteosarcoma, and cancers of soft tissues (such as muscle) called soft tissue sarcomas. Other cancers commonly seen in this syndrome include brain tumors, cancers of blood-forming tissues (leukemias), and a cancer called adrenocortical carcinoma that affects the outer layer of the adrenal glands (small hormone-producing glands on top of each kidney). Several other types of cancer also occur more frequently in people with Li-Fraumeni syndrome.  A very similar condition called Li-Fraumeni-like syndrome shares many of the features of classic Li-Fraumeni syndrome. Both conditions significantly increase the chances of developing multiple cancers beginning in childhood; however, the pattern of specific cancers seen in affected family members is different.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000600-2" qtype="frequency">How many people are affected by Li-Fraumeni syndrome ?</Question>
+			<Answer>The exact prevalence of Li-Fraumeni is unknown. One U.S. registry of Li-Fraumeni syndrome patients suggests that about 400 people from 64 families have this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000600-3" qtype="genetic changes">What are the genetic changes related to Li-Fraumeni syndrome ?</Question>
+			<Answer>The CHEK2 and TP53 genes are associated with Li-Fraumeni syndrome.  More than half of all families with Li-Fraumeni syndrome have inherited mutations in the TP53 gene. TP53 is a tumor suppressor gene, which means that it normally helps control the growth and division of cells. Mutations in this gene can allow cells to divide in an uncontrolled way and form tumors. Other genetic and environmental factors are also likely to affect the risk of cancer in people with TP53 mutations.  A few families with cancers characteristic of Li-Fraumeni syndrome and Li-Fraumeni-like syndrome do not have TP53 mutations, but have mutations in the CHEK2 gene. Like the TP53 gene, CHEK2 is a tumor suppressor gene. Researchers are uncertain whether CHEK2 mutations actually cause these conditions or are merely associated with an increased risk of certain cancers (including breast cancer).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000600-4" qtype="inheritance">Is Li-Fraumeni syndrome inherited ?</Question>
+			<Answer>Li-Fraumeni syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase the risk of developing cancer. In most cases, an affected person has a parent and other family members with cancers characteristic of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000600-5" qtype="treatment">What are the treatments for Li-Fraumeni syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Li-Fraumeni syndrome:  - Gene Review: Gene Review: Li-Fraumeni Syndrome  - Genetic Testing Registry: Li-Fraumeni syndrome  - Genetic Testing Registry: Li-Fraumeni syndrome 1  - Genetic Testing Registry: Li-Fraumeni syndrome 2  - MedlinePlus Encyclopedia: Cancer  - National Cancer Institute: Genetic Testing for Hereditary Cancer Syndromes   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001054" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-infantile-nystagmus">
+<Focus>X-linked infantile nystagmus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2673809</CUI>
+			<CUI>C0585539</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital motor nystagmus</Synonym>
+		<Synonym>FRMD7-related infantile nystagmus</Synonym>
+		<Synonym>idiopathic infantile nystagmus</Synonym>
+		<Synonym>NYS1</Synonym>
+		<Synonym>X-linked congenital nystagmus</Synonym>
+		<Synonym>X-linked idiopathic infantile nystagmus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001054-1" qtype="information">What is (are) X-linked infantile nystagmus ?</Question>
+			<Answer>X-linked infantile nystagmus is a condition characterized by abnormal eye movements. Nystagmus is a term that refers to involuntary side-to-side movements of the eyes. In people with this condition, nystagmus is present at birth or develops within the first six months of life. The abnormal eye movements may worsen when an affected person is feeling anxious or tries to stare directly at an object. The severity of nystagmus varies, even among affected individuals within the same family. Sometimes, affected individuals will turn or tilt their head to compensate for the irregular eye movements.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001054-2" qtype="frequency">How many people are affected by X-linked infantile nystagmus ?</Question>
+			<Answer>The incidence of all forms of infantile nystagmus is estimated to be 1 in 5,000 newborns; however, the precise incidence of X-linked infantile nystagmus is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001054-3" qtype="genetic changes">What are the genetic changes related to X-linked infantile nystagmus ?</Question>
+			<Answer>Mutations in the FRMD7 gene cause X-linked infantile nystagmus. The FRMD7 gene provides instructions for making a protein whose exact function is unknown. This protein is found mostly in areas of the brain that control eye movement and in the light-sensitive tissue at the back of the eye (retina). Research suggests that FRMD7 gene mutations cause nystagmus by disrupting the development of certain nerve cells in the brain and retina.  In some people with X-linked infantile nystagmus, no mutation in the FRMD7 gene has been found. The genetic cause of the disorder is unknown in these individuals. Researchers believe that mutations in at least one other gene, which has not been identified, can cause this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001054-4" qtype="inheritance">Is X-linked infantile nystagmus inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two copies of the X chromosome), one altered copy of the gene in each cell can cause the condition, although affected females may experience less severe symptoms than affected males. Approximately half of the females with only one altered copy of the FRMD7 gene in each cell have no symptoms of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001054-5" qtype="treatment">What are the treatments for X-linked infantile nystagmus ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked infantile nystagmus:  - Gene Review: Gene Review: FRMD7-Related Infantile Nystagmus  - Genetic Testing Registry: Infantile nystagmus, X-linked  - MedlinePlus Encyclopedia: Nystagmus   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

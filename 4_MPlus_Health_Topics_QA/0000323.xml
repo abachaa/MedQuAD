@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000323" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/emphysema.html">
+<Focus>Emphysema</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034067</CUI>
+			<CUI>C0013990</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000323-1" qtype="information">What is (are) Emphysema ?</Question>
+			<Answer>Emphysema is a type of COPD involving damage to the air sacs (alveoli) in the lungs. As a result, your body does not get the oxygen it needs. Emphysema makes it hard to catch your breath. You may also have a chronic cough and have trouble breathing during exercise.    The most common cause is cigarette smoking. If you smoke, quitting can help prevent you from getting the disease. If you already have emphysema, not smoking might keep it from getting worse. Treatment is based on whether your symptoms are mild, moderate or severe. Treatments include inhalers, oxygen, medications and sometimes surgery to relieve symptoms and prevent complications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

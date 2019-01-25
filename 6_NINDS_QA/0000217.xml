@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000217" source="NINDS" url="http://www.ninds.nih.gov/disorders/neurotoxicity/neurotoxicity.htm">
+<Focus>Neurotoxicity</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0235032</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000217-1" qtype="information">What is (are) Neurotoxicity ?</Question>
+			<Answer>Neurotoxicity occurs when the exposure to natural or manmade toxic substances (neurotoxicants) alters the normal activity of the nervous system. This can eventually disrupt or even kill neurons, key cells that transmit and process signals in the brain and other parts of the nervous system. Neurotoxicity can result from exposure to substances used in chemotherapy, radiation treatment, drug therapies, and organ transplants, as well as exposure to heavy metals such as lead and mercury, certain foods and food additives, pesticides, industrial and/or cleaning solvents, cosmetics, and some naturally occurring substances. Symptoms may appear immediately after exposure or be delayed. They may include limb weakness or numbness; loss of memory, vision, and/or intellect; headache; cognitive and behavioral problems; and sexual dysfunction. Individuals with certain disorders may be especially vulnerable to neurotoxicants.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000217-2" qtype="treatment">What are the treatments for Neurotoxicity ?</Question>
+			<Answer>Treatment involves eliminating or reducing exposure to the toxic substance, followed by symptomatic and supportive therapy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000217-3" qtype="outlook">What is the outlook for Neurotoxicity ?</Question>
+			<Answer>The prognosis depends upon the length and degree of exposure and the severity of neurological injury. In some instances, exposure to neurotoxicants can be fatal. In others, patients may survive but not fully recover. In other situations, many individuals recover completely after treatment.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000217-4" qtype="research">what research (or clinical trials) is being done for Neurotoxicity ?</Question>
+			<Answer>The NINDS supports research on disorders of the brain and nervous system such as neurotoxicity, aimed at learning more about these disorders and finding ways to prevent and treat them. Scientists are investigating the role occupational or environmental toxicants have on progressive neurodegenerative disorders such as Parkinson&apos;s disease, amyotrophic lateral sclerosis, multiple sclerosis, and dementia. Also being studied are the mechanisms that trigger neuroimmune responses in the central nervous system and the possibility that some brain disorders in children may occur when environmental triggers interact with genes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

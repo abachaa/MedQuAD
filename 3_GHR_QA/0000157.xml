@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000157" source="GHR" url="https://ghr.nlm.nih.gov/condition/cartilage-hair-hypoplasia">
+<Focus>cartilage-hair hypoplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220748</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cartilage-hair syndrome</Synonym>
+		<Synonym>CHH</Synonym>
+		<Synonym>McKusick's metaphyseal chondrodysplasia syndrome</Synonym>
+		<Synonym>metaphyseal chondrodysplasia, McKusick type</Synonym>
+		<Synonym>metaphyseal chondrodysplasia, recessive type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000157-1" qtype="information">What is (are) cartilage-hair hypoplasia ?</Question>
+			<Answer>Cartilage-hair hypoplasia is a disorder of bone growth characterized by short stature (dwarfism) with other skeletal abnormalities; fine, sparse hair (hypotrichosis); and abnormal immune system function (immune deficiency) that can lead to recurrent infections.  People with cartilage-hair hypoplasia have unusually short limbs and short stature from birth. They typically have malformations in the cartilage near the ends of the long bones in the arms and legs (metaphyseal chondrodysplasia), which then affects development of the bone itself. Most people with cartilage-hair hypoplasia are unusually flexible in some joints, but they may have difficulty extending their elbows fully.  Affected individuals have hair that is lighter in color than that of other family members because the core of each hair, which contains some of the pigment that contributes the hair&apos;s color, is missing. The missing core also makes each strand of hair thinner, causing the hair to have a sparse appearance overall. Unusually light-colored skin (hypopigmentation), malformed nails, and dental abnormalities may also be seen in this disorder.  The extent of the immune deficiency in cartilage-hair hypoplasia varies from mild to severe. Affected individuals with the most severe immune problems are considered to have severe combined immunodeficiency (SCID). People with SCID lack virtually all immune protection from bacteria, viruses, and fungi and are prone to repeated and persistent infections that can be very serious or life-threatening. These infections are often caused by &quot;opportunistic&quot; organisms that ordinarily do not cause illness in people with a normal immune system. Most people with cartilage-hair hypoplasia, even those who have milder immune deficiency, experience infections of the respiratory system, ears, and sinuses. In particular, the chicken pox virus (varicella) often causes dangerous infections in people with this disorder. Autoimmune disorders, which occur when the immune system malfunctions and attacks the body&apos;s tissues and organs, occur in some people with cartilage-hair hypoplasia. Affected individuals are also at an increased risk of developing cancer, particularly certain skin cancers (basal cell carcinomas), cancer of blood-forming cells (leukemia), and cancer of immune system cells (lymphoma).  Some people with cartilage-hair hypoplasia experience gastrointestinal problems. These problems may include an inability to properly absorb nutrients or intolerance of a protein called gluten found in wheat and other grains (celiac disease). Affected individuals may have Hirschsprung disease, an intestinal disorder that causes severe constipation, intestinal blockage, and enlargement of the colon. Narrowing of the anus (anal stenosis) or blockage of the esophagus (esophageal atresia) may also occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000157-2" qtype="frequency">How many people are affected by cartilage-hair hypoplasia ?</Question>
+			<Answer>Cartilage-hair hypoplasia occurs most often in the Old Order Amish population, where it affects about 1 in 1,300 newborns. In people of Finnish descent, its incidence is approximately 1 in 20,000. Outside of these populations, the condition is rare, and its specific incidence is not known. It has been reported in individuals of European and Japanese descent.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000157-3" qtype="genetic changes">What are the genetic changes related to cartilage-hair hypoplasia ?</Question>
+			<Answer>Cartilage-hair hypoplasia is caused by mutations in the RMRP gene. Unlike many genes, the RMRP gene does not contain instructions for making a protein. Instead, a molecule called a noncoding RNA, a chemical cousin of DNA, is produced from the RMRP gene. This RNA attaches (binds) to several proteins, forming an enzyme complex called mitochondrial RNA-processing endoribonuclease, or RNase MRP.  The RNase MRP enzyme is thought to be involved in several important processes in the cell. For example, it likely helps copy (replicate) the DNA found in the energy-producing centers of cells (mitochondria). The RNase MRP enzyme probably also processes ribosomal RNA, which is required for assembling protein building blocks (amino acids) into functioning proteins. In addition, this enzyme helps control the cell cycle, which is the cell&apos;s way of replicating itself in an organized, step-by-step fashion.  Mutations in the RMRP gene likely result in the production of a noncoding RNA that is unstable. This unstable molecule cannot bind to some of the proteins needed to make the RNase MRP enzyme complex. These changes are believed to affect the activity of the enzyme, which interferes with its important functions within cells. Disruption of the RNase MRP enzyme complex causes the signs and symptoms of cartilage-hair hypoplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000157-4" qtype="inheritance">Is cartilage-hair hypoplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000157-5" qtype="treatment">What are the treatments for cartilage-hair hypoplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of cartilage-hair hypoplasia:  - Gene Review: Gene Review: Cartilage-Hair Hypoplasia - Anauxetic Dysplasia Spectrum Disorders  - Genetic Testing Registry: Metaphyseal chondrodysplasia, McKusick type   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

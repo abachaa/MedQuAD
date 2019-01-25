@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003902" source="GARD" url="https://rarediseases.info.nih.gov/gard/9546/melioidosis">
+<Focus>Melioidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0025229</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Burkholderia pseudomallei infection</Synonym>
+		<Synonym>B pseudomallei infection</Synonym>
+		<Synonym>Whitmore disease</Synonym>
+		<Synonym>Nightcliff gardener's disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003902-1" qtype="information">What is (are) Melioidosis ?</Question>
+			<Answer>Melioidosis is an infectious disease caused by the bacteria Burkholderia pseudomallei that are commonly found in the soil and water. Melioidosis is a rare disease in the United States, but it is common in tropical or subtropical areas of the world, including Southeast Asia, Africa, and Australia. The signs and symptoms of the disease can vary greatly and may mimic those of tuberculosis or common forms of pneumonia. Signs and symptoms may include pain or swelling, fever, abscess, cough, high fever, headache, trouble breathing, and more. Although healthy people can also experience signs and symptoms of the disease, people with certain conditions like diabetes, liver disease, kidney disease, lung disease, thalassemia, cancer, or certain autoimmune diseases are more severely affected. Diagnosis is made by collecting blood, sputum, urine, or pus samples and growing the bacteria. Current treatment is divided into two stages: an intravenous (IV) antibiotic stage and oral antibiotic maintenance stage to prevent recurrence.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

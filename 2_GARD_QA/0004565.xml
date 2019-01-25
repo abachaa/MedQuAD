@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004565" source="GARD" url="https://rarediseases.info.nih.gov/gard/7320/optic-neuritis">
+<Focus>Optic neuritis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029134</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004565-1" qtype="information">What is (are) Optic neuritis ?</Question>
+			<Answer>Optic neuritis is inflammation of the optic nerve, the nerve that carries the visual signal from the eye to the brain. The condition may cause sudden, reduced vision in the affected eye(s). While the cause of optic neuritis is unknown, it has been associated with autoimmune diseases, infections, multiple sclerosis, drug toxicity and deficiency of vitamin B-12. Vision often returns to normal within 2-3 weeks without treatment. In some cases, corticosteroids are given to speed recovery. If known, the underlying cause should be treated.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004565-2" qtype="exams and tests">How to diagnose Optic neuritis ?</Question>
+			<Answer>How is optic neuritis diagnosed? The diagnosis of optic neuritis is usually based on clinical findings and ophthalmologic examination. A careful history, including information about recent illness, fever, or immunizations is helpful. An eye exam should be conducted with assessment of visual acuity, pupil reactions, color vision and peripheral vision. The optic nerve should be examined with ophthalmoscopy for inflammation and swelling. Additional tests may include MRI of the brain, spinal tap and blood tests.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

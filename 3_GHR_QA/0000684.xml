@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000684" source="GHR" url="https://ghr.nlm.nih.gov/condition/muenke-syndrome">
+<Focus>Muenke syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1864436</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FGFR3-associated coronal synostosis</Synonym>
+		<Synonym>Muenke nonsyndromic coronal craniosynostosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000684-1" qtype="information">What is (are) Muenke syndrome ?</Question>
+			<Answer>Muenke syndrome is a condition characterized by the premature closure of certain bones of the skull (craniosynostosis) during development, which affects the shape of the head and face.  Many people with this disorder have a premature fusion of skull bones along the coronal suture, the growth line which goes over the head from ear to ear. Other parts of the skull may be malformed as well. These changes can result in an abnormally shaped head, wide-set eyes, and flattened cheekbones. About 5 percent of affected individuals have an enlarged head (macrocephaly). People with Muenke syndrome may also have mild abnormalities of the hands or feet, and hearing loss has been observed in some cases. Most people with this condition have normal intellect, but developmental delay and learning disabilities are possible.  The signs and symptoms of Muenke syndrome vary among affected people, and some findings overlap with those seen in other craniosynostosis syndromes. Between 6 percent and 7 percent of people with the gene mutation associated with Muenke syndrome do not have any of the characteristic features of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000684-2" qtype="frequency">How many people are affected by Muenke syndrome ?</Question>
+			<Answer>Muenke syndrome occurs in about 1 in 30,000 newborns. This condition accounts for an estimated 8 percent of all cases of craniosynostosis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000684-3" qtype="genetic changes">What are the genetic changes related to Muenke syndrome ?</Question>
+			<Answer>Mutations in the FGFR3 gene cause Muenke syndrome.  The FGFR3 gene provides instructions for making a protein that is involved in the development and maintenance of bone and brain tissue. A single mutation in the FGFR3 gene is responsible for Muenke syndrome. This mutation causes the FGFR3 protein to be overly active, which interferes with normal bone growth and allows the bones of the skull to fuse before they should.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000684-4" qtype="inheritance">Is Muenke syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000684-5" qtype="treatment">What are the treatments for Muenke syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Muenke syndrome:  - Gene Review: Gene Review: FGFR-Related Craniosynostosis Syndromes  - Gene Review: Gene Review: Muenke Syndrome  - Genetic Testing Registry: Muenke syndrome  - MedlinePlus Encyclopedia: Craniosynostosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

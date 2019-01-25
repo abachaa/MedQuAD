@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000841" source="GARD" url="https://rarediseases.info.nih.gov/gard/12351/brca1-hereditary-breast-and-ovarian-cancer-syndrome">
+<Focus>BRCA1 hereditary breast and ovarian cancer syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0677776</CUI>
+			<CUI>C0029925</CUI>
+			<CUI>C1140680</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial susceptibility to breast-ovarian cancer 1</Synonym>
+		<Synonym>BROVCA1</Synonym>
+		<Synonym>Familial breast cancer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000841-1" qtype="information">What is (are) BRCA1 hereditary breast and ovarian cancer syndrome ?</Question>
+			<Answer>BRCA1 hereditary breast and ovarian cancer syndrome (BRCA1 HBOC) is an inherited condition that is characterized by an increased risk for a variety of different cancers. Women with this condition have a 57-60% risk of developing breast cancer, a 40-59% risk of developing ovarian cancer and an 83% risk of developing contralateral breast cancer by age 70. Men have a 1% lifetime risk of breast cancer and an increased risk for prostate cancer. BRCA1 HBOC may also be associated with an elevated risk for cancers of the cervix, uterus, pancreas, esophagus, stomach, fallopian tube, and primary peritoneum; however, these risks are not well defined. This condition is caused by changes (mutations) in the BRCA1 gene and is inherited in an autosomal dominant manner. Management may include high risk cancer screening, chemoprevention and/or prophylactic surgeries.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000841-2" qtype="symptoms">What are the symptoms of BRCA1 hereditary breast and ovarian cancer syndrome ?</Question>
+			<Answer>What are the signs and symptoms of BRCA1 hereditary breast and ovarian cancer syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for BRCA1 hereditary breast and ovarian cancer syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Breast carcinoma - Multifactorial inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

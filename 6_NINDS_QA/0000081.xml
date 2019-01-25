@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000081" source="NINDS" url="http://www.ninds.nih.gov/disorders/colpocephaly/Colpocephaly.htm">
+<Focus>Colpocephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0431384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000081-1" qtype="information">What is (are) Colpocephaly ?</Question>
+			<Answer>Colpocephaly is a congenital brain abnormality in which the occipital horns - the posterior or rear portion of the lateral ventricles (cavities) of the brain -- are larger than normal because white matter in the posterior cerebrum has failed to develop or thicken. Colpocephaly, one of a group of structural brain disorders known as cephalic disorders, is characterized by microcephaly (an abnormally small head) and impaired intellect. Other features may include movement abnormalities, muscle spasms, and seizures. Although the cause of colpocephaly is unknown, researchers believe that the disorder results from some kind of disturbance in the fetal environment that occurs between the second and sixth months of pregnancy. Colpocephaly may be diagnosed late in pregnancy, although it is often misdiagnosed as hydrocephalus (excessive accumulation of cerebrospinal fluid in the brain). It may be more accurately diagnosed after birth when signs of impaired intellect, microcephaly, and seizures are present.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000081-2" qtype="treatment">What are the treatments for Colpocephaly ?</Question>
+			<Answer>There is no definitive treatment for colpocephaly. Anticonvulsant medications are often prescribed to prevent seizures, and doctors rely on exercise therapies and orthopedic appliances to reduce shrinkage or shortening of muscles.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000081-3" qtype="outlook">What is the outlook for Colpocephaly ?</Question>
+			<Answer>The prognosis for individuals with colpocephaly depends on the severity of the associated conditions and the degree of abnormal brain development. Some children benefit from special education.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000081-4" qtype="research">what research (or clinical trials) is being done for Colpocephaly ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), and other institutes of the National Institutes of Health (NIH), conduct research related to colpocephaly and other cephalic disorders in laboratories at the NIH, and also support additional research through grants to major medical institutions across the country. Much of this research focuses on finding ways to prevent brain abnormalities such as colpocephaly.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

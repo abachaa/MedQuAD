@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004050" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003685.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>TSI test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0456984</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TSH receptor stimulating antibody</Synonym>
+		<Synonym>Thyroid stimulating immunoglobulin</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004050-1" qtype="information">What is (are) TSI test ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004050-8" qtype="susceptibility">Who is at risk for TSI test? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

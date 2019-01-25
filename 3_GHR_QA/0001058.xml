@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001058" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-lissencephaly-with-abnormal-genitalia">
+<Focus>X-linked lissencephaly with abnormal genitalia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266463</CUI>
+			<CUI>C0744356</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LISX2</Synonym>
+		<Synonym>X-linked lissencephaly 2</Synonym>
+		<Synonym>X-linked lissencephaly with ambiguous genitalia</Synonym>
+		<Synonym>XLAG</Synonym>
+		<Synonym>XLISG</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001058-1" qtype="information">What is (are) X-linked lissencephaly with abnormal genitalia ?</Question>
+			<Answer>X-linked lissencephaly with abnormal genitalia (XLAG) is a condition that affects the development of the brain and genitalia. It occurs most often in males.  XLAG is characterized by abnormal brain development that results in the brain having a smooth appearance (lissencephaly) instead of its normal folds and grooves. Individuals without any folds in the brain (agyria) typically have more severe symptoms than people with reduced folds and grooves (pachygyria). Individuals with XLAG may also have a lack of development (agenesis) of the tissue connecting the left and right halves of the brain (corpus callosum). The brain abnormalities can cause severe intellectual disability and developmental delay, abnormal muscle stiffness (spasticity), weak muscle tone (hypotonia), and feeding difficulties. Starting soon after birth, babies with XLAG have frequent and recurrent seizures (epilepsy). Most children with XLAG do not survive past early childhood.  Another key feature of XLAG in males is abnormal genitalia that can include an unusually small penis (micropenis), undescended testes (cryptorchidism), or external genitalia that do not look clearly male or clearly female (ambiguous genitalia).  Additional signs and symptoms of XLAG include chronic diarrhea, periods of increased blood sugar (transient hyperglycemia), and problems with body temperature regulation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001058-2" qtype="frequency">How many people are affected by X-linked lissencephaly with abnormal genitalia ?</Question>
+			<Answer>The incidence of XLAG is unknown; approximately 30 affected families have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001058-3" qtype="genetic changes">What are the genetic changes related to X-linked lissencephaly with abnormal genitalia ?</Question>
+			<Answer>Mutations in the ARX gene cause XLAG. The ARX gene provides instructions for producing a protein that is involved in the development of several organs, including the brain, testes, and pancreas. In the developing brain, the ARX protein is involved with movement and communication in nerve cells (neurons). The ARX protein regulates genes that play a role in the migration of specialized neurons (interneurons) to their proper location. Interneurons relay signals between neurons. In the pancreas and testes, the ARX protein helps to regulate the process by which cells mature to carry out specific functions (differentiation).  ARX gene mutations lead to the production of a nonfunctional ARX protein or to the complete absence of ARX protein. As a result, the ARX protein cannot perform its role regulating the activity of genes important for interneuron migration. In addition to impairing normal brain development, a lack of functional ARX protein disrupts cell differentiation during the formation of the testes, leading to abnormal genitalia. It is thought that the disruption of ARX protein function in the pancreas plays a role in the chronic diarrhea and hyperglycemia experienced by individuals with XLAG.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001058-4" qtype="inheritance">Is X-linked lissencephaly with abnormal genitalia inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell can lead to less severe brain malformations or may cause no symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001058-5" qtype="treatment">What are the treatments for X-linked lissencephaly with abnormal genitalia ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked lissencephaly with abnormal genitalia:  - Genetic Testing Registry: Lissencephaly 2, X-linked   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000134" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/bruises.html">
+<Focus>Bruises</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009938</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Contusion</Synonym>
+		<Synonym>Ecchymoses</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000134-1" qtype="information">What is (are) Bruises ?</Question>
+			<Answer>A bruise is a mark on your skin caused by blood trapped under the surface. It happens when an injury crushes small blood vessels but does not break the skin. Those vessels break open and leak blood under the skin.     Bruises are often painful and swollen. You can get skin, muscle and bone bruises. Bone bruises are the most serious.    It can take months for a bruise to fade, but most last about two weeks. They start off a reddish color, and then turn bluish-purple and greenish-yellow before returning to normal. To reduce bruising, ice the injured area and elevate it above your heart. See your healthcare provider if you seem to bruise for no reason, or if the bruise appears to be infected.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

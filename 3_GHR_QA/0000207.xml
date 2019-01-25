@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000207" source="GHR" url="https://ghr.nlm.nih.gov/condition/common-variable-immune-deficiency">
+<Focus>common variable immune deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0009447</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>common variable hypogammaglobulinemia</Synonym>
+		<Synonym>common variable immunodeficiency</Synonym>
+		<Synonym>CVID</Synonym>
+		<Synonym>immunodeficiency, common variable</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000207-1" qtype="information">What is (are) common variable immune deficiency ?</Question>
+			<Answer>Common variable immune deficiency (CVID) is a disorder that impairs the immune system. People with CVID are highly susceptible to infection from foreign invaders such as bacteria, or more rarely, viruses and often develop recurrent infections, particularly in the lungs, sinuses, and ears. Pneumonia is common in people with CVID. Over time, recurrent infections can lead to chronic lung disease. Affected individuals may also experience infection or inflammation of the gastrointestinal tract, which can cause diarrhea and weight loss. Abnormal accumulation of immune cells causes enlarged lymph nodes (lymphadenopathy) or an enlarged spleen (splenomegaly) in some people with CVID. Immune cells can accumulate in other organs, forming small lumps called granulomas.  Approximately 25 percent of people with CVID have an autoimmune disorder, which occurs when the immune system malfunctions and attacks the body&apos;s tissues and organs. The blood cells are most frequently affected by autoimmune attacks in CVID; the most commonly occurring autoimmune disorders are immune thrombocytopenia purpura, which is an abnormal bleeding disorder caused by a decrease in platelets, and autoimmune hemolytic anemia, which results in premature destruction of red blood cells. Other autoimmune disorders such as rheumatoid arthritis can occur. Individuals with CVID also have a greater than normal risk of developing certain types of cancer, including a cancer of immune system cells called non-Hodgkin lymphoma and less frequently, stomach (gastric) cancer.  People with CVID may start experiencing signs and symptoms of the disorder anytime between childhood and adulthood. The life expectancy of individuals with CVID varies depending on the severity and frequency of illnesses they experience. Most people with CVID live into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000207-2" qtype="frequency">How many people are affected by common variable immune deficiency ?</Question>
+			<Answer>CVID is estimated to affect 1 in 25,000 to 1 in 50,000 people worldwide, although the prevalence can vary across different populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000207-3" qtype="genetic changes">What are the genetic changes related to common variable immune deficiency ?</Question>
+			<Answer>CVID is believed to result from mutations in genes that are involved in the development and function of immune system cells called B cells. B cells are specialized white blood cells that help protect the body against infection. When B cells mature, they produce special proteins called antibodies (also known as immunoglobulins). These proteins attach to foreign particles, marking them for destruction. Mutations in the genes associated with CVID result in dysfunctional B cells that cannot make sufficient amounts of antibodies.  People with CVID have a shortage (deficiency) of specific antibodies called immunoglobulin G (IgG), immunoglobulin A (IgA), and immunoglobulin M (IgM). Some have a deficiency of all three antibodies, while others are lacking only IgG and IgA. A shortage of these antibodies makes it difficult for people with this disorder to fight off infections. Abnormal and deficient immune responses over time likely contribute to the increased cancer risk. In addition, vaccines for diseases such as measles and influenza do not provide protection for people with CVID because they cannot produce an antibody response.  Mutations in at least 10 genes have been associated with CVID. Approximately 10 percent of affected individuals have mutations in the TNFRSF13B gene. The protein produced from this gene plays a role in the survival and maturation of B cells and in the production of antibodies. TNFRSF13B gene mutations disrupt B cell function and antibody production, leading to immune dysfunction. Other genes associated with CVID are also involved in the function and maturation of immune system cells, particularly of B cells; mutations in these genes account for only a small percentage of cases.  In most cases of CVID, the cause is unknown, but it is likely a combination of genetic and environmental factors.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000207-4" qtype="inheritance">Is common variable immune deficiency inherited ?</Question>
+			<Answer>Most cases of CVID are sporadic and occur in people with no apparent history of the disorder in their family. These cases probably result from a complex interaction of environmental and genetic factors.  In some families, CVID is inherited in an autosomal recessive pattern, which means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  In very rare cases, this condition is inherited in an autosomal dominant pattern, which means one copy of an altered gene in each cell is sufficient to cause the disorder.  When CVID is caused by mutations in the TNFRSF13B gene, it is often sporadic. When TNFRSF13B gene mutations are inherited, they can cause either autosomal dominant CVID or autosomal recessive CVID.  Not all individuals who inherit a gene mutation associated with CVID will develop the disease. In many cases, affected children have an unaffected parent who shares the same mutation. Additional genetic or environmental factors are probably needed for the disorder to occur.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000207-5" qtype="treatment">What are the treatments for common variable immune deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of common variable immune deficiency:  - Genetic Testing Registry: Common variable immunodeficiency 10  - Genetic Testing Registry: Common variable immunodeficiency 11  - Genetic Testing Registry: Common variable immunodeficiency 2  - Genetic Testing Registry: Common variable immunodeficiency 5  - Genetic Testing Registry: Common variable immunodeficiency 6  - Genetic Testing Registry: Common variable immunodeficiency 7  - Genetic Testing Registry: Common variable immunodeficiency 8, with autoimmunity  - Genetic Testing Registry: Common variable immunodeficiency 9  - KidsHealth from Nemours: Blood Test: Immunoglobulins  - MedlinePlus Encyclopedia: Immunodeficiency Disorders  - National Marrow Donor Program  - Primary Immune Deficiency Treatment Consortium  - United States Immunodeficiency Network   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000775" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/respiratorysyncytialvirusinfections.html">
+<Focus>Respiratory Syncytial Virus Infections</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0042776</CUI>
+			<CUI>C0035235</CUI>
+			<CUI>C0319157</CUI>
+			<CUI>C0042769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T005</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>RSV</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000775-1" qtype="information">What is (are) Respiratory Syncytial Virus Infections ?</Question>
+			<Answer>Respiratory syncytial virus (RSV) causes mild, cold-like symptoms in adults and older healthy children. It can cause serious problems in young babies, including pneumonia and severe breathing problems. Premature babies and those with other health problems have the highest risk. A child with RSV may have a fever, stuffy nose, cough, and trouble breathing. Lab tests can tell if your child has the virus. There is no specific treatment. You should give your child fluids to prevent dehydration. If needed, you can also give a pain reliever (not aspirin) for fever and headache.    RSV easily spreads from person to person. You can get it from direct contact with someone who has it or by touching infected objects such as toys or surfaces such as countertops. Washing your hands often and not sharing eating and drinking utensils are simple ways to help prevent the spread of RSV infection. There is currently no vaccine for RSV.    Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

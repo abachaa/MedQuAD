@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005040" source="GARD" url="https://rarediseases.info.nih.gov/gard/5104/primary-carnitine-deficiency">
+<Focus>Primary carnitine deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342788</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Systemic primary carnitine deficiency</Synonym>
+		<Synonym>Carnitine uptake defect</Synonym>
+		<Synonym>Carnitine deficiency, systemic, due to defect in renal reabsorption of carnitine</Synonym>
+		<Synonym>Carnitine plasma-membrane transporter deficiency</Synonym>
+		<Synonym>Carnitine transporter deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005040-1" qtype="information">What is (are) Primary carnitine deficiency ?</Question>
+			<Answer>Primary carnitine deficiency is a genetic condition that prevents the body from using certain fats for energy, particularly during periods without food (fasting). The nature and severity of signs and symptoms may vary, but they most often appear during infancy or early childhood and can include severe brain dysfunction (encephalopathy), cardiomyopathy, confusion, vomiting, muscle weakness, and hypoglycemia. Some individuals may only have fatigability in adulthood, or no symptoms at all. This condition is caused by mutations in the SLC22A5 gene and is inherited in an autosomal recessive manner. Treatment and prevention of symptoms typically includes oral L-carnitine supplementation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005040-2" qtype="symptoms">What are the symptoms of Primary carnitine deficiency ?</Question>
+			<Answer>What are the signs and symptoms of Primary carnitine deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for Primary carnitine deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Cardiomegaly - Coma - Confusion - Congestive heart failure - Decreased carnitine level in liver - Decreased plasma carnitine - Elevated hepatic transaminases - Encephalopathy - Endocardial fibroelastosis - Failure to thrive - Hepatic steatosis - Hepatomegaly - Hyperammonemia - Hypertrophic cardiomyopathy - Impaired gluconeogenesis - Lethargy - Muscular hypotonia - Myopathy - Recurrent hypoglycemia - Reduced muscle carnitine level - Somnolence - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005040-3" qtype="causes">What causes Primary carnitine deficiency ?</Question>
+			<Answer>What causes primary carnitine deficiency? Mutations in the SLC22A5 gene cause primary carnitine deficiency. This gene provides instructions for making a protein called OCTN2 that transports carnitine into cells. Cells need carnitine to bring certain types of fats (fatty acids) into mitochondria, which are the energy-producing centers within cells. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues. Mutations in the SLC22A5 gene result in an absent or dysfunctional OCTN2 protein. As a result, there is a shortage (deficiency) of carnitine within cells. This deficiency, as well as potential build-up of fatty acids within the cells, causes the signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005040-4" qtype="inheritance">Is Primary carnitine deficiency inherited ?</Question>
+			<Answer>How is primary carnitine deficiency inherited? Primary carnitine deficiency is inherited in an autosomal recessive manner. Individuals have two copies of each gene, one of which is inherited from each parent. For an individual to have an autosomal recessive condition, he/she must have a mutation in both copies of the disease-causing gene. The parents of an affected individual, who each likely have one mutated copy, are referred to as carriers. Carriers typically do not have any signs or symptoms of the condition. When two carriers for an autosomal recessive condition have children together, each child has a 25% (1 in 4) risk to have the condition, a 50% (1 in 2) risk to be a carrier like each of the parents, and a 25% risk to not have the condition and not be a carrier.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005040-5" qtype="treatment">What are the treatments for Primary carnitine deficiency ?</Question>
+			<Answer>How might primary carnitine deficiency be treated? Most individuals with primary carnitine deficiency are followed by a metabolic doctor as well as a dietician familiar with this condition. Certain treatments may be advised for some children but not others. Treatment is often needed throughout life. The main treatment for this condition is lifelong use of L-carnitine, which is a natural substance that helps body cells make energy. It also helps the body get rid of harmful wastes. L-carnitine can reverse the heart problems and muscle weakness caused by this condition. In addition to L-carnitine, infants and young children with primary carnitine deficiency need to eat frequently to prevent a metabolic crisis. In general, it is often suggested that infants be fed every four to six hours. But some babies need to eat even more frequently than this. Many teens and adults with this condition can go without food for up to 12 hours without problems. Some children and teens benefit from a low-fat, high carbohydrate diet. Any diet changes should be made under the guidance of a metabolic specialist and/or dietician familiar with this condition. Ask your doctor whether your child needs to have any changes in his or her diet. Other treatments usually need to be continued throughout life. Infants and children with this condition need to eat extra starchy food and drink more fluids during any illness, even if they may not feel hungry, because they could have a metabolic crisis. Children who are sick often do not want to eat. If they wont or cant eat, they may need to be treated in the hospital to prevent serious health problems.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

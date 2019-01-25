@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002307" source="GARD" url="https://rarediseases.info.nih.gov/gard/2268/fanconi-bickel-syndrome">
+<Focus>Fanconi Bickel syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C0015624</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hepatorenal glycogenosis with renal Fanconi syndrome</Synonym>
+		<Synonym>Hepatorenal glycogenosis with renal fanconi syndrome</Synonym>
+		<Synonym>Hepatic glycogenosis with amino aciduria and glucosuria</Synonym>
+		<Synonym>Fanconi syndrome with intestinal malabsorption and galactose intolerance</Synonym>
+		<Synonym>Pseudo-Phlorizin diabetes</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002307-1" qtype="information">What is (are) Fanconi Bickel syndrome ?</Question>
+			<Answer>Fanconi Bickel syndrome (FBS) is a rare glycogen storage disease characterized by glycogen accumulation in the liver and kidneys; severe renal tubular dysfunction; and impaired glucose and galactose metabolism. Signs and symptoms begin in the first few months of life and include failure to thrive, excessive urination (polyuria) and rickets, followed by short stature and hepatosplenomegaly in early childhood. Puberty is delayed. FBS is inherited in an autosomal recessive manner and is caused by mutations in the SLC2A2 gene. Treatment is generally symptomatic.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002307-2" qtype="symptoms">What are the symptoms of Fanconi Bickel syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Fanconi Bickel syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Fanconi Bickel syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal distention - Autosomal recessive inheritance - Chronic acidosis - Decreased subcutaneous fat - Elevated alkaline phosphatase - Failure to thrive - Generalized aminoaciduria - Glycosuria - Hyperphosphaturia - Hypokalemia - Hypophosphatemia - Hypouricemia - Impairment of galactose metabolism - Malabsorption - Osteomalacia - Poor appetite - Renal tubular dysfunction - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002307-3" qtype="treatment">What are the treatments for Fanconi Bickel syndrome ?</Question>
+			<Answer>How might Fanconi Bickel syndrome be treated? Management of Fanconi Bickel syndrome (FBS) generally focuses on the signs and symptoms of the condition. Treatment includes replacement of water and electrolytes, and vitamin D and phosphate supplements for prevention of hypophosphatemic rickets. Although there is limited data on the effectiveness of dietary treatment for this condition, it is recommended that affected individuals follow a galactose-restricted diabetic diet, with fructose as the main source of carbohydrate. Diet and supplements may alleviate some of the signs and symptoms of the condition but generally do not improve growth, resulting in short stature in adulthood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

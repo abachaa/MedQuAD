@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000997" source="GHR" url="https://ghr.nlm.nih.gov/condition/trisomy-18">
+<Focus>trisomy 18</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152096</CUI>
+			<CUI>C3537048</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T049</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>complete trisomy 18 syndrome</Synonym>
+		<Synonym>Edwards syndrome</Synonym>
+		<Synonym>trisomy 18 syndrome</Synonym>
+		<Synonym>trisomy E syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000997-1" qtype="information">What is (are) trisomy 18 ?</Question>
+			<Answer>Trisomy 18, also called Edwards syndrome, is a chromosomal condition associated with abnormalities in many parts of the body. Individuals with trisomy 18 often have slow growth before birth (intrauterine growth retardation) and a low birth weight. Affected individuals may have heart defects and abnormalities of other organs that develop before birth. Other features of trisomy 18 include a small, abnormally shaped head; a small jaw and mouth; and clenched fists with overlapping fingers. Due to the presence of several life-threatening medical problems, many individuals with trisomy 18 die before birth or within their first month. Five to 10 percent of children with this condition live past their first year, and these children often have severe intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000997-2" qtype="frequency">How many people are affected by trisomy 18 ?</Question>
+			<Answer>Trisomy 18 occurs in about 1 in 5,000 live-born infants; it is more common in pregnancy, but many affected fetuses do not survive to term. Although women of all ages can have a child with trisomy 18, the chance of having a child with this condition increases as a woman gets older.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000997-3" qtype="genetic changes">What are the genetic changes related to trisomy 18 ?</Question>
+			<Answer>Most cases of trisomy 18 result from having three copies of chromosome 18 in each cell in the body instead of the usual two copies. The extra genetic material disrupts the normal course of development, causing the characteristic features of trisomy 18.  Approximately 5 percent of people with trisomy 18 have an extra copy of chromosome 18 in only some of the body&apos;s cells. In these people, the condition is called mosaic trisomy 18. The severity of mosaic trisomy 18 depends on the type and number of cells that have the extra chromosome. The development of individuals with this form of trisomy 18 may range from normal to severely affected.  Very rarely, part of the long (q) arm of chromosome 18 becomes attached (translocated) to another chromosome during the formation of reproductive cells (eggs and sperm) or very early in embryonic development. Affected individuals have two copies of chromosome 18, plus the extra material from chromosome 18 attached to another chromosome. People with this genetic change are said to have partial trisomy 18. If only part of the q arm is present in three copies, the physical signs of partial trisomy 18 may be less severe than those typically seen in trisomy 18. If the entire q arm is present in three copies, individuals may be as severely affected as if they had three full copies of chromosome 18.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000997-4" qtype="inheritance">Is trisomy 18 inherited ?</Question>
+			<Answer>Most cases of trisomy 18 are not inherited, but occur as random events during the formation of eggs and sperm. An error in cell division called nondisjunction results in a reproductive cell with an abnormal number of chromosomes. For example, an egg or sperm cell may gain an extra copy of chromosome 18. If one of these atypical reproductive cells contributes to the genetic makeup of a child, the child will have an extra chromosome 18 in each of the body&apos;s cells.  Mosaic trisomy 18 is also not inherited. It occurs as a random event during cell division early in embryonic development. As a result, some of the body&apos;s cells have the usual two copies of chromosome 18, and other cells have three copies of this chromosome.  Partial trisomy 18 can be inherited. An unaffected person can carry a rearrangement of genetic material between chromosome 18 and another chromosome. This rearrangement is called a balanced translocation because there is no extra material from chromosome 18. Although they do not have signs of trisomy 18, people who carry this type of balanced translocation are at an increased risk of having children with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000997-5" qtype="treatment">What are the treatments for trisomy 18 ?</Question>
+			<Answer>These resources address the diagnosis or management of trisomy 18:  - Genetic Testing Registry: Complete trisomy 18 syndrome  - MedlinePlus Encyclopedia: Trisomy 18   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

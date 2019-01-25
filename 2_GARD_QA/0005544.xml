@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005544" source="GARD" url="https://rarediseases.info.nih.gov/gard/9998/sensory-ataxic-neuropathy-dysarthria-and-ophthalmoparesis">
+<Focus>Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013362</CUI>
+			<CUI>C0442874</CUI>
+			<CUI>C0234366</CUI>
+			<CUI>C1843851</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SANDO</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005544-1" qtype="symptoms">What are the symptoms of Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis ?</Question>
+			<Answer>What are the signs and symptoms of Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis? The Human Phenotype Ontology provides the following list of signs and symptoms for Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cataract 5% Adult onset - Areflexia - Atrophy/Degeneration involving the spinal cord - Autosomal recessive inheritance - Cognitive impairment - Decreased activity of cytochrome C oxidase in muscle tissue - Depression - Dilated cardiomyopathy - Dysarthria - Gastroparesis - Hyporeflexia - Impaired distal proprioception - Impaired distal vibration sensation - Increased serum lactate - Increased variability in muscle fiber diameter - Intestinal pseudo-obstruction - Migraine - Mildly elevated creatine phosphokinase - Multiple mitochondrial DNA deletions - Muscle fiber necrosis - Myoclonus - Nystagmus - Phenotypic variability - Positive Romberg sign - Progressive external ophthalmoplegia - Progressive gait ataxia - Proximal muscle weakness - Ptosis - Ragged-red muscle fibers - Seizures - Sensorineural hearing impairment - Sensory ataxic neuropathy - Sensory axonal neuropathy - Subsarcolemmal accumulations of abnormally shaped mitochondria - Vestibular dysfunction - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

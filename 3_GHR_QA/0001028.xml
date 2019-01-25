@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001028" source="GHR" url="https://ghr.nlm.nih.gov/condition/warfarin-sensitivity">
+<Focus>warfarin sensitivity</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2608079</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>coumadin sensitivity</Synonym>
+		<Synonym>warfarin response</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001028-1" qtype="information">What is (are) warfarin sensitivity ?</Question>
+			<Answer>Warfarin sensitivity is a condition in which individuals have a low tolerance for the drug warfarin. Warfarin is an anticoagulant, which means that it thins the blood, preventing blood clots from forming. Warfarin is often prescribed to prevent blood clots in people with heart valve disease who have replacement heart valves, people with an irregular heart beat (atrial fibrillation), or those with a history of heart attack, stroke, or a prior blood clot in the deep veins of the arms or legs (deep vein thrombosis).  Many people with warfarin sensitivity take longer than normal to break down (metabolize) warfarin, so the medication is in their body longer than usual and they require lower doses. These individuals are classified as &quot;slow metabolizers&quot; of warfarin. Other people with warfarin sensitivity do not need as much drug to prevent clots because their clot forming process is already slower than average and can be inhibited by low warfarin doses. If people with warfarin sensitivity take the average dose (or more) of warfarin, they are at risk of an overdose, which can cause abnormal bleeding in the brain, gastrointestinal tract, or other tissues, and may lead to serious health problems or death.  Warfarin sensitivity does not appear to cause any health problems other than those associated with warfarin drug treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001028-2" qtype="frequency">How many people are affected by warfarin sensitivity ?</Question>
+			<Answer>The prevalence of warfarin sensitivity is unknown. However, it appears to be more common in people who are older, those with lower body weights, and individuals of Asian ancestry.  Of the approximately 2 million people in the U.S. who are prescribed warfarin annually, 35,000 to 45,000 individuals go to hospital emergency rooms with warfarin-related adverse drug events. While it is unclear how many of these events are due to warfarin sensitivity, the most common sign is excessive internal bleeding, which is often seen when individuals with warfarin sensitivity are given too much of the medication.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001028-3" qtype="genetic changes">What are the genetic changes related to warfarin sensitivity ?</Question>
+			<Answer>Many genes are involved in the metabolism of warfarin and in determining the drug&apos;s effects in the body. Certain common changes (polymorphisms) in the CYP2C9 and VKORC1 genes account for 30 percent of the variation in warfarin metabolism due to genetic factors. Polymorphisms in other genes, some of which have not been identified, have a smaller effect on warfarin metabolism.  The CYP2C9 gene provides instructions for making an enzyme that breaks down compounds including steroids and fatty acids. The CYP2C9 enzyme also breaks down certain drugs, including warfarin. Several CYP2C9 gene polymorphisms can decrease the activity of the CYP2C9 enzyme and slow the body&apos;s metabolism of warfarin. As a result, the drug remains active in the body for a longer period of time, leading to warfarin sensitivity.  The VKORC1 gene provides instructions for making a vitamin K epoxide reductase enzyme. The VKORC1 enzyme helps turn on (activate) clotting proteins in the pathway that forms blood clots. Warfarin prevents (inhibits) the action of VKORC1 and slows the activation of clotting proteins and clot formation. Certain VKORC1 gene polymorphisms decrease the amount of functional VKORC1 enzyme available to help activate clotting proteins. Individuals develop warfarin sensitivity because less warfarin is needed to inhibit the VKORC1 enzyme, as there is less functional enzyme that needs to be suppressed.  While changes in specific genes, particularly CYP2C9 and VKORC1, affect how the body reacts to warfarin, many other factors, including gender, age, weight, diet, and other medications, also play a role in the body&apos;s interaction with this drug.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001028-4" qtype="inheritance">Is warfarin sensitivity inherited ?</Question>
+			<Answer>The polymorphisms associated with this condition are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to result in warfarin sensitivity. However, different polymorphisms affect the activity of warfarin to varying degrees. Additionally, people who have more than one polymorphism in a gene or polymorphisms in multiple genes associated with warfarin sensitivity have a lower tolerance for the drug&apos;s effect or take even longer to clear the drug from their body.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001028-5" qtype="treatment">What are the treatments for warfarin sensitivity ?</Question>
+			<Answer>These resources address the diagnosis or management of warfarin sensitivity:  - Food and Drug Administration Medication Guide  - MedlinePlus Drugs &amp; Supplements: Warfarin  - My46 Trait Profile  - PharmGKB  - WarfarinDosing.org   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

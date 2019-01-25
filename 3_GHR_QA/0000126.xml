@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000126" source="GHR" url="https://ghr.nlm.nih.gov/condition/birt-hogg-dube-syndrome">
+<Focus>Birt-Hogg-Dub syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BHD</Synonym>
+		<Synonym>fibrofolliculomas with trichodiscomas and acrochordons</Synonym>
+		<Synonym>Hornstein-Birt-Hogg-Dub syndrome</Synonym>
+		<Synonym>Hornstein-Knickenberg syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000126-1" qtype="information">What is (are) Birt-Hogg-Dub syndrome ?</Question>
+			<Answer>Birt-Hogg-Dub syndrome is a rare disorder that affects the skin and lungs and increases the risk of certain types of tumors. Its signs and symptoms vary among affected individuals.  Birt-Hogg-Dub syndrome is characterized by multiple noncancerous (benign) skin tumors, particularly on the face, neck, and upper chest. These growths typically first appear in a person&apos;s twenties or thirties and become larger and more numerous over time. Affected individuals also have an increased chance of developing cysts in the lungs and an abnormal accumulation of air in the chest cavity (pneumothorax) that may result in the collapse of a lung. Additionally, Birt-Hogg-Dub syndrome is associated with an elevated risk of developing cancerous or noncancerous kidney tumors. Other types of cancer have also been reported in affected individuals, but it is unclear whether these tumors are actually a feature of Birt-Hogg-Dub syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000126-2" qtype="frequency">How many people are affected by Birt-Hogg-Dub syndrome ?</Question>
+			<Answer>Birt-Hogg-Dub syndrome is rare; its exact incidence is unknown. This condition has been reported in more than 400 families.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000126-3" qtype="genetic changes">What are the genetic changes related to Birt-Hogg-Dub syndrome ?</Question>
+			<Answer>Mutations in the FLCN gene cause Birt-Hogg-Dub syndrome. This gene provides instructions for making a protein called folliculin. The normal function of this protein is unknown, but researchers believe that it may act as a tumor suppressor. Tumor suppressors prevent cells from growing and dividing too rapidly or in an uncontrolled way. Mutations in the FLCN gene may interfere with the ability of folliculin to restrain cell growth and division, leading to uncontrolled cell growth and the formation of noncancerous and cancerous tumors. Researchers have not determined how FLCN mutations increase the risk of lung problems, such as pneumothorax.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000126-4" qtype="inheritance">Is Birt-Hogg-Dub syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered FLCN gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the mutation from one affected parent. Less commonly, the condition results from a new mutation in the gene and occurs in people with no history of the disorder in their family.  Having a single mutated copy of the FLCN gene in each cell is enough to cause the skin tumors and lung problems associated with Birt-Hogg-Dub syndrome. However, both copies of the FLCN gene are often mutated in the kidney tumors that occur with this condition. One of the mutations is inherited from a parent, while the other occurs by chance in a kidney cell during a person&apos;s lifetime. These genetic changes disable both copies of the FLCN gene, which allows kidney cells to divide uncontrollably and form tumors.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000126-5" qtype="treatment">What are the treatments for Birt-Hogg-Dub syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Birt-Hogg-Dub syndrome:  - BHD Foundation: Practical Considerations  - Gene Review: Gene Review: Birt-Hogg-Dube Syndrome  - Genetic Testing Registry: Multiple fibrofolliculomas  - MedlinePlus Encyclopedia: Collapsed Lung   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

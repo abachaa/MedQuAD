@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001006" source="GHR" url="https://ghr.nlm.nih.gov/condition/tyrosinemia">
+<Focus>tyrosinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268483</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hereditary tyrosinemia</Synonym>
+		<Synonym>hypertyrosinaemia</Synonym>
+		<Synonym>hypertyrosinemia</Synonym>
+		<Synonym>tyrosinaemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001006-1" qtype="information">What is (are) tyrosinemia ?</Question>
+			<Answer>Tyrosinemia is a genetic disorder characterized by disruptions in the multistep process that breaks down the amino acid tyrosine, a building block of most proteins. If untreated, tyrosine and its byproducts build up in tissues and organs, which can lead to serious health problems.  There are three types of tyrosinemia, which are each distinguished by their symptoms and genetic cause. Tyrosinemia type I, the most severe form of this disorder, is characterized by signs and symptoms that begin in the first few months of life. Affected infants fail to gain weight and grow at the expected rate (failure to thrive) due to poor food tolerance because high-protein foods lead to diarrhea and vomiting. Affected infants may also have yellowing of the skin and whites of the eyes (jaundice), a cabbage-like odor, and an increased tendency to bleed (particularly nosebleeds). Tyrosinemia type I can lead to liver and kidney failure, softening and weakening of the bones (rickets), and an increased risk of liver cancer (hepatocellular carcinoma). Some affected children have repeated neurologic crises that consist of changes in mental state, reduced sensation in the arms and legs (peripheral neuropathy), abdominal pain, and respiratory failure. These crises can last from 1 to 7 days. Untreated, children with tyrosinemia type I often do not survive past the age of 10.  Tyrosinemia type II can affect the eyes, skin, and mental development. Signs and symptoms often begin in early childhood and include eye pain and redness, excessive tearing, abnormal sensitivity to light (photophobia), and thick, painful skin on the palms of their hands and soles of their feet (palmoplantar hyperkeratosis). About 50 percent of individuals with tyrosinemia type II have some degree of intellectual disability.  Tyrosinemia type III is the rarest of the three types. The characteristic features of this type include intellectual disability, seizures, and periodic loss of balance and coordination (intermittent ataxia).  About 10 percent of newborns have temporarily elevated levels of tyrosine (transient tyrosinemia). In these cases, the cause is not genetic. The most likely causes are vitamin C deficiency or immature liver enzymes due to premature birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001006-2" qtype="frequency">How many people are affected by tyrosinemia ?</Question>
+			<Answer>Worldwide, tyrosinemia type I affects about 1 in 100,000 individuals. This type is more common in Norway where 1 in 60,000 to 74,000 individuals are affected. Tyrosinemia type I is even more common in Quebec, Canada where it occurs in about 1 in 16,000 individuals. In the Saguenay-Lac St. Jean region of Quebec, tyrosinemia type I affects 1 in 1,846 people.  Tyrosinemia type II occurs in fewer than 1 in 250,000 individuals worldwide. Tyrosinemia type III is very rare; only a few cases have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001006-3" qtype="genetic changes">What are the genetic changes related to tyrosinemia ?</Question>
+			<Answer>Mutations in the FAH, TAT, and HPD genes can cause tyrosinemia types I, II, and III, respectively.  In the liver, enzymes break down tyrosine in a five step process, resulting in molecules that are either excreted by the kidneys or used to produce energy or make other substances in the body. The FAH gene provides instructions for the fumarylacetoacetate hydrolase enzyme, which is responsible for the final step of tyrosine breakdown. The enzyme produced from the TAT gene, called tyrosine aminotransferase enzyme, is involved at the first step in the process. The HPD gene provides instructions for making the 4-hydroxyphenylpyruvate dioxygenase enzyme, which is responsible for the second step.  Mutations in the FAH, TAT, or HPD gene cause a decrease in the activity of one of the enzymes in the breakdown of tyrosine. As a result, tyrosine and its byproducts accumulate to toxic levels, which can cause damage and death to cells in the liver, kidneys, nervous system, and other organs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001006-4" qtype="inheritance">Is tyrosinemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001006-5" qtype="treatment">What are the treatments for tyrosinemia ?</Question>
+			<Answer>These resources address the diagnosis or management of tyrosinemia:  - Baby&apos;s First Test: Tyrosinemia, Type I  - Baby&apos;s First Test: Tyrosinemia, Type II  - Baby&apos;s First Test: Tyrosinemia, Type III  - Gene Review: Gene Review: Tyrosinemia Type I  - Genetic Testing Registry: 4-Hydroxyphenylpyruvate dioxygenase deficiency  - Genetic Testing Registry: Tyrosinemia type 2  - Genetic Testing Registry: Tyrosinemia type I  - MedlinePlus Encyclopedia: Aminoaciduria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

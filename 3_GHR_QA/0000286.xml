@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000286" source="GHR" url="https://ghr.nlm.nih.gov/condition/dihydrolipoamide-dehydrogenase-deficiency">
+<Focus>dihydrolipoamide dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3492932</CUI>
+			<CUI>C0268193</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dihydrolipoyl dehydrogenase deficiency</Synonym>
+		<Synonym>DLD deficiency</Synonym>
+		<Synonym>E3 deficiency</Synonym>
+		<Synonym>lactic acidosis due to LAD deficiency</Synonym>
+		<Synonym>lactic acidosis due to lipoamide dehydrogenase deficiency</Synonym>
+		<Synonym>lipoamide dehydrogenase deficiency</Synonym>
+		<Synonym>maple syrup urine disease, type III</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000286-1" qtype="information">What is (are) dihydrolipoamide dehydrogenase deficiency ?</Question>
+			<Answer>Dihydrolipoamide dehydrogenase deficiency is a severe condition that can affect several body systems. Signs and symptoms of this condition usually appear shortly after birth, and they can vary widely among affected individuals.  A common feature of dihydrolipoamide dehydrogenase deficiency is a potentially life-threatening buildup of lactic acid in tissues (lactic acidosis), which can cause nausea, vomiting, severe breathing problems, and an abnormal heartbeat. Neurological problems are also common in this condition; the first symptoms in affected infants are often decreased muscle tone (hypotonia) and extreme tiredness (lethargy). As the problems worsen, affected infants can have difficulty feeding, decreased alertness, and seizures. Liver problems can also occur in dihydrolipoamide dehydrogenase deficiency, ranging from an enlarged liver (hepatomegaly) to life-threatening liver failure. In some affected people, liver disease, which can begin anytime from infancy to adulthood, is the primary symptom. The liver problems are usually associated with recurrent vomiting and abdominal pain. Rarely, people with dihydrolipoamide dehydrogenase deficiency experience weakness of the muscles used for movement (skeletal muscles), particularly during exercise; droopy eyelids; or a weakened heart muscle (cardiomyopathy). Other features of this condition include excess ammonia in the blood (hyperammonemia), a buildup of molecules called ketones in the body (ketoacidosis), or low blood sugar levels (hypoglycemia).  Typically, the signs and symptoms of dihydrolipoamide dehydrogenase deficiency occur in episodes that may be triggered by fever, injury, or other stresses on the body. Affected individuals are usually symptom-free between episodes. Many infants with this condition do not survive the first few years of life because of the severity of these episodes. Affected individuals who survive past early childhood often have delayed growth and neurological problems, including intellectual disability, muscle stiffness (spasticity), difficulty coordinating movements (ataxia), and seizures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000286-2" qtype="frequency">How many people are affected by dihydrolipoamide dehydrogenase deficiency ?</Question>
+			<Answer>Dihydrolipoamide dehydrogenase deficiency occurs in an estimated 1 in 35,000 to 48,000 individuals of Ashkenazi Jewish descent. This population typically has liver disease as the primary symptom. In other populations, the prevalence of dihydrolipoamide dehydrogenase deficiency is unknown, but the condition is likely rare.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000286-3" qtype="genetic changes">What are the genetic changes related to dihydrolipoamide dehydrogenase deficiency ?</Question>
+			<Answer>Mutations in the DLD gene cause dihydrolipoamide dehydrogenase deficiency. This gene provides instructions for making an enzyme called dihydrolipoamide dehydrogenase (DLD). DLD is one component of three different groups of enzymes that work together (enzyme complexes): branched-chain alpha-keto acid dehydrogenase (BCKD), pyruvate dehydrogenase (PDH), and alpha ()-ketoglutarate dehydrogenase (KGDH). The BCKD enzyme complex is involved in the breakdown of three protein building blocks (amino acids) commonly found in protein-rich foods: leucine, isoleucine, and valine. Breakdown of these amino acids produces molecules that can be used for energy. The PDH and KGDH enzyme complexes are involved in other reactions in the pathways that convert the energy from food into a form that cells can use.  Mutations in the DLD gene impair the function of the DLD enzyme, which prevents the three enzyme complexes from functioning properly. As a result, molecules that are normally broken down and their byproducts build up in the body, damaging tissues and leading to lactic acidosis and other chemical imbalances. In addition, the production of cellular energy is diminished. The brain is especially affected by the buildup of molecules and the lack of cellular energy, resulting in the neurological problems associated with dihydrolipoamide dehydrogenase deficiency. Liver problems are likely also related to decreased energy production in cells. The degree of impairment of each complex contributes to the variability in the features of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000286-4" qtype="inheritance">Is dihydrolipoamide dehydrogenase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000286-5" qtype="treatment">What are the treatments for dihydrolipoamide dehydrogenase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of dihydrolipoamide dehydrogenase deficiency:  - Gene Review: Gene Review: Dihydrolipoamide Dehydrogenase Deficiency  - Genetic Testing Registry: Maple syrup urine disease, type 3   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

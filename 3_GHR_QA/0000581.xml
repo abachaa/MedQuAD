@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000581" source="GHR" url="https://ghr.nlm.nih.gov/condition/laron-syndrome">
+<Focus>Laron syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0271568</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>GH-R deficiency</Synonym>
+		<Synonym>growth hormone insensitivity syndrome</Synonym>
+		<Synonym>growth hormone receptor defect</Synonym>
+		<Synonym>growth hormone receptor deficiency</Synonym>
+		<Synonym>Laron dwarfism</Synonym>
+		<Synonym>Laron-type dwarfism</Synonym>
+		<Synonym>Laron-type isolated somatotropin defect</Synonym>
+		<Synonym>Laron-type pituitary dwarfism</Synonym>
+		<Synonym>Laron-type short stature</Synonym>
+		<Synonym>pituitary dwarfism II</Synonym>
+		<Synonym>primary GH resistance</Synonym>
+		<Synonym>primary growth hormone resistance</Synonym>
+		<Synonym>severe GH insensitivity</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000581-1" qtype="information">What is (are) Laron syndrome ?</Question>
+			<Answer>Laron syndrome is a rare form of short stature that results from the body&apos;s inability to use growth hormone, a substance produced by the brain&apos;s pituitary gland that helps promote growth. Affected individuals are close to normal size at birth, but they experience slow growth from early childhood that results in very short stature. If the condition is not treated, adult males typically reach a maximum height of about 4.5 feet; adult females may be just over 4 feet tall.  Other features of untreated Laron syndrome include reduced muscle strength and endurance, low blood sugar levels (hypoglycemia) in infancy, small genitals and delayed puberty, hair that is thin and fragile, and dental abnormalities. Many affected individuals have a distinctive facial appearance, including a protruding forehead, a sunken bridge of the nose (saddle nose), and a blue tint to the whites of the eyes (blue sclerae). Affected individuals have short limbs compared to the size of their torso, as well as small hands and feet. Adults with this condition tend to develop obesity. However, the signs and symptoms of Laron syndrome vary, even among affected members of the same family.  Studies suggest that people with Laron syndrome have a significantly reduced risk of cancer and type 2 diabetes. Affected individuals appear to develop these common diseases much less frequently than their unaffected relatives, despite having obesity (a risk factor for both cancer and type 2 diabetes). However, people with Laron syndrome do not seem to have an increased lifespan compared with their unaffected relatives.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000581-2" qtype="frequency">How many people are affected by Laron syndrome ?</Question>
+			<Answer>Laron syndrome is a rare disorder. About 350 people have been diagnosed with the condition worldwide. The largest single group of affected individuals (about 100 people) lives in an area of southern Ecuador.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000581-3" qtype="genetic changes">What are the genetic changes related to Laron syndrome ?</Question>
+			<Answer>Laron syndrome is caused by mutations in the GHR gene. This gene provides instructions for making a protein called the growth hormone receptor. The receptor is present on the outer membrane of cells throughout the body, particularly liver cells. As its name suggests, the growth hormone receptor attaches (binds) to growth hormone; the two proteins fit together like a key in a lock. When growth hormone is bound to its receptor, it triggers signaling that stimulates the growth and division of cells. This signaling also leads to the production, primarily by liver cells, of another important growth-promoting hormone called insulin-like growth factor I (IGF-I).  Growth hormone and IGF-I have a wide variety of effects on the growth and function of many parts of the body. For example, these hormones stimulate the growth and division of cells called chondrocytes, which play a critical role in producing new bone tissue. Growth hormone and IGF-I also influence metabolism, including how the body uses and stores carbohydrates, proteins, and fats from food.  Mutations in the GHR gene impair the receptor&apos;s ability to bind to growth hormone or to trigger signaling within cells. As a result, even when growth hormone is available, cells are unable to respond by producing IGF-I and stimulating growth and division. The cells&apos; inability to react to growth hormone, which is described as growth hormone insensitivity, disrupts the normal growth and function of many different tissues. Short stature results when growth hormone cannot adequately stimulate the growth of bones. Changes in metabolism caused by insensitivity to growth hormone and the resulting shortage of IGF-I cause many of the other features of the condition, including obesity.  Researchers are working to determine how mutations in the GHR gene may protect people with Laron syndrome from developing cancer and type 2 diabetes. Studies suggest that insensitivity to growth hormone may help prevent the uncontrolled growth and division of cells that can lead to the development of cancerous tumors. Growth hormone insensitivity also appears to alter how the body responds to insulin, which is a hormone that regulates blood sugar levels. Resistance to the effects of insulin is a major risk factor for type 2 diabetes. People with Laron syndrome have the opposite situation, an increased sensitivity to insulin, which likely helps explain their reduced risk of this common disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000581-4" qtype="inheritance">Is Laron syndrome inherited ?</Question>
+			<Answer>Most cases of Laron syndrome are inherited in an autosomal recessive pattern, which means both copies of the GHR gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Much less commonly, the condition has an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most of these cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000581-5" qtype="treatment">What are the treatments for Laron syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Laron syndrome:  - Children&apos;s Hospital of Pittsburgh: Growth Hormone Treatment  - Cinncinati Children&apos;s Hospital Medical Center: Growth Hormone Therapy  - Genetic Testing Registry: Laron-type isolated somatotropin defect   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002421" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000576.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Living with heart disease and angina</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018799</CUI>
+			<CUI>C0002962</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002421-1" qtype="information">What is (are) Living with heart disease and angina ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002421-6" qtype="treatment">What are the treatments for Living with heart disease and angina ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

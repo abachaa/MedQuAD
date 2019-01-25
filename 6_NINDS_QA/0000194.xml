@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000194" source="NINDS" url="http://www.ninds.nih.gov/disorders/migraine/migraine.htm">
+<Focus>Migraine</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0149931</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000194-1" qtype="information">What is (are) Migraine ?</Question>
+			<Answer>The pain of a migraine headache is often described as an intense pulsing or throbbing pain in one area of the head. However, it is much more; the International Headache Society diagnoses a migraine by its pain and number of attacks (at least 5, lasting 4-72 hours if untreated), and additional symptoms including nausea and/or vomiting, or sensitivity to both light and sound. Migraine is three times more common in women than in men and affects more than 10 percent of people worldwide. Roughly one-third of affected individuals can predict the onset of a migraine because it is preceded by an &quot;aura,&quot; visual disturbances that appear as flashing lights, zig-zag lines or a temporary loss of vision. People with migraine tend to have recurring attacks triggered by a number of different factors, including stress, anxiety, hormonal changes, bright or flashing lights, lack of food or sleep, and dietary substances. Migraine in some women may relate to changes in hormones and hormonal levels during their menstrual cycle. For many years, scientists believed that migraines were linked to the dilation and constriction of blood vessels in the head. Investigators now believe that migraine has a genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000194-2" qtype="treatment">What are the treatments for Migraine ?</Question>
+			<Answer>There is no absolute cure for migraine since its pathophysiology has yet to be fully understood. There are two ways to approach the treatment of migraine headache with drugs: prevent the attacks, or relieve the symptoms during the attacks. Prevention involves the use of medications and behavioral changes. Drugs originally developed for epilepsy, depression, or high blood pressure to prevent future attacks have been shown to be extremely effective in treating migraine. Botulinum toxin A has been shown to be effective in prevention of chronic migraine. Behaviorally, stress management strategies, such as exercise, relaxation techniques, biofeedback mechanisms, and other therapies designed to limit daily discomfort, may reduce the number and severity of migraine attacks. Making a log of personal triggers of migraine can also provide useful information for trigger-avoiding lifestyle changes, including dietary considerations, eating regularly scheduled meals with adequate hydration, stopping certain medications, and establishing a consistent sleep schedule. Hormone therapy may help some women whose migraines seem to be linked to their menstrual cycle. A weight loss program is recommended for obese individuals with migraine.
+                
+Relief of symptoms, or acute treatments, during attacks consists of sumatriptan, ergotamine drugs, and analgesics such as ibuprofen and aspirin. The sooner these treatments are administered, the more effective they are.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000194-3" qtype="outlook">What is the outlook for Migraine ?</Question>
+			<Answer>Responsive prevention and treatment of migraine is incredibly important. Evidence shows an increased sensitivity after each successive attack, eventually leading to chronic daily migraine in some individuals With proper combination of drugs for prevention and treatment of migraine attacks most individuals can overcome much of the discomfort from this debilitating disorder. Women whose migraine attacks occur in association with their menstrual cycle are likely to have fewer attacks and milder symptoms after menopause.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000194-4" qtype="research">what research (or clinical trials) is being done for Migraine ?</Question>
+			<Answer>Researchers believe that migraine is the result of fundamental neurological abnormalities caused by genetic mutations at work in the brain. New models are aiding scientists in studying the basic science involved in the biological cascade, genetic components and mechanisms of migraine. Understanding the causes of migraine as well as the events that effect them will give researchers the opportunity to develop and test drugs that could be more targeted to preventing or interrupting attacks entirely. Therapies currently being tested for their effectiveness in treating migraine include magnesium, coenzyme Q10, vitamin B12, riboflavin, fever-few, and butterbur. 
+                
+In 2010, a team of researchers found a common mutation in the gene TRESK which contains instructions for a certain potassium ion channel. Potassium channels are important for keeping a nerve cell at rest and mutations in them can lead to overactive cells that respond to much lower levels of pain. Large genetic analyses similar to the one used to identify TRESK will most likely lead to the identification of a number of other genes linked to migraine.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

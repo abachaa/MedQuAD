@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000186" source="NINDS" url="http://www.ninds.nih.gov/disorders/lupus/lupus.htm">
+<Focus>Neurological Sequelae Of Lupus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0543419</CUI>
+			<CUI>C0243088</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000186-1" qtype="information">What is (are) Neurological Sequelae Of Lupus ?</Question>
+			<Answer>Lupus (also called systemic lupus erythematosus) is a disorder of the immune system. Normally, the immune system protects the body against invading infections and cancers. In lupus, the immune system is over-active and produces increased amounts of abnormal antibodies that attack the body&apos;s tissues and organs. Lupus can affect many parts of the body, including the joints, skin, kidneys, lungs, heart, nervous system, and blood vessels. The signs and symptoms of lupus differ from person to person; the disease can range from mild to life threatening.
+                
+Initial symptoms of lupus may begin with a fever, vascular headaches, epilepsy, or psychoses. A striking feature of lupus is a butterfly shaped rash over the cheeks. In addition to headache, lupus can cause other neurological disorders, such as mild cognitive dysfunction, organic brain syndrome, peripheral neuropathies, sensory neuropathy, psychological problems (including personality changes, paranoia, mania, and schizophrenia), seizures, transverse myelitis, and paralysis and stroke.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000186-2" qtype="treatment">What are the treatments for Neurological Sequelae Of Lupus ?</Question>
+			<Answer>There is no cure for lupus. Treatment is symptomatic. With a combination of medication, rest, exercise, proper nutrition, and stress management, most individuals with lupus can often achieve remission or reduce their symptom levels. Medications used in the treatment of lupus may include aspirin and other nonsteroidal anti-inflammatory medications, antimalarials, corticosteroids, and immunosuppressive drugs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000186-3" qtype="outlook">What is the outlook for Neurological Sequelae Of Lupus ?</Question>
+			<Answer>The prognosis for lupus varies widely depending on the organs involved and the intensity of the inflammatory reaction. The course of lupus is commonly chronic and relapsing, often with long periods of remission. Most individuals with lupus do not develop serious health problems and have a normal lifespan with periodic doctor visits and treatments with various drugs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000186-4" qtype="research">what research (or clinical trials) is being done for Neurological Sequelae Of Lupus ?</Question>
+			<Answer>Investigators researching lupus seek to increase scientific understanding of the disorder and to find ways to treat, prevent, and ultimately, cure it. Several components of the National Institutes of Health support research on lupus.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

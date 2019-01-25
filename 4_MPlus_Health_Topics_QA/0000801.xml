@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000801" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/seasonalaffectivedisorder.html">
+<Focus>Seasonal Affective Disorder</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085159</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SAD</Synonym>
+		<Synonym>Seasonal depression</Synonym>
+		<Synonym>Seasonal mood disorder</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000801-1" qtype="information">What is (are) Seasonal Affective Disorder ?</Question>
+			<Answer>Some people experience a serious mood change during the winter months, when there is less natural sunlight. This condition is called seasonal affective disorder, or SAD. SAD is a type of depression. It usually lifts during spring and summer.     Not everyone with SAD has the same symptoms. They include       - Sad, anxious or &quot;empty&quot; feelings    - Feelings of hopelessness and/or pessimism    - Feelings of guilt, worthlessness or helplessness    - Irritability, restlessness    - Loss of interest or pleasure in activities you used to enjoy    - Fatigue and decreased energy    - Difficulty concentrating, remembering details and making decisions    - Difficulty sleeping or oversleeping    - Changes in weight    - Thoughts of death or suicide       SAD may be effectively treated with light therapy. But nearly half of people with SAD do not respond to light therapy alone. Antidepressant medicines and talk therapy can reduce SAD symptoms, either alone or combined with light therapy.    NIH: National Institute of Mental Health</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

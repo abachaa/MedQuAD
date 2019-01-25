@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000740" source="GHR" url="https://ghr.nlm.nih.gov/condition/north-american-indian-childhood-cirrhosis">
+<Focus>North American Indian childhood cirrhosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1858051</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NAIC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000740-1" qtype="information">What is (are) North American Indian childhood cirrhosis ?</Question>
+			<Answer>North American Indian childhood cirrhosis is a rare liver disorder that occurs in children. The liver malfunction causes yellowing of the skin and whites of the eyes (jaundice) in affected infants. The disorder worsens with age, progressively damaging the liver and leading to chronic, irreversible liver disease (cirrhosis) in childhood or adolescence. Unless it is treated with liver transplantation, North American Indian childhood cirrhosis typically causes life-threatening complications including liver failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000740-2" qtype="frequency">How many people are affected by North American Indian childhood cirrhosis ?</Question>
+			<Answer>North American Indian childhood cirrhosis has been found only in children of Ojibway-Cree descent in the Abitibi region of northwestern Quebec, Canada. At least 30 affected individuals from this population have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000740-3" qtype="genetic changes">What are the genetic changes related to North American Indian childhood cirrhosis ?</Question>
+			<Answer>North American Indian childhood cirrhosis results from at least one known mutation in the UTP4 gene. This gene provides instructions for making a protein called cirhin, whose precise function is unknown. Within cells, cirhin is located in a structure called the nucleolus, which is a small region inside the nucleus where ribosomal RNA (rRNA) is produced. A chemical cousin of DNA, rRNA is a molecule that helps assemble protein building blocks (amino acids) into functioning proteins. Researchers believe that cirhin may play a role in processing rRNA. Studies also suggest that cirhin may function by interacting with other proteins.  Cirhin is found in many different types of cells, so it is unclear why the effects of North American Indian childhood cirrhosis appear to be limited to the liver. Researchers are working to determine how a UTP4 gene mutation causes the progressive liver damage characteristic of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000740-4" qtype="inheritance">Is North American Indian childhood cirrhosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000740-5" qtype="treatment">What are the treatments for North American Indian childhood cirrhosis ?</Question>
+			<Answer>These resources address the diagnosis or management of North American Indian childhood cirrhosis:  - Children&apos;s Organ Transplant Association  - Genetic Testing Registry: North american indian childhood cirrhosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

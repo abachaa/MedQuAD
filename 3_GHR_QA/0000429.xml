@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000429" source="GHR" url="https://ghr.nlm.nih.gov/condition/gm1-gangliosidosis">
+<Focus>GM1 gangliosidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017083</CUI>
+			<CUI>C0085131</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>beta-galactosidase-1 (GLB1) deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000429-1" qtype="information">What is (are) GM1 gangliosidosis ?</Question>
+			<Answer>GM1 gangliosidosis is an inherited disorder that progressively destroys nerve cells (neurons) in the brain and spinal cord. Some researchers classify this condition into three major types based on the age at which signs and symptoms first appear. Although the three types differ in severity, their features can overlap significantly. Because of this overlap, other researchers believe that GM1 gangliosidosis represents a continuous disease spectrum instead of three distinct types.  The signs and symptoms of the most severe form of GM1 gangliosidosis, called type I or the infantile form, usually become apparent by the age of 6 months. Infants with this form of the disorder typically appear normal until their development slows and muscles used for movement weaken. Affected infants eventually lose the skills they had previously acquired (developmentally regress) and may develop an exaggerated startle reaction to loud noises. As the disease progresses, children with GM1 gangliosidosis type I develop an enlarged liver and spleen (hepatosplenomegaly), skeletal abnormalities, seizures, profound intellectual disability, and clouding of the clear outer covering of the eye (the cornea). Loss of vision occurs as the light-sensing tissue at the back of the eye (the retina) gradually deteriorates. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. In some cases, affected individuals have distinctive facial features that are described as &quot;coarse,&quot; enlarged gums (gingival hypertrophy), and an enlarged and weakened heart muscle (cardiomyopathy). Individuals with GM1 gangliosidosis type I usually do not survive past early childhood.  Type II GM1 gangliosidosis consists of intermediate forms of the condition, also known as the late infantile and juvenile forms. Children with GM1 gangliosidosis type II have normal early development, but they begin to develop signs and symptoms of the condition around the age of 18 months (late infantile form) or 5 years (juvenile form). Individuals with GM1 gangliosidosis type II experience developmental regression but usually do not have cherry-red spots, distinctive facial features, or enlarged organs. Type II usually progresses more slowly than type I, but still causes a shortened life expectancy. People with the late infantile form typically survive into mid-childhood, while those with the juvenile form may live into early adulthood.  The third type of GM1 gangliosidosis is known as the adult or chronic form, and it represents the mildest end of the disease spectrum. The age at which symptoms first appear varies in GM1 gangliosidosis type III, although most affected individuals develop signs and symptoms in their teens. The characteristic features of this type include involuntary tensing of various muscles (dystonia) and abnormalities of the spinal bones (vertebrae). Life expectancy varies among people with GM1 gangliosidosis type III.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000429-2" qtype="frequency">How many people are affected by GM1 gangliosidosis ?</Question>
+			<Answer>GM1 gangliosidosis is estimated to occur in 1 in 100,000 to 200,000 newborns. Type I is reported more frequently than the other forms of this condition. Most individuals with type III are of Japanese descent.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000429-3" qtype="genetic changes">What are the genetic changes related to GM1 gangliosidosis ?</Question>
+			<Answer>Mutations in the GLB1 gene cause GM1 gangliosidosis. The GLB1 gene provides instructions for making an enzyme called beta-galactosidase (-galactosidase), which plays a critical role in the brain. This enzyme is located in lysosomes, which are compartments within cells that break down and recycle different types of molecules. Within lysosomes, -galactosidase helps break down several molecules, including a substance called GM1 ganglioside. GM1 ganglioside is important for normal functioning of nerve cells in the brain.  Mutations in the GLB1 gene reduce or eliminate the activity of -galactosidase. Without enough functional -galactosidase, GM1 ganglioside cannot be broken down when it is no longer needed. As a result, this substance accumulates to toxic levels in many tissues and organs, particularly in the brain. Progressive damage caused by the buildup of GM1 ganglioside leads to the destruction of nerve cells in the brain, causing many of the signs and symptoms of GM1 gangliosidosis. In general, the severity of GM1 gangliosidosis is related to the level of -galactosidase activity. Individuals with higher enzyme activity levels usually have milder signs and symptoms than those with lower activity levels because they have less accumulation of GM1 ganglioside within the body.  Conditions such as GM1 gangliosidosis that cause molecules to build up inside the lysosomes are called lysosomal storage disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000429-4" qtype="inheritance">Is GM1 gangliosidosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000429-5" qtype="treatment">What are the treatments for GM1 gangliosidosis ?</Question>
+			<Answer>These resources address the diagnosis or management of GM1 gangliosidosis:  - Genetic Testing Registry: Gangliosidosis GM1 type 3  - Genetic Testing Registry: Gangliosidosis generalized GM1 type 1  - Genetic Testing Registry: Infantile GM1 gangliosidosis  - Genetic Testing Registry: Juvenile GM&gt;1&lt; gangliosidosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

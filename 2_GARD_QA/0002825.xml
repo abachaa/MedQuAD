@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002825" source="GARD" url="https://rarediseases.info.nih.gov/gard/6622/hereditary-fructose-intolerance">
+<Focus>Hereditary fructose intolerance</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016751</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fructose-1-phosphate aldolase deficiency</Synonym>
+		<Synonym>ALDOB deficiency</Synonym>
+		<Synonym>Aldolase B deficiency</Synonym>
+		<Synonym>Fructose-1,6-bisphosphate aldolase B deficiency</Synonym>
+		<Synonym>Fructose intolerance, hereditary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002825-1" qtype="information">What is (are) Hereditary fructose intolerance ?</Question>
+			<Answer>Hereditary fructose intolerance (HFI) is a metabolic disease caused by the absence of an enzyme called aldolase B. In people with HFI, ingestion of fructose (fruit sugar) and sucrose (cane or beet sugar, table sugar) causes severe hypoglycemia (low blood sugar) and the build up of dangerous substances in the liver. HFI may be relatively mild or a very severe disease. The condition is caused by mutations in the ALDOB gene. It is inherited in an autosomal recessive pattern. Treatment involves eliminating fructose and sucrose from the diet. In the severe form, eliminating these sugars from the diet may not prevent progressive liver disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002825-2" qtype="symptoms">What are the symptoms of Hereditary fructose intolerance ?</Question>
+			<Answer>What are the signs and symptoms of Hereditary fructose intolerance? The symptoms of HFI include: Poor feeding as a baby Irritability Increased or prolonged neonatal jaundice Vomiting Convulsions Excessive sleepiness Intolerance for fruits Avoidance of fruits and fructose/sucrose-containing foods Doing well after eating foods without fructose/sucrose The early symptoms of fructose intolerance may resemble those of galactosemia: irritability, jaundice, vomiting, convulsions and an enlarged liver and spleen. Later problems relate more to liver disease. The Human Phenotype Ontology provides the following list of signs and symptoms for Hereditary fructose intolerance. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal pain - Autosomal recessive inheritance - Bicarbonaturia - Cirrhosis - Coma - Elevated hepatic transaminases - Failure to thrive - Fructose intolerance - Gastrointestinal hemorrhage - Glycosuria - Hepatic steatosis - Hepatomegaly - Hyperbilirubinemia - Hyperphosphaturia - Hyperuricemia - Hyperuricosuria - Hypoglycemia - Hypophosphatemia - Intellectual disability - Jaundice - Lactic acidosis - Lethargy - Malnutrition - Metabolic acidosis - Nausea - Proximal renal tubular acidosis - Proximal tubulopathy - Seizures - Transient aminoaciduria - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002825-3" qtype="causes">What causes Hereditary fructose intolerance ?</Question>
+			<Answer>What causes hereditary fructose intolerance (HFI)? HFI is caused by alterations (mutations) in the ALDOB gene. This gene provides instructions for making an enzyme called aldolase B. This enzyme is primarily found in the liver and is involved in the breakdown of fructose into energy. Mutations in the ALDOB gene reduce the function of the enzyme, impairing its ability to metabolize fructose. This causes a toxic buildup of fructose-1-phosphate in liver cells, which results in the death of liver cells over time.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002825-4" qtype="inheritance">Is Hereditary fructose intolerance inherited ?</Question>
+			<Answer>How is hereditary fructose intolerance (HFI) inherited? HFI is inherited in an autosomal recessive manner, which means alterations (mutations) are present in both copies of the ALDOB gene. The parents of an individual with HFI each carry one copy of the mutated gene, but they typicaly do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002825-5" qtype="treatment">What are the treatments for Hereditary fructose intolerance ?</Question>
+			<Answer>How is hereditary fructose intolerance (HFI) treated? Complete elimination of fructose and sucrose from the diet is an effective treatment for most people, although this can be challenging. More information on treatment for HFI is available from the HFI Laboratory at Boston University at the following link. This page includes information on what people with HFI can and cannot eat. http://www.bu.edu/aldolase/HFI/treatment/ Additional information on foods to avoid if you have HFI is available from the Mayo clinic. http://www.mayoclinic.com/health/fructose-intolerance/AN01574</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

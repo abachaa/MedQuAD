@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001051" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-dystonia-parkinsonism">
+<Focus>X-linked dystonia-parkinsonism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242422</CUI>
+			<CUI>C0013421</CUI>
+			<CUI>C0393593</CUI>
+			<CUI>C1839130</CUI>
+			<CUI>C3537200</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dystonia 3, torsion, X-linked</Synonym>
+		<Synonym>dystonia musculorum deformans</Synonym>
+		<Synonym>Dystonia-parkinsonism, X-linked</Synonym>
+		<Synonym>DYT3</Synonym>
+		<Synonym>Lubag</Synonym>
+		<Synonym>Torsion dystonia-parkinsonism, Filipino type</Synonym>
+		<Synonym>X-linked dystonia-parkinsonism syndrome</Synonym>
+		<Synonym>X-linked torsion dystonia-parkinsonism syndrome</Synonym>
+		<Synonym>XDP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001051-1" qtype="information">What is (are) X-linked dystonia-parkinsonism ?</Question>
+			<Answer>X-linked dystonia-parkinsonism is a movement disorder that has been found only in people of Filipino descent. This condition affects men much more often than women.  Parkinsonism is usually the first sign of X-linked dystonia-parkinsonism. Parkinsonism is a group of movement abnormalities including tremors, unusually slow movement (bradykinesia), rigidity, an inability to hold the body upright and balanced (postural instability), and a shuffling gait that can cause recurrent falls.  Later in life, many affected individuals also develop a pattern of involuntary, sustained muscle contractions known as dystonia. The dystonia associated with X-linked dystonia-parkinsonism typically starts in one area, most often the eyes, jaw, or neck, and later spreads to other parts of the body. The continuous muscle cramping and spasms can be disabling. Depending on which muscles are affected, widespread (generalized) dystonia can cause difficulty with speaking, swallowing, coordination, and walking.  The signs and symptoms of X-linked dystonia-parkinsonism vary widely. In the mildest cases, affected individuals have slowly progressive parkinsonism with little or no dystonia. More severe cases involve dystonia that rapidly becomes generalized. These individuals become dependent on others for care within a few years after signs and symptoms appear, and they may die prematurely from breathing difficulties, infections (such as aspiration pneumonia), or other complications.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001051-2" qtype="frequency">How many people are affected by X-linked dystonia-parkinsonism ?</Question>
+			<Answer>X-linked dystonia-parkinsonism has been reported in more than 500 people of Filipino descent, although it is likely that many more Filipinos are affected. Most people with this condition can trace their mother&apos;s ancestry to the island of Panay in the Philippines. The prevalence of the disorder is 5.24 per 100,000 people on the island of Panay.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001051-3" qtype="genetic changes">What are the genetic changes related to X-linked dystonia-parkinsonism ?</Question>
+			<Answer>Mutations in and near the TAF1 gene can cause X-linked dystonia-parkinsonism. The TAF1 gene provides instructions for making part of a protein called transcription factor IID (TFIID). This protein is active in cells and tissues throughout the body, where it plays an essential role in regulating the activity of most genes.  The TAF1 gene is part of a complex region of DNA known as the TAF1/DYT3 multiple transcript system. This region consists of short stretches of DNA from the TAF1 gene plus some extra segments of genetic material near the gene. These stretches of DNA can be combined in different ways to create various sets of instructions for making proteins. Researchers believe that some of these variations are critical for the normal function of nerve cells (neurons) in the brain.  Several changes in the TAF1/DYT3 multiple transcript system have been identified in people with X-linked dystonia-parkinsonism. Scientists are uncertain how these changes are related to the movement abnormalities characteristic of this disease. However, they suspect that the changes disrupt the regulation of critical genes in neurons. This defect leads to the eventual death of these cells, particularly in areas of the brain called the caudate nucleus and putamen. These regions are critical for normal movement, learning, and memory. It is unclear why the effects of changes in the TAF1/DYT3 multiple transcript system appear to be limited to dystonia and parkinsonism.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001051-4" qtype="inheritance">Is X-linked dystonia-parkinsonism inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation typically must occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, females with one altered copy of the gene in each cell are called carriers. They can pass on the gene to their children, but they usually do not experience signs and symptoms of the disorder. However, a few females carrying one altered copy of the TAF1 gene have developed movement abnormalities associated with X-linked dystonia-parkinsonism. These movement problems tend to be milder than those seen in affected men, and they are usually not progressive or disabling.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001051-5" qtype="treatment">What are the treatments for X-linked dystonia-parkinsonism ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked dystonia-parkinsonism:  - Gene Review: Gene Review: X-Linked Dystonia-Parkinsonism Syndrome  - Genetic Testing Registry: Dystonia 3, torsion, X-linked   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

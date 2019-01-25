@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000410" source="GHR" url="https://ghr.nlm.nih.gov/condition/glanzmann-thrombasthenia">
+<Focus>Glanzmann thrombasthenia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040015</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deficiency of glycoprotein complex IIb-IIIa</Synonym>
+		<Synonym>deficiency of platelet fibrinogen receptor</Synonym>
+		<Synonym>Glanzmann disease</Synonym>
+		<Synonym>Glanzmann-Naegeli disorder</Synonym>
+		<Synonym>glycoprotein IIb/IIIa defect</Synonym>
+		<Synonym>hereditary hemorrhagic thrombasthenia</Synonym>
+		<Synonym>hereditary thrombasthenia</Synonym>
+		<Synonym>platelet fibrinogen receptor deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000410-1" qtype="information">What is (are) Glanzmann thrombasthenia ?</Question>
+			<Answer>Glanzmann thrombasthenia is a bleeding disorder that is characterized by prolonged or spontaneous bleeding starting from birth. People with Glanzmann thrombasthenia tend to bruise easily, have frequent nosebleeds (epistaxis), and may bleed from the gums. They may also develop red or purple spots on the skin caused by bleeding underneath the skin (petechiae) or swelling caused by bleeding within tissues (hematoma). Glanzmann thrombasthenia can also cause prolonged bleeding following injury, trauma, or surgery (including dental work). Women with this condition can have prolonged and sometimes abnormally heavy menstrual bleeding. Affected women also have an increased risk of excessive blood loss during pregnancy and childbirth.  About a quarter of individuals with Glanzmann thrombasthenia have bleeding in the gastrointestinal tract, which often occurs later in life. Rarely, affected individuals have bleeding inside the skull (intracranial hemorrhage) or joints (hemarthrosis).  The severity and frequency of the bleeding episodes in Glanzmann thrombasthenia can vary greatly among affected individuals, even in the same family. Spontaneous bleeding tends to become less frequent with age.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000410-2" qtype="frequency">How many people are affected by Glanzmann thrombasthenia ?</Question>
+			<Answer>Glanzmann thrombasthenia is estimated to affect 1 in one million individuals worldwide, but may be more common in certain groups, including those of Romani ethnicity, particularly people within the French Manouche community.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000410-3" qtype="genetic changes">What are the genetic changes related to Glanzmann thrombasthenia ?</Question>
+			<Answer>Mutations in the ITGA2B or ITGB3 gene cause Glanzmann thrombasthenia. These genes provide instructions for making the two parts (subunits) of a receptor protein called integrin alphaIIb/beta3 (IIb3). This protein is abundant on the surface of platelets. Platelets are small cell fragments that circulate in blood and are an essential component of blood clots. During clot formation, integrin IIb3 helps platelets bind together. Blood clots protect the body after injury by sealing off damaged blood vessels and preventing further blood loss.  ITGA2B or ITGB3 gene mutations result in a shortage (deficiency) of functional integrin IIb3. As a result, platelets cannot clump together to form a blood clot, leading to prolonged bleeding.  Three types of Glanzmann thrombasthenia have been classified according to the amount of integrin IIb3 that is available. People with type I (the most common type) have less than 5 percent of normal integrin IIb3 levels, people with type II have between 5 and 20 percent of normal integrin IIb3 levels, and people with the variant type have adequate integrin IIb3 levels but produce only nonfunctional integrin.  Some people with Glanzmann thrombasthenia do not have an identified mutation in either the ITGA2B or ITGB3 gene; the cause of the disorder in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000410-4" qtype="inheritance">Is Glanzmann thrombasthenia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000410-5" qtype="treatment">What are the treatments for Glanzmann thrombasthenia ?</Question>
+			<Answer>These resources address the diagnosis or management of Glanzmann thrombasthenia:  - CLIMB Glanzmann Thrombasthenia Info Sheet  - Canadian Hemophilia Society: Glanzmann Thrombasthenia Information Booklet  - Genetic Testing Registry: Glanzmann&apos;s thrombasthenia  - MedlinePlus Encyclopedia: Glanzmann&apos;s Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000214" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-afibrinogenemia">
+<Focus>congenital afibrinogenemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019250</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>afibrinogenemia</Synonym>
+		<Synonym>familial afibrinogenemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000214-1" qtype="information">What is (are) congenital afibrinogenemia ?</Question>
+			<Answer>Congenital afibrinogenemia is a bleeding disorder caused by impairment of the blood clotting process. Normally, blood clots protect the body after an injury by sealing off damaged blood vessels and preventing further blood loss. However, bleeding is uncontrolled in people with congenital afibrinogenemia. Newborns with this condition often experience prolonged bleeding from the umbilical cord stump after birth. Nosebleeds (epistaxis) and bleeding from the gums or tongue are common and can occur after minor trauma or in the absence of injury (spontaneous bleeding). Some affected individuals experience bleeding into the spaces between joints (hemarthrosis) or the muscles (hematoma). Rarely, bleeding in the brain or other internal organs occurs, which can be fatal. Women with congenital afibrinogenemia can have abnormally heavy menstrual bleeding (menorrhagia). Without proper treatment, women with this disorder may have difficulty carrying a pregnancy to term, resulting in repeated miscarriages.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000214-2" qtype="frequency">How many people are affected by congenital afibrinogenemia ?</Question>
+			<Answer>Congenital afibrinogenemia is a rare condition that occurs in approximately 1 in 1 million newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000214-3" qtype="genetic changes">What are the genetic changes related to congenital afibrinogenemia ?</Question>
+			<Answer>Congenital afibrinogenemia results from mutations in one of three genes, FGA, FGB, or FGG. Each of these genes provides instructions for making one part (subunit) of a protein called fibrinogen. This protein is important for blood clot formation (coagulation), which is needed to stop excessive bleeding after injury. In response to injury, fibrinogen is converted to fibrin, the main protein in blood clots. Fibrin proteins attach to each other, forming a stable network that makes up the blood clot.  Congenital afibrinogenemia is caused by a complete absence of fibrinogen protein. Most FGA, FGB, and FGG gene mutations that cause this condition result in a premature stop signal in the instructions for making the respective protein. If any protein is made, it is nonfunctional. When any one subunit is missing, the fibrinogen protein is not assembled, which results in the absence of fibrin. Consequently, blood clots do not form in response to injury, leading to the excessive bleeding seen in people with congenital afibrinogenemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000214-4" qtype="inheritance">Is congenital afibrinogenemia inherited ?</Question>
+			<Answer>Congenital afibrinogenemia is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene. The parents have about half the normal level of fibrinogen in their blood but typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000214-5" qtype="treatment">What are the treatments for congenital afibrinogenemia ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital afibrinogenemia:  - Genetic Testing Registry: Hereditary factor I deficiency disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

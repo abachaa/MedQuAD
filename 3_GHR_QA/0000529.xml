@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000529" source="GHR" url="https://ghr.nlm.nih.gov/condition/iron-refractory-iron-deficiency-anemia">
+<Focus>iron-refractory iron deficiency anemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085576</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>anemia, hypochromic microcytic, with defect in iron metabolism</Synonym>
+		<Synonym>IRIDA</Synonym>
+		<Synonym>IRIDA syndrome</Synonym>
+		<Synonym>iron-handling disorder, hereditary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000529-1" qtype="information">What is (are) iron-refractory iron deficiency anemia ?</Question>
+			<Answer>Iron-refractory iron deficiency anemia is one of many types of anemia, which is a group of conditions characterized by a shortage of healthy red blood cells. This shortage prevents the blood from carrying an adequate supply of oxygen to the body&apos;s tissues.  Iron-refractory iron deficiency anemia results from an inadequate amount (deficiency) of iron in the bloodstream. It is described as &quot;iron-refractory&quot; because the condition is totally resistant (refractory) to treatment with iron given orally and partially resistant to iron given in other ways, such as intravenously (by IV). In people with this form of anemia, red blood cells are abnormally small (microcytic) and pale (hypochromic). The symptoms of iron-refractory iron deficiency anemia can include tiredness (fatigue), weakness, pale skin, and other complications. These symptoms are most pronounced during childhood, although they tend to be mild. Affected individuals usually have normal growth and development.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000529-2" qtype="frequency">How many people are affected by iron-refractory iron deficiency anemia ?</Question>
+			<Answer>Although iron deficiency anemia is relatively common, the prevalence of the iron-refractory form of the disease is unknown. At least 50 cases have been described in the medical literature. Researchers suspect that iron-refractory iron deficiency anemia is underdiagnosed because affected individuals with very mild symptoms may never come to medical attention.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000529-3" qtype="genetic changes">What are the genetic changes related to iron-refractory iron deficiency anemia ?</Question>
+			<Answer>Mutations in the TMPRSS6 gene cause iron-refractory iron deficiency anemia. This gene provides instructions for making a protein called matriptase-2, which helps regulate iron levels in the body. TMPRSS6 gene mutations reduce or eliminate functional matriptase-2, which disrupts iron regulation and leads to a shortage of iron in the bloodstream. Iron is an essential component of hemoglobin, which is the molecule in red blood cells that carries oxygen. When not enough iron is available in the bloodstream, less hemoglobin is produced, causing red blood cells to be abnormally small and pale. The abnormal cells cannot carry oxygen effectively to the body&apos;s cells and tissues, which leads to fatigue, weakness, and other symptoms of anemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000529-4" qtype="inheritance">Is iron-refractory iron deficiency anemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000529-5" qtype="treatment">What are the treatments for iron-refractory iron deficiency anemia ?</Question>
+			<Answer>These resources address the diagnosis or management of iron-refractory iron deficiency anemia:  - National Heart, Lung, and Blood Institute: How is Anemia Diagnosed?  - National Heart, Lung, and Blood Institute: How is Anemia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

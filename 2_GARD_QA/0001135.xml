@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001135" source="GARD" url="https://rarediseases.info.nih.gov/gard/5845/chiari-malformation">
+<Focus>Chiari malformation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003803</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Arnold-Chiari malformations</Synonym>
+		<Synonym>Arnold Chiari malformation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001135-1" qtype="information">What is (are) Chiari malformation ?</Question>
+			<Answer>Chiari malformations are structural defects in the cerebellum, the part of the brain that controls balance. When the indented bony space at the lower rear of the skull is smaller than normal, the cerebellum and brainstem can be pushed downward. The resulting pressure on the cerebellum can block the flow of cerebrospinal fluid (the liquid that surrounds and protects the brain and spinal cord) and can cause a range of symptoms including dizziness, muscle weakness, numbness, vision problems, headache, and problems with balance and coordination. Treatment may require surgery. Many patients with the more severe types of Chiari malformations who undergo surgery see a reduction in their symptoms and/or prolonged periods of relative stability, however paralysis is generally permanent despite surgery. There are four types of Chiari malformations. The types tend to correspond with the degree of severity, with type 1 being the most common and least severe. Some people with type 1 have no symptoms and do not require treatment. Chiari malformation type 1 Chiari malformation type 2 Chiari malformation type 3 Chiari malformation type 4</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001135-2" qtype="symptoms">What are the symptoms of Chiari malformation ?</Question>
+			<Answer>What are the signs and symptoms of Chiari malformation? The Human Phenotype Ontology provides the following list of signs and symptoms for Chiari malformation. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Areflexia of upper limbs - Arnold-Chiari type I malformation - Autosomal dominant inheritance - Babinski sign - Basilar impression - Diplopia - Dysarthria - Dysphagia - Gait ataxia - Headache - Hearing impairment - Hyperacusis - Limb muscle weakness - Lower limb hyperreflexia - Lower limb spasticity - Nystagmus - Paresthesia - Photophobia - Scoliosis - Small flat posterior fossa - Syringomyelia - Tinnitus - Unsteady gait - Urinary incontinence - Vertigo - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

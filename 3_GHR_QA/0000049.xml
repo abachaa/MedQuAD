@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000049" source="GHR" url="https://ghr.nlm.nih.gov/condition/amelogenesis-imperfecta">
+<Focus>amelogenesis imperfecta</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002452</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AI</Synonym>
+		<Synonym>congenital enamel hypoplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000049-1" qtype="information">What is (are) amelogenesis imperfecta ?</Question>
+			<Answer>Amelogenesis imperfecta is a disorder of tooth development. This condition causes teeth to be unusually small, discolored, pitted or grooved, and prone to rapid wear and breakage. Other dental abnormalities are also possible. These defects, which vary among affected individuals, can affect both primary (baby) teeth and permanent (adult) teeth.  Researchers have described at least 14 forms of amelogenesis imperfecta. These types are distinguished by their specific dental abnormalities and by their pattern of inheritance. Additionally, amelogenesis imperfecta can occur alone without any other signs and symptoms or it can occur as part of a syndrome that affects multiple parts of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000049-2" qtype="frequency">How many people are affected by amelogenesis imperfecta ?</Question>
+			<Answer>The exact incidence of amelogenesis imperfecta is uncertain. Estimates vary widely, from 1 in 700 people in northern Sweden to 1 in 14,000 people in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000049-3" qtype="genetic changes">What are the genetic changes related to amelogenesis imperfecta ?</Question>
+			<Answer>Mutations in the AMELX, ENAM, MMP20, and FAM83H genes can cause amelogenesis imperfecta. The AMELX, ENAM, and MMP20 genes provide instructions for making proteins that are essential for normal tooth development. Most of these proteins are involved in the formation of enamel, which is the hard, calcium-rich material that forms the protective outer layer of each tooth. Although the function of the protein produced from the FAM83H gene is unknown, it is also believed to be involved in the formation of enamel. Mutations in any of these genes result in altered protein structure or prevent the production of any protein. As a result, tooth enamel is abnormally thin or soft and may have a yellow or brown color. Teeth with defective enamel are weak and easily damaged.  Mutations in the genes described above account for only about half of all cases of the condition, with FAM83H gene mutations causing the majority of these cases. In the remaining cases, the genetic cause has not been identified. Researchers are working to find mutations in other genes that are involved in this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000049-4" qtype="inheritance">Is amelogenesis imperfecta inherited ?</Question>
+			<Answer>Amelogenesis imperfecta can have different inheritance patterns depending on the gene that is altered. Many cases are caused by mutations in the FAM83H gene and are inherited in an autosomal dominant pattern. This type of inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. Some cases caused by mutations in the ENAM gene also have an autosomal dominant inheritance pattern.  Amelogenesis imperfecta can also be inherited in an autosomal recessive pattern; this form of the disorder can result from mutations in the ENAM or MMP20 gene. Autosomal recessive inheritance means two copies of the gene in each cell are altered. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  About 5 percent of amelogenesis imperfecta cases are caused by mutations in the AMELX gene and are inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In most cases, males with X-linked amelogenesis imperfecta experience more severe dental abnormalities than females with this form of this condition.  Other cases of amelogenesis imperfecta result from new gene mutations and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000049-5" qtype="treatment">What are the treatments for amelogenesis imperfecta ?</Question>
+			<Answer>These resources address the diagnosis or management of amelogenesis imperfecta:  - Genetic Testing Registry: Amelogenesis imperfecta - hypoplastic autosomal dominant - local  - Genetic Testing Registry: Amelogenesis imperfecta, hypocalcification type  - Genetic Testing Registry: Amelogenesis imperfecta, type 1E  - Genetic Testing Registry: Amelogenesis imperfecta, type IC  - MedlinePlus Encyclopedia: Amelogenesis imperfecta  - MedlinePlus Encyclopedia: Tooth - Abnormal Colors   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

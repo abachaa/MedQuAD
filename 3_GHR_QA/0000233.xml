@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000233" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-leptin-deficiency">
+<Focus>congenital leptin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3838754</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LEPD</Synonym>
+		<Synonym>leptin deficiency</Synonym>
+		<Synonym>obesity due to congenital leptin deficiency</Synonym>
+		<Synonym>obesity, morbid, due to leptin deficiency</Synonym>
+		<Synonym>obesity, morbid, nonsyndromic 1</Synonym>
+		<Synonym>obesity, severe, due to leptin deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000233-1" qtype="information">What is (are) congenital leptin deficiency ?</Question>
+			<Answer>Congenital leptin deficiency is a condition that causes severe obesity beginning in the first few months of life. Affected individuals are of normal weight at birth, but they are constantly hungry and quickly gain weight. Without treatment, the extreme hunger continues and leads to chronic excessive eating (hyperphagia) and obesity. Beginning in early childhood, affected individuals develop abnormal eating behaviors such as fighting with other children over food, hoarding food, and eating in secret.  People with congenital leptin deficiency also have hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development. Without treatment, affected individuals experience delayed puberty or do not go through puberty, and may be unable to conceive children (infertile).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000233-2" qtype="frequency">How many people are affected by congenital leptin deficiency ?</Question>
+			<Answer>Congenital leptin deficiency is a rare disorder. Only a few dozen cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000233-3" qtype="genetic changes">What are the genetic changes related to congenital leptin deficiency ?</Question>
+			<Answer>Congenital leptin deficiency is caused by mutations in the LEP gene. This gene provides instructions for making a hormone called leptin, which is involved in the regulation of body weight. Normally, the body&apos;s fat cells release leptin in proportion to their size. As fat accumulates in cells, more leptin is produced. This rise in leptin indicates that fat stores are increasing.  Leptin attaches (binds) to and activates a protein called the leptin receptor, fitting into the receptor like a key into a lock. The leptin receptor protein is found on the surface of cells in many organs and tissues of the body including a part of the brain called the hypothalamus. The hypothalamus controls hunger and thirst as well as other functions such as sleep, moods, and body temperature. It also regulates the release of many hormones that have functions throughout the body. In the hypothalamus, the binding of leptin to its receptor triggers a series of chemical signals that affect hunger and help produce a feeling of fullness (satiety).  LEP gene mutations that cause congenital leptin deficiency lead to an absence of leptin. As a result, the signaling that triggers feelings of satiety does not occur, leading to the excessive hunger and weight gain associated with this disorder. Because hypogonadotropic hypogonadism occurs in congenital leptin deficiency, researchers suggest that leptin signaling is also involved in regulating the hormones that control sexual development. However, the specifics of this involvement and how it may be altered in congenital leptin deficiency are unknown.  Congenital leptin deficiency is a rare cause of obesity. Researchers are studying the factors involved in more common forms of obesity.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000233-4" qtype="inheritance">Is congenital leptin deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000233-5" qtype="treatment">What are the treatments for congenital leptin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital leptin deficiency:  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: How Are Obesity and Overweight Diagnosed?  - Genetic Testing Registry: Obesity, severe, due to leptin deficiency  - Genetics of Obesity Study  - National Heart, Lung, and Blood Institute: How Are Overweight and Obesity Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

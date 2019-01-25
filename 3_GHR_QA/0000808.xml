@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000808" source="GHR" url="https://ghr.nlm.nih.gov/condition/pompe-disease">
+<Focus>Pompe disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017921</CUI>
+			<CUI>C0342751</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acid maltase deficiency</Synonym>
+		<Synonym>acid maltase deficiency disease</Synonym>
+		<Synonym>alpha-1,4-glucosidase deficiency</Synonym>
+		<Synonym>AMD</Synonym>
+		<Synonym>deficiency of alpha-glucosidase</Synonym>
+		<Synonym>GAA deficiency</Synonym>
+		<Synonym>glycogen storage disease type II</Synonym>
+		<Synonym>glycogenosis Type II</Synonym>
+		<Synonym>GSD II</Synonym>
+		<Synonym>GSD2</Synonym>
+		<Synonym>Pompe's disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000808-1" qtype="information">What is (are) Pompe disease ?</Question>
+			<Answer>Pompe disease is an inherited disorder caused by the buildup of a complex sugar called glycogen in the body&apos;s cells. The accumulation of glycogen in certain organs and tissues, especially muscles, impairs their ability to function normally.  Researchers have described three types of Pompe disease, which differ in severity and the age at which they appear. These types are known as classic infantile-onset, non-classic infantile-onset, and late-onset.  The classic form of infantile-onset Pompe disease begins within a few months of birth. Infants with this disorder typically experience muscle weakness (myopathy), poor muscle tone (hypotonia), an enlarged liver (hepatomegaly), and heart defects. Affected infants may also fail to gain weight and grow at the expected rate (failure to thrive) and have breathing problems. If untreated, this form of Pompe disease leads to death from heart failure in the first year of life.  The non-classic form of infantile-onset Pompe disease usually appears by age 1. It is characterized by delayed motor skills (such as rolling over and sitting) and progressive muscle weakness. The heart may be abnormally large (cardiomegaly), but affected individuals usually do not experience heart failure. The muscle weakness in this disorder leads to serious breathing problems, and most children with non-classic infantile-onset Pompe disease live only into early childhood.  The late-onset type of Pompe disease may not become apparent until later in childhood, adolescence, or adulthood. Late-onset Pompe disease is usually milder than the infantile-onset forms of this disorder and is less likely to involve the heart. Most individuals with late-onset Pompe disease experience progressive muscle weakness, especially in the legs and the trunk, including the muscles that control breathing. As the disorder progresses, breathing problems can lead to respiratory failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000808-2" qtype="frequency">How many people are affected by Pompe disease ?</Question>
+			<Answer>Pompe disease affects about 1 in 40,000 people in the United States. The incidence of this disorder varies among different ethnic groups.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000808-3" qtype="genetic changes">What are the genetic changes related to Pompe disease ?</Question>
+			<Answer>Mutations in the GAA gene cause Pompe disease. The GAA gene provides instructions for producing an enzyme called acid alpha-glucosidase (also known as acid maltase). This enzyme is active in lysosomes, which are structures that serve as recycling centers within cells. The enzyme normally breaks down glycogen into a simpler sugar called glucose, which is the main energy source for most cells.  Mutations in the GAA gene prevent acid alpha-glucosidase from breaking down glycogen effectively, which allows this sugar to build up to toxic levels in lysosomes. This buildup damages organs and tissues throughout the body, particularly the muscles, leading to the progressive signs and symptoms of Pompe disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000808-4" qtype="inheritance">Is Pompe disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000808-5" qtype="treatment">What are the treatments for Pompe disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Pompe disease:  - Baby&apos;s First Test  - Gene Review: Gene Review: Glycogen Storage Disease Type II (Pompe Disease)  - Genetic Testing Registry: Glycogen storage disease type II, infantile  - Genetic Testing Registry: Glycogen storage disease, type II   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

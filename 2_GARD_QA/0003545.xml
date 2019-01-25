@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003545" source="GARD" url="https://rarediseases.info.nih.gov/gard/1100/leopard-syndrome">
+<Focus>LEOPARD syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175704</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lentigines, Electrocardiographic conduction abnormalities, Ocular hypertelorism, Pulmonic stenosis, Abnormal genitalia, Retardation of growth, Deafnes</Synonym>
+		<Synonym>Multiple lentigines syndrome</Synonym>
+		<Synonym>Cardiomyopathic lentiginosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003545-1" qtype="information">What is (are) LEOPARD syndrome ?</Question>
+			<Answer>LEOPARD syndrome is an inherited condition characterized by abnormalities of the skin, heart, inner ears, and genitalia. The acronym LEOPARD describes the characteristic features associated with this condition: (L)entigines (multiple dark spots on the skin; (E)lectrocardiographic conduction defects (abnormalities of the electrical activity of the heart); (O)cular hypertelorism (widely spaced eyes); (P)ulmonary stenosis (obstruction of the normal outflow of blood from the right ventricle of the heart); (A)bnormalities of the genitalia; (R)etarded growth resulting in short stature; and (D)eafness or hearing loss. There are three types of LEOPARD syndrome, which are distinguished by their underlying genetic cause. LEOPARD syndrome type 1 is caused by mutations in the PTPN11 gene; type 2 is caused by mutations in the RAF1 gene; and type 3 is caused by mutations in the BRAF gene. Some cases are inherited from a parent in an autosomal dominant pattern. Other times, LEOPARD syndrome occurs in people without a family history of the condition due to a new gene mutation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003545-2" qtype="symptoms">What are the symptoms of LEOPARD syndrome ?</Question>
+			<Answer>What are the signs and symptoms of LEOPARD syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for LEOPARD syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the pulmonary artery 90% Abnormality of the pulmonary valve 90% Arrhythmia 90% Freckling 90% Hyperextensible skin 90% Hypertelorism 90% Intrauterine growth retardation 90% Melanocytic nevus 90% Myelodysplasia 90% Sensorineural hearing impairment 90% Abnormality of the mitral valve 50% Abnormality of the nose 50% Complete atrioventricular canal defect 50% Cryptorchidism 50% Decreased fertility 50% Hypertrophic cardiomyopathy 50% Low-set, posteriorly rotated ears 50% Pectus carinatum 50% Pectus excavatum 50% Ptosis 50% Sprengel anomaly 50% Webbed neck 50% Abnormal localization of kidney 7.5% Abnormality of calvarial morphology 7.5% Abnormality of the endocardium 7.5% Abnormality of the voice 7.5% Aneurysm 7.5% Aplasia/Hypoplasia of the abdominal wall musculature 7.5% Cognitive impairment 7.5% Coronary artery disease 7.5% Displacement of the external urethral meatus 7.5% Leukemia 7.5% Melanoma 7.5% Neuroblastoma 7.5% Scoliosis 7.5% Short stature 7.5% Spina bifida occulta 7.5% Triangular face 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

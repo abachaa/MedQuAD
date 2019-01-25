@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003550" source="GARD" url="https://rarediseases.info.nih.gov/gard/7226/lesch-nyhan-syndrome">
+<Focus>Lesch Nyhan syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023374</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LNS</Synonym>
+		<Synonym>HPRT deficiency</Synonym>
+		<Synonym>HPRT1 deficiency</Synonym>
+		<Synonym>HPRT deficiency, complete</Synonym>
+		<Synonym>Hypoxanthine guanine phospho-ribosyltransferase 1 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003550-1" qtype="information">What is (are) Lesch Nyhan syndrome ?</Question>
+			<Answer>Lesch Nyhan syndrome is a condition characterized by neurological and behavioral abnormalities and the overproduction of uric acid in the body. It occurs almost exclusively in males. Signs and symptoms may include inflammatory arthritis (gout), kidney stones, bladder stones, and moderate cognitive disability. Nervous system and behavioral disturbances also occur, such as involuntary muscle movements and self injury (including biting and head banging). People with Lesch Nyhan syndrome usually cannot walk, require assistance sitting, and generally use a wheelchair. Lesch Nyhan syndrome is caused by changes (mutations) in the HPRT1 gene and is inherited in an X-linked recessive manner. Treatment is symptomatic and supportive. Affected people often do not survive past the first or second decade of life due to renal failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003550-2" qtype="symptoms">What are the symptoms of Lesch Nyhan syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Lesch Nyhan syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Lesch Nyhan syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of movement 90% Arthritis 90% Behavioral abnormality 90% Cognitive impairment 90% Hemiplegia/hemiparesis 90% Hypertonia 90% Hyperuricemia 90% Anemia 50% Hematuria 50% Renal insufficiency 50% Abnormality of extrapyramidal motor function - Choreoathetosis - Dysarthria - Dysphagia - Dystonia - Gout (feet) - Hyperreflexia - Hyperuricosuria - Intellectual disability - Megaloblastic anemia - Motor delay - Muscular hypotonia - Nephrolithiasis - Opisthotonus - Short stature - Spasticity - Testicular atrophy - Vomiting - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003550-3" qtype="inheritance">Is Lesch Nyhan syndrome inherited ?</Question>
+			<Answer>How is Lesch Nyhan syndrome inherited? Lesch Nyhan syndrome is inherited in an X-linked recessive manner. A condition is X-linked if the changed (mutated) gene responsible for the condition is located on the X chromosome. The X chromosome is one of the two sex chromosomes; females have two X chromosomes, and males have one X and one Y chromosome. Females who have one mutated copy of the responsible gene (on one of their X chromosomes) usually do not have the condition and are referred to as carriers. This is because they still have a working copy of the responsible gene on their other X chromosome. Males with one mutated copy of the responsible gene have signs and symptoms of the condition (they are affected) because they do not have another X chromosome with a working copy of the gene. This is why X-linked recessive disorders, including Lesch Nyhan syndrome, occur much more frequently in males. Lesch Nyhan syndrome is caused by mutations in the HPRT1 gene. A female who is a carrier of Lesch Nyhan syndrome has a 50% chance of passing on the mutated HPRT1 gene in each pregnancy. This is because a carrier female will randomly pass on one of her X chromosome to each child. Sons who inherit the mutated gene will be affected, and daughters who inherit the mutated gene will be carriers. This means that with each pregnancy, a female who is a carrier has a: 50% (1 in 2) chance of having an unaffected son or daughter 25% (1 in 4) chance of having an affected son 25% chance of having a carrier daughter</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

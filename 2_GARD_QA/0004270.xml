@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004270" source="GARD" url="https://rarediseases.info.nih.gov/gard/10558/myoepithelial-carcinoma">
+<Focus>Myoepithelial carcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334699</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Malignant myoepithelioma</Synonym>
+		<Synonym>Myoepithelioma carcinoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004270-1" qtype="information">What is (are) Myoepithelial carcinoma ?</Question>
+			<Answer>Myoepithelial carcinoma is a rare malignant tumor that usually occurs in the salivary glands but can also occur in skin and soft tissues. The name of this cancer comes from the appearance of the tumor cells under the microscope. Approximately 66% of these tumors occur in the parotid gland. The average age of patients is reported to be 55 years.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004270-2" qtype="treatment">What are the treatments for Myoepithelial carcinoma ?</Question>
+			<Answer>How might myoepithelial carcinoma be treated? The treatment for metastatic myoepithelial carcinoma usually begins with surgery to remove the main tumor.  Radiation therapy can be used to reduce the chance that the tumor could return in the same location.  Recent studies have shown that neutron-based radiation therapy may be more effective than proton-based radiation therapy for treating myoepithelial cancers. There is limited evidence about the usefulness of chemotherapy in treating metastatic myoepithelial cancer, and there are no standard treatment guidelines.  However, there are three reports of individuals with metastatic myoepithelial cancer who responded to chemotherapy.  In one individual, the metastatic tumors stopped growing during chemotherapy.  In the other two individuals, there was no evidence of the metastatic tumors after 14 months for one person and after three years for the other person.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

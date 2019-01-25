@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000530" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/jaundice.html">
+<Focus>Jaundice</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2203646</CUI>
+			<CUI>C0022346</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Icterus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000530-1" qtype="information">What is (are) Jaundice ?</Question>
+			<Answer>Jaundice causes your skin and the whites of your eyes to turn yellow. Too much bilirubin causes jaundice. Bilirubin is a yellow chemical in hemoglobin, the substance that carries oxygen in your red blood cells. As red blood cells break down, your body builds new cells to replace them. The old ones are processed by the liver. If the liver cannot handle the blood cells as they break down, bilirubin builds up in the body and your skin may look yellow.     Many healthy babies have some jaundice during the first week of life. It usually goes away. However, jaundice can happen at any age and may be a sign of a problem. Jaundice can happen for many reasons, such as       -  Blood diseases    -  Genetic syndromes    -  Liver diseases, such as hepatitis or cirrhosis    -  Blockage of bile ducts     -  Infections     -  Medicines</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

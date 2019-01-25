@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000165" source="GHR" url="https://ghr.nlm.nih.gov/condition/centronuclear-myopathy">
+<Focus>centronuclear myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0752282</CUI>
+			<CUI>C0175709</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CNM</Synonym>
+		<Synonym>myopathy, centronuclear</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000165-1" qtype="information">What is (are) centronuclear myopathy ?</Question>
+			<Answer>Centronuclear myopathy is a condition characterized by muscle weakness (myopathy) and wasting (atrophy) in the skeletal muscles, which are the muscles used for movement. The severity of centronuclear myopathy varies among affected individuals, even among members of the same family.  People with centronuclear myopathy begin experiencing muscle weakness at any time from birth to early adulthood. The muscle weakness slowly worsens over time and can lead to delayed development of motor skills, such as crawling or walking; muscle pain during exercise; and difficulty walking. Some affected individuals may need wheelchair assistance as the muscles atrophy and weakness becomes more severe. In rare instances, the muscle weakness improves over time.  Some people with centronuclear myopathy experience mild to severe breathing problems related to the weakness of muscles needed for breathing. People with centronuclear myopathy may have droopy eyelids (ptosis) and weakness in other facial muscles, including the muscles that control eye movement. People with this condition may also have foot abnormalities, a high arch in the roof of the mouth (high-arched palate), and abnormal side-to-side curvature of the spine (scoliosis). Rarely, individuals with centronuclear myopathy have a weakened heart muscle (cardiomyopathy), disturbances in nerve function (neuropathy), or intellectual disability.  A key feature of centronuclear myopathy is the displacement of the nucleus in muscle cells, which can be viewed under a microscope. Normally the nucleus is found at the edges of the rod-shaped muscle cells, but in people with centronuclear myopathy the nucleus is located in the center of these cells. How the change in location of the nucleus affects muscle cell function is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000165-2" qtype="frequency">How many people are affected by centronuclear myopathy ?</Question>
+			<Answer>Centronuclear myopathy is a rare condition; its exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000165-3" qtype="genetic changes">What are the genetic changes related to centronuclear myopathy ?</Question>
+			<Answer>Centronuclear myopathy is most often caused by mutations in the DNM2, BIN1, or TTN gene. The proteins produced from the DNM2 and BIN1 genes are involved in endocytosis, a process that brings substances into the cell. The protein produced from the BIN1 gene plays an additional role in the formation of tube-like structures called transverse tubules (or T tubules), which are found within the membrane of muscle fibers. These tubules help transmit the electrical impulses necessary for normal muscle tensing (contraction) and relaxation. The protein produced from the DNM2 gene also regulates the actin cytoskeleton, which makes up the muscle fiber&apos;s structural framework. DNM2 and BIN1 gene mutations lead to abnormal muscle fibers that cannot contract and relax normally, resulting in muscle weakness.  The TTN gene provides instructions for making a protein called titin that is an essential component of muscle fiber structures called sarcomeres. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract. TTN gene mutations decrease or alter titin&apos;s activity in muscle fibers. It is unclear how these mutations lead to centronuclear myopathy, but it is likely that the altered protein cannot interact with other proteins in the sarcomere, leading to dysfunction of the sarcomere. Abnormal sarcomeres prevent muscle fibers from contracting and relaxing normally, resulting in muscle weakness.  Some people with centronuclear myopathy do not have identified mutations in the DNM2, BIN1, or TTN genes. Mutations in other genes associated with this condition are found in a small percentage of cases. Some males with signs and symptoms of severe centronuclear myopathy may have a condition called X-linked myotubular myopathy, which is similar to centronuclear myopathy, and is often considered a subtype of the condition, but has a different genetic cause. In some people with centronuclear myopathy, the cause of the disorder is unknown. Researchers are looking for additional genes that are associated with centronuclear myopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000165-4" qtype="inheritance">Is centronuclear myopathy inherited ?</Question>
+			<Answer>When centronuclear myopathy is caused by mutations in the DNM2 gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered DNM2 gene in each cell is sufficient to cause the disorder. Rarely, BIN1 gene mutations that are inherited in an autosomal dominant pattern can cause centronuclear myopathy.  Centronuclear myopathy caused by TTN gene mutations and most cases caused by BIN1 gene mutations are inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Other cases of centronuclear myopathy that are not caused by these genes are typically inherited in an autosomal recessive manner, although some follow an autosomal dominant pattern.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000165-5" qtype="treatment">What are the treatments for centronuclear myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of centronuclear myopathy:  - Genetic Testing Registry: Autosomal recessive centronuclear myopathy  - Genetic Testing Registry: Myopathy, centronuclear  - Genetic Testing Registry: Myopathy, centronuclear, 1  - Genetic Testing Registry: Myopathy, centronuclear, 4  - Genetic Testing Registry: Myopathy, centronuclear, 5   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

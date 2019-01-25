@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000114" source="NINDS" url="http://www.ninds.nih.gov/disorders/emptysella/emptysella.htm">
+<Focus>Empty Sella Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014008</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000114-1" qtype="information">What is (are) Empty Sella Syndrome ?</Question>
+			<Answer>Empty Sella Syndrome (ESS) is a disorder that involves the sella turcica, a bony structure at the base of the brain that surrounds and protects the pituitary gland. ESS is often discovered during radiological imaging tests for pituitary disorders. ESS occurs n up to 25 percent of the population.An individual with ESS may have no symptoms or may have symptoms resulting from partial or complete loss of pituitary function (including headaches, low sex drive, and impotence).There are two types of ESS: primary and secondary. Primary ESS happens when a small anatomical defect above the pituitary gland allows spinal fluid to partially or completely fill the sella turcica. This causes the gland to flatten out along the interior walls of the sella turcica cavity. Individuals with primary ESS may have high levels of the hormone prolactin, which can interfere with the normal function of the testicles and ovaries. Primary ESS is most common in adults and women, and is often associated with obesity and high blood pressure. In some instances the pituitary gland may be smaller than usual; this may be due to a condition called pseudotumor cerebri (which means &quot;false brain tumor,&quot; brought on by high pressure within the skull), In rare instances this high fluid pressure can be associated with drainage of spinal fluid through the nose. Secondary ESS is the result of the pituitary gland regressing within the cavity after an injury, surgery, or radiation therapy. Individuals with secondary ESS can sometimes have symptoms that reflect the loss of pituitary functions, such as the ceasing of menstrual periods, infertility, fatigue, and intolerance to stress and infection. In children, ESS may be associated with early onset of puberty, growth hormone deficiency, pituitary tumors, or pituitary gland dysfunction. Magnetic resonance imaging (MRI) scans are useful in evaluating ESS and for identifying underlying disorders that may be the cause of high fluid pressure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000114-2" qtype="treatment">What are the treatments for Empty Sella Syndrome ?</Question>
+			<Answer>Unless the syndrome results in other medical problems, treatment for endocrine dysfunction associated with pituitary malfunction is symptomatic and supportive. Individuals with primary ESS who have high levels of prolactin may be given bromocriptine. In some cases, particularly when spinal fluid drainage is observed, surgery may be needed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000114-3" qtype="outlook">What is the outlook for Empty Sella Syndrome ?</Question>
+			<Answer>ESS is not a life-threatening condition. Most often, and particularly among those with primary ESS, the disorder does not cause health problems and does not affect life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000114-4" qtype="research">what research (or clinical trials) is being done for Empty Sella Syndrome ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. The NINDS supports and conducts fundamental studies that explore the complex mechanisms of normal brain development and to better understand neurological conditions such as ESS. The knowledge gained from these fundamental studies helps researchers understand neurodevelopment and provides opportunities to more effectively treat and perhaps even prevent, such disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

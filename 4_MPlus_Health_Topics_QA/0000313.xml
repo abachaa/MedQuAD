@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000313" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/eatingdisorders.html">
+<Focus>Eating Disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013473</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anorexia nervosa</Synonym>
+		<Synonym>Binge eating</Synonym>
+		<Synonym>Bulimia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000313-1" qtype="information">What is (are) Eating Disorders ?</Question>
+			<Answer>Eating disorders are serious behavior problems. They can include severe overeating or not consuming enough food to stay healthy. They also involve extreme concern about your shape or weight.    Types of eating disorders include       - Anorexia nervosa, in which you become too thin, but you don&apos;t eat enough because you think you are fat     - Bulimia nervosa, which involves periods of overeating followed by purging, sometimes through self-induced vomiting or using laxatives    - Binge-eating, which is out-of-control eating       Women are more likely than men to have eating disorders. They usually start in the teenage years and often occur along with depression, anxiety disorders, and substance abuse.    Eating disorders can lead to heart and kidney problems and even death. Getting help early is important. Treatment involves monitoring, talk therapy, nutritional counseling, and sometimes medicines.     NIH: National Institute of Mental Health</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

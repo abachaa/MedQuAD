@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005381" source="GARD" url="https://rarediseases.info.nih.gov/gard/5700/rickets">
+<Focus>Rickets</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035579</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vitamin-D deficiency rickets</Synonym>
+		<Synonym>Nutritional rickets</Synonym>
+		<Synonym>Hypovitaminosis D</Synonym>
+		<Synonym>Vitamin D deficiency disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005381-1" qtype="information">What is (are) Rickets ?</Question>
+			<Answer>Rickets is a condition that causes children to have soft, weak bones. It usually occurs when children do not get enough vitamin D, which helps growing bones absorb important nutrients. Vitamin D comes from sunlight and food. Skin produces vitamin D in response to the sun&apos;s rays. Some foods also contain vitamin D, including fortified dairy products and cereals, and some kinds of fish.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005381-2" qtype="symptoms">What are the symptoms of Rickets ?</Question>
+			<Answer>What are the signs and symptoms of rickets? The signs and symptoms of rickets include: Bone pain or tenderness Bowed (curved) legs Large forehead Stunted growth Abnormally curved spine Large abdomen Abnormally shaped ribs and breastbone Wide wrist and elbow joints Teeth abnormalities</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005381-3" qtype="causes">What causes Rickets ?</Question>
+			<Answer>What causes rickets? Rickets is caused by a lack of vitamin D. A child might not get enough vitamin D if he or she: Has dark skin Spends too little time outside Has on sunscreen all the time when out of doors Doesn&apos;t eat foods containing vitamin D because of lactose intolerance or a strict vegetarian diet Is breastfed without receiving vitamin D supplements Can&apos;t make or use vitamin D because of a medical disorder such as celiac disease Has an inherited disorder that affects vitamin D levels</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005381-4" qtype="exams and tests">How to diagnose Rickets ?</Question>
+			<Answer>How is rickets diagnosed? Rickets is typically diagnosed using specific blood tests and x-rays. Blood tests usually show low levels of calcium and phosphorus and high levels of alkaline phosphatase. Bone x-rays may show areas with calcium loss or changes in bone shape. Bone biopsies are rarely performed, but can confirm the diagnosis of rickets.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005381-5" qtype="treatment">What are the treatments for Rickets ?</Question>
+			<Answer>What treatment is available for rickets? The treatment for rickets depends on the cause of the condition. If rickets is caused by a lack of vitamin D in the diet, then it is usually treated with carefully adjusted levels of vitamin D and calcium. The child&apos;s condition may improve within a few weeks of treatment. If rickets is caused by an inherited disorder or another medical condition, a healthcare provider would determine the appropriate treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

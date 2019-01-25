@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000147" source="NINDS" url="http://www.ninds.nih.gov/disorders/refsum/refsum.htm">
+<Focus>Refsum Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034960</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000147-1" qtype="information">What is (are) Refsum Disease ?</Question>
+			<Answer>Adult Refsum disease (ARD) is a rare genetic disease that causes weakness or numbness of the hands and feet (peripheral neuropathy). Due to a genetic abnormality, people with ARD disease lack the enzyme in peroxisomes that break down phytanic acid, a type of fat found in certain foods. As a result, toxic levels of phytanic acid build up in the brain, blood, and other tissues. The disease usually begins in late childhood or early adulthood with increasing night blindness due to degeneration of the retina (retinitis pigmentosa). If the disease progresses, other symptoms may include deafness, loss of the sense of smell (anosmia), problems with balance and coordination (ataxia), dry and scaly skin (ichthyosis), and heartbeat abnormalities (cardiac arrhythmias). Some individuals will have shortened bones in their fingers or toes, or a visibly shortened fourth toe. Although the disease usually appears in early childhood, some people will not develop symptoms until their 40s or 50s.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000147-2" qtype="treatment">What are the treatments for Refsum Disease ?</Question>
+			<Answer>The primary treatment for ARD is to restrict or avoid foods that contain phytanic acid, including dairy products; beef and lamb; and fatty fish such as tuna, cod, and haddock. Some individuals may also require plasma exchange (plasmapheresis) in which blood is drawn, filtered, and reinfused back into the body, to control the buildup of phytanic acid.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000147-3" qtype="outlook">What is the outlook for Refsum Disease ?</Question>
+			<Answer>ARD is treatable because phytanic acid is not produced by the body, but is only found in foods. With treatment, muscle weakness, numbness, and dry and scaly skin generally disappear. However, vision and hearing problems may persist and the sense of smell may not return. Untreated, ARD can lead to sudden death caused by heartbeat abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000147-4" qtype="research">what research (or clinical trials) is being done for Refsum Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) supports research related to Adult Refsum Disease through grants to major research institutions across the country. Research is focused on finding better ways to prevent, treat, and ultimately cure ARD and other peroxisomal disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

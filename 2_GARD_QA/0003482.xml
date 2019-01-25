@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003482" source="GARD" url="https://rarediseases.info.nih.gov/gard/6865/laryngomalacia">
+<Focus>Laryngomalacia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0264303</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Laryngomalacia congenital</Synonym>
+		<Synonym>Congenital laryngomalacia</Synonym>
+		<Synonym>Congenital laryngeal stridor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003482-1" qtype="information">What is (are) Laryngomalacia ?</Question>
+			<Answer>Laryngomalacia is an abnormality of the cartilage of the voice box (larynx) that is present at birth. The condition is characterized by &quot;floppy&quot; cartilage collapsing over the larynx when air is drawn into the lungs (inspiration), leading to airway obstruction. This obstruction causes a noise which may sound like nasal congestion or may be a more high-pitched sound (stridor). Airway sounds typically begin at 4-6 weeks of age. Affected infants have a higher risk of gastroesophageal reflux, and in severe cases may have feeding problems. In rare cases, hypoxemia or hypoventilation may interfere with normal growth and development. The cause of this condition is unknown, but it is thought to be due to delayed maturation of the supporting structures of the larynx. In more than 90% of cases it gradually improves on its own, and noises disappear by age 2 in virtually all infants.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003482-2" qtype="symptoms">What are the symptoms of Laryngomalacia ?</Question>
+			<Answer>What are the signs and symptoms of Laryngomalacia? The Human Phenotype Ontology provides the following list of signs and symptoms for Laryngomalacia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the voice 90% Laryngomalacia 90% Cleft palate 50% Non-midline cleft lip 50% Abnormality of the trachea - Autosomal dominant inheritance - Congenital laryngeal stridor - Respiratory distress - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003482-3" qtype="inheritance">Is Laryngomalacia inherited ?</Question>
+			<Answer>Is laryngomalacia inherited? Laryngomalacia may be inherited in some instances. Only a few cases of familial laryngomalacia (occurring in more than one family member) have been described in the literature. In some of these cases, autosomal dominant inheritance has been suggested. Laryngomalacia has also been reported as being associated with various syndromes. In cases where these specific syndromes are inherited, a predisposition to being born with laryngomalacia may be present. However, even within a family, not all individuals affected with one of these syndromes will have the exact same signs and symptoms (including laryngomalacia). Syndromes that have been associated with laryngomalacia include diastrophic dysplasia, alopecia universalis congenital, XY gonadal dysgenesis, Costello syndrome, DiGeorge syndrome, and acrocallosal syndrome. The inheritance pattern depends upon the specific syndrome present.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

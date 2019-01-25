@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000983" source="GARD" url="https://rarediseases.info.nih.gov/gard/12656/castleman-disease">
+<Focus>Castleman disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017531</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Angiofollicular ganglionic hyperplasia</Synonym>
+		<Synonym>Angiofollicular lymph hyperplasia</Synonym>
+		<Synonym>Multicentric Castleman Disease</Synonym>
+		<Synonym>Unicentric Castleman disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000983-1" qtype="information">What is (are) Castleman disease ?</Question>
+			<Answer>Castleman disease (CD) is a rare condition that affects the lymph nodes and related tissues. There are two main forms: unicentric CD and multicentric CD. Unicentric CD is a &quot;localized&quot; condition that is generally confined to a single set of lymph nodes, while multicentric CD is a &quot;systemic&quot; disease that affects multiple sets of lymph nodes and other tissues throughout the body. The exact underlying cause of CD is currently unknown; however, it is thought to occur sporadically in people with no family history of the condition. Treatment varies based on the form of the condition, the severity of symptoms and whether or not the affected person also has an HIV and/or human herpes virus type 8 (HHV-8) infection. For more specific information about each form of CD, please visit GARD&apos;s unicentric Castleman disease and multicentric Castleman disease pages.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000983-2" qtype="causes">What causes Castleman disease ?</Question>
+			<Answer>What causes Castleman disease? The exact underlying cause of Castleman disease (CD) is poorly understood. However, some scientists suspect that an increased production of interleukin-6 (IL-6) by the immune system may contribute to the development of CD. IL-6 is a substance normally produced by cells within the lymph nodes that helps coordinate the immune response to infection. Increased production of IL-6 may result in an overgrowth of lymphatic cells, leading to many of the signs and symptoms of CD. It has also been found that a virus called human herpes virus type 8 (also known as HHV-8, Kaposi&apos;s sarcoma-associated herpesvirus, or KSHV) is present in many people with multicentric CD, specifically. HHV-8 is found in nearly all people who are HIV-positive and develop multicentric CD, and in up to 60% of affected people without HIV. The HHV-8 virus may possibly cause multicentric CD by making its own IL-6.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000983-3" qtype="inheritance">Is Castleman disease inherited ?</Question>
+			<Answer>Is Castleman disease inherited? Although the exact underlying cause of Castleman disease is unknown, it is thought to occur sporadically in people with no family history of the condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000907" source="GHR" url="https://ghr.nlm.nih.gov/condition/sialic-acid-storage-disease">
+<Focus>sialic acid storage disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342853</CUI>
+			<CUI>C1096903</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>free sialic acid storage disease</Synonym>
+		<Synonym>N-acetylneuraminic acid storage disease</Synonym>
+		<Synonym>NANA storage disease</Synonym>
+		<Synonym>sialuria, Finnish type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000907-1" qtype="information">What is (are) sialic acid storage disease ?</Question>
+			<Answer>Sialic acid storage disease is an inherited disorder that primarily affects the nervous system. People with sialic acid storage disease have signs and symptoms that may vary widely in severity. This disorder is generally classified into one of three forms: infantile free sialic acid storage disease, Salla disease, and intermediate severe Salla disease.  Infantile free sialic acid storage disease (ISSD) is the most severe form of this disorder. Babies with this condition have severe developmental delay, weak muscle tone (hypotonia), and failure to gain weight and grow at the expected rate (failure to thrive). They may have unusual facial features that are often described as &quot;coarse,&quot; seizures, bone malformations, an enlarged liver and spleen (hepatosplenomegaly), and an enlarged heart (cardiomegaly). The abdomen may be swollen due to the enlarged organs and an abnormal buildup of fluid in the abdominal cavity (ascites). Affected infants may have a condition called hydrops fetalis in which excess fluid accumulates in the body before birth. Children with this severe form of the condition usually live only into early childhood.  Salla disease is a less severe form of sialic acid storage disease. Babies with Salla disease usually begin exhibiting hypotonia during the first year of life and go on to experience progressive neurological problems. Signs and symptoms of Salla disease include intellectual disability and developmental delay, seizures, problems with movement and balance (ataxia), abnormal tensing of the muscles (spasticity), and involuntary slow, sinuous movements of the limbs (athetosis). Individuals with Salla disease usually survive into adulthood.  People with intermediate severe Salla disease have signs and symptoms that fall between those of ISSD and Salla disease in severity.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000907-2" qtype="frequency">How many people are affected by sialic acid storage disease ?</Question>
+			<Answer>Sialic acid storage disease is a very rare disorder. ISSD has been identified in only a few dozen infants worldwide. Salla disease occurs mainly in Finland and Sweden and has been reported in approximately 150 people. A few individuals have been identified as having intermediate severe Salla disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000907-3" qtype="genetic changes">What are the genetic changes related to sialic acid storage disease ?</Question>
+			<Answer>Mutations in the SLC17A5 gene cause all forms of sialic acid storage disease. This gene provides instructions for producing a protein called sialin that is located mainly on the membranes of lysosomes, compartments in the cell that digest and recycle materials. Sialin moves a molecule called free sialic acid, which is produced when certain proteins and fats are broken down, out of the lysosomes to other parts of the cell. Free sialic acid means that the sialic acid is not attached (bound) to other molecules. Researchers believe that sialin may also have other functions in brain cells, in addition to those associated with the lysosomes, but these additional functions are not well understood.  Approximately 20 mutations that cause sialic acid storage disease have been identified in the SLC17A5 gene. Some of these mutations result in sialin that does not function normally; others prevent sialin from being produced. In a few cases, sialin is produced but not routed properly to the lysosomal membrane.  SLC17A5 gene mutations that reduce or eliminate sialin activity result in a buildup of free sialic acid in the lysosomes. It is not known how this buildup, or the disruption of other possible functions of sialin in the brain, causes the specific signs and symptoms of sialic acid storage disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000907-4" qtype="inheritance">Is sialic acid storage disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000907-5" qtype="treatment">What are the treatments for sialic acid storage disease ?</Question>
+			<Answer>These resources address the diagnosis or management of sialic acid storage disease:  - Gene Review: Gene Review: Free Sialic Acid Storage Disorders  - Genetic Testing Registry: Salla disease  - Genetic Testing Registry: Sialic acid storage disease, severe infantile type   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

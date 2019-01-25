@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000398" source="GHR" url="https://ghr.nlm.nih.gov/condition/galactosialidosis">
+<Focus>galactosialidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268233</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deficiency of cathepsin A</Synonym>
+		<Synonym>Goldberg syndrome</Synonym>
+		<Synonym>lysosomal protective protein deficiency</Synonym>
+		<Synonym>neuraminidase deficiency with beta-galactosidase deficiency</Synonym>
+		<Synonym>PPCA deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000398-1" qtype="information">What is (are) galactosialidosis ?</Question>
+			<Answer>Galactosialidosis is a condition that affects many areas of the body. The three forms of galactosialidosis are distinguished by the age at which symptoms develop and the pattern of features.  The early infantile form of galactosialidosis is associated with extensive swelling caused by fluid accumulation before birth (hydrops fetalis), a soft out-pouching in the lower abdomen (an inguinal hernia), and an enlarged liver and spleen (hepatosplenomegaly). Additional features of this form include abnormal bone development (dysostosis multiplex) and distinctive facial features that are often described as &quot;coarse.&quot; Some infants have an enlarged heart (cardiomegaly); an eye abnormality called a cherry-red spot, which can be identified with an eye examination; and kidney disease that can progress to kidney failure. Infants with this form usually are diagnosed between birth and 3 months; they typically live into late infancy.  The late infantile form of galactosialidosis shares some features with the early infantile form, although the signs and symptoms are somewhat less severe and begin later in infancy. This form is characterized by short stature, dysostosis multiplex, heart valve problems, hepatosplenomegaly, and &quot;coarse&quot; facial features. Other symptoms seen in some individuals with this type include intellectual disability, hearing loss, and a cherry-red spot. Children with this condition typically develop symptoms within the first year of life. The life expectancy of individuals with this type varies depending on the severity of symptoms.  The juvenile/adult form of galactosialidosis has signs and symptoms that are somewhat different than those of the other two types. This form is distinguished by difficulty coordinating movements (ataxia), muscle twitches (myoclonus), seizures, and progressive intellectual disability. People with this form typically also have dark red spots on the skin (angiokeratomas), abnormalities in the bones of the spine, &quot;coarse&quot; facial features, a cherry-red spot, vision loss, and hearing loss. The age at which symptoms begin to develop varies widely among affected individuals, but the average age is 16. This form is typically associated with a normal life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000398-2" qtype="frequency">How many people are affected by galactosialidosis ?</Question>
+			<Answer>The prevalence of galactosialidosis is unknown; more than 100 cases have been reported. Approximately 60 percent of people with galactosialidosis have the juvenile/adult form. Most people with this type of the condition are of Japanese descent.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000398-3" qtype="genetic changes">What are the genetic changes related to galactosialidosis ?</Question>
+			<Answer>Mutations in the CTSA gene cause all forms of galactosialidosis. The CTSA gene provides instructions for making a protein called cathepsin A, which is active in cellular compartments called lysosomes. These compartments contain enzymes that digest and recycle materials when they are no longer needed. Cathepsin A works together with two enzymes, neuraminidase 1 and beta-galactosidase, to form a protein complex. This complex breaks down sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins) or fats (glycolipids). Cathepsin A is also found on the cell surface, where it forms a complex with neuraminidase 1 and a protein called elastin binding protein. Elastin binding protein plays a role in the formation of elastic fibers, a component of the connective tissues that form the body&apos;s supportive framework.  CTSA mutations interfere with the normal function of cathepsin A. Most mutations disrupt the protein structure of cathepsin A, impairing its ability to form complexes with neuraminidase 1, beta-galactosidase, and elastin binding protein. As a result, these other enzymes are not functional, or they break down prematurely.  Galactosialidosis belongs to a large family of lysosomal storage disorders, each caused by the deficiency of a specific lysosomal enzyme or protein. In galactosialidosis, impaired functioning of cathepsin A and other enzymes causes certain substances to accumulate in the lysosomes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000398-4" qtype="inheritance">Is galactosialidosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000398-5" qtype="treatment">What are the treatments for galactosialidosis ?</Question>
+			<Answer>These resources address the diagnosis or management of galactosialidosis:  - Genetic Testing Registry: Combined deficiency of sialidase AND beta galactosidase  - MedlinePlus Encyclopedia: Hepatosplenomegaly (image)  - MedlinePlus Encyclopedia: Hydrops fetalis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

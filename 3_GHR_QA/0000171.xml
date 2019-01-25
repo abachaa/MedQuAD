@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000171" source="GHR" url="https://ghr.nlm.nih.gov/condition/chanarin-dorfman-syndrome">
+<Focus>Chanarin-Dorfman syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268238</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CDS</Synonym>
+		<Synonym>Chanarin-Dorfman disease</Synonym>
+		<Synonym>Ichthyotic neutral lipid storage disease</Synonym>
+		<Synonym>neutral lipid storage disease with ichthyosis</Synonym>
+		<Synonym>Triglyceride storage disease with ichthyosis</Synonym>
+		<Synonym>triglyceride storage disease with impaired long-chain fatty acid oxidation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000171-1" qtype="information">What is (are) Chanarin-Dorfman syndrome ?</Question>
+			<Answer>Chanarin-Dorfman syndrome is a condition in which fats (lipids) are stored abnormally in the body. Affected individuals cannot break down certain fats called triglycerides, and these fats accumulate in organs and tissues, including skin, liver, muscles, intestine, eyes, and ears. People with this condition also have dry, scaly skin (ichthyosis), which is usually present at birth. Additional features of this condition include an enlarged liver (hepatomegaly), clouding of the lens of the eyes (cataracts), difficulty with coordinating movements (ataxia), hearing loss, short stature, muscle weakness (myopathy), involuntary movement of the eyes (nystagmus), and mild intellectual disability.  The signs and symptoms vary greatly among individuals with Chanarin-Dorfman syndrome. Some people may have ichthyosis only, while others may have problems affecting many areas of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000171-2" qtype="frequency">How many people are affected by Chanarin-Dorfman syndrome ?</Question>
+			<Answer>Chanarin-Dorfman syndrome is a rare condition; its incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000171-3" qtype="genetic changes">What are the genetic changes related to Chanarin-Dorfman syndrome ?</Question>
+			<Answer>Mutations in the ABHD5 gene cause Chanarin-Dorfman syndrome. The ABHD5 gene provides instructions for making a protein that turns on (activates) the ATGL enzyme, which breaks down triglycerides. Triglycerides are the main source of stored energy in cells. These fats must be broken down into simpler molecules called fatty acids before they can be used for energy.  ABHD5 gene mutations impair the protein&apos;s ability to activate the ATGL enzyme. An inactive enzyme makes the breakdown of triglycerides impossible, causing them to accumulate in tissues throughout the body. The buildup of triglycerides results in the signs and symptoms of Chanarin-Dorfman syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000171-4" qtype="inheritance">Is Chanarin-Dorfman syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000171-5" qtype="treatment">What are the treatments for Chanarin-Dorfman syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Chanarin-Dorfman syndrome:  - Genetic Testing Registry: Triglyceride storage disease with ichthyosis  - MedlinePlus Encyclopedia: Ichthyosis vulgaris   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

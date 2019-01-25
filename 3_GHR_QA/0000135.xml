@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000135" source="GHR" url="https://ghr.nlm.nih.gov/condition/branchio-oculo-facial-syndrome">
+<Focus>branchio-oculo-facial syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0376524</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BOFS</Synonym>
+		<Synonym>branchial clefts with characteristic facies, growth retardation, imperforate nasolacrimal duct, and premature aging</Synonym>
+		<Synonym>hemangiomatous branchial clefts-lip pseudocleft syndrome</Synonym>
+		<Synonym>lip pseudocleft-hemagiomatous branchial cyst syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000135-1" qtype="information">What is (are) branchio-oculo-facial syndrome ?</Question>
+			<Answer>Branchio-oculo-facial syndrome is a condition that affects development before birth, particularly of structures in the face and neck. Its characteristic features include skin anomalies on the neck, malformations of the eyes and ears, and distinctive facial features.  &quot;Branchio-&quot; refers to the branchial arches, which are structures in the developing embryo that give rise to tissues in the face and neck. In people with branchio-oculo-facial syndrome, the first and second branchial arches do not develop properly, leading to abnormal patches of skin, typically on the neck or near the ears. These patches can be unusually thin, hairy, or red and densely packed with blood vessels (hemangiomatous). In a small number of individuals, tissue from a gland called the thymus is abnormally located on the skin of the neck (dermal thymus). Problems with branchial arch development underlie many of the other features of branchio-oculo-facial syndrome.  &quot;Oculo-&quot; refers to the eyes. Many people with branchio-oculo-facial syndrome have malformations of the eyes that can lead to vision impairment. These abnormalities include unusually small eyeballs (microphthalmia), no eyeballs (anophthalmia), a gap or split in structures that make up the eyes (coloboma), or blockage of the tear ducts (nasolacrimal duct stenosis).  Problems with development of the face lead to distinctive facial features in people with branchio-oculo-facial syndrome. Many affected individuals have a split in the upper lip (cleft lip) or a pointed upper lip that resembles a poorly repaired cleft lip (often called a pseudocleft lip) with or without an opening in the roof of the mouth (cleft palate). Other facial characteristics include widely spaced eyes (hypertelorism), an increased distance between the inner corners of the eyes (telecanthus), outside corners of the eyes that point upward (upslanting palpebral fissures), a broad nose with a flattened tip, and weakness of the muscles in the lower face. The ears are also commonly affected, resulting in malformed or prominent ears. Abnormalities of the inner ear or of the tiny bones in the ears (ossicles) can cause hearing loss in people with this condition.  Branchio-oculo-facial syndrome can affect other structures and tissues as well. Some affected individuals have kidney abnormalities, such as malformed kidneys or multiple kidney cysts. Nail and teeth abnormalities also occur, and some people with this condition have prematurely graying hair.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000135-2" qtype="frequency">How many people are affected by branchio-oculo-facial syndrome ?</Question>
+			<Answer>Branchio-oculo-facial syndrome is a rare condition, although the prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000135-3" qtype="genetic changes">What are the genetic changes related to branchio-oculo-facial syndrome ?</Question>
+			<Answer>Branchio-oculo-facial syndrome is caused by mutations in the TFAP2A gene. This gene provides instructions for making a protein called transcription factor AP-2 alpha (AP-2). As its name suggests, this protein is a transcription factor, which means it attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Transcription factor AP-2 regulates genes that are involved in several cellular processes, such as cell division and the self-destruction of cells that are no longer needed (apoptosis). This protein is critical during development before birth, particularly of the branchial arches, which form the structures of the face and neck.  Most TFAP2A gene mutations that cause branchio-oculo-facial syndrome change single protein building blocks (amino acids) in the transcription factor AP-2 protein. These changes tend to occur in a region of the protein that allows it to bind to DNA. Without this function, transcription factor AP-2 cannot control the activity of genes during development, which disrupts the development of the eyes, ears, and face and causes the features of branchio-oculo-facial syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000135-4" qtype="inheritance">Is branchio-oculo-facial syndrome inherited ?</Question>
+			<Answer>Branchio-oculo-facial syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In about half of cases, an affected person inherits the mutation from one affected parent. The remaining cases occur in people whose parents do not have a mutation in the TFAP2A gene. In these situations, the mutation likely occurs as a random event during the formation of reproductive cells (eggs and sperm) in a parent or in early fetal development of the affected individual.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000135-5" qtype="treatment">What are the treatments for branchio-oculo-facial syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of branchio-oculo-facial syndrome:  - Gene Review: Gene Review: Branchiooculofacial Syndrome  - Genetic Testing Registry: Branchiooculofacial syndrome  - MedlinePlus Encyclopedia: Cleft Lip and Palate   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

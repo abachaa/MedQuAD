@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000013_2" source="CancerGov" url="https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq">
+<Focus>Chronic Neutrophilic Leukemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023481</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000013_2-1" qtype="information">What is (are) Chronic Neutrophilic Leukemia ?</Question>
+			<Answer>Chronic neutrophilic leukemia is a disease in which too many blood stem cells become a type of white blood cell called neutrophils. Neutrophils are infection -fighting blood cells that surround and destroy dead cells and foreign substances (such as bacteria). The spleen and liver may swell because of the extra neutrophils. Chronic neutrophilic leukemia may stay the same or it may progress quickly to acute leukemia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000013_2-2" qtype="treatment">What are the treatments for Chronic Neutrophilic Leukemia ?</Question>
+			<Answer>Treatment of chronic neutrophilic leukemia may include the following:            -  Donor bone marrow transplant.     -  Chemotherapy.     -  Biologic therapy using interferon alfa.      - A clinical trial of a new treatment.            Check the list of NCI-supported cancer clinical trials that are now accepting patients with chronic neutrophilic leukemia. For more specific results, refine the search by using other search features, such as the location of the trial, the type of treatment, or the name of the drug. Talk with your doctor about clinical trials that may be right for you. General information about clinical trials is available from the NCI website.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

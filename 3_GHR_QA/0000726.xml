@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000726" source="GHR" url="https://ghr.nlm.nih.gov/condition/neurohypophyseal-diabetes-insipidus">
+<Focus>neurohypophyseal diabetes insipidus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0687720</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>central diabetes insipidus</Synonym>
+		<Synonym>diabetes insipidus secondary to vasopressin deficiency</Synonym>
+		<Synonym>diabetes insipidus, central</Synonym>
+		<Synonym>diabetes insipidus, neurogenic</Synonym>
+		<Synonym>diabetes insipidus, neurohypophyseal</Synonym>
+		<Synonym>diabetes insipidus, pituitary</Synonym>
+		<Synonym>pituitary diabetes insipidus</Synonym>
+		<Synonym>vasopressin defective diabetes insipidus</Synonym>
+		<Synonym>vasopressin deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000726-1" qtype="information">What is (are) neurohypophyseal diabetes insipidus ?</Question>
+			<Answer>Neurohypophyseal diabetes insipidus is a disorder of water balance. The body normally balances fluid intake with the excretion of fluid in urine. However, people with neurohypophyseal diabetes insipidus produce too much urine (polyuria), which causes them to be excessively thirsty (polydipsia). Affected people need to urinate frequently, which can disrupt daily activities and sleep.  People with neurohypophyseal diabetes insipidus can quickly become dehydrated if they do not drink enough water. Dehydration can lead to constipation and dry skin. If the disorder is not treated, more serious complications of dehydration can occur. These include confusion, low blood pressure, seizures, and coma.  Neurohypophyseal diabetes insipidus can be either acquired or familial. The acquired form is brought on by injuries, tumors, and other factors, and can occur at any time during life. The familial form is caused by genetic mutations; its signs and symptoms usually become apparent in childhood and worsen over time.  Neurohypophyseal diabetes insipidus should not be confused with diabetes mellitus, which is much more common. Diabetes mellitus is characterized by high blood sugar levels resulting from a shortage of the hormone insulin or an insensitivity to this hormone. Although neurohypophyseal diabetes insipidus and diabetes mellitus have some features in common, they are separate disorders with different causes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000726-2" qtype="frequency">How many people are affected by neurohypophyseal diabetes insipidus ?</Question>
+			<Answer>Neurohypophyseal diabetes insipidus is thought to be rare, although its exact incidence is unknown. The acquired form occurs much more frequently than the familial form.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000726-3" qtype="genetic changes">What are the genetic changes related to neurohypophyseal diabetes insipidus ?</Question>
+			<Answer>The familial form of neurohypophyseal diabetes insipidus is caused by mutations in the AVP gene. This gene provides instructions for making a hormone called vasopressin or antidiuretic hormone (ADH). This hormone, which is produced and stored in the brain, helps control the body&apos;s water balance.  The kidneys filter the blood to remove waste and excess fluid, which are stored in the bladder as urine. ADH controls the balance between fluid intake and urine excretion. Normally, when a person&apos;s fluid intake is low or when a lot of fluid is lost (for example, through sweating), the brain releases more ADH into the bloodstream. High levels of this hormone direct the kidneys to reabsorb more water and to make less urine. When fluid intake is adequate, the brain releases less ADH. Lower levels of this hormone cause the kidneys to reabsorb less water and to make more urine.  Mutations in the AVP gene result in progressive damage to the brain cells where ADH is produced. These cells ultimately die, causing a shortage of ADH. Without this hormone, the kidneys do not reabsorb water as they should, and the body makes excessive amounts of urine. These problems with water balance are characteristic of neurohypophyseal diabetes insipidus.  The acquired form of neurohypophyseal diabetes insipidus results when the areas of the brain that produce or store ADH are damaged by head injuries, brain tumors, brain surgery, certain diseases and infections, or bleeding in the brain. A loss of ADH disrupts the body&apos;s water balance, leading to excessive urine production and the other features of the disorder.  In 30 to 50 percent of all cases of neurohypophyseal diabetes insipidus, the cause of the disorder is unknown. Studies suggest that some of these cases may have an autoimmune basis. Autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. For unknown reasons, in some people with neurohypophyseal diabetes insipidus the immune system appears to damage the brain cells that normally produce ADH.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000726-4" qtype="inheritance">Is neurohypophyseal diabetes insipidus inherited ?</Question>
+			<Answer>Familial neurohypophyseal diabetes insipidus is almost always inherited in an autosomal dominant pattern, which means one copy of the altered AVP gene in each cell is sufficient to cause the disorder.  In a few affected families, the condition has had an autosomal recessive pattern of inheritance. Autosomal recessive inheritance means that both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000726-5" qtype="treatment">What are the treatments for neurohypophyseal diabetes insipidus ?</Question>
+			<Answer>These resources address the diagnosis or management of neurohypophyseal diabetes insipidus:  - Genetic Testing Registry: Neurohypophyseal diabetes insipidus  - MedlinePlus Encyclopedia: ADH  - MedlinePlus Encyclopedia: Diabetes Insipidus - Central   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000024" source="GHR" url="https://ghr.nlm.nih.gov/condition/adult-polyglucosan-body-disease">
+<Focus>adult polyglucosan body disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1849722</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>APBD</Synonym>
+		<Synonym>polyglucosan body disease, adult form</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000024-1" qtype="information">What is (are) adult polyglucosan body disease ?</Question>
+			<Answer>Adult polyglucosan body disease is a condition that affects the nervous system. People with this condition have problems walking due to reduced sensation in their legs (peripheral neuropathy) and progressive muscle weakness and stiffness (spasticity). Damage to the nerves that control bladder function, a condition called neurogenic bladder, causes affected individuals to have progressive difficulty controlling the flow of urine. About half of people with adult polyglucosan body disease experience a decline in intellectual function (dementia).  People with adult polyglucosan body disease typically first experience signs and symptoms related to the condition between ages 30 and 60.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000024-2" qtype="frequency">How many people are affected by adult polyglucosan body disease ?</Question>
+			<Answer>Adult polyglucosan body disease is a rare condition; although its exact prevalence is unknown, at least 50 affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000024-3" qtype="genetic changes">What are the genetic changes related to adult polyglucosan body disease ?</Question>
+			<Answer>Mutations in the GBE1 gene cause adult polyglucosan body disease. The GBE1 gene provides instructions for making the glycogen branching enzyme. This enzyme is involved in the production of a complex sugar called glycogen, which is a major source of stored energy in the body. Most GBE1 gene mutations result in a shortage (deficiency) of the glycogen branching enzyme, which leads to the production of abnormal glycogen molecules. These abnormal glycogen molecules, called polyglucosan bodies, accumulate within cells and cause damage. Nerve cells (neurons) appear to be particularly vulnerable to the accumulation of polyglucosan bodies in people with this disorder, leading to impaired neuronal function.  Some mutations in the GBE1 gene that cause adult polyglucosan body disease do not result in a shortage of glycogen branching enzyme. In people with these mutations, the activity of this enzyme is normal. How mutations cause the disease in these individuals is unclear. Other people with adult polyglucosan body disease do not have identified mutations in the GBE1 gene. In these individuals, the cause of the disease is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000024-4" qtype="inheritance">Is adult polyglucosan body disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000024-5" qtype="treatment">What are the treatments for adult polyglucosan body disease ?</Question>
+			<Answer>These resources address the diagnosis or management of adult polyglucosan body disease:  - Gene Review: Gene Review: Adult Polyglucosan Body Disease  - Genetic Testing Registry: Polyglucosan body disease, adult  - MedlinePlus Encyclopedia: Neurogenic Bladder  - MedlinePlus Encyclopedia: Spasticity   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

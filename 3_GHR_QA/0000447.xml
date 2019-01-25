@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000447" source="GHR" url="https://ghr.nlm.nih.gov/condition/harlequin-ichthyosis">
+<Focus>harlequin ichthyosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0239849</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Harlequin baby syndrome</Synonym>
+		<Synonym>HI</Synonym>
+		<Synonym>Ichthyosis Congenita, Harlequin Fetus Type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000447-1" qtype="information">What is (are) harlequin ichthyosis ?</Question>
+			<Answer>Harlequin ichthyosis is a severe genetic disorder that mainly affects the skin. Infants with this condition are born with very hard, thick skin covering most of their bodies. The skin forms large, diamond-shaped plates that are separated by deep cracks (fissures). These skin abnormalities affect the shape of the eyelids, nose, mouth, and ears, and limit movement of the arms and legs. Restricted movement of the chest can lead to breathing difficulties and respiratory failure.  The skin normally forms a protective barrier between the body and its surrounding environment. The skin abnormalities associated with harlequin ichthyosis disrupt this barrier, making it more difficult for affected infants to control water loss, regulate their body temperature, and fight infections. Infants with harlequin ichthyosis often experience an excessive loss of fluids (dehydration) and develop life-threatening infections in the first few weeks of life. It used to be very rare for affected infants to survive the newborn period. However, with intensive medical support and improved treatment, people with this disorder now have a better chance of living into childhood and adolescence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000447-2" qtype="frequency">How many people are affected by harlequin ichthyosis ?</Question>
+			<Answer>Harlequin ichthyosis is very rare; its exact incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000447-3" qtype="genetic changes">What are the genetic changes related to harlequin ichthyosis ?</Question>
+			<Answer>Mutations in the ABCA12 gene cause harlequin ichthyosis. The ABCA12 gene provides instructions for making a protein that is essential for the normal development of skin cells. This protein plays a major role in the transport of fats (lipids) in the outermost layer of skin (the epidermis). Some mutations in the ABCA12 gene prevent the cell from making any ABCA12 protein. Other mutations lead to the production of an abnormally small version of the protein that cannot transport lipids properly. A loss of functional ABCA12 protein disrupts the normal development of the epidermis, resulting in the hard, thick scales characteristic of harlequin ichthyosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000447-4" qtype="inheritance">Is harlequin ichthyosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000447-5" qtype="treatment">What are the treatments for harlequin ichthyosis ?</Question>
+			<Answer>These resources address the diagnosis or management of harlequin ichthyosis:  - Gene Review: Gene Review: Autosomal Recessive Congenital Ichthyosis  - Genetic Testing Registry: Autosomal recessive congenital ichthyosis 4B   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005840" source="GARD" url="https://rarediseases.info.nih.gov/gard/4987/spondyloepiphyseal-dysplasia-congenita">
+<Focus>Spondyloepiphyseal dysplasia congenita</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334044</CUI>
+			<CUI>C2745959</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SEDC</Synonym>
+		<Synonym>SED congenita</Synonym>
+		<Synonym>Spondyloepiphyseal dysplasia, congenital type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005840-1" qtype="information">What is (are) Spondyloepiphyseal dysplasia congenita ?</Question>
+			<Answer>Spondyloepiphyseal dysplasia congenita is an inherited disorder of bone growth that affects the bones of the spine and ends of the long bones in the arms and legs. Features of this condition include short stature (dwarfism); a very short trunk and neck; abnormal curvature of the spine; barrel-shaped chest; shortened limbs; an abnormality of the hip joint; and problems with vision and hearing. Arthritis and decreased joint mobility often develop early in life. More than 175 cases have been reported in the scientific literature. This condition is caused by mutations in the COL2A1 gene and is inherited in an autosomal dominant pattern. Most cases result from new mutations in the gene and occur in people with no family history of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005840-2" qtype="symptoms">What are the symptoms of Spondyloepiphyseal dysplasia congenita ?</Question>
+			<Answer>What are the signs and symptoms of Spondyloepiphyseal dysplasia congenita? The Human Phenotype Ontology provides the following list of signs and symptoms for Spondyloepiphyseal dysplasia congenita. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal form of the vertebral bodies 90% Abnormality of epiphysis morphology 90% Micromelia 90% Narrow chest 90% Short neck 90% Short stature 90% Short thorax 90% Skeletal dysplasia 90% Broad forehead 50% Cleft palate 50% Hyperlordosis 50% Hypertelorism 50% Malar flattening 50% Osteoarthritis 50% Talipes 50% Cataract 7.5% Glaucoma 7.5% Hearing impairment 7.5% Kyphosis 7.5% Myopia 7.5% Nystagmus 7.5% Retinal detachment 7.5% Scoliosis 7.5% Autosomal dominant inheritance - Barrel-shaped chest - Cervical myelopathy - Coxa vara - Delayed calcaneal ossification - Delayed pubic bone ossification - Flat face - Flattened epiphysis - Hip dislocation - Hypoplasia of the odontoid process - Limitation of knee mobility - Limited elbow movement - Limited hip movement - Lumbar hyperlordosis - Muscular hypotonia - Neonatal short-trunk short stature - Ovoid vertebral bodies - Pectus carinatum - Platyspondyly - Respiratory distress - Restrictive lung disease - Spondyloepiphyseal dysplasia - Talipes equinovarus - Vitreoretinal degeneration - Waddling gait - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005840-3" qtype="inheritance">Is Spondyloepiphyseal dysplasia congenita inherited ?</Question>
+			<Answer>How is spondyloepiphyseal dysplasia congenita inherited? Spondyloepiphyseal dysplasia (SEDC) is typically inherited in an autosomal dominant manner. This means that one altered (mutated) gene in each cell is sufficient to cause the disorder. Most cases of SEDC do not result from inheriting it from a parent, however; the condition more commonly results from a random, new mutation in the gene occurring for the first time in an affected individual who does not have a history SEDC in the family. In most of these cases, the risk to have another child with the condition is comparable to the risk for an individual in the general population to have a child with the condition. A few cases of autosomal recessive forms of SEDC have been reported. Germline mosaicism has also been reported for this condition. In this case, the parent does not have the mutated gene in all the cells of the body (and is not affected), but only in some of the germ cells (sperm or egg cells). The recurrence risk for a parent with germline mosaicism to have another affected child is difficult to predict. For conditions with autosomal dominant inheritance, studies have demonstrated that the risk to have another affected child may be low (about 1%), moderate (about 6%), or higher (about 30%), depending on the proportion of germ cells with the mutation as well as the disorder itself.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

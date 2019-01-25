@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000301" source="GHR" url="https://ghr.nlm.nih.gov/condition/dopamine-transporter-deficiency-syndrome">
+<Focus>dopamine transporter deficiency syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2751067</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DTDS</Synonym>
+		<Synonym>infantile parkinsonism-dystonia</Synonym>
+		<Synonym>parkinsonism-dystonia, infantile</Synonym>
+		<Synonym>PKDYS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000301-1" qtype="information">What is (are) dopamine transporter deficiency syndrome ?</Question>
+			<Answer>Dopamine transporter deficiency syndrome is a rare movement disorder. The condition is also known as infantile parkinsonism-dystonia because the problems with movement (dystonia and parkinsonism, described below) usually start in infancy and worsen over time. However, the features of the condition sometimes do not appear until childhood or later.  People with dopamine transporter deficiency syndrome develop a pattern of involuntary, sustained muscle contractions known as dystonia. The dystonia is widespread (generalized), affecting many different muscles. The continuous muscle cramping and spasms cause difficulty with basic activities, including speaking, eating, drinking, picking up objects, and walking.  As the condition worsens, affected individuals develop parkinsonism, which is a group of movement abnormalities including tremors, unusually slow movement (bradykinesia), rigidity, and an inability to hold the body upright and balanced (postural instability). Other signs and symptoms that can develop include abnormal eye movements; reduced facial expression (hypomimia); disturbed sleep; frequent episodes of pneumonia; and problems with the digestive system, including a backflow of acidic stomach contents into the esophagus (gastroesophageal reflux) and constipation.  People with dopamine transporter deficiency syndrome may have a shortened lifespan, although the long-term effects of this condition are not fully understood. Children with this condition have died from pneumonia and breathing problems. When the first signs and symptoms appear later in life, affected individuals may survive into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000301-2" qtype="frequency">How many people are affected by dopamine transporter deficiency syndrome ?</Question>
+			<Answer>Dopamine transporter deficiency syndrome appears to be a rare disease; only about 20 affected individuals have been described in the medical literature. Researchers believe that the condition is probably underdiagnosed because its signs and symptoms overlap with cerebral palsy and other movement disorders.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000301-3" qtype="genetic changes">What are the genetic changes related to dopamine transporter deficiency syndrome ?</Question>
+			<Answer>Dopamine transporter deficiency syndrome is caused by mutations in the SLC6A3 gene. This gene provides instructions for making a protein called the dopamine transporter. This protein is embedded in the membrane of certain nerve cells (neurons) in the brain, where it transports a molecule called dopamine into the cell. Dopamine is a chemical messenger (neurotransmitter) that relays signals from one neuron to another. Dopamine has many important functions, including playing complex roles in thought (cognition), motivation, behavior, and control of movement.  Mutations in the SLC6A3 gene impair or eliminate the function of the dopamine transporter. The resulting shortage (deficiency) of functional transporter disrupts dopamine signaling in the brain. Although dopamine has a critical role in controlling movement, it is unclear how altered dopamine signaling causes the specific movement abnormalities found in people with dopamine transporter deficiency syndrome.  Studies suggest that the age at which signs and symptoms appear is related to how severely the function of the dopamine transporter is affected. Affected individuals who develop movement problems starting in infancy most often have transporter activity that is less than 5 percent of normal. Those whose movement problems appear in childhood or later tend to have somewhat higher levels of transporter activity, although they are still lower than normal. Researchers speculate that higher levels of transporter activity may delay the onset of the disease in these individuals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000301-4" qtype="inheritance">Is dopamine transporter deficiency syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000301-5" qtype="treatment">What are the treatments for dopamine transporter deficiency syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of dopamine transporter deficiency syndrome:  - Gene Review: Gene Review: Parkinson Disease Overview  - Genetic Testing Registry: Infantile Parkinsonism-dystonia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

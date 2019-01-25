@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006254" source="GARD" url="https://rarediseases.info.nih.gov/gard/3102/tylosis-with-esophageal-cancer">
+<Focus>Tylosis with esophageal cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1835664</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TOC</Synonym>
+		<Synonym>Keratosis palmoplantaris with esophageal cancer</Synonym>
+		<Synonym>Howel-Evans syndrome</Synonym>
+		<Synonym>Keratosis palmaris et plantaris with esophageal cancer</Synonym>
+		<Synonym>Howell-Evans syndrome</Synonym>
+		<Synonym>Palmoplantar keratoderma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006254-1" qtype="information">What is (are) Tylosis with esophageal cancer ?</Question>
+			<Answer>Tylosis with esophageal cancer (TOC) is an inherited condition characterized by palmoplantar keratoderma and esophageal cancer. The palmoplantar keratoderma usually begins around age 10, and esophageal cancer may form after age 20. This condition is caused by a mutation in the RHBDF2 gene and is inherited in an autosomal dominant pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006254-2" qtype="symptoms">What are the symptoms of Tylosis with esophageal cancer ?</Question>
+			<Answer>What are the signs and symptoms of Tylosis with esophageal cancer? The main features of Tylosis with esophageal cancer are palmoplantar keratoderma and esophageal cancer. The palmoplantar keratoderma usually begins around age 10, and the soles of the feet are usually more severely affected that the palms of the hands. Esophageal carcinoma usually develops in the lower two-thirds of the esophagus at an average age of 45 years. The Human Phenotype Ontology provides the following list of signs and symptoms for Tylosis with esophageal cancer. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the intestine 90% Esophageal neoplasm 90% Gastrointestinal hemorrhage 90% Nausea and vomiting 90% Palmoplantar keratoderma 90% Abnormality of the mediastinum 50% Ascites 50% Feeding difficulties in infancy 50% Hepatomegaly 50% Weight loss 50% Clubbing of toes 7.5% Vocal cord paresis 7.5% Abnormality of the mouth - Autosomal dominant inheritance - Diffuse palmoplantar hyperkeratosis - Esophageal carcinoma - Parakeratosis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006254-3" qtype="causes">What causes Tylosis with esophageal cancer ?</Question>
+			<Answer>What causes Tylosis with esophageal cancer? Mutations in the RHBDF2 gene have been shown to cause the development of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0006254-4" qtype="inheritance">Is Tylosis with esophageal cancer inherited ?</Question>
+			<Answer>How is Tylosis with esophageal cancer inherited? This condition has an autosomal dominant pattern of inheritance, which means that a mutation in one copy of the altered gene in each cell is sufficient to cause the disorder. Affected individuals typically have one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0006254-5" qtype="treatment">What are the treatments for Tylosis with esophageal cancer ?</Question>
+			<Answer>How might Tylosis with esophageal cancer be treated? Affected individuals may have periodic endoscopic and oral cavity evaluations by a gastroentrologist to detect esophageal cancer. For the palmoplantar keratoderma, a dermatologist may recommend oral retinoids such as etretinate, isotretinoin, and acitretin. Topical therapies may include soaking in salt water and then gentle removal of dead tissue (debridement) and 50% propylene glycol in water under plastic dressing overnight weekly.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

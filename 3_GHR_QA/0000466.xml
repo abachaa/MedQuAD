@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000466" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-multiple-osteochondromas">
+<Focus>hereditary multiple osteochondromas</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015306</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bessel-Hagen disease</Synonym>
+		<Synonym>diaphyseal aclasis</Synonym>
+		<Synonym>exostoses, multiple hereditary</Synonym>
+		<Synonym>familial exostoses</Synonym>
+		<Synonym>hereditary multiple exostoses</Synonym>
+		<Synonym>multiple cartilaginous exostoses</Synonym>
+		<Synonym>multiple congenital exostosis</Synonym>
+		<Synonym>multiple hereditary exostoses</Synonym>
+		<Synonym>multiple osteochondromas</Synonym>
+		<Synonym>multiple osteochondromatosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000466-1" qtype="information">What is (are) hereditary multiple osteochondromas ?</Question>
+			<Answer>Hereditary multiple osteochondromas is a condition in which people develop multiple benign (noncancerous) bone tumors called osteochondromas. The number of osteochondromas and the bones on which they are located vary greatly among affected individuals. The osteochondromas are not present at birth, but approximately 96 percent of affected people develop multiple osteochondromas by the time they are 12 years old. Osteochondromas typically form at the end of long bones and on flat bones such as the hip and shoulder blade. Once people with hereditary multiple osteochondromas reach adult height and their bones stop growing, the development of new osteochondromas also usually stops.  Multiple osteochondromas can disrupt bone growth and can cause growth disturbances of the arms, hands, and legs, leading to short stature. Often these problems with bone growth do not affect the right and left limb equally, resulting in uneven limb lengths (limb length discrepancy). Bowing of the forearm or ankle and abnormal development of the hip joints (hip dysplasia) caused by osteochondromas can lead to difficulty walking and general discomfort. Multiple osteochondromas may also result in pain, limited range of joint movement, and pressure on nerves, blood vessels, the spinal cord, and tissues surrounding the osteochondromas.  Osteochondromas are typically benign; however, in some instances these tumors become malignant (cancerous). Researchers estimate that people with hereditary multiple osteochondromas have a 1 in 20 to 1 in 200 lifetime risk of developing cancerous osteochondromas (called sarcomas).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000466-2" qtype="frequency">How many people are affected by hereditary multiple osteochondromas ?</Question>
+			<Answer>The incidence of hereditary multiple osteochondromas is estimated to be 1 in 50,000 individuals. This condition occurs more frequently in some isolated populations: the incidence is approximately 1 in 1,000 in the Chamorro population of Guam and 1 in 77 in the Ojibway Indian population of Manitoba, Canada.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000466-3" qtype="genetic changes">What are the genetic changes related to hereditary multiple osteochondromas ?</Question>
+			<Answer>Mutations in the EXT1 and EXT2 genes cause hereditary multiple osteochondromas. The EXT1 gene and the EXT2 gene provide instructions for producing the proteins exostosin-1 and exostosin-2, respectively. The two exostosin proteins bind together and form a complex found in a cell structure called the Golgi apparatus, which modifies newly produced enzymes and other proteins. In the Golgi apparatus, the exostosin-1 and exostosin-2 complex modifies a protein called heparan sulfate so it can be used by the cell.  When there is a mutation in exostosin-1 or exostosin-2, heparan sulfate cannot be processed correctly and is nonfunctional. Although heparan sulfate is involved in many bodily processes, it is unclear how the lack of this protein contributes to the development of osteochondromas.  If the condition is caused by a mutation in the EXT1 gene it is called hereditary multiple osteochondromas type 1. A mutation in the EXT2 gene causes hereditary multiple osteochondromas type 2. While both type 1 and type 2 involve multiple osteochondromas, mutations in the EXT1 gene likely account for 55 to 75 percent of all cases of hereditary multiple osteochondromas, and the severity of symptoms associated with osteochondromas seems to be greater in type 1.  Researchers estimate that about 15 percent of people with hereditary multiple osteochondromas have no mutation in either the EXT1 or the EXT2 gene. It is not known why multiple osteochondromas form in these individuals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000466-4" qtype="inheritance">Is hereditary multiple osteochondromas inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000466-5" qtype="treatment">What are the treatments for hereditary multiple osteochondromas ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary multiple osteochondromas:  - Gene Review: Gene Review: Hereditary Multiple Osteochondromas  - Genetic Testing Registry: Multiple congenital exostosis  - Genetic Testing Registry: Multiple exostoses type 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

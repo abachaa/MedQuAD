@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000763" source="GHR" url="https://ghr.nlm.nih.gov/condition/otospondylomegaepiphyseal-dysplasia">
+<Focus>otospondylomegaepiphyseal dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1855310</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chondrodystrophy with sensorineural deafness</Synonym>
+		<Synonym>Insley-Astley syndrome</Synonym>
+		<Synonym>Mega-epiphyseal dwarfism</Synonym>
+		<Synonym>Nance-Insley syndrome</Synonym>
+		<Synonym>Nance-Sweeney chondrodysplasia</Synonym>
+		<Synonym>OSMED</Synonym>
+		<Synonym>Oto-spondylo-megaepiphyseal dysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000763-1" qtype="information">What is (are) otospondylomegaepiphyseal dysplasia ?</Question>
+			<Answer>Otospondylomegaepiphyseal dysplasia (OSMED) is a skeletal disorder characterized by skeletal abnormalities, distinctive facial features, and severe hearing loss. The condition involves the ears (oto-), affects the bones of the spine (spondylo-), and enlarges the ends (epiphyses) of long bones in the arms and legs. The features of OSMED are similar to those of another skeletal disorder, Weissenbacher-Zweymller syndrome.  People with OSMED are often shorter than average because the bones in their legs are unusually short. Other skeletal features include enlarged joints; short arms, hands, and fingers; and flattened bones of the spine (platyspondyly). People with the disorder often experience back and joint pain, limited joint movement, and arthritis that begins early in life.  Severe high-tone hearing loss is common in people with OSMED. Typical facial features include protruding eyes; a flattened bridge of the nose; an upturned nose with a large, rounded tip; and a small lower jaw. Virtually all affected infants are born with an opening in the roof of the mouth (a cleft palate). The skeletal features of OSMED tend to diminish during childhood, but other signs and symptoms, such as hearing loss and joint pain, persist into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000763-2" qtype="frequency">How many people are affected by otospondylomegaepiphyseal dysplasia ?</Question>
+			<Answer>This condition is rare; the prevalence is unknown. Only a few families with OSMED have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000763-3" qtype="genetic changes">What are the genetic changes related to otospondylomegaepiphyseal dysplasia ?</Question>
+			<Answer>Mutations in the COL11A2 gene cause OSMED. The COL11A2 gene is one of several genes that provide instructions for the production of type XI collagen. This type of collagen is important for the normal development of bones and other connective tissues that form the body&apos;s supportive framework. Mutations in the COL11A2 gene that cause OSMED disrupt the production or assembly of type XI collagen molecules. The loss of type XI collagen prevents bones and other connective tissues from developing properly.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000763-4" qtype="inheritance">Is otospondylomegaepiphyseal dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000763-5" qtype="treatment">What are the treatments for otospondylomegaepiphyseal dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of OSMED:  - Genetic Testing Registry: Otospondylomegaepiphyseal dysplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

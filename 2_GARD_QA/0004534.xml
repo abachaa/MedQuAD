@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004534" source="GARD" url="https://rarediseases.info.nih.gov/gard/8198/omenn-syndrome">
+<Focus>Omenn syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1801959</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Reticuloendotheliosis familial with eosinophilia</Synonym>
+		<Synonym>Severe combined immunodeficiency with hypereosinophilia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004534-1" qtype="information">What is (are) Omenn syndrome ?</Question>
+			<Answer>Omenn syndrome is an autosomal recessive form of severe combined immunodeficiency (SCID) characterized by erythroderma (skin redness), desquamation (peeling skin), alopecia (hair loss), chronic diarrhea, failure to thrive, lymphadenopathy (enlarged lymph nodes), eosinophilia, hepatosplenomegaly, and elevated serum IgE levels. Patients are highly susceptible to infection and develop fungal, bacterial, and viral infections typical of SCID. In this syndrome, the SCID is associated with low IgG, IgA, and IgM and the virtual absence of B cells. There is an elevated number of T cells, but their function is impaired. Omenn syndrome has been found to be caused by mutations in the RAG1 or RAG2 genes. Additional causative genes have been identified. Early recognition of this condition is important for genetic counseling and early treatment. If left untreated, Omenn syndrome is fatal. The prognosis may be improved  with early diagnosis and treatment with  compatible bone marrow or cord blood stem cell transplantation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004534-2" qtype="symptoms">What are the symptoms of Omenn syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Omenn syndrome? Infants with Omenn syndrome typically present shortly after birth, usually by 3 months of age. This is similar to other types of severe combined immunodeficiency (SCID). The characteristic skin findings (red and peeling skin), chronic diarrhea, and failure to thrive often precede the onset of infections. Life-threatening infections caused by common viral, bacterial, and fungal pathogens occur next. Lymphadenopathy and hepatosplenomegaly, both symptoms unique to Omenn syndrome, develop next. The Human Phenotype Ontology provides the following list of signs and symptoms for Omenn syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Alopecia 90% Hepatomegaly 90% Lymphadenopathy 90% Malabsorption 90% Severe combined immunodeficiency 90% Abnormality of eosinophils 50% Abnormality of temperature regulation 50% Aplasia/Hypoplasia of the eyebrow 50% Dry skin 50% Edema 50% Leukocytosis 50% Pruritus 50% Splenomegaly 50% Thickened skin 50% Abnormality of the fingernails 7.5% Abnormality of the metaphyses 7.5% Anemia 7.5% Autoimmunity 7.5% Hypothyroidism 7.5% Lymphoma 7.5% Nephrotic syndrome 7.5% Sepsis 7.5% Thyroiditis 7.5% Autosomal recessive inheritance - B lymphocytopenia - Diarrhea - Eosinophilia - Erythroderma - Failure to thrive - Hypoplasia of the thymus - Hypoproteinemia - Pneumonia - Recurrent bacterial infections - Recurrent fungal infections - Recurrent viral infections - Severe B lymphocytopenia - Thrombocytopenia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004534-3" qtype="causes">What causes Omenn syndrome ?</Question>
+			<Answer>What causes Omenn syndrome? Omenn syndrome is a genetically heterogeneous condition (meaning that it may be caused by a number of different genes). While most cases are attributed to mutations in the RAG genes (RAG-1 and RAG2 genes have been mapped to chromosome band 11p13), recent reports describe Omenn syndrome in the absence of RAG mutations. Omenn syndrome caused by mutations in ARTEMIS, ADA, ILRA2, ILRA7, CHD7, and DNA ligase 4 have been described in the medical literature. Some cases of Omenn syndrome have also been found in association with 22q11 microdeletion syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004534-4" qtype="treatment">What are the treatments for Omenn syndrome ?</Question>
+			<Answer>How might Omenn syndrome be treated? The standard treatment for Omenn syndrome is bone marrow transplantation or cord blood stem cell transplantation. General care for any patient with severe combined immunodeficiency (SCID), including Omenn syndrome, includes isolation to prevent infection and meticulous skin and mucosal hygienic practices while the patient is awaiting stem cell reconstitution. Broad-spectrum antibiotics may be administered parenterally while cultures and body fluid analyses are in progress. Parenteral nutrition may also be provided as therapy for diarrhea and failure to thrive. A detailed description of therapeutic options is provided in the referenced eMedicine article.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

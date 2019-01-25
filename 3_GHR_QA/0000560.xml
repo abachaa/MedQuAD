@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000560" source="GHR" url="https://ghr.nlm.nih.gov/condition/kleefstra-syndrome">
+<Focus>Kleefstra syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0795833</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>9q subtelomeric deletion syndrome</Synonym>
+		<Synonym>9q- syndrome</Synonym>
+		<Synonym>9q34.3 deletion syndrome</Synonym>
+		<Synonym>9q34.3 microdeletion syndrome</Synonym>
+		<Synonym>chromosome 9q deletion syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000560-1" qtype="information">What is (are) Kleefstra syndrome ?</Question>
+			<Answer>Kleefstra syndrome is a disorder that involves many parts of the body. Characteristic features of Kleefstra syndrome include developmental delay and intellectual disability, severely limited or absent speech, and weak muscle tone (hypotonia). Affected individuals also have an unusually small head size (microcephaly) and a wide, short skull (brachycephaly). Distinctive facial features include eyebrows that grow together in the middle (synophrys), widely spaced eyes (hypertelorism), a sunken appearance of the middle of the face (midface hypoplasia), nostrils that open to the front rather than downward (anteverted nares), a protruding jaw (prognathism), rolled out (everted) lips, and a large tongue (macroglossia). Affected individuals may have a high birth weight and childhood obesity.  People with Kleefstra syndrome may also have structural brain abnormalities, congenital heart defects, genitourinary abnormalities, seizures, and a tendency to develop severe respiratory infections. During childhood they may exhibit features of autism or related developmental disorders affecting communication and social interaction. In adolescence, they may develop a general loss of interest and enthusiasm (apathy) or unresponsiveness (catatonia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000560-2" qtype="frequency">How many people are affected by Kleefstra syndrome ?</Question>
+			<Answer>The prevalence of Kleefstra syndrome is unknown. Only recently has testing become available to distinguish it from other disorders with similar features.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000560-3" qtype="genetic changes">What are the genetic changes related to Kleefstra syndrome ?</Question>
+			<Answer>Kleefstra syndrome is caused by the loss of the EHMT1 gene or by mutations that disable its function. The EHMT1 gene provides instructions for making an enzyme called euchromatic histone methyltransferase 1. Histone methyltransferases are enzymes that modify proteins called histones. Histones are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones, histone methyltransferases can turn off (suppress) the activity of certain genes, which is essential for normal development and function.  Most people with Kleefstra syndrome are missing a sequence of about 1 million DNA building blocks (base pairs) on one copy of chromosome 9 in each cell. The deletion occurs near the end of the long (q) arm of the chromosome at a location designated q34.3, a region containing the EHMT1 gene. Some affected individuals have shorter or longer deletions in the same region.  The loss of the EHMT1 gene from one copy of chromosome 9 in each cell is believed to be responsible for the characteristic features of Kleefstra syndrome in people with the 9q34.3 deletion. However, the loss of other genes in the same region may lead to additional health problems in some affected individuals.  About 25 percent of individuals with Kleefstra syndrome do not have a deletion of genetic material from chromosome 9; instead, these individuals have mutations in the EHMT1 gene. Some of these mutations change single protein building blocks (amino acids) in euchromatic histone methyltransferase 1. Others create a premature stop signal in the instructions for making the enzyme or alter the way the gene&apos;s instructions are pieced together to produce the enzyme. These changes generally result in an enzyme that is unstable and decays rapidly, or that is disabled and cannot function properly.  Either a deletion or a mutation affecting the EHMT1 gene results in a lack of functional euchromatic histone methyltransferase 1 enzyme. A lack of this enzyme impairs proper control of the activity of certain genes in many of the body&apos;s organs and tissues, resulting in the abnormalities of development and function characteristic of Kleefstra syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000560-4" qtype="inheritance">Is Kleefstra syndrome inherited ?</Question>
+			<Answer>The inheritance of Kleefstra syndrome is considered to be autosomal dominant because a deletion in one copy of chromosome 9 in each cell or a mutation in one copy of the EHMT1 gene is sufficient to cause the condition. Most cases of Kleefstra syndrome are not inherited, however. The genetic change occurs most often as a random event during the formation of reproductive cells (eggs or sperm) or in early fetal development. Affected people typically have no history of the disorder in their family, though they can pass the disorder on to their children. Only a few people with Kleefstra syndrome have been known to reproduce.  Rarely, affected individuals inherit a chromosome 9 with a deleted segment from an unaffected parent. In these cases, the parent carries a chromosomal rearrangement called a balanced translocation, in which no genetic material is gained or lost. Balanced translocations usually do not cause any health problems; however, they can become unbalanced as they are passed to the next generation. Children who inherit an unbalanced translocation can have a chromosomal rearrangement with extra or missing genetic material. Individuals with Kleefstra syndrome who inherit an unbalanced translocation are missing genetic material from the long arm of chromosome 9.  A few individuals with Kleefstra syndrome have inherited the chromosome 9q34.3 deletion from an unaffected parent who is mosaic for the deletion. Mosaic means that an individual has the deletion in some cells (including some sperm or egg cells), but not in others.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000560-5" qtype="treatment">What are the treatments for Kleefstra syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Kleefstra syndrome:  - Gene Review: Gene Review: Kleefstra Syndrome  - Genetic Testing Registry: Chromosome 9q deletion syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

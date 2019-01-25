@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000692" source="GHR" url="https://ghr.nlm.nih.gov/condition/multiple-mitochondrial-dysfunctions-syndrome">
+<Focus>multiple mitochondrial dysfunctions syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3502075</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MMDS</Synonym>
+		<Synonym>multiple mitochondrial dysfunction syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000692-1" qtype="information">What is (are) multiple mitochondrial dysfunctions syndrome ?</Question>
+			<Answer>Multiple mitochondrial dysfunctions syndrome is characterized by impairment of cellular structures called mitochondria, which are the energy-producing centers of cells. While certain mitochondrial disorders are caused by impairment of a single stage of energy production, individuals with multiple mitochondrial dysfunctions syndrome have reduced function of more than one stage. The signs and symptoms of this severe condition begin early in life, and affected individuals usually do not live past infancy.  Affected infants typically have severe brain dysfunction (encephalopathy), which can contribute to weak muscle tone (hypotonia), seizures, and delayed development of mental and movement abilities (psychomotor delay). These infants often have difficulty growing and gaining weight at the expected rate (failure to thrive). Most affected babies have a buildup of a chemical called lactic acid in the body (lactic acidosis), which can be life-threatening. They may also have high levels of a molecule called glycine (hyperglycinemia) or elevated levels of sugar (hyperglycemia) in the blood. Some babies with multiple mitochondrial dysfunctions syndrome have high blood pressure in the blood vessels that connect to the lungs (pulmonary hypertension) or weakening of the heart muscle (cardiomyopathy).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000692-2" qtype="frequency">How many people are affected by multiple mitochondrial dysfunctions syndrome ?</Question>
+			<Answer>Multiple mitochondrial dysfunctions syndrome is a rare condition; its prevalence is unknown. It is one of several conditions classified as mitochondrial disorders, which affect an estimated 1 in 5,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000692-3" qtype="genetic changes">What are the genetic changes related to multiple mitochondrial dysfunctions syndrome ?</Question>
+			<Answer>Multiple mitochondrial dysfunctions syndrome can be caused by mutations in the NFU1 or BOLA3 gene. The proteins produced from each of these genes appear to be involved in the formation of molecules called iron-sulfur (Fe-S) clusters or in the attachment of these clusters to other proteins. Certain proteins require attachment of Fe-S clusters to function properly.  The NFU-1 and BOLA3 proteins play an important role in mitochondria. In these structures, several proteins carry out a series of chemical steps to convert the energy in food into a form that cells can use. Many of the proteins involved in these steps require Fe-S clusters to function, including protein complexes called complex I, complex II, and complex III.  Fe-S clusters are also required for another mitochondrial protein to function; this protein is involved in the modification of additional proteins that aid in energy production in mitochondria, including the pyruvate dehydrogenase complex and the alpha-ketoglutarate dehydrogenase complex (also known as the oxoglutarate dehydrogenase complex). This modification is also critical to the function of the glycine cleavage system, a set of proteins that breaks down a protein building block (amino acid) called glycine when levels become too high.  Mutations in the NFU1 or BOLA3 gene reduce or eliminate production of the respective protein, which impairs Fe-S cluster formation. Consequently, proteins affected by the presence of Fe-S clusters, including those involved in energy production and glycine breakdown, cannot function normally. Reduced activity of complex I, II, or III, pyruvate dehydrogenase, or alpha-ketoglutarate dehydrogenase leads to potentially fatal lactic acidosis, encephalopathy, and other signs and symptoms of multiple mitochondrial dysfunctions syndrome. In some affected individuals, impairment of the glycine cleavage system leads to a buildup of glycine.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000692-4" qtype="inheritance">Is multiple mitochondrial dysfunctions syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000692-5" qtype="treatment">What are the treatments for multiple mitochondrial dysfunctions syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of multiple mitochondrial dysfunctions syndrome:  - Gene Review: Gene Review: Mitochondrial Disorders Overview  - Genetic Testing Registry: Multiple mitochondrial dysfunctions syndrome 1  - Genetic Testing Registry: Multiple mitochondrial dysfunctions syndrome 2  - Genetic Testing Registry: Multiple mitochondrial dysfunctions syndrome 3   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

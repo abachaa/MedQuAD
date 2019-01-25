@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005860" source="GARD" url="https://rarediseases.info.nih.gov/gard/6798/spondylothoracic-dysostosis">
+<Focus>Spondylothoracic dysostosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265343</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Spondylothoracic dysplasia</Synonym>
+		<Synonym>Jarcho-Levin syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005860-1" qtype="information">What is (are) Spondylothoracic dysostosis ?</Question>
+			<Answer>Spondylothoracic dysostosis is a rare condition that affects the bones of the spine and the ribs. Signs and symptoms are generally present at birth and may include short-trunk dwarfism (a short body with normal length arms and legs); a small chest cavity; misshapen and abnormally fused vertebrae (bones of the spine); and fused ribs at the part nearest the spine. Affected people may also have life-threatening breathing problems and recurrent lung infections, which can significantly reduce lifespan. Spondylothoracic dysostosis is caused by changes (mutations) in the MESP2 gene and is inherited in an autosomal recessive manner. Treatment is based on the signs and symptoms present in each person and may include surgery for bone malformations and respiratory support.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005860-2" qtype="symptoms">What are the symptoms of Spondylothoracic dysostosis ?</Question>
+			<Answer>What are the signs and symptoms of spondylothoracic dysostosis? Signs and symptoms of spondylothoracic dysostosis, include spine and vertebral abnormalities which result in a shortened spine, neck, and trunk, as well as rib anomalies including fused ribs which in combination with the spine anomalies result in a &quot;crab-like&quot; appearance to the rib cage. The shortened spine and rib cage anomalies can cause serious breathing problems and recurring lung infections. These complications result in a 32% death rate in early childhood. Other complications of spondylothoracic dysostosis, include shortened stature (due to the spine and vertebral defects) and limited neck motion. Symptom and symptom severity may vary from patient to patient, however symptoms tend to be the worse for children who carry two &quot;E230X&quot; mutations in the MESP2 gene. Most patients with spondylothoracic dysostosis have normal intelligence and neurological problems are infrequent.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005860-3" qtype="inheritance">Is Spondylothoracic dysostosis inherited ?</Question>
+			<Answer>Is spondylothoracic dysostosis genetic? Yes. Spondylothoracic dysostosis is caused by mutations in the MESP2 gene. It is inherited in an autosomal recessive fashion.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005860-4" qtype="treatment">What are the treatments for Spondylothoracic dysostosis ?</Question>
+			<Answer>What treatment is available for spondylothoracic dysostosis? Many infants born with spondylothoracic dysostosis have difficulty breathing due to their small, malformed chests, and therefore are prone to repeated respiratory infections (pneumonia). As the infant grows, the chest is too small to accommodate the growing lungs, and as a result, life threatening complications may develop. Treatment usually consists of intensive medical care, including treatment of respiratory infections, bone surgery, and orthopedic treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

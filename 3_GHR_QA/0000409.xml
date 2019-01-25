@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000409" source="GHR" url="https://ghr.nlm.nih.gov/condition/gitelman-syndrome">
+<Focus>Gitelman syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268450</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial hypokalemia-hypomagnesemia</Synonym>
+		<Synonym>Gitelman's syndrome</Synonym>
+		<Synonym>GS</Synonym>
+		<Synonym>hypokalemia-hypomagnesemia, primary renotubular, with hypocalciuria</Synonym>
+		<Synonym>tubular hypomagnesemia-hypokalemia with hypocalcuria</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000409-1" qtype="information">What is (are) Gitelman syndrome ?</Question>
+			<Answer>Gitelman syndrome is a kidney disorder that causes an imbalance of charged atoms (ions) in the body, including ions of potassium, magnesium, and calcium.  The signs and symptoms of Gitelman syndrome usually appear in late childhood or adolescence. Common features of this condition include painful muscle spasms (tetany), muscle weakness or cramping, dizziness, and salt craving. Also common is a tingling or prickly sensation in the skin (paresthesias), most often affecting the face. Some individuals with Gitelman syndrome experience excessive tiredness (fatigue), low blood pressure, and a painful joint condition called chondrocalcinosis. Studies suggest that Gitelman syndrome may also increase the risk of a potentially dangerous abnormal heart rhythm called ventricular arrhythmia.  The signs and symptoms of Gitelman syndrome vary widely, even among affected members of the same family. Most people with this condition have relatively mild symptoms, although affected individuals with severe muscle cramping, paralysis, and slow growth have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000409-2" qtype="frequency">How many people are affected by Gitelman syndrome ?</Question>
+			<Answer>Gitelman syndrome affects an estimated 1 in 40,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000409-3" qtype="genetic changes">What are the genetic changes related to Gitelman syndrome ?</Question>
+			<Answer>Gitelman syndrome is usually caused by mutations in the SLC12A3 gene. Less often, the condition results from mutations in the CLCNKB gene. The proteins produced from these genes are involved in the kidneys&apos; reabsorption of salt (sodium chloride or NaCl) from urine back into the bloodstream. Mutations in either gene impair the kidneys&apos; ability to reabsorb salt, leading to the loss of excess salt in the urine (salt wasting). Abnormalities of salt transport also affect the reabsorption of other ions, including ions of potassium, magnesium, and calcium. The resulting imbalance of ions in the body underlies the major features of Gitelman syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000409-4" qtype="inheritance">Is Gitelman syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000409-5" qtype="treatment">What are the treatments for Gitelman syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Gitelman syndrome:  - Genetic Testing Registry: Familial hypokalemia-hypomagnesemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

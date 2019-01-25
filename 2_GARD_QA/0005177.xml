@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005177" source="GARD" url="https://rarediseases.info.nih.gov/gard/7501/pulmonary-arterial-hypertension">
+<Focus>Pulmonary arterial hypertension</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152171</CUI>
+			<CUI>C3714844</CUI>
+			<CUI>C2973725</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Primary pulmonary hypertension</Synonym>
+		<Synonym>PPH</Synonym>
+		<Synonym>PAH</Synonym>
+		<Synonym>Idiopathic pulmonary arterial hypertension</Synonym>
+		<Synonym>Idiopathic pulmonary hypertension</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005177-1" qtype="information">What is (are) Pulmonary arterial hypertension ?</Question>
+			<Answer>Pulmonary arterial hypertension (PAH) is a progressive condition that affects the heart and lungs. It is characterized by abnormally high blood pressure (hypertension) in the pulmonary artery, the blood vessel that carries blood from the heart to the lungs. The most common signs and symptoms are shortness of breath (dyspnea) during exertion and fainting spells. As the condition worsens, people can experience dizziness, swelling (edema) of the ankles or legs, chest pain, and a racing pulse. Most cases of PAH occur in individuals with no family history of the disorder. Although some cases are due to mutations in the BMPR2 gene and inherited in an autosomal dominant pattern, a gene mutation has not yet been identified in most individuals. When PAH is inherited from an affected relative it is called &quot;familial&quot; PAH. Cases with no identifiable cause may be referred to as &quot;idiopathic&quot; PAH. PAH can also occur secondary to an underlying disorder such as connective tissue diseases, HIV infection, chronic hemolytic anemia, and congenital heart disease, to name a few. PAH can also be induced by certain drugs and toxins, for example fenfluramine and dexfenfluramine (appetite suppressants now banned by the FDA), toxic rapeseed oil, and amphetamines.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005177-2" qtype="symptoms">What are the symptoms of Pulmonary arterial hypertension ?</Question>
+			<Answer>What are the signs and symptoms of Pulmonary arterial hypertension? The Human Phenotype Ontology provides the following list of signs and symptoms for Pulmonary arterial hypertension. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Pulmonary hypertension 100% Chest pain 90% Elevated right atrial pressure 90% Increased pulmonary vascular resistance 90% Respiratory insufficiency 90% Right ventricular failure 90% Right ventricular hypertrophy 90% Edema of the lower limbs 50% Hepatomegaly 50% Vertigo 50% Abnormal thrombosis 33% Dyspnea 33% Pulmonary arterial medial hypertrophy 33% Pulmonary artery vasoconstriction 33% Pulmonary aterial intimal fibrosis 33% Abnormality of the tricuspid valve 7.5% Acrocyanosis 7.5% Ascites 7.5% Congestive heart failure 7.5% Hemoptysis 7.5% Recurrent respiratory infections 7.5% Sudden cardiac death 7.5% Arterial intimal fibrosis - Autosomal dominant inheritance - Hypertension - Incomplete penetrance - Telangiectasia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005177-3" qtype="treatment">What are the treatments for Pulmonary arterial hypertension ?</Question>
+			<Answer>How might pulmonary arterial hypertension be treated? People with pulmonary arterial hypertension (PAH) benefit from receiving treatment at specialized centers. The Pulmonary Hypertension Association offers a Find a Doctor tool which may aid you in locating your nearest center. Treatment of serious or life threatening PAH may involve continuous IV epoprostenol. Other treatment options, include treprostinil, iloprost, bosentan, ambrisentan, sildenafil, and tadalafil. Many of these treatments can be administered in various forms, such as by shot, IV, or inhalation. A small number of people with PAH respond well to long term oral calcium channel blockers. Blood thinners, diuretics, and supplemental oxygen may be prescribed as needed. Many drugs can be harmful to people with PAH. The following should be avoided: appetite suppressants, cocaine, amphetamines (and related compounds), low oxygen environments (such as high altitudes), and possibly estrogen compounds (oral contraceptives and hormone replacement therapy).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

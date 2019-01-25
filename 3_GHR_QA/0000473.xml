@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000473" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-sensory-and-autonomic-neuropathy-type-ii">
+<Focus>hereditary sensory and autonomic neuropathy type II</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0259749</CUI>
+			<CUI>C0020072</CUI>
+			<CUI>C0270914</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital sensory neuropathy</Synonym>
+		<Synonym>hereditary sensory and autonomic neuropathy type 2</Synonym>
+		<Synonym>HSAN type II</Synonym>
+		<Synonym>HSAN2</Synonym>
+		<Synonym>HSAN2A</Synonym>
+		<Synonym>HSAN2B</Synonym>
+		<Synonym>HSANII</Synonym>
+		<Synonym>HSN type II</Synonym>
+		<Synonym>Morvan disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000473-1" qtype="information">What is (are) hereditary sensory and autonomic neuropathy type II ?</Question>
+			<Answer>Hereditary sensory and autonomic neuropathy type II (HSAN2) is a condition that primarily affects the sensory nerve cells (sensory neurons), which transmit information about sensations such as pain, temperature, and touch. These sensations are impaired in people with HSAN2. In some affected people, the condition may also cause mild abnormalities of the autonomic nervous system, which controls involuntary body functions such as heart rate, digestion, and breathing. The signs and symptoms of HSAN2 typically begin in infancy or early childhood.  The first sign of HSAN2 is usually numbness in the hands and feet. Soon after, affected individuals lose the ability to feel pain or sense hot and cold. People with HSAN2 often develop open sores (ulcers) on their hands and feet. Because affected individuals cannot feel the pain of these sores, they may not seek treatment right away. Without treatment, the ulcers can become infected and may lead to amputation of the affected area. Unintentional self-injury is common in people with HSAN2, typically by biting the tongue, lips, or fingers. These injuries may lead to spontaneous amputation of the affected areas. Affected individuals often have injuries and fractures in their hands, feet, limbs, and joints that go untreated because of the inability to feel pain. Repeated injury can lead to a condition called Charcot joints, in which the bones and tissue surrounding joints are destroyed.  The effects of HSAN2 on the autonomic nervous system are more variable. Some infants with HSAN2 have trouble sucking, which makes it difficult for them to eat. People with HSAN2 may experience episodes in which breathing slows or stops for short periods (apnea); digestive problems such as the backflow of stomach acids into the esophagus (gastroesophageal reflux); or slow eye blink or gag reflexes. Affected individuals may also have weak deep tendon reflexes, such as the reflex being tested when a doctor taps the knee with a hammer.  Some people with HSAN2 lose a type of taste bud on the tip of the tongue called lingual fungiform papillae and have a diminished sense of taste.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000473-2" qtype="frequency">How many people are affected by hereditary sensory and autonomic neuropathy type II ?</Question>
+			<Answer>HSAN2 is a rare disease; however, the prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000473-3" qtype="genetic changes">What are the genetic changes related to hereditary sensory and autonomic neuropathy type II ?</Question>
+			<Answer>There are two types of HSAN2, called HSAN2A and HSAN2B, each caused by mutations in a different gene. HSAN2A is caused by mutations in the WNK1 gene, and HSAN2B is caused by mutations in the FAM134B gene. Although two different genes are involved, the signs and symptoms of HSAN2A and HSAN2B are the same.  The WNK1 gene provides instructions for making multiple versions (isoforms) of the WNK1 protein. HSAN2A is caused by mutations that affect a particular isoform called the WNK1/HSN2 protein. This protein is found in the cells of the nervous system, including nerve cells that transmit the sensations of pain, temperature, and touch (sensory neurons). The mutations involved in HSAN2A result in an abnormally short WNK1/HSN2 protein. Although the function of this protein is unknown, it is likely that the abnormally short version cannot function properly. People with HSAN2A have a reduction in the number of sensory neurons; however, the role that WNK1/HSN2 mutations play in that loss is unclear.  HSAN2B is caused by mutations in the FAM134B gene. These mutations may lead to an abnormally short and nonfunctional protein. The FAM134B protein is found in sensory and autonomic neurons. It is involved in the survival of neurons, particularly those that transmit pain signals, which are called nociceptive neurons. When the FAM134B protein is nonfunctional, neurons die by a process of self-destruction called apoptosis.  The loss of neurons leads to the inability to feel pain, temperature, and touch sensations and to the impairment of the autonomic nervous system seen in people with HSAN2.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000473-4" qtype="inheritance">Is hereditary sensory and autonomic neuropathy type II inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000473-5" qtype="treatment">What are the treatments for hereditary sensory and autonomic neuropathy type II ?</Question>
+			<Answer>These resources address the diagnosis or management of HSAN2:  - Gene Review: Gene Review: Hereditary Sensory and Autonomic Neuropathy Type II  - Genetic Testing Registry: Hereditary sensory and autonomic neuropathy type IIA  - Genetic Testing Registry: Hereditary sensory and autonomic neuropathy type IIB   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

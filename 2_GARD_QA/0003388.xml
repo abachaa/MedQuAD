@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003388" source="GARD" url="https://rarediseases.info.nih.gov/gard/9690/kienbocks-disease">
+<Focus>Kienbock's disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022682</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Kienbock disease</Synonym>
+		<Synonym>Bilateral Kienbock's disease</Synonym>
+		<Synonym>Osteochondrosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003388-1" qtype="information">What is (are) Kienbock's disease ?</Question>
+			<Answer>Kienbock&apos;s disease is a condition characterized by interruption of blood supply to one of the small bones of the hand near the wrist (the lunate). If blood supply to a bone stops, the bone can die; this is known as osteonecrosis. Affected people may first think they have a sprained wrist and may have experienced trauma to the wrist, which can disrupt the blood flow to the lunate. As the disease progresses, signs and symptoms may include a painful and/or swollen wrist; stiffness; decreased grip strength; tenderness directly over the bone; and pain or difficulty in turning the hand upward. The underlying cause of Kienbock&apos;s disease is unknown. Treatment aims to relieve the pressure on the bone and restore blood flow within the bone. Surgery may be recommended.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003388-2" qtype="symptoms">What are the symptoms of Kienbock's disease ?</Question>
+			<Answer>What are the signs and symptoms of Kienbock&apos;s disease? Kienbock&apos;s disease most commonly affects men between the ages of 20 and 40 years, but it affects women as well. Most affected people report a history of trauma to the wrist. Symptoms can vary depending on the stage of the condition, but usually include pain that is localized to the affected area, decreased motion, swelling, and weakness in the affected hand. Rarely, the condition may occur in both hands. The Human Phenotype Ontology provides the following list of signs and symptoms for Kienbock&apos;s disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the wrist 90% Arthralgia 90% Aseptic necrosis 90% Bone pain 90% Limitation of joint mobility 90% Osteoarthritis 50% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003388-3" qtype="inheritance">Is Kienbock's disease inherited ?</Question>
+			<Answer>Is Kienbock&apos;s disease inherited? There is currently no evidence that Kienbock&apos;s disease is inherited. However, the cause of Kienbock&apos;s disease is not known. It is possible that unidentified genetic factors contribute to the development of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003388-4" qtype="treatment">What are the treatments for Kienbock's disease ?</Question>
+			<Answer>What nonsurgical options are available for the treatment of Kienbock&apos;s disease? The primary means of nonsurgical treatment of Kienbock&apos;s disease involve immobilization and anti-inflammatory medications. The wrist may be immobilized through splinting or casting over a period of two to three weeks. Anti-inflammatory medications, such as aspirin or ibuprofen, can help to relieve pain and reduce swelling. If the pain continues after these conservative treatments, your physician may refer you to an orthopaedic or hand surgeon for further evaluation.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

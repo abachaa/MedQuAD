@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001807" source="GARD" url="https://rarediseases.info.nih.gov/gard/1820/desmoid-tumor">
+<Focus>Desmoid tumor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079218</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fibromatosis, familial infiltrative</Synonym>
+		<Synonym>FIF</Synonym>
+		<Synonym>Familial infiltrative fibromatosis</Synonym>
+		<Synonym>Desmoid disorder, hereditary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001807-1" qtype="symptoms">What are the symptoms of Desmoid tumor ?</Question>
+			<Answer>What are the signs and symptoms of Desmoid tumor? The Human Phenotype Ontology provides the following list of signs and symptoms for Desmoid tumor. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the abdominal wall 90% Sarcoma 90% Abdominal pain 50% Intestinal polyposis 50% Myalgia 50% Epidermoid cyst 33% Abnormality of retinal pigmentation 7.5% Abnormality of the upper urinary tract 7.5% Arthralgia 7.5% Chest pain 7.5% Gastrointestinal hemorrhage 7.5% Intestinal obstruction 7.5% Limitation of joint mobility 7.5% Malabsorption 7.5% Neoplasm of the skin 7.5% Osteolysis 7.5% Sepsis 7.5% Colon cancer 5% Autosomal dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

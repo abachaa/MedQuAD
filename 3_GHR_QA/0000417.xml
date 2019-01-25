@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000417" source="GHR" url="https://ghr.nlm.nih.gov/condition/glutaric-acidemia-type-i">
+<Focus>glutaric acidemia type I</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268595</CUI>
+			<CUI>C0268030</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>GA I</Synonym>
+		<Synonym>Glutaric acidemia I</Synonym>
+		<Synonym>Glutaric acidemia type 1</Synonym>
+		<Synonym>Glutaric aciduria I</Synonym>
+		<Synonym>Glutaryl-CoA dehydrogenase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000417-1" qtype="information">What is (are) glutaric acidemia type I ?</Question>
+			<Answer>Glutaric acidemia type I is an inherited disorder in which the body is unable to process certain proteins properly. People with this disorder have inadequate levels of an enzyme that helps break down the amino acids lysine, hydroxylysine, and tryptophan, which are building blocks of protein. Excessive levels of these amino acids and their intermediate breakdown products can accumulate and cause damage to the brain, particularly the basal ganglia, which are regions that help control movement. Intellectual disability may also occur.  The severity of glutaric acidemia type I varies widely; some individuals are only mildly affected, while others have severe problems. In most cases, signs and symptoms first occur in infancy or early childhood, but in a small number of affected individuals, the disorder first becomes apparent in adolescence or adulthood.  Some babies with glutaric acidemia type I are born with unusually large heads (macrocephaly). Affected individuals may have difficulty moving and may experience spasms, jerking, rigidity, or decreased muscle tone. Some individuals with glutaric acidemia have developed bleeding in the brain or eyes that could be mistaken for the effects of child abuse. Strict dietary control may help limit progression of the neurological damage. Stress caused by infection, fever or other demands on the body may lead to worsening of the signs and symptoms, with only partial recovery.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000417-2" qtype="frequency">How many people are affected by glutaric acidemia type I ?</Question>
+			<Answer>Glutaric acidemia type I occurs in approximately 1 of every 30,000 to 40,000 individuals. It is much more common in the Amish community and in the Ojibwa population of Canada, where up to 1 in 300 newborns may be affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000417-3" qtype="genetic changes">What are the genetic changes related to glutaric acidemia type I ?</Question>
+			<Answer>Mutations in the GCDH gene cause glutaric acidemia type I.  The GCDH gene provides instructions for making the enzyme glutaryl-CoA dehydrogenase. This enzyme is involved in processing the amino acids lysine, hydroxylysine, and tryptophan.  Mutations in the GCDH gene prevent production of the enzyme or result in the production of a defective enzyme that cannot function. This enzyme deficiency allows lysine, hydroxylysine and tryptophan and their intermediate breakdown products to build up to abnormal levels, especially at times when the body is under stress.  The intermediate breakdown products resulting from incomplete processing of lysine, hydroxylysine, and tryptophan can damage the brain, particularly the basal ganglia, causing the signs and symptoms of glutaric acidemia type I.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000417-4" qtype="inheritance">Is glutaric acidemia type I inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000417-5" qtype="treatment">What are the treatments for glutaric acidemia type I ?</Question>
+			<Answer>These resources address the diagnosis or management of glutaric acidemia type I:  - Baby&apos;s First Test  - Genetic Testing Registry: Glutaric aciduria, type 1   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

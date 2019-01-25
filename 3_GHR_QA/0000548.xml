@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000548" source="GHR" url="https://ghr.nlm.nih.gov/condition/juvenile-myoclonic-epilepsy">
+<Focus>juvenile myoclonic epilepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270853</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>adolescent myoclonic epilepsy</Synonym>
+		<Synonym>Janz syndrome</Synonym>
+		<Synonym>petit mal, impulsive</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000548-1" qtype="information">What is (are) juvenile myoclonic epilepsy ?</Question>
+			<Answer>Juvenile myoclonic epilepsy is a condition characterized by recurrent seizures (epilepsy). This condition begins in childhood or adolescence, usually between ages 12 and 18, and lasts into adulthood. The most common type of seizure in people with this condition is myoclonic seizures, which cause rapid, uncontrolled muscle jerks. People with this condition may also have generalized tonic-clonic seizures (also known as grand mal seizures), which cause muscle rigidity, convulsions, and loss of consciousness. Sometimes, affected individuals have absence seizures, which cause loss of consciousness for a short period that appears as a staring spell. Typically, people with juvenile myoclonic epilepsy develop the characteristic myoclonic seizures in adolescence, then develop generalized tonic-clonic seizures a few years later. Although seizures can happen at any time, they occur most commonly in the morning, shortly after awakening. Seizures can be triggered by a lack of sleep, extreme tiredness, stress, or alcohol consumption.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000548-2" qtype="frequency">How many people are affected by juvenile myoclonic epilepsy ?</Question>
+			<Answer>Juvenile myoclonic epilepsy affects an estimated 1 in 1,000 people worldwide. Approximately 5 percent of people with epilepsy have juvenile myoclonic epilepsy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000548-3" qtype="genetic changes">What are the genetic changes related to juvenile myoclonic epilepsy ?</Question>
+			<Answer>The genetics of juvenile myoclonic epilepsy are complex and not completely understood. Mutations in one of several genes can cause or increase susceptibility to this condition. The most studied of these genes are the GABRA1 gene and the EFHC1 gene, although mutations in at least three other genes have been identified in people with this condition. Many people with juvenile myoclonic epilepsy do not have mutations in any of these genes. Changes in other, unidentified genes are likely involved in this condition.  A mutation in the GABRA1 gene has been identified in several members of a large family with juvenile myoclonic epilepsy. The GABRA1 gene provides instructions for making one piece, the alpha-1 (1) subunit, of the GABAA receptor protein. The GABAA receptor acts as a channel that allows negatively charged chlorine atoms (chloride ions) to cross the cell membrane. After infancy, the influx of chloride ions creates an environment in the cell that inhibits signaling between nerve cells (neurons) and prevents the brain from being overloaded with too many signals. Mutations in the GABRA1 gene lead to an altered 1 subunit and a decrease in the number of GABAA receptors available. As a result, the signaling between neurons is not controlled, which can lead to overstimulation of neurons. Researchers believe that the overstimulation of certain neurons in the brain triggers the abnormal brain activity associated with seizures.  Mutations in the EFHC1 gene have been associated with juvenile myoclonic epilepsy in a small number of people. The EFHC1 gene provides instructions for making a protein that also plays a role in neuron activity, although its function is not completely understood. The EFHC1 protein is attached to another protein that acts as a calcium channel. This protein allows positively charged calcium ions to cross the cell membrane. The movement of these ions is critical for normal signaling between neurons. The EFHC1 protein is thought to help regulate the balance of calcium ions inside the cell, although the mechanism is unclear. In addition, studies show that the EFHC1 protein may be involved in the self-destruction of cells. EFHC1 gene mutations reduce the function of the EFHC1 protein. Researchers suggest that this reduction causes an increase in the number of neurons and disrupts the calcium balance. Together, these effects may lead to overstimulation of neurons and trigger seizures.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000548-4" qtype="inheritance">Is juvenile myoclonic epilepsy inherited ?</Question>
+			<Answer>The inheritance pattern of juvenile myoclonic epilepsy is not completely understood. When the condition is caused by mutations in the GABRA1 gene, it is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. The inheritance pattern of juvenile myoclonic epilepsy caused by mutations in the EFHC1 gene is not known.  Although juvenile myoclonic epilepsy can run in families, many cases occur in people with no family history of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000548-5" qtype="treatment">What are the treatments for juvenile myoclonic epilepsy ?</Question>
+			<Answer>These resources address the diagnosis or management of juvenile myoclonic epilepsy:  - Genetic Testing Registry: Epilepsy with grand mal seizures on awakening  - Genetic Testing Registry: Epilepsy, idiopathic generalized 10  - Genetic Testing Registry: Epilepsy, idiopathic generalized 9  - Genetic Testing Registry: Epilepsy, juvenile myoclonic 5  - Genetic Testing Registry: Epilepsy, juvenile myoclonic 9  - Genetic Testing Registry: Juvenile myoclonic epilepsy  - Merck Manual Consumer Version: Seizure Disorders   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

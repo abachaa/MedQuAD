@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000209" source="NINDS" url="http://www.ninds.nih.gov/disorders/thyrotoxic_myopathy/thyrotoxic_myopathy.htm">
+<Focus>Thyrotoxic Myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270986</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000209-1" qtype="information">What is (are) Thyrotoxic Myopathy ?</Question>
+			<Answer>Thyrotoxic myopathy is a neuromuscular disorder that may accompany hyperthyroidism (Graves&apos; disease, caused by overproduction of the thyroid hormone thyroxine). Symptoms may include muscle weakness, myalgias (muscle tenderness), wasting of the pelvic girdle and shoulder muscles, fatigue, and/or heat intolerance. Thyroid myopathy may be associated with rhabdomyolysis (acute muscle breakdown), damage to the muscles that control eye movement, and temporary, but severe, attacks of muscle weakness that are associated with low blood potassium levels (known as periodic paralysis).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000209-2" qtype="treatment">What are the treatments for Thyrotoxic Myopathy ?</Question>
+			<Answer>Treatment involves restoring normal levels of thyroid hormone and may include thyroid drugs, radioactive iodine, and sometimes partial or complete surgical removal of the thyroid.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000209-3" qtype="outlook">What is the outlook for Thyrotoxic Myopathy ?</Question>
+			<Answer>With treatment, muscle weakness may improve or be reversed.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000209-4" qtype="research">what research (or clinical trials) is being done for Thyrotoxic Myopathy ?</Question>
+			<Answer>The NINDS supports a broad range of research on neuromuscular disorders such as thyrotoxic myopathy. Much of this research is aimed at learning more about these disorders and finding ways to prevent and treat them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001152" source="GARD" url="https://rarediseases.info.nih.gov/gard/10559/childrens-interstitial-lung-disease">
+<Focus>Children's interstitial lung disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206062</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ChILD</Synonym>
+		<Synonym>Primary ILD specific to childhood</Synonym>
+		<Synonym>Primary interstitial lung disease specific to childhood</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001152-1" qtype="information">What is (are) Children's interstitial lung disease ?</Question>
+			<Answer>Children&apos;s interstitial and diffuse lung disease (chILD) is not a single condition, but a group of rare lung diseases found in infants, children and adolescents that can range from mild to severe.  All types of chILD decrease a child&apos;s ability to supply oxygen to their body.  These diseases make it difficult for the lungs to exchange oxygen and carbon dioxide and can cause fluid and other materials to collect in the lungs.  Early diagnosis and treatment is important for any type of chILD.  See the Children&apos;s Interstitial Lung Disease Foundation to see a list of different ILDs and to find more information about diagnosis, treatment and help finding a specialist.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001152-2" qtype="treatment">What are the treatments for Children's interstitial lung disease ?</Question>
+			<Answer>How might chILD be treated? There is no single treatment for interstitial lung diseases in children.  Different forms of chILD require different treatments and support depending on the condition. The goals of treatment for chILD is to relieve symptoms, provide support to maximize growth and development, and to prevent exposure to preventable illnesses that could make the chILD worse.  See the Children&apos;s Interstitial and Diffuse Lung Disease Foundation for more detailed information about treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

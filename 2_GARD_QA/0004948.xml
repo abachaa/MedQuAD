@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004948" source="GARD" url="https://rarediseases.info.nih.gov/gard/4410/polydactyly">
+<Focus>Polydactyly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152427</CUI>
+			<CUI>C2117329</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Extra digits</Synonym>
+		<Synonym>Supernumerary digits</Synonym>
+		<Synonym>Polydactylia</Synonym>
+		<Synonym>Hyperdactyly</Synonym>
+		<Synonym>Polydactylism</Synonym>
+		<Synonym>Preaxial polydactyly of fingers</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004948-1" qtype="information">What is (are) Polydactyly ?</Question>
+			<Answer>Polydactyly is a condition in which a person has more than five fingers per hand or five toes per foot. It is the most common birth defect of the hand and foot. Polydactyly can occur as an isolated finding such that the person has no other physical anomalies or intellectual impairment. However, it can occur in association with other birth defects and cognitive abnormalities as part of a genetic syndrome. In some cases, the extra digits may be well-formed and functional. Surgery may be considered especially for poorly formed digits or very large extra digits. Surgical management depends greatly on the complexity of the deformity. [1] [2]</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

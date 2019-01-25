@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000006" source="GHR" url="https://ghr.nlm.nih.gov/condition/achondrogenesis">
+<Focus>achondrogenesis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001079</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>achondrogenesis syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000006-1" qtype="information">What is (are) achondrogenesis ?</Question>
+			<Answer>Achondrogenesis is a group of severe disorders that affect cartilage and bone development. These conditions are characterized by a small body, short limbs, and other skeletal abnormalities. As a result of serious health problems, infants with achondrogenesis usually die before birth, are stillborn, or die soon after birth from respiratory failure. However, some infants have lived for a short time with intensive medical support.  Researchers have described at least three forms of achondrogenesis, designated as type 1A, type 1B, and type 2. The types are distinguished by their signs and symptoms, inheritance pattern, and genetic cause. However, types 1A and 1B are often hard to tell apart without genetic testing.  Achondrogenesis type 1A, which is also called the Houston-Harris type, is the least well understood of the three forms. Affected infants have extremely short limbs, a narrow chest, short ribs that fracture easily, and a lack of normal bone formation (ossification) in the skull, spine, and pelvis.  Achondrogenesis type 1B, also known as the Parenti-Fraccaro type, is characterized by extremely short limbs, a narrow chest, and a prominent, rounded abdomen. The fingers and toes are short and the feet may turn inward and upward (clubfeet). Affected infants frequently have a soft out-pouching around the belly-button (an umbilical hernia) or near the groin (an inguinal hernia).  Infants with achondrogenesis type 2, which is sometimes called the Langer-Saldino type, have short arms and legs, a narrow chest with short ribs, and underdeveloped lungs. This condition is also associated with a lack of ossification in the spine and pelvis. Distinctive facial features include a prominent forehead, a small chin, and, in some cases, an opening in the roof of the mouth (a cleft palate). The abdomen is enlarged, and affected infants often have a condition called hydrops fetalis, in which excess fluid builds up in the body before birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000006-2" qtype="frequency">How many people are affected by achondrogenesis ?</Question>
+			<Answer>Achondrogenesis types 1A and 1B are rare genetic disorders; their incidence is unknown. Combined, achondrogenesis type 2 and hypochondrogenesis (a similar skeletal disorder) occur in 1 in 40,000 to 60,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000006-3" qtype="genetic changes">What are the genetic changes related to achondrogenesis ?</Question>
+			<Answer>Mutations in the TRIP11, SLC26A2, and COL2A1 genes cause achondrogenesis type 1A, type 1B, and type 2, respectively.  The genetic cause of achondrogenesis type 1A was unknown until recently, when researchers discovered that the condition can result from mutations in the TRIP11 gene. This gene provides instructions for making a protein called GMAP-210. This protein plays a critical role in the Golgi apparatus, a cell structure in which newly produced proteins are modified so they can carry out their functions. Mutations in the TRIP11 gene prevent the production of functional GMAP-210, which alters the structure and function of the Golgi apparatus. Researchers suspect that cells called chondrocytes in the developing skeleton may be most sensitive to these changes. Chondrocytes give rise to cartilage, a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Malfunction of the Golgi apparatus in chondrocytes likely underlies the problems with bone formation in achondrogenesis type 1A.  Achondrogenesis type 1B is the most severe of a spectrum of skeletal disorders caused by mutations in the SLC26A2 gene. This gene provides instructions for making a protein that is essential for the normal development of cartilage and for its conversion to bone. Mutations in the SLC26A2 gene cause the skeletal problems characteristic of achondrogenesis type 1B by disrupting the structure of developing cartilage, which prevents bones from forming properly.  Achondrogenesis type 2 is one of several skeletal disorders that result from mutations in the COL2A1 gene. This gene provides instructions for making a protein that forms type II collagen. This type of collagen is found mostly in cartilage and in the clear gel that fills the eyeball (the vitreous). It is essential for the normal development of bones and other connective tissues that form the body&apos;s supportive framework. Mutations in the COL2A1 gene interfere with the assembly of type II collagen molecules, which prevents bones and other connective tissues from developing properly.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000006-4" qtype="inheritance">Is achondrogenesis inherited ?</Question>
+			<Answer>Achondrogenesis type 1A and type 1B both have an autosomal recessive pattern of inheritance, which means both copies of the TRIP11 or SLC26A2 gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene but do not show signs and symptoms of the condition.  Achondrogenesis type 2 is considered an autosomal dominant disorder because one copy of the altered gene in each cell is sufficient to cause the condition. It is almost always caused by new mutations in the COL2A1 gene and typically occurs in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000006-5" qtype="treatment">What are the treatments for achondrogenesis ?</Question>
+			<Answer>These resources address the diagnosis or management of achondrogenesis:  - Gene Review: Gene Review: Achondrogenesis Type 1B  - Genetic Testing Registry: Achondrogenesis type 2  - Genetic Testing Registry: Achondrogenesis, type IA  - Genetic Testing Registry: Achondrogenesis, type IB  - MedlinePlus Encyclopedia: Achondrogenesis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

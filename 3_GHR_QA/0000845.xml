@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000845" source="GHR" url="https://ghr.nlm.nih.gov/condition/pseudohypoaldosteronism-type-2">
+<Focus>pseudohypoaldosteronism type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1449844</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial hyperkalemic hypertension</Synonym>
+		<Synonym>familial hyperpotassemia and hypertension</Synonym>
+		<Synonym>familial hypertensive hyperkalemia</Synonym>
+		<Synonym>FHHt</Synonym>
+		<Synonym>Gordon hyperkalemia-hypertension syndrome</Synonym>
+		<Synonym>Gordon's syndrome</Synonym>
+		<Synonym>PHAII</Synonym>
+		<Synonym>pseudohypoaldosteronism type II</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000845-1" qtype="information">What is (are) pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>Pseudohypoaldosteronism type 2 (PHA2) is caused by problems that affect regulation of the amount of sodium and potassium in the body. Sodium and potassium are important in the control of blood pressure, and their regulation occurs primarily in the kidneys.  People with PHA2 have high blood pressure (hypertension) and high levels of potassium in their blood (hyperkalemia) despite having normal kidney function. The age of onset of PHA2 is variable and difficult to pinpoint; some affected individuals are diagnosed in infancy or childhood, and others are diagnosed in adulthood. Hyperkalemia usually occurs first, and hypertension develops later in life. Affected individuals also have high levels of chloride (hyperchloremia) and acid (metabolic acidosis) in their blood (together, referred to as hyperchloremic metabolic acidosis). People with hyperkalemia, hyperchloremia, and metabolic acidosis can have nonspecific symptoms like nausea, vomiting, extreme tiredness (fatigue), and muscle weakness. People with PHA2 may also have high levels of calcium in their urine (hypercalciuria).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000845-2" qtype="frequency">How many people are affected by pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>PHA2 is a rare condition; however, the prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000845-3" qtype="genetic changes">What are the genetic changes related to pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>PHA2 can be caused by mutations in the WNK1, WNK4, CUL3, or KLHL3 gene. These genes play a role in the regulation of blood pressure.  The proteins produced from the WNK1 and WNK4 genes help control the amount of sodium and potassium in the body by regulating channels in the cell membrane that control the transport of sodium or potassium into and out of cells. This process primarily occurs in the kidneys. Mutations in either of these genes disrupt control of these channels, leading to abnormal levels of sodium and potassium in the body. As a result, affected individuals develop hypertension and hyperkalemia.  The proteins produced from the CUL3 gene (called cullin-3) and the KLHL3 gene help control the amount of WNK1 and WNK4 protein available. Cullin-3 and KLHL3 are two pieces of a complex, called an E3 ubiquitin ligase, that tags certain other proteins with molecules called ubiquitin. This molecule acts as a signal for the tagged protein to be broken down when it is no longer needed. E3 ubiquitin ligases containing cullin-3 and KLHL3 are able to tag the WNK1 and WNK4 proteins with ubiquitin, leading to their breakdown. Mutations in either the CUL3 or KLHL3 gene impair breakdown of the WNK4 protein. (The effect of these mutations on the WNK1 protein is unclear.) An excess of WNK4 likely disrupts control of sodium and potassium levels, resulting in hypertension and hyperkalemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000845-4" qtype="inheritance">Is pseudohypoaldosteronism type 2 inherited ?</Question>
+			<Answer>This condition is usually inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases caused by mutations in the WNK1, WNK4, or KLHL3 gene, an affected person inherits the mutation from one affected parent. While some cases caused by CUL3 gene mutations can be inherited from an affected parent, many result from new mutations in the gene and occur in people with no history of the disorder in their family.  Some cases caused by mutations in the KLHL3 gene are inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000845-5" qtype="treatment">What are the treatments for pseudohypoaldosteronism type 2 ?</Question>
+			<Answer>These resources address the diagnosis or management of pseudohypoaldosteronism type 2:  - Gene Review: Gene Review: Pseudohypoaldosteronism Type II  - Genetic Testing Registry: Pseudohypoaldosteronism, type 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

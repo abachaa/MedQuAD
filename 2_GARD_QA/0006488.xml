@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006488" source="GARD" url="https://rarediseases.info.nih.gov/gard/555/x-linked-adrenal-hypoplasia-congenita">
+<Focus>X-linked adrenal hypoplasia congenita</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220766</CUI>
+			<CUI>C0243069</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>X-linked congenital adrenal hypoplasia</Synonym>
+		<Synonym>X-linked AHC</Synonym>
+		<Synonym>Adrenal hypoplasia congenita</Synonym>
+		<Synonym>Congenital adrenal hypoplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006488-1" qtype="information">What is (are) X-linked adrenal hypoplasia congenita ?</Question>
+			<Answer>X-linked adrenal hypoplasia congenita is an inherited disorder that mainly affects males. It involves many hormone-producing (endocrine) tissues in the body, particularly a pair of small glands on top of each kidney called the adrenal glands. These glands produce a variety of hormones that regulate many essential functions in the body. Congenital adrenal hypoplasia is characterized by adrenal insufficiency, which may be life threatening, and hypogonadotropic hypogonadism. Congenital adrenal hypoplasia is caused by mutations in the NR0B1 gene. It is inherited in an X-linked recessive pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006488-2" qtype="symptoms">What are the symptoms of X-linked adrenal hypoplasia congenita ?</Question>
+			<Answer>What are the signs and symptoms of X-linked adrenal hypoplasia congenita? X-linked adrenal hypoplasia congenita is a disorder that mainly affects males. One of the main signs of this disorder is adrenal insufficiency, which occurs when the adrenal glands do not produce enough hormones. Adrenal insufficiency typically begins in infancy or childhood and can cause vomiting, difficulty with feeding, dehydration, extremely low blood sugar (hypoglycemia), and shock. If untreated, these complications may be life-threatening. Affected males may also have a shortage of male sex hormones, which leads to underdeveloped reproductive tissues, undescended testicles, delayed puberty, and an inability to father children. Together, these characteristics are known as hypogonadotropic hypogonadism. The onset and severity of these signs and symptoms can vary, even among affected members of the same family. The Human Phenotype Ontology provides the following list of signs and symptoms for X-linked adrenal hypoplasia congenita. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Absence of pubertal development - Adrenal hypoplasia - Cryptorchidism - Dehydration - Delayed puberty - Failure to thrive - Hyperpigmentation of the skin - Hypocortisolemia - Hypogonadotrophic hypogonadism - Hyponatremia - Low gonadotropins (secondary hypogonadism) - Muscular dystrophy - Renal salt wasting - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006488-3" qtype="causes">What causes X-linked adrenal hypoplasia congenita ?</Question>
+			<Answer>What causes X-linked adrenal hypoplasia congenita? X-linked adrenal hypoplasia congenita is caused by mutations in the NR0B1 gene. The NR0B1 gene provides instructions to make a protein called DAX1. This protein plays an important role in the development and function of several hormone-producing tissues including the adrenal glands, two hormone-secreting glands in the brain (the hypothalamus and pituitary), and the gonads (ovaries in females and testes in males). The hormones produced by these glands control many important body functions. Some NR0B1 mutations result in the production of an inactive version of the DAX1 protein, while other mutations delete the entire gene. The resulting shortage of DAX1 disrupts the normal development and function of hormone-producing tissues in the body. The signs and symptoms of adrenal insufficiency and hypogonadotropic hypogonadism occur when endocrine glands do not produce the right amounts of certain hormones.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0006488-4" qtype="inheritance">Is X-linked adrenal hypoplasia congenita inherited ?</Question>
+			<Answer>How is X-linked adrenal hypoplasia congenita inherited? X-linked adrenal hypoplasia congenita is inherited in an X-linked recessive pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons. In X-linked recessive inheritance, a female with one mutated copy of the gene in each cell is called a carrier. She can pass on the altered gene, but usually does not experience signs and symptoms of the disorder. In rare cases, however, females who carry a NR0B1 mutation may experience adrenal insufficiency or signs of hypogonadotropic hypogonadism such as underdeveloped reproductive tissues, delayed puberty, and an absence of menstruation.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

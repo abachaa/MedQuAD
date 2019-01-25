@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000141" source="NINDS" url="http://www.ninds.nih.gov/disorders/gbs/gbs.htm">
+<Focus>Guillain-Barr Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000141-1" qtype="information">What is (are) Guillain-Barr Syndrome ?</Question>
+			<Answer>Guillain-Barr syndrome is a disorder in which the body&apos;s immune system attacks part of the peripheral nervous system. The first symptoms of this disorder include varying degrees of weakness or tingling sensations in the legs. In many instances, the weakness and abnormal sensations spread to the arms and upper body. These symptoms can increase in intensity until the muscles cannot be used at all and the person is almost totally paralyzed. In these cases, the disorder is life-threatening and is considered a medical emergency. The individual is often put on a ventilator to assist with breathing. Most individuals, however, have good recovery from even the most severe cases of Guillain-Barr syndrome (GBS), although some continue to have some degree of weakness. Guillain-Barr syndrome is rare. Usually Guillain-Barr occurs a few days or weeks after the person has had symptoms of a respiratory or gastrointestinal viral infection. Occasionally, surgery will trigger the syndrome. In rare instances, vaccinations may increase the risk of GBS. The disorder can develop over the course of hours or days, or it may take up to 3 to 4 weeks. No one yet knows why Guillain-Barr strikes some people and not others or what sets the disease in motion. What scientists do know is that the body&apos;s immune system begins to attack the body itself, causing what is known as an autoimmune disease. Guillain-Barr is called a syndrome rather than a disease because it is not clear that a specific disease-causing agent is involved. Reflexes such as knee jerks are usually lost. Because the signals traveling along the nerve are slower, a nerve conduction velocity (NCV) test can give a doctor clues to aid the diagnosis. The cerebrospinal fluid that bathes the spinal cord and brain contains more protein than usual, so a physician may decide to perform a spinal tap.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000141-2" qtype="treatment">What are the treatments for Guillain-Barr Syndrome ?</Question>
+			<Answer>There is no known cure for Guillain-Barr syndrome, but therapies can lessen the severity of the illness and accelerate the recovery in most patients. There are also a number of ways to treat the complications of the disease. Currently, plasmapheresis (also known as plasma exchange) and high-dose immunoglobulin therapy are used. Plasmapheresis seems to reduce the severity and duration of the Guillain-Barr episode. In high-dose immunoglobulin therapy, doctors give intravenous injections of the proteins that in small quantities, the immune system uses naturally to attack invading organism. Investigators have found that giving high doses of these immunoglobulins, derived from a pool of thousands of normal donors, to Guillain-Barr patients can lessen the immune attack on the nervous system. The most critical part of the treatment for this syndrome consists of keeping the patient&apos;s body functioning during recovery of the nervous system. This can sometimes require placing the patient on a ventilator, a heart monitor, or other machines that assist body function.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000141-3" qtype="outlook">What is the outlook for Guillain-Barr Syndrome ?</Question>
+			<Answer>Guillain-Barr syndrome can be a devastating disorder because of its sudden and unexpected onset. Most people reach the stage of greatest weakness within the first 2 weeks after symptoms appear, and by the third week of the illness 90 percent of all patients are at their weakest. The recovery period may be as little as a few weeks or as long as a few years. About 30 percent of those with Guillain-Barr still have a residual weakness after 3 years. About 3 percent may suffer a relapse of muscle weakness and tingling sensations many years after the initial attack.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000141-4" qtype="research">what research (or clinical trials) is being done for Guillain-Barr Syndrome ?</Question>
+			<Answer>Scientists are concentrating on finding new treatments and refining existing ones. Scientists are also looking at the workings of the immune system to find which cells are responsible for beginning and carrying out the attack on the nervous system. The fact that so many cases of Guillain-Barr begin after a viral or bacterial infection suggests that certain characteristics of some viruses and bacteria may activate the immune system inappropriately. Investigators are searching for those characteristics. Neurological scientists, immunologists, virologists, and pharmacologists are all working collaboratively to learn how to prevent this disorder and to make better therapies available when it strikes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

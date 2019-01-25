@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000454" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-angioedema">
+<Focus>hereditary angioedema</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002994</CUI>
+			<CUI>C0019243</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>C1 esterase inhibitor deficiency</Synonym>
+		<Synonym>C1 inhibitor deficiency</Synonym>
+		<Synonym>HAE</Synonym>
+		<Synonym>HANE</Synonym>
+		<Synonym>hereditary angioneurotic edema</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000454-1" qtype="information">What is (are) hereditary angioedema ?</Question>
+			<Answer>Hereditary angioedema is a disorder characterized by recurrent episodes of severe swelling (angioedema). The most common areas of the body to develop swelling are the limbs, face, intestinal tract, and airway. Minor trauma or stress may trigger an attack, but swelling often occurs without a known trigger. Episodes involving the intestinal tract cause severe abdominal pain, nausea, and vomiting. Swelling in the airway can restrict breathing and lead to life-threatening obstruction of the airway. About one-third of people with this condition develop a non-itchy rash called erythema marginatum during an attack.  Symptoms of hereditary angioedema typically begin in childhood and worsen during puberty. On average, untreated individuals have an attack every 1 to 2 weeks, and most episodes last for about 3 to 4 days. The frequency and duration of attacks vary greatly among people with hereditary angioedema, even among people in the same family.  There are three types of hereditary angioedema, called types I, II, and III, which can be distinguished by their underlying causes and levels of a protein called C1 inhibitor in the blood. The different types have similar signs and symptoms. Type III was originally thought to occur only in women, but families with affected males have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000454-2" qtype="frequency">How many people are affected by hereditary angioedema ?</Question>
+			<Answer>Hereditary angioedema is estimated to affect 1 in 50,000 people. Type I is the most common, accounting for 85 percent of cases. Type II occurs in 15 percent of cases, and type III is very rare.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000454-3" qtype="genetic changes">What are the genetic changes related to hereditary angioedema ?</Question>
+			<Answer>Mutations in the SERPING1 gene cause hereditary angioedema type I and type II. The SERPING1 gene provides instructions for making the C1 inhibitor protein, which is important for controlling inflammation. C1 inhibitor blocks the activity of certain proteins that promote inflammation. Mutations that cause hereditary angioedema type I lead to reduced levels of C1 inhibitor in the blood, while mutations that cause type II result in the production of a C1 inhibitor that functions abnormally. Without the proper levels of functional C1 inhibitor, excessive amounts of a protein fragment (peptide) called bradykinin are generated. Bradykinin promotes inflammation by increasing the leakage of fluid through the walls of blood vessels into body tissues. Excessive accumulation of fluids in body tissues causes the episodes of swelling seen in individuals with hereditary angioedema type I and type II.  Mutations in the F12 gene are associated with some cases of hereditary angioedema type III. This gene provides instructions for making a protein called coagulation factor XII. In addition to playing a critical role in blood clotting (coagulation), factor XII is also an important stimulator of inflammation and is involved in the production of bradykinin. Certain mutations in the F12 gene result in the production of factor XII with increased activity. As a result, more bradykinin is generated and blood vessel walls become more leaky, which leads to episodes of swelling in people with hereditary angioedema type III.  The cause of other cases of hereditary angioedema type III remains unknown. Mutations in one or more as-yet unidentified genes may be responsible for the disorder in these cases.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000454-4" qtype="inheritance">Is hereditary angioedema inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000454-5" qtype="treatment">What are the treatments for hereditary angioedema ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary angioedema:  - Genetic Testing Registry: Hereditary C1 esterase inhibitor deficiency - dysfunctional factor  - Genetic Testing Registry: Hereditary angioneurotic edema  - Genetic Testing Registry: Hereditary angioneurotic edema with normal C1 esterase inhibitor activity  - MedlinePlus Encyclopedia: Hereditary angioedema   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

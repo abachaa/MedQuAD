@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000179" source="GHR" url="https://ghr.nlm.nih.gov/condition/cholesteryl-ester-storage-disease">
+<Focus>cholesteryl ester storage disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CESD</Synonym>
+		<Synonym>cholesterol ester hydrolase deficiency</Synonym>
+		<Synonym>cholesterol ester storage disease</Synonym>
+		<Synonym>LAL deficiency</Synonym>
+		<Synonym>LIPA deficiency</Synonym>
+		<Synonym>lysosomal acid lipase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000179-1" qtype="information">What is (are) cholesteryl ester storage disease ?</Question>
+			<Answer>Cholesteryl ester storage disease is a rare inherited condition involving the breakdown and use of fats and cholesterol in the body (lipid metabolism). In affected individuals, harmful amounts of lipids accumulate in cells and tissues throughout the body. The liver is most severely affected. An enlarged liver (hepatomegaly) is one of the key signs of the disease. In addition, chronic liver disease (cirrhosis) can develop. An accumulation of fatty deposits on the artery walls (atherosclerosis) is usually seen early in life. The deposits narrow the arteries and can eventually block them, increasing the chance of having a heart attack or stroke.  The symptoms of cholesteryl ester storage disease are highly variable. Some people have such mild symptoms that they go undiagnosed until late adulthood, while others can have liver dysfunction in early childhood. The expected lifespan of those with cholesteryl ester storage disease depends on the severity of the associated complications.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000179-2" qtype="frequency">How many people are affected by cholesteryl ester storage disease ?</Question>
+			<Answer>Cholesteryl ester storage disease appears to be a rare disorder. About 50 individuals affected by this condition have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000179-3" qtype="genetic changes">What are the genetic changes related to cholesteryl ester storage disease ?</Question>
+			<Answer>Mutations in the LIPA gene cause cholesteryl ester storage disease.  The LIPA gene provides instructions for making an enzyme called lysosomal acid lipase. This enzyme is found in the lysosomes (compartments that digest and recycle materials in the cell), where it breaks down lipids such as cholesteryl esters and triglycerides.  In the body, cholesterol works with high-density lipoproteins (HDL), often referred to as &quot;good cholesterol.&quot; High-density lipoproteins carry cholesterol from the body&apos;s tissues to the liver for removal. When the cholesterol is attached to a fatty acid it is a cholesteryl ester. Normally, cholesteryl esters are broken down by lysosomal acid lipase into cholesterol and a fatty acid. Then the cholesterol can be transported by HDL to the liver for removal.  Mutations in the LIPA gene lead to a shortage of lysosomal acid lipase and prevent the body from using lipids properly. Without the activity of lysosomal acid lipase, the cholesteryl esters stay in the blood and tissues and are not able to be transported to the liver for excretion. The resulting buildup of triglycerides, cholesteryl esters, and other fats within the cells and tissues cause the signs and symptoms of cholesteryl ester storage disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000179-4" qtype="inheritance">Is cholesteryl ester storage disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000179-5" qtype="treatment">What are the treatments for cholesteryl ester storage disease ?</Question>
+			<Answer>These resources address the diagnosis or management of cholesteryl ester storage disease:  - Genetic Testing Registry: Lysosomal acid lipase deficiency  - MedlinePlus Encyclopedia: Atherosclerosis  - MedlinePlus Encyclopedia: Cirrhosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

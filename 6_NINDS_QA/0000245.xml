@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000245" source="NINDS" url="http://www.ninds.nih.gov/disorders/rasmussen/rasmussen.htm">
+<Focus>Rasmussen's Encephalitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393484</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000245-1" qtype="information">What is (are) Rasmussen's Encephalitis ?</Question>
+			<Answer>Rasmussens encephalitis is a rare, chronic inflammatory neurological disease that usually affects only one hemisphere of the brain. It usually occurs in children under the age of 10 (more rarely in adolescents and adults), and is characterized by frequent and severe seizures, loss of motor skills and speech, paralysis on one side of the body (hemiparesis), inflammation of the brain (encephalitis), and mental deterioration. Most individuals with Rasmussens encephalitis will experience frequent seizures and progressive brain damage in the affected hemisphere of the brain over the course of the first 8 to 12 months, and then enter a phase of permanent, but stable, neurological deficits. Rasmussens encephalitis has features of an autoimmune disease in which immune system cells enter the brain and cause inflammation and damage.Research is ongoing into the causes of this rare disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000245-2" qtype="treatment">What are the treatments for Rasmussen's Encephalitis ?</Question>
+			<Answer>Anti-epileptic drugs are usually not effective in controlling seizures. Recent studies have shown some success with treatments that suppress or modulate the immune system, in particular those that use corticosteroids, intravenous immunoglobulin, or tacrolimus. Surgery to control seizures may be performed in later stages of the disease when neurological deficits stabilize. Surgical procedures, such as functional hemispherectomy and hemispherotomy, may reduce the frequency of seizures and also improve behavior and cognitive abilities.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000245-3" qtype="outlook">What is the outlook for Rasmussen's Encephalitis ?</Question>
+			<Answer>The prognosis for individuals with Rasmussens encephalitis varies. Despite the advances in medical treatment, none has yet been shown to halt the progress of the disease in the long term. The disorder may lead to severe neurological deficits or it may cause only milder impairments. For some children, surgery decreases seizures. However, most individuals with Rasmussens encephalitis are left with some paralysis, cognitive deficits, and problems with speech. In some cases, the disease can progress to involve the opposite brain hemisphere.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000245-4" qtype="research">what research (or clinical trials) is being done for Rasmussen's Encephalitis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to Rasmussens encephalitis in its laboratories at the National Institutes of Health (NIH), and also supports additional research through grants to major research institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure progressive neurological disorders, such as Rasmussens encephalitis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000063" source="NINDS" url="http://www.ninds.nih.gov/disorders/central_pontine/central_pontine_myelinolysis.htm">
+<Focus>Central Pontine Myelinolysis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206083</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000063-1" qtype="information">What is (are) Central Pontine Myelinolysis ?</Question>
+			<Answer>Central pontine myelinolysis (CPM) is a neurological disorder that most frequently occurs after too rapid medical correction of sodium deficiency (hyponatremia). The rapid rise in sodium concentration is accompanied by the movement of small molecules and pulls water from brain cells. Through a mechanism that is only partly understood, the shift in water and brain molecules leads to the destruction of myelin, a substance that surrounds and protects nerve fibers. Nerve cells (neurons) can also be damaged. Certain areas of the brain are particularly susceptible to myelinolysis, especially the part of the brain stem called the pons. Some individuals will also have damage in other areas of the brain, which is called extrapontine myelinolysis (EPM). Experts estimate that 10 percent of those with CPM will also have areas of EPM.
+                
+The initial symptoms of myelinolysis, which begin to appear 2 to 3 days after hyponatremia is corrected, include a depressed level of awareness, difficulty speaking (dysarthria or mutism), and difficulty swallowing (dysphagia). Additional symptoms often arise over the next 1-2 weeks, including impaired thinking, weakness or paralysis in the arms and legs, stiffness, impaired sensation, and difficulty with coordination. At its most severe, myelinolysis can lead to coma, locked-in syndrome (which is the complete paralysis of all of the voluntary muscles in the body except for those that control the eyes), and death.
+                
+Although many affected people improve over weeks to months, some have permanent disability. Some also develop new symptoms later, including behavioral or intellectual impairment or movement disorders like parkinsonism or tremor.
+                
+Anyone, including adults and children, who undergoes a rapid rise in serum sodium is at risk for myelinolysis. Some individuals who are particularly vulnerable are those with chronic alcoholism and those who have had a liver transplant. Myelinolysis has occurred in individuals undergoing renal dialysis, burn victims, people with HIV-AIDS, people over-using water loss pills (diuretics), and women with eating disorders such as anorexia or bulimia. The risk for CPM is greater if the serum (blood) sodium was low for at least 2 days before correction.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000063-2" qtype="treatment">What are the treatments for Central Pontine Myelinolysis ?</Question>
+			<Answer>The ideal treatment for myelinolysis is to prevent the disorder by identifying individuals at risk and following careful guidelines for evaluation and correction of hyponatremia. These guidelines aim to safely restore the serum sodium level, while protecting the brain. For those who have hyponatremia for at least 2 days, or for whom the duration is not known, the rate of rise in the serum sodium concentration should be kept below 10 mmol/L during any 24-hour period, if possible.
+                
+For those who develop myelinolysis, treatment is supportive. Some physicians have tried to treat myelinolysis with steroid medication or other experimental therapies, but none has been proven effective. Individuals are likely to require extensive and prolonged physical therapy and rehabilitation. Those individuals who develop parkinsonian symptoms may respond to the dopaminergic drugs that work for individuals with Parkinsons disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000063-3" qtype="outlook">What is the outlook for Central Pontine Myelinolysis ?</Question>
+			<Answer>The prognosis for myelinolysis varies. Some individuals die and others recover completely. Although the disorder was originally considered to have a mortality rate of 50 percent or more, improved imaging techniques and early diagnosis have led to a better prognosis for many people. Most individuals improve gradually, but still continue to have challenges with speech, walking, emotional ups and downs, and forgetfulness.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000063-4" qtype="research">what research (or clinical trials) is being done for Central Pontine Myelinolysis ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS is a component of the National Institutes of Health, the leading supporter of biomedical research in the world.
+                
+The NINDS conducts and supports research to better understand conditions that affect the protective myelin coating around nerve fibers and ways to prevent and treat the destruction of myelin. Scientists hope to develop drugs that can prevent brain cells from dying or help them produce new myelin. Research funded by the NIH&apos;s National Institute of Diabetes and Digestive and Kidney Diseases aims to understand the biological mechanisms involved in water balance in the body.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000263" source="NINDS" url="http://www.ninds.nih.gov/disorders/syringomyelia/syringomyelia.htm">
+<Focus>Syringomyelia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039144</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000263-1" qtype="information">What is (are) Syringomyelia ?</Question>
+			<Answer>Syringomyelia (sear-IN-go-my-EEL-ya) is a disorder in which a fluid-filled cyst forms within the spinal cord. This cyst, called a syrinx, expands and elongates over time, destroying the center of the spinal cord. Since the spinal cord connects the brain to nerves in the extremities, this damage results in pain, weakness, and stiffness in the back, shoulders, arms, or legs. Symptoms vary among individuals. Other symptoms may include headaches and a loss of the ability to feel extremes of hot or cold, especially in the hands.Signs of the disorder tend to develop slowly, although sudden onset may occur with coughing or straining. If not treated surgically, syringomyelia often leads to progressive weakness in the arms and legs, loss of hand sensation, and chronic, severe pain. In most cases, the disorder is related to a congenital abnormality of the brain called a Chiari I malformation. This malformation causes the lower part of the cerebellum to protrude from its normal location in the back of the head, through the hole connecting the skull and spine, and into the cervical or neck portion of the spinal canal. Syringomyelia may also occur as a complication of trauma, meningitis, hemorrhage, a tumor, or other condition. Symptoms may appear months or even years after the initial injury, starting with pain, weakness, and sensory impairment originating at the site of trauma. Some cases of syringomyelia are familial, although this is rare.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000263-2" qtype="treatment">What are the treatments for Syringomyelia ?</Question>
+			<Answer>Surgery is usually recommended for individuals with syringomyelia, with the type of surgery and its location dependent on the type of syrinx. In persons with syringomyelia that is associated with the Chiara I malformation, a procedure that removes skulll bone and expands the space around the malformation usually prevents new symptoms from developing and results in the syrinx becoming smaller. In some individuals it may be necessary to drain the syrinx, which can be accomplished using a catheter, drainage tubes, and valves. Recurrence of syringomyelia after surgery may make additional operations necessary; these may not be completely successful over the long term.
+                
+In the absence of symptoms, syringomyelia is usually not treated. In addition, a physician may recommend not treating the condition in individuals of advanced age or in cases where there is no progression of symptoms. Whether treated or not, many individuals are told to avoid activities that involve straining.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000263-3" qtype="outlook">What is the outlook for Syringomyelia ?</Question>
+			<Answer>Symptoms usually begin in young adulthood, with symptoms of one form usually beginning between the ages of 25 and 40. If not treated surgically (when needed), syringomyelia often leads to progressive weakness in the arms and legs, loss of hand sensation, and chronic, severe pain. Symptoms may worsen with straining or any activity that causes cerebrospinal fluid pressure to fluctuate. Some individuals may have long periods of stability. Surgery results in stabilization or modest improvement in symptoms for most individuals. Delay in treatment may result in irreversible spinal cord injury.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000263-4" qtype="research">what research (or clinical trials) is being done for Syringomyelia ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. NINDS investigators are studying how syrinxes first form, as well as the mechanisms of the disorders. NINDS investigators have found that the normal flow of cerebrospinal fluid that occurs with each heartbeat is obstructed in people with syringomyelia. Surgical procedures that relieve this obstruction usually result in the syrinx becoming much smaller in size. Studies are also underway to identify and better understand genetic factors that influence the development of Chiari I malformations and syringomyelia. Researchers hope to better understand the role of birth defects of the skull and brain in the development of hindbrain malformations that can lead to syringomyelia. Diagnostic technology is another area for continued research. 
+                
+NINDS scientists are examining individuals who either have syringomyelia or are at risk of developing the disorder. They are investigating the factors that influence its development, progression, and treatment by recording more than 5 years of symptoms, muscle strength, overall function, and magnetic resonance imaging (MRI) scan findings from individuals who receive standard treatment for syringomyelia. Study results may allow scientists to provide more accurate recommendations to future individuals with syringomyelia regarding optimal surgical or non-surgical treatments.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

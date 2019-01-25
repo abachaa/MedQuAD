@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000123" source="NINDS" url="http://www.ninds.nih.gov/disorders/fabrys/fabrys.htm">
+<Focus>Fabry Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002986</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000123-1" qtype="information">What is (are) Fabry Disease ?</Question>
+			<Answer>Fabry disease is caused by the lack of or faulty enzyme needed to metabolize lipids, fat-like substances that include oils, waxes, and fatty acids. The disease is also called alpha-galactosidase-A deficiency. A mutation in the gene that controls this enzyme causes insufficient breakdown of lipids, which build up to harmful levels in the autonomic nervous system (which controls involuntary functions such as breathing and digestion), cardiovascular system, eyes, and kidneys. Symptoms usually begin during childhood or adolescence and include burning sensations in the arms and legs that gets worse with exercise and hot weather and small, non-cancerous, raised reddish-purple blemishes on the skin. Excess material buildup can lead to clouding in the corneas. Lipid storage may lead to impaired blood circulation and increased risk of heart attack or stroke. The heart may also become enlarged and the kidneys may become progressively impaired, leading to renal failure. Other signs include decreased sweating, fever, and gastrointestinal difficulties.Fabry disease is the only X-linked lipid storage disease (where the mother carries the affected gene on the X chromosome that determines the child&apos;s gender and passes it to her son). Boys have a 50 percent chance of inheriting the disorder and her daughters have a 50 percent chance of being a carrier. A milder form is common in females, and occasionally some affected females may have severe symptoms similar to males with the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000123-2" qtype="treatment">What are the treatments for Fabry Disease ?</Question>
+			<Answer>Enzyme replacement therapy has been approved by the U.S. Food and Drug Administration for the treatment of Fabry disease. Enzyme replacement therapy can reduce lipid storage, ease pain, and preserve organ function in some individuals with the disorder. The pain that accompanies the disease may be treated with anticonvulsants. Gastrointestinal hyperactivity may be treated with metoclopramide. Some individuals may require dialysis or kidney transplantation. Restricting one&apos;s diet does not prevent lipid buildup in cells and tissues.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000123-3" qtype="outlook">What is the outlook for Fabry Disease ?</Question>
+			<Answer>Individuals with Fabry disease often die prematurely of complications from strokes, heart disease, or kidney failure.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000123-4" qtype="research">what research (or clinical trials) is being done for Fabry Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease.The NINDS supports research to find ways to treat and prevent lipid storage diseases such as Fabry disease. Researchers hope to identify biomarkers -- signs that may indicate risk of a disease and improve diagnosis -- for Fabry disease and other lipid storage diseases that will speed the development of novel therapeutics for these disorders. One NINDS-funded project is evaluating a rat model of Fabry disease, through which researchers hope to develop new proteins to increase the potency of enzyme replacement therapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

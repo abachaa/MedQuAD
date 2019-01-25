@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000177" source="NINDS" url="http://www.ninds.nih.gov/disorders/learningdisabilities/learningdisabilities.htm">
+<Focus>Learning Disabilities</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0231170</CUI>
+			<CUI>C0751265</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000177-1" qtype="information">What is (are) Learning Disabilities ?</Question>
+			<Answer>Learning disabilities are disorders that affect the ability to understand or use spoken or written language, do mathematical calculations, coordinate movements, or direct attention. Although learning disabilities occur in very young children, the disorders are usually not recognized until the child reaches school age. Research shows that 8 to 10 percent of American children under 18 years of age have some type of learning disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000177-2" qtype="treatment">What are the treatments for Learning Disabilities ?</Question>
+			<Answer>The most common treatment for learning disabilities is special education. Specially trained educators may perform a diagnostic educational evaluation assessing the child&apos;s academic and intellectual potential and level of academic performance. Once the evaluation is complete, the basic approach is to teach learning skills by building on the child&apos;s abilities and strengths while correcting and compensating for disabilities and weaknesses. Other professionals such as speech and language therapists also may be involved. Some medications may be effective in helping the child learn by enhancing attention and concentration. Psychological therapies may also be used.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000177-3" qtype="outlook">What is the outlook for Learning Disabilities ?</Question>
+			<Answer>Learning disabilities can be lifelong conditions. In some people, several overlapping learning disabilities may be apparent. Other people may have a single, isolated learning problem that has little impact on their lives.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000177-4" qtype="research">what research (or clinical trials) is being done for Learning Disabilities ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other Institutes of the National Institutes of Health (NIH) support research learning disabilities through grants to major research institutions across the country. Current research avenues focus on developing techniques to diagnose and treat learning disabilities and increase understanding of their biological basis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

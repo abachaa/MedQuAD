@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000200" source="NINDS" url="http://www.ninds.nih.gov/disorders/mucopolysaccharidoses/mucopolysaccharidoses.htm">
+<Focus>Mucopolysaccharidoses</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026703</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000200-1" qtype="information">What is (are) Mucopolysaccharidoses ?</Question>
+			<Answer>The mucopolysaccharidoses are a group of inherited metabolic diseases in which a defective or missing enzyme causes large amounts of complex sugar molecules to accumulate in harmful amounts in the body&apos;s cells and tissues. This accumulation causes permanent, progressive cellular damage that affects appearance, physical abilities, organ and system functioning, and, in most cases, mental development.Depending on the type of mucopolysaccharidosis, affected individuals may have normal intellect or may be profoundly impaired, may experience developmental delay, or have severe behavioral problems. Physical symptoms generally include coarse or rough facial features, thick lips, an enlarged mouth and tongue, short stature with a disproportionately short trunk (dwarfism), abnormal bone size or shape (and other skeletal irregularities), thickened skin, enlarged organs such as the liver or spleen, hernias, and excessive body hair growth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000200-2" qtype="treatment">What are the treatments for Mucopolysaccharidoses ?</Question>
+			<Answer>Currently there is no cure for these disease syndromes.Medical care is directed at treating systemic conditions and improving the person&apos;s quality of life. Physical therapy and daily exercise may delay joint problems and improve the ability to move.Surgery to remove tonsils and adenoids may improve breathing among affected individuals with obstructive airway disorders and sleep apnea. Surgery can also correct hernias, help drain excessive cerebrospinal fluid from the brain, and free nerves and nerve roots compressed by skeletal and other abnormalities. Corneal transplants may improve vision among individuals with significant corneal clouding.Enzyme replacement therapies are currently in use for several MPS disorders and are beig tested in the other MPS disorders. Enzyme replacement therapy has proven useful in reducing non-neurological symptoms and pain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000200-3" qtype="outlook">What is the outlook for Mucopolysaccharidoses ?</Question>
+			<Answer>The mucopolysaccharidoses syndromes share many clinical features but have varying degrees of severity. Most individuals with a mucopolysaccharidosis syndrome generally experience a period of normal development followed by a decline in physical and mental function. Longevity is dependent upon the particular syndrome. For example, children with a form of mucopolysaccharidosis called Hurler syndrome often die before age 10 from obstructive airway disease, respiratory infections, or cardiac complications. A child with the type known as Scheie syndrome can live into adulthood, while one with a mild case of the type known as Hunter syndrome may live into his or her 50s or beyond.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000200-4" qtype="research">what research (or clinical trials) is being done for Mucopolysaccharidoses ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease.The NINDS, along with other Institutes at the National Institutes of Health, supports the Lysosomal Disease network, a network of centers that address some of the major challenges in the diagnosis, management, and therapy of diseases, including the mucopolysaccharidoses. Centers are conducting longitudinal studies of the natural history and/or treatment of these disorders. Scientists are working to identify the genes associated with the mucopolysaccharidoses syndromes and plan to test new therapies in animal models and in humans. Other research funded by the NINDS has shown that viral-delivered gene therapy in animal models of the mucopolysaccharidoses can stop the buildup of storage materials in brain cells and improve learning and memory. Researchers are planning additional studies to understand how gene therapy prompts recovery of mental function in these animal models, but it may be years before such treatment is available to humans.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

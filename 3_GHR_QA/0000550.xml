@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000550" source="GHR" url="https://ghr.nlm.nih.gov/condition/juvenile-polyposis-syndrome">
+<Focus>juvenile polyposis syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334108</CUI>
+			<CUI>C0345893</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>JIP</Synonym>
+		<Synonym>JPS</Synonym>
+		<Synonym>juvenile intestinal polyposis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000550-1" qtype="information">What is (are) juvenile polyposis syndrome ?</Question>
+			<Answer>Juvenile polyposis syndrome is a disorder characterized by multiple noncancerous (benign) growths called juvenile polyps. People with juvenile polyposis syndrome typically develop polyps before age 20; however, in the name of this condition &quot;juvenile&quot; refers to the characteristics of the tissues that make up the polyp, not the age of the affected individual. These growths occur in the gastrointestinal tract, typically in the large intestine (colon). The number of polyps varies from only a few to hundreds, even among affected members of the same family. Polyps may cause gastrointestinal bleeding, a shortage of red blood cells (anemia), abdominal pain, and diarrhea. Approximately 15 percent of people with juvenile polyposis syndrome have other abnormalities, such as a twisting of the intestines (intestinal malrotation), heart or brain abnormalities, an opening in the roof of the mouth (cleft palate), extra fingers or toes (polydactyly), and abnormalities of the genitalia or urinary tract.  Juvenile polyposis syndrome is diagnosed when a person has any one of the following: (1) more than five juvenile polyps of the colon or rectum; (2) juvenile polyps in other parts of the gastrointestinal tract; or (3) any number of juvenile polyps and one or more affected family members. Single juvenile polyps are relatively common in children and are not characteristic of juvenile polyposis syndrome.  Three types of juvenile polyposis syndrome have been described, based on the signs and symptoms of the disorder. Juvenile polyposis of infancy is characterized by polyps that occur throughout the gastrointestinal tract during infancy. Juvenile polyposis of infancy is the most severe form of the disorder and is associated with the poorest outcome. Children with this type may develop a condition called protein-losing enteropathy. This condition results in severe diarrhea, failure to gain weight and grow at the expected rate (failure to thrive), and general wasting and weight loss (cachexia). Another type called generalized juvenile polyposis is diagnosed when polyps develop throughout the gastrointestinal tract. In the third type, known as juvenile polyposis coli, affected individuals develop polyps only in their colon. People with generalized juvenile polyposis and juvenile polyposis coli typically develop polyps during childhood.  Most juvenile polyps are benign, but there is a chance that polyps can become cancerous (malignant). It is estimated that people with juvenile polyposis syndrome have a 10 to 50 percent risk of developing a cancer of the gastrointestinal tract. The most common type of cancer seen in people with juvenile polyposis syndrome is colorectal cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000550-2" qtype="frequency">How many people are affected by juvenile polyposis syndrome ?</Question>
+			<Answer>Juvenile polyposis syndrome occurs in approximately 1 in 100,000 individuals worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000550-3" qtype="genetic changes">What are the genetic changes related to juvenile polyposis syndrome ?</Question>
+			<Answer>Mutations in the BMPR1A and SMAD4 genes cause juvenile polyposis syndrome. These genes provide instructions for making proteins that are involved in transmitting chemical signals from the cell membrane to the nucleus. This type of signaling pathway allows the environment outside the cell to affect how the cell produces other proteins. The BMPR1A and SMAD4 proteins work together to help regulate the activity of particular genes and the growth and division (proliferation) of cells.  Mutations in the BMPR1A gene or the SMAD4 gene disrupt cell signaling and interfere with their roles in regulating gene activity and cell proliferation. This lack of regulation causes cells to grow and divide in an uncontrolled way, which can lead to polyp formation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000550-4" qtype="inheritance">Is juvenile polyposis syndrome inherited ?</Question>
+			<Answer>Juvenile polyposis syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In approximately 75 percent of cases, an affected person inherits the mutation from one affected parent. The remaining 25 percent of cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000550-5" qtype="treatment">What are the treatments for juvenile polyposis syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of juvenile polyposis syndrome:  - Gene Review: Gene Review: Juvenile Polyposis Syndrome  - Genetic Testing Registry: Juvenile polyposis syndrome  - MedlinePlus Encyclopedia: Colorectal Polyps   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

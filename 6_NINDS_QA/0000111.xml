@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000111" source="NINDS" url="http://www.ninds.nih.gov/disorders/swallowing_disorders/swallowing_disorders.htm">
+<Focus>Swallowing Disorders</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011168</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000111-1" qtype="information">What is (are) Swallowing Disorders ?</Question>
+			<Answer>Having trouble swallowing (dysphagia) is a symptom that accompanies a number of neurological disorders. The problem can occur at any stage of the normal swallowing process as food and liquid move from the mouth, down the back of the throat, through the esophagus and into the stomach. Difficulties can range from a total inability to swallow, to coughing or choking because the food or liquid is entering the windpipe, which is referred to as aspiration. When aspiration is frequent a person can be at risk of developing pneumonia. Food may get &quot;stuck&quot; in the throat or individuals may drool because they cannot swallow their saliva. Neurological conditions that can cause swallowing difficulties are: stroke (the most common cause of dysphagia); traumatic brain injury; cerebral palsy; Parkinson disease and other degenerative neurological disorders such as amyotrophic lateral sclerosis (ALS, also known as Lou Gehrig&apos;s disease), multiple sclerosis, progressive supranuclear palsy, Huntington disease, and myasthenia gravis. Muscular dystrophy and myotonic dystrophy are accompanied by dysphagia, which is also the cardinal symptom of oculopharyngeal muscular dystrophy, a rare, progressive genetic disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000111-2" qtype="treatment">What are the treatments for Swallowing Disorders ?</Question>
+			<Answer>Changing a person&apos;s diet by adding thickeners helps many people, as does learning different ways to eat and chew that reduce the risk for aspiration. Occasionally drug therapy that helps the neurological disorder can also help dysphagia. In a few persons, botulinum toxin injections can help when food or liquid cannot enter the esophagus to get to the stomach. More severely disabled individuals may require surgery or the insertion of feeding tubes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000111-3" qtype="outlook">What is the outlook for Swallowing Disorders ?</Question>
+			<Answer>The prognosis depends upon the type of swallowing problem and the course of the neurological disorder that produces it. In some cases, dysphagia can be partially or completely corrected using diet manipulation or non-invasive methods. In others, especially when the dysphagia is causing aspiration and preventing adequate nutrition and causing weight loss, it may require aggressive intervention such as a feeding tube. For those with progressive degenerative neurological disorders, dysphagia will be only one in a cluster of symptoms and disabilities that have to be treated.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000111-4" qtype="research">what research (or clinical trials) is being done for Swallowing Disorders ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes at the National Institutes of Health conduct research related to dysphagia in their clinics and laboratories and support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to treat dysphagia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000145" source="NINDS" url="http://www.ninds.nih.gov/disorders/hemifacial_spasm/hemifacial_spasm.htm">
+<Focus>Hemifacial Spasm</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0278152</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000145-1" qtype="information">What is (are) Hemifacial Spasm ?</Question>
+			<Answer>Hemifacial spasm is a neuromuscular disorder characterized by frequent involuntary contractions (spasms) of the muscles on one side (hemi-) of the face (facial). The disorder occurs in both men and women, although it more frequently affects middle-aged or elderly women. It is much more common in the Asian population. The first symptom is usually an intermittent twitching of the eyelid muscle that can lead to forced closure of the eye. The spasm may then gradually spread to involve the muscles of the lower face, which may cause the mouth to be pulled to one side. Eventually the spasms involve all of the muscles on one side of the face almost continuously. The condition may be caused by a facial nerve injury, or a tumor, or it may have no apparent cause. Rarely, doctors see individuals with spasm on both sides of the face. Most often hemifacial spasm is caused by a blood vessel pressing on the facial nerve at the place where it exits the brainstem.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000145-2" qtype="treatment">What are the treatments for Hemifacial Spasm ?</Question>
+			<Answer>Surgical treatment in the form of microvascular decompression, which relieves pressure on the facial nerve, will relieve hemifacial spasm in many cases. This intervention has significant potential side-effects, so risks and benefits have to be carefully balanced. Other treatments include injections of botulinum toxin into the affected areas, which is the most effective therapy and the only one used in most cases. Drug therapy is generally not effective.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000145-3" qtype="outlook">What is the outlook for Hemifacial Spasm ?</Question>
+			<Answer>The prognosis for an individual with hemifacial spasm depends on the treatment and their response. Some individuals will become relatively free from symptoms with injection therapy. Some may require surgery. In most cases, a balance can be achieved, with tolerable residual symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000145-4" qtype="research">what research (or clinical trials) is being done for Hemifacial Spasm ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts and supports research related to hemifacial spams through grants to major research institutions across the country. Much of this research focuses on better ways to prevent, treat, and ultimately cure neurological disorders, such as hemifacial spasm.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

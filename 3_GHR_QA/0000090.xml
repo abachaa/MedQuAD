@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000090" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-dominant-congenital-stationary-night-blindness">
+<Focus>autosomal dominant congenital stationary night blindness</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339535</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>adCSNB</Synonym>
+		<Synonym>CSNBAD</Synonym>
+		<Synonym>night blindness, congenital stationary, autosomal dominant</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000090-1" qtype="information">What is (are) autosomal dominant congenital stationary night blindness ?</Question>
+			<Answer>Autosomal dominant congenital stationary night blindness is a disorder of the retina, which is the specialized tissue at the back of the eye that detects light and color. People with this condition typically have difficulty seeing and distinguishing objects in low light (night blindness). For example, they are not able to identify road signs at night and some people cannot see stars in the night sky. Affected individuals have normal daytime vision and typically do not have other vision problems related to this disorder.  The night blindness associated with this condition is congenital, which means it is present from birth. This vision impairment tends to remain stable (stationary); it does not worsen over time.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000090-2" qtype="frequency">How many people are affected by autosomal dominant congenital stationary night blindness ?</Question>
+			<Answer>Autosomal dominant congenital stationary night blindness is likely a rare disease; however, its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000090-3" qtype="genetic changes">What are the genetic changes related to autosomal dominant congenital stationary night blindness ?</Question>
+			<Answer>Mutations in the RHO, GNAT1, or PDE6B gene cause autosomal dominant congenital stationary night blindness. The proteins produced from these genes are necessary for normal vision, particularly in low-light conditions. These proteins are found in specialized light receptor cells in the retina called rods. Rods transmit visual signals from the eye to the brain when light is dim.  The RHO gene provides instructions for making a protein called rhodopsin, which is turned on (activated) by light entering the eye. Rhodopsin then attaches (binds) to and activates the protein produced from the GNAT1 gene, alpha ()-transducin. The -transducin protein then triggers the activation of a protein called cGMP-PDE, which is made up of multiple parts (subunits) including a subunit produced from the PDE6B gene. Activated cGMP-PDE triggers a series of chemical reactions that create electrical signals. These signals are transmitted from rod cells to the brain, where they are interpreted as vision.  Mutations in the RHO, GNAT1, or PDE6B gene disrupt the normal signaling that occurs within rod cells. As a result, the rods cannot effectively transmit signals to the brain, leading to a lack of visual perception in low light.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000090-4" qtype="inheritance">Is autosomal dominant congenital stationary night blindness inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000090-5" qtype="treatment">What are the treatments for autosomal dominant congenital stationary night blindness ?</Question>
+			<Answer>These resources address the diagnosis or management of autosomal dominant congenital stationary night blindness:  - Genetic Testing Registry: Congenital stationary night blindness   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

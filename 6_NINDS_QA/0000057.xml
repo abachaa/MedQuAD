@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000057" source="NINDS" url="http://www.ninds.nih.gov/disorders/canavan/canavan.htm">
+<Focus>Canavan Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206307</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000057-1" qtype="information">What is (are) Canavan Disease ?</Question>
+			<Answer>Canavan disease is a gene-linked neurological disorder in which the brain degenerates into spongy tissue riddled with microscopic fluid-filled spaces. Canavan disease has been classified as one of a group of genetic disorders known as the leukodystrophies. Recent research has indicated that the cells in the brain responsible for making myelin sheaths, known as oligodendrocytes, cannot properly complete this critical developmental task. Myelin sheaths are the fatty covering that act as insulators around nerve fibers in the brain, as well as providing nutritional support for nerve cells. In Canavan disease, many oligodendrocytes do not mature and instead die, leaving nerve cell projections known as axons vulnerable and unable to properly function. Canavan disease is caused by mutation in the gene for an enzyme called aspartoacylase, which acts to break down the concentrated brain chemical known as N-acetyl-aspartate.
+                
+Symptoms of Canavan disease usually appear in the first 3 to 6 months of life and progress rapidly. Symptoms include lack of motor development, feeding difficulties, abnormal muscle tone (weakness or stiffness), and an abnormally large, poorly controlled head. Paralysis, blindness, or hearing loss may also occur. Children are characteristically quiet and apathetic. Although Canavan disease may occur in any ethnic group, it is more frequent among Ashkenazi Jews from eastern Poland, Lithuania, and western Russia, and among Saudi Arabians. Canavan disease can be identified by a simple prenatal blood test that screens for the missing enzyme or for mutations in the gene that controls aspartoacylase. Both parents must be carriers of the defective gene in order to have an affected child. When both parents are found to carry the Canavan gene mutation, there is a one in four (25 percent) chance with each pregnancy that the child will be affected with Canavan disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000057-2" qtype="treatment">What are the treatments for Canavan Disease ?</Question>
+			<Answer>Canavan disease causes progressive brain atrophy. There is no cure, nor is there a standard course of treatment. Treatment is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000057-3" qtype="outlook">What is the outlook for Canavan Disease ?</Question>
+			<Answer>The prognosis for Canavan disease is poor. Death usually occurs before age 10, although some children may survive into their teens and twenties.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000057-4" qtype="research">what research (or clinical trials) is being done for Canavan Disease ?</Question>
+			<Answer>The gene for Canavan disease has been located. Many laboratories offer prenatal screening for this disorder to populations at risk. Scientists have developed animal models for this disease and are using the models to test potential therapeutic strategies. Three strategies are currently under investigation: gene transfer to the brain in order to replace the mutated gene for the enzyme; metabolic therapy to provide a crucial missing metabolite (acetate); and enzyme therapy where the enzyme aspartoacylase is engineered to be able to enter the brain and is injected in the the blood stream. Encouraging results have been obtained using these strategies.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

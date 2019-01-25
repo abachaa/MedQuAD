@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000014" source="GHR" url="https://ghr.nlm.nih.gov/condition/adams-oliver-syndrome">
+<Focus>Adams-Oliver syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265268</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>absence defect of limbs, scalp, and skull</Synonym>
+		<Synonym>AOS</Synonym>
+		<Synonym>aplasia cutis congenita with terminal transverse limb defects</Synonym>
+		<Synonym>congenital scalp defects with distal limb reduction anomalies</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000014-1" qtype="information">What is (are) Adams-Oliver syndrome ?</Question>
+			<Answer>Adams-Oliver syndrome is a rare condition that is present at birth. The primary features are an abnormality in skin development (called aplasia cutis congenita) and malformations of the limbs. A variety of other features can occur in people with Adams-Oliver syndrome.  Most people with Adams-Oliver syndrome have aplasia cutis congenita, a condition characterized by localized areas of missing skin typically occurring on the top of the head (the skull vertex). In some cases, the bone under the skin is also underdeveloped. Individuals with this condition commonly have scarring and an absence of hair growth in the affected area.  Abnormalities of the hands and feet are also common in people with Adams-Oliver syndrome. These most often involve the fingers and toes and can include abnormal nails, fingers or toes that are fused together (syndactyly), and abnormally short or missing fingers or toes (brachydactyly or oligodactyly). In some cases, other bones in the hands, feet, or lower limbs are malformed or missing.  Some affected infants have a condition called cutis marmorata telangiectatica congenita. This disorder of the blood vessels causes a reddish or purplish net-like pattern on the skin. In addition, people with Adams-Oliver syndrome can develop high blood pressure in the blood vessels between the heart and the lungs (pulmonary hypertension), which can be life-threatening. Other blood vessel problems and heart defects can occur in affected individuals.  In some cases, people with Adams-Oliver syndrome have neurological problems, such as developmental delay, learning disabilities, or abnormalities in the structure of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000014-2" qtype="frequency">How many people are affected by Adams-Oliver syndrome ?</Question>
+			<Answer>Adams-Oliver syndrome is a rare disorder; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000014-3" qtype="genetic changes">What are the genetic changes related to Adams-Oliver syndrome ?</Question>
+			<Answer>Mutations in the ARHGAP31, DLL4, DOCK6, EOGT, NOTCH1, or RBPJ gene can cause Adams-Oliver syndrome. Because some affected individuals do not have mutations in one of these genes, it is likely that other genes that have not been identified are also involved in this condition. Each of the known genes plays an important role during embryonic development, and changes in any one of them can impair this tightly controlled process, leading to the signs and symptoms of Adams-Oliver syndrome.  The proteins produced from the ARHGAP31 and DOCK6 genes are both involved in the regulation of proteins called GTPases, which transmit signals that are critical for various aspects of embryonic development. The ARHGAP31 and DOCK6 proteins appear to be especially important for GTPase regulation during development of the limbs, skull, and heart. GTPases are often called molecular switches because they can be turned on and off. The DOCK6 protein turns them on, and the ARHGAP31 protein turns them off. Mutations in the DOCK6 gene lead to production of an abnormally short DOCK6 protein that is likely unable to turn on GTPases, which reduces their activity. Mutations in the ARHGAP31 gene also decrease GTPase activity by leading to production of an abnormally active ARHGAP31 protein, which turns off GTPases when it normally would not. This decline in GTPase activity leads to the skin problems, bone malformations, and other features characteristic of Adams-Oliver syndrome.  The proteins produced from the NOTCH1, DLL4, and RBPJ genes are part of a signaling pathway known as the Notch pathway. Notch signaling controls how certain types of cells develop in the growing embryo, including those that form the bones, heart, muscles, nerves, and blood vessels. The Notch1 and DLL4 proteins fit together like a lock and its key to stimulate one part of the Notch pathway, which is important for development of blood vessels. The NOTCH1 and DLL4 gene mutations involved in Adams-Oliver syndrome likely impair Notch1 signaling, which may underlie blood vessel and heart abnormalities in some people with Adams-Oliver syndrome. Researchers suspect that the other features of the condition may be due to abnormal blood vessel development before birth.  Signaling through Notch1 and other Notch proteins stimulates the RBP-J protein, produced from the RBPJ gene, to attach (bind) to specific regions of DNA and control the activity of genes that play a role in cellular development in multiple tissues throughout the body. The RBPJ gene mutations involved in Adams-Oliver syndrome alter the region of the RBP-J protein that normally binds DNA. The altered protein is unable to bind to DNA, preventing it from turning on particular genes. These changes in gene activity impair the proper development of the skin, bones, and other tissues, leading to the features of Adams-Oliver syndrome.  Little is known about how mutations in the EOGT gene cause Adams-Oliver syndrome. The protein produced from this gene modifies certain proteins by transferring a molecule called N-acetylglucosamine to them. It is thought that the EOGT protein modifies Notch proteins, which stimulate the Notch signaling pathway. However, the impact of the modification on Notch signaling is unclear. At least three mutations in the EOGT gene have been identified in people with Adams-Oliver syndrome, but how the genetic changes contribute to the signs and symptoms of this disorder is still unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000014-4" qtype="inheritance">Is Adams-Oliver syndrome inherited ?</Question>
+			<Answer>Adams-Oliver syndrome can have different inheritance patterns. When caused by mutations in the ARHGAP31, DLL4, NOTCH1, or RBPJ gene, the condition is inherited in an autosomal dominant pattern. Autosomal dominant inheritance means that one copy of the altered gene in each cell is sufficient to cause the disorder. The altered gene is typically inherited from an affected parent. Some cases associated with NOTCH1 gene mutations result from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.  When caused by mutations in the DOCK6 or EOGT gene, Adams-Oliver syndrome is inherited in an autosomal recessive pattern. In conditions with this pattern of inheritance, both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000014-5" qtype="treatment">What are the treatments for Adams-Oliver syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Adams-Oliver syndrome:  - Contact a Family  - Gene Review: Gene Review: Adams-Oliver Syndrome  - Genetic Testing Registry: Adams-Oliver syndrome  - Genetic Testing Registry: Adams-Oliver syndrome 5  - Genetic Testing Registry: Adams-Oliver syndrome 6   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005318" source="GARD" url="https://rarediseases.info.nih.gov/gard/8625/reticular-dysgenesis">
+<Focus>Reticular dysgenesis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0272167</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>RD</Synonym>
+		<Synonym>Severe combined immunodeficiency with leukopenia</Synonym>
+		<Synonym>Congenital aleukia</Synonym>
+		<Synonym>DeVaal disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005318-1" qtype="symptoms">What are the symptoms of Reticular dysgenesis ?</Question>
+			<Answer>What are the signs and symptoms of Reticular dysgenesis? The Human Phenotype Ontology provides the following list of signs and symptoms for Reticular dysgenesis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of mitochondrial metabolism 90% Abnormality of neutrophils 90% Anemia 90% Aplasia/Hypoplasia of the thymus 90% Cellular immunodeficiency 90% Decreased antibody level in blood 90% Diarrhea 90% Hearing impairment 90% Leukopenia 90% Otitis media 90% Recurrent respiratory infections 90% Sepsis 90% Severe combined immunodeficiency 90% Abnormality of temperature regulation 50% Malabsorption 50% Weight loss 50% Dehydration 7.5% Skin rash 7.5% Skin ulcer 7.5% Abnormality of the thymus - Absent cellular immunity - Autosomal recessive inheritance - Congenital agranulocytosis - Lymphopenia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000156" source="NINDS" url="http://www.ninds.nih.gov/disorders/hydromyelia/hydromyelia.htm">
+<Focus>Hydromyelia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152444</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000156-1" qtype="information">What is (are) Hydromyelia ?</Question>
+			<Answer>Hydromyelia refers to an abnormal widening of the central canal of the spinal cord that creates a cavity in which cerebrospinal fluid (commonly known as spinal fluid) can accumulate. As spinal fluid builds up, it may put abnormal pressure on the spinal cord and damage nerve cells and their connections. Hydromyelia is sometimes used interchangeably with syringomyelia, the name for a condition that also involves cavitation in the spinal cord. In hydromyelia, the cavity that forms is connected to the fourth ventricle in the brain, and is almost always associated in infants and children with hydrocephalus or birth defects such as Chiari Malformation II and Dandy-Walker syndrome. Syringomyelia, however, features a closed cavity and occurs primarily in adults, the majority of whom have Chiari Malformation type 1 or have experienced spinal cord trauma. Symptoms, which may occur over time, include weakness of the hands and arms, stiffness in the legs; and sensory loss in the neck and arms. Some individuals have severe pain in the neck and arms. Diagnosis is made by magnetic resonance imaging (MRI), which reveals abnormalities in the anatomy of the spinal cord..</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000156-2" qtype="treatment">What are the treatments for Hydromyelia ?</Question>
+			<Answer>Generally, physicians recommend surgery for children with hydromyelia if they have moderate or severe neurological deficits. Surgical treatment re-establishes the normal flow of spinal fluid.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000156-3" qtype="outlook">What is the outlook for Hydromyelia ?</Question>
+			<Answer>Surgery may permanently or temporarily relieve symptoms, but it can also cause a number of severe complications. In rare cases, hydromyelia may resolve on its own without any medical intervention.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000156-4" qtype="research">what research (or clinical trials) is being done for Hydromyelia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to hydromyelia in its clinics and laboratories at The National Institutes of Health (NIH) and supports additional research through grants to major research institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure abnormalities of the spinal cord such as hydromyelia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

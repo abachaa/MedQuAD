@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000007_5" source="CancerGov" url="https://www.cancer.gov/types/liver/patient/liver-screening-pdq">
+<Focus>Liver (Hepatocellular) Cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006826</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000007_5-1" qtype="information">What is (are) Liver (Hepatocellular) Cancer ?</Question>
+			<Answer>Key Points
+                    - Liver cancer is a disease in which malignant (cancer) cells form in the tissues of the liver.    - Liver cancer is less common in the United States than in other parts of the world.    - Having hepatitis or cirrhosis can increase the risk of developing liver cancer.
+                
+                
+                    Liver cancer is a disease in which malignant (cancer) cells form in the tissues of the liver.
+                    The liver is one of the largest organs in the body. It has four lobes and fills the upper right side of the abdomen inside the rib cage. Three of the many important functions of the liver are:         - To filter harmful substances from the blood so they can be passed from the body in stools and urine.    - To make bile to help digest fats from food.    - To store glycogen (sugar), which the body uses for energy.         See the following PDQ summaries for more information about liver (hepatocellular) cancer:         -  Liver (Hepatocellular) Cancer Prevention     -  Adult Primary Liver Cancer Treatment     -  Childhood Liver Cancer Treatment
+                
+                
+                    Liver cancer is less common in the United States than in other parts of the world.
+                    Liver cancer is uncommon in the United States, but is the fourth most common cancer in the world. In the United States, men, especially Chinese American men, have a greater risk of developing liver cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000007_5-2" qtype="susceptibility">Who is at risk for Liver (Hepatocellular) Cancer? ?</Question>
+			<Answer>Having hepatitis or cirrhosis can increase the risk of developing liver cancer. Anything that increases the chance of getting a disease is called a risk factor. Having a risk factor does not mean that you will get cancer; not having risk factors doesn&apos;t mean that you will not get cancer. People who think they may be at risk should discuss this with their doctor. Risk factors for liver cancer include:         - Having hepatitis B or hepatitis C; having both hepatitis B and hepatitis C increases the risk even more.    - Having cirrhosis, which can be caused by:                -  hepatitis (especially hepatitis C); or      - drinking large amounts of alcohol for many years or being an alcoholic.             - Eating foods tainted with aflatoxin (poison from a fungus that can grow on foods, such as grains and nuts, that have not been stored properly).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

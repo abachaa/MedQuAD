@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002695" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000129.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Multiple sclerosis - discharge</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MS - discharge</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002695-1" qtype="information">What is (are) Multiple sclerosis - discharge ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="10">
+			<Question qid="0002695-10" qtype="when to contact a medical professional">Do I need to see a doctor for Multiple sclerosis - discharge ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

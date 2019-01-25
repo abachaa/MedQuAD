@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001005" source="GHR" url="https://ghr.nlm.nih.gov/condition/tyrosine-hydroxylase-deficiency">
+<Focus>tyrosine hydroxylase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1291314</CUI>
+			<CUI>C2673535</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal recessive infantile parkinsonism</Synonym>
+		<Synonym>Segawa syndrome, autosomal recessive</Synonym>
+		<Synonym>TH deficiency</Synonym>
+		<Synonym>TH-deficient DRD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001005-1" qtype="information">What is (are) tyrosine hydroxylase deficiency ?</Question>
+			<Answer>Tyrosine hydroxylase (TH) deficiency is a disorder that primarily affects movement, with symptoms that may range from mild to severe.  The mild form of this disorder is called TH-deficient dopa-responsive dystonia (DRD). Symptoms usually appear during childhood. Affected individuals may exhibit unusual limb positioning and a lack of coordination when walking or running. In some cases, people with TH-deficient DRD have additional movement problems such as shaking when holding a position (postural tremor) or involuntary upward-rolling movements of the eyes. The movement difficulties may slowly increase with age but almost always get better with medical treatment.  The severe forms of TH deficiency are called infantile parkinsonism and progressive infantile encephalopathy. These forms of the disorder appear soon after birth and are more difficult to treat effectively.  Babies with infantile parkinsonism have delayed development of motor skills such as sitting unsupported or reaching for a toy. They may have stiff muscles, especially in the arms and legs; unusual body positioning; droopy eyelids (ptosis); and involuntary upward-rolling eye movements. The autonomic nervous system, which controls involuntary body functions, may also be affected. Resulting signs and symptoms can include constipation, backflow of stomach acids into the esophagus (gastroesophageal reflux), and difficulty regulating blood sugar, body temperature, and blood pressure. People with the infantile parkinsonism form of the disorder may have intellectual disability, speech problems, attention deficit disorder, and psychiatric conditions such as depression, anxiety, or obsessive-compulsive behaviors.  Progressive infantile encephalopathy is an uncommon severe form of TH deficiency. It is characterized by brain dysfunction and structural abnormalities leading to profound physical and intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001005-2" qtype="frequency">How many people are affected by tyrosine hydroxylase deficiency ?</Question>
+			<Answer>The prevalence of TH deficiency is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001005-3" qtype="genetic changes">What are the genetic changes related to tyrosine hydroxylase deficiency ?</Question>
+			<Answer>Mutations in the TH gene cause TH deficiency. The TH gene provides instructions for making the enzyme tyrosine hydroxylase, which is important for normal functioning of the nervous system. Tyrosine hydroxylase takes part in the pathway that produces a group of chemical messengers (hormones) called catecholamines. Tyrosine hydroxylase helps convert the protein building block (amino acid) tyrosine to a catecholamine called dopamine. Dopamine transmits signals to help the brain control physical movement and emotional behavior. Other catecholamines called norepinephrine and epinephrine are produced from dopamine. Norepinephrine and epinephrine are involved in the autonomic nervous system.  Mutations in the TH gene result in reduced activity of the tyrosine hydroxylase enzyme. As a result, the body produces less dopamine, norepinephrine and epinephrine. These catecholamines are necessary for normal nervous system function, and changes in their levels contribute to the abnormal movements, autonomic dysfunction, and other neurological problems seen in people with TH deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001005-4" qtype="inheritance">Is tyrosine hydroxylase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001005-5" qtype="treatment">What are the treatments for tyrosine hydroxylase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of TH deficiency:  - Gene Review: Gene Review: Tyrosine Hydroxylase Deficiency  - Genetic Testing Registry: Segawa syndrome, autosomal recessive   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

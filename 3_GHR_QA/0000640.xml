@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000640" source="GHR" url="https://ghr.nlm.nih.gov/condition/megalencephalic-leukoencephalopathy-with-subcortical-cysts">
+<Focus>megalencephalic leukoencephalopathy with subcortical cysts</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270612</CUI>
+			<CUI>C1858854</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>infantile leukoencephalopathy and megalencephaly</Synonym>
+		<Synonym>leukoencephalopathy with swelling and a discrepantly mild course</Synonym>
+		<Synonym>leukoencephalopathy with swelling and cysts</Synonym>
+		<Synonym>LVM</Synonym>
+		<Synonym>MLC</Synonym>
+		<Synonym>vacuolating leukoencephalopathy</Synonym>
+		<Synonym>vacuolating megalencephalic leukoencephalopathy with subcortical cysts</Synonym>
+		<Synonym>van der Knaap disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000640-1" qtype="information">What is (are) megalencephalic leukoencephalopathy with subcortical cysts ?</Question>
+			<Answer>Megalencephalic leukoencephalopathy with subcortical cysts is a progressive condition that affects brain development and function. Individuals with this condition typically have an enlarged brain (megalencephaly) that is evident at birth or within the first year of life. Megalencephaly leads to an increase in the size of the head (macrocephaly). Affected people also have leukoencephalopathy, an abnormality of the brain&apos;s white matter. White matter consists of nerve fibers covered by a fatty substance called myelin. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses. In megalencephalic leukoencephalopathy with subcortical cysts, the myelin is swollen and contains numerous fluid-filled pockets (vacuoles). Over time, the swelling decreases and the myelin begins to waste away (atrophy). Individuals affected with this condition may develop cysts in the brain; because these cysts form below an area of the brain called the cerebral cortex, they are called subcortical cysts. These cysts can grow in size and number.  The brain abnormalities in people with megalencephalic leukoencephalopathy with subcortical cysts affect the use of muscles and lead to movement problems. Affected individuals typically experience muscle stiffness (spasticity) and difficulty coordinating movements (ataxia). Walking ability varies greatly among those affected. Some people lose the ability to walk early in life and need wheelchair assistance, while others are able to walk unassisted well into adulthood. Minor head trauma can further impair movements and may lead to coma. Affected individuals may also develop uncontrolled muscle tensing (dystonia), involuntary writhing movements of the limbs (athetosis), difficulty swallowing (dysphagia), and impaired speech (dysarthria). More than half of all people with this condition have recurrent seizures (epilepsy). Despite the widespread brain abnormalities, people with this condition typically have only mild to moderate intellectual disability.  There are three types of megalencephalic leukoencephalopathy with subcortical cysts, which are distinguished by their signs and symptoms and genetic cause. Types 1 and 2A have different genetic causes but are nearly identical in signs and symptoms. Types 2A and 2B have the same genetic cause but the signs and symptoms of type 2B often begin to improve after one year. After improvement, individuals with type 2B usually have macrocephaly and may have intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000640-2" qtype="frequency">How many people are affected by megalencephalic leukoencephalopathy with subcortical cysts ?</Question>
+			<Answer>Megalencephalic leukoencephalopathy with subcortical cysts is a rare condition; its exact prevalence is unknown. More than 150 cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000640-3" qtype="genetic changes">What are the genetic changes related to megalencephalic leukoencephalopathy with subcortical cysts ?</Question>
+			<Answer>Mutations in the MLC1 gene cause megalencephalic leukoencephalopathy with subcortical cysts type 1; this type accounts for 75 percent of all cases. The MLC1 gene provides instructions for producing a protein that is made primarily in the brain. The MLC1 protein is found in astroglial cells, which are a specialized form of brain cells called glial cells. Glial cells protect and maintain other nerve cells (neurons). The MLC1 protein functions at junctions that connect neighboring astroglial cells. The role of the MLC1 protein at the cell junction is unknown, but research suggests that it may control the flow of fluids into cells or the strength of cells&apos; attachment to one another (cell adhesion).  Mutations in the HEPACAM gene cause megalencephalic leukoencephalopathy with subcortical cysts types 2A and 2B; together, these types account for 20 percent of all cases. The HEPACAM gene provides instructions for making a protein called GlialCAM. This protein primarily functions in the brain, particularly in glial cells. GlialCAM attaches (binds) to other GlialCAM proteins or to the MLC1 protein and guides them to cell junctions. The function of GlialCAM at the cell junction is unclear.  Most MLC1 gene mutations alter the structure of the MLC1 protein or prevent the cell from producing any of this protein, leading to a lack of functional MLC1 protein at the astroglial cell junctions. HEPACAM gene mutations lead to a protein that is unable to correctly transport GlialCAM and MLC1 proteins to cell junctions. It is unknown how a lack of functional MLC1 or GlialCAM protein at cell junctions in the brain impairs brain development and function, causing the signs and symptoms of megalencephalic leukoencephalopathy with subcortical cysts.  Approximately 5 percent of people with megalencephalic leukoencephalopathy with subcortical cysts do not have identified mutations in the MLC1 or HEPACAM gene. In these individuals, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000640-4" qtype="inheritance">Is megalencephalic leukoencephalopathy with subcortical cysts inherited ?</Question>
+			<Answer>All cases of megalencephalic leukoencephalopathy with subcortical cysts caused by mutations in the MLC1 gene (type 1) and some cases caused by mutations in the HEPACAM gene (type 2A) are inherited in an autosomal recessive pattern. Autosomal recessive inheritance means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Megalencephalic leukoencephalopathy with subcortical cysts type 2B is inherited in an autosomal dominant pattern, which means one copy of the altered HEPACAM gene in each cell is sufficient to cause the disorder. Most cases of type 2B result from new (de novo) mutations in the HEPACAM gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000640-5" qtype="treatment">What are the treatments for megalencephalic leukoencephalopathy with subcortical cysts ?</Question>
+			<Answer>These resources address the diagnosis or management of megalencephalic leukoencephalopathy with subcortical cysts:  - Gene Review: Gene Review: Megalencephalic Leukoencephalopathy with Subcortical Cysts  - Genetic Testing Registry: Megalencephalic leukoencephalopathy with subcortical cysts  - Genetic Testing Registry: Megalencephalic leukoencephalopathy with subcortical cysts 1  - Genetic Testing Registry: Megalencephalic leukoencephalopathy with subcortical cysts 2a  - Genetic Testing Registry: Megalencephalic leukoencephalopathy with subcortical cysts 2b, remitting, with or without mental retardation  - MedlinePlus Encyclopedia: Myelin   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

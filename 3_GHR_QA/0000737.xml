@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000737" source="GHR" url="https://ghr.nlm.nih.gov/condition/nonsyndromic-paraganglioma">
+<Focus>nonsyndromic paraganglioma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030421</CUI>
+			<CUI>C2677304</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>chemodectoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000737-1" qtype="information">What is (are) nonsyndromic paraganglioma ?</Question>
+			<Answer>Paraganglioma is a type of noncancerous (benign) tumor that occurs in structures called paraganglia. Paraganglia are groups of cells that are found near nerve cell bunches called ganglia. Paragangliomas are usually found in the head, neck, or torso. However, a type of paraganglioma known as pheochromocytoma develops in the adrenal glands. Adrenal glands are located on top of each kidney and produce hormones in response to stress. Most people with paraganglioma develop only one tumor in their lifetime.  Some people develop a paraganglioma or pheochromocytoma as part of a hereditary syndrome that may affect other organs and tissues in the body. However, the tumors often are not associated with any syndromes, in which case the condition is called nonsyndromic paraganglioma or pheochromocytoma.  Pheochromocytomas and some other paragangliomas are associated with ganglia of the sympathetic nervous system. The sympathetic nervous system controls the &quot;fight-or-flight&quot; response, a series of changes in the body due to hormones released in response to stress. Although most sympathetic paragangliomas are pheochromocytomas, some are found outside the adrenal glands, usually in the abdomen, and are called extra-adrenal paragangliomas. Most sympathetic paragangliomas, including pheochromocytomas, produce hormones called catecholamines, such as epinephrine (adrenaline) or norepinephrine. These excess catecholamines can cause signs and symptoms such as high blood pressure (hypertension), episodes of rapid heartbeat (palpitations), headaches, or sweating.  Most paragangliomas are associated with ganglia of the parasympathetic nervous system, which controls involuntary body functions such as digestion and saliva formation. Parasympathetic paragangliomas, typically found in the head and neck, usually do not produce hormones. However, large tumors may cause signs and symptoms such as coughing, hearing loss in one ear, or difficulty swallowing.  Although most paragangliomas and pheochromocytomas are noncancerous, some can become cancerous (malignant) and spread to other parts of the body (metastasize). Extra-adrenal paragangliomas become malignant more often than other types of paraganglioma or pheochromocytoma.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000737-2" qtype="frequency">How many people are affected by nonsyndromic paraganglioma ?</Question>
+			<Answer>It is estimated that the prevalence of pheochromocytoma is 1 in 500,000 people, and the prevalence of other paragangliomas is 1 in 1 million people. These statistics include syndromic and nonsyndromic paraganglioma and pheochromocytoma.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000737-3" qtype="genetic changes">What are the genetic changes related to nonsyndromic paraganglioma ?</Question>
+			<Answer>The VHL, RET, SDHB, and SDHD genes can be mutated in both syndromic and nonsyndromic forms of paraganglioma and pheochromocytoma. Mutations in at least three additional genes, TMEM127, SDHA, and KIF1B, have been identified in people with the nonsyndromic form of these conditions. Gene mutations increase the risk of developing paraganglioma or pheochromocytoma by affecting control of cell growth and division.  Mutations in the VHL, SDHA, SDHB, and SDHD genes increase the risk of developing nonsyndromic paraganglioma or pheochromocytoma. The protein produced from the VHL gene helps break down other, unneeded proteins, including a protein called HIF that stimulates cell division and blood vessel formation under certain cellular conditions. The proteins produced from the SDHA, SHDB, and SDHD genes are each pieces (subunits) of an enzyme that is important for energy production in the cell. This enzyme also plays a role in the breakdown of the HIF protein. Mutations in the VHL, SDHA, SDHB, and SDHD genes stabilize the HIF protein, causing it to build up in cells. Excess HIF protein stimulates cells to divide and triggers the production of blood vessels when they are not needed. Rapid and uncontrolled cell division, along with the formation of new blood vessels, can lead to the development of tumors.  Mutations in the RET gene have been found in nonsyndromic pheochromocytoma in addition to a pheochromocytoma-predisposing syndrome. The protein produced from the RET gene is involved in signaling within cells that can stimulate cell division or maturation. Mutations in the RET gene overactivate the protein&apos;s signaling function, which can trigger cell growth and division in the absence of signals from outside the cell. This unchecked cell division can lead to the formation of tumors in the adrenal glands.  Mutations in the TMEM127 gene have been identified most commonly in people with nonsyndromic pheochromocytoma and are rarely seen in people with other paraganglioma. The TMEM127 protein normally controls a signaling pathway that induces cell growth and survival. Studies suggest that mutations in the TMEM127 gene lead to abnormal activation of cell growth, which may cause tumor formation.  Mutations in the KIF1B gene have been reported in nonsyndromic pheochromocytoma. Studies suggest that these mutations impair the function of the KIF1B protein, which normally triggers cells to self-destruct in a process called apoptosis. When apoptosis is impaired, cells grow and divide too quickly or in an uncontrolled way, potentially leading to tumor formation.  Many people with nonsyndromic paraganglioma or pheochromocytoma do not have a mutation in any of the genes associated with the conditions. It is likely that other, unidentified genes also predispose to development of paraganglioma or pheochromocytoma.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000737-4" qtype="inheritance">Is nonsyndromic paraganglioma inherited ?</Question>
+			<Answer>Nonsyndromic paraganglioma can be inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase the risk of developing a paraganglioma or pheochromocytoma. People with mutations in the gene inherit an increased risk of this condition, not the condition itself. Not all people with this condition have a mutation in the gene, and not all people with a gene mutation will develop the disorder.  Most cases of nonsyndromic paraganglioma and pheochromocytoma are considered sporadic, which means the tumors occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000737-5" qtype="treatment">What are the treatments for nonsyndromic paraganglioma ?</Question>
+			<Answer>These resources address the diagnosis or management of nonsyndromic paraganglioma:  - Genetic Testing Registry: Pheochromocytoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

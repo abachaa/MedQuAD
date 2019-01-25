@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001003" source="GHR" url="https://ghr.nlm.nih.gov/condition/type-1-diabetes">
+<Focus>type 1 diabetes</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011854</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autoimmune diabetes</Synonym>
+		<Synonym>diabetes mellitus type 1</Synonym>
+		<Synonym>diabetes mellitus, insulin-dependent</Synonym>
+		<Synonym>diabetes mellitus, type 1</Synonym>
+		<Synonym>IDDM</Synonym>
+		<Synonym>insulin-dependent diabetes mellitus</Synonym>
+		<Synonym>JOD</Synonym>
+		<Synonym>juvenile diabetes</Synonym>
+		<Synonym>juvenile-onset diabetes</Synonym>
+		<Synonym>juvenile-onset diabetes mellitus</Synonym>
+		<Synonym>T1D</Synonym>
+		<Synonym>type 1 diabetes mellitus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001003-1" qtype="information">What is (are) type 1 diabetes ?</Question>
+			<Answer>Type 1 diabetes is a disorder characterized by abnormally high blood sugar levels. In this form of diabetes, specialized cells in the pancreas called beta cells stop producing insulin. Insulin controls how much glucose (a type of sugar) is passed from the blood into cells for conversion to energy. Lack of insulin results in the inability to use glucose for energy or to control the amount of sugar in the blood.  Type 1 diabetes can occur at any age; however, it usually develops by early adulthood, most often starting in adolescence. The first signs and symptoms of the disorder are caused by high blood sugar and may include frequent urination (polyuria), excessive thirst (polydipsia), fatigue, blurred vision, tingling or loss of feeling in the hands and feet, and weight loss. These symptoms may recur during the course of the disorder if blood sugar is not well controlled by insulin replacement therapy. Improper control can also cause blood sugar levels to become too low (hypoglycemia). This may occur when the body&apos;s needs change, such as during exercise or if eating is delayed. Hypoglycemia can cause headache, dizziness, hunger, shaking, sweating, weakness, and agitation.  Uncontrolled type 1 diabetes can lead to a life-threatening complication called diabetic ketoacidosis. Without insulin, cells cannot take in glucose. A lack of glucose in cells prompts the liver to try to compensate by releasing more glucose into the blood, and blood sugar can become extremely high. The cells, unable to use the glucose in the blood for energy, respond by using fats instead. Breaking down fats to obtain energy produces waste products called ketones, which can build up to toxic levels in people with type 1 diabetes, resulting in diabetic ketoacidosis. Affected individuals may begin breathing rapidly; develop a fruity odor in the breath; and experience nausea, vomiting, facial flushing, stomach pain, and dryness of the mouth (xerostomia). In severe cases, diabetic ketoacidosis can lead to coma and death.  Over many years, the chronic high blood sugar associated with diabetes may cause damage to blood vessels and nerves, leading to complications affecting many organs and tissues. The retina, which is the light-sensitive tissue at the back of the eye, can be damaged (diabetic retinopathy), leading to vision loss and eventual blindness. Kidney damage (diabetic nephropathy) may also occur and can lead to kidney failure and end-stage renal disease (ESRD). Pain, tingling, and loss of normal sensation (diabetic neuropathy) often occur, especially in the feet. Impaired circulation and absence of the normal sensations that prompt reaction to injury can result in permanent damage to the feet; in severe cases, the damage can lead to amputation. People with type 1 diabetes are also at increased risk of heart attacks, strokes, and problems with urinary and sexual function.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001003-2" qtype="frequency">How many people are affected by type 1 diabetes ?</Question>
+			<Answer>Type 1 diabetes occurs in 10 to 20 per 100,000 people per year in the United States. By age 18, approximately 1 in 300 people in the United States develop type 1 diabetes. The disorder occurs with similar frequencies in Europe, the United Kingdom, Canada, and New Zealand. Type 1 diabetes occurs much less frequently in Asia and South America, with reported incidences as low as 1 in 1 million per year. For unknown reasons, during the past 20 years the worldwide incidence of type 1 diabetes has been increasing by 2 to 5 percent each year.  Type 1 diabetes accounts for 5 to 10 percent of cases of diabetes worldwide. Most people with diabetes have type 2 diabetes, in which the body continues to produce insulin but becomes less able to use it.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001003-3" qtype="genetic changes">What are the genetic changes related to type 1 diabetes ?</Question>
+			<Answer>The causes of type 1 diabetes are unknown, although several risk factors have been identified. The risk of developing type 1 diabetes is increased by certain variants of the HLA-DQA1, HLA-DQB1, and HLA-DRB1 genes. These genes provide instructions for making proteins that play a critical role in the immune system. The HLA-DQA1, HLA-DQB1, and HLA-DRB1 genes belong to a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders such as viruses and bacteria.  Type 1 diabetes is generally considered to be an autoimmune disorder. Autoimmune disorders occur when the immune system attacks the body&apos;s own tissues and organs. For unknown reasons, in people with type 1 diabetes the immune system damages the insulin-producing beta cells in the pancreas. Damage to these cells impairs insulin production and leads to the signs and symptoms of type 1 diabetes.  HLA genes, including HLA-DQA1, HLA-DQB1, and HLA-DRB1, have many variations, and individuals have a certain combination of these variations, called a haplotype. Certain HLA haplotypes are associated with a higher risk of developing type 1 diabetes, with particular combinations of HLA-DQA1, HLA-DQB1, and HLA-DRB1 gene variations resulting in the highest risk. These haplotypes seem to increase the risk of an inappropriate immune response to beta cells. However, these variants are also found in the general population, and only about 5 percent of individuals with the gene variants develop type 1 diabetes. HLA variations account for approximately 40 percent of the genetic risk for the condition. Other HLA variations appear to be protective against the disease. Additional contributors, such as environmental factors and variations in other genes, are also thought to influence the development of this complex disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001003-4" qtype="inheritance">Is type 1 diabetes inherited ?</Question>
+			<Answer>A predisposition to develop type 1 diabetes is passed through generations in families, but the inheritance pattern is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001003-5" qtype="treatment">What are the treatments for type 1 diabetes ?</Question>
+			<Answer>These resources address the diagnosis or management of type 1 diabetes:  - Food and Drug Administration: Blood Glucose Measuring Devices  - Food and Drug Administration: Insulin  - Genetic Testing Registry: Diabetes mellitus type 1  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 10  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 11  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 12  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 13  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 15  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 17  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 18  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 19  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 2  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 20  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 21  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 22  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 23  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 24  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 3  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 4  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 5  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 6  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 7  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, 8  - Genetic Testing Registry: Diabetes mellitus, insulin-dependent, X-linked, susceptibility to  - MedlinePlus Encyclopedia: Anti-Insulin Antibody Test  - MedlinePlus Encyclopedia: Home Blood Sugar Testing  - MedlinePlus Health Topic: Islet Cell Transplantation  - MedlinePlus Health Topic: Pancreas Transplantation  - Type 1 Diabetes in Adults: National Clinical Guideline for Diagnosis and Management in Primary and Secondary Care (2004)  - Type 1 Diabetes: Diagnosis and Management of Type 1 Diabetes in Children and Young People (2004)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

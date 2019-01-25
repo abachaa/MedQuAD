@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000411" source="GHR" url="https://ghr.nlm.nih.gov/condition/globozoospermia">
+<Focus>globozoospermia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0403825</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acrosome malformation of spermatozoa</Synonym>
+		<Synonym>round-headed spermatozoa</Synonym>
+		<Synonym>spermatogenic failure 9</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000411-1" qtype="information">What is (are) globozoospermia ?</Question>
+			<Answer>Globozoospermia is a condition that affects only males. It is characterized by abnormal sperm and leads to an inability to father biological children (infertility).  Normal sperm cells have an oval-shaped head with a cap-like covering called the acrosome. The acrosome contains enzymes that break down the outer membrane of an egg cell, allowing the sperm to fertilize the egg. The sperm cells of males with globozoospermia, however, have a round head and no acrosome. The abnormal sperm are unable to fertilize an egg cell, leading to infertility.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000411-2" qtype="frequency">How many people are affected by globozoospermia ?</Question>
+			<Answer>Globozoospermia is a rare condition that is estimated to affect 1 in 65,000 men. It is most common in North Africa, where it accounts for approximately 1 in 100 cases of male infertility.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000411-3" qtype="genetic changes">What are the genetic changes related to globozoospermia ?</Question>
+			<Answer>Globozoospermia is most commonly caused by mutations in the DPY19L2 gene, which are found in about 70 percent of men with this condition. Mutations in other genes likely also cause globozoospermia.  The DPY19L2 gene provides instructions for making a protein that is found in developing sperm cells. The DPY19L2 protein is involved in the development of the acrosome and elongation of the sperm head, which are integral steps in sperm cell maturation. Mutations in the DPY19L2 gene result in a loss of functional DPY19L2 protein. As a result, sperm cells have no acrosome and do not elongate properly. Without an acrosome, the abnormal sperm are unable to get through the outer membrane of an egg cell to fertilize it, leading to infertility in affected men. Researchers have described other characteristics of the abnormal sperm cells that make fertilization of an egg cell difficult, although it is not clear how changes in the DPY19L2 gene are involved in development of these characteristics.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000411-4" qtype="inheritance">Is globozoospermia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000411-5" qtype="treatment">What are the treatments for globozoospermia ?</Question>
+			<Answer>These resources address the diagnosis or management of globozoospermia:  - Association for Reproductive Medicine: Semen Analysis  - Centers for Disease Control: Assisted Reproductive Technology (ART)  - Genetic Testing Registry: Globozoospermia  - MedlinePlus Encyclopedia: Semen Analysis  - MedlinePlus Health Topic: Assisted Reproductive Technology   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

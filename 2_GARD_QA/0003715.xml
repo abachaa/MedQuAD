@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003715" source="GARD" url="https://rarediseases.info.nih.gov/gard/6944/lymphomatoid-papulosis">
+<Focus>Lymphomatoid papulosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206182</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LyP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003715-1" qtype="information">What is (are) Lymphomatoid papulosis ?</Question>
+			<Answer>Lymphomatoid papulosis is a skin disorder that is characterized by crops of self healing skin lesions that look cancerous under the microscope but are actually benign (non-cancerous). Lesions contain unusual cells that are similar to those found in some lymphomas (cancers of the lymphatic system).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003715-2" qtype="symptoms">What are the symptoms of Lymphomatoid papulosis ?</Question>
+			<Answer>What are the early signs of lymphomatoid papulosis? Patients may present with multiple skin papules (raised bumps) that can occur anywhere on the body but most often on the chest, stomach, back, arms, and legs. The papules appear in crops and may be mildly itchy. They may develop into blood or pus-filled blisters that break and form a crusty sore before healing completely. Lesions tend to spontaneously heal with or without scarring within 2-8 weeks of appearing.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003715-3" qtype="causes">What causes Lymphomatoid papulosis ?</Question>
+			<Answer>What causes lymphomatoid papulosis? The cause of lymphomatoid papulosis is unknown, but it is associated with a proliferation of atypical T-cells. T-cells are specific white blood cells involved in immune responses.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003715-4" qtype="treatment">What are the treatments for Lymphomatoid papulosis ?</Question>
+			<Answer>How might lymphomatoid papulosis be treated? Localized mildly itchy skin lesions may be treated with mid- to high-potency topical steroids to hasten healing, or with more aggressive topical therapies (e.g.,phototherapy) to suppress the disease and the possibility of progression to lymphoma. Low-dose weekly methotrexate has been used to suppress the condition with some success, however the treatment effects are not lasting. Oral psoralen plus UVA phototherapy may also effectively treat and suppresses the disease. A few reports have found that following treatments may also help with disease suppression: Topical carmustine Topical nitrogen mustard Topical MTX Topical imiquimod cream Intralesional interferon Low-dose cyclophosphamide Chlorambucil Medium-dose UVA-1 therapy Excimer laser therapy Dapsone</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

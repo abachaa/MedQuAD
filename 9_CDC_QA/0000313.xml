@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000313" source="CDC" url="http://www.cdc.gov/vhf/omsk/index.html">
+<Focus>Omsk Hemorrhagic Fever (OHF)</Focus>
+<UMLS>
+<CUI></CUI>
+<SemanticType></SemanticType>
+<SemanticGroup></SemanticGroup>
+</UMLS>
+<QAPairs>
+<QAPair pid="1">
+<Question qid="0000313-1" qtype="susceptibility">Who is at risk for Omsk Hemorrhagic Fever (OHF)? ?</Question>
+<Answer>Humans can become infected through tick bites or through contact with the blood, feces, or urine of an infected, sick, or dead animal – most commonly, rodents. Occupational and recreational activities such as hunting or trapping may increase human risk of infection. 
+ 
+Transmission may also occur with no direct tick or rodent exposure as OHFV appears to be extremely stable in different environments. It has been isolated from aquatic animals and water and there is even evidence that OHFV can be transmitted through the milk of infected goats or sheep to humans. 
+ 
+No human-to-human transmission of OHFV has been documented but infections due to lab contamination have been described.</Answer>
+</QAPair>
+<QAPair pid="2">
+<Question qid="0000313-2" qtype="symptoms">What are the symptoms of Omsk Hemorrhagic Fever (OHF) ?</Question>
+<Answer>After an incubation period of 3-8 days, the symptoms of OHF begin suddenly with chills, fever, headache, and severe muscle pain with vomiting, gastrointestinal symptoms and bleeding problems occurring 3-4 days after initial symptom onset. Patients may experience abnormally low blood pressure and low platelet, red blood cell, and white blood cell counts.  
+                
+After 1-2 weeks of symptoms, some patients recover without complication. However, the illness is biphasic for a subset of patients who experience a second wave of symptoms at the beginning of the third week. These symptoms include fever and encephalitis (inflammation of the brain). 
+                
+The case fatality rate of OHF is low (0.5% to 3%).</Answer>
+</QAPair>
+<QAPair pid="3">
+<Question qid="0000313-3" qtype="susceptibility">Who is at risk for Omsk Hemorrhagic Fever (OHF)? ?</Question>
+<Answer>In areas where rodent reservoirs and tick species are prevalent, people with recreational or occupational exposure to rural or outdoor settings (e.g., hunters, campers, forest workers, farmers) are potentially at increased risk for OHF by contact with infected ticks and animals. Furthermore, those in Siberia who hunt and trap muskrats specifically are at higher risk for OHF. 
+                
+Exposure may also occur in the laboratory environment.</Answer>
+</QAPair>
+<QAPair pid="4">
+<Question qid="0000313-4" qtype="exams and tests">How to diagnose Omsk Hemorrhagic Fever (OHF) ?</Question>
+<Answer>OHF virus may be detected in blood samples by virus isolation in cell culture or using molecular techniques such as PCR. Blood samples can also be tested for antibody presence using enzyme-linked immunosorbent seologic assay (ELISA).</Answer>
+</QAPair>
+<QAPair pid="5">
+<Question qid="0000313-5" qtype="treatment">What are the treatments for Omsk Hemorrhagic Fever (OHF) ?</Question>
+<Answer>There is no specific treatment for OHF, but supportive therapy is important. Supportive therapy includes the maintenance of hydration and the usual precautions for patients with bleeding disorders. 
+                
+Though rare, OHF can cause hearing loss, hair loss, and behavioral or psychological difficulties associated with neurological conditions and long term supportive case may be needed.</Answer>
+</QAPair>
+<QAPair pid="6">
+<Question qid="0000313-6" qtype="prevention">How to prevent Omsk Hemorrhagic Fever (OHF) ?</Question>
+<Answer>There is no vaccine currently available for OHF, but vaccines for tick-borne encephalitis disease (TBE) have been shown to confer some immunity and may be used for high-risk groups. 
+                
+Additionally, utilizing insect repellents and wearing protective clothing in areas where ticks are endemic is recommended.</Answer>
+</QAPair>
+</QAPairs>
+</Document>

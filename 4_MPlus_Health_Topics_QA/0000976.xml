@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000976" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/womenshealthcheckup.html">
+<Focus>Women's Health Checkup</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0260860</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000976-1" qtype="information">What is (are) Women's Health Checkup ?</Question>
+			<Answer>Regular health exams and tests can help find problems before they start. They also can help find problems early, when your chances for treatment are better. As a woman, you need some special exams and screenings. During your checkup, your health care provider will usually do:       - A pelvic exam - an exam to check if internal female organs are normal by feeling their shape and size.    - A Pap test - a test to check for cancer of the cervix, the opening to a woman&apos;s uterus. Cells from the cervix are examined under a microscope.    - A clinical breast exam - to check for breast cancer by feeling and looking at your breasts.       Your health care provider may also recommend other tests, including a mammogram or a test for HPV.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

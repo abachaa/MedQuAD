@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002121" source="GARD" url="https://rarediseases.info.nih.gov/gard/6359/epidermolysis-bullosa">
+<Focus>Epidermolysis bullosa</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014527</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>EB</Synonym>
+		<Synonym>Dominant dystrophic epidermolysis bullosa</Synonym>
+		<Synonym>Dystrophic epidermolysis bullosa</Synonym>
+		<Synonym>Epidermolysis bullosa acquisita</Synonym>
+		<Synonym>Epidermolysis bullosa simplex</Synonym>
+		<Synonym>Epidermolysis bullosa simplex with mottled pigmentation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002121-1" qtype="information">What is (are) Epidermolysis bullosa ?</Question>
+			<Answer>Epidermolysis bullosa (EB) is a group of genetic skin diseases that cause the skin to blister very easily. Blisters form in response to minor injuries or friction, such as rubbing or scratching. There are four main types of epidermolysis bullosa: Dystrophic epidermolysis bullosa Epidermolysis bullosa simplex Junctional epidermolysis bullosa Kindler Syndrome Identifying the exact type can be hard because there are many subtypes of EB. Within each type or subtype, a person may be mildly or severely affected. The disease can range from being a minor inconvenience to completely disabling, and fatal in some cases. Most types of EB are inherited. The inheritance pattern may be autosomal dominant or autosomal recessive. Management involves protecting the skin, reducing friction against the skin, and keeping the skin cool.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002121-2" qtype="inheritance">Is Epidermolysis bullosa inherited ?</Question>
+			<Answer>How is epidermolysis bullosa inherited? Inherited epidermolysis bullosa (EB) may follow either an autosomal dominant or autosomal recessive inheritance pattern, depending on the type and subtype of inherited EB in the affected person. Epidermolysis bullosa simplex (the most common type of EB) is mainly autosomal dominant, except for a few rare autosomal recessive subtypes. Dystrophic epidermolysis bullosa (DEB) can be inherited in an autosomal dominant or autosomal recessive manner, depending on the subtype present. However, dominant DEB is the second most common major type of EB. Junctional epidermolysis bullosa is autosomal recessive, although one article stated that an autosomal dominant form has recently been reported. Kindler syndrome is only inherited in an autosomal recessive manner. A condition is autosomal dominant if having only one changed (mutated) copy of the responsible gene in each cell is enough to cause symptoms of the condition. When a person with an autosomal dominant condition has children, each child has a 50% (1 in 2) risk to inherit the mutated copy of the gene from the affected parent. Many people with an autosomal dominant form of EB have an affected parent, but in some cases a mutation in the responsible gene occurs for the first time in a person with no family history of EB (called a de novo mutation). A person with a de novo mutation still has a 50% chance to pass the mutation on to each of his/her children. In autosomal recessive inheritance, a person must have a mutation in both copies of the responsible gene in each cell to be affected. Typically, an affected person inherits one changed (mutated) copy of the responsible gene from each parent, who are referred to as carriers. Carriers usually do not have symptoms of the condition. When two carriers of an autosomal recessive condition have children, each child has a 25% (1 in 4) risk to be affected, a 50% (1 in 2) risk to be an unaffected carrier like each parent, and a 25% risk to not be a carrier and not be affected. Epidermolysis bullosa acquisita (acquired EB) is a rare autoimmune disorder and is not inherited.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002121-3" qtype="treatment">What are the treatments for Epidermolysis bullosa ?</Question>
+			<Answer>How might infections in individuals with epidermolysis bullosa be treated? The chance of contracting a skin infection can be reduced by good nutrition, which builds the bodys defenses and promotes healing, and by careful skin care with clean hands and use of sterile materials. For added protection, a doctor may recommend antibiotic ointments and soaks. However, even in the presence of good care, it is possible for infection to develop. Signs of infection are redness and heat around an open area of skin, pus or a yellow drainage, excessive crusting on the wound surface, a red line or streak under the skin that spreads away from the blistered area, a wound that does not heal, and/or fever or chills. A doctor may prescribe a specific soaking solution, an antibiotic ointment, or an oral antibiotic to reduce the growth of bacteria. Wounds that are not healing may be treated by a special wound covering or biologically developed skin. More details about treatment, wound care and infection control can be obtained from the eMedicine and DEBRA web sites.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

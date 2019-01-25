@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000816" source="GHR" url="https://ghr.nlm.nih.gov/condition/preeclampsia">
+<Focus>preeclampsia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032914</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>gestational proteinuric hypertension</Synonym>
+		<Synonym>pre-eclampsia</Synonym>
+		<Synonym>pregnancy-induced hypertension</Synonym>
+		<Synonym>toxemia of pregnancy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000816-1" qtype="information">What is (are) preeclampsia ?</Question>
+			<Answer>Preeclampsia is a complication of pregnancy in which affected women develop high blood pressure (hypertension) and can also have abnormally high levels of protein in their urine. This condition usually occurs in the last few months of pregnancy and often requires the early delivery of the infant.  Many women with mild preeclampsia do not feel ill, and the problem is first detected through blood pressure and urine testing in their doctor&apos;s office. Other early features of the disorder are swelling (edema) of the face or hands and a weight gain of more than 2 pounds within a few days. More severely affected women may experience headaches, dizziness, irritability, shortness of breath, a decrease in urination, upper abdominal pain, nausea, or vomiting. Vision changes may develop, including flashing lights or spots, increased sensitivity to light (photophobia), blurry vision, or temporary blindness.  In most cases, preeclampsia is mild and goes away within a few weeks after the baby is born. In severe cases, however, preeclampsia can impact the mother&apos;s organs such as the heart, liver, and kidneys and can lead to life-threatening complications. Extreme hypertension in the mother can cause bleeding in the brain (hemorrhagic stroke). The effects of high blood pressure on the brain (hypertensive encephalopathy) may also result in seizures. If seizures occur, the condition is considered to have progressed to eclampsia, which can result in coma. Without treatment to help prevent seizures, about 1 in 200 women with preeclampsia develop eclampsia.  Between 10 and 20 percent of women with severe preeclampsia develop another potentially life-threatening complication called HELLP syndrome. HELLP stands for hemolysis (premature red blood cell breakdown), elevated liver enzyme levels, and low platelets (cell fragments involved in blood clotting), which are the key features of this condition.  Severe preeclampsia can also affect the fetus, with impairment of blood and oxygen flow leading to growth problems or stillbirth. Infants delivered early due to preeclampsia may have complications associated with prematurity, such as breathing problems caused by underdeveloped lungs.  Women who have had preeclampsia have approximately twice the lifetime risk of heart disease and stroke than do women in the general population. Researchers suggest this may be due to common factors that increase the risk of preeclampsia, heart disease, and stroke.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000816-2" qtype="frequency">How many people are affected by preeclampsia ?</Question>
+			<Answer>Preeclampsia is a common condition in all populations, occurring in 2 to 8 percent of pregnancies. It occurs more frequently in women of African or Hispanic descent than it does in women of European descent.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000816-3" qtype="genetic changes">What are the genetic changes related to preeclampsia ?</Question>
+			<Answer>The specific causes of preeclampsia are not well understood. In pregnancy, blood volume normally increases to support the fetus, and the mother&apos;s body must adjust to handle this extra fluid. In some women the body does not react normally to the fluid changes of pregnancy, leading to the problems with high blood pressure and urine production in the kidneys that occur in preeclampsia.  The reasons for these abnormal reactions to the changes of pregnancy vary in different women and may differ depending on the stage of the pregnancy at which the condition develops. Studies suggest that preeclampsia is related to a problem with the placenta, the link between the mother&apos;s blood supply and the fetus. If there is an insufficient connection between the placenta and the arteries of the uterus, the placenta does not get enough blood. It responds by releasing a variety of substances, including molecules that affect the lining of blood vessels (the vascular endothelium). By mechanisms that are unclear, the reaction of the vascular endothelium appears to increase factors that cause the blood vessels to narrow (constrict), and decrease factors that would cause them to widen (dilate). As a result, the blood vessels constrict abnormally, causing hypertension. These blood vessel abnormalities also affect the kidneys, causing some proteins that are normally absorbed into the blood to be released in the urine instead.  Researchers are studying whether variations in genes involved in fluid balance, the functioning of the vascular endothelium, or placental development affect the risk of developing preeclampsia. Many other factors likely also contribute to the risk of developing this complex disorder. These risk factors include a first pregnancy; a pregnancy with twins or higher multiples; obesity; being older than 35 or younger than 20; a history of diabetes, hypertension, or kidney disease; and preeclampsia in a previous pregnancy. Socioeconomic status and ethnicity have also been associated with preeclampsia risk. The incidence of preeclampsia in the United States has increased by 30 percent in recent years, which has been attributed in part to an increase in older mothers and multiple births resulting from the use of assisted reproductive technologies.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000816-4" qtype="inheritance">Is preeclampsia inherited ?</Question>
+			<Answer>Most cases of preeclampsia do not seem to be inherited. The tendency to develop preeclampsia does seem to run in some families; however, the inheritance pattern is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000816-5" qtype="treatment">What are the treatments for preeclampsia ?</Question>
+			<Answer>These resources address the diagnosis or management of preeclampsia:  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: How Do Health Care Providers Diagnose Preeclampsia, Eclampsia, and HELLP syndrome?  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: What Are the Treatments for Preeclampsia, Eclampsia, and HELLP Syndrome?  - Genetic Testing Registry: Preeclampsia/eclampsia 1  - Genetic Testing Registry: Preeclampsia/eclampsia 2  - Genetic Testing Registry: Preeclampsia/eclampsia 3  - Genetic Testing Registry: Preeclampsia/eclampsia 4  - Genetic Testing Registry: Preeclampsia/eclampsia 5  - MedlinePlus Encyclopedia: Preeclampsia Self-care   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

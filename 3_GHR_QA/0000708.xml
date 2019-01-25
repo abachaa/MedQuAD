@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000708" source="GHR" url="https://ghr.nlm.nih.gov/condition/myostatin-related-muscle-hypertrophy">
+<Focus>myostatin-related muscle hypertrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2931112</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Muscle hypertrophy syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000708-1" qtype="information">What is (are) myostatin-related muscle hypertrophy ?</Question>
+			<Answer>Myostatin-related muscle hypertrophy is a rare condition characterized by reduced body fat and increased muscle size. Affected individuals have up to twice the usual amount of muscle mass in their bodies. They also tend to have increased muscle strength. Myostatin-related muscle hypertrophy is not known to cause any medical problems, and affected individuals are intellectually normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000708-2" qtype="frequency">How many people are affected by myostatin-related muscle hypertrophy ?</Question>
+			<Answer>The prevalence of this condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000708-3" qtype="genetic changes">What are the genetic changes related to myostatin-related muscle hypertrophy ?</Question>
+			<Answer>Mutations in the MSTN gene cause myostatin-related muscle hypertrophy. The MSTN gene provides instructions for making a protein called myostatin, which is active in muscles used for movement (skeletal muscles) both before and after birth. This protein normally restrains muscle growth, ensuring that muscles do not grow too large. Mutations that reduce the production of functional myostatin lead to an overgrowth of muscle tissue.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000708-4" qtype="inheritance">Is myostatin-related muscle hypertrophy inherited ?</Question>
+			<Answer>Myostatin-related muscle hypertrophy has a pattern of inheritance known as incomplete autosomal dominance. People with a mutation in both copies of the MSTN gene in each cell (homozygotes) have significantly increased muscle mass and strength. People with a mutation in one copy of the MSTN gene in each cell (heterozygotes) also have increased muscle bulk, but to a lesser degree.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000708-5" qtype="treatment">What are the treatments for myostatin-related muscle hypertrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of myostatin-related muscle hypertrophy:  - Gene Review: Gene Review: Myostatin-Related Muscle Hypertrophy  - Genetic Testing Registry: Myostatin-related muscle hypertrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

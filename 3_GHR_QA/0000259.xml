@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000259" source="GHR" url="https://ghr.nlm.nih.gov/condition/cutis-laxa">
+<Focus>cutis laxa</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010495</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dermatolysis</Synonym>
+		<Synonym>dermatomegaly</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000259-1" qtype="information">What is (are) cutis laxa ?</Question>
+			<Answer>Cutis laxa is a disorder of connective tissue, which is the tissue that forms the body&apos;s supportive framework. Connective tissue provides structure and strength to the muscles, joints, organs, and skin.  The term &quot;cutis laxa&quot; is Latin for loose or lax skin, and this condition is characterized by skin that is sagging and not stretchy (inelastic). The skin often hangs in loose folds, causing the face and other parts of the body to have a droopy appearance. Extremely wrinkled skin may be particularly noticeable on the neck and in the armpits and groin.  Cutis laxa can also affect connective tissue in other parts of the body, including the heart, blood vessels, joints, intestines, and lungs. The disorder can cause heart problems and abnormal narrowing, bulging, or tearing of critical arteries. Affected individuals may have soft out-pouchings in the lower abdomen (inguinal hernia) or around the belly button (umbilical hernia). Pouches called diverticula can also develop in the walls of certain organs, such as the bladder and intestines. During childhood, some people with cutis laxa develop a lung disease called emphysema, which can make it difficult to breathe. Depending on which organs and tissues are affected, the signs and symptoms of cutis laxa can range from mild to life-threatening.  Researchers have described several different forms of cutis laxa. The forms are often distinguished by their pattern of inheritance: autosomal dominant, autosomal recessive, or X-linked. In general, the autosomal recessive forms of cutis laxa tend to be more severe than the autosomal dominant form. In addition to the features described above, some people with autosomal recessive cutis laxa have delayed development, intellectual disability, seizures, and problems with movement that can worsen over time.  The X-linked form of cutis laxa is often called occipital horn syndrome. This form of the disorder is considered a mild type of Menkes syndrome, which is a condition that affects copper levels in the body. In addition to sagging and inelastic skin, occipital horn syndrome is characterized by wedge-shaped calcium deposits in a bone at the base of the skull (the occipital bone), coarse hair, and loose joints.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000259-2" qtype="frequency">How many people are affected by cutis laxa ?</Question>
+			<Answer>Cutis laxa is a rare disorder. About 200 affected families worldwide have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000259-3" qtype="genetic changes">What are the genetic changes related to cutis laxa ?</Question>
+			<Answer>Cutis laxa can be caused by mutations in the ATP6V0A2, ATP7A, EFEMP2, ELN, or FBLN5 gene. Most of these genes are involved in the formation and function of elastic fibers, which are slender bundles of proteins that provide strength and flexibility to connective tissue throughout the body. Elastic fibers allow the skin to stretch, the lungs to expand and contract, and arteries to handle blood flowing through them at high pressure.  The major component of elastic fibers, a protein called elastin, is produced from the ELN gene. Other proteins that appear to have critical roles in the assembly of elastic fibers are produced from the EFEMP2, FBLN5, and ATP6V0A2 genes. Mutations in any of these genes disrupt the formation, assembly, or function of elastic fibers. A shortage of these fibers weakens connective tissue in the skin, arteries, lungs, and other organs. These defects in connective tissue underlie the major features of cutis laxa.  Occipital horn syndrome is caused by mutations in the ATP7A gene. This gene provides instructions for making a protein that is important for regulating copper levels in the body. Mutations in the ATP7A gene result in poor distribution of copper to the body&apos;s cells. A reduced supply of copper can decrease the activity of numerous copper-containing enzymes that are necessary for the structure and function of bone, skin, hair, blood vessels, and the nervous system. The signs and symptoms of occipital horn syndrome are caused by the reduced activity of these copper-containing enzymes.  Mutations in the genes described above account for only a small percentage of all cases of cutis laxa. Researchers suspect that mutations in other genes, which have not been identified, can also be responsible for the condition.  Rare cases of cutis laxa are acquired, which means they are probably not caused by inherited gene mutations. Acquired cutis laxa appears later in life and is related to the destruction of normal elastic fibers. The causes of acquired cutis laxa are unclear, although it may occur as a side effect of treatment with medications that remove copper from the body (copper chelating drugs).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000259-4" qtype="inheritance">Is cutis laxa inherited ?</Question>
+			<Answer>Cutis laxa can have an autosomal dominant, autosomal recessive, or X-linked recessive pattern of inheritance.  When cutis laxa is caused by ELN mutations, it has an autosomal dominant inheritance pattern. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. Rarely, cases of cutis laxa resulting from FBLN5 mutations can also have an autosomal dominant pattern of inheritance.  Researchers have described at least two forms of autosomal recessive cutis laxa. Type I results from mutations in the EFEMP2 or FBLN5 gene, while type II is caused by mutations in the ATP6V02 gene. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Occipital horn syndrome has an X-linked recessive pattern of inheritance. It results from mutations in the ATP7A gene, which is located on the X chromosome. The X chromosome is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000259-5" qtype="treatment">What are the treatments for cutis laxa ?</Question>
+			<Answer>These resources address the diagnosis or management of cutis laxa:  - Gene Review: Gene Review: ATP6V0A2-Related Cutis Laxa  - Gene Review: Gene Review: ATP7A-Related Copper Transport Disorders  - Gene Review: Gene Review: EFEMP2-Related Cutis Laxa  - Gene Review: Gene Review: FBLN5-Related Cutis Laxa  - Genetic Testing Registry: Autosomal recessive cutis laxa type IA  - Genetic Testing Registry: Cutis laxa with osteodystrophy  - Genetic Testing Registry: Cutis laxa, X-linked  - Genetic Testing Registry: Cutis laxa, autosomal dominant  - MedlinePlus Encyclopedia: Colon Diverticula (image)  - MedlinePlus Encyclopedia: Emphysema (image)  - MedlinePlus Encyclopedia: Hernia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

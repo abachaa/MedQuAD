@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000927" source="GARD" url="https://rarediseases.info.nih.gov/gard/11915/cap-myopathy">
+<Focus>Cap myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3710589</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cap disease</Synonym>
+		<Synonym>Congenital myopathy with caps</Synonym>
+		<Synonym>Congenital fiber type disproportion</Synonym>
+		<Synonym>Myopathy congenital</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000927-1" qtype="information">What is (are) Cap myopathy ?</Question>
+			<Answer>Cap myopathy is a disorder that primarily affects skeletal muscles, the muscles that the body uses for movement. People with cap myopathy have muscle weakness (myopathy) and poor muscle tone (hypotonia) throughout the body, but they are most severely affected in the muscles of the face, neck, and limbs. The muscle weakness, which begins at birth or during childhood, can worsen over time. The name cap myopathy comes from characteristic abnormal cap-like structures that can be seen in muscle cells when muscle tissue is viewed under a microscope. The severity of cap myopathy is related to the percentage of muscle cells that have these caps. Individuals in whom 70 to 75 percent of muscle cells have caps typically have severe breathing problems and may not survive childhood, while those in whom 10 to 30 percent of muscle cells have caps have milder symptoms and can live into adulthood. Cap myopathy can be caused by mutations in the in the ACTA1, TPM2, or TPM3 genes. This condition follows an autosomal dominant manner of inheritance, however, most cases are not inherited; they result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

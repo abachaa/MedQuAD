@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005051" source="GARD" url="https://rarediseases.info.nih.gov/gard/8612/primary-hyperparathyroidism">
+<Focus>Primary hyperparathyroidism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221002</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hyperparathyroidism, primary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005051-1" qtype="information">What is (are) Primary hyperparathyroidism ?</Question>
+			<Answer>Hyperparathyroidism is an endocrine disorder in which the parathyroid glands in the neck produce too much parathyroid hormone (PTH). Signs and symptoms are often mild and nonspecific, such as a feeling of weakness and fatigue, depression, or aches and pains. With more severe disease, a person may have a loss of appetite, nausea, vomiting, constipation, confusion or impaired thinking and memory, and increased thirst and urination. Patients may have thinning of the bones without symptoms, but with risk of fractures. There are two main types of hyperparathyroidism: primary hyperparathyroidism and secondary hyperparathyroidism. Surgery to remove the parathyroid gland(s) is the main treatment for the disorder. Some patients with mild disease do not require treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

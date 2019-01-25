@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000606" source="GHR" url="https://ghr.nlm.nih.gov/condition/lowe-syndrome">
+<Focus>Lowe syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0028860</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cerebrooculorenal syndrome</Synonym>
+		<Synonym>Lowe oculocerebrorenal syndrome</Synonym>
+		<Synonym>oculocerebrorenal syndrome</Synonym>
+		<Synonym>oculocerebrorenal syndrome of Lowe</Synonym>
+		<Synonym>phosphatidylinositol-4,5-bisphosphate-5-phosphatase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000606-1" qtype="information">What is (are) Lowe syndrome ?</Question>
+			<Answer>Lowe syndrome is a condition that primarily affects the eyes, brain, and kidneys. This disorder occurs almost exclusively in males.  Infants with Lowe syndrome are born with thick clouding of the lenses in both eyes (congenital cataracts), often with other eye abnormalities that can impair vision. About half of affected infants develop an eye disease called infantile glaucoma, which is characterized by increased pressure within the eyes.  Many individuals with Lowe syndrome have delayed development, and intellectual ability ranges from normal to severely impaired. Behavioral problems and seizures have also been reported in children with this condition. Most affected children have weak muscle tone from birth (neonatal hypotonia), which can contribute to feeding difficulties, problems with breathing, and delayed development of motor skills such as sitting, standing, and walking.  Kidney (renal) abnormalities, most commonly a condition known as renal Fanconi syndrome, frequently develop in individuals with Lowe syndrome. The kidneys play an essential role in maintaining the right amounts of minerals, salts, water, and other substances in the body. In individuals with renal Fanconi syndrome, the kidneys are unable to reabsorb important nutrients into the bloodstream. Instead, the nutrients are excreted in the urine. These kidney problems lead to increased urination, dehydration, and abnormally acidic blood (metabolic acidosis). A loss of salts and nutrients may also impair growth and result in soft, bowed bones (hypophosphatemic rickets), especially in the legs. Progressive kidney problems in older children and adults with Lowe syndrome can lead to life-threatening renal failure and end-stage renal disease (ESRD).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000606-2" qtype="frequency">How many people are affected by Lowe syndrome ?</Question>
+			<Answer>Lowe syndrome is an uncommon condition. It has an estimated prevalence of 1 in 500,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000606-3" qtype="genetic changes">What are the genetic changes related to Lowe syndrome ?</Question>
+			<Answer>Mutations in the OCRL gene cause Lowe syndrome. The OCRL gene provides instructions for making an enzyme that helps modify fat (lipid) molecules called membrane phospholipids. By controlling the levels of specific membrane phospholipids, the OCRL enzyme helps regulate the transport of certain substances to and from the cell membrane. This enzyme is also involved in the regulation of the actin cytoskeleton, which is a network of fibers that make up the cell&apos;s structural framework. The actin cytoskeleton has several critical functions, including determining cell shape and allowing cells to move.  Some mutations in the OCRL gene prevent the production of any OCRL enzyme. Other mutations reduce or eliminate the activity of the enzyme or prevent it from interacting with other proteins within the cell. Researchers are working to determine how OCRL mutations cause the characteristic features of Lowe syndrome. Because the OCRL enzyme is present throughout the body, it is unclear why the medical problems associated with this condition are mostly limited to the brain, kidneys, and eyes. It is possible that other enzymes may be able to compensate for the defective OCRL enzyme in unaffected tissues.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000606-4" qtype="inheritance">Is Lowe syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Most X-linked disorders affect males much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In some cases of Lowe syndrome, an affected male inherits the mutation from a mother who carries one altered copy of the OCRL gene. Other cases result from new mutations in the gene and occur in males with no history of the disorder in their family.  Females who carry one mutated copy of the OCRL gene do not have the characteristic features of Lowe syndrome. Most female carriers, however, have changes in the lens of the eye that can be observed with a thorough eye examination. These changes typically do not impair vision.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000606-5" qtype="treatment">What are the treatments for Lowe syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Lowe syndrome:  - Gene Review: Gene Review: Lowe Syndrome  - Genetic Testing Registry: Lowe syndrome  - MedlinePlus Encyclopedia: Congenital Cataract  - MedlinePlus Encyclopedia: Fanconi Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

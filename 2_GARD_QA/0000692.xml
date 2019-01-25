@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000692" source="GARD" url="https://rarediseases.info.nih.gov/gard/10287/benign-rolandic-epilepsy-bre">
+<Focus>Benign rolandic epilepsy (BRE)</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2363129</CUI>
+			<CUI>C0376532</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Benign rolandic epilepsy of childhood (BREC)</Synonym>
+		<Synonym>Benign epilepsy with centro-temporal spikes (BECTS)</Synonym>
+		<Synonym>Benign epilepsy of childhood with centrotemporal spikes (BECCT)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000692-1" qtype="information">What is (are) Benign rolandic epilepsy (BRE) ?</Question>
+			<Answer>Benign rolandic epilepsy is the most common form of childhood epilepsy.  It is referred to as &quot;benign&quot; because most children outgrow the condition by puberty, usually by 14 years of age.  This form of epilepsy is characterized by seizures involving the part of the frontal lobe of the brain called the rolandic area. The seizures associated with this condition typically occur during the nighttime.  Treatment is usually not prescribed, since the condition tends to disappear by puberty.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000692-2" qtype="symptoms">What are the symptoms of Benign rolandic epilepsy (BRE) ?</Question>
+			<Answer>What are the signs and symptoms of Benign rolandic epilepsy (BRE)? Patients with this syndrome typically present between the ages of 3 and 13 years with nighttime seizures. The episodes usually begin with twitching and stiffness of the face, and often wake up the child.  The clonic activity causes a tingling feeling on one side of the mouth involving the tongue, lips, gum and inner side of the cheek.  The seizure may also involve the throat which may make speech unclear and difficult to understand.   Occasionally, both sides of the body may be affected, which can lead to loss of consciousness causing stiffness and jerking movements of the arms and legs.  The child may also be incontinent.  After an episode, a child may be sleepy and doze for a few hours. The Human Phenotype Ontology provides the following list of signs and symptoms for Benign rolandic epilepsy (BRE). If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Bilateral convulsive seizures - EEG with centrotemporal focal spike waves - Sporadic - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000692-3" qtype="causes">What causes Benign rolandic epilepsy (BRE) ?</Question>
+			<Answer>What causes benign rolandic epilepsy? Benign rolandic epilepsy is a genetic syndrome with an autosomal dominant mode of inheritance.  Although the gene associated with the condition has not been identified, Neubauer et al. (1998) found evidence of linkage to chromosome 15q. Juvenile myoclonic epilepsy has been mapped to the same region.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000692-4" qtype="treatment">What are the treatments for Benign rolandic epilepsy (BRE) ?</Question>
+			<Answer>What treatment is available for benign rolandic epilepsy? Although treatment is usually not necessary since the episodes are infrequent and are typically outgrown by puberty, anticonvulsants such as carbamazepine.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

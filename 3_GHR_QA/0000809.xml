@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000809" source="GHR" url="https://ghr.nlm.nih.gov/condition/pontocerebellar-hypoplasia">
+<Focus>pontocerebellar hypoplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1261175</CUI>
+			<CUI>C0266468</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital pontocerebellar hypoplasia</Synonym>
+		<Synonym>OPCH</Synonym>
+		<Synonym>PCH</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000809-1" qtype="information">What is (are) pontocerebellar hypoplasia ?</Question>
+			<Answer>Pontocerebellar hypoplasia is a group of related conditions that affect the development of the brain. The term &quot;pontocerebellar&quot; refers to the pons and the cerebellum, which are the brain structures that are most severely affected in many forms of this disorder. The pons is located at the base of the brain in an area called the brainstem, where it transmits signals between the cerebellum and the rest of the brain. The cerebellum, which is located at the back of the brain, normally coordinates movement. The term &quot;hypoplasia&quot; refers to the underdevelopment of these brain regions.  Pontocerebellar hypoplasia also causes impaired growth of other parts of the brain, leading to an unusually small head size (microcephaly). This microcephaly is usually not apparent at birth but becomes noticeable as brain growth continues to be slow in infancy and early childhood.  Researchers have described at least ten types of pontocerebellar hypoplasia. All forms of this condition are characterized by impaired brain development, delayed development overall, problems with movement, and intellectual disability. The brain abnormalities are usually present at birth, and in some cases they can be detected before birth. Many children with pontocerebellar hypoplasia live only into infancy or childhood, although some affected individuals have lived into adulthood.  The two major forms of pontocerebellar hypoplasia are designated as type 1 (PCH1) and type 2 (PCH2). In addition to the brain abnormalities described above, PCH1 causes problems with muscle movement resulting from a loss of specialized nerve cells called motor neurons in the spinal cord, similar to another genetic disorder known as spinal muscular atrophy. Individuals with PCH1 also have very weak muscle tone (hypotonia), joint deformities called contractures, vision impairment, and breathing and feeding problems that are evident from early infancy.  Common features of PCH2 include a lack of voluntary motor skills (such as grasping objects, sitting, or walking), problems with swallowing (dysphagia), and an absence of communication, including speech. Affected children typically develop temporary jitteriness (generalized clonus) in early infancy, abnormal patterns of movement described as chorea or dystonia, and stiffness (spasticity). Many also have impaired vision and seizures.  The other forms of pontocerebellar hypoplasia, designated as type 3 (PCH3) through type 10 (PCH10), appear to be rare and have each been reported in only a small number of individuals. Because the different types have overlapping features, and some are caused by mutations in the same genes, researchers have proposed that the types be considered as a spectrum instead of distinct conditions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000809-2" qtype="frequency">How many people are affected by pontocerebellar hypoplasia ?</Question>
+			<Answer>The prevalence of pontocerebellar hypoplasia is unknown, although most forms of the disorder appear to be very rare.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000809-3" qtype="genetic changes">What are the genetic changes related to pontocerebellar hypoplasia ?</Question>
+			<Answer>Pontocerebellar hypoplasia can result from mutations in several genes. About half of all cases of PCH1 are caused by mutations in the EXOSC3 gene. PCH1 can also result from mutations in several other genes, including TSEN54, RARS2, and VRK1. PCH2 is caused by mutations in the TSEN54, TSEN2, TSEN34, or SEPSECS gene. In addition to causing PCH1 and PCH2, mutations in the TSEN54 gene can cause PCH4 and PCH5. Mutations in the RARS2 gene, in addition to causing PCH1, can result in PCH6. The remaining types of pontocerebellar hypoplasia are caused by mutations in other genes. In some cases, the genetic cause of pontocerebellar hypoplasia is unknown.  The genes associated with pontocerebellar hypoplasia appear to play essential roles in the development and survival of nerve cells (neurons). Many of these genes are known or suspected to be involved in processing RNA molecules, which are chemical cousins of DNA. Fully processed, mature RNA molecules are essential for the normal functioning of all cells, including neurons. Studies suggest that abnormal RNA processing likely underlies the abnormal brain development characteristic of pontocerebellar hypoplasia, although the exact mechanism is unknown. Researchers hypothesize that developing neurons in certain areas of the brain may be particularly sensitive to problems with RNA processing.  Some of the genes associated with pontocerebellar hypoplasia have functions unrelated to RNA processing. In most cases, it is unclear how mutations in these genes impair brain development.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000809-4" qtype="inheritance">Is pontocerebellar hypoplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000809-5" qtype="treatment">What are the treatments for pontocerebellar hypoplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of pontocerebellar hypoplasia:  - Gene Review: Gene Review: EXOSC3-Related Pontocerebellar Hypoplasia  - Gene Review: Gene Review: TSEN54-Related Pontocerebellar Hypoplasia  - Genetic Testing Registry: Pontoneocerebellar hypoplasia  - MedlinePlus Encyclopedia: Microcephaly   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

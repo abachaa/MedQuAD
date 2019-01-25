@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000002" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/abdominalpain.html">
+<Focus>Abdominal Pain</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000737</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bellyache</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000002-1" qtype="information">What is (are) Abdominal Pain ?</Question>
+			<Answer>Your abdomen extends from below your chest to your groin. Some people call it the stomach, but your abdomen contains many other important organs. Pain in the abdomen can come from any one of them. The pain may start somewhere else, such as your chest. Severe pain doesn&apos;t always mean a serious problem. Nor does mild pain mean a problem is not serious.     Call your healthcare provider if mild pain lasts a week or more or if you have pain with other symptoms. Get medical help immediately if       -  You have abdominal pain that is sudden and sharp    - You also have pain in your chest, neck or shoulder     -  You&apos;re vomiting blood or have blood in your stool     -  Your abdomen is stiff, hard and tender to touch     - You can&apos;t move your bowels, especially if you&apos;re also vomiting</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

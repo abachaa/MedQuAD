@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000950" source="GHR" url="https://ghr.nlm.nih.gov/condition/sporadic-hemiplegic-migraine">
+<Focus>sporadic hemiplegic migraine</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2367445</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>non-familial hemiplegic migraine</Synonym>
+		<Synonym>SHM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000950-1" qtype="information">What is (are) sporadic hemiplegic migraine ?</Question>
+			<Answer>Sporadic hemiplegic migraine is a rare form of migraine headache. Migraines typically cause intense, throbbing pain in one area of the head. Some people with migraines also experience nausea, vomiting, and sensitivity to light and sound. These recurrent headaches typically begin in childhood or adolescence and can be triggered by certain foods, emotional stress, and minor head trauma. Each headache may last from a few hours to a few days.  In sporadic hemiplegic migraine and some other types of migraine, a pattern of neurological symptoms called an aura occurs before onset of the headache. An aura commonly includes temporary visual changes such as blind spots (scotomas), flashing lights, zig-zagging lines, and double vision. In people with sporadic hemiplegic migraine, auras are also characterized by temporary numbness or weakness, often affecting one side of the body (hemiparesis). Additional features of an aura can include difficulty with speech, confusion, and drowsiness. An aura typically develops gradually over a few minutes and lasts about an hour.  Some people with sporadic hemiplegic migraine experience unusually severe migraine episodes. These episodes can include fever, prolonged weakness, seizures, and coma. Although most people with sporadic hemiplegic migraine recover completely between episodes, neurological symptoms such as memory loss and problems with attention can last for weeks or months. Some affected individuals develop mild but permanent difficulty coordinating movements (ataxia), which may worsen with time, and rapid, involuntary eye movements called nystagmus. Mild to severe intellectual disability has been reported in some people with sporadic hemiplegic migraine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000950-2" qtype="frequency">How many people are affected by sporadic hemiplegic migraine ?</Question>
+			<Answer>The worldwide prevalence of sporadic hemiplegic migraine is unknown. Studies suggest that in Denmark about 1 in 10,000 people have hemiplegic migraine and that the condition occurs equally in families with multiple affected individuals (familial hemiplegic migraine) and in individuals with no family history of the condition (sporadic hemiplegic migraine).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000950-3" qtype="genetic changes">What are the genetic changes related to sporadic hemiplegic migraine ?</Question>
+			<Answer>Mutations in the ATP1A2 and CACNA1A genes have been found to cause sporadic hemiplegic migraine. The proteins produced from these genes transport charged atoms (ions) across cell membranes. The movement of these ions is critical for normal signaling between nerve cells (neurons) in the brain and other parts of the nervous system. Signaling between neurons relies on chemicals called neurotransmitters, which are released from one neuron and taken up by neighboring neurons. Mutations in the ATP1A2 and CACNA1A genes disrupt the transport of ions in neurons, which is thought to impair the normal release and uptake of certain neurotransmitters in the brain. The resulting abnormal signaling may lead to the severe headaches and auras characteristic of sporadic hemiplegic migraine.  Many people with sporadic hemiplegic migraine do not have a mutation in one of the known genes. Researchers believe that mutations in other genes are also involved in the condition, although these genes have not been identified.  There is little evidence that mutations in the CACNA1A and ATP1A2 genes play a role in common migraines, which affect millions of people each year. Researchers are searching for additional genetic changes that may underlie rare types of migraine, such as sporadic hemiplegic migraine, as well as the more common forms of migraine.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000950-4" qtype="inheritance">Is sporadic hemiplegic migraine inherited ?</Question>
+			<Answer>Sporadic means that the condition occurs in individuals with no history of the disorder in their family. While most cases result from new (de novo) mutations that likely occur during early embryonic development, some affected individuals inherit the genetic change that causes the condition from an unaffected parent. (When some people with the mutation have no signs and symptoms of the disorder, the condition is said to have reduced penetrance.) Although family members of an affected individual do not have sporadic hemiplegic migraine, some experience migraine headaches without hemiparesis. A related condition, familial hemiplegic migraine, has signs and symptoms identical to those in sporadic hemiplegic migraine but occurs in multiple members of a family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000950-5" qtype="treatment">What are the treatments for sporadic hemiplegic migraine ?</Question>
+			<Answer>These resources address the diagnosis or management of sporadic hemiplegic migraine:  - Genetic Testing Registry: Migraine, sporadic hemiplegic  - Journal of the American Medical Association Patient Page: Migraine Headache   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

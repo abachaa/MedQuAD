@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002475" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003554.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Lyme disease blood test</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024198</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lyme disease serology</Synonym>
+		<Synonym>ELISA for Lyme disease</Synonym>
+		<Synonym>Western blot for Lyme disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002475-1" qtype="information">What is (are) Lyme disease blood test ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0002475-8" qtype="susceptibility">Who is at risk for Lyme disease blood test? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

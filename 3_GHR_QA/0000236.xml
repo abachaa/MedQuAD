@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000236" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-neuronal-ceroid-lipofuscinosis">
+<Focus>congenital neuronal ceroid lipofuscinosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027877</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cathepsin D deficiency</Synonym>
+		<Synonym>cathepsin D deficient neuronal ceroid lipofuscinosis cathepsin D</Synonym>
+		<Synonym>CLN10</Synonym>
+		<Synonym>neuronal ceroid lipofuscinosis 10</Synonym>
+		<Synonym>neuronal ceroid lipofuscinosis due to cathepsin D deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000236-1" qtype="information">What is (are) congenital neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Congenital neuronal ceroid lipofuscinosis (NCL) is an inherited disorder that primarily affects the nervous system. Soon after birth, affected infants develop muscle rigidity, respiratory failure, and prolonged episodes of seizure activity that last several minutes (status epilepticus). It is likely that some affected individuals have seizure activity before birth. Infants with congenital NCL have unusually small heads (microcephaly) with brains that may be less than half the normal size. There is a loss of brain cells in areas that coordinate movement and control thinking and emotions (the cerebellum and the cerebral cortex). Affected individuals also lack a fatty substance called myelin, which protects nerve cells and promotes efficient transmission of nerve impulses. Infants with congenital NCL often die hours to weeks after birth.  Congenital NCL is the most severe form of a group of NCLs (collectively called Batten disease) that affect the nervous system and typically cause progressive problems with vision, movement, and thinking ability. The different types of NCLs are distinguished by the age at which signs and symptoms first appear.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000236-2" qtype="frequency">How many people are affected by congenital neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Congenital NCL is the rarest type of NCL; approximately 10 cases have been described.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000236-3" qtype="genetic changes">What are the genetic changes related to congenital neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Mutations in the CTSD gene cause congenital NCL. The CTSD gene provides instructions for making an enzyme called cathepsin D. Cathepsin D is one of a family of cathepsin proteins that act as proteases, which modify proteins by cutting them apart. Cathepsin D is found in many types of cells and is active in lysosomes, which are compartments within cells that digest and recycle different types of molecules. By cutting proteins apart, cathepsin D can break proteins down, turn on (activate) proteins, and regulate self-destruction of the cell (apoptosis).  CTSD gene mutations that cause congenital NCL lead to a complete lack of cathepsin D enzyme activity. As a result, proteins and other materials are not broken down properly. In the lysosomes, these materials accumulate into fatty substances called lipopigments. These accumulations occur in cells throughout the body, but neurons are likely particularly vulnerable to damage caused by the abnormal cell materials and the loss of cathepsin D function. Early and widespread cell death in congenital NCL leads to severe signs and symptoms and death in infancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000236-4" qtype="inheritance">Is congenital neuronal ceroid lipofuscinosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000236-5" qtype="treatment">What are the treatments for congenital neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital neuronal ceroid lipofuscinosis:  - Genetic Testing Registry: Neuronal ceroid lipofuscinosis, congenital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

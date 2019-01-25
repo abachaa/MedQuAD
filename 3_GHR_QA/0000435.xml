@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000435" source="GHR" url="https://ghr.nlm.nih.gov/condition/granulomatosis-with-polyangiitis">
+<Focus>granulomatosis with polyangiitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043092</CUI>
+			<CUI>C3495801</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>GPA</Synonym>
+		<Synonym>Wegener granulomatosis</Synonym>
+		<Synonym>Wegener's granulomatosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000435-1" qtype="information">What is (are) granulomatosis with polyangiitis ?</Question>
+			<Answer>Granulomatosis with polyangiitis (GPA) is a condition that causes inflammation that primarily affects the respiratory tract (including the lungs and airways) and the kidneys. This disorder is also commonly known as Wegener granulomatosis. A characteristic feature of GPA is inflammation of blood vessels (vasculitis), particularly the small- and medium-sized blood vessels in the lungs, nose, sinuses, windpipe, and kidneys, although vessels in any organ can be involved. Polyangiitis refers to the inflammation of multiple types of vessels, such as small arteries and veins. Vasculitis causes scarring and tissue death in the vessels and impedes blood flow to tissues and organs.  Another characteristic feature of GPA is the formation of granulomas, which are small areas of inflammation composed of immune cells that aid in the inflammatory reaction. The granulomas usually occur in the lungs or airways of people with this condition, although they can occur in the eyes or other organs. As granulomas grow, they can invade surrounding areas, causing tissue damage.  The signs and symptoms of GPA vary based on the tissues and organs affected by vasculitis. Many people with this condition experience a vague feeling of discomfort (malaise), fever, weight loss, or other general symptoms of the body&apos;s immune reaction. In most people with GPA, inflammation begins in the vessels of the respiratory tract, leading to nasal congestion, frequent nosebleeds, shortness of breath, or coughing. Severe inflammation in the nose can lead to a hole in the tissue that separates the two nostrils (nasal septum perforation) or a collapse of the septum, causing a sunken bridge of the nose (saddle nose).  The kidneys are commonly affected in people with GPA. Tissue damage caused by vasculitis in the kidneys can lead to decreased kidney function, which may cause increased blood pressure or blood in the urine, and life-threatening kidney failure. Inflammation can also occur in other regions of the body, including the eyes, middle and inner ear structures, skin, joints, nerves, heart, and brain. Depending on which systems are involved, additional symptoms can include skin rashes, inner ear pain, swollen and painful joints, and numbness or tingling in the limbs.  GPA is most common in middle-aged adults, although it can occur at any age. If untreated, the condition is usually fatal within 2 years of diagnosis. Even after treatment, vasculitis can return.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000435-2" qtype="frequency">How many people are affected by granulomatosis with polyangiitis ?</Question>
+			<Answer>GPA is a rare disorder that affects an estimated 3 in 100,000 people in the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000435-3" qtype="genetic changes">What are the genetic changes related to granulomatosis with polyangiitis ?</Question>
+			<Answer>The genetic basis of GPA is not well understood. Having a particular version of the HLA-DPB1 gene is the strongest genetic risk factor for developing this condition, although several other genes, some of which have not been identified, may be involved. It is likely that a combination of genetic and environmental factors lead to GPA.  GPA is an autoimmune disorder. Such disorders occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. Approximately 90 percent of people with GPA have an abnormal immune protein called an anti-neutrophil cytoplasmic antibody (ANCA) in their blood. Antibodies normally bind to specific foreign particles and germs, marking them for destruction, but ANCAs attack normal human proteins. Most people with GPA have an ANCA that attacks the human protein proteinase 3 (PR3). A few affected individuals have an ANCA that attacks a protein called myeloperoxidase (MPO). When these antibodies attach to the protein they recognize, they trigger inflammation, which contributes to the signs and symptoms of GPA.  The HLA-DPB1 gene belongs to a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person&apos;s immune system to react to a wide range of foreign proteins. A particular variant of the HLA-DPB1 gene called HLA-DPB1*0401 has been found more frequently in people with GPA, especially those with ANCAs, than in people without the condition.  Because the HLA-DPB1 gene is involved in the immune system, changes in it might be related to the autoimmune response and inflammation in the respiratory tract and kidneys characteristic of GPA. However, it is unclear what specific role the HLA-DPB1*0401 gene variant plays in development of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000435-4" qtype="inheritance">Is granulomatosis with polyangiitis inherited ?</Question>
+			<Answer>The inheritance pattern of GPA is unknown. Most instances are sporadic and occur in individuals with no history of the disorder in their family. Only rarely is more than one member of the same family affected by the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000435-5" qtype="treatment">What are the treatments for granulomatosis with polyangiitis ?</Question>
+			<Answer>These resources address the diagnosis or management of granulomatosis with polyangiitis:  - Genetic Testing Registry: Wegener&apos;s granulomatosis  - Johns Hopkins Vasculitis Center: How is Wegener&apos;s Granulomatosis Diagnosed?  - MedlinePlus Encyclopedia: Wegener&apos;s Granulomatosis  - Merck Manual Home Health Edition   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

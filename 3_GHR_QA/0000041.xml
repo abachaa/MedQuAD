@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000041" source="GHR" url="https://ghr.nlm.nih.gov/condition/alpha-1-antitrypsin-deficiency">
+<Focus>alpha-1 antitrypsin deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221757</CUI>
+			<CUI>C3501835</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AAT</Synonym>
+		<Synonym>AATD</Synonym>
+		<Synonym>alpha-1 protease inhibitor deficiency</Synonym>
+		<Synonym>alpha-1 related emphysema</Synonym>
+		<Synonym>genetic emphysema</Synonym>
+		<Synonym>hereditary pulmonary emphysema</Synonym>
+		<Synonym>inherited emphysema</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000041-1" qtype="information">What is (are) alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Alpha-1 antitrypsin deficiency is an inherited disorder that may cause lung disease and liver disease. The signs and symptoms of the condition and the age at which they appear vary among individuals.  People with alpha-1 antitrypsin deficiency usually develop the first signs and symptoms of lung disease between ages 20 and 50. The earliest symptoms are shortness of breath following mild activity, reduced ability to exercise, and wheezing. Other signs and symptoms can include unintentional weight loss, recurring respiratory infections, fatigue, and rapid heartbeat upon standing. Affected individuals often develop emphysema, which is a lung disease caused by damage to the small air sacs in the lungs (alveoli). Characteristic features of emphysema include difficulty breathing, a hacking cough, and a barrel-shaped chest. Smoking or exposure to tobacco smoke accelerates the appearance of emphysema symptoms and damage to the lungs.  About 10 percent of infants with alpha-1 antitrypsin deficiency develop liver disease, which often causes yellowing of the skin and whites of the eyes (jaundice). Approximately 15 percent of adults with alpha-1 antitrypsin deficiency develop liver damage (cirrhosis) due to the formation of scar tissue in the liver. Signs of cirrhosis include a swollen abdomen, swollen feet or legs, and jaundice. Individuals with alpha-1 antitrypsin deficiency are also at risk of developing a type of liver cancer called hepatocellular carcinoma.  In rare cases, people with alpha-1 antitrypsin deficiency develop a skin condition called panniculitis, which is characterized by hardened skin with painful lumps or patches. Panniculitis varies in severity and can occur at any age.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000041-2" qtype="frequency">How many people are affected by alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Alpha-1 antitrypsin deficiency occurs worldwide, but its prevalence varies by population. This disorder affects about 1 in 1,500 to 3,500 individuals with European ancestry. It is uncommon in people of Asian descent. Many individuals with alpha-1 antitrypsin deficiency are likely undiagnosed, particularly people with a lung condition called chronic obstructive pulmonary disease (COPD). COPD can be caused by alpha-1 antitrypsin deficiency; however, the alpha-1 antitrypsin deficiency is often never diagnosed. Some people with alpha-1 antitrypsin deficiency are misdiagnosed with asthma.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000041-3" qtype="genetic changes">What are the genetic changes related to alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>Mutations in the SERPINA1 gene cause alpha-1 antitrypsin deficiency. This gene provides instructions for making a protein called alpha-1 antitrypsin, which protects the body from a powerful enzyme called neutrophil elastase. Neutrophil elastase is released from white blood cells to fight infection, but it can attack normal tissues (especially the lungs) if not tightly controlled by alpha-1 antitrypsin.  Mutations in the SERPINA1 gene can lead to a shortage (deficiency) of alpha-1 antitrypsin or an abnormal form of the protein that cannot control neutrophil elastase. Without enough functional alpha-1 antitrypsin, neutrophil elastase destroys alveoli and causes lung disease. Abnormal alpha-1 antitrypsin can also accumulate in the liver and damage this organ.  Environmental factors, such as exposure to tobacco smoke, chemicals, and dust, likely impact the severity of alpha-1 antitrypsin deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000041-4" qtype="inheritance">Is alpha-1 antitrypsin deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal codominant pattern. Codominance means that two different versions of the gene may be active (expressed), and both versions contribute to the genetic trait.  The most common version (allele) of the SERPINA1 gene, called M, produces normal levels of alpha-1 antitrypsin. Most people in the general population have two copies of the M allele (MM) in each cell. Other versions of the SERPINA1 gene lead to reduced levels of alpha-1 antitrypsin. For example, the S allele produces moderately low levels of this protein, and the Z allele produces very little alpha-1 antitrypsin. Individuals with two copies of the Z allele (ZZ) in each cell are likely to have alpha-1 antitrypsin deficiency. Those with the SZ combination have an increased risk of developing lung diseases (such as emphysema), particularly if they smoke.  Worldwide, it is estimated that 161 million people have one copy of the S or Z allele and one copy of the M allele in each cell (MS or MZ). Individuals with an MS (or SS) combination usually produce enough alpha-1 antitrypsin to protect the lungs. People with MZ alleles, however, have a slightly increased risk of impaired lung or liver function.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000041-5" qtype="treatment">What are the treatments for alpha-1 antitrypsin deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of alpha-1 antitrypsin deficiency:  - Alpha-1 Foundation: Testing for Alpha-1  - Cleveland Clinic Respiratory Institute  - Gene Review: Gene Review: Alpha-1 Antitrypsin Deficiency  - GeneFacts: Alpha-1 Antitrypsin Deficiency: Diagnosis  - GeneFacts: Alpha-1 Antitrypsin Deficiency: Management  - Genetic Testing Registry: Alpha-1-antitrypsin deficiency  - MedlinePlus Encyclopedia: Alpha-1 antitrypsin deficiency  - MedlinePlus Encyclopedia: Pulmonary function tests  - MedlinePlus Encyclopedia: Wheezing   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

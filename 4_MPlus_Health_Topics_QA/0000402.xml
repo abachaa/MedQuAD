@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000402" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/gerd.html">
+<Focus>GERD</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017168</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Gastroesophageal reflux disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000402-1" qtype="information">What is (are) GERD ?</Question>
+			<Answer>Your esophagus is the tube that carries food from your mouth to your stomach. Gastroesophageal reflux disease (GERD) happens when a muscle at the end of your esophagus does not close properly. This allows stomach contents to leak back, or reflux, into the esophagus and irritate it.     You may feel a burning in the chest or throat called heartburn. Sometimes, you can taste stomach fluid in the back of the mouth. If you have these symptoms more than twice a week, you may have GERD. You can also have GERD without having heartburn. Your symptoms could include a dry cough, asthma symptoms, or trouble swallowing.    Anyone, including infants and children, can have GERD. If not treated, it can lead to more serious health problems. In some cases, you might need medicines or surgery. However, many people can improve their symptoms by       - Avoiding alcohol and spicy, fatty or acidic foods that trigger heartburn    - Eating smaller meals    - Not eating close to bedtime     - Losing weight if needed     - Wearing loose-fitting clothes       NIH: National Institute of Diabetes and Digestive and Kidney Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

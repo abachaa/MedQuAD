@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001183" source="GARD" url="https://rarediseases.info.nih.gov/gard/1303/chordoma">
+<Focus>Chordoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0008487</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001183-1" qtype="information">What is (are) Chordoma ?</Question>
+			<Answer>A chordoma is a rare tumor that develops from cells of the notochord, a structure that is present in the developing embryo and is important for the development of the spine. The notochord usually disappears before birth, though a few cells may remain embedded in the bones of the spine or at the base of the skull.  Chordomas can occur anywhere along the spine. Approximately half of all chordomas occur at the base of the spine; approximately one third occur at the base of the skull. Chordomas grow slowly, extending gradually into the surrounding bone and soft tissue. The actual symptoms depend on the location of the chordoma. A chordoma at the base of the skull may lead to double vision and headaches. A chordoma that occurs at the base of the spine may cause problems with bladder and bowel function. Chordomas typically occur in adults between the ages of 40 and 70. In many cases, the cause of the chordoma remains unknown. Recent studies have shown that changes in the T gene have been associated with chordoma in a small set of families. In these families an inherited duplication of the T gene is associated with an increased risk of developing chordoma. People with this inherited duplication inherit an increased risk for the condition, not the condition itself.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001183-2" qtype="symptoms">What are the symptoms of Chordoma ?</Question>
+			<Answer>What are the signs and symptoms of Chordoma? The Human Phenotype Ontology provides the following list of signs and symptoms for Chordoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the head - Abnormality of the vertebral column - Autosomal dominant inheritance - Chordoma - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001183-3" qtype="treatment">What are the treatments for Chordoma ?</Question>
+			<Answer>How might a chordoma be treated? Unfortunately, because chordomas are quite rare, the best treatment for these tumors has yet to be determined.  The current treatment for chordoma of the clivus often begins with surgery (resection) to remove as much of the tumor as possible.  The extent of surgery, or the amount of tumor that may be removed, depends on the location of the tumor and how close it is to critical structures in the brain.  Surgery is followed by radiation therapy to destroy any cancer cells that may remain after surgery.  Several studies have suggested that proton beam radiation or combined proton/photon radiation may be more effect than conventional photon radiation therapy for treating chordomas of the skull base because proton radiation may allow for a greater dose of radiation to be delivered to the tumor without damaging the surrounding normal tissues.  Approximately 60-70% of individuals treated with combined surgery and radiation therapy remained tumor-free for at least five years.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

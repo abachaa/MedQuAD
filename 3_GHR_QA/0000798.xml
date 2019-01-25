@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000798" source="GHR" url="https://ghr.nlm.nih.gov/condition/pilomatricoma">
+<Focus>pilomatricoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206711</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>benign pilomatricoma</Synonym>
+		<Synonym>benign pilomatrixoma</Synonym>
+		<Synonym>calcifying epithelioma of Malherbe</Synonym>
+		<Synonym>Malherbe calcifying epithelioma</Synonym>
+		<Synonym>pilomatrixoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000798-1" qtype="information">What is (are) pilomatricoma ?</Question>
+			<Answer>Pilomatricoma, also known as pilomatrixoma, is a type of noncancerous (benign) skin tumor associated with hair follicles. Hair follicles are specialized structures in the skin where hair growth occurs. Pilomatricomas occur most often on the head or neck, although they can also be found on the arms, torso, or legs. A pilomatricoma feels like a small, hard lump under the skin. This type of tumor grows relatively slowly and usually does not cause pain or other symptoms. Most affected individuals have a single tumor, although rarely multiple pilomatricomas can occur. If a pilomatricoma is removed surgically, it tends not to grow back (recur).  Most pilomatricomas occur in people under the age of 20. However, these tumors can also appear later in life. Almost all pilomatricomas are benign, but a very small percentage are cancerous (malignant). Unlike the benign form, the malignant version of this tumor (known as a pilomatrix carcinoma) occurs most often in middle age or late in life.  Pilomatricoma usually occurs without other signs or symptoms (isolated), but this type of tumor has also rarely been reported with inherited conditions. Disorders that can be associated with pilomatricoma include Gardner syndrome, which is characterized by multiple growths (polyps) and cancers of the colon and rectum; myotonic dystrophy, which is a form of muscular dystrophy; and Rubinstein-Taybi syndrome, which is a condition that affects many parts of the body and is associated with an increased risk of both benign and malignant tumors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000798-2" qtype="frequency">How many people are affected by pilomatricoma ?</Question>
+			<Answer>Pilomatricoma is an uncommon tumor. The exact prevalence is unknown, but pilomatricoma probably accounts for less than 1 percent of all benign skin tumors.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000798-3" qtype="genetic changes">What are the genetic changes related to pilomatricoma ?</Question>
+			<Answer>Mutations in the CTNNB1 gene are found in almost all cases of isolated pilomatricoma. These mutations are somatic, which means they are acquired during a person&apos;s lifetime and are present only in tumor cells. Somatic mutations are not inherited.  The CTNNB1 gene provides instructions for making a protein called beta-catenin. This protein plays an important role in sticking cells together (cell adhesion) and in communication between cells. It is also involved in cell signaling as part of the WNT signaling pathway. This pathway promotes the growth and division (proliferation) of cells and helps determine the specialized functions a cell will have (differentiation). WNT signaling is involved in many aspects of development before birth, as well as the maintenance and repair of adult tissues.  Among its many activities, beta-catenin appears to be necessary for the normal function of hair follicles. This protein is active in cells that make up a part of the hair follicle known as the matrix. These cells divide and mature to form the different components of the hair follicle and the hair shaft. As matrix cells divide, the hair shaft is pushed upward and extends beyond the skin.  Mutations in the CTNNB1 gene lead to a version of beta-catenin that is always turned on (constitutively active). The overactive protein triggers matrix cells to divide too quickly and in an uncontrolled way, leading to the formation of a pilomatricoma.  Most pilomatrix carcinomas, the malignant version of pilomatricoma, also have somatic mutations in the CTNNB1 gene. It is unclear why some pilomatricomas are cancerous but most others are not.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000798-4" qtype="inheritance">Is pilomatricoma inherited ?</Question>
+			<Answer>Most people with isolated pilomatricoma do not have any other affected family members. However, rare families with multiple affected members have been reported. In these cases, the inheritance pattern of the condition (if any) is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000798-5" qtype="treatment">What are the treatments for pilomatricoma ?</Question>
+			<Answer>These resources address the diagnosis or management of pilomatricoma:  - Genetic Testing Registry: Pilomatrixoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

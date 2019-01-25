@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000077" source="NINDS" url="http://www.ninds.nih.gov/disorders/cidp/cidp.htm">
+<Focus>Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393819</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000077-1" qtype="information">What is (are) Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) ?</Question>
+			<Answer>Chronic inflammatory demyelinating polyneuropathy (CIDP) is a neurological disorder characterized by progressive weakness and impaired sensory function in the legs and arms. The disorder, which is sometimes called chronic relapsing polyneuropathy, is caused by damage to the myelin sheath (the fatty covering that wraps around and protects nerve fibers) of the peripheral nerves. Although it can occur at any age and in both genders, CIDP is more common in young adults, and in men more so than women. It often presents with symptoms that include tingling or numbness (beginning in the toes and fingers), weakness of the arms and legs, loss of deep tendon reflexes (areflexia), fatigue, and abnormal sensations. CIDP is closely related to Guillain-Barre syndrome and it is considered the chronic counterpart of that acute disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000077-2" qtype="treatment">What are the treatments for Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) ?</Question>
+			<Answer>Treatment for CIDP includes corticosteroids such as prednisone, which may be prescribed alone or in combination with immunosuppressant drugs. Plasmapheresis (plasma exchange) and intravenous immunoglobulin (IVIg) therapy are effective. IVIg may be used even as a first-line therapy. Physiotherapy may improve muscle strength, function and mobility, and minimize the shrinkage of muscles and tendons and distortions of the joints.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000077-3" qtype="outlook">What is the outlook for Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) ?</Question>
+			<Answer>The course of CIDP varies widely among individuals. Some may have a bout of CIDP followed by spontaneous recovery, while others may have many bouts with partial recovery in between relapses. The disease is a treatable cause of acquired neuropathy and initiation of early treatment to prevent loss of nerve axons is recommended. However, some individuals are left with some residual numbness or weakness.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000077-4" qtype="research">what research (or clinical trials) is being done for Chronic Inflammatory Demyelinating Polyneuropathy (CIDP) ?</Question>
+			<Answer>The NINDS supports a broad program of research on disorders of the nervous system, including CIDP. Much of this research is aimed at increasing the understanding of these disorders and finding ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000211" source="GHR" url="https://ghr.nlm.nih.gov/condition/complete-lcat-deficiency">
+<Focus>complete LCAT deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023195</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial LCAT deficiency</Synonym>
+		<Synonym>familial lecithin-cholesterol acyltransferase deficiency</Synonym>
+		<Synonym>FLD</Synonym>
+		<Synonym>LCAT deficiency</Synonym>
+		<Synonym>lecithin acyltransferase deficiency</Synonym>
+		<Synonym>lecithin:cholesterol acyltransferase deficiency</Synonym>
+		<Synonym>Norum disease</Synonym>
+		<Synonym>Norum's disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000211-1" qtype="information">What is (are) complete LCAT deficiency ?</Question>
+			<Answer>Complete LCAT deficiency is a disorder that primarily affects the eyes and kidneys.  In complete LCAT deficiency, the clear front surface of the eyes (the corneas) gradually becomes cloudy. The cloudiness, which generally first appears in early childhood, consists of small grayish dots of cholesterol (opacities) distributed across the corneas. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals; it aids in many functions of the body but can become harmful in excessive amounts. As complete LCAT deficiency progresses, the corneal cloudiness worsens and can lead to severely impaired vision.  People with complete LCAT deficiency often have kidney disease that begins in adolescence or early adulthood. The kidney problems get worse over time and may eventually lead to kidney failure. Individuals with this disorder also usually have a condition known as hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely, resulting in a shortage of red blood cells (anemia). Anemia can cause pale skin, weakness, fatigue, and more serious complications.  Other features of complete LCAT deficiency that occur in some affected individuals include enlargement of the liver (hepatomegaly), spleen (splenomegaly), or lymph nodes (lymphadenopathy) or an accumulation of fatty deposits on the artery walls (atherosclerosis).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000211-2" qtype="frequency">How many people are affected by complete LCAT deficiency ?</Question>
+			<Answer>Complete LCAT deficiency is a rare disorder. Approximately 70 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000211-3" qtype="genetic changes">What are the genetic changes related to complete LCAT deficiency ?</Question>
+			<Answer>Complete LCAT deficiency is caused by mutations in the LCAT gene. This gene provides instructions for making an enzyme called lecithin-cholesterol acyltransferase (LCAT).  The LCAT enzyme plays a role in removing cholesterol from the blood and tissues by helping it attach to molecules called lipoproteins, which carry it to the liver. Once in the liver, the cholesterol is redistributed to other tissues or removed from the body. The enzyme has two major functions, called alpha- and beta-LCAT activity. Alpha-LCAT activity helps attach cholesterol to a lipoprotein called high-density lipoprotein (HDL). Beta-LCAT activity helps attach cholesterol to other lipoproteins called very low-density lipoprotein (VLDL) and low-density lipoprotein (LDL).  LCAT gene mutations that cause complete LCAT deficiency either prevent the production of LCAT or impair both alpha-LCAT and beta-LCAT activity, reducing the enzyme&apos;s ability to attach cholesterol to lipoproteins. Impairment of this mechanism for reducing cholesterol in the body leads to cholesterol deposits in the corneas, kidneys, and other tissues and organs. LCAT gene mutations that affect only alpha-LCAT activity cause a related disorder called fish-eye disease that affects only the corneas.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000211-4" qtype="inheritance">Is complete LCAT deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000211-5" qtype="treatment">What are the treatments for complete LCAT deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of complete LCAT deficiency:  - Genetic Testing Registry: Norum disease  - MedlinePlus Encyclopedia: Corneal Transplant  - National Heart, Lung, and Blood Institute: How is Hemolytic Anemia Treated?  - National Institutes of Diabetes and Digestive and Kidney Diseases: Kidney Failure -- Choosing a Treatment That&apos;s Right for You  - Oregon Health and Science University: Corneal Dystrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000256" source="NINDS" url="http://www.ninds.nih.gov/disorders/spina_bifida/spina_bifida.htm">
+<Focus>Spina Bifida</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0080178</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000256-1" qtype="information">What is (are) Spina Bifida ?</Question>
+			<Answer>Spina bifida (SB) is a neural tube defect (a disorder involving incomplete development of the brain, spinal cord, and/or their protective coverings) caused by the failure of the fetus&apos;s spine to close properly during the first month of pregnancy. Infants born with SB sometimes have an open lesion on their spine where significant damage to the nerves and spinal cord has occurred. Although the spinal opening can be surgically repaired shortly after birth, the nerve damage is permanent, resulting in varying degrees of paralysis of the lower limbs. Even when there is no lesion present there may be improperly formed or missing vertebrae and accompanying nerve damage. In addition to physical and mobility difficulties, most individuals have some form of learning disability. The types of SB are: myelomeningocele, the severest form, in which the spinal cord and its protective covering (the meninges) protrude from an opening in the spine; meningocele in which the spinal cord develops normally but the meninges and spinal fluid) protrude from a spinal opening; closed neural tube defects, which consist of a group of defects in which development of the spinal cord is affected by malformations of the fat, bone, or meninges; and and occulta, the mildest form, in which one or more vertebrae are malformed and covered by a layer of skin. SB may also cause bowel and bladder complications, and many children with SB have hydrocephalus (excessive accumulation of cerebrospinal fluid in the brain).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000256-2" qtype="treatment">What are the treatments for Spina Bifida ?</Question>
+			<Answer>There is no cure for SB because the nerve tissue cannot be replaced or repaired. Treatment for the variety of effects of SB may include surgery, medication, and physiotherapy. Many individuals with SB will need assistive devices such as braces, crutches, or wheelchairs. Ongoing therapy, medical care, and/or surgical treatments may be necessary to prevent and manage complications throughout the individual&apos;s life. Surgery to close the newborn&apos;s spinal opening is generally performed within 24 hours after birth to minimize the risk of infection and to preserve existing function in the spinal cord.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000256-3" qtype="outlook">What is the outlook for Spina Bifida ?</Question>
+			<Answer>The prognosis for individuals with SB depends on the number and severity of abnormalities. Prognosis is poorest for those with complete paralysis, hydrocephalus, and other congenital defects. With proper care, most children with SB live well into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000256-4" qtype="research">what research (or clinical trials) is being done for Spina Bifida ?</Question>
+			<Answer>The NINDS supports a broad range of research on neural tube defects such as SB aimed at finding ways to treat, prevent, and, ultimately, cure these disorders. Recent studies have shown that the addition of folic acid to the diet of women of child-bearing age may significantly reduce the incidence of neural tube defects. Therefore it is recommended that all women of child-bearing age consume 400 micrograms of folic acid daily.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

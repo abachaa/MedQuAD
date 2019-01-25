@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000442" source="GHR" url="https://ghr.nlm.nih.gov/condition/guanidinoacetate-methyltransferase-deficiency">
+<Focus>guanidinoacetate methyltransferase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0574080</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>creatine deficiency syndrome due to GAMT deficiency</Synonym>
+		<Synonym>deficiency of guanidinoacetate methyltransferase</Synonym>
+		<Synonym>GAMT deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000442-1" qtype="information">What is (are) guanidinoacetate methyltransferase deficiency ?</Question>
+			<Answer>Guanidinoacetate methyltransferase deficiency is an inherited disorder that primarily affects the brain and muscles. Without early treatment, people with this disorder have neurological problems that are usually severe. These problems include intellectual disability, speech development limited to a few words, and recurrent seizures (epilepsy). Affected individuals may also exhibit autistic behaviors that affect communication and social interaction or self-injurious behaviors such as head-banging. Other features of this disorder can include involuntary movements (extrapyramidal dysfunction) such as tremors or facial tics.  People with guanidinoacetate methyltransferase deficiency may have weak muscle tone and delayed development of motor skills such as sitting or walking. In severe cases they may lose previously acquired skills such as the ability to support their head or to sit unsupported.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000442-2" qtype="frequency">How many people are affected by guanidinoacetate methyltransferase deficiency ?</Question>
+			<Answer>Guanidinoacetate methyltransferase deficiency is a very rare disorder. About 80 affected individuals have been described in the medical literature. Of these, approximately one-third are of Portuguese origin.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000442-3" qtype="genetic changes">What are the genetic changes related to guanidinoacetate methyltransferase deficiency ?</Question>
+			<Answer>Mutations in the GAMT gene cause guanidinoacetate methyltransferase deficiency. The GAMT gene provides instructions for making the enzyme guanidinoacetate methyltransferase. This enzyme participates in the two-step production (synthesis) of the compound creatine from the protein building blocks (amino acids) glycine, arginine, and methionine. Specifically, guanidinoacetate methyltransferase controls the second step of this process. In this step, creatine is produced from another compound called guanidinoacetate. Creatine is needed for the body to store and use energy properly.  GAMT gene mutations impair the ability of the guanidinoacetate methyltransferase enzyme to participate in creatine synthesis, resulting in a shortage of creatine. The effects of guanidinoacetate methyltransferase deficiency are most severe in organs and tissues that require large amounts of energy, especially the brain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000442-4" qtype="inheritance">Is guanidinoacetate methyltransferase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000442-5" qtype="treatment">What are the treatments for guanidinoacetate methyltransferase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of guanidinoacetate methyltransferase deficiency:  - Gene Review: Gene Review: Creatine Deficiency Syndromes  - Genetic Testing Registry: Deficiency of guanidinoacetate methyltransferase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

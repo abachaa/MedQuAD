@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003271" source="GARD" url="https://rarediseases.info.nih.gov/gard/12251/isolated-ectopia-lentis">
+<Focus>Isolated ectopia lentis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013581</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ectopia lentis syndrome</Synonym>
+		<Synonym>Familial ectopia lentis</Synonym>
+		<Synonym>Ectopia lentis, isolated autosomal recessive</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003271-1" qtype="information">What is (are) Isolated ectopia lentis ?</Question>
+			<Answer>Isolated ectopia lentis (IEL) is a genetic disorder that affects the positioning of the lens in the eyes. In individuals with IEL, the lens in one or both of the eyes is off-center. Symptoms of IOL usually present in childhood and may include vision problems such as nearsightedness (myopia), blurred vision (astigmatism), clouding of the lenses (cataracts), and increased pressure in the eyes (glaucoma). In some individuals, IEL can progress to retinal detachment (tearing of the back lining of the eye). IEL is caused by mutations in either the FBN1 or ADAMTSL4 gene. When caused by a mutation in the FBN1 gene, IEL is inherited in an autosomal dominant manner. When caused by a mutation in the ADAMTSL4 gene, IEL is inherited in an autosomal recessive manner. The primary goal of treatment is preventing amblyopia (lazy eye) through early correction of astigmatism. Surgical intervention including lensectomy (removal of the lens) may be considered in cases where vision is significantly affected.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003271-2" qtype="symptoms">What are the symptoms of Isolated ectopia lentis ?</Question>
+			<Answer>What are the signs and symptoms of Isolated ectopia lentis? The Human Phenotype Ontology provides the following list of signs and symptoms for Isolated ectopia lentis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Corneal dystrophy 90% Ectopia lentis 90% Flat cornea 90% Astigmatism 50% Glaucoma 50% Abnormality of the pupil 7.5% Aplasia/Hypoplasia of the lens 7.5% Disproportionate tall stature 7.5% Hypermetropia 7.5% Lens coloboma 7.5% Limitation of joint mobility 7.5% Retinal detachment 7.5% Visual impairment 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

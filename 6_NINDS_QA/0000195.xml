@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000195" source="NINDS" url="http://www.ninds.nih.gov/disorders/tia/tia.htm">
+<Focus>Transient Ischemic Attack</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007787</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000195-1" qtype="information">What is (are) Transient Ischemic Attack ?</Question>
+			<Answer>A transient ischemic attack (TIA) is a transient stroke that lasts only a few minutes. It occurs when the blood supply to part of the brain is briefly interrupted. TIA symptoms, which usually occur suddenly, are similar to those of stroke but do not last as long. Most symptoms of a TIA disappear within an hour, although they may persist for up to 24 hours. Symptoms can include: numbness or weakness in the face, arm, or leg, especially on one side of the body; confusion or difficulty in talking or understanding speech; trouble seeing in one or both eyes; and difficulty with walking, dizziness, or loss of balance and coordination.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000195-2" qtype="treatment">What are the treatments for Transient Ischemic Attack ?</Question>
+			<Answer>Because there is no way to tell whether symptoms are from a TIA or an acute stroke, patients should assume that all stroke-like symptoms signal an emergency and should not wait to see if they go away. A prompt evaluation (within 60 minutes) is necessary to identify the cause of the TIA and determine appropriate therapy. Depending on a patient&apos;s medical history and the results of a medical examination, the doctor may recommend drug therapy or surgery to reduce the risk of stroke in people who have had a TIA. The use of antiplatelet agents, particularly aspirin, is a standard treatment for patients at risk for stroke. People with atrial fibrillation (irregular beating of the heart) may be prescribed anticoagulants.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000195-3" qtype="outlook">What is the outlook for Transient Ischemic Attack ?</Question>
+			<Answer>TIAs are often warning signs that a person is at risk for a more serious and debilitating stroke. About one-third of those who have a TIA will have an acute stroke some time in the future. Many strokes can be prevented by heeding the warning signs of TIAs and treating underlying risk factors. The most important treatable factors linked to TIAs and stroke are high blood pressure, cigarette smoking, heart disease, carotid artery disease, diabetes, and heavy use of alcohol. Medical help is available to reduce and eliminate these factors. Lifestyle changes such as eating a balanced diet, maintaining healthy weight, exercising, and enrolling in smoking and alcohol cessation programs can also reduce these factors.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000195-4" qtype="research">what research (or clinical trials) is being done for Transient Ischemic Attack ?</Question>
+			<Answer>NINDS is the leading supporter of research on stroke and TIA in the U.S. and sponsors studies ranging from clinical trials to investigations of basic biological mechanisms as well as studies with animals.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

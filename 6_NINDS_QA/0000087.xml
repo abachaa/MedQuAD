@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000087" source="NINDS" url="http://www.ninds.nih.gov/disorders/vasculitis/vasculitis.htm">
+<Focus>Vasculitis Syndromes of the Central and Peripheral Nervous Systems</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963274</CUI>
+			<CUI>C0042384</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000087-1" qtype="information">What is (are) Vasculitis Syndromes of the Central and Peripheral Nervous Systems ?</Question>
+			<Answer>Vasculitis is an inflammation of blood vessels, which includes the veins, arteries, and capillaries. Inflammation occurs with infection or is thought to be due to a faulty immune system response. It also can be caused by other immune system disease, an allergic reaction to medicines or toxins, and by certain blood cancers. Vasculitic disorders can cause problems in any organ system, including the central (CNS) and peripheral (PNS) nervous systems. Vasculitis disorders, or syndromes, of the CNS and PNS are characterized by the presence of inflammatory cells in and around blood vessels, and secondary narrowing or blockage of the blood vessels that nourish the brain, spinal cord, or peripheral nerves.
+                
+A vasculitic syndrome may begin suddenly or develop over time. Symptoms include headaches, especially a headache that doesnt go away; fever, rapid weight loss; confusion or forgetfulness leading to dementia; swelling of the brain, pain while chewing or swallowing; paralysis or numbness, usually in the arms or legs; and visual disturbances, such as double vision, blurred vision, or blindness
+                
+Some of the better understood vasculitis syndromes are temporal arteritis (also called giant cell arteritis or cranial arteritis--a chronic inflammatory disorder of large blood vessels) and Takayasus disease, which affects larger aortas and may cause stoke.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000087-2" qtype="treatment">What are the treatments for Vasculitis Syndromes of the Central and Peripheral Nervous Systems ?</Question>
+			<Answer>Treatment for a vasculitis syndrome depends upon the specific diagnosis, which can be difficult, as some diseases have similar symptoms of vasculitis. Most of the syndromes respond well to steroid drugs, such as prednisolone. Some may also require treatment with an immunosuppressive drug, such as cyclophosphamide. Aneurysms involved with vasculitis can be treated surgfically.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000087-3" qtype="outlook">What is the outlook for Vasculitis Syndromes of the Central and Peripheral Nervous Systems ?</Question>
+			<Answer>The prognosis is dependent upon the specific syndrome, however, some of the syndromes are fatal if left untreated.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000087-4" qtype="research">what research (or clinical trials) is being done for Vasculitis Syndromes of the Central and Peripheral Nervous Systems ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. Several NINDS-funded investigators are studying blood vessel damage and cerebral blood flow as it relates to stroke. The NINDS also funds research on vascular cognitive impairment, which is an important contributor to aging-related cognitive decline and is the result of impaired performance of the brain&apos;s small blood vessels. Additionally, the NINDS and other institutes of the National Institutes of Health (NIH) conduct research relating to vasculitis syndromes in laboratories at the NIH and also support vasculitis research through grants to major medical institutions across the country. The NINDS supports The Vasculitis Clinical Research Consortium (VCRC), a network of academic medical centers, patient support organizations, and clinical research resources dedicated to conducting clinical research and improving the care of individuals with various vasculitis disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

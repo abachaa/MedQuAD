@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000495" source="GARD" url="https://rarediseases.info.nih.gov/gard/5862/ataxia-telangiectasia">
+<Focus>Ataxia telangiectasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004135</CUI>
+			<CUI>C0039446</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AT</Synonym>
+		<Synonym>Louis-Bar syndrome</Synonym>
+		<Synonym>Cerebello-oculocutaneous telangiectasia</Synonym>
+		<Synonym>Immunodeficiency with ataxia telangiectasia</Synonym>
+		<Synonym>T cell immunodeficiency primary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000495-1" qtype="information">What is (are) Ataxia telangiectasia ?</Question>
+			<Answer>Ataxia telangiectasia (A-T) is rare condition that affects the nervous system, the immune system, and many other parts of the body. Signs and symptoms of the condition usually begin in early childhood, often before age 5. The condition is typically characterized by cerebellar ataxia (uncoordinated muscle movements), oculomotor apraxia, telangiectasias, choreoathetosis (uncontrollable movements of the limbs), a weakened immune system with frequent infections, and an increased risk of cancers such as leukemia and lymphoma. A-T is caused by changes (mutations) in the ATM gene and is inherited in an autosomal recessive manner. Treatment is supportive and based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000495-2" qtype="symptoms">What are the symptoms of Ataxia telangiectasia ?</Question>
+			<Answer>What are the signs and symptoms of Ataxia telangiectasia? Ataxia-telangiectasia affects the nervous system, immune system, and other body systems. This disorder is characterized by progressive difficulty with coordinating movements (ataxia) beginning in early childhood, usually before age 5. Affected children typically develop difficulty walking, problems with balance and hand coordination, involuntary jerking movements (chorea), muscle twitches (myoclonus), and disturbances in nerve function (neuropathy). The movement problems typically cause people to require wheelchair assistance by adolescence. People with this disorder also have slurred speech and trouble moving their eyes to look side-to-side (oculomotor apraxia). Small clusters of enlarged blood vessels called telangiectases, which occur in the eyes and on the surface of the skin, are also characteristic of this condition. The Human Phenotype Ontology provides the following list of signs and symptoms for Ataxia telangiectasia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of chromosome stability 90% Aplasia/Hypoplasia of the thymus 90% Cellular immunodeficiency 90% Decreased antibody level in blood 90% Elevated hepatic transaminases 90% Gait disturbance 90% Incoordination 90% Lymphopenia 90% Mucosal telangiectasiae 90% Neurological speech impairment 90% Nystagmus 90% Polycystic ovaries 90% Premature graying of hair 90% Recurrent respiratory infections 90% Strabismus 90% Telangiectasia of the skin 90% Tremor 90% Hypertonia 50% Hypopigmentation of hair 50% Neoplasm 50% Seizures 50% Short stature 50% Skeletal muscle atrophy 50% Abnormality of the testis 7.5% Aplasia/Hypoplasia of the skin 7.5% Cafe-au-lait spot 7.5% Cognitive impairment 7.5% Type II diabetes mellitus 7.5% Abnormal spermatogenesis - Abnormality of the hair - Ataxia - Autosomal recessive inheritance - Bronchiectasis - Choreoathetosis - Conjunctival telangiectasia - Decreased number of CD4+ T cells - Defective B cell differentiation - Delayed puberty - Diabetes mellitus - Dysarthria - Dystonia - Elevated alpha-fetoprotein - Female hypogonadism - Glucose intolerance - Hodgkin lymphoma - Hypoplasia of the thymus - IgA deficiency - Immunoglobulin IgG2 deficiency - Leukemia - Myoclonus - Non-Hodgkin lymphoma - Recurrent bronchitis - Sinusitis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

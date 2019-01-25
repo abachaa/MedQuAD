@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000579" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/malnutrition.html">
+<Focus>Malnutrition</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162429</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000579-1" qtype="information">What is (are) Malnutrition ?</Question>
+			<Answer>Food provides the energy and nutrients you need to be healthy. If you don&apos;t get enough nutrients -- including proteins, carbohydrates, fats, vitamins, and minerals - you may suffer from malnutrition.    Causes of malnutrition include:       - Lack of specific nutrients in your diet. Even the lack of one vitamin can lead to malnutrition.    - An unbalanced diet    - Certain medical problems, such as malabsorption syndromes and cancers       Symptoms may include fatigue, dizziness, and weight loss. Or, you may have no symptoms. To diagnose the cause of the problem, your doctor may do blood tests and a nutritional assessment. Treatment may include replacing the missing nutrients and treating the underlying cause.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

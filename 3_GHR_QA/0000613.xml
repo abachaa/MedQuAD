@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000613" source="GHR" url="https://ghr.nlm.nih.gov/condition/mabry-syndrome">
+<Focus>Mabry syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1855923</CUI>
+			<CUI>C0268415</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hyperphosphatasia with mental retardation syndrome</Synonym>
+		<Synonym>hyperphosphatasia with seizures and neurologic deficit</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000613-1" qtype="information">What is (are) Mabry syndrome ?</Question>
+			<Answer>Mabry syndrome is a condition characterized by intellectual disability, distinctive facial features, increased levels of an enzyme called alkaline phosphatase in the blood (hyperphosphatasia), and other signs and symptoms.  People with Mabry syndrome have intellectual disability that is often moderate to severe. They typically have little to no speech development and are delayed in the development of motor skills (such as sitting, crawling, and walking). Many affected individuals have low muscle tone (hypotonia) and develop recurrent seizures (epilepsy) in early childhood. Seizures are usually the generalized tonic-clonic type, which involve muscle rigidity, convulsions, and loss of consciousness.  Individuals with Mabry syndrome have distinctive facial features that include wide-set eyes (hypertelorism), long openings of the eyelids (long palpebral fissures), a nose with a broad bridge and a rounded tip, downturned corners of the mouth, and a thin upper lip. These facial features usually become less pronounced over time.  Hyperphosphatasia begins within the first year of life in people with Mabry syndrome. There are many different types of alkaline phosphatase found in tissues; the type that is increased in Mabry syndrome is called the tissue non-specific type and is found throughout the body. In affected individuals, alkaline phosphatase levels in the blood are usually increased by one to two times the normal amount, but can be up to 20 times higher than normal. The elevated enzyme levels remain relatively stable over a person&apos;s lifetime. Hyperphosphatasia appears to cause no negative health effects, but this finding can help health professionals diagnose Mabry syndrome.  Another common feature of Mabry syndrome is shortened bones at the ends of fingers (brachytelephalangy), which can be seen on x-ray imaging. Underdeveloped fingernails (nail hypoplasia) may also occur. Sometimes, individuals with Mabry syndrome have abnormalities of the digestive system, including narrowing or blockage of the anus (anal stenosis or anal atresia) or Hirschsprung disease, a disorder that causes severe constipation or blockage of the intestine. Rarely, affected individuals experience hearing loss.  The signs and symptoms of Mabry syndrome vary among affected individuals. Those who are least severely affected have only intellectual disability and hyperphosphatasia, without distinctive facial features or the other health problems listed above.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000613-2" qtype="frequency">How many people are affected by Mabry syndrome ?</Question>
+			<Answer>Mabry syndrome is likely a rare condition, but its prevalence is unknown. More than 20 cases have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000613-3" qtype="genetic changes">What are the genetic changes related to Mabry syndrome ?</Question>
+			<Answer>Mutations in the PIGV, PIGO, or PGAP2 gene cause Mabry syndrome. These genes are all involved in the production (synthesis) of a molecule called a glycosylphosphosphatidylinositol (GPI) anchor. This molecule is synthesized in a series of steps. It then attaches (binds) to various proteins and binds them to the outer surface of the cell membrane, ensuring that they are available when needed. Alkaline phosphatase is an example of a protein that is bound to the cell membrane by a GPI anchor.  The proteins produced from the PIGV and PIGO genes are involved in piecing together the GPI anchor. After the complete GPI anchor is attached to a protein, the protein produced from the PGAP2 gene adjusts the anchor to enhance the anchor&apos;s ability to bind to the cell membrane.  Mutations in the PIGV, PIGO, or PGAP2 gene result in the production of an incomplete GPI anchor that cannot attach to proteins or to cell membranes. Proteins lacking a functional GPI anchor cannot bind to the cell membrane and are instead released from the cell. The release of non-GPI anchored alkaline phosphatase elevates the amount of this protein in the blood, causing hyperphosphatasia in people with Mabry syndrome. It is unclear how gene mutations lead to the other features of Mabry syndrome, but these signs and symptoms are likely due to a lack of proper GPI anchoring of proteins.  PIGV gene mutations are the most frequent cause of Mabry syndrome, accounting for approximately half of all cases. Mutations in the PIGO and PGAP2 genes are responsible for a small proportion of Mabry syndrome. The remaining affected individuals do not have an identified mutation in any of these three genes; the cause of the condition in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000613-4" qtype="inheritance">Is Mabry syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000613-5" qtype="treatment">What are the treatments for Mabry syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Mabry syndrome:  - Genetic Testing Registry: Hyperphosphatasia with mental retardation syndrome  - Genetic Testing Registry: Hyperphosphatasia with mental retardation syndrome 1  - Genetic Testing Registry: Hyperphosphatasia with mental retardation syndrome 2  - Genetic Testing Registry: Hyperphosphatasia with mental retardation syndrome 3  - MedlinePlus Encyclopedia: ALP Isoenzyme Test  - MedlinePlus Encyclopedia: ALP--Blood Test  - Seattle Children&apos;s Hospital: Hirschsprung&apos;s Disease--Treatments   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001503" source="GARD" url="https://rarediseases.info.nih.gov/gard/2001/congenital-dyserythropoietic-anemia-type-2">
+<Focus>Congenital dyserythropoietic anemia type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002876</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CDAN2</Synonym>
+		<Synonym>Anemia, dyserythropoietic, congenital type 2</Synonym>
+		<Synonym>CDA II</Synonym>
+		<Synonym>Dyserythropoietic anemia, HEMPAS type</Synonym>
+		<Synonym>HEMPAS anemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001503-1" qtype="information">What is (are) Congenital dyserythropoietic anemia type 2 ?</Question>
+			<Answer>Congenital dyserythropoietic anemia type 2 (CDA II) is an inherited blood disorder characterized by mild to severe anemia. It is usually diagnosed in adolescence or early adulthood. Many affected individuals have yellowing of the skin and eyes (jaundice) and an enlarged liver and spleen (hepatosplenomegaly) and gallstones. This condition also causes the body to absorb too much iron, which builds up and can damage tissues and organs. In particular, iron overload can lead to an abnormal heart rhythm (arrhythmia), congestive heart failure, diabetes, and chronic liver disease (cirrhosis). Rarely, people with CDA type II have mediastinal tumors. CDA type II usually results from mutations in the SEC23B gene. It is inherited in an autosomal recessive pattern. Treatment depends on the severity of the symptoms and may involve blood transfusions, iron chelation therapy and removal of the spleen and gallbladder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001503-2" qtype="symptoms">What are the symptoms of Congenital dyserythropoietic anemia type 2 ?</Question>
+			<Answer>What are the signs and symptoms of Congenital dyserythropoietic anemia type 2? The signs and symptoms of CDA II include jaundice, gallstones and an enlarged liver and spleen. This condition also causes the body to absorb too much iron, which builds up and can damage tissues and organs. In particular, iron overload can lead to an abnormal heart rhythm (arrhythmia), congestive heart failure, diabetes, and chronic liver disease (cirrhosis). Rarely, people with CDA type II have mediastinal tumors. During pregnancy and other special circumstances (such as anemic crisis, major surgery and infections), blood transfusions may be necessary. The Human Phenotype Ontology provides the following list of signs and symptoms for Congenital dyserythropoietic anemia type 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Anemia of inadequate production - Autosomal recessive inheritance - Cholelithiasis - Endopolyploidy on chromosome studies of bone marrow - Jaundice - Reduced activity of N-acetylglucosaminyltransferase II - Reticulocytosis - Splenomegaly - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001503-3" qtype="treatment">What are the treatments for Congenital dyserythropoietic anemia type 2 ?</Question>
+			<Answer>How might congenital dyserythropoietic anemia (CDA) type 2 be treated? The goal of CDA type 2 treatment is to address and prevent complications from anemia and iron overload. Most people with CDA type 2 develop iron overload, for some this is as early as in their 20&apos;s.  If a person with CDA type 2 has mild anemia, but evidence of iron loading, treatment may involve phlebotomy. An alternative treatment is chelation therapy. In particular, chelation therapy is preferred for people with iron (ferritin) levels greater than 1000 mg/L. The Iron Disorders Institute provides information on chelation therapy through their Web site at: http://www.irondisorders.org/chelation-therapy Many people with CDA-2 maintain hemoglobin levels just above the threshold for symptoms. Mild anemia may not need treatment, as long as it doesn&apos;t worsen.  Less commonly CDA-2 causes severe anemia. Treatment of severe anemia may involve blood transfusions. Blood transfusions can raise iron levels so, careful monitoring and treatment for iron overload is required. The National Heart, Lung, and Blood Institute offers tips for living with hemolytic anemia at the following link: http://www.nhlbi.nih.gov/health/health-topics/topics/ha/livingwith Splenectomy is considered for people with CDA-2 and severe anemia. Splenectomy can cause a consistent rise in hemoglobin values. The spleen, however, is important in fighting infection.  People, particularly children, who have had a splenectomy are more likely to contract a serious and possibly life-threatening infection (sepsis). This risk must be carefully weighed. Splenectomy does not affect iron overload. Lastly, people with very severe CDA-2 may be candidates for hematopoietic stem cell transplantation (HSCT). Currently this is the only available curative treatment for CDA-2.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

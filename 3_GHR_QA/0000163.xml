@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000163" source="GHR" url="https://ghr.nlm.nih.gov/condition/celiac-disease">
+<Focus>celiac disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007570</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>celiac sprue</Synonym>
+		<Synonym>gluten enteropathy</Synonym>
+		<Synonym>sprue</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000163-1" qtype="information">What is (are) celiac disease ?</Question>
+			<Answer>Celiac disease is a condition in which the immune system is abnormally sensitive to gluten, a protein found in wheat, rye, and barley. Celiac disease is an autoimmune disorder; autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. Without a strict, lifelong gluten-free diet, inflammation resulting from immune system overactivity may cause a wide variety of signs and symptoms involving many parts of the body.  Celiac disease can develop at any age after an individual starts eating foods containing gluten. The classic symptoms of the condition result from inflammation affecting the gastrointestinal tract. This inflammation damages the villi, which are small, finger-like projections that line the small intestine and provide a greatly increased surface area to absorb nutrients. In celiac disease, the villi become shortened and eventually flatten out. Intestinal damage causes diarrhea and poor absorption of nutrients, which may lead to weight loss. Abdominal pain, swelling (distention), and food intolerances are common in celiac disease. Inflammation associated with celiac disease may lead to an increased risk of developing certain gastrointestinal cancers such as cancers of the small intestine or esophagus.  Inflammation and poor nutrient absorption may lead to problems affecting many other organs and systems of the body in affected individuals. These health problems may include iron deficiency that results in a low number of red blood cells (anemia), vitamin deficiencies, low bone mineral density (osteoporosis), itchy skin rashes (dermatitis herpetiformis), defects in the enamel of the teeth, chronic fatigue, joint pain, poor growth, delayed puberty, infertility, or repeated miscarriages. Neurological problems have also been associated with celiac disease; these include migraine headaches, depression, attention deficit hyperactivity disorder (ADHD), and recurrent seizures (epilepsy). Many people with celiac disease have one or more of these varied health problems but do not have gastrointestinal symptoms. This form of the condition is called nonclassic celiac disease. Researchers now believe that nonclassic celiac disease is actually more common than the classic form.  Celiac disease often goes undiagnosed because many of its signs and symptoms are nonspecific, which means they may occur in many disorders. Most people who have one or more of these nonspecific health problems do not have celiac disease. On average, a diagnosis of celiac disease is not made until 6 to 10 years after symptoms begin.  Some people have silent celiac disease, in which they have no symptoms of the disorder. However, people with silent celiac disease do have immune proteins in their blood (antibodies) that are common in celiac disease. They also have inflammatory damage to their small intestine that can be detected with a biopsy.  In a small number of cases, celiac disease does not improve with a gluten-free diet and progresses to a condition called refractory sprue. Refractory sprue is characterized by chronic inflammation of the gastrointestinal tract, poor absorption of nutrients, and an increased risk of developing a type of cancer of the immune cells called T-cell lymphoma.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000163-2" qtype="frequency">How many people are affected by celiac disease ?</Question>
+			<Answer>Celiac disease is a common disorder. Its prevalence has been estimated at about 1 in 100 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000163-3" qtype="genetic changes">What are the genetic changes related to celiac disease ?</Question>
+			<Answer>The risk of developing celiac disease is increased by certain variants of the HLA-DQA1 and HLA-DQB1 genes. These genes provide instructions for making proteins that play a critical role in the immune system. The HLA-DQA1 and HLA-DQB1 genes belong to a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders such as viruses and bacteria.  The proteins produced from the HLA-DQA1 and HLA-DQB1 genes attach (bind) to each other to form a functional protein complex called an antigen-binding DQ heterodimer. This complex, which is present on the surface of certain immune system cells, attaches to protein fragments (peptides) outside the cell. If the immune system recognizes the peptides as foreign (such as viral or bacterial peptides), it triggers a response to attack the invading viruses or bacteria.  Celiac disease is associated with an inappropriate immune response to a segment of the gluten protein called gliadin. This inappropriate activation of the immune system causes inflammation that damages the body&apos;s organs and tissues and leads to the signs and symptoms of celiac disease.  Almost all people with celiac disease have specific variants of the HLA-DQA1 and HLA-DQB1 genes, which seem to increase the risk of an inappropriate immune response to gliadin. However, these variants are also found in 30 percent of the general population, and only 3 percent of individuals with the gene variants develop celiac disease.  It appears likely that other contributors, such as environmental factors and changes in other genes, also influence the development of this complex disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000163-4" qtype="inheritance">Is celiac disease inherited ?</Question>
+			<Answer>Celiac disease tends to cluster in families. Parents, siblings, or children (first-degree relatives) of people with celiac disease have between a 4 and 15 percent chance of developing the disorder. However, the inheritance pattern is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000163-5" qtype="treatment">What are the treatments for celiac disease ?</Question>
+			<Answer>These resources address the diagnosis or management of celiac disease:  - Beth Israel Deaconess: Celiac Center  - Columbia University Celiac Disease Center  - Gene Review: Gene Review: Celiac Disease  - Genetic Testing Registry: Celiac disease  - Massachusetts General Hospital Center for Celiac Research and Treatment  - MedlinePlus Encyclopedia: Celiac Disease Nutritional Considerations  - North American Society for Pediatric Gastroenterology, Hepatology, and Nutrition: Gluten-Free Diet Guide  - University of Chicago Celiac Disease Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000260" source="NINDS" url="http://www.ninds.nih.gov/disorders/striatonigral_degeneration/striatonigral_degeneration.htm">
+<Focus>Striatonigral Degeneration</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270733</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000260-1" qtype="information">What is (are) Striatonigral Degeneration ?</Question>
+			<Answer>Striatonigral degeneration is a neurological disorder caused by a disruption in the connection between two areas of the brain-the striatum and the substantia nigra. These two areas work together to enable balance and movement. Striatonigral degeneration is a type of multiple system atrophy (MSA). Symptoms of the disorder resemble some of those seen in Parkinson&apos;s disease, including rigidity, instability, impaired speech, and slow movements.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000260-2" qtype="treatment">What are the treatments for Striatonigral Degeneration ?</Question>
+			<Answer>There is no cure for striatonigral degeneration, and treatments for the disorder have variable success. Treatments used for Parkinson&apos;s disease are recommended. However, unlike Parkinson&apos;s disease, striatonigral degeneration is not responsive to levodopa. Dopamine and anticholinergics provide some benefit. Generally, treatment is reevaluated as the disorder progresses.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000260-3" qtype="outlook">What is the outlook for Striatonigral Degeneration ?</Question>
+			<Answer>Striatonigral degeneration progresses slowly. Some patients have normal life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000260-4" qtype="research">what research (or clinical trials) is being done for Striatonigral Degeneration ?</Question>
+			<Answer>The NINDS supports and conducts research on disorders of the brain and nervous system such as striatonigral degeneration. This research focuses on finding ways to prevent and treat these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

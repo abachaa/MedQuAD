@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001692" source="GARD" url="https://rarediseases.info.nih.gov/gard/6224/cushings-syndrome">
+<Focus>Cushing's syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010481</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cushing syndrome</Synonym>
+		<Synonym>Hypercortisolism</Synonym>
+		<Synonym>Nodular primary adrenocortical dysplasia</Synonym>
+		<Synonym>Adrenal cortex adenoma</Synonym>
+		<Synonym>Adrenal hyperfunction resulting from pituitary acth excess</Synonym>
+		<Synonym>Cushing disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001692-1" qtype="information">What is (are) Cushing's syndrome ?</Question>
+			<Answer>Cushing&apos;s syndrome is an endocrine disorder caused by prolonged exposure of the body&apos;s tissues to high levels of cortisol (a hormone produced by the adrenal gland). It most commonly affects adults between age 20 and 50 years. Signs and symptoms of Cushing&apos;s syndrome include upper body obesity, fatigue, muscle weakness, high blood pressure, backache, high blood sugar, easy bruising and bluish-red stretch marks on the skin. Affected women may also experience irregular menstrual periods and increased growth of body and facial hair. This condition may be caused by a variety of factors including long-term use of corticosteroid medications, tumors in the pituitary gland or adrenal adenomas.Treatment depends on the underlying cause, but may include decreasing the dosage of corticosteroids or surgery to remove tumors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001692-2" qtype="symptoms">What are the symptoms of Cushing's syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Cushing&apos;s syndrome? The signs and symptoms of Cushing&apos;s syndrome may include: Upper body obesity Severe fatigue Muscle weakness High blood pressure Backache Elevated blood sugar Easy bruising Bluish-red stretch marks on the skin Neurological issues Women with Cushing&apos;s syndrome may also experience increased growth of facial and body hair, and menstrual periods may become irregular or cease. Men may have decreased fertility, diminished sexual desire, and/or erectile dysfunction. The Human Phenotype Ontology provides the following list of signs and symptoms for Cushing&apos;s syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of adipose tissue 90% Erectile abnormalities 90% Hypercortisolism 90% Round face 90% Thin skin 90% Truncal obesity 90% Acne 50% Bruising susceptibility 50% Decreased fertility 50% Diabetes mellitus 50% Hypertension 50% Hypertrichosis 50% Hypokalemia 50% Muscle weakness 50% Nephrolithiasis 50% Recurrent fractures 50% Reduced bone mineral density 50% Striae distensae 50% Abdominal pain 7.5% Abnormal renal physiology 7.5% Abnormality of lipid metabolism 7.5% Abnormality of the gastric mucosa 7.5% Aseptic necrosis 7.5% Cataract 7.5% Hypercalcemia 7.5% Hypernatremia 7.5% Hypertrophic cardiomyopathy 7.5% Myopathy 7.5% Neoplasm of the adrenal gland 7.5% Reduced consciousness/confusion 7.5% Secondary amenorrhea 7.5% Sleep disturbance 7.5% Telangiectasia of the skin 7.5% Adult onset - Agitation - Anxiety - Autosomal dominant inheritance - Decreased circulating ACTH level - Depression - Increased circulating cortisol level - Kyphosis - Macronodular adrenal hyperplasia - Mental deterioration - Mood changes - Neoplasm - Osteopenia - Osteoporosis - Primary hypercorticolism - Psychosis - Skeletal muscle atrophy - Sporadic - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001692-3" qtype="causes">What causes Cushing's syndrome ?</Question>
+			<Answer>What causes Cushing&apos;s syndrome? Cushing&apos;s syndrome is caused by long-term exposure of the body&apos;s tissues to cortisol, a hormone that is naturally produced by the adrenal gland. Exposure to too much cortisol can result from long-term use of corticosteriod medications used to treat inflammatory illnesses. Pituitary adenomas (benign tumors of the pituitary gland) or tumors of the adrenal gland may also cause cortisol imbalances.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001692-4" qtype="inheritance">Is Cushing's syndrome inherited ?</Question>
+			<Answer>Is Cushing&apos;s syndrome inherited? Most cases of Cushing&apos;s syndrome are not inherited. However, Cushing&apos;s syndrome rarely occurs in inherited conditions characterized by the development of tumors of one or more endocrine gland. These conditions may include: Primary pigmented micronodular adrenal disease, in which children or young adults develop small cortisol-producing tumors of the adrenal glands, Multiple endocrine neoplasia type 1 (MEN1), in which hormone-secreting tumors of the parathyroid glands, pancreas, and pituitary develop. Cushing&apos;s syndrome in MEN1 may be due to pituitary or adrenal tumors.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

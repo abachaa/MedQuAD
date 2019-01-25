@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000676" source="GARD" url="https://rarediseases.info.nih.gov/gard/5906/bells-palsy">
+<Focus>Bell's palsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0376175</CUI>
+			<CUI>C0015469</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Facial palsy</Synonym>
+		<Synonym>Facial cranial nerve paralysis</Synonym>
+		<Synonym>Bell palsy</Synonym>
+		<Synonym>Antoni's palsy</Synonym>
+		<Synonym>Facial nerve palsy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000676-1" qtype="information">What is (are) Bell's palsy ?</Question>
+			<Answer>Bell&apos;s palsy is a form of temporary facial paralysis which results from damage or trauma to one of the facial nerves. This disorder is characterized by the sudden onset of facial paralysis that often affects just one side and can cause significant facial distortion. Symptoms vary, but may include twitching, weakness, drooping eyelid or corner of the mouth, drooling, dry eye or mouth, impairment of taste, and excessive tearing in the eye. While the exact cause is unknown, many researchers believe that a virus may lead to swelling of the 7th cranial nerve. Steroids, such as prednisone, may reduce the inflammation and swelling. Other medications used to treat Bell&apos;s palsy include acyclovir (to fight viral infections) and aspirin, acetaminophen, or ibuprofen (to relieve pain). Physical therapy, facial massage and acupuncture have also been used.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000676-2" qtype="symptoms">What are the symptoms of Bell's palsy ?</Question>
+			<Answer>What are the symptoms of Bell&apos;s palsy?</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000676-3" qtype="causes">What causes Bell's palsy ?</Question>
+			<Answer>What causes Bell&apos;s palsy?</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000676-4" qtype="treatment">What are the treatments for Bell's palsy ?</Question>
+			<Answer>How might Bell&apos;s palsy be treated?</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

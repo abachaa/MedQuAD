@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003780" source="GARD" url="https://rarediseases.info.nih.gov/gard/11893/mandibuloacral-dysplasia">
+<Focus>Mandibuloacral dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432291</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MAD</Synonym>
+		<Synonym>Familial partial lipodystrophy</Synonym>
+		<Synonym>Mandibuloacral dysplasia with type A lipodystrophy</Synonym>
+		<Synonym>Mandibuloacral dysplasia with type B lipodystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003780-1" qtype="symptoms">What are the symptoms of Mandibuloacral dysplasia ?</Question>
+			<Answer>What are the signs and symptoms of Mandibuloacral dysplasia? The Human Phenotype Ontology provides the following list of signs and symptoms for Mandibuloacral dysplasia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the clavicle 90% Abnormality of the fontanelles or cranial sutures 90% Arthralgia 90% Convex nasal ridge 90% Hypopigmented skin patches 90% Limitation of joint mobility 90% Lipoatrophy 90% Prematurely aged appearance 90% Short stature 90% Skeletal dysplasia 90% Abnormality of the eyebrow 50% Abnormality of the nail 50% Abnormality of the teeth 50% Alopecia 50% Cataract 50% Chondrocalcinosis 50% Flexion contracture 50% Hearing impairment 50% Lack of skin elasticity 50% Muscle weakness 50% Muscular hypotonia 50% Myopathy 50% Narrow mouth 50% Osteolysis 50% Short nose 50% Thin skin 50% Abnormality of lipid metabolism 7.5% Insulin resistance 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

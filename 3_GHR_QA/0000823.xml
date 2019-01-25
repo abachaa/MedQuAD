@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000823" source="GHR" url="https://ghr.nlm.nih.gov/condition/primary-myelofibrosis">
+<Focus>primary myelofibrosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001815</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>agnogenic myeloid metaplasia</Synonym>
+		<Synonym>chronic idiopathic myelofibrosis</Synonym>
+		<Synonym>idiopathic myelofibrosis</Synonym>
+		<Synonym>myelofibrosis with myeloid metaplasia</Synonym>
+		<Synonym>myeloid metaplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000823-1" qtype="information">What is (are) primary myelofibrosis ?</Question>
+			<Answer>Primary myelofibrosis is a condition characterized by the buildup of scar tissue (fibrosis) in the bone marrow, the tissue that produces blood cells. Because of the fibrosis, the bone marrow is unable to make enough normal blood cells. The shortage of blood cells causes many of the signs and symptoms of primary myelofibrosis.  Initially, most people with primary myelofibrosis have no signs or symptoms. Eventually, fibrosis can lead to a reduction in the number of red blood cells, white blood cells, and platelets. A shortage of red blood cells (anemia) often causes extreme tiredness (fatigue) or shortness of breath. A loss of white blood cells can lead to an increased number of infections, and a reduction of platelets can cause easy bleeding or bruising.  Because blood cell formation (hematopoiesis) in the bone marrow is disrupted, other organs such as the spleen or liver may begin to produce blood cells. This process, called extramedullary hematopoiesis, often leads to an enlarged spleen (splenomegaly) or an enlarged liver (hepatomegaly). People with splenomegaly may feel pain or fullness in the abdomen, especially below the ribs on the left side. Other common signs and symptoms of primary myelofibrosis include fever, night sweats, and bone pain.  Primary myelofibrosis is most commonly diagnosed in people aged 50 to 80 but can occur at any age.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000823-2" qtype="frequency">How many people are affected by primary myelofibrosis ?</Question>
+			<Answer>Primary myelofibrosis is a rare condition that affects approximately 1 in 500,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000823-3" qtype="genetic changes">What are the genetic changes related to primary myelofibrosis ?</Question>
+			<Answer>Mutations in the JAK2, MPL, CALR, and TET2 genes are associated with most cases of primary myelofibrosis. The JAK2 and MPL genes provide instructions for making proteins that promote the growth and division (proliferation) of blood cells. The CALR gene provides instructions for making a protein with multiple functions, including ensuring the proper folding of newly formed proteins and maintaining the correct levels of stored calcium in cells. The TET2 gene provides instructions for making a protein whose function is unknown.  The proteins produced from the JAK2 and MPL genes are both part of a signaling pathway called the JAK/STAT pathway, which transmits chemical signals from outside the cell to the cell&apos;s nucleus. The protein produced from the MPL gene, called thrombopoietin receptor, turns on (activates) the pathway, and the JAK2 protein transmits signals after activation. Through the JAK/STAT pathway, these two proteins promote the proliferation of blood cells, particularly a type of blood cell known as a megakaryocyte.  Mutations in either the JAK2 gene or the MPL gene that are associated with primary myelofibrosis lead to overactivation of the JAK/STAT pathway. The abnormal activation of JAK/STAT signaling leads to overproduction of abnormal megakaryocytes, and these megakaryocytes stimulate another type of cell to release collagen. Collagen is a protein that normally provides structural support for the cells in the bone marrow. However, in primary myelofibrosis, the excess collagen forms scar tissue in the bone marrow.  Although mutations in the CALR gene and the TET2 gene are relatively common in primary myelofibrosis, it is unclear how these mutations are involved in the development of the condition.  Some people with primary myelofibrosis do not have a mutation in any of the known genes associated with this condition. Researchers are working to identify other genes that may be involved in the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000823-4" qtype="inheritance">Is primary myelofibrosis inherited ?</Question>
+			<Answer>This condition is generally not inherited but arises from gene mutations that occur in early blood-forming cells after conception. These alterations are called somatic mutations.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000823-5" qtype="treatment">What are the treatments for primary myelofibrosis ?</Question>
+			<Answer>These resources address the diagnosis or management of primary myelofibrosis:  - Genetic Testing Registry: Myelofibrosis  - Merck Manual Professional Version: Primary Myelofibrosis  - Myeloproliferative Neoplasm (MPN) Research Foundation: Primary Myelofibrosis (PMF)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

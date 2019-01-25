@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000112" source="NINDS" url="http://www.ninds.nih.gov/disorders/dystonias/dystonias.htm">
+<Focus>Dystonias</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013421</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000112-1" qtype="information">What is (are) Dystonias ?</Question>
+			<Answer>The dystonias are movement disorders in which sustained muscle contractions cause twisting and repetitive movements or abnormal postures. The movements, which are involuntary and sometimes painful, may affect a single muscle; a group of muscles such as those in the arms, legs, or neck; or the entire body. Early symptoms may include deterioration in handwriting, foot cramps, or a dragging foot after running or walking some distance. Other possible symptoms are tremor and voice or speech difficulties. About half the cases of dystonia have no connection to disease or injury and are called primary or idiopathic dystonia. Of the primary dystonias, many cases appear to be inherited. Dystonias can also be symptoms of other diseases, some of which may be hereditary. Dystonia can occur at any age, but is often described as either early, or childhood, onset versus adult onset.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000112-2" qtype="treatment">What are the treatments for Dystonias ?</Question>
+			<Answer>No one treatment has been found to be universally effective. Instead, doctors use a variety of therapies (medications, surgery, and other treatments such as physical therapy, splinting, stress management, and biofeedback) aimed at reducing or eliminating muscle spasms and pain. Since response to drugs varies among individuals and even in the same person over time, the most effective therapy is often individualized.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000112-3" qtype="outlook">What is the outlook for Dystonias ?</Question>
+			<Answer>The initial symptoms can be very mild and may be noticeable only after prolonged exertion, stress, or fatigue. Dystonias often progress through various stages. Initially, dystonic movements are intermittent and appear only during voluntary movements or stress. Later, individuals may show dystonic postures and movements while walking and ultimately even while they are relaxed. Dystonic motions may lead to permanent physical deformities by causing tendons to shorten.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000112-4" qtype="research">what research (or clinical trials) is being done for Dystonias ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to dystonia in its laboratories at the National Institutes of Health (NIH) and also supports additional dystonia research through grants to major research institutions across the country. Scientists at other NIH Institutes (National institute on Deafness and Other Communications Disorders, National Eye Institute, and Eunice Kennnedy Shriver National Institute on Child Health and Human Development) also support research that may benefit individuals with dystonia. Investigators believe that the dystonias result from an abnormality in an area of the brain called the basal ganglia, where some of the messages that initiate muscle contractions are processed. Scientists at the NINDS laboratories have conducted detailed investigations of the pattern of muscle activity in persons with dystonias. Studies using EEG analysis and neuroimaging are probing brain activity. The search for the gene or genes responsible for some forms of dominantly inherited dystonias continues.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

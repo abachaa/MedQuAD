@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000456" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/hemorrhagicfevers.html">
+<Focus>Hemorrhagic Fevers</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019104</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>VHFs</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000456-1" qtype="information">What is (are) Hemorrhagic Fevers ?</Question>
+			<Answer>Viral hemorrhagic fevers (VHFs) are a group of illnesses caused by four families of viruses. These include the Ebola and Marburg, Lassa fever, and yellow fever viruses. VHFs have common features: they affect many organs, they damage the blood vessels, and they affect the body&apos;s ability to regulate itself. Some VHFs cause mild disease, but some, like Ebola or Marburg, cause severe disease and death.    VHFs are found around the world. Specific diseases are usually limited to areas where the animals that carry them live. For example, Lassa fever is limited to rural areas of West Africa where rats and mice carry the virus.    The risk for travelers is low, but you should avoid visiting areas where there are disease outbreaks. Because there are no effective treatments for some of these viral infections, there is concern about their use in bioterrorism.    Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000254" source="CDC" url="http://www.cdc.gov/vhf/kyasanur/">
+<Focus>Kyasanur Forest Disease (KFD)</Focus>
+<UMLS>
+<CUI></CUI>
+<SemanticType></SemanticType>
+<SemanticGroup></SemanticGroup>
+</UMLS>
+<QAPairs>
+<QAPair pid="1">
+<Question qid="0000254-1" qtype="susceptibility">Who is at risk for Kyasanur Forest Disease (KFD)? ?</Question>
+<Answer>Transmission to humans may occur after a tick bite or contact with an infected animal, most importantly a sick or recently dead monkey. No person-to-person transmission has been described. 
+ 
+Large animals such as goats, cows, and sheep may become infected with KFD but play a limited role in the transmission of the disease. These animals provide the blood meals for ticks and it is possible for infected animals with viremia to infect other ticks, but transmission of KFDV to humans from these larger animals is extremely rare. Furthermore, there is no evidence of disease transmission via the unpasteurized milk of any of these animals.</Answer>
+</QAPair>
+<QAPair pid="2">
+<Question qid="0000254-2" qtype="symptoms">What are the symptoms of Kyasanur Forest Disease (KFD) ?</Question>
+<Answer>After an incubation period of 3-8 days, the symptoms of KFD begin suddenly with chills, fever, and headache. Severe muscle pain with vomiting, gastrointestinal symptoms and bleeding problems may occur 3-4 days after initial symptom onset. Patients may experience abnormally low blood pressure, and low platelet, red blood cell, and white blood cell counts. 
+                
+After 1-2 weeks of symptoms, some patients recover without complication. However, the illness is biphasic for a subset of patients (10-20%) who experience a second wave of symptoms at the beginning of the third week. These symptoms include fever and signs of neurological manifestations, such as severe headache, mental disturbances, tremors, and vision deficits. 
+                
+The estimated case-fatality rate is from 3 to 5% for KFD.</Answer>
+</QAPair>
+<QAPair pid="3">
+<Question qid="0000254-3" qtype="susceptibility">Who is at risk for Kyasanur Forest Disease (KFD)? ?</Question>
+<Answer>KFD has historically been limited to the western and central districts of Karnataka State, India. However, in November 2012, samples from humans and monkeys tested positive for KFDV in the southernmost district of the State which neighbors Tamil Nadu State and Kerala State, indicating the possibility of wider distribution of KFDV. Additionally, a virus very similar to KFD virus (Alkhurma hemorrhagic fever virus) has been described in Saudi Arabia. 
+                
+People with recreational or occupational exposure to rural or outdoor settings (e.g., hunters, herders, forest workers, farmers) within Karnataka State are potentially at risk for infection by contact with infected ticks. Seasonality is another important risk factor as more cases are reported during the dry season, from November through June.</Answer>
+</QAPair>
+<QAPair pid="4">
+<Question qid="0000254-4" qtype="exams and tests">How to diagnose Kyasanur Forest Disease (KFD) ?</Question>
+<Answer>Diagnosis can be made in the early stage of illness by molecular detection by PCR or virus isolation from blood. Later, serologic testing using enzyme-linked immunosorbent serologic assay (ELISA) can be performed.</Answer>
+</QAPair>
+<QAPair pid="5">
+<Question qid="0000254-5" qtype="treatment">What are the treatments for Kyasanur Forest Disease (KFD) ?</Question>
+<Answer>There is no specific treatment for KFD, but early hospitalization and supportive therapy is important. Supportive therapy includes the maintenance of hydration and the usual precautions for patients with bleeding disorders.</Answer>
+</QAPair>
+<QAPair pid="6">
+<Question qid="0000254-6" qtype="prevention">How to prevent Kyasanur Forest Disease (KFD) ?</Question>
+<Answer>A vaccine does exist for KFD and is used in endemic areas of India. Additional preventative measures include insect repellents and wearing protective clothing in areas where ticks are endemic.</Answer>
+</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000129" source="NINDS" url="http://www.ninds.nih.gov/disorders/fibromuscular_dysplasia/fibromuscular_dysplasia.htm">
+<Focus>Fibromuscular Dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016052</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000129-1" qtype="information">What is (are) Fibromuscular Dysplasia ?</Question>
+			<Answer>Fibromuscular dysplasia (FMD) is the abnormal development or growth of cells in the walls of arteries that can cause the vessels to narrow or bulge. The carotid arteries, which pass through the neck and supply blood to the brain, are commonly affected. Arteries within the brain and kidneys can also be affected. A characteristic string of beads pattern caused by the alternating narrowing and enlarging of the artery can block or reduce blood flow to the brain, causing a stroke or mini-stroke. Some patients experience no symptoms of the disease while others may have high blood pressure, dizziness or vertigo, chronic headache, intracranial aneurysm, ringing in the ears, weakness or numbness in the face, neck pain, or changes in vision. FMD is most often seen in persons age 25 to 50 years and affects women more often than men. More than one family member may be affected by the disease. The cause of FMD is unknown. An angiogram can detect the degree of narrowing or obstruction of the artery and identify changes such as a tear (dissection) or weak area (aneurysm) in the vessel wall. FMD can also be diagnosed using computed tomography, magnetic resonance imaging, or ultrasound.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000129-2" qtype="treatment">What are the treatments for Fibromuscular Dysplasia ?</Question>
+			<Answer>There is no standard protocol to treat FMD. Any treatment to improve blood flow is based on the arteries affected and the progression and severity of the disease. The carotid arteries should be tested if FMD is found elsewhere in the body since carotid involvement is linked to an increased risk of stroke. Patients with minimal narrowing may take a daily antiplatelet such as an aspirin or an anticoagulant to thin the blood and reduce the chances that a clot might form. Medications such as aspirin can also be taken for headache and neck pain, symptoms that can come from FMD. Patients with arterial disease who smoke should be encouraged to quit as smoking worsens the disease. Further treatment may include angioplasty, in which a small balloon is inserted through a catheter and inflated to open the artery. Small tubes called stents may be inserted to keep arteries open. Surgery may be needed to treat aneurysms that have the potential to rupture and cause bleeding within the brain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000129-3" qtype="outlook">What is the outlook for Fibromuscular Dysplasia ?</Question>
+			<Answer>Currently there is no cure for FMD. Medicines and angioplasty can reduce the risk of initial or recurrent stroke. In rare cases, FMD-related aneurysms can burst and bleed into the brain, causing stroke, permanent nerve damage, or death.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000129-4" qtype="research">what research (or clinical trials) is being done for Fibromuscular Dysplasia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), a component of the National Institutes of Health (NIH) within the U.S. Department of Health and Human Services, is the nations primary funding source for research on the brain and nervous system. The NINDS conducts research on stroke and vascular lesions of the nervous system and supports studies through grants to medical institutions across the country.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

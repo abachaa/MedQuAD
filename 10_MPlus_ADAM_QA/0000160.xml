@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000160" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000487.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Allergies, asthma, and dust</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020517</CUI>
+			<CUI>C0563970</CUI>
+			<CUI>C0004096</CUI>
+			<CUI>C0489531</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Allergic rhinitis - dust</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000160-1" qtype="information">What is (are) Allergies, asthma, and dust ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

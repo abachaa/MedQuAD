@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005967" source="GARD" url="https://rarediseases.info.nih.gov/gard/5088/syndactyly-type-3">
+<Focus>Syndactyly type 3</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2117411</CUI>
+			<CUI>C0039075</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SDTY3</Synonym>
+		<Synonym>Syndactyly of the ring and little finger</Synonym>
+		<Synonym>Syndactyly of fingers four and five</Synonym>
+		<Synonym>Ring and little finger syndactyly</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005967-1" qtype="information">What is (are) Syndactyly type 3 ?</Question>
+			<Answer>Syndactyly type 3 (SD3) is a limb abnormality present at birth that is characterized by complete fusion of the 4th and 5th fingers on both hands. In most cases only the soft tissue is fused, but in some cases the bones of the fingers (distal phalanges) are fused. There is evidence that SD3 is caused by mutations in the GJA1 gene, which has also been implicated in a condition called oculodentodigital dysplasia. SD3 is the characteristic digital abnormality in this condition. SD3 is inherited in an autosomal dominant manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005967-2" qtype="symptoms">What are the symptoms of Syndactyly type 3 ?</Question>
+			<Answer>What are the signs and symptoms of Syndactyly type 3? The Human Phenotype Ontology provides the following list of signs and symptoms for Syndactyly type 3. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Camptodactyly of finger 50% Short toe 7.5% 4-5 finger syndactyly - Absent middle phalanx of 5th finger - Autosomal dominant inheritance - Short 5th finger - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005967-3" qtype="inheritance">Is Syndactyly type 3 inherited ?</Question>
+			<Answer>How is syndactyly type 3 inherited? Syndactyly type 3 has been shown to be inherited in an autosomal dominant manner. This means that having only one mutated copy of the causative gene is sufficient to cause the condition. When an individual with an autosomal dominant condition has children, each child has a 50% (1 in 2) chance of inheriting the mutated gene and a 50% chance of inheriting the normal gene and being unaffected.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

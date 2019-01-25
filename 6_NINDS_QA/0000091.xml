@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000091" source="NINDS" url="http://www.ninds.nih.gov/disorders/cushings/cushings.htm">
+<Focus>Cushing's Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010481</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000091-1" qtype="information">What is (are) Cushing's Syndrome ?</Question>
+			<Answer>Cushing&apos;s syndrome, also called hypercortisolism, is a rare endocrine disorder caused by chronic exposure of the body&apos;s tissues to excess levels of cortisol - a hormone naturally produced by the adrenal gland. Exposure to too much cortisol can occur from long-term use of synthetic glucocorticoid hormones to treat inflammatory illnesses. Pituitary adenomas (benign tumors of the pituitary gland) that secrete increased amounts of ACTH (adrenocorticotropic hormone, a substance that controls the release of cortisol) can also spur overproduction of cortisol. Tumors of the adrenal gland and ectopic ACTH syndrome (a condition in which ACTH is produced by various types of potentially malignant tumors that occur in different parts of the body) can cause similar problems with cortisol balance. Common symptoms of Cushing&apos;s syndrome include upper body obesity, severe fatigue and muscle weakness, high blood pressure, backache, elevated blood sugar, easy bruising, and bluish-red stretch marks on the skin. In women, there may be increased growth of facial and body hair, and menstrual periods may become irregular or stop completely. Neurological symptoms include difficulties with memory and neuromuscular disorders.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000091-2" qtype="treatment">What are the treatments for Cushing's Syndrome ?</Question>
+			<Answer>Treatment of Cushing&apos;s syndrome depends on the cause of excess cortisol. If the cause is long-term use of a medication being used to treat another disorder, the physician may reduce the dosage until symptoms are under control. Surgery or radiotherapy may be used to treat pituitary adenomas. Surgery, radiotherapy, chemotherapy, immunotherapy, or a combination of these may be used to treat ectopic ACTH syndrome. The aim of surgical treatment is to cure hypercortisolism by removing the tumor while minimizing the chance of endocrine deficiency or long-term dependence on medications. The U.S. Food and Drug Administration has approved pasireotide diasparate, taken by injection, for individuals who cannot be helped through surgery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000091-3" qtype="outlook">What is the outlook for Cushing's Syndrome ?</Question>
+			<Answer>The prognosis for those with Cushing&apos;s syndrome varies depending on the cause of the disease. Most cases of Cushing&apos;s syndrome can be cured. Many individuals with Cushing&apos;s syndrome show significant improvement with treatment, although some may find recovery complicated by various aspects of the causative illness. Some kinds of tumors may recur.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000091-4" qtype="research">what research (or clinical trials) is being done for Cushing's Syndrome ?</Question>
+			<Answer>NINDS supports research on Cushing&apos;s syndrome aimed at finding new ways to diagnose, treat, and cure the disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

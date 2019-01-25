@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002766" source="GARD" url="https://rarediseases.info.nih.gov/gard/10746/hemochromatosis">
+<Focus>Hemochromatosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018995</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hemochromatosis type 1</Synonym>
+		<Synonym>Hemochromatosis type 2</Synonym>
+		<Synonym>Hemochromatosis type 3</Synonym>
+		<Synonym>Hemochromatosis type 4</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002766-1" qtype="information">What is (are) Hemochromatosis ?</Question>
+			<Answer>Hemochromatosis is a condition in which too much iron builds up in the body (iron overload). Accumulation of iron in the organs is toxic and can result in organ failure. While many organs can be affected, it may especially affect the liver, heart, and pancreas. Symptoms of hemochromatosis tend to develop gradually and often don&apos;t appear until middle age or later. The condition may not be diagnosed until iron accumulation is excessive. Early symptoms may be vague, such as fatigue or weakness. Other symptoms or features may include joint pain, abdominal pain, loss of sex drive, arthritis, liver disease, diabetes, heart problems, and skin discoloration. Hemochromatosis may be hereditary or acquired (secondary) due to another condition such as anemia, chronic liver disease, or an infection. There is also a neonatal form. Hereditary hemochromatosis is classified by type based on age of onset, genetic cause and mode of inheritance: Hemochromotosis type 1 Hemochromatosis type 2 Hemochromatosis type 3 Hemochromatosis type 4 Treatment usually involves removing blood (phlebotomy), which prevents additional organ damage but does not reverse existing damage.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002766-2" qtype="symptoms">What are the symptoms of Hemochromatosis ?</Question>
+			<Answer>What are the signs and symptoms of Hemochromatosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Hemochromatosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal glucose tolerance - Alopecia - Amenorrhea - Arrhythmia - Arthropathy - Ascites - Autosomal recessive inheritance - Azoospermia - Cardiomegaly - Cardiomyopathy - Cirrhosis - Congestive heart failure - Diabetes mellitus - Elevated hepatic transaminases - Hepatocellular carcinoma - Hepatomegaly - Hyperpigmentation of the skin - Hypogonadotrophic hypogonadism - Impotence - Increased serum ferritin - Increased serum iron - Osteoporosis - Pleural effusion - Splenomegaly - Telangiectasia - Testicular atrophy - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002766-3" qtype="causes">What causes Hemochromatosis ?</Question>
+			<Answer>What causes hemochromatosis? The underlying cause of hemochromatosis depends on whether a person has a hereditary form, an acquired form, or the neonatal form. Hereditary hemochromatosis is caused by mutations in any of several genes: type 1 hemochromatosis - the HFE gene type 2 hemochromatosis - either the HFE2 or HAMP gene type 3 hemochromatosis - the TFR2 gene type 4 hemochromatosis - the SLC40A1 gene These genes give the body instructions to make proteins that help regulate how iron is absorbed, transported, and stored. Mutations in these genes impair how iron is absorbed during digestion and alter the distribution of iron throughout the body. This causes iron to accumulate in tissues and organs. Acquired hemochromatosis (or secondary hemochromatosis) is usually due to other blood-related disorders, such as thalassemia or certain anemias, or having many blood transfusions. Sometimes it occurs as a result of long-term alcoholism or other health conditions. The cause of neonatal hemochromatosis is not fully understood. However, a woman with an affected child has approximately an 80% chance to have another affected child. This likelihood of recurrence is not explained by normal inheritance patterns. Therefore, this form appears to be familial, but not inherited.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002766-4" qtype="inheritance">Is Hemochromatosis inherited ?</Question>
+			<Answer>Is hemochromatosis inherited? Hereditary hemochromatosis is inherited in an autosomal recessive or autosomal dominant manner, depending on the type a person has. Types 1, 2, and 3 are inherited in an autosomal recessive manner. This means that to be affected, a person must have a mutation in both copies of the responsible gene in each cell. Affected people inherit one mutated copy of the gene from each parent, who is referred to as a carrier. Carriers of an autosomal recessive condition typically do not have any signs or symptoms (they are unaffected). When 2 carriers of an autosomal recessive condition have children, each child has a 25% (1 in 4) chance to be affected, a 50% (1 in 2) chance to be an unaffected carrier like each parent, and a 25% chance to be unaffected and not be a carrier. Type 4 is inherited in an autosomal dominant manner. This means having only one mutated copy of the responsible gene in each cell is enough to cause the condition. When a person with an autosomal dominant condition has children, each child has a 50% chance to inherit the mutated copy of the gene. In most cases, a person with type 4 hemochromatosis has one affected parent. Acquired hemochromatosis is not inherited. Neonatal hemochromatosis is also not inherited, but it does appear to be familial. A woman with an affected child has approximately an 80% chance to have another affected child. However, this likelihood of recurrence is not explained by normal inheritance patterns. The underlying cause of this type is not fully understood.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

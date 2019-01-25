@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000056" source="NINDS" url="http://www.ninds.nih.gov/disorders/cadasil/CADASIL.htm">
+<Focus>CADASIL</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751587</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000056-1" qtype="information">What is (are) CADASIL ?</Question>
+			<Answer>CADASIL (Cerebral Autosomal Dominant Arteriopathy with Sub-cortical Infarcts and Leukoencephalopathy) is an inherited form of cerebrovascular disease that occurs when the thickening of blood vessel walls blocks the flow of blood to the brain. The disease primarily affects small blood vessels in the white matter of the brain. A mutation in the Notch3 gene alters the muscular walls in these small arteries. CADASIL is characterized by migraine headaches and multiple strokes progressing to dementia. Other symptoms include cognitive deterioration, seizures, vision problems, and psychiatric problems such as severe depression and changes in behavior and personality. Individuals may also be at higher risk of heart attack. Symptoms and disease onset vary widely, with signs typically appearing in the mid-30s. Some individuals may not show signs of the disease until later in life. CADASIL  formerly known by several names, including hereditary multi-infarct dementia  is one cause of vascular cognitive impairment (dementia caused by lack of blood to several areas of the brain). It is an autosomal dominant inheritance disorder, meaning that one parent carries and passes on the defective gene. Most individuals with CADASIL have a family history of the disorder. However, because the genetic test for CADASIL was not available before 2000, many cases were misdiagnosed as multiple sclerosis, Alzheimer&apos;s disease, or other neurodegenerative diseases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000056-2" qtype="treatment">What are the treatments for CADASIL ?</Question>
+			<Answer>There is no treatment to halt this genetic disorder. Individuals are given supportive care. Migraine headaches may be treated by different drugs and a daily aspirin may reduce stroke and heart attack risk. Drug therapy for depression may be given. Affected individuals who smoke should quit as it can increase the risk of stroke in CADASIL. Other stroke risk factors such as hypertension, hyperlipidemia, diabetes, blood clotting disorders and obstructive sleep apnea also should be aggressively treated..</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000056-3" qtype="outlook">What is the outlook for CADASIL ?</Question>
+			<Answer>Symptoms usually progress slowly. By age 65, the majority of persons with CADASIL have cognitive problems and dementia. Some will become dependent due to multiple strokes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000056-4" qtype="research">what research (or clinical trials) is being done for CADASIL ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts stroke research and clinical trials at its laboratories and clinics at the National Institutes of Health (NIH) and through grants to major medical institutions across the country. Scientists are currently studying different drugs to reduce cognitive problems seen in patients with CADASIL. Researchers are also looking at ways to overcome an over-reaction to hormones that lead to high blood pressure and poor blood supply in patients with CADASIL.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

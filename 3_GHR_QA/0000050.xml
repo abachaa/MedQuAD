@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000050" source="GHR" url="https://ghr.nlm.nih.gov/condition/aminoacylase-1-deficiency">
+<Focus>aminoacylase 1 deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1835922</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACY1D</Synonym>
+		<Synonym>deficiency of the aminoacylase-1 enzyme</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000050-1" qtype="information">What is (are) aminoacylase 1 deficiency ?</Question>
+			<Answer>Aminoacylase 1 deficiency is an inherited disorder that can cause neurological problems; the pattern and severity of signs and symptoms vary widely among affected individuals. Individuals with this condition typically have delayed development of mental and motor skills (psychomotor delay). They can have movement problems, reduced muscle tone (hypotonia), mild intellectual disability, and seizures. However, some people with aminoacylase 1 deficiency have no health problems related to the condition. A key feature common to all people with aminoacylase 1 deficiency is high levels of modified protein building blocks (amino acids), called N-acetylated amino acids, in the urine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000050-2" qtype="frequency">How many people are affected by aminoacylase 1 deficiency ?</Question>
+			<Answer>The prevalence of aminoacylase 1 deficiency is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000050-3" qtype="genetic changes">What are the genetic changes related to aminoacylase 1 deficiency ?</Question>
+			<Answer>Aminoacylase 1 deficiency is caused by mutations in the ACY1 gene. This gene provides instructions for making an enzyme called aminoacylase 1, which is involved in the breakdown of proteins when they are no longer needed. Many proteins in the body have an acetyl group attached to one end. This modification, called N-acetylation, helps protect and stabilize the protein. Aminoacylase 1 performs the final step in the breakdown of these proteins by removing the acetyl group from certain amino acids. The amino acids can then be recycled and used to build other proteins.  Mutations in the ACY1 gene lead to an aminoacylase 1 enzyme with little or no function. Without this enzyme&apos;s function, acetyl groups are not efficiently removed from a subset of amino acids during the breakdown of proteins. The excess N-acetylated amino acids are released from the body in urine. It is not known how a reduction of aminoacylase 1 function leads to neurological problems in people with aminoacylase 1 deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000050-4" qtype="inheritance">Is aminoacylase 1 deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000050-5" qtype="treatment">What are the treatments for aminoacylase 1 deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of aminoacylase 1 deficiency:  - Genetic Testing Registry: Aminoacylase 1 deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

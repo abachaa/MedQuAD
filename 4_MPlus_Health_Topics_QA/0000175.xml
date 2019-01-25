@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000175" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/childabuse.html">
+<Focus>Child Abuse</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0562389</CUI>
+			<CUI>C0008060</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000175-1" qtype="information">What is (are) Child Abuse ?</Question>
+			<Answer>Child abuse is doing something or failing to do something that results in harm to a child or puts a child at risk of harm. Child abuse can be physical, sexual or emotional. Neglect, or not providing for a child&apos;s needs, is also a form of abuse.     Most abused children suffer greater emotional than physical damage. An abused child may become depressed. He or she may withdraw, think of suicide or become violent. An older child may use drugs or alcohol, try to run away or abuse others.     Child abuse is a serious problem. If you suspect a child is being abused or neglected, call the police or your local child welfare agency.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000866" source="GHR" url="https://ghr.nlm.nih.gov/condition/renal-tubular-acidosis-with-deafness">
+<Focus>renal tubular acidosis with deafness</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001122</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AR dRTA with deafness</Synonym>
+		<Synonym>AR dRTA with hearing loss</Synonym>
+		<Synonym>autosomal recessive distal renal tubular acidosis with deafness</Synonym>
+		<Synonym>renal tubular acidosis type 1b</Synonym>
+		<Synonym>renal tubular acidosis with progressive nerve deafness</Synonym>
+		<Synonym>renal tubular acidosis, autosomal recessive, with progressive nerve deafness</Synonym>
+		<Synonym>renal tubular acidosis, distal, with progressive nerve deafness</Synonym>
+		<Synonym>RTA with progressive nerve deafness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000866-1" qtype="information">What is (are) renal tubular acidosis with deafness ?</Question>
+			<Answer>Renal tubular acidosis with deafness is a disorder characterized by kidney (renal) problems and hearing loss. The kidneys normally filter fluid and waste products from the body and remove them in urine; however, in people with this disorder, the kidneys do not remove enough acidic compounds from the body. Instead, the acids are absorbed back into the bloodstream, and the blood becomes too acidic. This chemical imbalance, called metabolic acidosis, can result in a range of signs and symptoms that vary in severity. Metabolic acidosis often causes nausea, vomiting, and dehydration; affected infants tend to have problems feeding and gaining weight (failure to thrive). Most children and adults with renal tubular acidosis with deafness have short stature, and many develop kidney stones.  The metabolic acidosis that occurs in renal tubular acidosis with deafness may also lead to softening and weakening of the bones, called rickets in children and osteomalacia in adults. This bone disorder is characterized by bone pain, bowed legs, and difficulty walking. Rarely, people with renal tubular acidosis with deafness have episodes of hypokalemic paralysis, a condition that causes extreme muscle weakness associated with low levels of potassium in the blood (hypokalemia).  In people with renal tubular acidosis with deafness, hearing loss caused by changes in the inner ear (sensorineural hearing loss) usually begins between childhood and young adulthood, and gradually gets worse. An inner ear abnormality affecting both ears occurs in most people with this disorder. This feature, which is called enlarged vestibular aqueduct, can be seen with medical imaging. The vestibular aqueduct is a bony canal that runs from the inner ear into the temporal bone of the skull and toward the brain. The relationship between enlarged vestibular aqueduct and hearing loss is unclear. In renal tubular acidosis with deafness, enlarged vestibular aqueduct typically occurs in individuals whose hearing loss begins in childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000866-2" qtype="frequency">How many people are affected by renal tubular acidosis with deafness ?</Question>
+			<Answer>Renal tubular acidosis with deafness is a rare disorder; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000866-3" qtype="genetic changes">What are the genetic changes related to renal tubular acidosis with deafness ?</Question>
+			<Answer>Renal tubular acidosis with deafness is caused by mutations in the ATP6V1B1 or ATP6V0A4 gene. These genes provide instructions for making proteins that are parts (subunits) of a large protein complex known as vacuolar H+-ATPase (V-ATPase). V-ATPases are a group of similar complexes that act as pumps to move positively charged hydrogen atoms (protons) across membranes. Because acids are substances that can &quot;donate&quot; protons to other molecules, this movement of protons helps regulate the relative acidity (pH) of cells and their surrounding environment. Tight control of pH is necessary for most biological reactions to proceed properly.  The V-ATPase that includes subunits produced from the ATP6V1B1 and ATP6V0A4 genes is found in the inner ear and in nephrons, which are the functional structures within the kidneys. Each nephron consists of two parts: a renal corpuscle (also known as a glomerulus) that filters the blood, and a renal tubule that reabsorbs substances that are needed and eliminates unneeded substances in urine. The V-ATPase is involved in regulating the amount of acid that is removed from the blood into the urine, and also in maintaining the proper pH of the fluid in the inner ear (endolymph).  Mutations in the ATP6V1B1 or ATP6V0A4 gene impair the function of the V-ATPase complex and reduce the body&apos;s capability to control the pH of the blood and the fluid in the inner ear, resulting in the signs and symptoms of renal tubular acidosis with deafness.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000866-4" qtype="inheritance">Is renal tubular acidosis with deafness inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000866-5" qtype="treatment">What are the treatments for renal tubular acidosis with deafness ?</Question>
+			<Answer>These resources address the diagnosis or management of renal tubular acidosis with deafness:  - Genetic Testing Registry: Renal tubular acidosis with progressive nerve deafness  - MedlinePlus Encyclopedia: Audiometry  - MedlinePlus Encyclopedia: Kidney Function Tests   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

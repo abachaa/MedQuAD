@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000021" source="GHR" url="https://ghr.nlm.nih.gov/condition/adermatoglyphia">
+<Focus>adermatoglyphia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1852150</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>absence of fingerprints</Synonym>
+		<Synonym>ADERM</Synonym>
+		<Synonym>ADG</Synonym>
+		<Synonym>immigration delay disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000021-1" qtype="information">What is (are) adermatoglyphia ?</Question>
+			<Answer>Adermatoglyphia is the absence of ridges on the skin on the pads of the fingers and toes, as well as on the palms of the hands and soles of the feet. The patterns of these ridges (called dermatoglyphs) form whorls, arches, and loops that are the basis for each person&apos;s unique fingerprints. Because no two people have the same patterns, fingerprints have long been used as a way to identify individuals. However, people with adermatoglyphia do not have these ridges, and so they cannot be identified by their fingerprints. Adermatoglyphia has been called the &quot;immigration delay disease&quot; because affected individuals have had difficulty entering countries that require fingerprinting for identification.  In some families, adermatoglyphia occurs without any related signs and symptoms. In others, a lack of dermatoglyphs is associated with other features, typically affecting the skin. These can include small white bumps called milia on the face, blistering of the skin in areas exposed to heat or friction, and a reduced number of sweat glands on the hands and feet. Adermatoglyphia is also a feature of several rare syndromes classified as ectodermal dysplasias, including a condition called Naegeli-Franceschetti-Jadassohn syndrome/dermatopathia pigmentosa reticularis that affects the skin, hair, sweat glands, and teeth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000021-2" qtype="frequency">How many people are affected by adermatoglyphia ?</Question>
+			<Answer>Adermatoglyphia appears to be a rare condition. Only a few affected families have been identified worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000021-3" qtype="genetic changes">What are the genetic changes related to adermatoglyphia ?</Question>
+			<Answer>Adermatoglyphia is caused by mutations in the SMARCAD1 gene. This gene provides information for making two versions of the SMARCAD1 protein: a full-length version that is active (expressed) in multiple tissues and a shorter version that is expressed only in the skin. Studies suggest that the full-length SMARCAD1 protein regulates the activity of a wide variety of genes involved in maintaining the stability of cells&apos; genetic information. Little is known about the function of the skin-specific version of the SMARCAD1 protein, but it appears to play a critical role in dermatoglyph formation. Dermatoglyphs develop before birth and remain the same throughout life. The activity of this protein is likely one of several factors that determine each person&apos;s unique fingerprint pattern.  The SMARCAD1 gene mutations that cause adermatoglyphia affect only the skin-specific version of the SMARCAD1 protein. These mutations reduce the total amount of this protein available in skin cells. Although it is unclear how these genetic changes cause adermatoglyphia, researchers speculate that a shortage of the skin-specific version of the SMARCAD1 protein impairs signaling pathways needed for normal skin development and function, including the formation of dermatoglyphs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000021-4" qtype="inheritance">Is adermatoglyphia inherited ?</Question>
+			<Answer>Adermatoglyphia is inherited in an autosomal dominant pattern, which means one copy of the altered SMARCAD1 gene in each cell is sufficient to cause the condition. In many cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000021-5" qtype="treatment">What are the treatments for adermatoglyphia ?</Question>
+			<Answer>These resources address the diagnosis or management of adermatoglyphia:  - Genetic Testing Registry: Adermatoglyphia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

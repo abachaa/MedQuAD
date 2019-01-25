@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000030" source="GHR" url="https://ghr.nlm.nih.gov/condition/alagille-syndrome">
+<Focus>Alagille syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085280</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alagille-Watson Syndrome</Synonym>
+		<Synonym>Alagille's syndrome</Synonym>
+		<Synonym>arteriohepatic dysplasia (AHD)</Synonym>
+		<Synonym>cardiovertebral syndrome</Synonym>
+		<Synonym>cholestasis with peripheral pulmonary stenosis</Synonym>
+		<Synonym>hepatic ductular hypoplasia</Synonym>
+		<Synonym>hepatofacioneurocardiovertebral syndrome</Synonym>
+		<Synonym>paucity of interlobular bile ducts</Synonym>
+		<Synonym>Watson-Miller syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000030-1" qtype="information">What is (are) Alagille syndrome ?</Question>
+			<Answer>Alagille syndrome is a genetic disorder that can affect the liver, heart, and other parts of the body.  One of the major features of Alagille syndrome is liver damage caused by abnormalities in the bile ducts. These ducts carry bile (which helps to digest fats) from the liver to the gallbladder and small intestine. In Alagille syndrome, the bile ducts may be narrow, malformed, and reduced in number (bile duct paucity). As a result, bile builds up in the liver and causes scarring that prevents the liver from working properly to eliminate wastes from the bloodstream. Signs and symptoms arising from liver damage in Alagille syndrome may include a yellowish tinge in the skin and the whites of the eyes (jaundice), itchy skin, and deposits of cholesterol in the skin (xanthomas).  Alagille syndrome is also associated with several heart problems, including impaired blood flow from the heart into the lungs (pulmonic stenosis). Pulmonic stenosis may occur along with a hole between the two lower chambers of the heart (ventricular septal defect) and other heart abnormalities. This combination of heart defects is called tetralogy of Fallot.  People with Alagille syndrome may have distinctive facial features including a broad, prominent forehead; deep-set eyes; and a small, pointed chin. The disorder may also affect the blood vessels within the brain and spinal cord (central nervous system) and the kidneys. Affected individuals may have an unusual butterfly shape of the bones of the spinal column (vertebrae) that can be seen in an x-ray.  Problems associated with Alagille syndrome generally become evident in infancy or early childhood. The severity of the disorder varies among affected individuals, even within the same family. Symptoms range from so mild as to go unnoticed to severe heart and/or liver disease requiring transplantation.  Some people with Alagille syndrome may have isolated signs of the disorder, such as a heart defect like tetralogy of Fallot, or a characteristic facial appearance. These individuals do not have liver disease or other features typical of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000030-2" qtype="frequency">How many people are affected by Alagille syndrome ?</Question>
+			<Answer>The estimated prevalence of Alagille syndrome is 1 in 70,000 newborns. This figure is based on diagnoses of liver disease in infants, and may be an underestimation because some people with Alagille syndrome do not develop liver disease during infancy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000030-3" qtype="genetic changes">What are the genetic changes related to Alagille syndrome ?</Question>
+			<Answer>In more than 90 percent of cases, mutations in the JAG1 gene cause Alagille syndrome. Another 7 percent of individuals with Alagille syndrome have small deletions of genetic material on chromosome 20 that include the JAG1 gene. A few people with Alagille syndrome have mutations in a different gene, called NOTCH2. The JAG1 and NOTCH2 genes provide instructions for making proteins that fit together to trigger interactions called Notch signaling between neighboring cells during embryonic development. This signaling influences how the cells are used to build body structures in the developing embryo. Changes in either the JAG1 gene or NOTCH2 gene probably disrupt the Notch signaling pathway. As a result, errors may occur during development, especially affecting the bile ducts, heart, spinal column, and certain facial features.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000030-4" qtype="inheritance">Is Alagille syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered or deleted gene in each cell is sufficient to cause the disorder.  In approximately 30 to 50 percent of cases, an affected person inherits the mutation or deletion from one affected parent. Other cases result from new mutations in the gene or new deletions of genetic material on chromosome 20 that occur as random events during the formation of reproductive cells (eggs or sperm) or in early fetal development. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000030-5" qtype="treatment">What are the treatments for Alagille syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Alagille syndrome:  - Boston Children&apos;s Hospital  - Children&apos;s Hospital of Philadelphia  - Children&apos;s Hospital of Pittsburgh  - Gene Review: Gene Review: Alagille Syndrome  - Genetic Testing Registry: Alagille syndrome 1  - Genetic Testing Registry: Arteriohepatic dysplasia  - MedlinePlus Encyclopedia: Tetralogy of Fallot   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

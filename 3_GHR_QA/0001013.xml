@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001013" source="GHR" url="https://ghr.nlm.nih.gov/condition/van-der-woude-syndrome">
+<Focus>van der Woude syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1511780</CUI>
+			<CUI>C0175697</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T049</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cleft lip and/or palate with mucous cysts of lower lip</Synonym>
+		<Synonym>lip-pit syndrome</Synonym>
+		<Synonym>VDWS</Synonym>
+		<Synonym>VWS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001013-1" qtype="information">What is (are) van der Woude syndrome ?</Question>
+			<Answer>Van der Woude syndrome is a condition that affects the development of the face. Many people with this disorder are born with a cleft lip, a cleft palate (an opening in the roof of the mouth), or both. Affected individuals usually have depressions (pits) near the center of the lower lip, which may appear moist due to the presence of salivary and mucous glands in the pits. Small mounds of tissue on the lower lip may also occur. In some cases, people with van der Woude syndrome have missing teeth.  People with van der Woude syndrome who have cleft lip and/or palate, like other individuals with these facial conditions, have an increased risk of delayed language development, learning disabilities, or other mild cognitive problems. The average IQ of individuals with van der Woude syndrome is not significantly different from that of the general population.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001013-2" qtype="frequency">How many people are affected by van der Woude syndrome ?</Question>
+			<Answer>Van der Woude syndrome is believed to occur in 1 in 35,000 to 1 in 100,000 people, based on data from Europe and Asia. Van der Woude syndrome is the most common cause of cleft lip and palate resulting from variations in a single gene, and this condition accounts for approximately 1 in 50 such cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001013-3" qtype="genetic changes">What are the genetic changes related to van der Woude syndrome ?</Question>
+			<Answer>Mutations in the IRF6 gene cause van der Woude syndrome. The IRF6 gene provides instructions for making a protein that plays an important role in early development. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes.  The IRF6 protein is active in cells that give rise to tissues in the head and face. It is also involved in the development of other parts of the body, including the skin and genitals.  Mutations in the IRF6 gene that cause van der Woude syndrome prevent one copy of the gene in each cell from making any functional protein. A shortage of the IRF6 protein affects the development and maturation of tissues in the face, resulting in the signs and symptoms of van der Woude syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001013-4" qtype="inheritance">Is van der Woude syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition. Occasionally, an individual who has a copy of the altered gene does not show any signs or symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001013-5" qtype="treatment">What are the treatments for van der Woude syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of van der Woude syndrome:  - Gene Review: Gene Review: IRF6-Related Disorders  - Genetic Testing Registry: Van der Woude syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

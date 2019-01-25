@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000484" source="GARD" url="https://rarediseases.info.nih.gov/gard/5855/asperger-syndrome">
+<Focus>Asperger syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0236792</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Asperger disorder</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000484-1" qtype="information">What is (are) Asperger syndrome ?</Question>
+			<Answer>Asperger syndrome (AS) is an autism spectrum disorder, a type of neurological condition characterized by impaired language and communication skills, and repetitive or restrictive thought and behavior patterns. Unlike many people with autism, those with AS retain their early language skills. Features of AS include an obsessive interest in a particular object or topic; high vocabulary; formal speech patterns; repetitive routines or habits; inappropriate social and emotional behavior; impaired non-verbal communication; and uncoordinated motor skills. AS is likely caused by a combination of genetic and environmental influences. While autism spectrum disorders including AS sometimes run in families, no specific inheritance pattern has been recognized.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000484-2" qtype="inheritance">Is Asperger syndrome inherited ?</Question>
+			<Answer>Is Asperger syndrome inherited? Autism spectrum disorders including Asperger syndrome sometimes &quot;run in families,&quot; but no specific inheritance pattern has been recognized. The condition is likely caused by a combination of genetic and environmental factors, which means that not all people with a genetic predisposition will be affected. A consultation with a genetics professional is recommended for those with specific questions about genetic risks to themselves or family members.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

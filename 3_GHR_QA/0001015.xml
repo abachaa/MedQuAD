@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001015" source="GHR" url="https://ghr.nlm.nih.gov/condition/vitamin-d-dependent-rickets">
+<Focus>vitamin D-dependent rickets</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221468</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>VDDR</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001015-1" qtype="information">What is (are) vitamin D-dependent rickets ?</Question>
+			<Answer>Vitamin D-dependent rickets is a disorder of bone development that leads to softening and weakening of the bones (rickets). The condition is split into two major types: type 1 (VDDR1), which is also known as pseudovitamin D deficiency rickets or vitamin D 1-hydroxylase deficiency, and type 2 (VDDR2), also known as hereditary vitamin D-resistant rickets (HVDRR).  The signs and symptoms of this condition begin within months of birth, and most are the same for VDDR1 and VDDR2. The weak bones often cause bone pain and delayed growth and have a tendency to fracture. When affected children begin to walk, they may develop bowed legs because the bones are too weak to bear weight. Impaired bone development also results in widening of the areas near the ends of bones where new bone forms (metaphyses), especially in the knees, wrists, and ribs. Some people with vitamin D-dependent rickets have dental abnormalities such as thin tooth enamel and frequent cavities. Poor muscle tone (hypotonia) and muscle weakness are also common in this condition, and some affected individuals develop seizures.  In vitamin D-dependent rickets, there is an imbalance of certain substances in the blood. Both VDDR1 and VDDR2 are characterized by low levels of the minerals calcium (hypocalcemia) and phosphate (hypophosphatemia), which are essential for the normal formation of bones and teeth. Affected individuals also have high levels of a hormone involved in regulating calcium levels called parathyroid hormone (PTH), which leads to a condition called secondary hyperparathyroidism. The two forms of vitamin D-dependent rickets can be distinguished by blood levels of a hormone called calcitriol, which is the active form of vitamin D; individuals with VDDR1 have abnormally low levels of calcitriol and individuals with VDDR2 have abnormally high levels.  Hair loss (alopecia) can occur in VDDR2, although not everyone with this form of the condition has alopecia. Affected individuals can have sparse or patchy hair or no hair at all on their heads. Some affected individuals are missing body hair as well.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001015-2" qtype="frequency">How many people are affected by vitamin D-dependent rickets ?</Question>
+			<Answer>Rickets affects an estimated 1 in 200,000 children. The condition is most often caused by a lack of vitamin D in the diet or insufficient sun exposure rather than genetic mutations; genetic forms of rickets, including VDDR1 and VDDR2, are much less common. The prevalence of VDDR1 and VDDR2 is unknown. VDDR1 is more common in the French Canadian population than in other populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001015-3" qtype="genetic changes">What are the genetic changes related to vitamin D-dependent rickets ?</Question>
+			<Answer>The two types of vitamin D-dependent rickets have different genetic causes: CYP27B1 gene mutations cause VDDR1, and VDR gene mutations cause VDDR2. Both genes are involved in the body&apos;s response to vitamin D, an important vitamin that can be can be acquired from foods in the diet or made by the body with the help of sunlight. Vitamin D helps maintain the proper balance of several minerals in the body, including calcium and phosphate. One of vitamin D&apos;s major roles is to control the absorption of calcium and phosphate from the intestines into the bloodstream.  The CYP27B1 gene provides instructions for making an enzyme called 1-alpha-hydroxylase (1-hydroxylase). This enzyme carries out the final reaction to convert vitamin D to its active form, calcitriol. Once converted, calcitriol attaches (binds) to a protein called vitamin D receptor (VDR), which is produced from the VDR gene. The resulting calcitriol-VDR complex then binds to particular regions of DNA and regulates the activity of vitamin D-responsive genes. By turning these genes on or off, VDR helps control the absorption of calcium and phosphate and other processes that regulate calcium levels in the body. VDR is also involved in hair growth through a process that does not require calcitriol binding.  Mutations in either of these genes prevent the body from responding to vitamin D. CYP27B1 gene mutations reduce or eliminate 1-hydroxylase activity, which means vitamin D is not converted to its active form. The absence of calcitriol means vitamin D-responsive genes are not turned on (activated). VDR gene mutations alter the vitamin D receptor so that it cannot regulate gene activity, regardless of the presence of calcitriol in the body; often the altered receptor cannot interact with calcitriol or with DNA.  Without activation of vitamin D-responsive genes, absorption of calcium and phosphate falls, leading to hypocalcemia and hypophosphatemia. The lack of calcium and phosphate slows the deposition of these minerals in developing bones (bone mineralization), which leads to soft, weak bones and other features of vitamin D-dependent rickets. Low levels of calcium stimulate production of PTH, resulting in secondary hyperparathyroidism; hypocalcemia can also cause muscle weakness and seizures in individuals with vitamin D-dependent rickets. Certain abnormalities in the VDR protein also impair hair growth, causing alopecia in some people with VDDR2.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001015-4" qtype="inheritance">Is vitamin D-dependent rickets inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001015-5" qtype="treatment">What are the treatments for vitamin D-dependent rickets ?</Question>
+			<Answer>These resources address the diagnosis or management of vitamin D-dependent rickets:  - Genetic Testing Registry: Vitamin D-dependent rickets, type 1  - Genetic Testing Registry: Vitamin D-dependent rickets, type 2  - Genetic Testing Registry: Vitamin d-dependent rickets, type 2b, with normal vitamin d receptor   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

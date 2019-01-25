@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000871" source="GHR" url="https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa">
+<Focus>retinitis pigmentosa</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035334</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>pigmentary retinopathy</Synonym>
+		<Synonym>rod-cone dystrophy</Synonym>
+		<Synonym>RP</Synonym>
+		<Synonym>tapetoretinal degeneration</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000871-1" qtype="information">What is (are) retinitis pigmentosa ?</Question>
+			<Answer>Retinitis pigmentosa is a group of related eye disorders that cause progressive vision loss. These disorders affect the retina, which is the layer of light-sensitive tissue at the back of the eye. In people with retinitis pigmentosa, vision loss occurs as the light-sensing cells of the retina gradually deteriorate.  The first sign of retinitis pigmentosa is usually a loss of night vision, which becomes apparent in childhood. Problems with night vision can make it difficult to navigate in low light. Later, the disease causes blind spots to develop in the side (peripheral) vision. Over time, these blind spots merge to produce tunnel vision. The disease progresses over years or decades to affect central vision, which is needed for detailed tasks such as reading, driving, and recognizing faces. In adulthood, many people with retinitis pigmentosa become legally blind.  The signs and symptoms of retinitis pigmentosa are most often limited to vision loss. When the disorder occurs by itself, it is described as nonsyndromic. Researchers have identified several major types of nonsyndromic retinitis pigmentosa, which are usually distinguished by their pattern of inheritance: autosomal dominant, autosomal recessive, or X-linked.  Less commonly, retinitis pigmentosa occurs as part of syndromes that affect other organs and tissues in the body. These forms of the disease are described as syndromic. The most common form of syndromic retinitis pigmentosa is Usher syndrome, which is characterized by the combination of vision loss and hearing loss beginning early in life. Retinitis pigmentosa is also a feature of several other genetic syndromes, including Bardet-Biedl syndrome; Refsum disease; and neuropathy, ataxia, and retinitis pigmentosa (NARP).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000871-2" qtype="frequency">How many people are affected by retinitis pigmentosa ?</Question>
+			<Answer>Retinitis pigmentosa is one of the most common inherited diseases of the retina (retinopathies). It is estimated to affect 1 in 3,500 to 1 in 4,000 people in the United States and Europe.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000871-3" qtype="genetic changes">What are the genetic changes related to retinitis pigmentosa ?</Question>
+			<Answer>Mutations in more than 60 genes are known to cause nonsyndromic retinitis pigmentosa. More than 20 of these genes are associated with the autosomal dominant form of the disorder. Mutations in the RHO gene are the most common cause of autosomal dominant retinitis pigmentosa, accounting for 20 to 30 percent of all cases. At least 35 genes have been associated with the autosomal recessive form of the disorder. The most common of these is USH2A; mutations in this gene are responsible for 10 to 15 percent of all cases of autosomal recessive retinitis pigmentosa. Changes in at least six genes are thought to cause the X-linked form of the disorder. Together, mutations in the RPGR and RP2 genes account for most cases of X-linked retinitis pigmentosa.  The genes associated with retinitis pigmentosa play essential roles in the structure and function of specialized light receptor cells (photoreceptors) in the retina. The retina contains two types of photoreceptors, rods and cones. Rods are responsible for vision in low light, while cones provide vision in bright light, including color vision.  Mutations in any of the genes responsible for retinitis pigmentosa lead to a gradual loss of rods and cones in the retina. The progressive degeneration of these cells causes the characteristic pattern of vision loss that occurs in people with retinitis pigmentosa. Rods typically break down before cones, which is why night vision impairment is usually the first sign of the disorder. Daytime vision is disrupted later, as both rods and cones are lost.  Some of the genes associated with retinitis pigmentosa are also associated with other eye diseases, including a condition called cone-rod dystrophy. Cone-rod dystrophy has signs and symptoms similar to those of retinitis pigmentosa. However, cone-rod dystrophy is characterized by deterioration of the cones first, followed by the rods, so daylight and color vision are affected before night vision.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000871-4" qtype="inheritance">Is retinitis pigmentosa inherited ?</Question>
+			<Answer>Retinitis pigmentosa often has an autosomal dominant inheritance pattern, which means one copy of an altered gene in each cell is sufficient to cause the disorder. Most people with autosomal dominant retinitis pigmentosa have an affected parent and other family members with the disorder.  Retinitis pigmentosa can also have an autosomal recessive pattern of inheritance, which means both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  This condition can also be inherited in an X-linked pattern. The genes associated with X-linked retinitis pigmentosa are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females, (who have two X chromosomes), mutations usually have to occur in both copes of the gene to cause the disorder. However, at least 20 percent of females who carry only one mutated copy of the gene develop retinal degeneration and associated vision loss. In most cases, males experience more severe symptoms of the disorder than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In 10 to 40 percent of all cases of retinitis pigmentosa, only one person in a family is affected. In these families, the disorder is described as simplex. It can be difficult to determine the inheritance pattern of simplex cases because affected individuals may have no affected relatives or may be unaware of other family members with the disease. Simplex cases can also result from a new gene mutation that is not present in other family members.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000871-5" qtype="treatment">What are the treatments for retinitis pigmentosa ?</Question>
+			<Answer>These resources address the diagnosis or management of retinitis pigmentosa:  - American Foundation for the Blind: Living with Vision Loss  - Foundation Fighting Blindness: Treatment of Retinitis Pigmentosa  - Gene Review: Gene Review: Retinitis Pigmentosa Overview  - Genetic Testing Registry: Retinitis pigmentosa  - RP Fighting Blindness: Treatment of Retinitis Pigmentosa   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

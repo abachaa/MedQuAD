@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000590" source="GHR" url="https://ghr.nlm.nih.gov/condition/legius-syndrome">
+<Focus>Legius syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1969623</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>neurofibromatosis type 1-like syndrome</Synonym>
+		<Synonym>NFLS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000590-1" qtype="information">What is (are) Legius syndrome ?</Question>
+			<Answer>Legius syndrome is a condition characterized by changes in skin coloring (pigmentation). Almost all affected individuals have multiple caf-au-lait spots, which are flat patches on the skin that are darker than the surrounding area. Another pigmentation change, freckles in the armpits and groin, may occur in some affected individuals.  Other signs and symptoms of Legius syndrome may include an abnormally large head (macrocephaly) and unusual facial characteristics. Although most people with Legius syndrome have normal intelligence, some affected individuals have been diagnosed with learning disabilities, attention deficit disorder (ADD), or attention deficit hyperactivity disorder (ADHD).  Many of the signs and symptoms of Legius syndrome also occur in a similar disorder called neurofibromatosis type 1. It can be difficult to tell the two disorders apart in early childhood. However, the features of the two disorders differ later in life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000590-2" qtype="frequency">How many people are affected by Legius syndrome ?</Question>
+			<Answer>The prevalence of Legius syndrome is unknown. Many individuals with this disorder are likely misdiagnosed because the signs and symptoms of Legius syndrome are similar to those of neurofibromatosis type 1.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000590-3" qtype="genetic changes">What are the genetic changes related to Legius syndrome ?</Question>
+			<Answer>Mutations in the SPRED1 gene cause Legius syndrome. The SPRED1 gene provides instructions for making the Spred-1 protein. This protein controls (regulates) an important cell signaling pathway that is involved in the growth and division of cells (proliferation), the process by which cells mature to carry out specific functions (differentiation), cell movement, and the self-destruction of cells (apoptosis). Mutations in the SPRED1 gene lead to a nonfunctional protein that can no longer regulate the pathway, resulting in overactive signaling. It is unclear how mutations in the SPRED1 gene cause the signs and symptoms of Legius syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000590-4" qtype="inheritance">Is Legius syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000590-5" qtype="treatment">What are the treatments for Legius syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Legius syndrome:  - Children&apos;s Tumor Foundation: NF1 or Legius Syndrome--An Emerging Challenge of Clinical Diagnosis  - Gene Review: Gene Review: Legius Syndrome  - Genetic Testing Registry: Legius syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

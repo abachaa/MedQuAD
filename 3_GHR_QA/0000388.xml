@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000388" source="GHR" url="https://ghr.nlm.nih.gov/condition/friedreich-ataxia">
+<Focus>Friedreich ataxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016719</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FA</Synonym>
+		<Synonym>FRDA</Synonym>
+		<Synonym>Friedreich spinocerebellar ataxia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000388-1" qtype="information">What is (are) Friedreich ataxia ?</Question>
+			<Answer>Friedreich ataxia is a genetic condition that affects the nervous system and causes movement problems. People with this condition develop impaired muscle coordination (ataxia) that worsens over time. Other features of this condition include the gradual loss of strength and sensation in the arms and legs, muscle stiffness (spasticity), and impaired speech. Individuals with Friedreich ataxia often have a form of heart disease called hypertrophic cardiomyopathy that enlarges and weakens the heart muscle. Some affected individuals develop diabetes, impaired vision, hearing loss, or an abnormal curvature of the spine (scoliosis).  Most people with Friedreich ataxia begin to experience the signs and symptoms of the disorder around puberty. Poor balance when walking and slurred speech are often the first noticeable features. Affected individuals typically require the use of a wheelchair about 10 years after signs and symptoms appear.  About 25 percent of people with Friedreich ataxia have an atypical form that begins after age 25. Affected individuals who develop Friedreich ataxia between ages 26 and 39 are considered to have late-onset Friedreich ataxia (LOFA). When the signs and symptoms begin after age 40 the condition is called very late-onset Friedreich ataxia (VLOFA). LOFA and VLOFA usually progress more slowly than typical Friedreich ataxia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000388-2" qtype="frequency">How many people are affected by Friedreich ataxia ?</Question>
+			<Answer>Friedreich ataxia is estimated to affect 1 in 40,000 people. This condition is found in people with European, Middle Eastern, or North African ancestry. It is rarely identified in other ethnic groups.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000388-3" qtype="genetic changes">What are the genetic changes related to Friedreich ataxia ?</Question>
+			<Answer>Mutations in the FXN gene cause Friedreich ataxia. This gene provides instructions for making a protein called frataxin. Although its role is not fully understood, frataxin appears to be important for the normal function of mitochondria, the energy-producing centers within cells. One region of the FXN gene contains a segment of DNA known as a GAA trinucleotide repeat. This segment is made up of a series of three DNA building blocks (one guanine and two adenines) that appear multiple times in a row. Normally, this segment is repeated 5 to 33 times within the FXN gene.  In people with Friedreich ataxia, the GAA segment is repeated 66 to more than 1,000 times. The length of the GAA trinucleotide repeat appears to be related to the age at which the symptoms of Friedreich ataxia appear. People with GAA segments repeated fewer than 300 times tend to have a later appearance of symptoms (after age 25) than those with larger GAA trinucleotide repeats. The abnormally long GAA trinucleotide repeat disrupts the production of frataxin, which severely reduces the amount of this protein in cells. Certain nerve and muscle cells cannot function properly with a shortage of frataxin, leading to the characteristic signs and symptoms of Friedreich ataxia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000388-4" qtype="inheritance">Is Friedreich ataxia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000388-5" qtype="treatment">What are the treatments for Friedreich ataxia ?</Question>
+			<Answer>These resources address the diagnosis or management of Friedreich ataxia:  - Friedreich&apos;s Ataxia Research Alliance: Clinical Care Guidelines  - Gene Review: Gene Review: Friedreich Ataxia  - Genetic Testing Registry: Friedreich ataxia 1  - MedlinePlus Encyclopedia: Friedreich&apos;s Ataxia  - MedlinePlus Encyclopedia: Hypertrophic Cardiomyopathy  - National Institute of Neurological Disorders and Stroke: Friedreich&apos;s Ataxia Fact Sheet   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000073" source="GHR" url="https://ghr.nlm.nih.gov/condition/arts-syndrome">
+<Focus>Arts syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0796028</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ataxia-deafness-optic atrophy, lethal</Synonym>
+		<Synonym>ataxia, fatal X-linked, with deafness and loss of vision</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000073-1" qtype="information">What is (are) Arts syndrome ?</Question>
+			<Answer>Arts syndrome is a disorder that causes serious neurological problems in males. Females can also be affected by this condition, but they typically have much milder symptoms.  Boys with Arts syndrome have profound sensorineural hearing loss, which is a complete or almost complete loss of hearing caused by abnormalities in the inner ear. Other features of the disorder include weak muscle tone (hypotonia), impaired muscle coordination (ataxia), developmental delay, and intellectual disability. In early childhood, affected boys develop vision loss caused by degeneration of nerves that carry information from the eyes to the brain (optic nerve atrophy). They also experience loss of sensation and weakness in the limbs (peripheral neuropathy).  Boys with Arts syndrome also usually have recurrent infections, especially involving the respiratory system. Because of these infections and their complications, affected boys often do not survive past early childhood.  In females with Arts syndrome, hearing loss that begins in adulthood may be the only symptom.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000073-2" qtype="frequency">How many people are affected by Arts syndrome ?</Question>
+			<Answer>Arts syndrome appears to be extremely rare. Only a few families with this disorder have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000073-3" qtype="genetic changes">What are the genetic changes related to Arts syndrome ?</Question>
+			<Answer>Mutations in the PRPS1 gene cause Arts syndrome. The PRPS1 gene provides instructions for making an enzyme called phosphoribosyl pyrophosphate synthetase 1, or PRPP synthetase 1. This enzyme is involved in producing purines and pyrimidines, which are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell.  The PRPS1 gene mutations that cause Arts syndrome replace single protein building blocks (amino acids) in the PRPP synthetase 1 enzyme. The resulting enzyme is probably unstable, reducing or eliminating its ability to perform its function. The disruption of purine and pyrimidine production may impair energy storage and transport in cells. Impairment of these processes may have a particularly severe effect on tissues that require a large amount of energy, such as the nervous system, resulting in the neurological problems characteristic of Arts syndrome. The reason for the increased risk of respiratory infections in Arts syndrome is unclear.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000073-4" qtype="inheritance">Is Arts syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell sometimes causes features of the disorder; in other cases, these females do not experience any symptoms.  In the small number of Arts syndrome cases that have been identified, affected individuals have inherited the mutation from a mother who carries an altered copy of the PRPS1 gene.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000073-5" qtype="treatment">What are the treatments for Arts syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Arts syndrome:  - Gene Review: Gene Review: Arts Syndrome  - Genetic Testing Registry: Arts syndrome  - MedlinePlus Encyclopedia: Hearing Loss  - MedlinePlus Encyclopedia: Movement, Uncoordinated  - MedlinePlus Encyclopedia: Optic Nerve Atrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002573" source="GARD" url="https://rarediseases.info.nih.gov/gard/2491/glioblastoma">
+<Focus>Glioblastoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017636</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Glioblastoma multiforme</Synonym>
+		<Synonym>Gliosarcoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002573-1" qtype="information">What is (are) Glioblastoma ?</Question>
+			<Answer>Glioblastoma is a malignant (cancerous) brain tumor that develops from a specific type of brain cell called an astrocyte. These cells help support and nourish neurons (nerve cells of the brain) and form scar tissue that helps repair brain damage in response to injury. Glioblastomas are often very aggressive and grow into surrounding brain tissue. Signs and symptoms, such as headache, nausea, vomiting and/or drowsiness, may develop when the tumor begins to put excess pressure on the brain. Affected people may also experience other features depending on the size and location of the tumor. In most cases, the exact underlying cause is unknown; however, they can rarely occur in people with certain genetic syndromes such as neurofibromatosis type 1, Turcot syndrome and Li Fraumeni syndrome. There is currently no cure for glioblastoma. Treatment is palliative and may include surgery, radiation therapy and/or chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002573-2" qtype="symptoms">What are the symptoms of Glioblastoma ?</Question>
+			<Answer>What are the signs and symptoms of glioblastoma? Signs and symptoms of glioblastoma vary depending on the size and location of the tumor but may include: Headache Nausea and vomiting Drowsiness Changes in personality Weakness on one side of the body Memory loss Speech difficulty Changes in vision Seizures</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002573-3" qtype="causes">What causes Glioblastoma ?</Question>
+			<Answer>What causes glioblastoma? In most cases, the exact underlying cause of glioblastoma is unknown. In rare cases, they can occur in people with certain genetic syndromes such as neurofibromatosis type 1, Turcot syndrome and Li Fraumeni syndrome. In these cases, affected people usually have other characteristic features of the condition that are all caused by changes (mutations) in a specific gene.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002573-4" qtype="inheritance">Is Glioblastoma inherited ?</Question>
+			<Answer>Is glioblastoma inherited? Most glioblastomas are not inherited. They usually occur sporadically in people with no family history of tumors. However, they can rarely occur in people with certain genetic syndromes such as neurofibromatosis type 1, Turcot syndrome and Li Fraumeni syndrome. All of these conditions are inherited in an autosomal dominant manner.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002573-5" qtype="exams and tests">How to diagnose Glioblastoma ?</Question>
+			<Answer>Is genetic testing available for glioblastoma? Genetic testing is not available for many people with glioblastoma since most of these tumors occur sporadically (by chance) and are not caused by a genetic mutation. However, genetic testing is an option for people with an inherited condition that predisposes to glioblastoma such as neurofibromatosis type 1, Turcot syndrome and Li Fraumeni syndrome. Carrier testing for at-risk relatives and prenatal testing are possible if the disease-causing mutation in the family is known. The Genetic Testing Registry (GTR) is a centralized online resource for information about genetic tests. It provides a list of laboratories performing genetic testing for neurofibromatosis type 1, Turcot syndrome and Li Fraumeni syndrome. The intended audience for the GTR is health care providers and researchers. Patients and consumers with specific questions about a genetic test should contact a health care provider or a genetics professional. How is glioblastoma diagnosed? Glioblastoma is typically diagnosed based on a physical exam that identifies characteristic symptoms and various imaging studies such as computed tomography (CT) and/or magnetic resonance imaging (MRI). A CT scan is an imaging method that uses x-rays to create pictures of cross-sections of the body, while an MRI scan uses powerful magnets and radio waves to create pictures of the brain and surrounding nerve tissues. These imaging studies will also provide information regarding the size of the tumor and which parts of the brain are affected. Surgical removal of the tumor or a small biopsy may confirm the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002573-6" qtype="treatment">What are the treatments for Glioblastoma ?</Question>
+			<Answer>How might glioblastoma be treated? Unfortunately, there is no cure for glioblastoma. Treatment is palliative and may include surgery, radiation therapy and/or chemotherapy. The best treatment options for each person depend on many factors including the size and location of the tumor; the extent to which the tumor has grown into the surrounding normal brain tissues; and the affected person&apos;s age and overall health. Glioblastoma is often treated with surgery initially to remove as much of the tumor as possible. In most cases, it is not possible to remove the entire tumor so additional treatment with radiation therapy and/or chemotherapy is necessary. In elderly people or people in whom surgery is not an option, radiation therapy and/or chemotherapy may be used.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

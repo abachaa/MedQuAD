@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000150" source="GHR" url="https://ghr.nlm.nih.gov/condition/carbamoyl-phosphate-synthetase-i-deficiency">
+<Focus>carbamoyl phosphate synthetase I deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751753</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>carbamoyl-phosphate synthase I deficiency disease</Synonym>
+		<Synonym>carbamyl-phosphate synthetase I deficiency disease</Synonym>
+		<Synonym>congenital hyperammonemia, type I</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000150-1" qtype="information">What is (are) carbamoyl phosphate synthetase I deficiency ?</Question>
+			<Answer>Carbamoyl phosphate synthetase I deficiency is an inherited disorder that causes ammonia to accumulate in the blood (hyperammonemia). Ammonia, which is formed when proteins are broken down in the body, is toxic if the levels become too high. The brain is especially sensitive to the effects of excess ammonia.  In the first few days of life, infants with carbamoyl phosphate synthetase I deficiency typically exhibit the effects of hyperammonemia, which may include unusual sleepiness, poorly regulated breathing rate or body temperature, unwillingness to feed, vomiting after feeding, unusual body movements, seizures, or coma. Affected individuals who survive the newborn period may experience recurrence of these symptoms if diet is not carefully managed or if they experience infections or other stressors. They may also have delayed development and intellectual disability.  In some people with carbamoyl phosphate synthetase I deficiency, signs and symptoms may be less severe and appear later in life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000150-2" qtype="frequency">How many people are affected by carbamoyl phosphate synthetase I deficiency ?</Question>
+			<Answer>Carbamoyl phosphate synthetase I deficiency is a rare disorder; its overall incidence is unknown. Researchers in Japan have estimated that it occurs in 1 in 800,000 newborns in that country.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000150-3" qtype="genetic changes">What are the genetic changes related to carbamoyl phosphate synthetase I deficiency ?</Question>
+			<Answer>Mutations in the CPS1 gene cause carbamoyl phosphate synthetase I deficiency. The CPS1 gene provides instructions for making the enzyme carbamoyl phosphate synthetase I. This enzyme participates in the urea cycle, which is a sequence of biochemical reactions that occurs in liver cells. The urea cycle processes excess nitrogen, generated when protein is broken down by the body, to make a compound called urea that is excreted by the kidneys. The specific role of the carbamoyl phosphate synthetase I enzyme is to control the first step of the urea cycle, a reaction in which excess nitrogen compounds are incorporated into the cycle to be processed.  Carbamoyl phosphate synthetase I deficiency belongs to a class of genetic diseases called urea cycle disorders. In this condition, the carbamoyl phosphate synthetase I enzyme is at low levels (deficient) or absent, and the urea cycle cannot proceed normally. As a result, nitrogen accumulates in the bloodstream in the form of toxic ammonia instead of being converted to less toxic urea and excreted. Ammonia is especially damaging to the brain, and excess ammonia causes neurological problems and other signs and symptoms of carbamoyl phosphate synthetase I deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000150-4" qtype="inheritance">Is carbamoyl phosphate synthetase I deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000150-5" qtype="treatment">What are the treatments for carbamoyl phosphate synthetase I deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of carbamoyl phosphate synthetase I deficiency:  - Baby&apos;s First Test  - Gene Review: Gene Review: Urea Cycle Disorders Overview  - Genetic Testing Registry: Congenital hyperammonemia, type I  - MedlinePlus Encyclopedia: Hereditary Urea Cycle Abnormality   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

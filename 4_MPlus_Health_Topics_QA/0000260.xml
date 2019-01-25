@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000260" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/dementia.html">
+<Focus>Dementia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0497327</CUI>
+			<CUI>C0011265</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Senility</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000260-1" qtype="information">What is (are) Dementia ?</Question>
+			<Answer>Dementia is the name for a group of symptoms caused by disorders that affect the brain. It is not a specific disease. People with dementia may not be able to think well enough to do normal activities, such as getting dressed or eating. They may lose their ability to solve problems or control their emotions. Their personalities may change. They may become agitated or see things that are not there.     Memory loss is a common symptom of dementia. However, memory loss by itself does not mean you have dementia. People with dementia have serious problems with two or more brain functions, such as memory and language. Although dementia is common in very elderly people, it is not part of normal aging.    Many different diseases can cause dementia, including Alzheimer&apos;s disease and stroke. Drugs are available to treat some of these diseases. While these drugs cannot cure dementia or repair brain damage, they may improve symptoms or slow down the disease.    NIH: National Institute of Neurological Disorders and Stroke</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

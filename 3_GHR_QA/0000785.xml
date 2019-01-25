@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000785" source="GHR" url="https://ghr.nlm.nih.gov/condition/perrault-syndrome">
+<Focus>Perrault syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0685838</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>gonadal dysgenesis with auditory dysfunction, autosomal recessive inheritance</Synonym>
+		<Synonym>gonadal dysgenesis with sensorineural deafness, autosomal recessive inheritance</Synonym>
+		<Synonym>gonadal dysgenesis, XX type, with deafness</Synonym>
+		<Synonym>ovarian dysgenesis with sensorineural deafness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000785-1" qtype="information">What is (are) Perrault syndrome ?</Question>
+			<Answer>Perrault syndrome is a rare condition that causes different patterns of signs and symptoms in affected males and females. A key feature of this condition is hearing loss, which occurs in both males and females. Affected females also have abnormalities of the ovaries. Neurological problems occur in some affected males and females.  In Perrault syndrome, the problems with hearing are caused by changes in the inner ear, which is known as sensorineural hearing loss. The impairment usually affects both ears and can be present at birth or begin in early childhood. Unless hearing is completely impaired at birth, the hearing problems worsen over time.  Females with Perrault syndrome have abnormal or missing ovaries (ovarian dysgenesis), although their external genitalia are normal. Severely affected girls do not begin menstruation by age 16 (primary amenorrhea), and most never have a menstrual period. Less severely affected women have an early loss of ovarian function (primary ovarian insufficiency); their menstrual periods begin in adolescence, but they become less frequent and eventually stop before age 40. Women with Perrault syndrome may have difficulty conceiving or be unable to have biological children (infertile).  Neurological problems in individuals with Perrault syndrome can include intellectual disability, difficulty with balance and coordinating movements (ataxia), and loss of sensation and weakness in the limbs (peripheral neuropathy). However, not everyone with this condition has neurological problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000785-2" qtype="frequency">How many people are affected by Perrault syndrome ?</Question>
+			<Answer>Perrault syndrome is a rare disorder; fewer than 100 affected individuals have been described in the medical literature. It is likely that the condition is underdiagnosed, because males without an affected sister will likely be misdiagnosed as having isolated (nonsyndromic) hearing loss rather than Perrault syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000785-3" qtype="genetic changes">What are the genetic changes related to Perrault syndrome ?</Question>
+			<Answer>Perrault syndrome has several genetic causes. C10orf2, CLPP, HARS2, LARS2, or HSD17B4 gene mutations have been found in a small number of affected individuals. The proteins produced from several of these genes, including C10orf2, CLPP, HARS2, and LARS2, function in cell structures called mitochondria, which convert the energy from food into a form that cells can use. Although the effect of these gene mutations on mitochondrial function is unknown, researchers speculate that disruption of mitochondrial energy production could underlie the signs and symptoms of Perrault syndrome.  The protein produced from the HSD17B4 gene is active in cell structures called peroxisomes, which contain a variety of enzymes that break down many different substances in cells. It is not known how mutations in this gene affect peroxisome function or lead to hearing loss in affected males and females and ovarian abnormalities in females with Perrault syndrome.  It is likely that other genes that have not been identified are also involved in this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000785-4" qtype="inheritance">Is Perrault syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000785-5" qtype="treatment">What are the treatments for Perrault syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Perrault syndrome:  - Gene Review: Gene Review: Perrault Syndrome  - Genetic Testing Registry: Gonadal dysgenesis with auditory dysfunction, autosomal recessive inheritance  - Genetic Testing Registry: Perrault syndrome 2  - Genetic Testing Registry: Perrault syndrome 4  - Genetic Testing Registry: Perrault syndrome 5   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

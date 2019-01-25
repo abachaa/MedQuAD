@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004342" source="GARD" url="https://rarediseases.info.nih.gov/gard/7178/nephrogenic-diabetes-insipidus">
+<Focus>Nephrogenic diabetes insipidus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162283</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diabetes insipidus nephrogenic</Synonym>
+		<Synonym>Diabetes insipidus nephrogenic type 1</Synonym>
+		<Synonym>Vasopressin-resistant diabetes insipidus</Synonym>
+		<Synonym>ADH resistant diabetes insipidus</Synonym>
+		<Synonym>Diabetes insipidus nephrogenic X-linked</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004342-1" qtype="information">What is (are) Nephrogenic diabetes insipidus ?</Question>
+			<Answer>Nephrogenic diabetes insipidus is a disorder in which a defect in the small tubes (tubules) in the kidneys causes a person to pass a large amount of urine. Nephrogenic diabetes insipidus occurs when the kidney tubules, which allow water to be removed from the body or reabsorbed, do not respond to a chemical in the body called antidiuretic hormone (ADH) or vasopressin. ADH normally tells the kidneys to make the urine more concentrated. As a result of the defect, the kidneys release an excessive amount of water into the urine, producing a large quantity of very dilute urine. Nephrogenic diabetes insipidus can be either acquired or hereditary. The acquired form is brought on by certain drugs and chronic diseases and can occur at any time during life. The hereditary form is caused by genetic mutations, and its signs and symptoms usually become apparent within the first few months of life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004342-2" qtype="symptoms">What are the symptoms of Nephrogenic diabetes insipidus ?</Question>
+			<Answer>What are the signs and symptoms of Nephrogenic diabetes insipidus? The Human Phenotype Ontology provides the following list of signs and symptoms for Nephrogenic diabetes insipidus. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Constipation - Diabetes insipidus - Failure to thrive - Feeding difficulties in infancy - Hypernatremia - Hypertonic dehydration - Intellectual disability - Irritability - Megacystis - Neonatal onset - Polydipsia - Polyuria - Seizures - Short stature - Unexplained fevers - Vomiting - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004342-3" qtype="causes">What causes Nephrogenic diabetes insipidus ?</Question>
+			<Answer>What causes nephrogenic diabetes insipidus? Nephrogenic diabetes insipidus can be either acquired or hereditary. The acquired form can result from chronic kidney disease, certain medications (such as lithium), low levels of potassium in the blood (hypokalemia), high levels of calcium in the blood (hypercalcemia), or an obstruction of the urinary tract. Acquired nephrogenic diabetes insipidus can occur at any time during life. The hereditary form of nephrogenic diabetes insipidus is caused by genetic mutations, and its signs and symptoms usually become apparent within the first few months of life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004342-4" qtype="inheritance">Is Nephrogenic diabetes insipidus inherited ?</Question>
+			<Answer>How is nephrogenic diabetes insipidus inherited? When nephrogenic diabetes insipidus results from mutations in the AVPR2 gene, the condition has an X-linked recessive pattern of inheritance. The AVPR2 gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation usually has to occur in both copies of the gene to cause the disorder. However, some females who carry a single mutated copy of the AVPR2 gene have features of nephrogenic diabetes insipidus, including polyuria and polydipsia. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004342-5" qtype="exams and tests">How to diagnose Nephrogenic diabetes insipidus ?</Question>
+			<Answer>Is genetic testing available for nephrogenic diabetes insipidus? Yes. GeneTests lists laboratories offering clinical genetic testing for both X-linked and autosomal types of nephrogenic diabetes insipidus. Clinical genetic tests are ordered to help diagnose a person or family and to aid in decisions regarding medical care or reproductive issues. Talk to your health care provider or a genetic professional to learn more about your testing options.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0004342-6" qtype="treatment">What are the treatments for Nephrogenic diabetes insipidus ?</Question>
+			<Answer>How might nephrogenic diabetes insipidus be treated? Management is usually best accomplished by a team of physicians and other healthcare professionals. The team may include a nutritionist, a pediatric (or adult) nephrologist or endocrinologist, and a clinical geneticist. The basis of management involves free access to drinking water and toilet facilities. Polyuria and polydipsia can be reduced up to 50% without disrupting appropriate levels of sodium in the blood through the use of thiazide diuretics hydrochlorothiazide, chlorothiazide) and/or other diuretics (i.e., potassium-sparing diuretic amiloride), dietary restriction of sodium, and nonsteroidal anti-inflammatory drugs (NSAIDs) such as indomethacin, which can potentially improve the ability of the body to concentrate urine and reduce urine output.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002230" source="GARD" url="https://rarediseases.info.nih.gov/gard/9740/familial-atrial-fibrillation">
+<Focus>Familial atrial fibrillation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3468561</CUI>
+			<CUI>C0004238</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Atrial fibrillation autosomal dominant</Synonym>
+		<Synonym>Autosomal dominant atrial fibrillation</Synonym>
+		<Synonym>Atrial fibrillation, familial</Synonym>
+		<Synonym>ATFB</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002230-1" qtype="information">What is (are) Familial atrial fibrillation ?</Question>
+			<Answer>Familial atrial fibrillation is an inherited heart condition that disrupts the heart&apos;s rhythm. It is characterized by erratic electrical activity in the heart&apos;s upper chambers (the atria), causing an irregular response in the heart&apos;s lower chambers (the ventricles). This causes a fast and irregular heartbeat (arrhythmia). Signs and symptoms may include dizziness, chest pain, palpitations, shortness of breath, or fainting. Affected people also have an increased risk of stroke and sudden death. While complications may occur at any age, some affected people never have associated health problems. Familial atrial fibrillation may be caused by changes (mutations) in any of various genes, some of which have not been identified. It is most often inherited in an autosomal dominant manner, but autosomal recessive inheritance has been reported.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002230-2" qtype="symptoms">What are the symptoms of Familial atrial fibrillation ?</Question>
+			<Answer>What are the signs and symptoms of Familial atrial fibrillation? The Human Phenotype Ontology provides the following list of signs and symptoms for Familial atrial fibrillation. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Thromboembolic stroke 75% Autosomal dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002230-3" qtype="treatment">What are the treatments for Familial atrial fibrillation ?</Question>
+			<Answer>How might familial atrial fibrillation be treated? We are unaware of treatment recommendations specific to familial atrial fibrillation, but there is information available about treatment for atrial fibrillation in general. Treatment for atrial fibrillation depends on the frequency and severity of symptoms and may involve medications, medical procedures, and lifestyle changes. People who don&apos;t have symptoms or related heart problems may not need treatment. The main goals of treatment include: Preventing blot clots and lowering risk of stroke. This may involve blood-thinning medications such as warfarin, dabigatran, heparin, and aspirin. Controlling the rate of contractions of the ventricles (rate control). This may involve medications to restore the heart rate to a normal level, such as beta blockers, calcium channel blockers, and digitalis. Restoring a normal heart rhythm (rhythm control). This is typically for people who don&apos;t do well with rate control treatment, or for people who recently began having symptoms. Rhythm control may involve medications or procedures and is usually begun in a hospital for monitoring. Procedures may include cardioversion, catheter ablation, or maze surgery.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

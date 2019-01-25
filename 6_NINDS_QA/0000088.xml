@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000088" source="NINDS" url="http://www.ninds.nih.gov/disorders/craniosynostosis/craniosynostosis.htm">
+<Focus>Craniosynostosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010278</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000088-1" qtype="information">What is (are) Craniosynostosis ?</Question>
+			<Answer>Craniosynostosis is a birth defect of the skull characterized by the premature closure of one or more of the fibrous joints between the bones of the skull (called the cranial sutures) before brain growth is complete. Closure of a single suture is most common. Normally the skull expands uniformly to accommodate the growth of the brain; premature closure of a single suture restricts the growth in that part of the skull and promotes growth in other parts of the skull where sutures remain open. This results in a misshapen skull but does not prevent the brain from expanding to a normal volume. However, when many sutures close prematurely, the skull cannot expand to accommodate the growing brain, which leads to increased pressure within the skull and impaired development of the brain. Craniosynostosis can be gene-linked or caused by metabolic diseases (such as rickets )or an overactive thyroid. Some cases are associated with other disorders such as microcephaly (abnormally small head) and hydrocephalus (excessive accumulation of cerebrospinal fluid in the brain). The first sign of craniosynostosis is an abnormally shaped skull. Other features can include signs of increased intracranial pressure, developmental delays, or impaired cognitive development, which are caused by constriction of the growing brain. Seizures and blindness may also occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000088-2" qtype="treatment">What are the treatments for Craniosynostosis ?</Question>
+			<Answer>Treatment for craniosynostosis generally consists of surgery to improve the symmetry and appearance of the head and to relieve pressure on the brain and the cranial nerves. For some children with less severe problems, cranial molds can reshape the skull to accommodate brain growth and improve the appearance of the head.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000088-3" qtype="outlook">What is the outlook for Craniosynostosis ?</Question>
+			<Answer>The prognosis for craniosynostosis varies depending on whether single or multiple cranial sutures are involved or other abnormalities are present. The prognosis is better for those with single suture involvement and no associated abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000088-4" qtype="research">what research (or clinical trials) is being done for Craniosynostosis ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. The NINDS conducts and supports a wide range of studies that explore the complex mechanisms of brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how this process can change and offers hope for new ways to treat and prevent birth defects that can prevent normal brain development, such as craniosynostosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

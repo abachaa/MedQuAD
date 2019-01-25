@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000074" source="NINDS" url="http://www.ninds.nih.gov/disorders/charcot_marie_tooth/charcot_marie_tooth.htm">
+<Focus>Charcot-Marie-Tooth Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007959</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000074-1" qtype="information">What is (are) Charcot-Marie-Tooth Disease ?</Question>
+			<Answer>Charcot-Marie-Tooth disease (CMT) is one of the most common inherited neurological disorders, affecting approximately 1 in 2,500 people in theUnited States. CMT, also known as hereditary motor and sensory neuropathy (HMSN) or peroneal muscular atrophy, comprises a group of disorders caused by mutations in genes that affect the normal function of the peripheral nerves. The peripheral nerves lie outside the brain and spinal cord and supply the muscles and sensory organs in the limbs. A typical feature includes weakness of the foot and lower leg muscles, which may result in foot drop and a high-stepped gait with frequent tripping or falling. Foot deformities, such as high arches and hammertoes (a condition in which the middle joint of a toe bends upwards), are also characteristic due to weakness of the small muscles in the feet. In addition, the lower legs may take on an &quot;inverted champagne bottle&quot; appearance due to the loss of muscle bulk. Later in the disease, weakness and muscle atrophy may occur in the hands, resulting in difficulty with fine motor skills. Some individuals experience pain, which can range from mild to severe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000074-2" qtype="treatment">What are the treatments for Charcot-Marie-Tooth Disease ?</Question>
+			<Answer>There is no cure for CMT, but physical therapy, occupational therapy, braces and other orthopedic devices, and orthopedic surgery can help people cope with the disabling symptoms of the disease. In addition, pain-killing drugs can be prescribed for patients who have severe pain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000074-3" qtype="outlook">What is the outlook for Charcot-Marie-Tooth Disease ?</Question>
+			<Answer>Onset of symptoms of CMT is most often in adolescence or early adulthood, however presentation may be delayed until mid-adulthood. Progression of symptoms is very gradual. The degeneration of motor nerves results in muscle weakness and atrophy in the extremities (arms, legs, hands, or feet), and the degeneration of sensory nerves results in a reduced ability to feel heat, cold, and pain. There are many forms of CMT disease. The severity of symptoms may vary greatly among individuals and some people may never realize they have the disorder. CMT is not fatal and people with most forms of CMT have a normal life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000074-4" qtype="research">what research (or clinical trials) is being done for Charcot-Marie-Tooth Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts CMT research in its laboratories at the National Institutes of Health (NIH) and also supports CMT research through grants to major medical institutions across the country. Ongoing research includes efforts to identify more of the mutant genes and proteins that cause the various disease subtypes. This research includes studies in the laboratory to discover the mechanisms of nerve degeneration and muscle atrophy, and clinical studies to find therapies to slow down or even reverse nerve degeneration and muscle atrophy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

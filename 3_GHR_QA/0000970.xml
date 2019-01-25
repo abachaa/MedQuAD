@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000970" source="GHR" url="https://ghr.nlm.nih.gov/condition/tarsal-carpal-coalition-syndrome">
+<Focus>tarsal-carpal coalition syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1861305</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NOG-related-symphalangism spectrum disorder</Synonym>
+		<Synonym>TCC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000970-1" qtype="information">What is (are) tarsal-carpal coalition syndrome ?</Question>
+			<Answer>Tarsal-carpal coalition syndrome is a rare, inherited bone disorder that affects primarily the hands and feet. Several individual bones make up each wrist (carpal bones) and ankle (tarsal bones). In tarsal-carpal coalition syndrome, the carpal bones fuse together, as do the tarsal bones, which causes stiffness and immobility of the hands and feet. Symptoms of the condition can become apparent in infancy, and they worsen with age. The severity of the symptoms can vary, even among members of the same family.  In this condition, fusion at the joints between the bones that make up each finger and toe (symphalangism) can also occur. Consequently, the fingers and toes become stiff and difficult to bend. Stiffness of the pinky fingers and toes (fifth digits) is usually noticeable first. The joints at the base of the pinky fingers and toes fuse first, and slowly, the other joints along the length of these digits may also be affected. Progressively, the bones in the fourth, third, and second digits (the ring finger, middle finger, and forefinger, and the corresponding toes) become fused. The thumb and big toe are usually not involved. Affected individuals have increasing trouble forming a fist, and walking often becomes painful and difficult. Occasionally, there is also fusion of bones in the upper and lower arm at the elbow joint (humeroradial fusion). Less common features of tarsal-carpal coalition syndrome include short stature or the development of hearing loss.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000970-2" qtype="frequency">How many people are affected by tarsal-carpal coalition syndrome ?</Question>
+			<Answer>This condition is very rare; however, the exact prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000970-3" qtype="genetic changes">What are the genetic changes related to tarsal-carpal coalition syndrome ?</Question>
+			<Answer>Tarsal-carpal coalition syndrome is caused by mutations in the NOG gene, which provides instructions for making a protein called noggin. This protein plays an important role in proper bone and joint development by blocking (inhibiting) signals that stimulate bone formation. The noggin protein attaches (binds) to proteins called bone morphogenetic proteins (BMPs), which keeps the BMPs from triggering signals for the development of bone.  NOG gene mutations that cause tarsal-carpal coalition syndrome reduce the amount of functional noggin protein. With decreased noggin function, BMPs abnormally stimulate bone formation in joint areas, where there should be no bone, causing the bone fusions seen in people with tarsal-carpal coalition syndrome.  Mutations in the NOG gene are involved in several disorders with overlapping signs and symptoms. Because of a shared genetic cause and overlapping features, researchers have suggested that these conditions, including tarsal-carpal coalition syndrome, represent a spectrum of related conditions referred to as NOG-related-symphalangism spectrum disorder (NOG-SSD).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000970-4" qtype="inheritance">Is tarsal-carpal coalition syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000970-5" qtype="treatment">What are the treatments for tarsal-carpal coalition syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of tarsal-carpal coalition syndrome:  - Foot Health Facts: Tarsal Coalition  - Genetic Testing Registry: Tarsal carpal coalition syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

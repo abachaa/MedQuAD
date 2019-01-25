@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000198" source="NINDS" url="http://www.ninds.nih.gov/disorders/moyamoya/moyamoya.htm">
+<Focus>Moyamoya Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026654</CUI>
+			<CUI>C2931384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000198-1" qtype="information">What is (are) Moyamoya Disease ?</Question>
+			<Answer>Moyamoya disease is a rare, progressive cerebrovascular disorder caused by blocked arteries at the base of the brain in an area called the basal ganglia. The name moyamoya means puff of smoke in Japanese and describes the look of the tangle of tiny vessels formed to compensate for the blockage. Moyamoya disease was first described in Japan in the 1960s and it has since been found in individuals in the other countries around the world; its incidence is higher in Asian countries than in Europe or North America. The disease primarily affects children, but it can also occur in adults. In children, the first symptom of Moyamoya disease is often stroke, or recurrent transient ischemic attacks (TIA, commonly referred to as mini-strokes), frequently accompanied by muscular weakness or paralysis affecting one side of the body, or seizures. Adults may also experience these symptoms that arise from blocked arteries, but more often experience a hemorrhagic stroke due to bleeding into the brain from the abnormal brain vessels. Individuals with this disorder may have disturbed consciousness, problems with speaking and understanding speech, sensory and cognitive impairments, involuntary movements, and vision problems.About one in 10 individuals with Moyamoya disease has a close relative who is also affected; in these cases researchers think that Moyamoya disease is the result of inherited genetic abnormalities.Studies that look for the abnormal gene(s) may help reveal the biomechanisms that cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000198-2" qtype="treatment">What are the treatments for Moyamoya Disease ?</Question>
+			<Answer>There are several types of surgery that can restore blood flow (revascularization) to the brain by opening narrowed blood vessels or by bypassing blocked arteries. Children usually respond better to revascularization surgery than adults, but the majority of individuals have no further strokes or related problems after surgery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000198-3" qtype="outlook">What is the outlook for Moyamoya Disease ?</Question>
+			<Answer>Without surgery, the majority of individuals with Moyamoya disease will experience mental decline and multiple strokes because of the progressive narrowing of arteries.Without treatment,Moyamoya diseasecan be fatal as the result ofintracerebral hemorrhage (bleeding within the brain).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000198-4" qtype="research">what research (or clinical trials) is being done for Moyamoya Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS conducts and supports neurological research aimed at understanding why diseases develop in the brain, and that focus on finding ways to prevent, treat, or cure them.Anti-angiogenic therapy uses drugs that either activate and promote cell growth or directly block the growing blood vessel cells. NINDS-funded researchers are testing the anti-angiogenic drug Apo-Timop, part of a class of drugs called beta-blockers, which may lead to the development of new anti-angiogenics for people with vascular malformations. In other research, Other NINDS-funded research hopes to improve the understanding of this disease by determining whether infections injure blood vessels and thereby predispose children to stroke. It will also determine causes of recurrence, a crucial step toward developing ways to prevent repeated strokes in children.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

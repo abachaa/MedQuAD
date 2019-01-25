@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000965" source="GHR" url="https://ghr.nlm.nih.gov/condition/syngap1-related-intellectual-disability">
+<Focus>SYNGAP1-related intellectual disability</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0445223</CUI>
+			<CUI>C3714756</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>mental retardation, autosomal dominant 5</Synonym>
+		<Synonym>MRD5</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000965-1" qtype="information">What is (are) SYNGAP1-related intellectual disability ?</Question>
+			<Answer>SYNGAP1-related intellectual disability is a neurological disorder characterized by moderate to severe intellectual disability that is evident in early childhood. The earliest features are typically delayed development of speech and motor skills, such as sitting, standing, and walking. Many people with this condition have weak muscle tone (hypotonia), which contributes to the difficulty with motor skills. Some affected individuals lose skills they had already acquired (developmental regression). Other features of SYNGAP1-related intellectual disability include recurrent seizures (epilepsy), hyperactivity, and autism spectrum disorders, which are conditions characterized by impaired communication and social interaction; almost everyone with SYNGAP1-related intellectual disability develops epilepsy, and about half have an autism spectrum disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000965-2" qtype="frequency">How many people are affected by SYNGAP1-related intellectual disability ?</Question>
+			<Answer>SYNGAP1-related intellectual disability is a relatively common form of cognitive impairment. It is estimated to account for 1 to 2 percent of intellectual disability cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000965-3" qtype="genetic changes">What are the genetic changes related to SYNGAP1-related intellectual disability ?</Question>
+			<Answer>SYNGAP1-related intellectual disability is caused by mutations in the SYNGAP1 gene. The protein produced from this gene, called SynGAP, plays an important role in nerve cells in the brain. It is found at the junctions between nerve cells (synapses) and helps regulate changes in synapses that are critical for learning and memory. Mutations involved in this condition prevent the production of functional SynGAP protein from one copy of the gene, reducing the protein&apos;s activity in cells. Studies show that a reduction of SynGAP activity can have multiple effects in nerve cells, including pushing synapses to develop too early. The resulting abnormalities disrupt the synaptic changes in the brain that underlie learning and memory, leading to cognitive impairment and other neurological problems characteristic of SYNGAP1-related intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000965-4" qtype="inheritance">Is SYNGAP1-related intellectual disability inherited ?</Question>
+			<Answer>SYNGAP1-related intellectual disability is classified as an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Almost all cases result from new mutations in the gene and occur in people with no history of the disorder in their family. In at least one case, an affected person inherited the mutation from one affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000965-5" qtype="treatment">What are the treatments for SYNGAP1-related intellectual disability ?</Question>
+			<Answer>These resources address the diagnosis or management of SYNGAP1-related intellectual disability:  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: What Are Treatments for Intellectual and Developmental Disabilities?  - Genetic Testing Registry: Mental retardation, autosomal dominant 5   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

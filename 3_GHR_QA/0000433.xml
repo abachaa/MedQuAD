@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000433" source="GHR" url="https://ghr.nlm.nih.gov/condition/gorlin-syndrome">
+<Focus>Gorlin syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004779</CUI>
+			<CUI>C0812437</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>basal cell nevus syndrome</Synonym>
+		<Synonym>BCNS</Synonym>
+		<Synonym>Gorlin-Goltz syndrome</Synonym>
+		<Synonym>NBCCS</Synonym>
+		<Synonym>nevoid basal cell carcinoma syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000433-1" qtype="information">What is (are) Gorlin syndrome ?</Question>
+			<Answer>Gorlin syndrome, also known as nevoid basal cell carcinoma syndrome, is a condition that affects many areas of the body and increases the risk of developing various cancerous and noncancerous tumors.  In people with Gorlin syndrome, the type of cancer diagnosed most often is basal cell carcinoma, which is the most common form of skin cancer. Individuals with Gorlin syndrome typically begin to develop basal cell carcinomas during adolescence or early adulthood. These cancers occur most often on the face, chest, and back. The number of basal cell carcinomas that develop during a person&apos;s lifetime varies among affected individuals. Some people with Gorlin syndrome never develop any basal cell carcinomas, while others may develop thousands of these cancers. Individuals with lighter skin are more likely to develop basal cell carcinomas than are people with darker skin.  Most people with Gorlin syndrome also develop noncancerous (benign) tumors of the jaw, called keratocystic odontogenic tumors. These tumors usually first appear during adolescence, and new tumors form until about age 30. Keratocystic odontogenic tumors rarely develop later in adulthood. If untreated, these tumors may cause painful facial swelling and tooth displacement.  Individuals with Gorlin syndrome have a higher risk than the general population of developing other tumors. A small proportion of affected individuals develop a brain tumor called medulloblastoma during childhood. A type of benign tumor called a fibroma can occur in the heart or in a woman&apos;s ovaries. Heart (cardiac) fibromas often do not cause any symptoms, but they may obstruct blood flow or cause irregular heartbeats (arrhythmia). Ovarian fibromas are not thought to affect a woman&apos;s ability to have children (fertility).  Other features of Gorlin syndrome include small depressions (pits) in the skin of the palms of the hands and soles of the feet; an unusually large head size (macrocephaly) with a prominent forehead; and skeletal abnormalities involving the spine, ribs, or skull. These signs and symptoms are typically apparent from birth or become evident in early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000433-2" qtype="frequency">How many people are affected by Gorlin syndrome ?</Question>
+			<Answer>Gorlin syndrome affects an estimated 1 in 31,000 people. While more than 1 million new cases of basal cell carcinoma are diagnosed each year in the United States, fewer than 1 percent of these skin cancers are related to Gorlin syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000433-3" qtype="genetic changes">What are the genetic changes related to Gorlin syndrome ?</Question>
+			<Answer>Mutations in the PTCH1 gene cause Gorlin syndrome. This gene provides instructions for making a protein called patched-1, which functions as a receptor. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. Together, ligands and their receptors trigger signals that affect cell development and function. A protein called Sonic Hedgehog is the ligand for the patched-1 receptor. Patched-1 blocks cell growth and division (proliferation) until Sonic Hedgehog is attached.  The PTCH1 gene is a tumor suppressor gene, which means it stops cells from proliferating too rapidly or in an uncontrolled way. Mutations in this gene prevent the production of patched-1 or lead to the production of an abnormal version of the receptor. An altered or missing patched-1 receptor cannot effectively suppress cell growth and division. As a result, cells proliferate uncontrollably to form the tumors that are characteristic of Gorlin syndrome. It is less clear how PTCH1 gene mutations cause the other signs and symptoms related to this condition.  The characteristic features of Gorlin syndrome can also be associated with a chromosomal change called a 9q22.3 microdeletion, in which a small piece of chromosome 9 is deleted in each cell. This deletion includes the segment of chromosome 9 that contains the PTCH1 gene, and as a result, people with a 9q22.3 microdeletion are missing one copy of this gene. Loss of this gene underlies the signs and symptoms of Gorlin syndrome in people with 9q22.3 microdeletions. Affected individuals also have features that are not typically associated with Gorlin syndrome, including delayed development, intellectual disability, overgrowth of the body (macrosomia), and other physical abnormalities. Researchers believe that these other signs and symptoms may result from the loss of additional genes in the deleted region of chromosome 9.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000433-4" qtype="inheritance">Is Gorlin syndrome inherited ?</Question>
+			<Answer>Gorlin syndrome is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the condition. In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the PTCH1 gene and occur in people with no history of the disorder in their family.  Having one mutated copy of the PTCH1 gene in each cell is enough to cause the features of Gorlin syndrome that are present early in life, including macrocephaly and skeletal abnormalities. For basal cell carcinomas and other tumors to develop, a mutation in the second copy of the PTCH1 gene must also occur in certain cells during the person&apos;s lifetime. Most people who are born with one PTCH1 gene mutation eventually acquire a second mutation in some cells and consequently develop various types of tumors.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000433-5" qtype="treatment">What are the treatments for Gorlin syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Gorlin syndrome:  - Gene Review: Gene Review: Nevoid Basal Cell Carcinoma Syndrome  - Genetic Testing Registry: Gorlin syndrome  - MedlinePlus Encyclopedia: Basal Cell Nevus Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

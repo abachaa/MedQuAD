@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000054" source="NINDS" url="http://www.ninds.nih.gov/disorders/brown_sequard/brown-sequard.htm">
+<Focus>Brown-Sequard Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242644</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000054-1" qtype="information">What is (are) Brown-Sequard Syndrome ?</Question>
+			<Answer>Brown-Sequard syndrome (BSS) is a rare neurological condition characterized by a lesion in the spinal cord which results in weakness or paralysis (hemiparaplegia) on one side of the body and a loss of sensation (hemianesthesia) on the opposite side. BSS may be caused by a spinal cord tumor, trauma (such as a puncture wound to the neck or back), ischemia (obstruction of a blood vessel), or infectious or inflammatory diseases such as tuberculosis, or multiple sclerosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000054-2" qtype="treatment">What are the treatments for Brown-Sequard Syndrome ?</Question>
+			<Answer>Generally treatment for individuals with BSS focuses on the underlying cause of the disorder. Early treatment with high-dose steroids may be beneficial in many cases. Other treatment is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000054-3" qtype="outlook">What is the outlook for Brown-Sequard Syndrome ?</Question>
+			<Answer>The prognosis for individuals with BSS varies depending on the cause of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000054-4" qtype="research">what research (or clinical trials) is being done for Brown-Sequard Syndrome ?</Question>
+			<Answer>The NINDS supports and conducts a wide range of research on spinal cord disorders such as BSS. The goal of this research is to find ways to prevent, treat, and, ultimately, cure these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

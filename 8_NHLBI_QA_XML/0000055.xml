@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000055" source="NHLBI" url="http://www.nhlbi.nih.gov/health/health-topics/topics/ekg">
+<Focus>Electrocardiogram</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0013798</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000055-1" qtype="information">What is (are) Electrocardiogram ?</Question>
+			<Answer>An electrocardiogram (e-lek-tro-KAR-de-o-gram), also called an EKG or ECG, is a simple, painless test that records the heart&apos;s electrical activity. To understand this test, it helps to understand how the heart works.
+                
+With each heartbeat, an electrical signal spreads from the top of the heart to the bottom. As it travels, the signal causes the heart to contract and pump blood. The process repeats with each new heartbeat.
+                
+The heart&apos;s electrical signals set the rhythm of the heartbeat. For more detailed information and animations, go to the Health Topics How the Heart Works article.
+                
+An EKG shows:
+                
+How fast your heart is beating
+                
+Whether the rhythm of your heartbeat is steady or irregular
+                
+The strength and timing of electrical signals as they pass through each part of your heart
+                
+Doctors use EKGs to detect and study many heart problems, such as heart attacks, arrhythmias (ah-RITH-me-ahs), and heart failure. The test&apos;s results also can suggest other disorders that affect heart function.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000055-4" qtype="outlook">What is the outlook for Electrocardiogram ?</Question>
+			<Answer>You don&apos;t need to take any special steps before having an electrocardiogram (EKG). However, tell your doctor or his or her staff about the medicines you&apos;re taking. Some medicines can affect EKG results.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000055-5" qtype="outlook">What is the outlook for Electrocardiogram ?</Question>
+			<Answer>An electrocardiogram (EKG) is painless and harmless. A nurse or technician will attach soft, sticky patches called electrodes to the skin of your chest, arms, and legs. The patches are about the size of a quarter.
+                
+Often, 12 patches are attached to your body. This helps detect your heart&apos;s electrical activity from many areas at the same time. The nurse may have to shave areas of your skin to help the patches stick.
+                
+After the patches are placed on your skin, you&apos;ll lie still on a table while the patches detect your heart&apos;s electrical signals. A machine will record these signals on graph paper or display them on a screen.
+                
+The entire test will take about 10 minutes.
+                
+EKG
+                
+
+                
+Special Types of Electrocardiogram
+                
+The standard EKG described above, called a resting 12-lead EKG, only records seconds of heart activity at a time. It will show a heart problem only if the problem occurs during the test.
+                
+Many heart problems are present all the time, and a resting 12-lead EKG will detect them. But some heart problems, like those related to an irregular heartbeat, can come and go. They may occur only for a few minutes a day or only while you exercise.
+                
+Doctors use special EKGs, such as stress tests and Holter and event monitors, to help diagnose these kinds of problems.
+                
+Stress Test
+                
+Some heart problems are easier to diagnose when your heart is working hard and beating fast. During stress testing, you exercise to make your heart work hard and beat fast while an EKG is done. If you can&apos;t exercise, you&apos;ll be given medicine to make your heart work hard and beat fast.
+                
+For more information, go to the Health Topics Stress Testing article.
+                
+Holter and Event Monitors
+                
+Holter and event monitors are small, portable devices. They record your heart&apos;s electrical activity while you do your normal daily activities. A Holter monitor records your heart&apos;s electrical activity for a full 24- or 48-hour period.
+                
+An event monitor records your heart&apos;s electrical activity only at certain times while you&apos;re wearing it. For many event monitors, you push a button to start the monitor when you feel symptoms. Other event monitors start automatically when they sense abnormal heart rhythms.
+                
+For more information, go to the Health Topics Holter and Event Monitors article.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000055-6" qtype="outlook">What is the outlook for Electrocardiogram ?</Question>
+			<Answer>After an electrocardiogram (EKG), the nurse or technician will remove the electrodes (soft patches) from your skin. You may develop a rash or redness where the EKG patches were attached. This mild rash often goes away without treatment.
+                
+You usually can go back to your normal daily routine after an EKG.</Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000055-8" qtype="susceptibility">Who is at risk for Electrocardiogram? ?</Question>
+			<Answer>An electrocardiogram (EKG) has no serious risks. It&apos;s a harmless, painless test that detects the heart&apos;s electrical activity. EKGs don&apos;t give off electrical charges, such as shocks.
+                
+You may develop a mild rash where the electrodes (soft patches) were attached. This rash often goes away without treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

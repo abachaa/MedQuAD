@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000775" source="GHR" url="https://ghr.nlm.nih.gov/condition/paroxysmal-nocturnal-hemoglobinuria">
+<Focus>paroxysmal nocturnal hemoglobinuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024790</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hemoglobinuria, Paroxysmal</Synonym>
+		<Synonym>Marchiafava-Micheli Syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000775-1" qtype="information">What is (are) paroxysmal nocturnal hemoglobinuria ?</Question>
+			<Answer>Paroxysmal nocturnal hemoglobinuria is an acquired disorder that leads to the premature death and impaired production of blood cells. The disorder affects red blood cells (erythrocytes), which carry oxygen; white blood cells (leukocytes), which protect the body from infection; and platelets (thrombocytes), which are involved in blood clotting. Paroxysmal nocturnal hemoglobinuria affects both sexes equally, and can occur at any age, although it is most often diagnosed in young adulthood.  People with paroxysmal nocturnal hemoglobinuria have sudden, recurring episodes of symptoms (paroxysmal symptoms), which may be triggered by stresses on the body, such as infections or physical exertion. During these episodes, red blood cells are prematurely destroyed (hemolysis). Affected individuals may pass dark-colored urine due to the presence of hemoglobin, the oxygen-carrying protein in blood. The abnormal presence of hemoglobin in the urine is called hemoglobinuria. In many, but not all cases, hemoglobinuria is most noticeable in the morning, upon passing urine that has accumulated in the bladder during the night (nocturnal).  The premature destruction of red blood cells results in a deficiency of these cells in the blood (hemolytic anemia), which can cause signs and symptoms such as fatigue, weakness, abnormally pale skin (pallor), shortness of breath, and an increased heart rate. People with paroxysmal nocturnal hemoglobinuria may also be prone to infections due to a deficiency of white blood cells.  Abnormal platelets associated with paroxysmal nocturnal hemoglobinuria can cause problems in the blood clotting process. As a result, people with this disorder may experience abnormal blood clotting (thrombosis), especially in large abdominal veins; or, less often, episodes of severe bleeding (hemorrhage).  Individuals with paroxysmal nocturnal hemoglobinuria are at increased risk of developing cancer in blood-forming cells (leukemia).  In some cases, people who have been treated for another blood disease called aplastic anemia may develop paroxysmal nocturnal hemoglobinuria.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000775-2" qtype="frequency">How many people are affected by paroxysmal nocturnal hemoglobinuria ?</Question>
+			<Answer>Paroxysmal nocturnal hemoglobinuria is a rare disorder, estimated to affect between 1 and 5 per million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000775-3" qtype="genetic changes">What are the genetic changes related to paroxysmal nocturnal hemoglobinuria ?</Question>
+			<Answer>Mutations in the PIGA gene cause paroxysmal nocturnal hemoglobinuria.  The PIGA gene provides instructions for making a protein called phosphatidylinositol glycan class A. This protein takes part in a series of steps that produce a molecule called GPI anchor. GPI anchor attaches many different proteins to the cell membrane, thereby ensuring that these proteins are available when needed at the surface of the cell.  Some gene mutations are acquired during a person&apos;s lifetime and are present only in certain cells. These changes, which are called somatic mutations, are not inherited. In people with paroxysmal nocturnal hemoglobinuria, somatic mutations of the PIGA gene occur in blood-forming cells called hematopoietic stem cells, which are found mainly in the bone marrow. These mutations result in the production of abnormal blood cells. As the abnormal hematopoietic stem cells multiply, increasing numbers of abnormal blood cells are formed, alongside normal blood cells produced by normal hematopoietic stem cells.  The premature destruction of red blood cells seen in paroxysmal nocturnal hemoglobinuria is caused by a component of the immune system called complement. Complement consists of a group of proteins that work together to destroy foreign invaders such as bacteria and viruses. To protect the individual&apos;s own cells from being destroyed, this process is tightly controlled by complement-regulating proteins. Complement-regulating proteins normally protect red blood cells from destruction by complement. In people with paroxysmal nocturnal hemoglobinuria, however, abnormal red blood cells are missing two important complement-regulating proteins that need the GPI anchor protein to attach them to the cell membrane. These red blood cells are prematurely destroyed, leading to hemolytic anemia.  Research suggests that certain abnormal white blood cells that are also part of the immune system may mistakenly attack normal blood-forming cells, in a malfunction called an autoimmune process. In addition, abnormal hematopoietic stem cells in people with paroxysmal nocturnal hemoglobinuria may be less susceptible than normal cells to a process called apoptosis, which causes cells to self-destruct when they are damaged or unneeded. These features of the disorder may increase the proportion of abnormal blood cells in the body. The proportion of abnormal blood cells affects the severity of the signs and symptoms of paroxysmal nocturnal hemoglobinuria, including the risk of hemoglobinuria and thrombosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000775-4" qtype="inheritance">Is paroxysmal nocturnal hemoglobinuria inherited ?</Question>
+			<Answer>This condition is acquired, rather than inherited. It results from new mutations in the PIGA gene, and generally occurs in people with no previous history of the disorder in their family. The condition is not passed down to children of affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000775-5" qtype="treatment">What are the treatments for paroxysmal nocturnal hemoglobinuria ?</Question>
+			<Answer>These resources address the diagnosis or management of paroxysmal nocturnal hemoglobinuria:  - Duke University School of Medicine: Hemostasis &amp; Thrombosis Center  - Genetic Testing Registry: Paroxysmal nocturnal hemoglobinuria  - MedlinePlus Encyclopedia: Paroxysmal nocturnal hemoglobinuria (PNH)  - Memorial Sloan-Kettering Cancer Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

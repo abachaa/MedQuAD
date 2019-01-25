@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000032" source="NINDS" url="http://www.ninds.nih.gov/disorders/ataxia/ataxia.htm">
+<Focus>Ataxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004134</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000032-1" qtype="information">What is (are) Ataxia ?</Question>
+			<Answer>Ataxia often occurs when parts of the nervous system that control movement are damaged. People with ataxia experience a failure of muscle control in their arms and legs, resulting in a lack of balance and coordination or a disturbance of gait. While the term ataxia is primarily used to describe this set of symptoms, it is sometimes also used to refer to a family of disorders. It is not, however, a specific diagnosis.
+                
+Most disorders that result in ataxia cause cells in the part of the brain called the cerebellum to degenerate, or atrophy. Sometimes the spine is also affected. The phrases cerebellar degeneration and spinocerebellar degeneration are used to describe changes that have taken place in a persons nervous system; neither term constitutes a specific diagnosis. Cerebellar and spinocerebellar degeneration have many different causes. The age of onset of the resulting ataxia varies depending on the underlying cause of the degeneration.
+                
+Many ataxias are hereditary and are classified by chromosomal location and pattern of inheritance: autosomal dominant, in which the affected person inherits a normal gene from one parent and a faulty gene from the other parent; and autosomal recessive, in which both parents pass on a copy of the faulty gene. Among the more common inherited ataxias are Friedreichs ataxia and Machado-Joseph disease. Sporadic ataxias can also occur in families with no prior history.
+                
+Ataxia can also be acquired. Conditions that can cause acquired ataxia include stroke, multiple sclerosis, tumors, alcoholism, peripheral neuropathy, metabolic disorders, and vitamin deficiencies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000032-2" qtype="treatment">What are the treatments for Ataxia ?</Question>
+			<Answer>There is no cure for the hereditary ataxias. If the ataxia is caused by another condition, that underlying condition is treated first. For example, ataxia caused by a metabolic disorder may be treated with medications and a controlled diet. Vitamin deficiency is treated with vitamin therapy. A variety of drugs may be used to either effectively prevent symptoms or reduce the frequency with which they occur. Physical therapy can strengthen muscles, while special devices or appliances can assist in walking and other activities of daily life.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000032-3" qtype="outlook">What is the outlook for Ataxia ?</Question>
+			<Answer>The prognosis for individuals with ataxia and cerebellar/spinocerebellar degeneration varies depending on its underlying cause.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000032-4" qtype="research">what research (or clinical trials) is being done for Ataxia ?</Question>
+			<Answer>The NINDS supports and conducts a broad range of basic and clinical research on cerebellar and spinocerebellar degeneration, including work aimed at finding the cause(s) of ataxias and ways to treat, cure, and, ultimately, prevent them. Scientists are optimistic that understanding the genetics of these disorders may lead to breakthroughs in treatment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

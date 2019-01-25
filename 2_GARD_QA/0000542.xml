@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000542" source="GARD" url="https://rarediseases.info.nih.gov/gard/10911/autoimmune-pancreatitis">
+<Focus>Autoimmune pancreatitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2609129</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lymphoplasmocytic sclerosing pancreatitis</Synonym>
+		<Synonym>IgG4-related disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000542-1" qtype="information">What is (are) Autoimmune pancreatitis ?</Question>
+			<Answer>Autoimmune pancreatitis affects the pancreas, a gland behind the stomach and in front of the spine, and can also affect the bile ducts, salivary glands, kidneys, and lymph nodes. It is thought to occur when the immune system mistakenly begins to attack these healthy body tissues, glands, and organs. Common signs and symptoms include painless jaundice, weight loss, and noncancerous masses in the pancreas and other organs. Treatment often involves corticosteroids. The condition may recur following treatment, and require additional therapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

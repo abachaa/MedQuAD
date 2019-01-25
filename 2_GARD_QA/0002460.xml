@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002460" source="GARD" url="https://rarediseases.info.nih.gov/gard/10018/fuchs-endothelial-corneal-dystrophy">
+<Focus>Fuchs endothelial corneal dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016781</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FECD</Synonym>
+		<Synonym>Late hereditary endothelial dystrophy</Synonym>
+		<Synonym>Endoepithelial corneal dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002460-1" qtype="information">What is (are) Fuchs endothelial corneal dystrophy ?</Question>
+			<Answer>Fuchs endothelial corneal dystrophy (FECD) is an eye disease. It affects the thin layer of cells that line the back part of the cornea. This layer is called the endothelium. The disease occurs when these cells slowly start to die off. The cells help pump excess fluid out of the cornea. As more and more cells are lost, fluid begins to build up in the cornea, causing swelling and a cloudy cornea. There are several forms of the disease according to the age of onset of the symptoms and the cause. The early-onset form is very rare and is known as Fuchs endothelial corneal dystrophy 1 (or early-onset Fuchs endothelial corneal dystrophy) and it is caused by a change (mutation) in the COL8A2 gene. Late-onset Fuchs endothelial corneal dystrophies are common and include: Fuchs endothelial corneal dystrophy 2 (caused by a mutation in an unknown gene located in chromosome 13) Fuchs endothelial corneal dystrophy 3 (may be caused by TCF4 gene mutations) Fuchs endothelial corneal dystrophy 4 (caused by a mutation in the SLC4A11 gene) Fuchs endothelial corneal dystrophy 5 (caused by a mutation in an unknown gene located in chromosome 15) Fuchs endothelial corneal dystrophy 6 (caused by a mutation in the ZEB1 gene) Fuchs endothelial corneal dystrophy 7 (caused by a mutation in an unknown gene located in chromosome 9) Fuchs endothelial corneal dystrophy 8 (caused by heterozygous mutation in the AGBL1 gene).  Early in the disease, patients typically do not have symptoms. In the late-onset forms, the symptoms start around 50 or 60 years and include discomfort and painful episodes of recurrent corneal wounds and hazy vision. Over time, discomfort may diminish but severe impairment of visual acuity, and even blindness and cataracts in elderly patients, may be observed. Once the vision has worsened, the recommended treatment is a penetrating graft which has excellent results in most cases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002460-2" qtype="inheritance">Is Fuchs endothelial corneal dystrophy inherited ?</Question>
+			<Answer>How is Fuchs endothelial corneal dystrophy inherited? The inheritance of Fuchs dystrophy is not straight forward. In some cases, Fuchs dystrophy appears to be inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. When this condition is caused by a mutation in the COL8A2 gene (which is the early-onset form of the disease), it is inherited in an autosomal dominant pattern. In addition, an autosomal dominant inheritance pattern is seen in some situations in which the condition is caused by changes in an unknown gene. However, in many cases, the inheritance pattern is unknown. Some cases result from new mutations in a gene and occur in people with no history of the disorder in their family. Due to the complex nature of the inheritance of this condition, we strongly recommend you discuss your concerns with a genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

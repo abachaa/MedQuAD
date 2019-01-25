@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000524" source="GHR" url="https://ghr.nlm.nih.gov/condition/intestinal-pseudo-obstruction">
+<Focus>intestinal pseudo-obstruction</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0021847</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>chronic idiopathic intestinal pseudo-obstruction</Synonym>
+		<Synonym>CIIP</Synonym>
+		<Synonym>congenital short bowel syndrome</Synonym>
+		<Synonym>enteric neuropathy</Synonym>
+		<Synonym>IPO</Synonym>
+		<Synonym>paralytic ileus</Synonym>
+		<Synonym>pseudointestinal obstruction syndrome</Synonym>
+		<Synonym>pseudoobstructive syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000524-1" qtype="information">What is (are) intestinal pseudo-obstruction ?</Question>
+			<Answer>Intestinal pseudo-obstruction is a condition characterized by impairment of the muscle contractions that move food through the digestive tract. The condition may arise from abnormalities of the gastrointestinal muscles themselves (myogenic) or from problems with the nerves that control the muscle contractions (neurogenic).  When intestinal pseudo-obstruction occurs by itself, it is called primary or idiopathic intestinal pseudo-obstruction. The disorder can also develop as a complication of another medical condition; in these cases, it is called secondary intestinal pseudo-obstruction.  Intestinal pseudo-obstruction leads to a buildup of partially digested food in the intestines. This buildup can cause abdominal swelling (distention) and pain, nausea, vomiting, and constipation or diarrhea. Affected individuals experience loss of appetite and impaired ability to absorb nutrients, which may lead to malnutrition. These symptoms resemble those of an intestinal blockage (obstruction), but in intestinal pseudo-obstruction no blockage is found.  Some people with intestinal pseudo-obstruction have bladder dysfunction such as an inability to pass urine. Other features of this condition may include decreased muscle tone (hypotonia) or stiffness (spasticity), weakness in the muscles that control eye movement (ophthalmoplegia), intellectual disability, seizures, unusual facial features, or recurrent infections.  Intestinal pseudo-obstruction can occur at any time of life. Its symptoms may range from mild to severe. Some affected individuals may require nutritional support. Depending on the severity of the condition, such support may include nutritional supplements, a feeding tube, or intravenous feedings (parenteral nutrition).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000524-2" qtype="frequency">How many people are affected by intestinal pseudo-obstruction ?</Question>
+			<Answer>Primary intestinal pseudo-obstruction is a rare disorder. Its prevalence is unknown. The prevalence of secondary intestinal pseudo-obstruction is also unknown, but it is believed to be more common than the primary form.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000524-3" qtype="genetic changes">What are the genetic changes related to intestinal pseudo-obstruction ?</Question>
+			<Answer>In some individuals with primary intestinal pseudo-obstruction, the condition is caused by mutations in the FLNA gene. This gene provides instructions for producing the protein filamin A, which helps build the network of protein filaments (cytoskeleton) that gives structure to cells and allows them to change shape and move. Filamin A attaches (binds) to another protein called actin and helps it form the branching network of filaments that make up the cytoskeleton.  Some individuals with primary intestinal pseudo-obstruction have FLNA gene mutations that result in an abnormally short filamin A protein. Others have duplications or deletions of genetic material in the FLNA gene. Researchers believe that these genetic changes may impair the function of the filamin A protein, causing abnormalities in the cytoskeleton of nerve cells (neurons) in the gastrointestinal tract. These abnormalities interfere with the nerves&apos; ability to produce the coordinated waves of muscle contractions (peristalsis) that move food through the digestive tract.  Deletions or duplications of genetic material that affect the FLNA gene can also include adjacent genes on the X chromosome. Changes in adjacent genes may account for some of the other signs and symptoms that can occur with intestinal pseudo-obstruction.  Secondary intestinal pseudo-obstruction may result from other disorders that damage muscles or nerves, such as Parkinson disease, diabetes, or muscular dystrophy. Additionally, the condition is a feature of an inherited disease called mitochondrial neurogastrointestinal encephalopathy disease (MNGIE disease) that affects the energy-producing centers of cells (mitochondria). Infections, surgery, or certain drugs can also cause secondary intestinal pseudo-obstruction.  In some affected individuals, the cause of intestinal pseudo-obstruction is unknown. Studies suggest that in some cases the condition may result from mutations in other genes that have not been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000524-4" qtype="inheritance">Is intestinal pseudo-obstruction inherited ?</Question>
+			<Answer>Intestinal pseudo-obstruction is often not inherited. When it does run in families, it can have different inheritance patterns.  Intestinal pseudo-obstruction caused by FLNA gene mutations is inherited in an X-linked recessive pattern. The FLNA gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  Intestinal pseudo-obstruction can also be inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In other families it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. When intestinal pseudo-obstruction is inherited in an autosomal dominant or autosomal recessive pattern, the genetic cause of the disorder is unknown.  When intestinal pseudo-obstruction is a feature of MNGIE disease, it is inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mitochondrial DNA (mtDNA). Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.  In some cases, the inheritance pattern is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000524-5" qtype="treatment">What are the treatments for intestinal pseudo-obstruction ?</Question>
+			<Answer>These resources address the diagnosis or management of intestinal pseudo-obstruction:  - Children&apos;s Hospital of Pittsburgh  - Genetic Testing Registry: Intestinal pseudoobstruction neuronal chronic idiopathic X-linked  - Genetic Testing Registry: Natal teeth, intestinal pseudoobstruction and patent ductus  - Genetic Testing Registry: Visceral myopathy familial with external ophthalmoplegia  - Genetic Testing Registry: Visceral neuropathy familial  - Genetic Testing Registry: Visceral neuropathy, familial, autosomal dominant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000490" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/007490.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Blood pressure measurement</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1272641</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diastolic blood pressure</Synonym>
+		<Synonym>Systolic blood pressure</Synonym>
+		<Synonym>Blood pressure reading</Synonym>
+		<Synonym>Measuring blood pressure</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000490-1" qtype="information">What is (are) Blood pressure measurement ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0000490-8" qtype="considerations">What to do for Blood pressure measurement ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000112" source="GHR" url="https://ghr.nlm.nih.gov/condition/beare-stevenson-cutis-gyrata-syndrome">
+<Focus>Beare-Stevenson cutis gyrata syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3805479</CUI>
+			<CUI>C1852406</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cutis gyrata syndrome of Beare and Stevenson</Synonym>
+		<Synonym>cutis gyrata syndrome of Beare-Stevenson</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000112-1" qtype="information">What is (are) Beare-Stevenson cutis gyrata syndrome ?</Question>
+			<Answer>Beare-Stevenson cutis gyrata syndrome is a genetic disorder characterized by skin abnormalities and the premature fusion of certain bones of the skull (craniosynostosis). This early fusion prevents the skull from growing normally and affects the shape of the head and face.  Many of the characteristic facial features of Beare-Stevenson cutis gyrata syndrome result from the premature fusion of the skull bones. The head is unable to grow normally, which leads to a cloverleaf-shaped skull, wide-set and bulging eyes, ear abnormalities, and an underdeveloped upper jaw. Early fusion of the skull bones also affects the growth of the brain, causing delayed development and intellectual disability.  A skin abnormality called cutis gyrata is also characteristic of this disorder. The skin has a furrowed and wrinkled appearance, particularly on the face, near the ears, and on the palms and soles of the feet. Additionally, thick, dark, velvety areas of skin (acanthosis nigricans) are sometimes found on the hands and feet and in the genital region.  Additional signs and symptoms of Beare-Stevenson cutis gyrata syndrome can include a blockage of the nasal passages (choanal atresia), overgrowth of the umbilical stump (tissue that normally falls off shortly after birth, leaving the belly button), and abnormalities of the genitalia and anus. The medical complications associated with this condition are often life-threatening in infancy or early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000112-2" qtype="frequency">How many people are affected by Beare-Stevenson cutis gyrata syndrome ?</Question>
+			<Answer>Beare-Stevenson cutis gyrata syndrome is a rare genetic disorder; its incidence is unknown. Fewer than 20 people with this condition have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000112-3" qtype="genetic changes">What are the genetic changes related to Beare-Stevenson cutis gyrata syndrome ?</Question>
+			<Answer>Mutations in the FGFR2 gene cause Beare-Stevenson cutis gyrata syndrome. This gene produces a protein called fibroblast growth factor receptor 2, which plays an important role in signaling a cell to respond to its environment, perhaps by dividing or maturing. A mutation in the FGFR2 gene alters the protein and promotes prolonged signaling, which is thought to interfere with skeletal and skin development.  Some individuals with Beare-Stevenson cutis gyrata syndrome do not have identified mutations in the FGFR2 gene. In these cases, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000112-4" qtype="inheritance">Is Beare-Stevenson cutis gyrata syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. All reported cases have resulted from new mutations in the gene, and occurred in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000112-5" qtype="treatment">What are the treatments for Beare-Stevenson cutis gyrata syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Beare-Stevenson cutis gyrata syndrome:  - Gene Review: Gene Review: FGFR-Related Craniosynostosis Syndromes  - Genetic Testing Registry: Cutis Gyrata syndrome of Beare and Stevenson  - MedlinePlus Encyclopedia: Acanthosis Nigricans  - MedlinePlus Encyclopedia: Craniosynostosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

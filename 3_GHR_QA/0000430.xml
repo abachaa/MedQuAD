@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000430" source="GHR" url="https://ghr.nlm.nih.gov/condition/gm2-gangliosidosis-ab-variant">
+<Focus>GM2-gangliosidosis, AB variant</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268275</CUI>
+			<CUI>C0017083</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AB variant</Synonym>
+		<Synonym>Activator Deficiency/GM2 Gangliosidosis</Synonym>
+		<Synonym>Activator-deficient Tay-Sachs disease</Synonym>
+		<Synonym>GM2 Activator Deficiency Disease</Synonym>
+		<Synonym>GM2 gangliosidosis, type AB</Synonym>
+		<Synonym>Hexosaminidase activator deficiency</Synonym>
+		<Synonym>Tay-Sachs Disease, AB Variant</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000430-1" qtype="information">What is (are) GM2-gangliosidosis, AB variant ?</Question>
+			<Answer>GM2-gangliosidosis, AB variant is a rare inherited disorder that progressively destroys nerve cells (neurons) in the brain and spinal cord.  Signs and symptoms of the AB variant become apparent in infancy. Infants with this disorder typically appear normal until the age of 3 to 6 months, when their development slows and muscles used for movement weaken. Affected infants lose motor skills such as turning over, sitting, and crawling. They also develop an exaggerated startle reaction to loud noises. As the disease progresses, children with the AB variant experience seizures, vision and hearing loss, intellectual disability, and paralysis. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. Children with the AB variant usually live only into early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000430-2" qtype="frequency">How many people are affected by GM2-gangliosidosis, AB variant ?</Question>
+			<Answer>The AB variant is extremely rare; only a few cases have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000430-3" qtype="genetic changes">What are the genetic changes related to GM2-gangliosidosis, AB variant ?</Question>
+			<Answer>Mutations in the GM2A gene cause GM2-gangliosidosis, AB variant. The GM2A gene provides instructions for making a protein called the GM2 ganglioside activator. This protein is required for the normal function of an enzyme called beta-hexosaminidase A, which plays a critical role in the brain and spinal cord. Beta-hexosaminidase A and the GM2 ganglioside activator protein work together in lysosomes, which are structures in cells that break down toxic substances and act as recycling centers. Within lysosomes, the activator protein binds to a fatty substance called GM2 ganglioside and presents it to beta-hexosaminidase A to be broken down.  Mutations in the GM2A gene disrupt the activity of the GM2 ganglioside activator, which prevents beta-hexosaminidase A from breaking down GM2 ganglioside. As a result, this substance accumulates to toxic levels, particularly in neurons in the brain and spinal cord. Progressive damage caused by the buildup of GM2 ganglioside leads to the destruction of these neurons, which causes the signs and symptoms of the AB variant.  Because the AB variant impairs the function of a lysosomal enzyme and involves the buildup of GM2 ganglioside, this condition is sometimes referred to as a lysosomal storage disorder or a GM2-gangliosidosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000430-4" qtype="inheritance">Is GM2-gangliosidosis, AB variant inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000430-5" qtype="treatment">What are the treatments for GM2-gangliosidosis, AB variant ?</Question>
+			<Answer>These resources address the diagnosis or management of GM2-gangliosidosis, AB variant:  - Genetic Testing Registry: Tay-Sachs disease, variant AB   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

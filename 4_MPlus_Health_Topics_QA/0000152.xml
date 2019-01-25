@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000152" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/cardiomyopathy.html">
+<Focus>Cardiomyopathy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0878544</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dilated cardiomyopathy</Synonym>
+		<Synonym>Hypertrophic cardiomyopathy</Synonym>
+		<Synonym>Myocardiopathy</Synonym>
+		<Synonym>Restrictive cardiomyopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000152-1" qtype="information">What is (are) Cardiomyopathy ?</Question>
+			<Answer>Cardiomyopathy is the name for diseases of the heart muscle. These diseases enlarge your heart muscle or make it thicker and more rigid than normal. In rare cases, scar tissue replaces the muscle tissue.    Some people live long, healthy lives with cardiomyopathy. Some people don&apos;t even realize they have it. In others, however, it can make the heart less able to pump blood through the body. This can cause serious complications, including        -  Heart failure     -  Abnormal heart rhythms     -  Heart valve problems    -  Sudden cardiac arrest       Heart attacks, high blood pressure, infections, and other diseases can all cause cardiomyopathy. Some types of cardiomyopathy run in families. In many people, however, the cause is unknown. Treatment might involve medicines, surgery, other medical procedures, and lifestyle changes.     NIH: National Heart, Lung, and Blood Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000062" source="GHR" url="https://ghr.nlm.nih.gov/condition/ankylosing-spondylitis">
+<Focus>ankylosing spondylitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038013</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AS</Synonym>
+		<Synonym>Bechterew disease</Synonym>
+		<Synonym>Marie-Struempell disease</Synonym>
+		<Synonym>spondylarthritis ankylopoietica</Synonym>
+		<Synonym>spondylitis ankylopoietica</Synonym>
+		<Synonym>spondylitis, ankylosing</Synonym>
+		<Synonym>spondyloarthritis ankylopoietica</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000062-1" qtype="information">What is (are) ankylosing spondylitis ?</Question>
+			<Answer>Ankylosing spondylitis is a form of ongoing joint inflammation (chronic inflammatory arthritis) that primarily affects the spine. This condition is characterized by back pain and stiffness that typically appear in adolescence or early adulthood. Over time, back movement gradually becomes limited as the bones of the spine (vertebrae) fuse together. This progressive bony fusion is called ankylosis.  The earliest symptoms of ankylosing spondylitis result from inflammation of the joints between the pelvic bones (the ilia) and the base of the spine (the sacrum). These joints are called sacroiliac joints, and inflammation of these joints is known as sacroiliitis. The inflammation gradually spreads to the joints between the vertebrae, causing a condition called spondylitis. Ankylosing spondylitis can involve other joints as well, including the shoulders, hips, and, less often, the knees. As the disease progresses, it can affect the joints between the spine and ribs, restricting movement of the chest and making it difficult to breathe deeply. People with advanced disease are also more prone to fractures of the vertebrae.  Ankylosing spondylitis affects the eyes in up to 40 percent of cases, leading to episodes of eye inflammation called acute iritis. Acute iritis causes eye pain and increased sensitivity to light (photophobia). Rarely, ankylosing spondylitis can also cause serious complications involving the heart, lungs, and nervous system.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000062-2" qtype="frequency">How many people are affected by ankylosing spondylitis ?</Question>
+			<Answer>Ankylosing spondylitis is part of a group of related diseases known as spondyloarthropathies. In the United States, spondyloarthropathies affect 3.5 to 13 per 1,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000062-3" qtype="genetic changes">What are the genetic changes related to ankylosing spondylitis ?</Question>
+			<Answer>Ankylosing spondylitis is likely caused by a combination of genetic and environmental factors, most of which have not been identified. However, researchers have found variations in several genes that influence the risk of developing this disorder.  The HLA-B gene provides instructions for making a protein that plays an important role in the immune system. The HLA-B gene is part of a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). The HLA-B gene has many different normal variations, allowing each person&apos;s immune system to react to a wide range of foreign proteins. A variation of the HLA-B gene called HLA-B27 increases the risk of developing ankylosing spondylitis. Although many people with ankylosing spondylitis have the HLA-B27 variation, most people with this version of the HLA-B gene never develop the disorder. It is not known how HLA-B27 increases the risk of developing ankylosing spondylitis.  Variations in several additional genes, including ERAP1, IL1A, and IL23R, have also been associated with ankylosing spondylitis. Although these genes play critical roles in the immune system, it is unclear how variations in these genes affect a person&apos;s risk of developing ankylosing spondylitis. Changes in genes that have not yet been identified are also believed to affect the chances of developing ankylosing spondylitis and influence the progression of the disorder. Some of these genes likely play a role in the immune system, while others may have different functions. Researchers are working to identify these genes and clarify their role in ankylosing spondylitis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000062-4" qtype="inheritance">Is ankylosing spondylitis inherited ?</Question>
+			<Answer>Although ankylosing spondylitis can occur in more than one person in a family, it is not a purely genetic disease. Multiple genetic and environmental factors likely play a part in determining the risk of developing this disorder. As a result, inheriting a genetic variation linked with ankylosing spondylitis does not mean that a person will develop the condition, even in families in which more than one family member has the disorder. For example, about 80 percent of children who inherit HLA-B27 from a parent with ankylosing spondylitis do not develop the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000062-5" qtype="treatment">What are the treatments for ankylosing spondylitis ?</Question>
+			<Answer>These resources address the diagnosis or management of ankylosing spondylitis:  - Genetic Testing Registry: Ankylosing spondylitis  - MedlinePlus Encyclopedia: Ankylosing Spondylitis  - MedlinePlus Encyclopedia: HLA-B27 Antigen   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

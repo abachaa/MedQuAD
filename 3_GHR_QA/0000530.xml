@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000530" source="GHR" url="https://ghr.nlm.nih.gov/condition/isobutyryl-coa-dehydrogenase-deficiency">
+<Focus>isobutyryl-CoA dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1969809</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deficiency of isobutyryl-CoA dehydrogenase</Synonym>
+		<Synonym>IBD deficiency</Synonym>
+		<Synonym>isobutyryl-coenzyme A dehydrogenase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000530-1" qtype="information">What is (are) isobutyryl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>Isobutyryl-CoA dehydrogenase (IBD) deficiency is a condition that disrupts the breakdown of certain proteins. Normally, proteins from food are broken down into parts called amino acids. Amino acids can be further processed to provide energy for growth and development. People with IBD deficiency have inadequate levels of an enzyme that helps break down a particular amino acid called valine.  Most people with IBD deficiency are asymptomatic, which means they do not have any signs or symptoms of the condition. A few children with IBD deficiency have developed features such as a weakened and enlarged heart (dilated cardiomyopathy), weak muscle tone (hypotonia), and developmental delay. This condition may also cause low numbers of red blood cells (anemia) and very low blood levels of carnitine, which is a natural substance that helps convert certain foods into energy. The range of signs and symptoms associated with IBD deficiency remains unclear because very few affected individuals have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000530-2" qtype="frequency">How many people are affected by isobutyryl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>IBD deficiency is a rare disorder; approximately 22 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000530-3" qtype="genetic changes">What are the genetic changes related to isobutyryl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>Mutations in the ACAD8 gene cause IBD deficiency. This gene provides instructions for making the IBD enzyme, which is involved in breaking down valine. ACAD8 gene mutations reduce or eliminate the activity of the IBD enzyme. As a result, valine is not broken down properly. Impaired processing of valine may lead to reduced energy production and the features of IBD deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000530-4" qtype="inheritance">Is isobutyryl-CoA dehydrogenase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000530-5" qtype="treatment">What are the treatments for isobutyryl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of isobutyryl-CoA dehydrogenase deficiency:  - Baby&apos;s First Test  - Genetic Testing Registry: Deficiency of isobutyryl-CoA dehydrogenase  - MedlinePlus Encyclopedia: Dilated Cardiomyopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

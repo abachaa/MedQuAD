@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000085" source="NINDS" url="http://www.ninds.nih.gov/disorders/myopathy_congenital/myopathy_congenital.htm">
+<Focus>Congenital Myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270960</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000085-1" qtype="information">What is (are) Congenital Myopathy ?</Question>
+			<Answer>A myopathy is a disorder of the muscles that usually results in weakness. Congenital myopathy refers to a group of muscle disorders that appear at birth or in infancy. Typically, an infant with a congenital myopathy will be &quot;floppy,&quot; have difficulty breathing or feeding, and will lag behind other babies in meeting normal developmental milestones such as turning over or sitting up.
+                
+Muscle weakness can occur for many reasons, including a problem with the muscle, a problem with the nerve that stimulates the muscle, or a problem with the brain. Therefore, to diagnose a congenital myopathy, a neurologist will perform a detailed physical exam as well as tests to determine the cause of weakness. If a myopathy is suspected, possible tests include a blood test for a muscle enzyme called creatine kinase, an electromyogram (EMG) to evaluate the electrical activity of the muscle, a muscle biopsy, and genetic testing.
+                
+There are currently seven distinct types of congenital myopathy, with some variation in symptoms, complications, treatment options, and outlook.
+                
+Nemaline myopathy is the most common congenital myopathy. Infants usually have problems with breathing and feeding. Later, some skeletal problems may arise, such as scoliosis (curvature of the spine). In general, the weakness does not worsen during life.
+                
+Myotubular myopathy is rare and only affects boys. Weakness and floppiness are so severe that a mother may notice reduced movements of the baby in her womb during pregnancy. There are usually significant breathing and swallowing difficulties; many children do not survive infancy. Osteopenia (weakening of the bones) is also associated with this disorder.
+                
+Centronuclear myopathy is rare and begins in infancy or early childhood with weakness of the arms and legs, droopy eyelids, and problems with eye movements. Weakness often gets worse with time.
+                
+Central core disease varies among children with regard to the severity of problems and the degree of worsening over time. Usually, there is mild floppiness in infancy, delayed milestones, and moderate limb weakness, which do not worsen much over time. Children with central core disease may have life-threatening reactions to general anesthesia. Treatment with the drug salbutamol has been shown to reduce weakness significantly, although it does not cure the disorder.
+                
+Multi-minicore disease has several different subtypes. Common to most is severe weakness of the limbs and scoliosis. Often breathing difficulties occur as well. Some children have weakened eye movements.
+                
+Congenital fiber-type disproportion myopathy is a rare disorder that begins with floppiness, limb and facial weakness, and breathing problems.
+                
+Hyaline body myopathy is a disorder characterized by the specific appearance under the microscope of a sample of muscle tissue. It probably includes several different causes. Because of this, the symptoms are quite variable.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000085-2" qtype="treatment">What are the treatments for Congenital Myopathy ?</Question>
+			<Answer>Currently, only central core disease has an effective treatment (see above). There are no known cures for any of these disorders. Supportive treatment may involve orthopedic treatments, as well as physical, occupational or speech therapy.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000085-3" qtype="outlook">What is the outlook for Congenital Myopathy ?</Question>
+			<Answer>When breathing difficulties are severe, and particularly if there is also a problem with feeding and swallowing, infants may die of respiratory failure or complications such as pneumonia. Sometimes muscle weakness can lead to skeletal problems, such as scoliosis, reduced mobility of joints, or hip problems. The heart muscle is rarely involved.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000085-4" qtype="research">what research (or clinical trials) is being done for Congenital Myopathy ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to congenital myopathies in their laboratories at the NIH and also support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure the disorders that make up the congenital myopathies.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

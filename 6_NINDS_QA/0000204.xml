@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000204" source="NINDS" url="http://www.ninds.nih.gov/disorders/msa_orthostatic_hypotension/msa_orthostatic_hypotension.htm">
+<Focus>Multiple System Atrophy with Orthostatic Hypotension</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393571</CUI>
+			<CUI>C0020651</CUI>
+			<CUI>C0037019</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000204-1" qtype="information">What is (are) Multiple System Atrophy with Orthostatic Hypotension ?</Question>
+			<Answer>Multiple system atrophy with orthostatic hypotension is the current classification for a neurological disorder that was once called Shy-Drager syndrome. A progressive disorder of the central and autonomic nervous systems, it is characterized by orthostatic hypotension (an excessive drop in blood pressure when standing up) which causes dizziness or fainting. Multiple system atrophy can occur without orthostatic hypotension, but instead have urinary involvement (urgency/incontinence). Doctors classify the disorder into 3 types: the Parkinsonian-type includes symptoms of Parkinson&apos;s disease such as slow movement, stiff muscles, and tremor; the cerebellar-type, which causes problems with coordination and speech; and the combined-type, which includes symptoms of both parkinsonism and cerebellar failure. Problems with urinary incontinence, constipation, and sexual impotence in men happen early in the course of the disease. Other symptoms include generalized weakness, double vision or other vision disturbances, difficulty breathing and swallowing, sleep disturbances, and decreased sweating. Because the disease resembles others, a correct diagnosis may take years.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000204-2" qtype="treatment">What are the treatments for Multiple System Atrophy with Orthostatic Hypotension ?</Question>
+			<Answer>There is no cure for multiple system atrophy with orthostatic hypotension. Treatment is aimed at controlling symptoms. Anti-Parkinson medication such as Sinemet may improve the general sense of well-being. Medications to elevate blood pressure while standing are often used, but may cause high blood pressure when lying down. Individuals should sleep with the head of the bed elevated. An artificial feeding tube or breathing tube may be required for problems with swallowing and breathing.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000204-3" qtype="outlook">What is the outlook for Multiple System Atrophy with Orthostatic Hypotension ?</Question>
+			<Answer>Most individuals with multiple system atrophy with orthostatic hypotension die within 7 to 10 years after the onset of symptoms. A problem with the respiratory system is the most common cause of death.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000204-4" qtype="research">what research (or clinical trials) is being done for Multiple System Atrophy with Orthostatic Hypotension ?</Question>
+			<Answer>The NINDS supports research on disorders of the autonomic nervous system, including multiple system atrophy with orthostatic hypotension. This research is aimed at developing techniques to diagnose, treat, and prevent these disorders. Currently there are ongoing treatment trials of drugs to treat MSA.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

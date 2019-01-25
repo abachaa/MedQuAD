@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004667" source="GARD" url="https://rarediseases.info.nih.gov/gard/7299/pachydermoperiostosis">
+<Focus>Pachydermoperiostosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029411</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Primary hypertrophic osteoarthropathy</Synonym>
+		<Synonym>Idiopathic hypertrophic osteoarthropathy</Synonym>
+		<Synonym>PDP</Synonym>
+		<Synonym>Touraine Solente Gole syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004667-1" qtype="information">What is (are) Pachydermoperiostosis ?</Question>
+			<Answer>Pachydermoperiostosis is a rare disorder characterized by clubbing of the fingers and toes; thickening of the skin of the face (pachyderma); excessive sweating (hyperhidrosis); and new bone formation associated with joint pain. Other features may include congenital heart disease and delayed closure of fontanelles. This condition typically appears during childhood or adolescence, often around the time of puberty, and progresses slowly for about ten years. Both autosomal dominant and autosomal recessive inheritance has been reported. Mutations in the HPGD gene have been found in those with the autosomal recessive form of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004667-2" qtype="symptoms">What are the symptoms of Pachydermoperiostosis ?</Question>
+			<Answer>What are the signs and symptoms of Pachydermoperiostosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Pachydermoperiostosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal cortical bone morphology 90% Abnormality of epiphysis morphology 90% Abnormality of the fontanelles or cranial sutures 90% Bone pain 90% Osteomyelitis 90% Seborrheic dermatitis 90% Abnormal hair quantity 50% Abnormality of the fingernails 50% Abnormality of the knees 50% Abnormality of the scalp 50% Abnormality of the tibia 50% Acne 50% Arthralgia 50% Arthritis 50% Clubbing of toes 50% Coarse facial features 50% Joint swelling 50% Limitation of joint mobility 50% Osteoarthritis 50% Osteolysis 50% Ptosis 50% Abnormality of the gastric mucosa 7.5% Anemia 7.5% Aseptic necrosis 7.5% Cerebral palsy 7.5% Deviation of finger 7.5% Gastrointestinal hemorrhage 7.5% Genu varum 7.5% Growth hormone excess 7.5% Gynecomastia 7.5% Hepatomegaly 7.5% Impaired temperature sensation 7.5% Malabsorption 7.5% Neoplasm of the lung 7.5% Neoplasm of the skin 7.5% Palmoplantar keratoderma 7.5% Reduced bone mineral density 7.5% Scoliosis 7.5% Short palm 7.5% Splenomegaly 7.5% Arthropathy - Autosomal dominant inheritance - Autosomal recessive inheritance - Clubbing - Clubbing of fingers - Congenital onset - Cutis gyrata of scalp - Disproportionate tall stature - Eczematoid dermatitis - High palate - Hyperhidrosis - Large fontanelles - Long clavicles - Osteolytic defects of the phalanges of the hand - Osteopenia - Osteoporosis - Palmoplantar hyperkeratosis - Patent ductus arteriosus - Pectus excavatum - Periosteal thickening of long tubular bones - Redundant skin - Thickened calvaria - Thickened skin - Wormian bones - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004667-3" qtype="treatment">What are the treatments for Pachydermoperiostosis ?</Question>
+			<Answer>How might pachydermoperiostosis be treated? Treatment for pachydermoperiostosis mainly focuses on the specific signs and symptoms present in each individual. Bone and joint pain may be treated with nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids or colchicine. A vagotomy, a surgical procedure in which certain branches of the vagus nerve are cut, may in some instances improve joint pain and swelling. Skin-related symptoms may be treated with retinoids. Plastic surgery may be performed to improve facial appearance in some individuals. Surgery may also be performed to treat clubbing of fingers and/or toes.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000289" source="GHR" url="https://ghr.nlm.nih.gov/condition/dilated-cardiomyopathy-with-ataxia-syndrome">
+<Focus>dilated cardiomyopathy with ataxia syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0878544</CUI>
+			<CUI>C0004134</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>3-methylglutaconic aciduria type V</Synonym>
+		<Synonym>DCMA</Synonym>
+		<Synonym>DCMA syndrome</Synonym>
+		<Synonym>DNAJC19 defect</Synonym>
+		<Synonym>MGA type V</Synonym>
+		<Synonym>MGA5</Synonym>
+		<Synonym>MGCA5</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000289-1" qtype="information">What is (are) dilated cardiomyopathy with ataxia syndrome ?</Question>
+			<Answer>Dilated cardiomyopathy with ataxia (DCMA) syndrome is an inherited condition characterized by heart problems, movement difficulties, and other features affecting multiple body systems.  Beginning in infancy to early childhood, most people with DCMA syndrome develop dilated cardiomyopathy, which is a condition that weakens and enlarges the heart, preventing it from pumping blood efficiently. Some affected individuals also have long QT syndrome, which is a heart condition that causes the cardiac muscle to take longer than usual to recharge between beats. The irregular heartbeats (arrhythmia) can lead to fainting (syncope) or cardiac arrest and sudden death. Rarely, heart problems improve over time; however, in most cases of DCMA syndrome, affected individuals do not survive past childhood due to heart failure. A small percentage of people with DCMA syndrome have no heart problems at all.  By age 2, children with DCMA syndrome have problems with coordination and balance (ataxia). These movement problems can result in delay of motor skills such as standing and walking, but most older children with DCMA syndrome can walk without support.  In addition to heart problems and movement difficulties, most individuals with DCMA syndrome grow slowly before and after birth, which leads to short stature. Additionally, many affected individuals have mild intellectual disability. Many males with DCMA syndrome have genital abnormalities such as undescended testes (cryptorchidism) or the urethra opening on the underside of the penis (hypospadias). Other common features of DCMA syndrome include unusually small red blood cells (microcytic anemia), which can cause pale skin; an abnormal buildup of fats in the liver (hepatic steatosis), which can damage the liver; and the degeneration of nerve cells that carry visual information from the eyes to the brain (optic nerve atrophy), which can lead to vision loss.  DCMA syndrome is associated with increased levels of a substance called 3-methylglutaconic acid in the urine. The amount of acid does not appear to influence the signs and symptoms of the condition. DCMA syndrome is one of a group of metabolic disorders that can be diagnosed by the presence of increased levels of 3-methylglutaconic acid in urine (3-methylglutaconic aciduria). People with DCMA syndrome also have high urine levels of another acid called 3-methylglutaric acid.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000289-2" qtype="frequency">How many people are affected by dilated cardiomyopathy with ataxia syndrome ?</Question>
+			<Answer>DCMA syndrome is a very rare disorder. Approximately 30 cases have been identified in the Dariusleut Hutterite population of the Great Plains region of Canada. Only a few affected individuals have been identified outside this population.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000289-3" qtype="genetic changes">What are the genetic changes related to dilated cardiomyopathy with ataxia syndrome ?</Question>
+			<Answer>Mutations in the DNAJC19 gene cause DCMA syndrome. The DNAJC19 gene provides instructions for making a protein found in structures called mitochondria, which are the energy-producing centers of cells. While the exact function of the DNAJC19 protein is unclear, it may regulate the transport of other proteins into and out of mitochondria.  The DNAJC19 gene mutations that cause DCMA syndrome lead to the production of an abnormally shortened protein that likely has impaired function. Researchers speculate that a lack of functional DNAJC19 protein alters the transport of other proteins into and out of the mitochondria. When too many or too few proteins move in and out of the mitochondria, energy production and mitochondrial survival can be reduced. Tissues that have high energy demands, such as the heart and the brain, are especially susceptible to decreases in cellular energy production. It is likely that this loss of cellular energy damages these and other tissues, leading to heart problems, movement difficulties, and other features of DCMA syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000289-4" qtype="inheritance">Is dilated cardiomyopathy with ataxia syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000289-5" qtype="treatment">What are the treatments for dilated cardiomyopathy with ataxia syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of dilated cardiomyopathy with ataxia syndrome:  - Ann &amp; Robert H. Lurie Children&apos;s Hospital of Chicago: Cardiomyopathy  - Baby&apos;s First Test  - Genetic Testing Registry: 3-methylglutaconic aciduria type V  - MedlinePlus Encyclopedia: Dilated Cardiomyopathy  - National Heart, Lung, and Blood Institute: How is Cardiomyopathy Diagnosed?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

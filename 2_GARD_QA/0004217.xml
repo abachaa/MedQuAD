@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004217" source="GARD" url="https://rarediseases.info.nih.gov/gard/156/muscle-eye-brain-disease">
+<Focus>Muscle eye brain disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0457133</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MEB</Synonym>
+		<Synonym>Muscle-eye-brain disease</Synonym>
+		<Synonym>Congenital muscular alpha-dystroglycanopathy with brain and eye anomalies</Synonym>
+		<Synonym>Congenital muscular dystrophy due to dystroglycanopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004217-1" qtype="information">What is (are) Muscle eye brain disease ?</Question>
+			<Answer>Muscle eye brain disease is a rare form of congenital muscular dystrophy. Individuals with this condition are born with muscle weakness (hypotonia), severe nearsightedness (myopia), glaucoma, and brain abnormalities. They also have developmental delay and intellectual disability. People with muscle eye brain disease frequently have additional eye abnormalities, hydrocephalus, and distinctive facial features. This condition is caused by mutations in gene a called POMGNT1, and it is inherited in an autosomal recessive pattern. The signs and symptoms of this condition vary among affected individuals, even among members of the same family.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004217-2" qtype="symptoms">What are the symptoms of Muscle eye brain disease ?</Question>
+			<Answer>What are the signs and symptoms of Muscle eye brain disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Muscle eye brain disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cognitive impairment 90% EEG abnormality 90% EMG abnormality 90% Gait disturbance 90% Glaucoma 90% Hydrocephalus 90% Myopathy 90% Myopia 90% Neurological speech impairment 90% Optic atrophy 90% Strabismus 90% Visual impairment 90% Abnormality of the voice 50% Cataract 50% Hypertonia 50% Muscular hypotonia 50% Seizures 50% Aplasia/Hypoplasia of the cerebellum 7.5% Hemiplegia/hemiparesis 7.5% Holoprosencephaly 7.5% Meningocele 7.5% Autosomal recessive inheritance - Buphthalmos - Cerebellar cyst - Cerebellar dysplasia - Cerebellar hypoplasia - Coloboma - Congenital myopia - Congenital onset - Decreased light- and dark-adapted electroretinogram amplitude - Elevated serum creatine phosphokinase - Enlarged flash visual evoked potentials - Generalized hypotonia - Generalized muscle weakness - Heterogeneous - Hypoplasia of midface - Hypoplasia of the brainstem - Hypoplasia of the retina - Intellectual disability, profound - Intellectual disability, severe - Malar flattening - Megalocornea - Microcephaly - Microphthalmia - Muscle weakness - Muscular dystrophy - Myoclonus - Nystagmus - Opacification of the corneal stroma - Pachygyria - Pallor - Phenotypic variability - Polymicrogyria - Retinal atrophy - Retinal dysplasia - Severe global developmental delay - Severe muscular hypotonia - Short nasal bridge - Spasticity - Type II lissencephaly - Uncontrolled eye movements - Undetectable electroretinogram - Ventriculomegaly - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004217-3" qtype="causes">What causes Muscle eye brain disease ?</Question>
+			<Answer>What causes muscle eye brain disease? Muscle eye brain disease is caused by mutations in the POMGNT1 gene. This gene provides instructions for making a protein that is involved in adding sugar molecules to a protein called alpha dystroglycan. Alpha dystroglycan is important for stabilizing the muscle cell during contraction and relaxation. This protein is also found in the brain and spinal cord (central nervous system), eye, and other parts of the body. All of the reported mutations in the POMGNT1 gene result in a complete loss of function of the POMGNT1 protein. The lack of functional POMGNT1 protein disrupts production of alpha dystroglycan.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

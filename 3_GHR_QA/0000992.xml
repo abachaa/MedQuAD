@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000992" source="GHR" url="https://ghr.nlm.nih.gov/condition/trimethylaminuria">
+<Focus>trimethylaminuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342739</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>fish malodor syndrome</Synonym>
+		<Synonym>fish odor syndrome</Synonym>
+		<Synonym>stale fish syndrome</Synonym>
+		<Synonym>TMAU</Synonym>
+		<Synonym>TMAuria</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000992-1" qtype="information">What is (are) trimethylaminuria ?</Question>
+			<Answer>Trimethylaminuria is a disorder in which the body is unable to break down trimethylamine, a chemical compound that has a pungent odor. Trimethylamine has been described as smelling like rotting fish, rotting eggs, garbage, or urine. As this compound builds up in the body, it causes affected people to give off a strong odor in their sweat, urine, and breath. The intensity of the odor may vary over time. The odor can interfere with many aspects of daily life, affecting a person&apos;s relationships, social life, and career. Some people with trimethylaminuria experience depression and social isolation as a result of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000992-2" qtype="frequency">How many people are affected by trimethylaminuria ?</Question>
+			<Answer>Trimethylaminuria is an uncommon genetic disorder; its incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000992-3" qtype="genetic changes">What are the genetic changes related to trimethylaminuria ?</Question>
+			<Answer>Mutations in the FMO3 gene cause trimethylaminuria. This gene provides instructions for making an enzyme that breaks down nitrogen-containing compounds from the diet, including trimethylamine. This compound is produced by bacteria in the intestine during the digestion of proteins from eggs, liver, legumes (such as soybeans and peas), certain kinds of fish, and other foods. Normally, the FMO3 enzyme converts strong-smelling trimethylamine into another molecule that has no odor. If the enzyme is missing or its activity is reduced because of a mutation in the FMO3 gene, trimethylamine is not processed properly and can build up in the body. As excess trimethylamine is released in a person&apos;s sweat, urine, and breath, it causes the odor characteristic of trimethylaminuria. Researchers believe that stress and diet also play a role in triggering symptoms.  Although FMO3 gene mutations account for most cases of trimethylaminuria, the condition can also be caused by other factors. The strong body odor may result from an excess of certain proteins in the diet or from an abnormal increase in bacteria that produce trimethylamine in the digestive system. A few cases of the disorder have been identified in adults with liver or kidney disease. Temporary symptoms of this condition have been reported in a small number of premature infants and in some healthy women at the start of menstruation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000992-4" qtype="inheritance">Is trimethylaminuria inherited ?</Question>
+			<Answer>Most cases of trimethylaminuria appear to be inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but typically do not show signs and symptoms of the condition. Carriers of an FMO3 mutation, however, may have mild symptoms of trimethylaminuria or experience temporary episodes of strong body odor.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000992-5" qtype="treatment">What are the treatments for trimethylaminuria ?</Question>
+			<Answer>These resources address the diagnosis or management of trimethylaminuria:  - Gene Review: Gene Review: Primary Trimethylaminuria  - Genetic Testing Registry: Trimethylaminuria  - Monell Chemical Senses Center: TMAU &amp; Body Malodors  - National Human Genome Research Institute: Diagnosis and Treatment of Trimethylaminuria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

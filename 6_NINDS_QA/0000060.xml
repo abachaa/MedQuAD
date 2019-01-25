@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000060" source="NINDS" url="http://www.ninds.nih.gov/disorders/cavernous_malformation/cavernous_malformation.htm">
+<Focus>Cavernous Malformation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000768</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000060-1" qtype="information">What is (are) Cavernous Malformation ?</Question>
+			<Answer>Cerebral cavernous malformations (CCMs) are vascular lesions comprised of clusters of tightly packed, abnormally thin-walled small blood vessels (capillaries) that displace normal neurological tissue in the brain or spinal cord. The vessels are filled with slow-moving or stagnant blood that is usually clotted or in a state of decomposition. Cavernous malformations can occur in the brain, spinal cord, and some other body regions. In the brain and spinal cord these cavernous lesions are quite fragile and are prone to bleeding, causing hemorrhagic strokes (bleeding into the brain), seizures, and neurological deficits. CCMs can range in size from a few fractions of an inch to several inches in diameter, depending on the number of blood vessels involved. Some people develop multiple lesions while others never experience related medical problems. Hereditary forms of CCM are caused by mutations in one of three CCM disease genes: CCM1, CCM2, and CCM3. A large population with hereditary CCM disease is found in New Mexico and the Southwestern United States, in which the disease is caused by mutations in the gene CCM1 (or KRIT1).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000060-2" qtype="treatment">What are the treatments for Cavernous Malformation ?</Question>
+			<Answer>The primary treatment option for a CCM is surgical removal. Radiation therapy has not been shown to be effective. The decision to operate is made based upon the risk of approaching the lesion. For example, symptomatic lesions close to the brain surface in non eloquent brain (areas for example, those areas not involved with motor function, speech, vision, hearing, memory, and learning) are very likely to be candidates for removal. On the other hand, lesions located in deep brain areas are associated with higher surgical risk and are often not candidates for surgery until the lesion has bled multiple times. Medications can often lessen general symptoms such as headache, back pain, and seizures.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000060-3" qtype="outlook">What is the outlook for Cavernous Malformation ?</Question>
+			<Answer>Rebleeding from a cavernous angioma is common, it is not predictable, and individuals frequently have multiple CCMs found via magnetic resonance imaging. Individuals with CCM are faced with a diagnosis that imparts risk of multiple future hemorrhages that occur seemingly at random and without any preventative therapy except surgical removal.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000060-4" qtype="research">what research (or clinical trials) is being done for Cavernous Malformation ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. Studies of cerebral cavernous malformations (CCMs) show that alterations in the function of structural proteins may also give rise to vascular malformations. Currently there is no therapy to prevent the development or progression of CCMs. NINDS-funded scientists have developed an animal model that studies two of the familial genes related to the development of CCMs. Research shows that the protein signaling pathway Rhoa/ROCK, which allows cells to communicate regarding the formation of cell structure, is involved in blood vessel activity/ and the flow of molecules and cells into and out of blood vessels. These scientists hypothesize that blocking ROCK activity will inhibit CCM development and hemorrhage, and possibly create a therapy for these malformations.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

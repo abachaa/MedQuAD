@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000088" source="GARD" url="https://rarediseases.info.nih.gov/gard/5725/acromegaly">
+<Focus>Acromegaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0001206</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Somatotroph adenoma</Synonym>
+		<Synonym>Growth hormone excess</Synonym>
+		<Synonym>Pituitary giant</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000088-1" qtype="information">What is (are) Acromegaly ?</Question>
+			<Answer>Acromegaly is a hormonal disorder that results from the pituitary gland producing too much growth hormone (GH). It is most often diagnosed in middle-aged adults, although symptoms can appear at any age. Signs and symptoms include abnormal growth and swelling of the hands and feet; bone changes that alter various facial features; arthritis; carpal tunnel syndrome; enlargement of body organs; and various other symptoms. The condition is usually caused by benign tumors on the pituitary called adenomas. Rarely, it is caused by tumors of the pancreas, lungs, and other parts of the brain. Acromegaly is usually treatable but when left untreated, it can result in serious illness and premature death. When GH-producing tumors occur in childhood, the disease that results is called gigantism rather than acromegaly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000088-2" qtype="symptoms">What are the symptoms of Acromegaly ?</Question>
+			<Answer>What are the signs and symptoms of Acromegaly? The Human Phenotype Ontology provides the following list of signs and symptoms for Acromegaly. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the nose 90% Abnormality of the tongue 90% Anterior hypopituitarism 90% Arthralgia 90% Broad foot 90% Broad forehead 90% Coarse facial features 90% Deep palmar crease 90% Deep plantar creases 90% Full cheeks 90% Hyperhidrosis 90% Joint swelling 90% Macrodactyly of finger 90% Mandibular prognathia 90% Osteoarthritis 90% Tall stature 90% Thick lower lip vermilion 90% Abnormality of the fingernails 50% Abnormality of the menstrual cycle 50% Abnormality of the teeth 50% Abnormality of the toenails 50% Abnormality of the voice 50% Apnea 50% Behavioral abnormality 50% Cerebral palsy 50% Diabetes mellitus 50% Frontal bossing 50% Hypertension 50% Kyphosis 50% Migraine 50% Neoplasm of the endocrine system 50% Palpebral edema 50% Paresthesia 50% Spinal canal stenosis 50% Synophrys 50% Abnormal renal physiology 7.5% Abnormality of reproductive system physiology 7.5% Abnormality of the mitral valve 7.5% Acanthosis nigricans 7.5% Acne 7.5% Erectile abnormalities 7.5% Galactorrhea 7.5% Generalized hyperpigmentation 7.5% Hypertrophic cardiomyopathy 7.5% Reduced consciousness/confusion 7.5% Autosomal dominant inheritance - Cardiomyopathy - Growth hormone excess - Increased serum insulin-like growth factor 1 {comment=&quot;HPO:probinson&quot;} - Left ventricular hypertrophy - Menstrual irregularities - Pituitary adenoma - Pituitary growth hormone cell adenoma - Pituitary prolactin cell adenoma - Prolactin excess - Somatic mutation - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

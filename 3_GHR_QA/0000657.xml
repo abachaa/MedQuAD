@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000657" source="GHR" url="https://ghr.nlm.nih.gov/condition/microvillus-inclusion-disease">
+<Focus>microvillus inclusion disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0341306</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital enteropathy</Synonym>
+		<Synonym>congenital familial protracted diarrhea with enterocyte brush-border abnormalities</Synonym>
+		<Synonym>congenital microvillous atrophy</Synonym>
+		<Synonym>Davidson disease</Synonym>
+		<Synonym>familial protracted enteropathy</Synonym>
+		<Synonym>intractable diarrhea of infancy</Synonym>
+		<Synonym>microvillous atrophy</Synonym>
+		<Synonym>microvillous inclusion disease</Synonym>
+		<Synonym>microvillus atrophy with diarrhea 2</Synonym>
+		<Synonym>MVID</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000657-1" qtype="information">What is (are) microvillus inclusion disease ?</Question>
+			<Answer>Microvillus inclusion disease is a condition characterized by chronic, watery, life-threatening diarrhea typically beginning in the first hours to days of life. Rarely, the diarrhea starts around age 3 or 4 months. Food intake increases the frequency of diarrhea.  Microvillus inclusion disease prevents the absorption of nutrients from food during digestion, resulting in malnutrition and dehydration. Affected infants often have difficulty gaining weight and growing at the expected rate (failure to thrive), developmental delay, liver and kidney problems, and thinning of the bones (osteoporosis). Some affected individuals develop cholestasis, which is a reduced ability to produce and release a digestive fluid called bile. Cholestasis leads to irreversible liver disease (cirrhosis).  In individuals with microvillus inclusion disease, lifelong nutritional support is needed and given through intravenous feedings (parenteral nutrition). Even with nutritional supplementation, most children with microvillus inclusion disease do not survive beyond childhood.  A variant of microvillus inclusion disease with milder diarrhea often does not require full-time parenteral nutrition. Individuals with the variant type frequently live past childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000657-2" qtype="frequency">How many people are affected by microvillus inclusion disease ?</Question>
+			<Answer>The prevalence of microvillus inclusion disease is unknown. At least 200 cases have been reported in Europe, although this condition occurs worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000657-3" qtype="genetic changes">What are the genetic changes related to microvillus inclusion disease ?</Question>
+			<Answer>Mutations in the MYO5B gene cause microvillus inclusion disease. The MYO5B gene provides instructions for making a protein called myosin Vb. This protein helps to determine the position of various components within cells (cell polarity). Myosin Vb also plays a role in moving components from the cell membrane to the interior of the cell for recycling.  MYO5B gene mutations that cause microvillus inclusion disease result in a decrease or absence of myosin Vb function. In cells that line the small intestine (enterocytes), a lack of myosin Vb function changes the cell polarity. As a result, enterocytes cannot properly form structures called microvilli, which normally project like small fingers from the surface of the cells and absorb nutrients and fluids from food as it passes through the intestine. Inside affected enterocytes, small clumps of abnormal microvilli mix with misplaced digestive proteins to form microvillus inclusions, which contribute to the dysfunction of enterocytes. Disorganized enterocytes with poorly formed microvilli reduce the intestine&apos;s ability to take in nutrients. The inability to absorb nutrients and fluids during digestion leads to recurrent diarrhea, malnutrition, and dehydration in individuals with microvillus inclusion disease.  Some people with the signs and symptoms of microvillus inclusion disease do not have mutations in the MYO5B gene. These cases may be variants of microvillus inclusion disease. Studies suggest that mutations in other genes can cause these cases, but the causes are usually unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000657-4" qtype="inheritance">Is microvillus inclusion disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000657-5" qtype="treatment">What are the treatments for microvillus inclusion disease ?</Question>
+			<Answer>These resources address the diagnosis or management of microvillus inclusion disease:  - Children&apos;s Hospital of Pittsburgh  - Genetic Testing Registry: Congenital microvillous atrophy  - Great Ormond Street Hospital for Children (UK): Intestinal Assessment  - International Microvillus Inclusion Disease Patient Registry   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

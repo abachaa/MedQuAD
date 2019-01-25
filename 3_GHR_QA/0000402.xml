@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000402" source="GHR" url="https://ghr.nlm.nih.gov/condition/generalized-arterial-calcification-of-infancy">
+<Focus>generalized arterial calcification of infancy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1859727</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>arteriopathia calcificans infantum</Synonym>
+		<Synonym>diffuse arterial calcifying elastopathy of infancy</Synonym>
+		<Synonym>GACI</Synonym>
+		<Synonym>idiopathic infantile arterial calcification</Synonym>
+		<Synonym>idiopathic obliterative arteriopathy</Synonym>
+		<Synonym>IIAC</Synonym>
+		<Synonym>infantile calcifying arteriopathy</Synonym>
+		<Synonym>medial coronary sclerosis of infancy</Synonym>
+		<Synonym>occlusive infantile arteriopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000402-1" qtype="information">What is (are) generalized arterial calcification of infancy ?</Question>
+			<Answer>Generalized arterial calcification of infancy (GACI) is a disorder affecting the circulatory system that becomes apparent before birth or within the first few months of life. It is characterized by abnormal accumulation of the mineral calcium (calcification) in the walls of the blood vessels that carry blood from the heart to the rest of the body (the arteries). This calcification often occurs along with thickening of the lining of the arterial walls (the intima). These changes lead to narrowing (stenosis) and stiffness of the arteries, which forces the heart to work harder to pump blood. As a result, heart failure may develop in affected individuals, with signs and symptoms including difficulty breathing, accumulation of fluid (edema) in the extremities, a bluish appearance of the skin or lips (cyanosis), severe high blood pressure (hypertension), and an enlarged heart (cardiomegaly).  People with GACI may also have calcification in other organs and tissues, particularly around the joints. In addition, they may have hearing loss or softening and weakening of the bones (rickets).  Some individuals with GACI also develop features similar to those of another disorder called pseudoxanthoma elasticum (PXE). PXE is characterized by the accumulation of calcium and other minerals (mineralization) in elastic fibers, which are a component of connective tissue. Connective tissue provides strength and flexibility to structures throughout the body. Features characteristic of PXE that also occur in GACI include yellowish bumps called papules on the underarms and other areas of skin that touch when a joint bends (flexor areas); and abnormalities called angioid streaks affecting tissue at the back of the eye, which can be detected during an eye examination.  As a result of the cardiovascular problems associated with GACI, individuals with this condition often do not survive past infancy, with death typically caused by a heart attack or stroke. However, affected individuals who survive their first six months, known as the critical period, can live into adolescence or early adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000402-2" qtype="frequency">How many people are affected by generalized arterial calcification of infancy ?</Question>
+			<Answer>The prevalence of GACI has been estimated to be about 1 in 391,000. At least 200 affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000402-3" qtype="genetic changes">What are the genetic changes related to generalized arterial calcification of infancy ?</Question>
+			<Answer>In about two-thirds of cases, GACI is caused by mutations in the ENPP1 gene. This gene provides instructions for making a protein that helps break down a molecule called adenosine triphosphate (ATP), specifically when it is found outside the cell (extracellular). Extracellular ATP is quickly broken down into other molecules called adenosine monophosphate (AMP) and pyrophosphate. Pyrophosphate is important in controlling calcification and other mineralization in the body. Mutations in the ENPP1 gene are thought to result in reduced availability of pyrophosphate, leading to excessive calcification in the body and causing the signs and symptoms of GACI.  GACI can also be caused by mutations in the ABCC6 gene. This gene provides instructions for making a protein called MRP6, also known as the ABCC6 protein. This protein is found primarily in the liver and kidneys, with small amounts in other tissues such as the skin, stomach, blood vessels, and eyes.  MRP6 is thought to transport certain substances across the cell membrane; however, the substances have not been identified. Some studies suggest that the MRP6 protein stimulates the release of ATP from cells through an unknown mechanism, allowing it to be broken down into AMP and pyrophosphate and helping to control deposition of calcium and other minerals in the body as described above. Other studies suggest that a substance transported by MRP6 is involved in the breakdown of ATP. This unidentified substance is thought to help prevent mineralization of tissues.  Mutations in the ABCC6 gene lead to an absent or nonfunctional MRP6 protein. It is unclear how a lack of properly functioning MRP6 protein leads to GACI. This shortage may impair the release of ATP from cells. As a result, little pyrophosphate is produced, and calcium accumulates in the blood vessels and other tissues affected by GACI. Alternatively, a lack of functioning MRP6 may impair the transport of a substance that would normally prevent mineralization, leading to the abnormal accumulation of calcium characteristic of GACI.  Some people with GACI do not have mutations in the ENPP1 or ABCC6 gene. In these affected individuals, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000402-4" qtype="inheritance">Is generalized arterial calcification of infancy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000402-5" qtype="treatment">What are the treatments for generalized arterial calcification of infancy ?</Question>
+			<Answer>These resources address the diagnosis or management of GACI:  - Gene Review: Gene Review: Generalized Arterial Calcification of Infancy  - Genetic Testing Registry: Generalized arterial calcification of infancy 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

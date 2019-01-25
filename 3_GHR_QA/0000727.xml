@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000727" source="GHR" url="https://ghr.nlm.nih.gov/condition/neuromyelitis-optica">
+<Focus>neuromyelitis optica</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027873</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Devic disease</Synonym>
+		<Synonym>Devic neuromyelitis optica</Synonym>
+		<Synonym>Devic syndrome</Synonym>
+		<Synonym>Devic's disease</Synonym>
+		<Synonym>optic-spinal MS</Synonym>
+		<Synonym>opticospinal MS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000727-1" qtype="information">What is (are) neuromyelitis optica ?</Question>
+			<Answer>Neuromyelitis optica is an autoimmune disorder that affects the nerves of the eyes and the central nervous system, which includes the brain and spinal cord. Autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. In neuromyelitis optica, the autoimmune attack causes inflammation of the nerves, and the resulting damage leads to the signs and symptoms of the condition.  Neuromyelitis optica is characterized by optic neuritis, which is inflammation of the nerve that carries information from the eye to the brain (optic nerve). Optic neuritis causes eye pain and vision loss, which can occur in one or both eyes.  Neuromyelitis optica is also characterized by transverse myelitis, which is inflammation of the spinal cord. The inflammation associated with transverse myelitis damages the spinal cord, causing a lesion that often extends the length of three or more bones of the spine (vertebrae). In addition, myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses, can be damaged. Transverse myelitis causes weakness, numbness, and paralysis of the arms and legs. Other effects of spinal cord damage can include disturbances in sensations, loss of bladder and bowel control, uncontrollable hiccupping, and nausea. In addition, muscle weakness may make breathing difficult and can cause life-threatening respiratory failure in people with neuromyelitis optica.  There are two forms of neuromyelitis optica, the relapsing form and the monophasic form. The relapsing form is most common. This form is characterized by recurrent episodes of optic neuritis and transverse myelitis. These episodes can be months or years apart, and there is usually partial recovery between episodes. However, most affected individuals eventually develop permanent muscle weakness and vision impairment that persist even between episodes. For unknown reasons, approximately nine times more women than men have the relapsing form. The monophasic form, which is less common, causes a single episode of neuromyelitis optica that can last several months. People with this form of the condition can also have lasting muscle weakness or paralysis and vision loss. This form affects men and women equally. The onset of either form of neuromyelitis optica can occur anytime from childhood to adulthood, although the condition most frequently begins in a person&apos;s forties.  Approximately one-quarter of individuals with neuromyelitis optica have signs or symptoms of another autoimmune disorder such as myasthenia gravis, systemic lupus erythematosus, or Sjgren syndrome. Some scientists believe that a condition described in Japanese patients as optic-spinal multiple sclerosis (or opticospinal multiple sclerosis) that affects the nerves of the eyes and central nervous system is the same as neuromyelitis optica.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000727-2" qtype="frequency">How many people are affected by neuromyelitis optica ?</Question>
+			<Answer>Neuromyelitis optica affects approximately 1 to 2 per 100,000 people worldwide. Women are affected by this condition more frequently than men.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000727-3" qtype="genetic changes">What are the genetic changes related to neuromyelitis optica ?</Question>
+			<Answer>No genes associated with neuromyelitis optica have been identified. However, a small percentage of people with this condition have a family member who is also affected, which indicates that there may be one or more genetic changes that increase susceptibility. It is thought that the inheritance of this condition is complex and that many environmental and genetic factors are involved in the development of the condition.  The aquaporin-4 protein (AQP4), a normal protein in the body, plays a role in neuromyelitis optica. The aquaporin-4 protein is found in several body systems but is most abundant in tissues of the central nervous system. Approximately 70 percent of people with this disorder produce an immune protein called an antibody that attaches (binds) to the aquaporin-4 protein. Antibodies normally bind to specific foreign particles and germs, marking them for destruction, but the antibody in people with neuromyelitis optica attacks a normal human protein; this type of antibody is called an autoantibody. The autoantibody in this condition is called NMO-IgG or anti-AQP4.  The binding of the NMO-IgG autoantibody to the aquaporin-4 protein turns on (activates) the complement system, which is a group of immune system proteins that work together to destroy pathogens, trigger inflammation, and remove debris from cells and tissues. Complement activation leads to the inflammation of the optic nerve and spinal cord that is characteristic of neuromyelitis optica, resulting in the signs and symptoms of the condition.  The levels of the NMO-IgG autoantibody are high during episodes of neuromyelitis optica, and the levels decrease between episodes with treatment of the disorder. However, it is unclear what triggers episodes to begin or end.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000727-4" qtype="inheritance">Is neuromyelitis optica inherited ?</Question>
+			<Answer>Neuromyelitis optica is usually not inherited. Rarely, this condition is passed through generations in families, but the inheritance pattern is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000727-5" qtype="treatment">What are the treatments for neuromyelitis optica ?</Question>
+			<Answer>These resources address the diagnosis or management of neuromyelitis optica:  - Genetic Testing Registry: Neuromyelitis optica  - National Institute of Neurological Disorders and Stroke: Neuromyelitis Optica Information Page  - The Transverse Myelitis Association: Acute Treatments   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

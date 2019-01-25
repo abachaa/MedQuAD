@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000486" source="GHR" url="https://ghr.nlm.nih.gov/condition/homocystinuria">
+<Focus>homocystinuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019880</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cystathionine beta synthase deficiency</Synonym>
+		<Synonym>homocysteinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000486-1" qtype="information">What is (are) homocystinuria ?</Question>
+			<Answer>Homocystinuria is an inherited disorder in which the body is unable to process certain building blocks of proteins (amino acids) properly. There are multiple forms of homocystinuria, which are distinguished by their signs and symptoms and genetic cause. The most common form of homocystinuria is characterized by nearsightedness (myopia), dislocation of the lens at the front of the eye, an increased risk of abnormal blood clotting, and brittle bones that are prone to fracture (osteoporosis) or other skeletal abnormalities. Some affected individuals also have developmental delay and learning problems.  Less common forms of homocystinuria can cause intellectual disability, failure to grow and gain weight at the expected rate (failure to thrive), seizures, problems with movement, and a blood disorder called megaloblastic anemia. Megaloblastic anemia occurs when a person has a low number of red blood cells (anemia), and the remaining red blood cells are larger than normal (megaloblastic).  The signs and symptoms of homocystinuria typically develop within the first year of life, although some mildly affected people may not develop features until later in childhood or adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000486-2" qtype="frequency">How many people are affected by homocystinuria ?</Question>
+			<Answer>The most common form of homocystinuria affects at least 1 in 200,000 to 335,000 people worldwide. The disorder appears to be more common in some countries, such as Ireland (1 in 65,000), Germany (1 in 17,800), Norway (1 in 6,400), and Qatar (1 in 1,800). The rarer forms of homocystinuria each have a small number of cases reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000486-3" qtype="genetic changes">What are the genetic changes related to homocystinuria ?</Question>
+			<Answer>Mutations in the CBS, MTHFR, MTR, MTRR, and MMADHC genes cause homocystinuria.  Mutations in the CBS gene cause the most common form of homocystinuria. The CBS gene provides instructions for producing an enzyme called cystathionine beta-synthase. This enzyme acts in a chemical pathway and is responsible for converting the amino acid homocysteine to a molecule called cystathionine. As a result of this pathway, other amino acids, including methionine, are produced. Mutations in the CBS gene disrupt the function of cystathionine beta-synthase, preventing homocysteine from being used properly. As a result, this amino acid and toxic byproducts substances build up in the blood. Some of the excess homocysteine is excreted in urine.  Rarely, homocystinuria can be caused by mutations in several other genes. The enzymes made by the MTHFR, MTR, MTRR, and MMADHC genes play roles in converting homocysteine to methionine. Mutations in any of these genes prevent the enzymes from functioning properly, which leads to a buildup of homocysteine in the body. Researchers have not determined how excess homocysteine and related compounds lead to the signs and symptoms of homocystinuria.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000486-4" qtype="inheritance">Is homocystinuria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.  Although people who carry one mutated copy and one normal copy of the CBS gene do not have homocystinuria, they are more likely than people without a CBS mutation to have shortages (deficiencies) of vitamin B12 and folic acid.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000486-5" qtype="treatment">What are the treatments for homocystinuria ?</Question>
+			<Answer>These resources address the diagnosis or management of homocystinuria:  - Baby&apos;s First Test  - Gene Review: Gene Review: Disorders of Intracellular Cobalamin Metabolism  - Gene Review: Gene Review: Homocystinuria Caused by Cystathionine Beta-Synthase Deficiency  - Genetic Testing Registry: Homocysteinemia due to MTHFR deficiency  - Genetic Testing Registry: Homocystinuria due to CBS deficiency  - Genetic Testing Registry: Homocystinuria, cblD type, variant 1  - Genetic Testing Registry: Homocystinuria-Megaloblastic anemia due to defect in cobalamin metabolism, cblE complementation type  - Genetic Testing Registry: METHYLCOBALAMIN DEFICIENCY, cblG TYPE  - Genetic Testing Registry: Methylmalonic acidemia with homocystinuria cblD  - Genetic Testing Registry: Methylmalonic aciduria, cblD type, variant 2  - MedlinePlus Encyclopedia: Homocystinuria  - New England Consortium of Metabolic Programs   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

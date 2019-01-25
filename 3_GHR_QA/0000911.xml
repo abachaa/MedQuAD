@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000911" source="GHR" url="https://ghr.nlm.nih.gov/condition/sickle-cell-disease">
+<Focus>sickle cell disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002895</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HbS disease</Synonym>
+		<Synonym>Hemoglobin S Disease</Synonym>
+		<Synonym>SCD</Synonym>
+		<Synonym>Sickle cell disorders</Synonym>
+		<Synonym>Sickling disorder due to hemoglobin S</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000911-1" qtype="information">What is (are) sickle cell disease ?</Question>
+			<Answer>Sickle cell disease is a group of disorders that affects hemoglobin, the molecule in red blood cells that delivers oxygen to cells throughout the body. People with this disorder have atypical hemoglobin molecules called hemoglobin S, which can distort red blood cells into a sickle, or crescent, shape.  Signs and symptoms of sickle cell disease usually begin in early childhood. Characteristic features of this disorder include a low number of red blood cells (anemia), repeated infections, and periodic episodes of pain. The severity of symptoms varies from person to person. Some people have mild symptoms, while others are frequently hospitalized for more serious complications.  The signs and symptoms of sickle cell disease are caused by the sickling of red blood cells. When red blood cells sickle, they break down prematurely, which can lead to anemia. Anemia can cause shortness of breath, fatigue, and delayed growth and development in children. The rapid breakdown of red blood cells may also cause yellowing of the eyes and skin, which are signs of jaundice. Painful episodes can occur when sickled red blood cells, which are stiff and inflexible, get stuck in small blood vessels. These episodes deprive tissues and organs of oxygen-rich blood and can lead to organ damage, especially in the lungs, kidneys, spleen, and brain. A particularly serious complication of sickle cell disease is high blood pressure in the blood vessels that supply the lungs (pulmonary hypertension). Pulmonary hypertension occurs in about one-third of adults with sickle cell disease and can lead to heart failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000911-2" qtype="frequency">How many people are affected by sickle cell disease ?</Question>
+			<Answer>Sickle cell disease affects millions of people worldwide. It is most common among people whose ancestors come from Africa; Mediterranean countries such as Greece, Turkey, and Italy; the Arabian Peninsula; India; and Spanish-speaking regions in South America, Central America, and parts of the Caribbean.  Sickle cell disease is the most common inherited blood disorder in the United States, affecting 70,000 to 80,000 Americans. The disease is estimated to occur in 1 in 500 African Americans and 1 in 1,000 to 1,400 Hispanic Americans.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000911-3" qtype="genetic changes">What are the genetic changes related to sickle cell disease ?</Question>
+			<Answer>Mutations in the HBB gene cause sickle cell disease.  Hemoglobin consists of four protein subunits, typically, two subunits called alpha-globin and two subunits called beta-globin. The HBB gene provides instructions for making beta-globin. Various versions of beta-globin result from different mutations in the HBB gene. One particular HBB gene mutation produces an abnormal version of beta-globin known as hemoglobin S (HbS). Other mutations in the HBB gene lead to additional abnormal versions of beta-globin such as hemoglobin C (HbC) and hemoglobin E (HbE). HBB gene mutations can also result in an unusually low level of beta-globin; this abnormality is called beta thalassemia.  In people with sickle cell disease, at least one of the beta-globin subunits in hemoglobin is replaced with hemoglobin S. In sickle cell anemia, which is a common form of sickle cell disease, hemoglobin S replaces both beta-globin subunits in hemoglobin. In other types of sickle cell disease, just one beta-globin subunit in hemoglobin is replaced with hemoglobin S. The other beta-globin subunit is replaced with a different abnormal variant, such as hemoglobin C. For example, people with sickle-hemoglobin C (HbSC) disease have hemoglobin molecules with hemoglobin S and hemoglobin C instead of beta-globin. If mutations that produce hemoglobin S and beta thalassemia occur together, individuals have hemoglobin S-beta thalassemia (HbSBetaThal) disease.  Abnormal versions of beta-globin can distort red blood cells into a sickle shape. The sickle-shaped red blood cells die prematurely, which can lead to anemia. Sometimes the inflexible, sickle-shaped cells get stuck in small blood vessels and can cause serious medical complications.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000911-4" qtype="inheritance">Is sickle cell disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000911-5" qtype="treatment">What are the treatments for sickle cell disease ?</Question>
+			<Answer>These resources address the diagnosis or management of sickle cell disease:  - Baby&apos;s First Test: S, Beta-Thalassemia  - Baby&apos;s First Test: S, C Disease  - Baby&apos;s First Test: Sickle Cell Anemia  - Gene Review: Gene Review: Sickle Cell Disease  - Genetic Testing Registry: Hb SS disease  - Genomics Education Programme (UK)  - Howard University Hospital Center for Sickle Cell Disease  - MedlinePlus Encyclopedia: Sickle Cell Anemia  - MedlinePlus Encyclopedia: Sickle Cell Test   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

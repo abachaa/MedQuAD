@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000265" source="GHR" url="https://ghr.nlm.nih.gov/condition/cytochrome-c-oxidase-deficiency">
+<Focus>cytochrome c oxidase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268237</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>complex IV deficiency</Synonym>
+		<Synonym>COX deficiency</Synonym>
+		<Synonym>cytochrome-c oxidase deficiency</Synonym>
+		<Synonym>mitochondrial complex IV deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000265-1" qtype="information">What is (are) cytochrome c oxidase deficiency ?</Question>
+			<Answer>Cytochrome c oxidase deficiency is a genetic condition that can affect several parts of the body, including the muscles used for movement (skeletal muscles), the heart, the brain, or the liver. Signs and symptoms of cytochrome c oxidase deficiency usually begin before age 2 but can appear later in mildly affected individuals.  The severity of cytochrome c oxidase deficiency varies widely among affected individuals, even among those in the same family. People who are mildly affected tend to have muscle weakness (myopathy) and poor muscle tone (hypotonia) with no other health problems. More severely affected people have myopathy along with severe brain dysfunction (encephalomyopathy). Approximately one quarter of individuals with cytochrome c oxidase deficiency have a type of heart disease that enlarges and weakens the heart muscle (hypertrophic cardiomyopathy). Another possible feature of this condition is an enlarged liver, which may lead to liver failure. Most individuals with cytochrome c oxidase deficiency have a buildup of a chemical called lactic acid in the body (lactic acidosis), which can cause nausea and an irregular heart rate, and can be life-threatening.  Many people with cytochrome c oxidase deficiency have a specific group of features known as Leigh syndrome. The signs and symptoms of Leigh syndrome include loss of mental function, movement problems, hypertrophic cardiomyopathy, eating difficulties, and brain abnormalities. Cytochrome c oxidase deficiency is one of the many causes of Leigh syndrome.  Cytochrome c oxidase deficiency is frequently fatal in childhood, although some individuals with mild signs and symptoms survive into adolescence or adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000265-2" qtype="frequency">How many people are affected by cytochrome c oxidase deficiency ?</Question>
+			<Answer>In Eastern Europe, cytochrome c oxidase deficiency is estimated to occur in 1 in 35,000 individuals. The prevalence of this condition outside this region is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000265-3" qtype="genetic changes">What are the genetic changes related to cytochrome c oxidase deficiency ?</Question>
+			<Answer>Cytochrome c oxidase deficiency is caused by mutations in one of at least 14 genes. In humans, most genes are found in DNA in the cell&apos;s nucleus (nuclear DNA). However, some genes are found in DNA in specialized structures in the cell called mitochondria. This type of DNA is known as mitochondrial DNA (mtDNA). Most cases of cytochrome c oxidase deficiency are caused by mutations in genes found within nuclear DNA; however, in some rare instances, mutations in genes located within mtDNA cause this condition.  The genes associated with cytochrome c oxidase deficiency are involved in energy production in mitochondria through a process called oxidative phosphorylation. The gene mutations that cause cytochrome c oxidase deficiency affect an enzyme complex called cytochrome c oxidase, which is responsible for one of the final steps in oxidative phosphorylation. Cytochrome c oxidase is made up of two large enzyme complexes called holoenzymes, which are each composed of multiple protein subunits. Three of these subunits are produced from mitochondrial genes; the rest are produced from nuclear genes. Many other proteins, all produced from nuclear genes, are involved in assembling these subunits into holoenzymes.  Most mutations that cause cytochrome c oxidase alter proteins that assemble the holoenzymes. As a result, the holoenzymes are either partially assembled or not assembled at all. Without complete holoenzymes, cytochrome c oxidase cannot form. Mutations in the three mitochondrial genes and a few nuclear genes that provide instructions for making the holoenzyme subunits can also cause cytochrome c oxidase deficiency. Altered subunit proteins reduce the function of the holoenzymes, resulting in a nonfunctional version of cytochrome c oxidase. A lack of functional cytochrome c oxidase disrupts the last step of oxidative phosphorylation, causing a decrease in energy production.  Researchers believe that impaired oxidative phosphorylation can lead to cell death by reducing the amount of energy available in the cell. Certain tissues that require large amounts of energy, such as the brain, muscles, and heart, seem especially sensitive to decreases in cellular energy. Cell death in other sensitive tissues may also contribute to the features of cytochrome c oxidase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000265-4" qtype="inheritance">Is cytochrome c oxidase deficiency inherited ?</Question>
+			<Answer>Cytochrome c oxidase deficiency can have different inheritance patterns depending on the gene involved.  When this condition is caused by mutations in genes within nuclear DNA, it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  When this condition is caused by mutations in genes within mtDNA, it is inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000265-5" qtype="treatment">What are the treatments for cytochrome c oxidase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of cytochrome c oxidase deficiency:  - Cincinnati Children&apos;s Hospital: Acute Liver Failure  - Cincinnati Children&apos;s Hospital: Cardiomyopathies  - Genetic Testing Registry: Cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency  - Genetic Testing Registry: Cytochrome-c oxidase deficiency  - The United Mitochondrial Disease Foundation: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

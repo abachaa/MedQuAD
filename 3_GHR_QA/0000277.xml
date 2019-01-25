@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000277" source="GHR" url="https://ghr.nlm.nih.gov/condition/dentinogenesis-imperfecta">
+<Focus>dentinogenesis imperfecta</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011436</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DGI</Synonym>
+		<Synonym>Hereditary Opalescent Dentin</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000277-1" qtype="information">What is (are) dentinogenesis imperfecta ?</Question>
+			<Answer>Dentinogenesis imperfecta is a disorder of tooth development. This condition causes the teeth to be discolored (most often a blue-gray or yellow-brown color) and translucent. Teeth are also weaker than normal, making them prone to rapid wear, breakage, and loss. These problems can affect both primary (baby) teeth and permanent teeth.  Researchers have described three types of dentinogenesis imperfecta with similar dental abnormalities. Type I occurs in people who have osteogenesis imperfecta, a genetic condition in which bones are brittle and easily broken. Dentinogenesis imperfecta type II and type III usually occur in people without other inherited disorders. A few older individuals with type II have had progressive high-frequency hearing loss in addition to dental abnormalities, but it is not known whether this hearing loss is related to dentinogenesis imperfecta.  Some researchers believe that dentinogenesis imperfecta type II and type III, along with a condition called dentin dysplasia type II, are actually forms of a single disorder. The signs and symptoms of dentin dysplasia type II are very similar to those of dentinogenesis imperfecta. However, dentin dysplasia type II affects the primary teeth much more than the permanent teeth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000277-2" qtype="frequency">How many people are affected by dentinogenesis imperfecta ?</Question>
+			<Answer>Dentinogenesis imperfecta affects an estimated 1 in 6,000 to 8,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000277-3" qtype="genetic changes">What are the genetic changes related to dentinogenesis imperfecta ?</Question>
+			<Answer>Mutations in the DSPP gene have been identified in people with dentinogenesis imperfecta type II and type III. Mutations in this gene are also responsible for dentin dysplasia type II. Dentinogenesis imperfecta type I occurs as part of osteogenesis imperfecta, which is caused by mutations in one of several other genes (most often the COL1A1 or COL1A2 genes).  The DSPP gene provides instructions for making two proteins that are essential for normal tooth development. These proteins are involved in the formation of dentin, which is a bone-like substance that makes up the protective middle layer of each tooth. DSPP gene mutations alter the proteins made from the gene, leading to the production of abnormally soft dentin. Teeth with defective dentin are discolored, weak, and more likely to decay and break. It is unclear whether DSPP gene mutations are related to the hearing loss found in a few older individuals with dentinogenesis imperfecta type II.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000277-4" qtype="inheritance">Is dentinogenesis imperfecta inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000277-5" qtype="treatment">What are the treatments for dentinogenesis imperfecta ?</Question>
+			<Answer>These resources address the diagnosis or management of dentinogenesis imperfecta:  - Genetic Testing Registry: Dentinogenesis imperfecta - Shield&apos;s type II  - Genetic Testing Registry: Dentinogenesis imperfecta - Shield&apos;s type III  - MedlinePlus Encyclopedia: Tooth - abnormal colors   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

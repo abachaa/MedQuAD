@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000919" source="GHR" url="https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome">
+<Focus>Smith-Lemli-Opitz syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2936904</CUI>
+			<CUI>C0175694</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>7-Dehydrocholesterol reductase deficiency</Synonym>
+		<Synonym>RSH Syndrome</Synonym>
+		<Synonym>SLO syndrome</Synonym>
+		<Synonym>SLOS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000919-1" qtype="information">What is (are) Smith-Lemli-Opitz syndrome ?</Question>
+			<Answer>Smith-Lemli-Opitz syndrome is a developmental disorder that affects many parts of the body. This condition is characterized by distinctive facial features, small head size (microcephaly), intellectual disability or learning problems, and behavioral problems. Many affected children have the characteristic features of autism, a developmental condition that affects communication and social interaction. Malformations of the heart, lungs, kidneys, gastrointestinal tract, and genitalia are also common. Infants with Smith-Lemli-Opitz syndrome have weak muscle tone (hypotonia), experience feeding difficulties, and tend to grow more slowly than other infants. Most affected individuals have fused second and third toes (syndactyly), and some have extra fingers or toes (polydactyly).  The signs and symptoms of Smith-Lemli-Opitz syndrome vary widely. Mildly affected individuals may have only minor physical abnormalities with learning and behavioral problems. Severe cases can be life-threatening and involve profound intellectual disability and major physical abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000919-2" qtype="frequency">How many people are affected by Smith-Lemli-Opitz syndrome ?</Question>
+			<Answer>Smith-Lemli-Opitz syndrome affects an estimated 1 in 20,000 to 60,000 newborns. This condition is most common in whites of European ancestry, particularly people from Central European countries such as Slovakia and the Czech Republic. It is very rare among African and Asian populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000919-3" qtype="genetic changes">What are the genetic changes related to Smith-Lemli-Opitz syndrome ?</Question>
+			<Answer>Mutations in the DHCR7 gene cause Smith-Lemli-Opitz syndrome.  The DHCR7 gene provides instructions for making an enzyme called 7-dehydrocholesterol reductase. This enzyme is responsible for the final step in the production of cholesterol. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals (particularly egg yolks, meat, poultry, fish, and dairy products). Cholesterol is necessary for normal embryonic development and has important functions both before and after birth. It is a structural component of cell membranes and the protective substance covering nerve cells (myelin). Additionally, cholesterol plays a role in the production of certain hormones and digestive acids.  Mutations in the DHCR7 gene reduce or eliminate the activity of 7-dehydrocholesterol reductase, preventing cells from producing enough cholesterol. A lack of this enzyme also allows potentially toxic byproducts of cholesterol production to build up in the blood, nervous system, and other tissues. The combination of low cholesterol levels and an accumulation of other substances likely disrupts the growth and development of many body systems. It is not known, however, how this disturbance in cholesterol production leads to the specific features of Smith-Lemli-Opitz syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000919-4" qtype="inheritance">Is Smith-Lemli-Opitz syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000919-5" qtype="treatment">What are the treatments for Smith-Lemli-Opitz syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Smith-Lemli-Opitz syndrome:  - Gene Review: Gene Review: Smith-Lemli-Opitz Syndrome  - Genetic Testing Registry: Smith-Lemli-Opitz syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

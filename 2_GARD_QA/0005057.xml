@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005057" source="GARD" url="https://rarediseases.info.nih.gov/gard/12016/primary-melanoma-of-the-central-nervous-system">
+<Focus>Primary melanoma of the central nervous system</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1332888</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Primary CNS melanoma</Synonym>
+		<Synonym>Primary melanoma of the CNS</Synonym>
+		<Synonym>Primary meningeal melanoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005057-1" qtype="causes">What causes Primary melanoma of the central nervous system ?</Question>
+			<Answer>What causes primary melanoma of the central nervous system? Although the exact cause of this condition is unknown, researchers have identified somatic mutations in the the GNAQ gene in 7 of 19 patients (37 percent) with primary malignant melanocytic tumors of the central nervous system. Somatic mutations are not inherited but occur during a person&apos;s lifetime. This mutation makes the Gnaq protein constantly active. The same mutation has been identified in approximately half of patients with intraocular melanoma.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

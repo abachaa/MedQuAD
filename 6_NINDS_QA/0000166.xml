@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000166" source="NINDS" url="http://www.ninds.nih.gov/disorders/isaacs_syndrome/isaacs_syndrome.htm">
+<Focus>Isaacs' Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242287</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000166-1" qtype="information">What is (are) Isaacs' Syndrome ?</Question>
+			<Answer>Issacs&apos; syndrome (also known as neuromyotonia, Isaacs-Mertens syndrome, continuous muscle fiber activity syndrome, and quantal squander syndrome) is a rare neuromuscular disorder caused by hyperexcitability and continuous firing of the peripheral nerve axons that activate muscle fibers. Symptoms, which include progressive muscle stiffness, continuously contracting or twitching muscles (myokymia), cramping, increased sweating, and delayed muscle relaxation, occur even during sleep or when individuals are under general anesthesia. Many people also develop weakened reflexes and muscle pain, but numbness is relatively uncommon. In most people with Issacs&apos; syndrome, stiffness is most prominent in limb and trunk muscles, although symptoms can be limited to cranial muscles. Speech and breathing may be affected if pharyngeal or laryngeal muscles are involved. Onset is between ages 15 and 60, with most individuals experiencing symptoms before age 40. There are hereditary and acquired (occurring from unknown causes) forms of the disorder. The acquired form occasionally develops in association with peripheral neuropathies or after radiation treatment, but more often is caused by an autoimmune condition. Autoimmune-mediated Issacs&apos; syndrome is typically caused by antibodies that bind to potassium channels on the motor nerve. Issacs&apos; syndrome is only one of several neurological conditions that can be caused by potassium channel antibodies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000166-2" qtype="treatment">What are the treatments for Isaacs' Syndrome ?</Question>
+			<Answer>Anticonvulsants, including phenytoin and carbamazepine, usually provide significant relief from the stiffness, muscle spasms, and pain associated with Isaacs&apos; syndrome. Plasma exchange may provide short-term relief for individuals with some forms of the acquired disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000166-3" qtype="outlook">What is the outlook for Isaacs' Syndrome ?</Question>
+			<Answer>There is no cure for Isaacs&apos; syndrome. The long-term prognosis for individuals with the disorder is uncertain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000166-4" qtype="research">what research (or clinical trials) is being done for Isaacs' Syndrome ?</Question>
+			<Answer>The NINDS supports an extensive research program of basic studies to increase understanding of diseases that affect the brain, spinal cord, muscles, and nerves. This research examines the genetics, symptoms, progression, and psychological and behavioral impact of diseases, with the goal of improving ways to diagnose, treat, and, ultimately, cure these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

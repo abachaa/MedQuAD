@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004066" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000328.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Type 2 diabetes - self-care</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011860</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004066-1" qtype="information">What is (are) Type 2 diabetes - self-care ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004066-2" qtype="symptoms">What are the symptoms of Type 2 diabetes - self-care ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004066-4" qtype="treatment">What are the treatments for Type 2 diabetes - self-care ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0004066-8" qtype="prevention">How to prevent Type 2 diabetes - self-care ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000014" source="NINDS" url="http://www.ninds.nih.gov/disorders/alexander_disease/alexander_disease.htm">
+<Focus>Alexander Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270726</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000014-1" qtype="information">What is (are) Alexander Disease ?</Question>
+			<Answer>Alexander disease is one of a group of neurological conditions known as the leukodystrophies, disorders that are the result of abnormalities in myelin, the white matter that protects nerve fibers in the brain. Alexander disease is a progressive and often fatal disease. The destruction of white matter is accompanied by the formation of Rosenthal fibers, which are abnormal clumps of protein that accumulate in non-neuronal cells of the brain called astrocytes. Rosenthal fibers are sometimes found in other disorders, but not in the same amount or area of the brain that are featured in Alexander disease. The infantile form is the most common type of Alexander disease. It has an onset during the first two years of life. Usually there are both mental and physical developmental delays, followed by the loss of developmental milestones, an abnormal increase in head size, and seizures. The juvenile form of Alexander disease is less common and has an onset between the ages of two and thirteen. These children may have excessive vomiting, difficulty swallowing and speaking, poor coordination, and loss of motor control. Adult-onset forms of Alexander disease are less common. The symptoms sometimes mimic those of Parkinsons disease or multiple sclerosis, or may present primarily as a psychiatric disorder. The disease occurs in both males and females, and there are no ethnic, racial, geographic, or cultural/economic differences in its distribution.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000014-2" qtype="treatment">What are the treatments for Alexander Disease ?</Question>
+			<Answer>There is no cure for Alexander disease, nor is there a standard course of treatment. Treatment of Alexander disease is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000014-3" qtype="outlook">What is the outlook for Alexander Disease ?</Question>
+			<Answer>The prognosis for individuals with Alexander disease is generally poor. Most children with the infantile form do not survive past the age of 6. Juvenile and adult onset forms of the disorder have a slower, more lengthy course.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000014-4" qtype="research">what research (or clinical trials) is being done for Alexander Disease ?</Question>
+			<Answer>Recent discoveries show that most individuals (approximately 90 percent) with Alexander disease have a mutation in the gene that makes glial fibrillary acidic protein (GFAP). GFAP is a normal component of the brain, but it is unclear how the mutations in this genecauses the disease. In most cases mutations occur spontaneously are not inherited from parents.A small number of people thought to have Alexander disease do not have identifiable mutations in GFAP, which leads researchers to believe that there may be other genetic or perhaps even non-genetic causes of Alexander disease. Current research is aimed at understanding the mechanisms by which the mutations cause disease, developing better animal models for the disorder, and exploring potential strategies for treatment. At present, there is no exact animal model for the disease; however, mice have been engineered to produce the same mutant forms of GFAP found in individuals with Alexander disease. These mice form Rosenthal fibers and have a predisposition for seizures, but do not yet mimic all features of human disease (such as the leukodystrophies). One clinical study is underway to identify biomarkers of disease severity or progression in samples of blood or cerebrospinal fluid. Such biomarkers, if found, would be a major advantage for evaluating the response to any treatments that are developed in the future.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

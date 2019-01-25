@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000258" source="GHR" url="https://ghr.nlm.nih.gov/condition/cushing-disease">
+<Focus>Cushing disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221406</CUI>
+			<CUI>C0001622</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hypercortisolism</Synonym>
+		<Synonym>pituitary ACTH hypersecretion</Synonym>
+		<Synonym>pituitary Cushing syndrome</Synonym>
+		<Synonym>pituitary-dependant Cushing syndrome</Synonym>
+		<Synonym>pituitary-dependant hypercortisolism</Synonym>
+		<Synonym>pituitary-dependant hypercortisolism disorder</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000258-1" qtype="information">What is (are) Cushing disease ?</Question>
+			<Answer>Cushing disease is caused by elevated levels of a hormone called cortisol, which leads to a wide variety of signs and symptoms. This condition usually occurs in adults between the ages of 20 and 50; however, children may also be affected. The first sign of this condition is usually weight gain around the trunk and in the face. Affected individuals may get stretch marks (striae) on their thighs and abdomen and bruise easily. Individuals with Cushing disease can develop a hump on their upper back caused by abnormal deposits of fat. People with this condition can have muscle weakness, severe tiredness, and progressively thin and brittle bones that are prone to fracture (osteoporosis). They also have a weakened immune system and are at an increased risk of infections. Cushing disease can cause mood disorders such as anxiety, irritability, and depression. This condition can also affect a person&apos;s concentration and memory. People with Cushing disease have an increased chance of developing high blood pressure (hypertension) and diabetes. Women with Cushing disease may experience irregular menstruation and have excessive hair growth (hirsutism) on their face, abdomen, and legs. Men with Cushing disease may have erectile dysfunction. Children with Cushing disease typically experience slow growth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000258-2" qtype="frequency">How many people are affected by Cushing disease ?</Question>
+			<Answer>Cushing disease is estimated to occur in 10 to 15 per million people worldwide. For reasons that are unclear, Cushing disease affects females more often than males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000258-3" qtype="genetic changes">What are the genetic changes related to Cushing disease ?</Question>
+			<Answer>The genetic cause of Cushing disease is often unknown. In only a few instances, mutations in certain genes have been found to lead to Cushing disease. These genetic changes are called somatic mutations. They are acquired during a person&apos;s lifetime and are present only in certain cells. The genes involved often play a role in regulating the activity of hormones.  Cushing disease is caused by an increase in the hormone cortisol, which helps maintain blood sugar levels, protects the body from stress, and stops (suppresses) inflammation. Cortisol is produced by the adrenal glands, which are small glands located at the top of each kidney. The production of cortisol is triggered by the release of a hormone called adrenocorticotropic hormone (ACTH) from the pituitary gland, located at the base of the brain. The adrenal and pituitary glands are part of the hormone-producing (endocrine) system in the body that regulates development, metabolism, mood, and many other processes.  Cushing disease occurs when a noncancerous (benign) tumor called an adenoma forms in the pituitary gland, causing excessive release of ACTH and, subsequently, elevated production of cortisol. Prolonged exposure to increased cortisol levels results in the signs and symptoms of Cushing disease: changes to the amount and distribution of body fat, decreased muscle mass leading to weakness and reduced stamina, thinning skin causing stretch marks and easy bruising, thinning of the bones resulting in osteoporosis, increased blood pressure, impaired regulation of blood sugar leading to diabetes, a weakened immune system, neurological problems, irregular menstruation in women, and slow growth in children. The overactive adrenal glands that produce cortisol may also produce increased amounts of male sex hormones (androgens), leading to hirsutism in females. The effect of the excess androgens on males is unclear.  Most often, Cushing disease occurs alone, but rarely, it appears as a symptom of genetic syndromes that have pituitary adenomas as a feature, such as multiple endocrine neoplasia type 1 (MEN1) or familial isolated pituitary adenoma (FIPA).  Cushing disease is a subset of a larger condition called Cushing syndrome, which results when cortisol levels are increased by one of a number of possible causes. Sometimes adenomas that occur in organs or tissues other than the pituitary gland, such as adrenal gland adenomas, can also increase cortisol production, causing Cushing syndrome. Certain prescription drugs can result in an increase in cortisol production and lead to Cushing syndrome. Sometimes prolonged periods of stress or depression can cause an increase in cortisol levels; when this occurs, the condition is known as pseudo-Cushing syndrome. Not accounting for increases in cortisol due to prescription drugs, pituitary adenomas cause the vast majority of Cushing syndrome in adults and children.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000258-4" qtype="inheritance">Is Cushing disease inherited ?</Question>
+			<Answer>Most cases of Cushing disease are sporadic, which means they occur in people with no history of the disorder in their family. Rarely, the condition has been reported to run in families; however, it does not have a clear pattern of inheritance.  The various syndromes that have Cushing disease as a feature can have different inheritance patterns. Most of these disorders are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000258-5" qtype="treatment">What are the treatments for Cushing disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Cushing disease:  - Genetic Testing Registry: Pituitary dependent hypercortisolism  - MedlinePlus Encyclopedia: Cortisol Level  - MedlinePlus Encyclopedia: Cushing Disease  - The Endocrine Society&apos;s Clinical Guidelines: The Diagnosis of Cushing&apos;s Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

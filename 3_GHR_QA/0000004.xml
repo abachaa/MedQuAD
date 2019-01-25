@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000004" source="GHR" url="https://ghr.nlm.nih.gov/condition/acatalasemia">
+<Focus>acatalasemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268419</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acatalasia</Synonym>
+		<Synonym>catalase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000004-1" qtype="information">What is (are) acatalasemia ?</Question>
+			<Answer>Acatalasemia is a condition characterized by very low levels of an enzyme called catalase. Many people with acatalasemia never have any health problems related to the condition and are diagnosed because they have affected family members.  Some of the first reported individuals with acatalasemia developed open sores (ulcers) inside the mouth that led to the death of soft tissue (gangrene). When mouth ulcers and gangrene occur with acatalasemia, the condition is known as Takahara disease. These complications are rarely seen in more recent cases of acatalasemia, probably because of improvements in oral hygiene.  Studies suggest that people with acatalasemia have an increased risk of developing type 2 diabetes mellitus, which is the most common form of diabetes. A higher percentage of people with acatalasemia have type 2 diabetes mellitus than in the general population, and the disease tends to develop at an earlier age (in a person&apos;s thirties or forties, on average). Researchers speculate that acatalasemia could also be a risk factor for other common, complex diseases; however, only a small number of cases have been studied.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000004-2" qtype="frequency">How many people are affected by acatalasemia ?</Question>
+			<Answer>More than 100 cases of acatalasemia have been reported in the medical literature. Researchers estimate that the condition occurs in about 1 in 12,500 people in Japan, 1 in 20,000 people in Hungary, and 1 in 25,000 people in Switzerland. The prevalence of acatalasemia in other populations is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000004-3" qtype="genetic changes">What are the genetic changes related to acatalasemia ?</Question>
+			<Answer>Mutations in the CAT gene can cause acatalasemia. This gene provides instructions for making the enzyme catalase, which breaks down hydrogen peroxide molecules into oxygen and water. Hydrogen peroxide is produced through chemical reactions within cells. At low levels, it is involved in several chemical signaling pathways, but at high levels it is toxic to cells. If hydrogen peroxide is not broken down by catalase, additional reactions convert it into compounds called reactive oxygen species that can damage DNA, proteins, and cell membranes.  Mutations in the CAT gene greatly reduce the activity of catalase. A shortage of this enzyme can allow hydrogen peroxide to build up to toxic levels in certain cells. For example, hydrogen peroxide produced by bacteria in the mouth may accumulate in and damage soft tissues, leading to mouth ulcers and gangrene. A buildup of hydrogen peroxide may also damage beta cells of the pancreas, which release a hormone called insulin that helps control blood sugar. Malfunctioning beta cells are thought to underlie the increased risk of type 2 diabetes mellitus in people with acatalasemia. It is unclear why some people have no health problems associated with a loss of catalase activity.  Many people with reduced catalase activity do not have an identified mutation in the CAT gene; in these cases, the cause of the condition is unknown. Researchers believe that other genetic and environmental factors can also influence the activity of catalase.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000004-4" qtype="inheritance">Is acatalasemia inherited ?</Question>
+			<Answer>Acatalasemia has an autosomal recessive pattern of inheritance, which means both copies of the CAT gene in each cell have mutations. When both copies of the gene are altered, the activity of catalase is reduced to less than 10 percent of normal.  When only one of the two copies of the CAT gene has a mutation, the activity of catalase is reduced by approximately half. This reduction in catalase activity is often called hypocatalasemia. Like acatalasemia, hypocatalasemia usually does not cause any health problems.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000004-5" qtype="treatment">What are the treatments for acatalasemia ?</Question>
+			<Answer>These resources address the diagnosis or management of acatalasemia:  - Genetic Testing Registry: Acatalasemia  - Genetic Testing Registry: Acatalasemia, japanese type   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

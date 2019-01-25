@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004225" source="GARD" url="https://rarediseases.info.nih.gov/gard/3855/muscular-dystrophy-congenital-merosin-positive">
+<Focus>Muscular dystrophy, congenital, merosin-positive</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0699743</CUI>
+			<CUI>C0333606</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital muscular dystrophy</Synonym>
+		<Synonym>Rigid spine syndrome</Synonym>
+		<Synonym>Ullrich congenital muscular dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004225-1" qtype="information">What is (are) Muscular dystrophy, congenital, merosin-positive ?</Question>
+			<Answer>The congenital muscle dystrophies are currently classified according to the genetic defects. Historically, congenital muscular dystrophies were classified in two broad groups: Classic CMD (which included the Merosin-deficient CMD and the Merosin-positive CMD) and the CMD with central nervous system (CNS) abnormalities (Fukuyama CMD, muscle-eye-brain disease and Walker-Warburg syndrome). Therefore, merosin-positive congenital muscle dystrophy (CMD) is now considered an old term which refers to a group of diseases without structural brain abnormalities that are caused by a variety of gene mutations, resulting in protein defects that do not affect the merosin protein. It usually has a milder phenotype than the merosin-negative CMD dystrophy group and includes, among others: Classic CMD without distinguishing features Rigid spine syndrome associated with mutations in the selenoprotein N1 gene (SEPN1) CMD with hyperextensible distal joints (Ullrich type) CMD with intellectual disability or sensory abnormalities. The pattern of muscle weakness and wasting in the patients within this group of congenital muscular dystrophy conditions is worse in the proximal upper limb-girdle and trunk muscles. Lower limb muscles may be mildly involved. Muscle biopsy shows a dystrophic pattern with normal staining for dystrophin, laminin alpha-2 of merosin and the sarcoglycans.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004225-2" qtype="symptoms">What are the symptoms of Muscular dystrophy, congenital, merosin-positive ?</Question>
+			<Answer>What are the signs and symptoms of Muscular dystrophy, congenital, merosin-positive? The Human Phenotype Ontology provides the following list of signs and symptoms for Muscular dystrophy, congenital, merosin-positive. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Congenital muscular dystrophy - Congenital onset - Decreased fetal movement - Facial palsy - Flexion contracture - Increased variability in muscle fiber diameter - Joint laxity - Mildly elevated creatine phosphokinase - Myopathy - Neck muscle weakness - Neonatal hypotonia - Proximal muscle weakness - Respiratory insufficiency due to muscle weakness - Scoliosis - Shoulder girdle muscle weakness - Variable expressivity - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

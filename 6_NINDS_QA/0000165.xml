@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000165" source="NINDS" url="http://www.ninds.nih.gov/disorders/whipples/whipples.htm">
+<Focus>Whipple's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023788</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000165-1" qtype="information">What is (are) Whipple's Disease ?</Question>
+			<Answer>Whipple&apos;s disease is a multi-system infectious bacterial disease that interferes with the body&apos;s ability to metabolize fats. Caused by the bacterium Tropheryma whipplei, the disorder can affect any system in the body, including the brain, eyes, heart, joints, and lungs, but usually occurs in the gastrointestinal system. Neurological symptoms occur in up to 40 percent of individuals and may include dementia, abnormalities of eye and facial muscle movements, headaches, seizures, loss of muscle control, memory loss, weakness, and vision problems. Gastrointestinal symptoms may include diarrhea, weight loss, fatigue, weakness, and abdominal bleeding and pain. Fever, cough, anemia, heart and lung damage, darkening of the skin, and joint soreness may also be present. The disease is more common in men and neurological symptoms are more common in individuals who have severe abdominal disease, Rarely, neurological symptoms may appear without gastrointestinal symptoms and can mimic symptoms of almost any neurologic disease..</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000165-2" qtype="treatment">What are the treatments for Whipple's Disease ?</Question>
+			<Answer>The standard treatment for Whipple&apos;s disease is a prolonged course of antibiotics (up to two years), including penicillin and cefriaxone or doxycycline with hydroxychloroquine. Sulfa drugs (sulfonamides) such as sulfadizine or solfamethoxazole can treat neurological symptoms. Relapsing neurologic Whipple&apos;s disease. (marked by bouts of worsening of symptoms) is sometimes treated with a combination of antibiotics and weekly injections of interfron gamma, a substance made by the body that activates the immune system.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000165-3" qtype="outlook">What is the outlook for Whipple's Disease ?</Question>
+			<Answer>Generally, long-term antibiotic treatment to destroy the bacteria can relieve symptoms and cure the disease. If left untreated, the disease is progressive and fatal. Individuals with involvement of the central nervous system generally have a worse prognosis and may be left with permanent neurologic disability. Deficits may persist and relapses may still occur in individuals who receive appropriate treatment in a timely fashion. Prognosis may improve with earlier recognition, diagnosis, and treatment of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000165-4" qtype="research">what research (or clinical trials) is being done for Whipple's Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS supportsa broad range of research on disorders that affect the central nervous system. The National Institute of Diabetes and Digestive and Kidney Diseases also supports research on disorders such as Whipple&apos;s disease. Much of this research is aimed at learning more about these disorders and finding ways to prevent, treat, and, ultimately, cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

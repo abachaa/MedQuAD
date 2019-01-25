@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000031" source="NINDS" url="http://www.ninds.nih.gov/disorders/asperger/asperger.htm">
+<Focus>Asperger Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0236792</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000031-1" qtype="information">What is (are) Asperger Syndrome ?</Question>
+			<Answer>Asperger syndrome (AS) is a developmental disorder. It is an autism spectrum disorder (ASD), one of a distinct group of neurological conditions characterized by a greater or lesser degree of impairment in language and communication skills, as well as repetitive or restrictive patterns of thought and behavior. Other ASDs include: classic autism, Rett syndrome, childhood disintegrative disorder, and pervasive developmental disorder not otherwise specified (usually referred to as PDD-NOS). Unlike children with autism, children with AS retain their early language skills.
+                
+The most distinguishing symptom of AS is a childs obsessive interest in a single object or topic to the exclusion of any other. Children with AS want to know everything about their topic of interest and their conversations with others will be about little else. Their expertise, high level of vocabulary, and formal speech patterns make them seem like little professors. Other characteristics of AS include repetitive routines or rituals; peculiarities in speech and language; socially and emotionally inappropriate behavior and the inability to interact successfully with peers; problems with non-verbal communication; and clumsy and uncoordinated motor movements.
+                
+Children with AS are isolated because of their poor social skills and narrow interests. They may approach other people, but make normal conversation impossible by inappropriate or eccentric behavior, or by wanting only to talk about their singular interest.Children with AS usually have a history of developmental delays in motor skills such as pedaling a bike, catching a ball, or climbing outdoor play equipment. They are often awkward and poorly coordinated with a walk that can appear either stilted or bouncy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000031-2" qtype="treatment">What are the treatments for Asperger Syndrome ?</Question>
+			<Answer>The ideal treatment for AS coordinates therapies that address the three core symptoms of the disorder: poor communication skills, obsessive or repetitive routines, and physical clumsiness. There is no single best treatment package for all children with AS, but most professionals agree that the earlier the intervention, the better.
+                
+An effective treatment program builds on the childs interests, offers a predictable schedule, teaches tasks as a series of simple steps, actively engages the childs attention in highly structured activities, and provides regular reinforcement of behavior. It may include social skills training, cognitive behavioral therapy, medication for co-existing conditions, and other measures.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000031-3" qtype="outlook">What is the outlook for Asperger Syndrome ?</Question>
+			<Answer>With effective treatment, children with AS can learn to cope with their disabilities, but they may still find social situations and personal relationships challenging. Many adults with AS are able to work successfully in mainstream jobs, although they may continue to need encouragement and moral support to maintain an independent life.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000031-4" qtype="research">what research (or clinical trials) is being done for Asperger Syndrome ?</Question>
+			<Answer>Many of the Institutes at the NIH, including the NINDS, are sponsoring research to understand what causes AS and how it can be effectively treated. One study is using functional magnetic resonance imaging (fMRI) to show how abnormalities in particular areas of the brain cause changes in brain function that result in the symptoms of AS and other ASDs.Other studies include aclinical trial testing the effectiveness of an anti-depressant in individuals with AS and HFA who exhibit high levels of obsessive/ritualistic behavior and a long-range study to collect and analyze DNA samples from a large group of children with AS and HFA and their families to identify genes and genetic interactions that are linked to AS and HFA.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

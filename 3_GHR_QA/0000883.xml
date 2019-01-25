@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000883" source="GHR" url="https://ghr.nlm.nih.gov/condition/romano-ward-syndrome">
+<Focus>Romano-Ward syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035828</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>RWS</Synonym>
+		<Synonym>Ward-Romano Syndrome</Synonym>
+		<Synonym>WRS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000883-1" qtype="information">What is (are) Romano-Ward syndrome ?</Question>
+			<Answer>Romano-Ward syndrome is a condition that causes a disruption of the heart&apos;s normal rhythm (arrhythmia). This disorder is a form of long QT syndrome, which is a heart condition that causes the heart (cardiac) muscle to take longer than usual to recharge between beats. The irregular heartbeats can lead to fainting (syncope) or cardiac arrest and sudden death.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000883-2" qtype="frequency">How many people are affected by Romano-Ward syndrome ?</Question>
+			<Answer>Romano-Ward syndrome is the most common form of inherited long QT syndrome, affecting an estimated 1 in 7,000 people worldwide. The disorder may actually be more common than this estimate, however, because some people never experience any symptoms associated with arrhythmia and therefore may not have been diagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000883-3" qtype="genetic changes">What are the genetic changes related to Romano-Ward syndrome ?</Question>
+			<Answer>Mutations in the KCNE1, KCNE2, KCNH2, KCNQ1, and SCN5A genes cause Romano-Ward syndrome. These genes provide instructions for making proteins that act as channels across the cell membrane. These channels transport positively charged atoms (ions), such as potassium and sodium, into and out of cells. In cardiac muscle, ion channels play critical roles in maintaining the heart&apos;s normal rhythm. Mutations in any of these genes alter the structure or function of these channels, which changes the flow of ions between cells. A disruption in ion transport alters the way the heart beats, leading to the abnormal heart rhythm characteristic of Romano-Ward syndrome.  Unlike most genes related to Romano-Ward syndrome, the ANK2 gene does not provide instructions for making an ion channel. The ANK2 protein, ankyrin-2, ensures that certain other proteins (particularly ion channels) are inserted into the cell membrane appropriately. A mutation in the ANK2 gene likely alters the flow of ions between cells in the heart, which disrupts the heart&apos;s normal rhythm. ANK2 mutations can cause a variety of heart problems, including the irregular heartbeat often found in Romano-Ward syndrome. It is unclear whether mutations in the ANK2 gene cause Romano-Ward syndrome or lead to another heart condition with some of the same signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000883-4" qtype="inheritance">Is Romano-Ward syndrome inherited ?</Question>
+			<Answer>This condition is typically inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the mutation from one affected parent. A small percentage of cases result from new mutations in one of the genes described above. These cases occur in people with no history of Romano-Ward syndrome in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000883-5" qtype="treatment">What are the treatments for Romano-Ward syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Romano-Ward syndrome:  - Gene Review: Gene Review: Long QT Syndrome  - Genetic Testing Registry: Long QT syndrome 1  - Genetic Testing Registry: Romano-Ward syndrome  - MedlinePlus Encyclopedia: Arrhythmias   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

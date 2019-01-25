@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000248" source="NINDS" url="http://www.ninds.nih.gov/disorders/reyes_syndrome/reyes_syndrome.htm">
+<Focus>Reye's Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035400</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000248-1" qtype="information">What is (are) Reye's Syndrome ?</Question>
+			<Answer>Reye&apos;s syndrome (RS) is primarily a children&apos;s disease, although it can occur at any age. It affects all organs of the body but is most harmful to the brain and the liver--causing an acute increase of pressure within the brain and, often, massive accumulations of fat in the liver and other organs. RS is defined as a two-phase illness because it generally occurs in conjunction with a previous viral infection, such as the flu or chicken pox. The disorder commonly occurs during recovery from a viral infection, although it can also develop 3 to 5 days after the onset of the viral illness. RS is often misdiagnosed as encephalitis, meningitis, diabetes, drug overdose, poisoning, sudden infant death syndrome, or psychiatric illness. Symptoms of RS include persistent or recurrent vomiting, listlessness, personality changes such as irritability or combativeness, disorientation or confusion, delirium, convulsions, and loss of consciousness. If these symptoms are present during or soon after a viral illness, medical attention should be sought immediately. The symptoms of RS in infants do not follow a typical pattern; for example, vomiting does not always occur. Epidemiologic evidence indicates that aspirin (salicylate) is the major preventable risk factor for Reye&apos;s syndrome. The mechanism by which aspirin and other salicylates trigger Reye&apos;s syndrome is not completely understood. A &quot;Reye&apos;s-like&quot; illness may occur in children with genetic metabolic disorders and other toxic disorders. A physician should be consulted before giving a child any aspirin or anti-nausea medicines during a viral illness, which can mask the symptoms of RS.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000248-2" qtype="treatment">What are the treatments for Reye's Syndrome ?</Question>
+			<Answer>There is no cure for RS. Successful management, which depends on early diagnosis, is primarily aimed at protecting the brain against irreversible damage by reducing brain swelling, reversing the metabolic injury, preventing complications in the lungs, and anticipating cardiac arrest. It has been learned that several inborn errors of metabolism mimic RS in that the first manifestation of these errors may be an encephalopathy with liver dysfunction. These disorders must be considered in all suspected cases of RS. Some evidence suggests that treatment in the end stages of RS with hypertonic IV glucose solutions may prevent progression of the syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000248-3" qtype="outlook">What is the outlook for Reye's Syndrome ?</Question>
+			<Answer>Recovery from RS is directly related to the severity of the swelling of the brain. Some people recover completely, while others may sustain varying degrees of brain damage. Those cases in which the disorder progresses rapidly and the patient lapses into a coma have a poorer prognosis than those with a less severe course. Statistics indicate that when RS is diagnosed and treated in its early stages, chances of recovery are excellent. When diagnosis and treatment are delayed, the chances for successful recovery and survival are severely reduced. Unless RS is diagnosed and treated successfully, death is common, often within a few days.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000248-4" qtype="research">what research (or clinical trials) is being done for Reye's Syndrome ?</Question>
+			<Answer>Much of the research on RS focuses on answering fundamental questions about the disorder such as how problems in the body&apos;s metabolism may trigger the nervous system damage characteristic of RS and what role aspirin plays in this life-threatening disorder. The ultimate goal of this research is to improve scientific understanding, diagnosis and medical treatment of RS.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000110" source="GHR" url="https://ghr.nlm.nih.gov/condition/barth-syndrome">
+<Focus>Barth syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0574083</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>3-methylglutaconic aciduria type 2</Synonym>
+		<Synonym>3 methylglutaconic aciduria, type II</Synonym>
+		<Synonym>BTHS</Synonym>
+		<Synonym>cardioskeletal myopathy with neutropenia and abnormal mitochondria</Synonym>
+		<Synonym>DNAJC19 defect</Synonym>
+		<Synonym>MGA type 2</Synonym>
+		<Synonym>MGA type II</Synonym>
+		<Synonym>TAZ defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000110-1" qtype="information">What is (are) Barth syndrome ?</Question>
+			<Answer>Barth syndrome is a rare condition characterized by an enlarged and weakened heart (dilated cardiomyopathy), weakness in muscles used for movement (skeletal myopathy), recurrent infections due to small numbers of white blood cells (neutropenia), and short stature. Barth syndrome occurs almost exclusively in males.  In males with Barth syndrome, dilated cardiomyopathy is often present at birth or develops within the first months of life. Over time, the heart muscle becomes increasingly weakened and is less able to pump blood. Individuals with Barth syndrome may have elastic fibers in place of muscle fibers in some areas of the heart muscle, which contributes to the cardiomyopathy. This condition is called endocardial fibroelastosis; it results in thickening of the muscle and impairs its ability to pump blood. In people with Barth syndrome, the heart problems can lead to heart failure. In rare cases, the cardiomyopathy gets better over time and affected individuals eventually have no symptoms of heart disease.  In Barth syndrome, skeletal myopathy, particularly of the muscles closest to the center of the body (proximal muscles), is usually noticeable from birth and causes low muscle tone (hypotonia). The muscle weakness often causes delay of motor skills such as crawling and walking. Additionally, affected individuals tend to experience extreme tiredness (fatigue) during strenuous physical activity.  Most males with Barth syndrome have neutropenia. The levels of white blood cells can be consistently low (persistent), can vary from normal to low (intermittent), or can cycle between regular episodes of normal and low (cyclical). Neutropenia makes it more difficult for the body to fight off foreign invaders such as bacteria and viruses, so affected individuals have an increased risk of recurrent infections.  Newborns with Barth syndrome are often smaller than normal, and their growth continues to be slow throughout life. Some boys with this condition experience a growth spurt in puberty and are of average height as adults, but many men with Barth syndrome continue to have short stature in adulthood.  Males with Barth syndrome often have distinctive facial features including prominent cheeks. Affected individuals typically have normal intelligence but often have difficulty performing tasks involving math or visual-spatial skills such as puzzles.  Males with Barth syndrome have increased levels of a substance called 3-methylglutaconic acid in their blood and urine. The amount of the acid does not appear to influence the signs and symptoms of the condition. Barth syndrome is one of a group of metabolic disorders that can be diagnosed by the presence of increased levels of 3-methylglutaconic acid in urine (3-methylglutaconic aciduria).  Even though most features of Barth syndrome are present at birth or in infancy, affected individuals may not experience health problems until later in life. The age at which individuals with Barth syndrome display symptoms or are diagnosed varies greatly. The severity of signs and symptoms among affected individuals is also highly variable.  Males with Barth syndrome have a reduced life expectancy. Many affected children die of heart failure or infection in infancy or early childhood, but those who live into adulthood can survive into their late forties.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000110-2" qtype="frequency">How many people are affected by Barth syndrome ?</Question>
+			<Answer>Barth syndrome is estimated to affect 1 in 300,000 to 400,000 individuals worldwide. More than 150 cases have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000110-3" qtype="genetic changes">What are the genetic changes related to Barth syndrome ?</Question>
+			<Answer>Mutations in the TAZ gene cause Barth syndrome. The TAZ gene provides instructions for making a protein called tafazzin. Tafazzin is located in structures called mitochondria, which are the energy-producing centers of cells. Tafazzin is involved in altering a fat (lipid) called cardiolipin, which plays critical roles in the mitochondrial inner membrane. Once altered by tafazzin, cardiolipin is key in maintaining mitochondrial shape, energy production, and protein transport within cells.  TAZ gene mutations result in the production of tafazzin proteins with little or no function. As a result, tafazzin cannot alter cardiolipin. A lack of functional cardiolipin impairs normal mitochondrial shape and functions. Tissues with high energy demands, such as the heart and skeletal muscles, are most susceptible to cell death due to reduced energy production in mitochondria. Additionally, abnormally shaped mitochondria are found in affected white blood cells, which could affect their ability to grow (proliferate) and mature (differentiate), leading to neutropenia. Dysfunctional mitochondria likely lead to other signs and symptoms of Barth syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000110-4" qtype="inheritance">Is Barth syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000110-5" qtype="treatment">What are the treatments for Barth syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Barth syndrome:  - Cleveland Clinic: Dilated Cardiomyopathy  - Gene Review: Gene Review: Barth Syndrome  - Genetic Testing Registry: 3-Methylglutaconic aciduria type 2  - Johns Hopkins Children&apos;s Center: Neutrophil Disorders  - MedlinePlus Encyclopedia: Neutropenia--Infants   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

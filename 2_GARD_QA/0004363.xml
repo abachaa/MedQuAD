@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004363" source="GARD" url="https://rarediseases.info.nih.gov/gard/7185/neuroblastoma">
+<Focus>Neuroblastoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027819</CUI>
+			<CUI>C0700095</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NB</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004363-1" qtype="information">What is (are) Neuroblastoma ?</Question>
+			<Answer>Neuroblastoma is a tumor that develops from a nerve in a child, usually before the age of 5.  It occurs in the abdomen near the adrenal glands, but it can also occur in other parts of the body.  It is considered an aggressive tumor because it often spreads to other parts of the body (metastasizes).  The symptoms of a neuroblastoma may include a lump in the abdomen, pain, diarrhea, or generally feeling unwell.  It affects one out of 100,000 children.  The exact cause of this tumor is not yet known.  Neuroblastoma may be diagnosed by physical examination; specific blood tests; imaging tests such as x-rays, magnetic resonance imaging (MRI), or computed tomography (CT) scans; and a biopsy.  Treatment depends on the size and location of the tumor within the body, as well as the childs age. Surgery is often the first step of treatment, and may be followed by chemotherapy, radiation therapy, or a stem cell transplant in more severe cases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004363-2" qtype="symptoms">What are the symptoms of Neuroblastoma ?</Question>
+			<Answer>What are the signs and symptoms of Neuroblastoma? The Human Phenotype Ontology provides the following list of signs and symptoms for Neuroblastoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Neoplasm of the nervous system 90% Abdominal pain - Abnormality of the thorax - Anemia - Ataxia - Autosomal dominant inheritance - Bone pain - Diarrhea - Elevated urinary dopamine - Elevated urinary homovanillic acid - Elevated urinary vanillylmandelic acid - Failure to thrive - Fever - Ganglioneuroblastoma - Ganglioneuroma - Heterogeneous - Horner syndrome - Hypertension - Incomplete penetrance - Myoclonus - Neuroblastoma - Opsoclonus - Skin nodule - Spinal cord compression - Sporadic - Weight loss - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

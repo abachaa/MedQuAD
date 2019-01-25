@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001017" source="GHR" url="https://ghr.nlm.nih.gov/condition/vitiligo">
+<Focus>vitiligo</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1847835</CUI>
+			<CUI>C0042900</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>VTLG</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001017-1" qtype="information">What is (are) vitiligo ?</Question>
+			<Answer>Vitiligo is a condition that causes patchy loss of skin coloring (pigmentation). The average age of onset of vitiligo is in the mid-twenties, but it can appear at any age. It tends to progress over time, with larger areas of the skin losing pigment. Some people with vitiligo also have patches of pigment loss affecting the hair on their scalp or body.  Researchers have identified several forms of vitiligo. Generalized vitiligo (also called nonsegmental vitiligo), which is the most common form, involves loss of pigment (depigmentation) in patches of skin all over the body. Depigmentation typically occurs on the face, neck, and scalp, and around body openings such as the mouth and genitals. Sometimes pigment is lost in mucous membranes, such as the lips. Loss of pigmentation is also frequently seen in areas that tend to experience rubbing, impact, or other trauma, such as the hands, arms, and places where bones are close to the skin surface (bony prominences). Another form called segmental vitiligo is associated with smaller patches of depigmented skin that appear on one side of the body in a limited area; this occurs in about 10 percent of affected individuals.  Vitiligo is generally considered to be an autoimmune disorder. Autoimmune disorders occur when the immune system attacks the body&apos;s own tissues and organs. In people with vitiligo the immune system appears to attack the pigment cells (melanocytes) in the skin. About 15 to 25 percent of people with vitiligo are also affected by at least one other autoimmune disorder, particularly autoimmune thyroid disease, rheumatoid arthritis, type 1 diabetes, psoriasis, pernicious anemia, Addison disease, or systemic lupus erythematosus.  In the absence of other autoimmune conditions, vitiligo does not affect general health or physical functioning. However, concerns about appearance and ethnic identity are significant issues for many affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001017-2" qtype="frequency">How many people are affected by vitiligo ?</Question>
+			<Answer>Vitiligo is a common disorder, affecting between 0.5 percent and 1 percent of the population worldwide. While the condition may be more noticeable in dark-skinned people, it occurs with similar frequency in all ethnic groups.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001017-3" qtype="genetic changes">What are the genetic changes related to vitiligo ?</Question>
+			<Answer>Variations in over 30 genes, occurring in different combinations, have been associated with an increased risk of developing vitiligo. Two of these genes are NLRP1 and PTPN22. The NLRP1 gene provides instructions for making a protein that is involved in the immune system, helping to regulate the process of inflammation. Inflammation occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair. The body then stops (inhibits) the inflammatory response to prevent damage to its own cells and tissues.  The PTPN22 gene provides instructions for making a protein involved in signaling that helps control the activity of immune system cells called T cells. T cells identify foreign substances and defend the body against infection.  The variations in the NLRP1 and PTPN22 genes that are associated with an increased risk of developing vitiligo likely affect the activity of the NLRP1 and PTPN22 proteins, making it more difficult for the body to control inflammation and prevent the immune system from attacking its own tissues.  Studies indicate that variations in a number of other genes also affect the risk of vitiligo. Many of these genes are also involved in immune system function or melanocyte biology, and variations in each likely make only a small contribution to vitiligo risk. Some of the gene changes associated with an increased risk of vitiligo have also been associated with an increased risk of other autoimmune conditions.  It is unclear what specific circumstances trigger the immune system to attack melanocytes in the skin. Research suggests that the immune system of affected individuals may react abnormally to melanocytes that are stressed by factors such as chemicals or ultraviolet radiation. In addition, the melanocytes of people with vitiligo may be more susceptible to stress than those of the general population and therefore may be more likely to be attacked by the immune system. The condition probably results from a combination of genetic and environmental factors, most of which have not been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001017-4" qtype="inheritance">Is vitiligo inherited ?</Question>
+			<Answer>Vitiligo sometimes runs in families, but the inheritance pattern is complex since multiple causative factors are involved. About one-fifth of people with this condition have at least one close relative who is also affected.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001017-5" qtype="treatment">What are the treatments for vitiligo ?</Question>
+			<Answer>These resources address the diagnosis or management of vitiligo:  - Genetic Testing Registry: Vitiligo  - Vitiligo Support International: Vitiligo Treatments and Research   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

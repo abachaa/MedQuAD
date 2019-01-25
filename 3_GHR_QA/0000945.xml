@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000945" source="GHR" url="https://ghr.nlm.nih.gov/condition/spondyloenchondrodysplasia-with-immune-dysregulation">
+<Focus>spondyloenchondrodysplasia with immune dysregulation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1842763</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>combined immunodeficiency with autoimmunity and spondylometaphyseal dysplasia</Synonym>
+		<Synonym>Roifman-Costa syndrome</Synonym>
+		<Synonym>Roifman-Melamed syndrome</Synonym>
+		<Synonym>SPENCDI</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000945-1" qtype="information">What is (are) spondyloenchondrodysplasia with immune dysregulation ?</Question>
+			<Answer>Spondyloenchondrodysplasia with immune dysregulation (SPENCDI) is an inherited condition that primarily affects bone growth and immune system function. The signs and symptoms of SPENCDI can become apparent anytime from infancy to adolescence.  Bone abnormalities in individuals with SPENCDI include flattened spinal bones (platyspondyly), abnormalities at the ends of long bones in the limbs (metaphyseal dysplasia), and areas of damage (lesions) on the long bones and spinal bones that can be seen on x-rays. Additional skeletal problems occur because of abnormalities of the tough, flexible tissue called cartilage that makes up much of the skeleton during early development. Individuals with SPENCDI often have areas where cartilage did not convert to bone. They may also have noncancerous growths of cartilage (enchondromas). The bone and cartilage problems contribute to short stature in people with SPENCDI.  Individuals with SPENCDI have a combination of immune system problems. Many affected individuals have malfunctioning immune systems that attack the body&apos;s own tissues and organs, which is known as an autoimmune reaction. The malfunctioning immune system can lead to a variety of disorders, such as a decrease in blood cells called platelets (thrombocytopenia), premature destruction of red blood cells (hemolytic anemia), an underactive thyroid gland (hypothyroidism), or chronic inflammatory disorders such as systemic lupus erythematosus or rheumatoid arthritis. In addition, affected individuals often have abnormal immune cells that cannot grow and divide in response to harmful invaders such as bacteria and viruses. As a result of this immune deficiency, these individuals have frequent fevers and recurrent respiratory infections.  Some people with SPENCDI have neurological problems such as abnormal muscle stiffness (spasticity), difficulty with coordinating movements (ataxia), and intellectual disability. They may also have abnormal deposits of calcium (calcification) in the brain.  Due to the range of immune system problems, people with SPENCDI typically have a shortened life expectancy, but figures vary widely.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000945-2" qtype="frequency">How many people are affected by spondyloenchondrodysplasia with immune dysregulation ?</Question>
+			<Answer>SPENCDI appears to be a rare condition, although its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000945-3" qtype="genetic changes">What are the genetic changes related to spondyloenchondrodysplasia with immune dysregulation ?</Question>
+			<Answer>Mutations in the ACP5 gene cause SPENCDI. This gene provides instructions for making an enzyme called tartrate-resistant acid phosphatase type 5 (TRAP). The TRAP enzyme primarily regulates the activity of a protein called osteopontin, which is produced in bone cells called osteoclasts and in immune cells. Osteopontin performs a variety of functions in these cells.  Osteoclasts are specialized cells that break down and remove (resorb) bone tissue that is no longer needed. These cells are involved in bone remodeling, which is a normal process that replaces old bone tissue with new bone. During bone remodeling, osteopontin is turned on (activated), allowing osteoclasts to attach (bind) to bones. When the breakdown of bone is complete, TRAP turns off (inactivates) osteopontin, causing the osteoclasts to release themselves from bone.  In immune system cells, osteopontin helps fight infection by promoting inflammation, regulating immune cell activity, and turning on various immune system cells that are necessary to fight off foreign invaders. As in bone cells, the TRAP enzyme inactivates osteopontin in immune cells when it is no longer needed.  The ACP5 gene mutations that cause SPENCDI impair or eliminate TRAP&apos;s ability to inactivate osteopontin. As a result, osteopontin is abnormally active, prolonging bone breakdown by osteoclasts and triggering abnormal inflammation and immune responses by immune cells. In people with SPENCDI, increased bone remodeling contributes to the skeletal abnormalities, including irregularly shaped bones and short stature. An overactive immune system leads to increased susceptibility to autoimmune disorders and impairs the body&apos;s normal immune response to harmful invaders, resulting in frequent infections. The mechanism that leads to the other features of SPENCDI, including movement disorders and intellectual disability, is currently unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000945-4" qtype="inheritance">Is spondyloenchondrodysplasia with immune dysregulation inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000945-5" qtype="treatment">What are the treatments for spondyloenchondrodysplasia with immune dysregulation ?</Question>
+			<Answer>These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

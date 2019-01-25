@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000294" source="GHR" url="https://ghr.nlm.nih.gov/condition/dmd-associated-dilated-cardiomyopathy">
+<Focus>DMD-associated dilated cardiomyopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0878544</CUI>
+			<CUI>C3668940</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CMD3B</Synonym>
+		<Synonym>dilated cardiomyopathy 3B</Synonym>
+		<Synonym>DMD-related dilated cardiomyopathy</Synonym>
+		<Synonym>X-linked dilated cardiomyopathy</Synonym>
+		<Synonym>XLCM</Synonym>
+		<Synonym>XLDC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000294-1" qtype="information">What is (are) DMD-associated dilated cardiomyopathy ?</Question>
+			<Answer>DMD-associated dilated cardiomyopathy is a form of heart disease that is caused by mutations in the DMD gene. Dilated cardiomyopathy enlarges and weakens the heart (cardiac) muscle, preventing the heart from pumping blood efficiently. Signs and symptoms of this condition can include an irregular heartbeat (arrhythmia), shortness of breath, extreme tiredness (fatigue), and swelling of the legs and feet. In males with DMD-associated dilated cardiomyopathy, heart problems usually develop early in life and worsen quickly, leading to heart failure in adolescence or early adulthood. In affected females, the condition appears later in life and worsens more slowly.  Dilated cardiomyopathy is a feature of two related conditions that are also caused by mutations in the DMD gene: Duchenne and Becker muscular dystrophy. In addition to heart disease, these conditions are characterized by progressive weakness and wasting of muscles used for movement (skeletal muscles). People with DMD-associated dilated cardiomyopathy typically do not have any skeletal muscle weakness or wasting, although they may have subtle changes in their skeletal muscle cells that are detectable through laboratory testing. Based on these skeletal muscle changes, DMD-associated dilated cardiomyopathy is sometimes classified as subclinical Becker muscular dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000294-2" qtype="frequency">How many people are affected by DMD-associated dilated cardiomyopathy ?</Question>
+			<Answer>DMD-associated dilated cardiomyopathy appears to be an uncommon condition, although its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000294-3" qtype="genetic changes">What are the genetic changes related to DMD-associated dilated cardiomyopathy ?</Question>
+			<Answer>DMD-associated dilated cardiomyopathy results from mutations in the DMD gene. This gene provides instructions for making a protein called dystrophin, which helps stabilize and protect muscle fibers and may play a role in chemical signaling within cells. The mutations responsible for DMD-associated dilated cardiomyopathy preferentially affect the activity of dystrophin in cardiac muscle cells. As a result of these mutations, affected individuals typically have little or no functional dystrophin in the heart. Without enough of this protein, cardiac muscle cells become damaged as the heart muscle repeatedly contracts and relaxes. The damaged muscle cells weaken and die over time, leading to the heart problems characteristic of DMD-associated dilated cardiomyopathy.  The mutations that cause DMD-associated dilated cardiomyopathy often lead to reduced amounts of dystrophin in skeletal muscle cells. However, enough of this protein is present to prevent weakness and wasting of the skeletal muscles.  Because DMD-associated dilated cardiomyopathy results from a shortage of dystrophin, it is classified as a dystrophinopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000294-4" qtype="inheritance">Is DMD-associated dilated cardiomyopathy inherited ?</Question>
+			<Answer>DMD-associated dilated cardiomyopathy has an X-linked pattern of inheritance. The DMD gene is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell usually leads to relatively mild heart disease that appears later in life. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes more severe signs and symptoms that occur earlier in life. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000294-5" qtype="treatment">What are the treatments for DMD-associated dilated cardiomyopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of DMD-associated dilated cardiomyopathy:  - Gene Review: Gene Review: Dilated Cardiomyopathy Overview  - Gene Review: Gene Review: Dystrophinopathies  - Genetic Testing Registry: Dilated cardiomyopathy 3B  - Genetic Testing Registry: Duchenne muscular dystrophy  - National Heart, Lung, and Blood Institute: How Is Cardiomyopathy Diagnosed?  - National Heart, Lung, and Blood Institute: How Is Cardiomyopathy Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

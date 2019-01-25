@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000093" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-dominant-nocturnal-frontal-lobe-epilepsy">
+<Focus>autosomal dominant nocturnal frontal lobe epilepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3696898</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ADNFLE</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000093-1" qtype="information">What is (are) autosomal dominant nocturnal frontal lobe epilepsy ?</Question>
+			<Answer>Autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE) is an uncommon form of epilepsy that runs in families. This disorder causes seizures that usually occur at night (nocturnally) while an affected person is sleeping. Some people with ADNFLE also have seizures during the day.  The seizures characteristic of ADNFLE tend to occur in clusters, with each one lasting from a few seconds to a few minutes. Some people have mild seizures that simply cause them to wake up from sleep. Others have more severe episodes that can include sudden, repetitive movements such as flinging or throwing motions of the arms and bicycling movements of the legs. The person may get out of bed and wander around, which can be mistaken for sleepwalking. The person may also cry out or make moaning, gasping, or grunting sounds. These episodes are sometimes misdiagnosed as nightmares, night terrors, or panic attacks.  In some types of epilepsy, including ADNFLE, a pattern of neurological symptoms called an aura often precedes a seizure. The most common symptoms associated with an aura in people with ADNFLE are tingling, shivering, a sense of fear, dizziness (vertigo), and a feeling of falling or being pushed. Some affected people have also reported a feeling of breathlessness, overly fast breathing (hyperventilation), or choking. It is unclear what brings on seizures in people with ADNFLE. Episodes may be triggered by stress or fatigue, but in most cases the seizures do not have any recognized triggers.  The seizures associated with ADNFLE can begin anytime from infancy to mid-adulthood, but most begin in childhood. The episodes tend to become milder and less frequent with age. In most affected people, the seizures can be effectively controlled with medication.  Most people with ADNFLE are intellectually normal, and there are no problems with their brain function between seizures. However, some people with ADNFLE have experienced psychiatric disorders (such as schizophrenia), behavioral problems, or intellectual disability. It is unclear whether these additional features are directly related to epilepsy in these individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000093-2" qtype="frequency">How many people are affected by autosomal dominant nocturnal frontal lobe epilepsy ?</Question>
+			<Answer>ADNFLE appears to be an uncommon form of epilepsy; its prevalence is unknown. This condition has been reported in more than 100 families worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000093-3" qtype="genetic changes">What are the genetic changes related to autosomal dominant nocturnal frontal lobe epilepsy ?</Question>
+			<Answer>Mutations in the CHRNA2, CHRNA4, and CHRNB2 genes can cause ADNFLE. These genes provide instructions for making different parts (subunits) of a larger molecule called a neuronal nicotinic acetylcholine receptor (nAChR). This receptor plays an important role in chemical signaling between nerve cells (neurons) in the brain.  Communication between neurons depends on chemicals called neurotransmitters, which are released from one neuron and taken up by neighboring neurons. Researchers believe that mutations in the CHRNA2, CHRNA4, and CHRNB2 genes affect the normal release and uptake of certain neurotransmitters in the brain. The resulting changes in signaling between neurons likely trigger the abnormal brain activity associated with seizures.  The seizures associated with ADNFLE begin in areas of the brain called the frontal lobes. These regions of the brain are involved in many critical functions, including reasoning, planning, judgment, and problem-solving. It is unclear why mutations in the CHRNA2, CHRNA4, and CHRNB2 genes cause seizures in the frontal lobes rather than elsewhere in the brain. Researchers are also working to determine why these seizures occur most often during sleep.  The genetic cause of ADNFLE has been identified in only a small percentage of affected families. In some cases, a gene other than those that make up the nAChR are involved. In the remaining families, the cause of the condition is unknown. Researchers are searching for other genetic changes, including mutations in other subunits of nAChR, that may underlie the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000093-4" qtype="inheritance">Is autosomal dominant nocturnal frontal lobe epilepsy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to raise the risk of developing epilepsy. About 70 percent of people who inherit a mutation in the CHRNA2, CHRNA4, or CHRNB2 gene will develop seizures. In most cases, an affected person has one affected parent and other relatives with the condition. Other cases are described as sporadic, which means an affected person has no family history of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000093-5" qtype="treatment">What are the treatments for autosomal dominant nocturnal frontal lobe epilepsy ?</Question>
+			<Answer>These resources address the diagnosis or management of ADNFLE:  - Gene Review: Gene Review: Autosomal Dominant Nocturnal Frontal Lobe Epilepsy  - Genetic Testing Registry: Epilepsy, nocturnal frontal lobe, type 1  - Genetic Testing Registry: Epilepsy, nocturnal frontal lobe, type 2  - Genetic Testing Registry: Epilepsy, nocturnal frontal lobe, type 3  - Genetic Testing Registry: Epilepsy, nocturnal frontal lobe, type 4  - MedlinePlus Encyclopedia: Epilepsy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000495" source="GHR" url="https://ghr.nlm.nih.gov/condition/hyperlysinemia">
+<Focus>hyperlysinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268553</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alpha-aminoadipic semialdehyde deficiency disease</Synonym>
+		<Synonym>familial hyperlysinemia</Synonym>
+		<Synonym>lysine alpha-ketoglutarate reductase deficiency disease</Synonym>
+		<Synonym>saccharopine dehydrogenase deficiency disease</Synonym>
+		<Synonym>saccharopinuria</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000495-1" qtype="information">What is (are) hyperlysinemia ?</Question>
+			<Answer>Hyperlysinemia is an inherited condition characterized by elevated blood levels of the amino acid lysine, a building block of most proteins. Hyperlysinemia is caused by the shortage (deficiency) of the enzyme that breaks down lysine. Hyperlysinemia typically causes no health problems, and most people with elevated lysine levels are unaware that they have this condition. Rarely, people with hyperlysinemia have intellectual disability or behavioral problems. It is not clear whether these problems are due to hyperlysinemia or another cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000495-2" qtype="frequency">How many people are affected by hyperlysinemia ?</Question>
+			<Answer>The incidence of hyperlysinemia is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000495-3" qtype="genetic changes">What are the genetic changes related to hyperlysinemia ?</Question>
+			<Answer>Mutations in the AASS gene cause hyperlysinemia. The AASS gene provides instructions for making an enzyme called aminoadipic semialdehyde synthase. This enzyme performs two functions in the breakdown of lysine. First, the enzyme breaks down lysine to a molecule called saccharopine. It then breaks down saccharopine to a molecule called alpha-aminoadipate semialdehyde.  Mutations in the AASS gene that impair the breakdown of lysine result in elevated levels of lysine in the blood and urine. These increased levels of lysine do not appear to have any negative effects on the body.  When mutations in the AASS gene impair the breakdown of saccharopine, this molecule builds up in blood and urine. This buildup is sometimes referred to as saccharopinuria, which is considered to be a variant of hyperlysinemia. It is unclear if saccharopinuria causes any symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000495-4" qtype="inheritance">Is hyperlysinemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000495-5" qtype="treatment">What are the treatments for hyperlysinemia ?</Question>
+			<Answer>These resources address the diagnosis or management of hyperlysinemia:  - Genetic Testing Registry: Hyperlysinemia  - Genetic Testing Registry: Saccharopinuria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

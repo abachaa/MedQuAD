@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000274" source="NINDS" url="http://www.ninds.nih.gov/disorders/whiplash/whiplash.htm">
+<Focus>Whiplash</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043145</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000274-1" qtype="information">What is (are) Whiplash ?</Question>
+			<Answer>Whiplash-a soft tissue injury to the neck-is also called neck sprain or neck strain. It is characterized by a collection of symptoms that occur following damage to the neck, usually because of sudden extension and flexion. The disorder commonly occurs as the result of an automobile accident and may include injury to intervertebral joints, discs, and ligaments, cervical muscles, and nerve roots. Symptoms such as neck pain may be present directly after the injury or may be delayed for several days. In addition to neck pain, other symptoms may include neck stiffness, injuries to the muscles and ligaments (myofascial injuries), headache, dizziness, abnormal sensations such as burning or prickling (paresthesias), or shoulder or back pain. In addition, some people experience cognitive, somatic, or psychological conditions such as memory loss, concentration impairment, nervousness/irritability, sleep disturbances, fatigue, or depression.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000274-2" qtype="treatment">What are the treatments for Whiplash ?</Question>
+			<Answer>Treatment for individuals with whiplash may include pain medications, nonsteroidal anti-inflammatory drugs, antidepressants, muscle relaxants, and a cervical collar (usually worn for 2 to 3 weeks). Range of motion exercises, physical therapy, and cervical traction may also be prescribed. Supplemental heat application may relieve muscle tension.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000274-3" qtype="outlook">What is the outlook for Whiplash ?</Question>
+			<Answer>Generally, prognosis for individuals with whiplash is good. The neck and head pain clears within a few days or weeks. Most patients recover within 3 months after the injury, however, some may continue to have residual neck pain and headaches.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000274-4" qtype="research">what research (or clinical trials) is being done for Whiplash ?</Question>
+			<Answer>The NINDS conducts and supports research on trauma-related disorders such as whiplash. Much of this research focuses on increasing scientific understanding of these disorders and finding ways to prevent and treat them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

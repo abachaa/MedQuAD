@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005648" source="GARD" url="https://rarediseases.info.nih.gov/gard/4883/situs-inversus">
+<Focus>Situs inversus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037221</CUI>
+			<CUI>C0266642</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Situs inversus viscerum</Synonym>
+		<Synonym>SIV</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005648-1" qtype="information">What is (are) Situs inversus ?</Question>
+			<Answer>Situs inversus is a condition in which the arrangement of the internal organs is a mirror image of normal anatomy. It can occur alone (isolated, with no other abnormalities or conditions) or it can occur as part of a syndrome with various other defects. Congenital heart defects are present in about 5-10% of affected people. The underlying cause and genetics of situs inversus are complex. Familial cases have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005648-2" qtype="symptoms">What are the symptoms of Situs inversus ?</Question>
+			<Answer>What are the signs and symptoms of situs inversus? In isolated situs inversus (occurring alone with no other abnormalities), there is a complete mirror image transposition of the thoracic (chest) and abdominal organs, and anterior-posterior (front-back) symmetry is normal. Many affected people have no associated health issues when the condition is isolated. When situs inversus occurs in association with other conditions such as Kartagener syndrome or primary ciliary dyskinesia, additional signs and symptoms relating to these conditions will be present.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005648-3" qtype="inheritance">Is Situs inversus inherited ?</Question>
+			<Answer>Is situs inversus inherited? The genetics of situs inversus is complex. Several familial cases have been reported in which the inheritance has been described as either autosomal recessive (most commonly), autosomal dominant, or X-linked. The condition appears to be genetically heterogeneous, meaning that different genetic factors or genes may cause the condition among different people or families. If situs inversus is associated with another underlying syndrome or condition, the inheritance pattern may be the same as that of the underlying condition. People with questions about genetic risks to themselves or family members are encouraged to speak with a genetics professional.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005648-4" qtype="exams and tests">How to diagnose Situs inversus ?</Question>
+			<Answer>How is situs inversus diagnosed? A thorough physical examination, followed by radiographic imaging of the chest and abdomen and electrocardiography, identify most cases of situs inversus. The main diagnostic challenge in affected people is the non-traditional presence of referred pain (pain felt in a different location than its source).</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005648-5" qtype="treatment">What are the treatments for Situs inversus ?</Question>
+			<Answer>How might situs inversus be treated? In isolated situs inversus, no treatment may be necessary. When situs inversus is associated with another condition, treatment may depend on the associated condition and the signs and symptoms present in the affected person. Knowing that a person has situs inversus is important for diagnosing medical problems and preventing surgical mishaps that can result from the failure to recognize reversed anatomy. For example, in a person with situs inversus, appendicitis causes pain in the left lower abdomen instead of the right lower abdomen. Wearing medical identification can help ensure proper treatment in an emergency medical situation.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

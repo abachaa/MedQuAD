@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000616" source="GHR" url="https://ghr.nlm.nih.gov/condition/mainzer-saldino-syndrome">
+<Focus>Mainzer-Saldino syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1849437</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>conorenal dysplasia</Synonym>
+		<Synonym>conorenal syndrome</Synonym>
+		<Synonym>Mainzer-Saldino chondrodysplasia</Synonym>
+		<Synonym>Mainzer-Saldino disease</Synonym>
+		<Synonym>MZSDS</Synonym>
+		<Synonym>renal dysplasia, retinal pigmentary dystrophy, cerebellar ataxia, and skeletal dysplasia</Synonym>
+		<Synonym>Saldino-Mainzer dysplasia</Synonym>
+		<Synonym>Saldino-Mainzer syndrome</Synonym>
+		<Synonym>short-rib thoracic dysplasia 9</Synonym>
+		<Synonym>SRTD9</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000616-1" qtype="information">What is (are) Mainzer-Saldino syndrome ?</Question>
+			<Answer>Mainzer-Saldino syndrome is a disorder characterized by kidney disease, eye problems, and skeletal abnormalities.  People with Mainzer-Saldino syndrome have chronic kidney disease that begins in childhood and gets worse over time. The rate at which the kidney disease worsens is variable, but the condition eventually leads to kidney failure in most affected individuals.  Degeneration of the light-sensitive tissue at the back of the eye (the retina) almost always occurs in this disorder, but the age at which this feature develops varies. Some affected individuals are blind or have severe vision impairment beginning in infancy, with the pattern of vision loss resembling a condition called Leber congenital amaurosis. In other people with Mainzer-Saldino syndrome, the retinal degeneration begins in childhood, but some vision is retained into early adulthood. The vision loss in these affected individuals resembles a category of retinal disorders called rod-cone dystrophies. The most common rod-cone dystrophy is called retinitis pigmentosa, and the vision problems in Mainzer-Saldino syndrome are sometimes referred to as such. However, the abnormal deposits of pigment in the retina from which retinitis pigmentosa gets its name are often not found in Mainzer-Saldino syndrome. As a result, some researchers use terms such as &quot;atypical retinitis pigmentosa without pigment&quot; to describe the retinal degeneration that occurs in Mainzer-Saldino syndrome.  The skeletal abnormality most characteristic of Mainzer-Saldino syndrome consists of cone-shaped ends of the bones (epiphyses) in the fingers (phalanges) that can be seen on x-ray images after the first year of life. Affected individuals may also have abnormalities of the thigh bones that occur in the epiphyses and adjacent areas where bone growth occurs (the metaphyses). Occasionally, other skeletal abnormalities occur, including short stature and premature fusion of certain skull bones (craniosynostosis) that affects the shape of the head and face. Affected individuals may also have a small rib cage, which sometimes causes breathing problems in infancy, but the breathing problems are usually mild.  A small number of individuals with this disorder have additional problems affecting other organs. These can include liver disease resulting in a buildup of scar tissue in the liver (hepatic fibrosis); cerebellar ataxia, which is difficulty with coordination and balance arising from problems with a part of the brain called the cerebellum; and mild intellectual disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000616-2" qtype="frequency">How many people are affected by Mainzer-Saldino syndrome ?</Question>
+			<Answer>Mainzer-Saldino syndrome is a rare disorder; its prevalence is unknown. At least 20 cases have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000616-3" qtype="genetic changes">What are the genetic changes related to Mainzer-Saldino syndrome ?</Question>
+			<Answer>Mainzer-Saldino syndrome is usually caused by mutations in the IFT140 gene. This gene provides instructions for making a protein that is involved in the formation and maintenance of cilia, which are microscopic, finger-like projections that stick out from the surface of cells and participate in signaling pathways that transmit information within and between cells. Cilia are important for the structure and function of many types of cells, including cells in the kidneys, liver, and brain. Light-sensing cells (photoreceptors) in the retina also contain cilia, which are essential for normal vision. Cilia also play a role in the development of the bones, although the mechanism is not well understood.  The movement of substances within cilia and similar structures called flagella is known as intraflagellar transport (IFT). This process is essential for the assembly and maintenance of these cell structures. During intraflagellar transport, cells use molecules called IFT particles to carry materials to and from the tips of cilia. IFT particles are made of proteins produced from related genes that belong to the IFT gene family. Each IFT particle is made up of two groups of IFT proteins: complex A, which includes at least six proteins, and complex B, which includes at least 15 proteins. The protein produced from the IFT140 gene forms part of IFT complex A (IFT-A).  Mutations in the IFT140 gene that cause Mainzer-Saldino syndrome may change the shape of the IFT140 protein or affect its interactions with other IFT proteins, likely impairing the assembly of IFT-A and the development or maintenance of cilia. As a result, fewer cilia may be present or functional, affecting many organs and tissues in the body and resulting in the signs and symptoms of Mainzer-Saldino syndrome. Disorders such as Mainzer-Saldino syndrome that are caused by problems with cilia and involve bone abnormalities are called skeletal ciliopathies.  While IFT140 gene mutations are believed to account for most cases of Mainzer-Saldino syndrome, mutations in additional genes that have not been identified may also cause this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000616-4" qtype="inheritance">Is Mainzer-Saldino syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000616-5" qtype="treatment">What are the treatments for Mainzer-Saldino syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Mainzer-Saldino syndrome:  - MedlinePlus Encyclopedia: Electroretinography  - National Institutes of Diabetes and Digestive and Kidney Diseases: Treatment Methods for Kidney Failure in Children   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

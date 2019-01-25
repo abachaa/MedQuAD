@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000307" source="GHR" url="https://ghr.nlm.nih.gov/condition/dyserythropoietic-anemia-and-thrombocytopenia">
+<Focus>dyserythropoietic anemia and thrombocytopenia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0678199</CUI>
+			<CUI>C0040034</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dyserythropoietic anemia with thrombocytopenia</Synonym>
+		<Synonym>GATA-1-related thrombocytopenia with dyserythropoiesis</Synonym>
+		<Synonym>GATA1-related cytopenia</Synonym>
+		<Synonym>GATA1-related X-linked cytopenia</Synonym>
+		<Synonym>X-linked macrothrombocytopenia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000307-1" qtype="information">What is (are) dyserythropoietic anemia and thrombocytopenia ?</Question>
+			<Answer>Dyserythropoietic anemia and thrombocytopenia is a condition that affects blood cells and primarily occurs in males. A main feature of this condition is a type of anemia called dyserythropoietic anemia, which is characterized by a shortage of red blood cells. The term &quot;dyserythropoietic&quot; refers to the abnormal red blood cell formation that occurs in this condition. In affected individuals, immature red blood cells are unusually shaped and cannot develop into functional mature cells, leading to a shortage of healthy red blood cells. People with dyserythropoietic anemia and thrombocytopenia can have another blood disorder characterized by a reduced level of circulating platelets (thrombocytopenia). Platelets are cell fragments that normally assist with blood clotting. Thrombocytopenia can cause easy bruising and abnormal bleeding. While people with dyserythropoietic anemia and thrombocytopenia can have signs and symptoms of both blood disorders, some are primarily affected by anemia, while others are more affected by thrombocytopenia.  The most severe cases of dyserythropoietic anemia and thrombocytopenia are characterized by hydrops fetalis, a condition in which excess fluid builds up in the body before birth. For many others, the signs and symptoms of dyserythropoietic anemia and thrombocytopenia begin in infancy. People with this condition experience prolonged bleeding or bruising after minor trauma or even in the absence of injury (spontaneous bleeding). Anemia can cause pale skin, weakness, and fatigue. Severe anemia may create a need for frequent blood transfusions to replenish the supply of red blood cells; however, repeated blood transfusions over many years can cause health problems such as excess iron in the blood. People with dyserythropoietic anemia and thrombocytopenia may also have a shortage of white blood cells (neutropenia), which can make them prone to recurrent infections. Additionally, they may have an enlarged spleen (splenomegaly). The severity of these abnormalities varies among affected individuals.  Some people with dyserythropoietic anemia and thrombocytopenia have additional blood disorders such as beta thalassemia or congenital erythropoietic porphyria. Beta thalassemia is a condition that reduces the production of hemoglobin, which is the iron-containing protein in red blood cells that carries oxygen. A decrease in hemoglobin can lead to a shortage of oxygen in cells and tissues throughout the body. Congenital erythropoietic porphyria is another disorder that impairs hemoglobin production. People with congenital erythropoietic porphyria are also very sensitive to sunlight, and areas of skin exposed to the sun can become fragile and blistered.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000307-2" qtype="frequency">How many people are affected by dyserythropoietic anemia and thrombocytopenia ?</Question>
+			<Answer>Dyserythropoietic anemia and thrombocytopenia is a rare condition; its prevalence is unknown. Occasionally, individuals with this disorder are mistakenly diagnosed as having more common blood disorders, making it even more difficult to determine how many people have dyserythropoietic anemia and thrombocytopenia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000307-3" qtype="genetic changes">What are the genetic changes related to dyserythropoietic anemia and thrombocytopenia ?</Question>
+			<Answer>Mutations in the GATA1 gene cause dyserythropoietic anemia and thrombocytopenia. The GATA1 gene provides instructions for making a protein that attaches (binds) to specific regions of DNA and helps control the activity of many other genes. On the basis of this action, the GATA1 protein is known as a transcription factor. The GATA1 protein is involved in the specialization (differentiation) of immature blood cells. To function properly, these immature cells must differentiate into specific types of mature blood cells. Through its activity as a transcription factor and its interactions with other proteins, the GATA1 protein regulates the growth and division (proliferation) of immature red blood cells and platelet-precursor cells (megakaryocytes) and helps with their differentiation.  GATA1 gene mutations disrupt the protein&apos;s ability to bind with DNA or interact with other proteins. These impairments in the GATA1 protein&apos;s normal function result in an increased proliferation of megakaryocytes and a decrease in mature platelets, leading to abnormal bleeding. An abnormal GATA1 protein causes immature red blood cells to undergo a form of programmed cell death called apoptosis. A lack of immature red blood cells results in decreased amounts of specialized, mature red blood cells, leading to anemia. The severity of dyserythropoietic anemia and thrombocytopenia can usually be predicted by the type of GATA1 gene mutation.  When the two blood disorders dyserythropoietic anemia and thrombocytopenia occur separately, each of the conditions can result from many different factors. The occurrence of these disorders together is characteristic of mutations in the GATA1 gene.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000307-4" qtype="inheritance">Is dyserythropoietic anemia and thrombocytopenia inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. Because females have two copies of the X chromosome, one altered copy of the gene in each cell usually leads to less severe symptoms in females than in males or may cause no symptoms in females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000307-5" qtype="treatment">What are the treatments for dyserythropoietic anemia and thrombocytopenia ?</Question>
+			<Answer>These resources address the diagnosis or management of dyserythropoietic anemia and thrombocytopenia:  - Gene Review: Gene Review: GATA1-Related X-Linked Cytopenia  - Genetic Testing Registry: GATA-1-related thrombocytopenia with dyserythropoiesis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

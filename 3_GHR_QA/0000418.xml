@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000418" source="GHR" url="https://ghr.nlm.nih.gov/condition/glutaric-acidemia-type-ii">
+<Focus>glutaric acidemia type II</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268596</CUI>
+			<CUI>C0268030</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>electron transfer flavoprotein deficiency</Synonym>
+		<Synonym>EMA</Synonym>
+		<Synonym>ETFA deficiency</Synonym>
+		<Synonym>ETFB deficiency</Synonym>
+		<Synonym>ETFDH deficiency</Synonym>
+		<Synonym>ethylmalonic-adipicaciduria</Synonym>
+		<Synonym>GA II</Synonym>
+		<Synonym>glutaric acidemia, type 2</Synonym>
+		<Synonym>glutaric aciduria, type 2</Synonym>
+		<Synonym>MAD</Synonym>
+		<Synonym>MADD</Synonym>
+		<Synonym>multiple acyl-CoA dehydrogenase deficiency</Synonym>
+		<Synonym>multiple FAD dehydrogenase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000418-1" qtype="information">What is (are) glutaric acidemia type II ?</Question>
+			<Answer>Glutaric acidemia type II is an inherited disorder that interferes with the body&apos;s ability to break down proteins and fats to produce energy. Incompletely processed proteins and fats can build up in the body and cause the blood and tissues to become too acidic (metabolic acidosis).  Glutaric acidemia type II usually appears in infancy or early childhood as a sudden episode called a metabolic crisis, in which acidosis and low blood sugar (hypoglycemia) cause weakness, behavior changes such as poor feeding and decreased activity, and vomiting. These metabolic crises, which can be life-threatening, may be triggered by common childhood illnesses or other stresses.  In the most severe cases of glutaric acidemia type II, affected individuals may also be born with physical abnormalities. These may include brain malformations, an enlarged liver (hepatomegaly), a weakened and enlarged heart (dilated cardiomyopathy), fluid-filled cysts and other malformations of the kidneys, unusual facial features, and genital abnormalities. Glutaric acidemia type II may also cause a characteristic odor resembling that of sweaty feet.  Some affected individuals have less severe symptoms that begin later in childhood or in adulthood. In the mildest forms of glutaric acidemia type II, muscle weakness developing in adulthood may be the first sign of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000418-2" qtype="frequency">How many people are affected by glutaric acidemia type II ?</Question>
+			<Answer>Glutaric acidemia type II is a very rare disorder; its precise incidence is unknown. It has been reported in several different ethnic groups.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000418-3" qtype="genetic changes">What are the genetic changes related to glutaric acidemia type II ?</Question>
+			<Answer>Mutations in any of three genes, ETFA, ETFB, and ETFDH, can result in glutaric acidemia type II. The ETFA and ETFB genes provide instructions for producing two protein segments, or subunits, that come together to make an enzyme called electron transfer flavoprotein. The ETFDH gene provides instructions for making another enzyme called electron transfer flavoprotein dehydrogenase.  Glutaric acidemia type II is caused by a deficiency in either of these two enzymes. Electron transfer flavoprotein and electron transfer flavoprotein dehydrogenase are normally active in the mitochondria, which are the energy-producing centers of cells. These enzymes help break down proteins and fats to provide energy for the body. When one of the enzymes is defective or missing, partially broken down nutrients accumulate in the cells and damage them, causing the signs and symptoms of glutaric acidemia type II.  People with mutations that result in a complete loss of either enzyme produced from the ETFA, ETFB or ETFDH genes are likely to experience the most severe symptoms of glutaric acidemia type II. Mutations that allow the enzyme to retain some activity may result in milder forms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000418-4" qtype="inheritance">Is glutaric acidemia type II inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000418-5" qtype="treatment">What are the treatments for glutaric acidemia type II ?</Question>
+			<Answer>These resources address the diagnosis or management of glutaric acidemia type II:  - Baby&apos;s First Test  - Genetic Testing Registry: Glutaric aciduria, type 2   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

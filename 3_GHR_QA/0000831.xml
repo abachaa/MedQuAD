@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000831" source="GHR" url="https://ghr.nlm.nih.gov/condition/progressive-pseudorheumatoid-dysplasia">
+<Focus>progressive pseudorheumatoid dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432215</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>progressive pseudorheumatoid arthropathy of childhood</Synonym>
+		<Synonym>spondyloepiphyseal dysplasia tarda with progressive arthropathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000831-1" qtype="information">What is (are) progressive pseudorheumatoid dysplasia ?</Question>
+			<Answer>Progressive pseudorheumatoid dysplasia (PPRD) is a joint disease that worsens over time. This condition is characterized by breakdown (degeneration) of the cartilage between bones (articular cartilage). This cartilage covers and protects the ends of bones, and its degeneration leads to pain and stiffness in the joints and other features of PPRD.  PPRD usually begins in childhood, between ages 3 and 8. The first indications are usually an abnormal walking pattern, weakness and fatigue when active, and stiffness in the joints in the fingers and in the knees. Other signs and symptoms that develop over time include permanently bent fingers (camptodactyly), enlarged finger and knee joints (often mistaken as swelling), and a reduced amount of space between the bones at the hip and knee joints. Hip pain is a common problem by adolescence. Affected individuals have flattened bones in the spine (platyspondyly) that are abnormally shaped (beaked), which leads to an abnormal front-to-back curvature of the spine (kyphosis) and a short torso. At birth, people with PPRD are of normal length, but by adulthood, they are usually shorter than their peers. Affected adults also have abnormal deposits of calcium around the elbow, knee, and hip joints and limited movement in all joints, including those of the spine.  PPRD is often mistaken for another joint disorder that affects young people called juvenile rheumatoid arthritis. However, the joint problems in juvenile rheumatoid arthritis are associated with inflammation, while those in PPRD are not.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000831-2" qtype="frequency">How many people are affected by progressive pseudorheumatoid dysplasia ?</Question>
+			<Answer>PPRD has been estimated to occur in approximately 1 per million people in the United Kingdom. The condition is thought to be more common in Turkey and the Middle East, although its prevalence in these regions is unknown. The condition in all regions is likely underdiagnosed because it is often misdiagnosed as juvenile rheumatoid arthritis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000831-3" qtype="genetic changes">What are the genetic changes related to progressive pseudorheumatoid dysplasia ?</Question>
+			<Answer>PPRD is caused by mutations in the WISP3 gene. The function of the protein produced from this gene is not well understood, although it is thought to play a role in bone growth and cartilage maintenance. The WISP3 protein is made in cells called chondrocytes, which produce and maintain cartilage. This protein is associated with the production of certain proteins that make up cartilage, but its role in their production is unclear. WISP3 may also help control signaling pathways involved in the development of cartilage and bone and may help regulate the breakdown of cartilage components.  WISP3 gene mutations lead to an altered protein that may not function. Loss of WISP3 protein function likely disrupts normal cartilage maintenance and bone growth, leading to the cartilage degeneration and joint problems that occur in PPRD.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000831-4" qtype="inheritance">Is progressive pseudorheumatoid dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000831-5" qtype="treatment">What are the treatments for progressive pseudorheumatoid dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of progressive pseudorheumatoid dysplasia:  - Cedars-Sinai: Skeletal Dysplasias  - Gene Review: Gene Review: Progressive Pseudorheumatoid Dysplasia  - Genetic Testing Registry: Progressive pseudorheumatoid dysplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

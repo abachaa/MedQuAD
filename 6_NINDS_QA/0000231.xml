@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000231" source="NINDS" url="http://www.ninds.nih.gov/disorders/pdd/pdd.htm">
+<Focus>Pervasive Developmental Disorders</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0524528</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000231-1" qtype="information">What is (are) Pervasive Developmental Disorders ?</Question>
+			<Answer>The diagnostic category of pervasive developmental disorders (PDD) refers to a group of disorders characterized by delays in the development of socialization and communication skills. Parents may note symptoms as early as infancy, although the typical age of onset is before 3 years of age. Symptoms may include problems with using and understanding language; difficulty relating to people, objects, and events; unusual play with toys and other objects; difficulty with changes in routine or familiar surroundings, and repetitive body movements or behavior patterns. Autism (a developmental brain disorder characterized by impaired social interaction and communication skills, and a limited range of activities and interests) is the most characteristic and best studied PDD. Other types of PDD include Asperger&apos;s Syndrome, Childhood Disintegrative Disorder, and Rett&apos;s Syndrome. Children with PDD vary widely in abilities, intelligence, and behaviors. Some children do not speak at all, others speak in limited phrases or conversations, and some have relatively normal language development. Repetitive play skills and limited social skills are generally evident. Unusual responses to sensory information, such as loud noises and lights, are also common.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000231-2" qtype="treatment">What are the treatments for Pervasive Developmental Disorders ?</Question>
+			<Answer>There is no known cure for PDD. Medications are used to address specific behavioral problems; therapy for children with PDD should be specialized according to need. Some children with PDD benefit from specialized classrooms in which the class size is small and instruction is given on a one-to-one basis. Others function well in standard special education classes or regular classes with additional support.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000231-3" qtype="outlook">What is the outlook for Pervasive Developmental Disorders ?</Question>
+			<Answer>Early intervention including appropriate and specialized educational programs and support services plays a critical role in improving the outcome of individuals with PDD. PDD is not fatal and does not affect normal life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000231-4" qtype="research">what research (or clinical trials) is being done for Pervasive Developmental Disorders ?</Question>
+			<Answer>The NINDS conducts and supports research on developmental disabilities, including PDD. Much of this research focuses on understanding the neurological basis of PDD and on developing techniques to diagnose, treat, prevent, and ultimately cure this and similar disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

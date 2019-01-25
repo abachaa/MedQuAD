@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000144" source="NINDS" url="http://www.ninds.nih.gov/disorders/hemicrania_continua/hemicrania_continua.htm">
+<Focus>Hemicrania Continua</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2349425</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000144-1" qtype="information">What is (are) Hemicrania Continua ?</Question>
+			<Answer>Hemicrania continua is a chronic and persistent form of headache marked by continuous pain that varies in severity, always occurs on the same side of the face and head, and is superimposed with additional debilitating symptoms. on the continuous but fluctuating pain are occasional attacks of more severe pain. A small percentage of individuals with hemicrania continua have bilateral pain, or pain on both sides of the head. A headache is considered hemicrania continua if the person has had a one-sided daily or continuous headache of moderate intensity with occasional short, piercing head pain for more than 3 months without shifting sides or pain-free periods. The headache must also be completely responsive to treatment with the non-steroidal anti-inflammatory drug drug indomethacin. It must have at least one of the following symptoms: eye redness and/or tearing, nasal congestion and/or runny nose, ptosis (drooping eyelid) and miosis (contracture of the iris). Occasionally, individuals will also have forehead sweating and migraine symptoms, such as throbbing pain, nausea and/or vomiting, or sensitivity to light and sound. The disorder has two forms: chronic, with daily headaches, and remitting, in which headaches may occur for a period as long as 6 months and are followed by a pain-free period of weeks to months until the pain returns. Most patients experience attacks of increased pain three to five times per 24-hour cycle. This disorder is more common in women than in men. Physical exertion and alcohol use may increase the severity of headache pain in some patients. The cause of this disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000144-2" qtype="treatment">What are the treatments for Hemicrania Continua ?</Question>
+			<Answer>Indomethacin provides rapid relief from symptoms. Patients must take between 25 and 300 milligrams of indomethacin daily and indefinitely to decrease symptoms. Some individuals may need to take acid-suppression medicine due to a gastrointestinal side effect. For those who cannot tolerate the side effects, another NSAID, celecoxib, has been shown to have less complications and can be prescribed. Amitriptyline and other tricyclic antidepressants are also effective in some individuals with hemicrania continua as a preventative treatment.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000144-3" qtype="outlook">What is the outlook for Hemicrania Continua ?</Question>
+			<Answer>Individuals may obtain complete to near-complete relief of symptoms with proper medical attention and daily medication. Some people may not be able to tolerate long-term use of indomethacin and may have to rely on less effective NSAIDs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000144-4" qtype="research">what research (or clinical trials) is being done for Hemicrania Continua ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) support research related to hemicrania continua through grants to medical research institutions across the country. Much of this research focuses on understanding hemicrania continua in order to finding better ways to prevent, treat, and ultimately cure the disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

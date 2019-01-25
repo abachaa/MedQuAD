@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000145" source="GHR" url="https://ghr.nlm.nih.gov/condition/camurati-engelmann-disease">
+<Focus>Camurati-Engelmann disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011989</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Camurati-Engelmann Syndrome</Synonym>
+		<Synonym>CED</Synonym>
+		<Synonym>diaphyseal dysplasia</Synonym>
+		<Synonym>diaphyseal hyperostosis</Synonym>
+		<Synonym>Engelmann's Disease</Synonym>
+		<Synonym>PDD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000145-1" qtype="information">What is (are) Camurati-Engelmann disease ?</Question>
+			<Answer>Camurati-Engelmann disease is a condition that mainly affects the bones. People with this disease have increased bone density, particularly affecting the long bones of the arms and legs. In some cases, the skull and hip bones are also affected. The thickened bones can lead to pain in the arms and legs, a waddling walk, muscle weakness, and extreme tiredness. An increase in the density of the skull results in increased pressure on the brain and can cause a variety of neurological problems, including headaches, hearing loss, vision problems, dizziness (vertigo), ringing in the ears (tinnitus), and facial paralysis. The added pressure that thickened bones put on the muscular and skeletal systems can cause abnormal curvature of the spine (scoliosis), joint deformities (contractures), knock knees, and flat feet (pes planus). Other features of Camurati-Engelmann disease include abnormally long limbs in proportion to height, a decrease in muscle mass and body fat, and delayed puberty.  The age at which affected individuals first experience symptoms varies greatly; however, most people with this condition develop pain or weakness by adolescence. In some instances, people have the gene mutation that causes Camurati-Engelmann disease but never develop the characteristic features of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000145-2" qtype="frequency">How many people are affected by Camurati-Engelmann disease ?</Question>
+			<Answer>The prevalence of Camurati-Engelmann disease is unknown. Approximately 200 cases have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000145-3" qtype="genetic changes">What are the genetic changes related to Camurati-Engelmann disease ?</Question>
+			<Answer>Mutations in the TGFB1 gene cause Camurati-Engelmann disease. The TGFB1 gene provides instructions for producing a protein called transforming growth factor beta-1 (TGF-1). The TGF-1 protein helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). The TGF-1 protein is found throughout the body and plays a role in development before birth, the formation of blood vessels, the regulation of muscle tissue and body fat development, wound healing, and immune system function. TGF-1 is particularly abundant in tissues that make up the skeleton, where it helps regulate bone growth, and in the intricate lattice that forms in the spaces between cells (the extracellular matrix).  Within cells, the TGF-1 protein is turned off (inactive) until it receives a chemical signal to become active. The TGFB1 gene mutations that cause Camurati-Engelmann disease result in the production of a TGF-1 protein that is always turned on (active). Overactive TGF-1 proteins lead to increased bone density and decreased body fat and muscle tissue, contributing to the signs and symptoms of Camurati-Engelmann disease.  Some individuals with Camurati-Engelmann disease do not have identified mutations in the TGFB1 gene. In these cases, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000145-4" qtype="inheritance">Is Camurati-Engelmann disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000145-5" qtype="treatment">What are the treatments for Camurati-Engelmann disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Camurati-Engelmann disease:  - Gene Review: Gene Review: Camurati-Engelmann Disease  - Genetic Testing Registry: Diaphyseal dysplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

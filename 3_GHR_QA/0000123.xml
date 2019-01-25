@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000123" source="GHR" url="https://ghr.nlm.nih.gov/condition/bietti-crystalline-dystrophy">
+<Focus>Bietti crystalline dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1859486</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BCD</Synonym>
+		<Synonym>Bietti crystalline corneoretinal dystrophy</Synonym>
+		<Synonym>Bietti crystalline retinopathy</Synonym>
+		<Synonym>Bietti tapetoretinal degeneration with marginal corneal dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000123-1" qtype="information">What is (are) Bietti crystalline dystrophy ?</Question>
+			<Answer>Bietti crystalline dystrophy is a disorder in which numerous small, yellow or white crystal-like deposits of fatty (lipid) compounds accumulate in the light-sensitive tissue that lines the back of the eye (the retina). The deposits damage the retina, resulting in progressive vision loss.  People with Bietti crystalline dystrophy typically begin noticing vision problems in their teens or twenties. They experience a loss of sharp vision (reduction in visual acuity) and difficulty seeing in dim light (night blindness). They usually lose areas of vision (visual field loss), most often side (peripheral) vision. Color vision may also be impaired.  The vision problems may worsen at different rates in each eye, and the severity and progression of symptoms varies widely among affected individuals, even within the same family. However, most people with this condition become legally blind by their forties or fifties. Most affected individuals retain some degree of vision, usually in the center of the visual field, although it is typically blurry and cannot be corrected by glasses or contact lenses. Vision impairment that cannot be improved with corrective lenses is called low vision.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000123-2" qtype="frequency">How many people are affected by Bietti crystalline dystrophy ?</Question>
+			<Answer>Bietti crystalline dystrophy has been estimated to occur in 1 in 67,000 people. It is more common in people of East Asian descent, especially those of Chinese and Japanese background. Researchers suggest that Bietti crystalline dystrophy may be underdiagnosed because its symptoms are similar to those of other eye disorders that progressively damage the retina.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000123-3" qtype="genetic changes">What are the genetic changes related to Bietti crystalline dystrophy ?</Question>
+			<Answer>Bietti crystalline dystrophy is caused by mutations in the CYP4V2 gene. This gene provides instructions for making a member of the cytochrome P450 family of enzymes. These enzymes are involved in the formation and breakdown of various molecules and chemicals within cells. The CYP4V2 enzyme is involved in a multi-step process called fatty acid oxidation in which lipids are broken down and converted into energy, but the enzyme&apos;s specific function is not well understood. CYP4V2 gene mutations that cause Bietti crystalline dystrophy impair or eliminate the function of this enzyme and are believed to affect lipid breakdown. However, it is unknown how they lead to the specific signs and symptoms of Bietti crystalline dystrophy. For unknown reasons, the severity of the signs and symptoms differs significantly among individuals with the same CYP4V2 gene mutation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000123-4" qtype="inheritance">Is Bietti crystalline dystrophy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000123-5" qtype="treatment">What are the treatments for Bietti crystalline dystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of Bietti crystalline dystrophy:  - Gene Review: Gene Review: Bietti Crystalline Dystrophy  - Genetic Testing Registry: Bietti crystalline corneoretinal dystrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

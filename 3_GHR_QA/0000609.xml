@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000609" source="GHR" url="https://ghr.nlm.nih.gov/condition/lymphangioleiomyomatosis">
+<Focus>lymphangioleiomyomatosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751674</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LAM</Synonym>
+		<Synonym>lymphangiomyomatosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000609-1" qtype="information">What is (are) lymphangioleiomyomatosis ?</Question>
+			<Answer>Lymphangioleiomyomatosis (LAM) is a condition that affects the lungs, the kidneys, and the lymphatic system. The lymphatic system consists of a network of vessels that transport lymph fluid and immune cells throughout the body.  LAM is found almost exclusively in women. It usually occurs as a feature of an inherited syndrome called tuberous sclerosis complex. When LAM occurs alone it is called isolated or sporadic LAM.  Signs and symptoms of LAM most often appear during a woman&apos;s thirties. Affected women have an overgrowth of abnormal smooth muscle-like cells (LAM cells) in the lungs, resulting in the formation of lung cysts and the destruction of normal lung tissue. They may also have an accumulation of fluid in the cavity around the lungs (chylothorax).  The lung abnormalities resulting from LAM may cause difficulty breathing (dyspnea), chest pain, and coughing, which may bring up blood (hemoptysis). Many women with this disorder have recurrent episodes of collapsed lung (spontaneous pneumothorax). The lung problems may be progressive and, without lung transplantation, may eventually lead to limitations in activities of daily living, the need for oxygen therapy, and respiratory failure. Although LAM cells are not considered cancerous, they may spread between tissues (metastasize). As a result, the condition may recur even after lung transplantation.  Women with LAM may develop cysts in the lymphatic vessels of the chest and abdomen. These cysts are called lymphangioleiomyomas. Affected women may also develop tumors called angiomyolipomas made up of LAM cells, fat cells, and blood vessels. Angiomyolipomas usually develop in the kidneys. Internal bleeding is a common complication of angiomyolipomas.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000609-2" qtype="frequency">How many people are affected by lymphangioleiomyomatosis ?</Question>
+			<Answer>Sporadic LAM is estimated to occur in 2 to 5 per million women worldwide. This condition may be underdiagnosed because its symptoms are similar to those of other lung disorders such as asthma, bronchitis, and chronic obstructive pulmonary disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000609-3" qtype="genetic changes">What are the genetic changes related to lymphangioleiomyomatosis ?</Question>
+			<Answer>Mutations in the TSC1 gene or, more commonly, the TSC2 gene, cause LAM. The TSC1 and TSC2 genes provide instructions for making the proteins hamartin and tuberin, respectively. Within cells, these two proteins likely help regulate cell growth and size. The proteins act as tumor suppressors, which normally prevent cells from growing and dividing too fast or in an uncontrolled way.  When both copies of the TSC1 gene are mutated in a particular cell, that cell cannot produce any functional hamartin; cells with two altered copies of the TSC2 gene are unable to produce any functional tuberin. The loss of these proteins allows the cell to grow and divide in an uncontrolled way, resulting in the tumors and cysts associated with LAM.  It is not well understood why LAM occurs predominantly in women. Researchers believe that the female sex hormone estrogen may be involved in the development of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000609-4" qtype="inheritance">Is lymphangioleiomyomatosis inherited ?</Question>
+			<Answer>Sporadic LAM is not inherited. Instead, researchers suggest that it is caused by a random mutation in the TSC1 or TSC2 gene that occurs very early in development. As a result, some of the body&apos;s cells have a normal version of the gene, while others have the mutated version. This situation is called mosaicism. When a mutation occurs in the other copy of the TSC1 or TSC2 gene in certain cells during a woman&apos;s lifetime (a somatic mutation), she may develop LAM. These women typically have no history of this disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000609-5" qtype="treatment">What are the treatments for lymphangioleiomyomatosis ?</Question>
+			<Answer>These resources address the diagnosis or management of LAM:  - Canadian Lung Association  - Genetic Testing Registry: Lymphangiomyomatosis  - Merck Manual for Healthcare Professionals  - National Heart, Lung, and Blood Institute: How is LAM Diagnosed?  - National Heart, Lung, and Blood Institute: How is LAM Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

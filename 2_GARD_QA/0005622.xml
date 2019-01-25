@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005622" source="GARD" url="https://rarediseases.info.nih.gov/gard/667/sideroblastic-anemia">
+<Focus>Sideroblastic anemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002896</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anemia sideroblastic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005622-1" qtype="information">What is (are) Sideroblastic anemia ?</Question>
+			<Answer>Sideroblastic anemia is a heterogeneous group of blood disorders characterized by an impaired ability of the bone marrow to produce normal red blood cells. The iron inside red blood cells is inadequately used to make hemoglobin, despite adequate or increased amounts of iron. Abnormal red blood cells called sideroblasts are found in the blood of people with these anemias. Sideroblastic anemias are classified as hereditary, acquired, and reversible.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005622-2" qtype="symptoms">What are the symptoms of Sideroblastic anemia ?</Question>
+			<Answer>What are the symptoms of sideroblastic anemia? The symptoms of sideroblastic anemia are the same as for any anemia and iron overload. These may include fatigue, weakness, palpitations, shortness of breath, headaches, irritability, and chest pain. Physical findings may include pallor, tachycardia, hepatosplenomegaly, S3 gallop, jugular vein distension, and rales.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005622-3" qtype="causes">What causes Sideroblastic anemia ?</Question>
+			<Answer>What causes sideroblastic anemia? The exact cause of sideroblastic anemia in many patients remains unknown. Reversible sideroblastic anemia can be caused by alcohol, isoniazid, pyrazinamide, cycloserine (a prescription antibiotic that may cause anemia, peripheral neuritis, or seizures by acting as a pyridoxine antagonist or increasing excretion of pyridoxine), chloramphenicol, or copper deficiency. The hereditary forms may be passed through families in autosomal recessive, autosomal dominant, or X-linked patterns.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005622-4" qtype="exams and tests">How to diagnose Sideroblastic anemia ?</Question>
+			<Answer>How is sideroblastic anemia diagnosed? The principle feature of sideroblastic anemia is slowly progressive, mild, life-long anemia which often goes unnoticed. Symptoms of iron overload may lead to the discovery of this underlying disorder. The history and clinical findings, together with laboratory findings, usually permit accurate diagnosis of each type. Laboratory evaluation may include complete blood count, iron studies, free erythrocyte protoporphyrin levels, MRI, bone marrow aspiration and liver biopsy. Molecular defects can be identified in several hereditary forms and in some patients with acquired sideroblastic anemia.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005622-5" qtype="treatment">What are the treatments for Sideroblastic anemia ?</Question>
+			<Answer>How might sideroblastic anemia be treated? The treatment of sideroblastic anemia is directed at controlling symptoms of anemia and preventing organ damage from iron overload. Many patients see improvement with increased vitamin B6 intake - either through diet (potatoes, bananas, raisin bran cereal, lentils, liver, turkey, and tuna are good sources) or supplements - with red blood cell counts returning to near-normal values. Folic acid supplementation may also be beneficial. Those that do not respond to vitamin supplementation require blood transfusion.  A few small studies have described the use of allogenic bone marrow or stem cell transplantation for hereditary and congenital forms of sideroblastic anemia. While these therapies may offer the possibility of a cure, the complications associated with transplantation surgery must be considered.  All patients with sideroblastic anemia should be followed by a hematologist and avoid alcohol.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000893" source="GHR" url="https://ghr.nlm.nih.gov/condition/schindler-disease">
+<Focus>Schindler disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1836544</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alpha-galactosidase B deficiency</Synonym>
+		<Synonym>alpha-galNAc deficiency, Schindler type</Synonym>
+		<Synonym>alpha-N-acetylgalactosaminidase deficiency</Synonym>
+		<Synonym>alpha-NAGA deficiency</Synonym>
+		<Synonym>angiokeratoma corporis diffusum-glycopeptiduria</Synonym>
+		<Synonym>GALB deficiency</Synonym>
+		<Synonym>Kanzaki disease</Synonym>
+		<Synonym>lysosomal glycoaminoacid storage disease-angiokeratoma corporis diffusum</Synonym>
+		<Synonym>NAGA deficiency</Synonym>
+		<Synonym>neuroaxonal dystrophy, Schindler type</Synonym>
+		<Synonym>neuronal axonal dystrophy, Schindler type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000893-1" qtype="information">What is (are) Schindler disease ?</Question>
+			<Answer>Schindler disease is an inherited disorder that primarily causes neurological problems.  There are three types of Schindler disease. Schindler disease type I, also called the infantile type, is the most severe form. Babies with Schindler disease type I appear healthy at birth, but by the age of 8 to 15 months they stop developing new skills and begin losing skills they had already acquired (developmental regression). As the disorder progresses, affected individuals develop blindness and seizures, and eventually they lose awareness of their surroundings and become unresponsive. People with this form of the disorder usually do not survive past early childhood.  Schindler disease type II, also called Kanzaki disease, is a milder form of the disorder that usually appears in adulthood. Affected individuals may develop mild cognitive impairment and hearing loss caused by abnormalities of the inner ear (sensorineural hearing loss). They may experience weakness and loss of sensation due to problems with the nerves connecting the brain and spinal cord to muscles and sensory cells (peripheral nervous system). Clusters of enlarged blood vessels that form small, dark red spots on the skin (angiokeratomas) are characteristic of this form of the disorder.  Schindler disease type III is intermediate in severity between types I and II. Affected individuals may exhibit signs and symptoms beginning in infancy, including developmental delay, seizures, a weakened and enlarged heart (cardiomyopathy), and an enlarged liver (hepatomegaly). In other cases, people with this form of the disorder exhibit behavioral problems beginning in early childhood, with some features of autism spectrum disorders. Autism spectrum disorders are characterized by impaired communication and socialization skills.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000893-2" qtype="frequency">How many people are affected by Schindler disease ?</Question>
+			<Answer>Schindler disease is very rare. Only a few individuals with each type of the disorder have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000893-3" qtype="genetic changes">What are the genetic changes related to Schindler disease ?</Question>
+			<Answer>Mutations in the NAGA gene cause Schindler disease. The NAGA gene provides instructions for making the enzyme alpha-N-acetylgalactosaminidase. This enzyme works in the lysosomes, which are compartments within cells that digest and recycle materials. Within lysosomes, the enzyme helps break down complexes called glycoproteins and glycolipids, which consist of sugar molecules attached to certain proteins and fats. Specifically, alpha-N-acetylgalactosaminidase helps remove a molecule called alpha-N-acetylgalactosamine from sugars in these complexes.  Mutations in the NAGA gene interfere with the ability of the alpha-N-acetylgalactosaminidase enzyme to perform its role in breaking down glycoproteins and glycolipids. These substances accumulate in the lysosomes and cause cells to malfunction and eventually die. Cell damage in the nervous system and other tissues and organs of the body leads to the signs and symptoms of Schindler disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000893-4" qtype="inheritance">Is Schindler disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000893-5" qtype="treatment">What are the treatments for Schindler disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Schindler disease:  - Genetic Testing Registry: Kanzaki disease  - Genetic Testing Registry: Schindler disease, type 1   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

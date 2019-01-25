@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000101" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-recessive-hypotrichosis">
+<Focus>autosomal recessive hypotrichosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020678</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AH</Synonym>
+		<Synonym>autosomal recessive localized hypotrichosis</Synonym>
+		<Synonym>autosomal recessive woolly hair with or without hypotrichosis</Synonym>
+		<Synonym>HTL</Synonym>
+		<Synonym>hypotrichoses</Synonym>
+		<Synonym>hypotrichosis</Synonym>
+		<Synonym>LAH</Synonym>
+		<Synonym>total hypotrichosis, Mari type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000101-1" qtype="information">What is (are) autosomal recessive hypotrichosis ?</Question>
+			<Answer>Autosomal recessive hypotrichosis is a condition that affects hair growth. People with this condition have sparse hair (hypotrichosis) on the scalp beginning in infancy. This hair is usually coarse, dry, and tightly curled (often described as woolly hair). Scalp hair may also be lighter in color than expected and is fragile and easily broken. Affected individuals often cannot grow hair longer than a few inches. The eyebrows, eyelashes, and other body hair may be sparse as well. Over time, the hair problems can remain stable or progress to complete scalp hair loss (alopecia) and a decrease in body hair.  Rarely, people with autosomal recessive hypotrichosis have skin problems affecting areas with sparse hair, such as redness (erythema), itchiness (pruritus), or missing patches of skin (erosions) on the scalp. In areas of poor hair growth, they may also develop bumps called hyperkeratotic follicular papules that develop around hair follicles, which are specialized structures in the skin where hair growth occurs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000101-2" qtype="frequency">How many people are affected by autosomal recessive hypotrichosis ?</Question>
+			<Answer>The worldwide prevalence of autosomal recessive hypotrichosis is unknown. In Japan, the condition is estimated to affect 1 in 10,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000101-3" qtype="genetic changes">What are the genetic changes related to autosomal recessive hypotrichosis ?</Question>
+			<Answer>Autosomal recessive hypotrichosis can be caused by mutations in the LIPH, LPAR6, or DSG4 gene. These genes provide instructions for making proteins that are involved in the growth and division (proliferation) and maturation (differentiation) of cells within hair follicles. These cell processes are important for the normal development of hair follicles and for hair growth; as the cells in the hair follicle divide, the hair strand (shaft) is pushed upward and extends beyond the skin, causing the hair to grow. The proteins produced from the LIPH, LPAR6, and DSG4 genes are also found in the outermost layer of skin (the epidermis) and glands in the skin that produce a substance that protects the skin and hair (sebaceous glands).  Mutations in the LIPH, LPAR6, or DSG4 gene result in the production of abnormal proteins that cannot aid in the development of hair follicles. As a result, hair follicles are structurally abnormal and often underdeveloped. Irregular hair follicles alter the structure and growth of hair shafts, leading to woolly, fragile hair that is easily broken. A lack of these proteins in the epidermis likely contributes to the skin problems sometimes seen in affected individuals.  In some areas of the body, other proteins can compensate for the function of the missing protein, so not all areas with hair are affected and not all individuals have skin problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000101-4" qtype="inheritance">Is autosomal recessive hypotrichosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000101-5" qtype="treatment">What are the treatments for autosomal recessive hypotrichosis ?</Question>
+			<Answer>These resources address the diagnosis or management of autosomal recessive hypotrichosis:  - American Academy of Dermatology: Hair Loss: Tips for Managing  - Genetic Testing Registry: Hypotrichosis 8   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

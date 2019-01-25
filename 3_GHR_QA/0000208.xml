@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000208" source="GHR" url="https://ghr.nlm.nih.gov/condition/complement-component-2-deficiency">
+<Focus>complement component 2 deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3150275</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>C2 deficiency</Synonym>
+		<Synonym>C2D</Synonym>
+		<Synonym>complement 2 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000208-1" qtype="information">What is (are) complement component 2 deficiency ?</Question>
+			<Answer>Complement component 2 deficiency is a disorder that causes the immune system to malfunction, resulting in a form of immunodeficiency. Immunodeficiencies are conditions in which the immune system is not able to protect the body effectively from foreign invaders such as bacteria and viruses. People with complement component 2 deficiency have a significantly increased risk of recurrent bacterial infections, specifically of the lungs (pneumonia), the membrane covering the brain and spinal cord (meningitis), and the blood (sepsis), which may be life-threatening. These infections most commonly occur in infancy and childhood and become less frequent in adolescence and adulthood.  Complement component 2 deficiency is also associated with an increased risk of developing autoimmune disorders such as systemic lupus erythematosus (SLE) or vasculitis. Autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s tissues and organs. Between 10 and 20 percent of individuals with complement component 2 deficiency develop SLE. Females with complement component 2 deficiency are more likely to have SLE than affected males, but this is also true of SLE in the general population.  The severity of complement component 2 deficiency varies widely. While some affected individuals experience recurrent infections and other immune system difficulties, others do not have any health problems related to the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000208-2" qtype="frequency">How many people are affected by complement component 2 deficiency ?</Question>
+			<Answer>In Western countries, complement component 2 deficiency is estimated to affect 1 in 20,000 individuals; its prevalence in other areas of the world is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000208-3" qtype="genetic changes">What are the genetic changes related to complement component 2 deficiency ?</Question>
+			<Answer>Complement component 2 deficiency is caused by mutations in the C2 gene. This gene provides instructions for making the complement component 2 protein, which helps regulate a part of the body&apos;s immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders, trigger inflammation, and remove debris from cells and tissues. The complement component 2 protein is involved in the pathway that turns on (activates) the complement system when foreign invaders, such as bacteria, are detected.  The most common C2 gene mutation, which is found in more than 90 percent of people with complement component 2 deficiency, prevents the production of complement component 2 protein. A lack of this protein impairs activation of the complement pathway. As a result, the complement system&apos;s ability to fight infections is diminished. It is unclear how complement component 2 deficiency leads to an increase in autoimmune disorders. Researchers speculate that the dysfunctional complement system is unable to distinguish what it should attack, and it sometimes attacks normal tissues, leading to autoimmunity. Alternatively, the dysfunctional complement system may perform partial attacks on invading molecules, which leaves behind foreign fragments that are difficult to distinguish from the body&apos;s tissues, so the complement system sometimes attacks the body&apos;s own cells. It is likely that other factors, both genetic and environmental, play a role in the variability of the signs and symptoms of complement component 2 deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000208-4" qtype="inheritance">Is complement component 2 deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000208-5" qtype="treatment">What are the treatments for complement component 2 deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of complement component 2 deficiency:  - Genetic Testing Registry: Complement component 2 deficiency  - MedlinePlus Encyclopedia: Complement  - MedlinePlus Encyclopedia: Immunodeficiency Disorders  - Primary Immune Deficiency Treatment Consortium   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

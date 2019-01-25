@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006110" source="GARD" url="https://rarediseases.info.nih.gov/gard/7772/tietz-syndrome">
+<Focus>Tietz syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0391816</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Albinism-deafness of Tietz</Synonym>
+		<Synonym>Hypopigmentation/deafness of Tietz</Synonym>
+		<Synonym>Tietz albinism-deafness syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006110-1" qtype="information">What is (are) Tietz syndrome ?</Question>
+			<Answer>Tietz syndrome is a rare condition that affects the development of melanocytes, the cells in our body that produce and contain melanin (the pigment that gives color to skin, hair, and eyes). Signs and symptoms of this condition are present from birth and usually include sensorineural hearing loss, fair skin, and light-colored hair. It is caused by changes (mutations) in the MITF gene and inherited in an autosomal dominant manner. The goal of treatment is to improve hearing; cochlear implantation may be considered.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006110-2" qtype="symptoms">What are the symptoms of Tietz syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Tietz syndrome? The signs and symptoms of Tietz syndrome are usually present at birth and may include: Severe, bilateral (both ears) sensorineural hearing loss Fair skin Light-colored hair Blue eyes The Human Phenotype Ontology provides the following list of signs and symptoms for Tietz syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the anterior chamber 90% Aplasia/Hypoplasia of the eyebrow 90% Generalized hypopigmentation 90% Hypopigmentation of hair 90% Autosomal dominant inheritance - Bilateral sensorineural hearing impairment - Blue irides - Congenital sensorineural hearing impairment - Hypopigmentation of the fundus - White eyebrow - White eyelashes - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006110-3" qtype="exams and tests">How to diagnose Tietz syndrome ?</Question>
+			<Answer>How is Tietz syndrome diagnosed? A diagnosis of Tietz syndrome is suspected in people with severe, bilateral (both ears) sensorineural hearing loss; fair skin; and light-colored hair. Identification of a change (mutation) in the MITF gene also supports this diagnosis. Diagnosing Tietz syndrome can be complicated since there are several different genetic conditions that can cause deafness and hypopigmentation, some of which are also caused by mutations in the MITF gene. It is, therefore, important for people with suspected Tietz syndrome to be evaluated by a healthcare provider who specializes in genetics.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006260" source="GARD" url="https://rarediseases.info.nih.gov/gard/2658/tyrosinemia-type-1">
+<Focus>Tyrosinemia type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268490</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tyrosinemia type I</Synonym>
+		<Synonym>Hepatorenal tyrosinemia</Synonym>
+		<Synonym>Fumarylacetoacetase deficiency</Synonym>
+		<Synonym>FAH deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006260-1" qtype="information">What is (are) Tyrosinemia type 1 ?</Question>
+			<Answer>Tyrosinemia type 1 is a genetic disorder characterized by elevated blood levels of the amino acid tyrosine, a building block of most proteins. This condition is caused by a shortage of the enzyme fumarylacetoacetate hydrolase, one of the enzymes required for the multi-step process that breaks down tyrosine. This enzyme shortage is caused by mutations in the FAH gene. Symptoms usually appear in the first few months of life and include failure to thrive, diarrhea, vomiting, jaundice, cabbage-like odor, and increased tendency to bleed (particularly nosebleeds). Tyrosinemia type I can lead to liver and kidney failure, problems affecting the nervous system, and an increased risk of liver cancer. This condition is inherited in an autosomal recessive manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006260-2" qtype="symptoms">What are the symptoms of Tyrosinemia type 1 ?</Question>
+			<Answer>What are the signs and symptoms of Tyrosinemia type 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Tyrosinemia type 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aminoaciduria 90% Abnormality of bone mineral density 7.5% Abnormality of the spleen 7.5% Hepatomegaly 7.5% Abnormal bleeding - Abnormality of the abdominal wall - Acute hepatic failure - Ascites - Autosomal recessive inheritance - Cirrhosis - Elevated alpha-fetoprotein - Elevated hepatic transaminases - Elevated urinary delta-aminolevulinic acid - Enlarged kidneys - Episodic peripheral neuropathy - Failure to thrive - Gastrointestinal hemorrhage - Glomerulosclerosis - Hepatocellular carcinoma - Hypermethioninemia - Hypertrophic cardiomyopathy - Hypertyrosinemia - Hypoglycemia - Hypophosphatemic rickets - Nephrocalcinosis - Pancreatic islet-cell hyperplasia - Paralytic ileus - Periodic paralysis - Renal Fanconi syndrome - Renal insufficiency - Splenomegaly - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006260-3" qtype="treatment">What are the treatments for Tyrosinemia type 1 ?</Question>
+			<Answer>How might tyrosinemia type 1 be treated? There is currently no cure for tyrosinemia type 1. Individuals with this condition need to be on a special diet restricted in two amino acids, tyrosine and phenylalanine, throughout life. Affected individuals may also be treated with a medication called nitisinone. Early diagnosis and prompt treatment are essential for an improved prognosis. Some individuals require a liver transplant if their liver disease is already advanced before treatment begins. Detailed information on the treatment of tyrosinemia type 1 is available from GeneReviews.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

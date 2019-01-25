@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000333" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/epilepsy.html">
+<Focus>Epilepsy</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014544</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000333-1" qtype="information">What is (are) Epilepsy ?</Question>
+			<Answer>Epilepsy is a brain disorder that causes people to have recurring seizures. The seizures happen when clusters of nerve cells, or neurons, in the brain send out the wrong signals. People may have strange sensations and emotions or behave strangely. They may have violent muscle spasms or lose consciousness.    Epilepsy has many possible causes, including illness, brain injury, and abnormal brain development. In many cases, the cause is unknown.    Doctors use brain scans and other tests to diagnose epilepsy. It is important to start treatment right away. There is no cure for epilepsy, but medicines can control seizures for most people. When medicines are not working well, surgery or implanted devices such as vagus nerve stimulators may help. Special diets can help some children with epilepsy.    NIH: National Institute of Neurological Disorders and Stroke</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

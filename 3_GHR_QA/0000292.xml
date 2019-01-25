@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000292" source="GHR" url="https://ghr.nlm.nih.gov/condition/distal-hereditary-motor-neuropathy-type-v">
+<Focus>distal hereditary motor neuropathy, type V</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1833308</CUI>
+			<CUI>C0235025</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DHMN-V</Synonym>
+		<Synonym>distal hereditary motor neuronopathy type 5</Synonym>
+		<Synonym>distal hereditary motor neuronopathy, type V</Synonym>
+		<Synonym>distal spinal muscular atrophy, type V</Synonym>
+		<Synonym>DSMAV</Synonym>
+		<Synonym>HMN V</Synonym>
+		<Synonym>spinal muscular atrophy, distal type V</Synonym>
+		<Synonym>spinal muscular atrophy, distal, with upper limb predominance</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000292-1" qtype="information">What is (are) distal hereditary motor neuropathy, type V ?</Question>
+			<Answer>Distal hereditary motor neuropathy, type V is a progressive disorder that affects nerve cells in the spinal cord. It results in muscle weakness and affects movement of the hands and feet.  Symptoms of distal hereditary motor neuropathy, type V usually begin during adolescence, but onset varies from infancy to the mid-thirties. Cramps in the hand brought on by exposure to cold temperatures are often the initial symptom.  The characteristic features of distal hereditary motor neuropathy, type V are weakness and wasting (atrophy) of muscles of the hand, specifically on the thumb side of the index finger and in the palm at the base of the thumb. Foot abnormalities, such as a high arch (pes cavus), are also common, and some affected individuals eventually develop problems with walking (gait disturbance). People with this disorder have normal life expectancies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000292-2" qtype="frequency">How many people are affected by distal hereditary motor neuropathy, type V ?</Question>
+			<Answer>The incidence of distal hereditary motor neuropathy, type V is unknown. Only a small number of cases have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000292-3" qtype="genetic changes">What are the genetic changes related to distal hereditary motor neuropathy, type V ?</Question>
+			<Answer>Mutations in the BSCL2 and GARS genes cause distal hereditary motor neuropathy, type V.  The BSCL2 gene provides instructions for making a protein called seipin, whose function is unknown. Mutations in the BSCL2 gene likely alter the structure of seipin, causing it to fold into an incorrect 3-dimensional shape. Research findings indicate that misfolded seipin proteins accumulate in the endoplasmic reticulum, which is a structure inside the cell that is involved in protein processing and transport. This accumulation likely damages and kills motor neurons (specialized nerve cells in the brain and spinal cord that control muscle movement), leading to muscle weakness in the hands and feet.  The GARS gene provides instructions for making an enzyme called glycyl-tRNA synthetase, which is involved in the production (synthesis) of proteins. It is unclear how GARS gene mutations lead to distal hereditary motor neuropathy, type V. The mutations probably reduce the activity of glycyl-tRNA synthetase. A reduction in the activity of this enzyme may impair transmission of nerve impulses. As a result, nerve cells slowly lose the ability to communicate with muscles in the hands and feet.  Mutations in other genes may also cause distal hereditary motor neuropathy, type V.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000292-4" qtype="inheritance">Is distal hereditary motor neuropathy, type V inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  Some people who have the altered gene never develop the condition, a situation known as reduced penetrance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000292-5" qtype="treatment">What are the treatments for distal hereditary motor neuropathy, type V ?</Question>
+			<Answer>These resources address the diagnosis or management of distal hereditary motor neuropathy, type V:  - Gene Review: Gene Review: BSCL2-Related Neurologic Disorders/Seipinopathy  - Gene Review: Gene Review: GARS-Associated Axonal Neuropathy  - Genetic Testing Registry: Distal hereditary motor neuronopathy type 5  - Genetic Testing Registry: Distal hereditary motor neuronopathy type 5B  - MedlinePlus Encyclopedia: High-Arched Foot   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003871" source="GARD" url="https://rarediseases.info.nih.gov/gard/7002/medullary-cystic-kidney-disease-1">
+<Focus>Medullary cystic kidney disease 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1691228</CUI>
+			<CUI>C1868139</CUI>
+			<CUI>C0022679</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Polycystic kidneys, medullary type</Synonym>
+		<Synonym>Medullary cystic kidney disease, autosomal dominant</Synonym>
+		<Synonym>ADMCKD1</Synonym>
+		<Synonym>MCKD1</Synonym>
+		<Synonym>Medullary cystic kidney disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003871-1" qtype="information">What is (are) Medullary cystic kidney disease 1 ?</Question>
+			<Answer>Medullary cystic kidney disease (MCKD) is a chronic, progressive kidney disease characterized by the presence of small renal cysts that eventually lead to end stage renal failure. Symptoms typically appear at an average age of 28 years and may include polyuria (excessive production or passage of urine) and low urinary osmolality (decreased concentration) in the first morning urine. Later, symptoms of renal insufficiency typically progress to include anemia, metabolic acidosis and uremia. End stage renal disease (ESRD) eventually follows. There are 2 types of MCKD, which are both inherited in an autosomal dominant manner but are caused by mutations in different genes. MCKD 1 is caused by mutations in the MCKD1 gene (which has not yet been identified) and MCKD 2 is caused by mutations in the UMOD gene. The 2 types also differ by MCKD 1 being associated with ESRD at an average age of 62 years, while MCKD 2 is associated with ESRD around 32 years and is more likely to be associated with hyperuricemia and gout. Treatment for MCKD may include correction of water and electrolyte imbalances, and dialysis followed by renal transplantation for end-stage renal failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003871-2" qtype="symptoms">What are the symptoms of Medullary cystic kidney disease 1 ?</Question>
+			<Answer>What are the signs and symptoms of Medullary cystic kidney disease 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Medullary cystic kidney disease 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Adult onset - Anemia - Autosomal dominant inheritance - Cerebral cortical atrophy - Decreased glomerular filtration rate - Elevated serum creatinine - Glomerulosclerosis - Gout - Hypertension - Hypotension - Impaired renal uric acid clearance - Renal cortical atrophy - Renal corticomedullary cysts - Renal hypoplasia - Renal salt wasting - Stage 5 chronic kidney disease - Tubular atrophy - Tubular basement membrane disintegration - Tubulointerstitial fibrosis - Tubulointerstitial nephritis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

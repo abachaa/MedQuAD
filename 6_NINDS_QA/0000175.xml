@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000175" source="NINDS" url="http://www.ninds.nih.gov/disorders/lambert_eaton/lambert_eaton.htm">
+<Focus>Lambert-Eaton Myasthenic Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022972</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000175-1" qtype="information">What is (are) Lambert-Eaton Myasthenic Syndrome ?</Question>
+			<Answer>Lambert-Eaton myasthenic syndrome (LEMS) is a disorder of the neuromuscular junction-the site where nerve cells meet muscle cells and help activate the muscles. It is caused by a disruption of electrical impulses between these nerve and muscle cells. LEMS is an autoimmune condition; in such disorders the immune system, which normally protects the body from foreign organisms, mistakenly attacks the body&apos;s own tissues. The disruption of electrical impulses is associated with antibodies produced as a consequence of this autoimmunity. Symptoms include muscle weakness, a tingling sensation in the affected areas, fatigue, and dry mouth. LEMS is closely associated with cancer, in particular small cell lung cancer. More than half the individuals diagnosed with LEMS also develop small cell lung cancer. LEMS may appear up to 3 years before cancer is diagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000175-2" qtype="treatment">What are the treatments for Lambert-Eaton Myasthenic Syndrome ?</Question>
+			<Answer>There is no cure for LEMS. Treatment is directed at decreasing the autoimmune response (through the use of steroids, plasmapheresis, or high-dose intravenous immunoglobulin) or improving the transmission of the disrupted electrical impulses by giving drugs such as di-amino pyridine or pyridostigmine bromide (Mestinon). For patients with small cell lung cancer, treatment of the cancer is the first priority.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000175-3" qtype="outlook">What is the outlook for Lambert-Eaton Myasthenic Syndrome ?</Question>
+			<Answer>The prognosis for individuals with LEMS varies. Those with LEMS not associated with malignancy have a benign overall prognosis. Generally the presence of cancer determines the prognosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000175-4" qtype="research">what research (or clinical trials) is being done for Lambert-Eaton Myasthenic Syndrome ?</Question>
+			<Answer>The NINDS supports research on neuromuscular disorders such as LEMS with the ultimate goal of finding ways to treat, prevent, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

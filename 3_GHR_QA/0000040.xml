@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000040" source="GHR" url="https://ghr.nlm.nih.gov/condition/alpha-thalassemia-x-linked-intellectual-disability-syndrome">
+<Focus>alpha thalassemia X-linked intellectual disability syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1845055</CUI>
+			<CUI>C3714756</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alpha-thalassemia X-linked mental retardation syndrome</Synonym>
+		<Synonym>alpha thalassemia X-linked mental retardation syndrome</Synonym>
+		<Synonym>alpha-thalassemia/mental retardation syndrome, nondeletion type</Synonym>
+		<Synonym>alpha thalassemia/mental retardation, X-linked</Synonym>
+		<Synonym>ATR-X syndrome</Synonym>
+		<Synonym>ATRX syndrome</Synonym>
+		<Synonym>X-linked alpha-thalassemia/mental retardation syndrome</Synonym>
+		<Synonym>XLMR-hypotonic face syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000040-1" qtype="information">What is (are) alpha thalassemia X-linked intellectual disability syndrome ?</Question>
+			<Answer>Alpha thalassemia X-linked intellectual disability syndrome is an inherited disorder that affects many parts of the body. This condition occurs almost exclusively in males.  Males with alpha thalassemia X-linked intellectual disability syndrome have intellectual disability and delayed development. Their speech is significantly delayed, and most never speak or sign more than a few words. Most affected children have weak muscle tone (hypotonia), which delays motor skills such as sitting, standing, and walking. Some people with this disorder are never able to walk independently.  Almost everyone with alpha thalassemia X-linked intellectual disability syndrome has distinctive facial features, including widely spaced eyes, a small nose with upturned nostrils, and low-set ears. The upper lip is shaped like an upside-down &quot;V,&quot; and the lower lip tends to be prominent. These facial characteristics are most apparent in early childhood. Over time, the facial features become coarser, including a flatter face with a shortened nose.  Most affected individuals have mild signs of a blood disorder called alpha thalassemia. This disorder reduces the production of hemoglobin, which is the protein in red blood cells that carries oxygen to cells throughout the body. A reduction in the amount of hemoglobin prevents enough oxygen from reaching the body&apos;s tissues. Rarely, affected individuals also have a shortage of red blood cells (anemia), which can cause pale skin, weakness, and fatigue.  Additional features of alpha thalassemia X-linked intellectual disability syndrome include an unusually small head size (microcephaly), short stature, and skeletal abnormalities. Many affected individuals have problems with the digestive system, such as a backflow of stomach acids into the esophagus (gastroesophageal reflux) and chronic constipation. Genital abnormalities are also common; affected males may have undescended testes and the opening of the urethra on the underside of the penis (hypospadias). In more severe cases, the external genitalia do not look clearly male or female (ambiguous genitalia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000040-2" qtype="frequency">How many people are affected by alpha thalassemia X-linked intellectual disability syndrome ?</Question>
+			<Answer>Alpha thalassemia X-linked intellectual disability syndrome appears to be a rare condition, although its exact prevalence is unknown. More than 200 affected individuals have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000040-3" qtype="genetic changes">What are the genetic changes related to alpha thalassemia X-linked intellectual disability syndrome ?</Question>
+			<Answer>Alpha thalassemia X-linked intellectual disability syndrome results from mutations in the ATRX gene. This gene provides instructions for making a protein that plays an essential role in normal development. Although the exact function of the ATRX protein is unknown, studies suggest that it helps regulate the activity (expression) of other genes. Among these genes are HBA1 and HBA2, which are necessary for normal hemoglobin production.  Mutations in the ATRX gene change the structure of the ATRX protein, which likely prevents it from effectively regulating gene expression. Reduced activity of the HBA1 and HBA2 genes causes alpha thalassemia. Abnormal expression of other genes, which have not been identified, probably causes developmental delay, distinctive facial features, and the other signs and symptoms of alpha thalassemia X-linked intellectual disability syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000040-4" qtype="inheritance">Is alpha thalassemia X-linked intellectual disability syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The ATRX gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), one working copy of the ATRX gene can usually compensate for the mutated copy. Therefore, females who carry a single mutated ATRX gene almost never have signs of alpha thalassemia X-linked intellectual disability syndrome.  A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000040-5" qtype="treatment">What are the treatments for alpha thalassemia X-linked intellectual disability syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of alpha thalassemia X-linked intellectual disability syndrome:  - Gene Review: Gene Review: Alpha-Thalassemia X-Linked Intellectual Disability Syndrome  - Genetic Testing Registry: ATR-X syndrome  - MedlinePlus Encyclopedia: Ambiguous Genitalia  - MedlinePlus Encyclopedia: Hypospadias   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

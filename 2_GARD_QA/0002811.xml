@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002811" source="GARD" url="https://rarediseases.info.nih.gov/gard/5979/hereditary-angioedema">
+<Focus>Hereditary angioedema</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002994</CUI>
+			<CUI>C0019243</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HAE</Synonym>
+		<Synonym>Hereditary angioneurotic edema</Synonym>
+		<Synonym>HANE</Synonym>
+		<Synonym>Deficiency of C1 esterase inhibitor</Synonym>
+		<Synonym>Hereditary angioedema type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002811-1" qtype="information">What is (are) Hereditary angioedema ?</Question>
+			<Answer>Hereditary angioedema (HAE) is an immune disorder characterized by recurrent episodes of severe swelling. The most commonly affected areas of the body are the limbs, face, intestinal tract, and airway. HAE is caused by low levels or improper function of a protein called C1 inhibitor which affects the blood vessels. This condition is inherited in an autosomal dominant pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002811-2" qtype="symptoms">What are the symptoms of Hereditary angioedema ?</Question>
+			<Answer>What are the signs and symptoms of Hereditary angioedema? Hereditary angioedema is characterized by recurrent episodes of severe swelling (angioedema). The most commonly involved areas of the body are the limbs, face, intestinal tract, and airway. While minor trauma or stress may trigger an attack, swelling often occurs without a known trigger. Episodes involving the intestinal tract cause severe abdominal pain, nausea, and vomiting. Swelling in the airway can restrict breathing and lead to life-threatening obstruction of the airway. About one-third of people with this condition develop a non-itchy rash called erythema marginatum during an attack. Symptoms of hereditary angioedema typically begin in childhood and worsen during puberty. Untreated individuals may have an attack every 1 to 2 weeks. Most episodes last 3 to 4 days. The frequency and duration of attacks vary greatly among individuals with hereditary angioedema, even among those in the same family. The Human Phenotype Ontology provides the following list of signs and symptoms for Hereditary angioedema. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Edema 90% Urticaria 90% Abdominal pain 7.5% Ascites 7.5% Immunologic hypersensitivity 7.5% Intestinal obstruction 7.5% Abnormality of the larynx - Angioedema - Autoimmunity - Autosomal dominant inheritance - Diarrhea - Erythema - Intestinal edema - Laryngeal edema - Peripheral axonal neuropathy - Pharyngeal edema - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002811-3" qtype="treatment">What are the treatments for Hereditary angioedema ?</Question>
+			<Answer>How might hereditary angioedema be treated? Medical treatment of hereditary angioedema (HAE) consists of preventing attacks and managing acute attacks once they occur. During attacks, patients may require respiratory support. They also may require large amounts of intravenous fluids to maintain hemodynamic stability. Until recently, no effective agent for acute attacks existed in the United States. Now, however, several agents have been approved, and others are in the midst of the U.S. Food and Drug Administration (FDA) approval process. In October 2008, the US FDA approved the use of C1-INH (Cinryze) for prophylaxis to prevent attacks. In October 2009, the FDA approved C1-INH (Berinert) for the treatment of acute abdominal and facial angioedema attacks in adolescents and adults with HAE.In December 2009, ecallantide (Kalbitor), a kallikrein inhibitor, was approved for the treatment of acute attacks.  In August 2011, the FDA approved Firazyr (icatibant) Injection for the treatment of acute attacks in people ages 18 years and older.  Firazyr can be self-administered through an injection in the abdominal area so patients can treat themselves when they realize they are having an  HAE attack. An article from the eMedicine Journal provides more detailed information on these medications and other methods of treating HAE at the following link. You may need to register to view the article, but registration is free. http://emedicine.medscape.com/article/135604-treatment  The US Hereditary Angioedema Association also provides additional information about treatment of HAE.   http://www.haea.org/treating-hae/treatments/ Orphanet, a database dedicated to information on rare diseases and orphan drugs, provides guidelines regarding emergency management of hereditary angioedema at the following link. http://www.orpha.net/consor/cgi-bin/Disease_Emergency.php?lng=EN&amp;stapage=FICHE_URGENCE_A1</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

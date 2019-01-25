@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000519" source="GHR" url="https://ghr.nlm.nih.gov/condition/infantile-neuronal-ceroid-lipofuscinosis">
+<Focus>infantile neuronal ceroid lipofuscinosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268281</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CLN1</Synonym>
+		<Synonym>infantile Batten disease</Synonym>
+		<Synonym>neuronal ceroid lipofuscinosis 1</Synonym>
+		<Synonym>neuronal ceroid lipofuscinosis, infantile</Synonym>
+		<Synonym>Santavuori-Haltia disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000519-1" qtype="information">What is (are) infantile neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Infantile neuronal ceroid lipofuscinosis (NCL) is an inherited disorder that primarily affects the nervous system. Beginning in infancy, children with this condition have intellectual and motor disability, rarely developing the ability to speak or walk. Affected children often have muscle twitches (myoclonus), recurrent seizures (epilepsy), or vision impairment. An unusually small head (microcephaly) and progressive loss of nerve cells in the brain are also characteristic features of this disorder. Children with infantile NCL usually do not survive past childhood.  Infantile NCL is one of a group of NCLs (collectively called Batten disease) that affect the nervous system and typically cause progressive problems with vision, movement, and thinking ability. The different types of NCLs are distinguished by the age at which signs and symptoms first appear.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000519-2" qtype="frequency">How many people are affected by infantile neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>The incidence of infantile NCL is unknown. Collectively, all forms of NCL affect an estimated 1 in 100,000 individuals worldwide. NCLs are more common in Finland, where approximately 1 in 12,500 individuals are affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000519-3" qtype="genetic changes">What are the genetic changes related to infantile neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>Mutations in the PPT1 gene cause most cases of infantile NCL. The PPT1 gene provides instructions for making an enzyme called palmitoyl-protein thioesterase 1. This enzyme is active in cell compartments called lysosomes, which digest and recycle different types of molecules. Palmitoyl-protein thioesterase 1 removes certain fats called long-chain fatty acids from proteins, which probably helps break down the proteins. Palmitoyl-protein thioesterase 1 is also thought to be involved in a variety of other cell functions.  PPT1 gene mutations that cause infantile NCL decrease the production or function of palmitoyl-protein thioesterase 1. A shortage of functional enzyme impairs the removal of fatty acids from proteins. In the lysosomes, these fats and proteins accumulate as fatty substances called lipopigments. These accumulations occur in cells throughout the body, but nerve cells in the brain seem to be particularly vulnerable to the damage caused by buildup of lipopigments and the loss of enzyme function. The progressive death of cells, especially in the brain, leads to the signs and symptoms of infantile NCL.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000519-4" qtype="inheritance">Is infantile neuronal ceroid lipofuscinosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000519-5" qtype="treatment">What are the treatments for infantile neuronal ceroid lipofuscinosis ?</Question>
+			<Answer>These resources address the diagnosis or management of infantile neuronal ceroid lipofuscinosis:  - Genetic Testing Registry: Ceroid lipofuscinosis neuronal 1  - Genetic Testing Registry: Infantile neuronal ceroid lipofuscinosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000973" source="GHR" url="https://ghr.nlm.nih.gov/condition/tetra-amelia-syndrome">
+<Focus>tetra-amelia syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3814160</CUI>
+			<CUI>C0002447</CUI>
+			<CUI>C2931216</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Tetra-amelia</Synonym>
+		<Synonym>Tetra-amelia, autosomal recessive</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000973-1" qtype="information">What is (are) tetra-amelia syndrome ?</Question>
+			<Answer>Tetra-amelia syndrome is a very rare disorder characterized by the absence of all four limbs. (&quot;Tetra&quot; is the Greek word for &quot;four,&quot; and &quot;amelia&quot; refers to the failure of an arm or leg to develop before birth.) This syndrome can also cause severe malformations of other parts of the body, including the face and head, heart, nervous system, skeleton, and genitalia. The lungs are underdeveloped in many cases, which makes breathing difficult or impossible. Because children with tetra-amelia syndrome have such serious medical problems, most are stillborn or die shortly after birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000973-2" qtype="frequency">How many people are affected by tetra-amelia syndrome ?</Question>
+			<Answer>Tetra-amelia syndrome has been reported in only a few families worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000973-3" qtype="genetic changes">What are the genetic changes related to tetra-amelia syndrome ?</Question>
+			<Answer>Researchers have found a mutation in the WNT3 gene in people with tetra-amelia syndrome from one large family. This gene is part of a family of WNT genes that play critical roles in development before birth. The protein produced from the WNT3 gene is involved in the formation of the limbs and other body systems during embryonic development. Mutations in the WNT3 gene prevent cells from producing functional WNT3 protein, which disrupts normal limb formation and leads to the other serious birth defects associated with tetra-amelia syndrome.  In other affected families, the cause of tetra-amelia syndrome has not been determined. Researchers believe that unidentified mutations in WNT3 or other genes involved in limb development are probably responsible for the disorder in these cases.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000973-4" qtype="inheritance">Is tetra-amelia syndrome inherited ?</Question>
+			<Answer>In most of the families reported so far, tetra-amelia syndrome appears to have an autosomal recessive pattern of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with tetra-amelia syndrome each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000973-5" qtype="treatment">What are the treatments for tetra-amelia syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of tetra-amelia syndrome:  - Gene Review: Gene Review: Tetra-Amelia Syndrome  - Genetic Testing Registry: Tetraamelia, autosomal recessive   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

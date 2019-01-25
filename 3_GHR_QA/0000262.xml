@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000262" source="GHR" url="https://ghr.nlm.nih.gov/condition/cystic-fibrosis">
+<Focus>cystic fibrosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0010674</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CF</Synonym>
+		<Synonym>cystic fibrosis of pancreas</Synonym>
+		<Synonym>fibrocystic disease of pancreas</Synonym>
+		<Synonym>mucoviscidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000262-1" qtype="information">What is (are) cystic fibrosis ?</Question>
+			<Answer>Cystic fibrosis is an inherited disease characterized by the buildup of thick, sticky mucus that can damage many of the body&apos;s organs. The disorder&apos;s most common signs and symptoms include progressive damage to the respiratory system and chronic digestive system problems. The features of the disorder and their severity varies among affected individuals.  Mucus is a slippery substance that lubricates and protects the linings of the airways, digestive system, reproductive system, and other organs and tissues. In people with cystic fibrosis, the body produces mucus that is abnormally thick and sticky. This abnormal mucus can clog the airways, leading to severe problems with breathing and bacterial infections in the lungs. These infections cause chronic coughing, wheezing, and inflammation. Over time, mucus buildup and infections result in permanent lung damage, including the formation of scar tissue (fibrosis) and cysts in the lungs.  Most people with cystic fibrosis also have digestive problems. Some affected babies have meconium ileus, a blockage of the intestine that occurs shortly after birth. Other digestive problems result from a buildup of thick, sticky mucus in the pancreas. The pancreas is an organ that produces insulin (a hormone that helps control blood sugar levels). It also makes enzymes that help digest food. In people with cystic fibrosis, mucus blocks the ducts of the pancreas, reducing the production of insulin and preventing digestive enzymes from reaching the intestines to aid digestion. Problems with digestion can lead to diarrhea, malnutrition, poor growth, and weight loss. In adolescence or adulthood, a shortage of insulin can cause a form of diabetes known as cystic fibrosis-related diabetes mellitus (CFRDM).  Cystic fibrosis used to be considered a fatal disease of childhood. With improved treatments and better ways to manage the disease, many people with cystic fibrosis now live well into adulthood. Adults with cystic fibrosis experience health problems affecting the respiratory, digestive, and reproductive systems. Most men with cystic fibrosis have congenital bilateral absence of the vas deferens (CBAVD), a condition in which the tubes that carry sperm (the vas deferens) are blocked by mucus and do not develop properly. Men with CBAVD are unable to father children (infertile) unless they undergo fertility treatment. Women with cystic fibrosis may experience complications in pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000262-2" qtype="frequency">How many people are affected by cystic fibrosis ?</Question>
+			<Answer>Cystic fibrosis is a common genetic disease within the white population in the United States. The disease occurs in 1 in 2,500 to 3,500 white newborns. Cystic fibrosis is less common in other ethnic groups, affecting about 1 in 17,000 African Americans and 1 in 31,000 Asian Americans.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000262-3" qtype="genetic changes">What are the genetic changes related to cystic fibrosis ?</Question>
+			<Answer>Mutations in the CFTR gene cause cystic fibrosis. The CFTR gene provides instructions for making a channel that transports negatively charged particles called chloride ions into and out of cells. Chloride is a component of sodium chloride, a common salt found in sweat. Chloride also has important functions in cells; for example, the flow of chloride ions helps control the movement of water in tissues, which is necessary for the production of thin, freely flowing mucus.  Mutations in the CFTR gene disrupt the function of the chloride channels, preventing them from regulating the flow of chloride ions and water across cell membranes. As a result, cells that line the passageways of the lungs, pancreas, and other organs produce mucus that is unusually thick and sticky. This mucus clogs the airways and various ducts, causing the characteristic signs and symptoms of cystic fibrosis.  Other genetic and environmental factors likely influence the severity of the condition. For example, mutations in genes other than CFTR might help explain why some people with cystic fibrosis are more severely affected than others. Most of these genetic changes have not been identified, however.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000262-4" qtype="inheritance">Is cystic fibrosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000262-5" qtype="treatment">What are the treatments for cystic fibrosis ?</Question>
+			<Answer>These resources address the diagnosis or management of cystic fibrosis:  - American Society for Reproductive Medicine: Male Infertility  - Baby&apos;s First Test  - Gene Review: Gene Review: CFTR-Related Disorders  - Genetic Testing Registry: Cystic fibrosis  - Genomics Education Programme (UK)  - MedlinePlus Encyclopedia: Cystic Fibrosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

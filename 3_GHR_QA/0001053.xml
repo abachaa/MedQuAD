@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001053" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-immunodeficiency-with-magnesium-defect-epstein-barr-virus-infection-and-neoplasia">
+<Focus>X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0021051</CUI>
+			<CUI>C0149678</CUI>
+			<CUI>C0027651</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>immunodeficiency, X-linked, with magnesium defect, Epstein-Barr virus infection, and neoplasia</Synonym>
+		<Synonym>XMEN</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001053-1" qtype="information">What is (are) X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia ?</Question>
+			<Answer>X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia (typically known by the acronym XMEN) is a disorder that affects the immune system in males. In XMEN, certain types of immune system cells called T cells are reduced in number or do not function properly. Normally these cells recognize foreign invaders, such as viruses, bacteria, and fungi, and are then turned on (activated) to attack these invaders in order to prevent infection and illness. Because males with XMEN do not have enough functional T cells, they have frequent infections, such as ear infections, sinus infections, and pneumonia.  In particular, affected individuals are vulnerable to the Epstein-Barr virus (EBV). EBV is a very common virus that infects more than 90 percent of the general population and in most cases goes unnoticed. Normally, after initial infection, EBV remains in the body for the rest of a person&apos;s life. However, the virus is generally inactive (latent) because it is controlled by T cells. In males with XMEN, however, the T cells cannot control the virus, and EBV infection can lead to cancers of immune system cells (lymphomas). The word &quot;neoplasia&quot; in the condition name refers to these lymphomas; neoplasia is a general term meaning abnormal growths of tissue. The EBV infection itself usually does not cause any other symptoms in males with XMEN, and affected individuals may not come to medical attention until they develop lymphoma.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001053-2" qtype="frequency">How many people are affected by X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia ?</Question>
+			<Answer>The prevalence of XMEN is unknown. Only a few affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001053-3" qtype="genetic changes">What are the genetic changes related to X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia ?</Question>
+			<Answer>XMEN is caused by mutations in the MAGT1 gene. This gene provides instructions for making a protein called a magnesium transporter, which moves charged atoms (ions) of magnesium (Mg2+) into certain T cells. Specifically, the magnesium transporter produced from the MAGT1 gene is active in CD8+ T cells, which are especially important in controlling viral infections such as the Epstein-Barr virus (EBV). These cells normally take in magnesium when they detect a foreign invader, and the magnesium is involved in activating the T cell&apos;s response.  Researchers suggest that magnesium transport may also be involved in the production of another type of T cell called helper T cells (CD4+ T cells) in a gland called the thymus. CD4+ T cells direct and assist the functions of the immune system by influencing the activities of other immune system cells.  Mutations in the MAGT1 gene impair the magnesium transporter&apos;s function, reducing the amount of magnesium that gets into T cells. This magnesium deficiency prevents the efficient activation of the T cells to target EBV and other infections. Uncontrolled EBV infection increases the likelihood of developing lymphoma. Impaired production of CD4+ T cells resulting from abnormal magnesium transport likely accounts for the deficiency of this type of T cell in people with XMEN, contributing to the decreased ability to prevent infection and illness.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001053-4" qtype="inheritance">Is X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001053-5" qtype="treatment">What are the treatments for X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of XMEN:  - MedlinePlus Encyclopedia: Epstein-Barr Virus Test  - MedlinePlus Encyclopedia: T Cell Count   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

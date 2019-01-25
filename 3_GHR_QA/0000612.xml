@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000612" source="GHR" url="https://ghr.nlm.nih.gov/condition/lysinuric-protein-intolerance">
+<Focus>lysinuric protein intolerance</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268647</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Congenital lysinuria</Synonym>
+		<Synonym>Hyperdibasic aminoaciduria</Synonym>
+		<Synonym>LPI</Synonym>
+		<Synonym>LPI - Lysinuric protein intolerance</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000612-1" qtype="information">What is (are) lysinuric protein intolerance ?</Question>
+			<Answer>Lysinuric protein intolerance is a disorder caused by the body&apos;s inability to digest and use certain protein building blocks (amino acids), namely lysine, arginine, and ornithine. Because the body cannot effectively break down these amino acids, which are found in many protein-rich foods, nausea and vomiting are typically experienced after ingesting protein.  People with lysinuric protein intolerance have features associated with protein intolerance, including an enlarged liver and spleen (hepatosplenomegaly), short stature, muscle weakness, impaired immune function, and progressively brittle bones that are prone to fracture (osteoporosis). A lung disorder called pulmonary alveolar proteinosis may also develop. This disorder is characterized by protein deposits in the lungs, which interfere with lung function and can be life-threatening. An accumulation of amino acids in the kidneys can cause end-stage renal disease (ESRD) in which the kidneys become unable to filter fluids and waste products from the body effectively. A lack of certain amino acids can cause elevated levels of ammonia in the blood. If ammonia levels are too high for too long, they can cause coma and intellectual disability.  The signs and symptoms of lysinuric protein intolerance typically appear after infants are weaned and receive greater amounts of protein from solid foods.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000612-2" qtype="frequency">How many people are affected by lysinuric protein intolerance ?</Question>
+			<Answer>Lysinuric protein intolerance is estimated to occur in 1 in 60,000 newborns in Finland and 1 in 57,000 newborns in Japan. Outside these populations this condition occurs less frequently, but the exact incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000612-3" qtype="genetic changes">What are the genetic changes related to lysinuric protein intolerance ?</Question>
+			<Answer>Mutations in the SLC7A7 gene cause lysinuric protein intolerance. The SLC7A7 gene provides instructions for producing a protein called y+L amino acid transporter 1 (y+LAT-1), which is involved in transporting lysine, arginine, and ornithine between cells in the body. The transportation of amino acids from the small intestines and kidneys to the rest of the body is necessary for the body to be able to use proteins. Mutations in the y+LAT-1 protein disrupt the transportation of amino acids, leading to a shortage of lysine, arginine, and ornithine in the body and an abnormally large amount of these amino acids in urine.  A shortage of lysine, arginine, and ornithine disrupts many vital functions. Arginine and ornithine are involved in a cellular process called the urea cycle, which processes excess nitrogen (in the form of ammonia) that is generated when protein is used by the body. The lack of arginine and ornithine in the urea cycle causes elevated levels of ammonia in the blood. Lysine is particularly abundant in collagen molecules that give structure and strength to connective tissues such as skin, tendons, and ligaments. A deficiency of lysine contributes to the short stature and osteoporosis seen in people with lysinuric protein intolerance. Other features of lysinuric protein intolerance are thought to result from abnormal protein transport (such as protein deposits in the lungs) or a lack of protein that can be used by the body (protein malnutrition).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000612-4" qtype="inheritance">Is lysinuric protein intolerance inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000612-5" qtype="treatment">What are the treatments for lysinuric protein intolerance ?</Question>
+			<Answer>These resources address the diagnosis or management of lysinuric protein intolerance:  - Gene Review: Gene Review: Lysinuric Protein Intolerance  - Genetic Testing Registry: Lysinuric protein intolerance  - MedlinePlus Encyclopedia: Aminoaciduria  - MedlinePlus Encyclopedia: Malabsorption   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

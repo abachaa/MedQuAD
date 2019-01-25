@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000157" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/catscratchdisease.html">
+<Focus>Cat Scratch Disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1384489</CUI>
+			<CUI>C0007361</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cat scratch fever</Synonym>
+		<Synonym>CSD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000157-1" qtype="information">What is (are) Cat Scratch Disease ?</Question>
+			<Answer>Cat scratch disease (CSD) is an illness caused by the bacterium Bartonella henselae. Almost half of all cats carry the infection at some point. The infection does not make cats sick. However, the scratch or bite of an infected cat can cause symptoms in people, including        - Swollen lymph nodes, especially around the head, neck, and upper limbs    - Fever    -  Headache    - Fatigue    - Poor appetite        For people with weak immune systems, CSD may cause more serious problems. The best way to avoid CSD is to avoid rough play with cats that could lead to scratches or bites. If you do get a scratch or bite, wash it well with soap and water. If the bite or scratch gets infected or if you have symptoms of CSD, call your doctor.     Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

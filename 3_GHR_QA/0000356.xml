@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000356" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-idiopathic-basal-ganglia-calcification">
+<Focus>familial idiopathic basal ganglia calcification</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393590</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>bilateral striopallidodentate calcinosis</Synonym>
+		<Synonym>cerebrovascular ferrocalcinosis</Synonym>
+		<Synonym>FIBGC</Synonym>
+		<Synonym>striopallidodentate calcinosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000356-1" qtype="information">What is (are) familial idiopathic basal ganglia calcification ?</Question>
+			<Answer>Familial idiopathic basal ganglia calcification (FIBGC, formerly known as Fahr disease) is a condition characterized by abnormal deposits of calcium (calcification) in the brain. These calcium deposits typically occur in the basal ganglia, which are structures deep within the brain that help start and control movement; however, other brain regions can also be affected.  The signs and symptoms of FIBGC include movement disorders and psychiatric or behavioral difficulties. These problems begin in adulthood, usually in a person&apos;s thirties. The movement difficulties experienced by people with FIBGC include involuntary tensing of various muscles (dystonia), problems coordinating movements (ataxia), and uncontrollable movements of the limbs (choreoathetosis). Affected individuals often have seizures as well. The psychiatric and behavioral problems include difficulty concentrating, memory loss, changes in personality, a distorted view of reality (psychosis), and decline in intellectual function (dementia). An estimated 20 to 30 percent of people with FIBGC have one of these psychiatric disorders.  The severity of this condition varies among affected individuals; some people have no symptoms related to the brain calcification, whereas other people have significant movement and psychiatric problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000356-2" qtype="frequency">How many people are affected by familial idiopathic basal ganglia calcification ?</Question>
+			<Answer>FIBGC is thought to be a rare disorder; about 60 affected families have been described in the medical literature. However, because brain imaging tests are needed to recognize the calcium deposits, this condition is believed to be underdiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000356-3" qtype="genetic changes">What are the genetic changes related to familial idiopathic basal ganglia calcification ?</Question>
+			<Answer>Mutations in the SLC20A2 gene cause nearly half of all cases of FIBGC. A small percentage of cases are caused by mutations in the PDGFRB gene. Other cases of FIBGC appear to be associated with changes in chromosomes 2, 7, 9, and 14, although specific genes have yet to be identified. These findings suggest that multiple genes are involved in this condition.  The SLC20A2 gene provides instructions for making a protein called sodium-dependent phosphate transporter 2 (PiT-2). This protein plays a major role in regulating phosphate levels within the body (phosphate homeostasis) by transporting phosphate across cell membranes. The SLC20A2 gene mutations that cause FIBGC lead to the production of a PiT-2 protein that cannot effectively transport phosphate into cells. As a result, phosphate levels in the bloodstream rise. In the brain, the excess phosphate combines with calcium and forms deposits.  The PDGFRB gene provides instructions for making a protein that plays a role in turning on (activating) signaling pathways that control many cell processes. It is unclear how PDGFRB gene mutations cause FIBGC. Mutations may alter signaling within cells that line blood vessels in the brain, causing them to take in excess calcium, and leading to calcification of the lining of these blood vessels. Alternatively, changes in the PDGFRB protein could alter phosphate transport signaling pathways, causing an increase in phosphate levels and the formation of calcium deposits.  Researchers suggest that calcium deposits lead to the characteristic features of FIBGC by interrupting signaling pathways in various parts of the brain. Calcium deposits may disrupt the pathways that connect the basal ganglia to other areas of the brain, particularly the frontal lobes. These areas at the front of the brain are involved in reasoning, planning, judgment, and problem-solving. The regions of the brain that regulate social behavior, mood, and motivation may also be affected.  Research has shown that people with significant calcification tend to have more signs and symptoms of FIBGC than people with little or no calcification. However, this association does not apply to all people with FIBGC.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000356-4" qtype="inheritance">Is familial idiopathic basal ganglia calcification inherited ?</Question>
+			<Answer>FIBGC is inherited in an autosomal dominant pattern. Autosomal dominant inheritance means one copy of an altered SLC20A2 or PDGFRB gene in each cell is sufficient to cause the disorder. This condition appears to follow an autosomal dominant pattern of inheritance when the genetic cause is not known. In most cases, an affected person has one parent with the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000356-5" qtype="treatment">What are the treatments for familial idiopathic basal ganglia calcification ?</Question>
+			<Answer>These resources address the diagnosis or management of FIBGC:  - Dystonia Medical Research Foundation: Treatments  - Gene Review: Gene Review: Primary Familial Brain Calcification  - Genetic Testing Registry: Basal ganglia calcification, idiopathic, 2  - Genetic Testing Registry: Basal ganglia calcification, idiopathic, 4  - Genetic Testing Registry: Idiopathic basal ganglia calcification 1   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000108" source="NINDS" url="http://www.ninds.nih.gov/disorders/dravet_syndrome/dravet_syndrome.htm">
+<Focus>Dravet Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751122</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000108-1" qtype="information">What is (are) Dravet Syndrome ?</Question>
+			<Answer>Dravet syndrome, also called severe myoclonic epilepsy of infancy (SMEI), is a severe form of epilepsy. It appears during the first year of life with frequent febrile seizures  fever-related seizures that, by definition, are rare beyond age 5. Later, other types of seizures typically arise, including myoclonus (involuntary muscle spasms). Status epilepticus  a state of continuous seizure requiring emergency medical care  also may occur. Children with Dravet syndrome typically experience poor development of language and motor skills, hyperactivity, and difficulty relating to others.
+                
+In 30 to 80 percent of cases, Dravet syndrome is caused by defects in a gene required for the proper function of brain cells. Borderline SMEI (SMEB) and another type of infant-onset epilepsy called generalized epilepsy with febrile seizures plus (GEFS+) are caused by defects in the same gene. In GEFS+, febrile seizures may persist beyond age 5.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000108-2" qtype="treatment">What are the treatments for Dravet Syndrome ?</Question>
+			<Answer>Seizures in Dravet syndrome are difficult to control, but can be reduced by anticonvulsant drugs. A ketogenic diet, high in fats and low in carbohydrates, also may be beneficial.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000108-3" qtype="outlook">What is the outlook for Dravet Syndrome ?</Question>
+			<Answer>As children with Dravet syndrome get older, their decline in cognitive function stabilizes, and in many, it improves slightly. However, most teenagers with Dravet syndrome are dependent on caregivers. The degree of cognitive impairment appears to correlate with the frequency of seizures.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000108-4" qtype="research">what research (or clinical trials) is being done for Dravet Syndrome ?</Question>
+			<Answer>The NINDS conducts and supports a broad program of basic and clinical research on all types of epilepsy, including Dravet syndrome. Study of the genetic defects responsible for Dravet syndrome and related disorders is expected to lead to the development of effective drug therapies.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

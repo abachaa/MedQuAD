@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000700" source="GHR" url="https://ghr.nlm.nih.gov/condition/myh9-related-disorder">
+<Focus>MYH9-related disorder</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal dominant MYH9 spectrum disorders</Synonym>
+		<Synonym>MYH9-related macrothrombocytopenias</Synonym>
+		<Synonym>MYH9RD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000700-1" qtype="information">What is (are) MYH9-related disorder ?</Question>
+			<Answer>MYH9-related disorder is a condition that can have many signs and symptoms, including bleeding problems, hearing loss, kidney (renal) disease, and clouding of the lens of the eyes (cataracts).  The bleeding problems in people with MYH9-related disorder are due to thrombocytopenia. Thrombocytopenia is a reduced level of circulating platelets, which are cell fragments that normally assist with blood clotting. People with MYH9-related disorder typically experience easy bruising, and affected women have excessive bleeding during menstruation (menorrhagia). The platelets in people with MYH9-related disorder are larger than normal. These enlarged platelets have difficulty moving into tiny blood vessels like capillaries. As a result, the platelet level is even lower in these small vessels, further impairing clotting.  Some people with MYH9-related disorder develop hearing loss caused by abnormalities of the inner ear (sensorineural hearing loss). Hearing loss may be present from birth or can develop anytime into late adulthood.  An estimated 30 to 70 percent of people with MYH9-related disorder develop renal disease, usually beginning in early adulthood. The first sign of renal disease in MYH9-related disorder is typically protein or blood in the urine. Renal disease in these individuals particularly affects structures called glomeruli, which are clusters of tiny blood vessels that help filter waste products from the blood. The resulting damage to the kidneys can lead to kidney failure and end-stage renal disease (ESRD).  Some affected individuals develop cataracts in early adulthood that worsen over time.  Not everyone with MYH9-related disorder has all of the major features. All individuals with MYH9-related disorder have thrombocytopenia and enlarged platelets. Most commonly, affected individuals will also have hearing loss and renal disease. Cataracts are the least common sign of this disorder.  MYH9-related disorder was previously thought to be four separate disorders: May-Hegglin anomaly, Epstein syndrome, Fechtner syndrome, and Sebastian syndrome. All of these disorders involved thrombocytopenia and enlarged platelets and were distinguished by some combination of hearing loss, renal disease, and cataracts. When it was discovered that these four conditions all had the same genetic cause, they were combined and renamed MYH9-related disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000700-2" qtype="frequency">How many people are affected by MYH9-related disorder ?</Question>
+			<Answer>The incidence of MYH9-related disorder is unknown. More than 200 affected families have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000700-3" qtype="genetic changes">What are the genetic changes related to MYH9-related disorder ?</Question>
+			<Answer>MYH9-related disorder is caused by mutations in the MYH9 gene. The MYH9 gene provides instructions for making a protein called myosin-9. This protein is one part (subunit) of the myosin IIA protein.  There are three forms of myosin II, called myosin IIA, myosin IIB and myosin IIC. The three forms are found throughout the body and perform similar functions. They play roles in cell movement (cell motility); maintenance of cell shape; and cytokinesis, which is the step in cell division when the fluid surrounding the nucleus (the cytoplasm) divides to form two separate cells. While some cells use more than one type of myosin II, certain blood cells such as platelets and white blood cells (leukocytes) use only myosin IIA.  MYH9 gene mutations that cause MYH9-related disorder typically result in a nonfunctional version of the myosin-9 protein. The nonfunctional protein cannot properly interact with other subunits to form myosin IIA. Platelets and leukocytes, which only use myosin IIA, are most affected by a lack of functional myosin-9. It is thought that a lack of functional myosin IIA leads to the release of large, immature platelets in the bloodstream, resulting in a reduced amount of normal platelets. In leukocytes, the nonfunctional myosin-9 clumps together. These clumps of protein, called inclusion bodies, are a hallmark of MYH9-related disorder and are present in the leukocytes of everyone with this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000700-4" qtype="inheritance">Is MYH9-related disorder inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Approximately 30 percent of cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000700-5" qtype="treatment">What are the treatments for MYH9-related disorder ?</Question>
+			<Answer>These resources address the diagnosis or management of MYH9-related disorder:  - Gene Review: Gene Review: MYH9-Related Disorders  - Genetic Testing Registry: Epstein syndrome  - Genetic Testing Registry: Fechtner syndrome  - Genetic Testing Registry: Macrothrombocytopenia and progressive sensorineural deafness  - Genetic Testing Registry: May-Hegglin anomaly  - Genetic Testing Registry: Sebastian syndrome  - MedlinePlus Encyclopedia: Glomerulonephritis  - MedlinePlus Encyclopedia: Thrombocytopenia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

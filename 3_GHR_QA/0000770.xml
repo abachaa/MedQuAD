@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000770" source="GHR" url="https://ghr.nlm.nih.gov/condition/pantothenate-kinase-associated-neurodegeneration">
+<Focus>pantothenate kinase-associated neurodegeneration</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027746</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T049</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>NBIA1</Synonym>
+		<Synonym>neurodegeneration with brain iron accumulation type 1</Synonym>
+		<Synonym>PKAN</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000770-1" qtype="information">What is (are) pantothenate kinase-associated neurodegeneration ?</Question>
+			<Answer>Pantothenate kinase-associated neurodegeneration (formerly called Hallervorden-Spatz syndrome) is a disorder of the nervous system. This condition is characterized by progressive difficulty with movement, typically beginning in childhood. Movement abnormalities include involuntary muscle spasms, rigidity, and trouble with walking that worsens over time. Many people with this condition also develop problems with speech (dysarthria), and some develop vision loss. Additionally, affected individuals may experience a loss of intellectual function (dementia) and psychiatric symptoms such as behavioral problems, personality changes, and depression.  Pantothenate kinase-associated neurodegeneration is characterized by an abnormal buildup of iron in certain areas of the brain. A particular change called the eye-of-the-tiger sign, which indicates an accumulation of iron, is typically seen on magnetic resonance imaging (MRI) scans of the brain in people with this disorder.  Researchers have described classic and atypical forms of pantothenate kinase-associated neurodegeneration. The classic form usually appears in early childhood, causing severe problems with movement that worsen rapidly. Features of the atypical form appear later in childhood or adolescence and progress more slowly. Signs and symptoms vary, but the atypical form is more likely than the classic form to involve speech defects and psychiatric problems.  A condition called HARP (hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration), which was historically described as a separate syndrome, is now considered part of pantothenate kinase-associated neurodegeneration. Although HARP is much rarer than classic pantothenate kinase-associated neurodegeneration, both conditions involve problems with movement, dementia, and vision abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000770-2" qtype="frequency">How many people are affected by pantothenate kinase-associated neurodegeneration ?</Question>
+			<Answer>The precise incidence of this condition is unknown. It is estimated to affect 1 to 3 per million people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000770-3" qtype="genetic changes">What are the genetic changes related to pantothenate kinase-associated neurodegeneration ?</Question>
+			<Answer>Mutations in the PANK2 gene cause pantothenate kinase-associated neurodegeneration.  The PANK2 gene provides instructions for making an enzyme called pantothenate kinase 2. This enzyme is active in mitochondria, the energy-producing centers within cells, where it plays a critical role in the formation of a molecule called coenzyme A. Found in all living cells, coenzyme A is essential for the body&apos;s production of energy from carbohydrates, fats, and some protein building blocks (amino acids).  Mutations in the PANK2 gene likely result in the production of an abnormal version of pantothenate kinase 2 or prevent cells from making any of this enzyme. A lack of functional pantothenate kinase 2 disrupts the production of coenzyme A and allows potentially harmful compounds to build up in the brain. This buildup leads to swelling and tissue damage, and allows iron to accumulate abnormally in certain parts of the brain. Researchers have not determined how these changes result in the specific features of pantothenate kinase-associated neurodegeneration. Because pantothenate kinase 2 functions in mitochondria, the signs and symptoms of this condition may be related to impaired energy production.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000770-4" qtype="inheritance">Is pantothenate kinase-associated neurodegeneration inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000770-5" qtype="treatment">What are the treatments for pantothenate kinase-associated neurodegeneration ?</Question>
+			<Answer>These resources address the diagnosis or management of pantothenate kinase-associated neurodegeneration:  - Gene Review: Gene Review: Pantothenate Kinase-Associated Neurodegeneration  - Genetic Testing Registry: Hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration  - MedlinePlus Encyclopedia: Hallervorden-Spatz Disease  - MedlinePlus Encyclopedia: MRI   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

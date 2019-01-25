@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000018" source="GHR" url="https://ghr.nlm.nih.gov/condition/adenosine-deaminase-deficiency">
+<Focus>adenosine deaminase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1863239</CUI>
+			<CUI>C0268124</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ADA deficiency</Synonym>
+		<Synonym>ADA-SCID</Synonym>
+		<Synonym>adenosine deaminase deficient severe combined immunodeficiency</Synonym>
+		<Synonym>SCID due to ADA deficiency</Synonym>
+		<Synonym>severe combined immunodeficiency due to ADA deficiency</Synonym>
+		<Synonym>severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000018-1" qtype="information">What is (are) adenosine deaminase deficiency ?</Question>
+			<Answer>Adenosine deaminase (ADA) deficiency is an inherited disorder that damages the immune system and causes severe combined immunodeficiency (SCID). People with SCID lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be very serious or life-threatening. These infections are often caused by &quot;opportunistic&quot; organisms that ordinarily do not cause illness in people with a normal immune system.  The main symptoms of ADA deficiency are pneumonia, chronic diarrhea, and widespread skin rashes. Affected children also grow much more slowly than healthy children and some have developmental delay.  Most individuals with ADA deficiency are diagnosed with SCID in the first 6 months of life. Without treatment, these babies usually do not survive past age 2. In about 10 percent to 15 percent of cases, onset of immune deficiency is delayed to between 6 and 24 months of age (delayed onset) or even until adulthood (late onset). Immune deficiency in these later-onset cases tends to be less severe, causing primarily recurrent upper respiratory and ear infections. Over time, affected individuals may develop chronic lung damage, malnutrition, and other health problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000018-2" qtype="frequency">How many people are affected by adenosine deaminase deficiency ?</Question>
+			<Answer>Adenosine deaminase deficiency is very rare and is estimated to occur in approximately 1 in 200,000 to 1,000,000 newborns worldwide. This disorder is responsible for approximately 15 percent of SCID cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000018-3" qtype="genetic changes">What are the genetic changes related to adenosine deaminase deficiency ?</Question>
+			<Answer>Adenosine deaminase deficiency is caused by mutations in the ADA gene. This gene provides instructions for producing the enzyme adenosine deaminase. This enzyme is found throughout the body but is most active in specialized white blood cells called lymphocytes. These cells protect the body against potentially harmful invaders, such as bacteria and viruses, by making immune proteins called antibodies or by directly attacking infected cells. Lymphocytes are produced in specialized lymphoid tissues including the thymus, which is a gland located behind the breastbone, and lymph nodes, which are found throughout the body. Lymphocytes in the blood and in lymphoid tissues make up the immune system.  The function of the adenosine deaminase enzyme is to eliminate a molecule called deoxyadenosine, which is generated when DNA is broken down. Adenosine deaminase converts deoxyadenosine, which can be toxic to lymphocytes, to another molecule called deoxyinosine that is not harmful. Mutations in the ADA gene reduce or eliminate the activity of adenosine deaminase and allow the buildup of deoxyadenosine to levels that are toxic to lymphocytes.  Immature lymphocytes in the thymus are particularly vulnerable to a toxic buildup of deoxyadenosine. These cells die before they can mature to help fight infection. The number of lymphocytes in other lymphoid tissues is also greatly reduced. The loss of infection-fighting cells results in the signs and symptoms of SCID.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000018-4" qtype="inheritance">Is adenosine deaminase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000018-5" qtype="treatment">What are the treatments for adenosine deaminase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of ADA deficiency:  - American Society of Gene and Cell Therapy: Gene Therapy for Genetic Disorders  - Baby&apos;s First Test: Severe Combined Immunodeficiency  - Gene Review: Gene Review: Adenosine Deaminase Deficiency  - Genetic Testing Registry: Severe combined immunodeficiency due to ADA deficiency  - National Marrow Donor Program: SCID and Transplant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

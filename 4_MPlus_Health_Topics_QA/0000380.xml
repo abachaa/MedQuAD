@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000380" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/fractures.html">
+<Focus>Fractures</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016658</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Broken bone</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000380-1" qtype="information">What is (are) Fractures ?</Question>
+			<Answer>A fracture is a break, usually in a bone. If the broken bone punctures the skin, it is called an open or compound fracture. Fractures commonly happen because of car accidents, falls, or sports injuries. Other causes are low bone density and osteoporosis, which cause weakening of the bones. Overuse can cause stress fractures, which are very small cracks in the bone.     Symptoms of a fracture are       - Intense pain    - Deformity - the limb looks out of place    - Swelling, bruising, or tenderness around the injury    - Numbness and tingling    - Problems moving a limb       You need to get medical care right away for any fracture. An x-ray can tell if your bone is broken. You may need to wear a cast or splint. Sometimes you need surgery to put in plates, pins or screws to keep the bone in place.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

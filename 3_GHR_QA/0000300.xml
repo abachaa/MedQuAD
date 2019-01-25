@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000300" source="GHR" url="https://ghr.nlm.nih.gov/condition/dopamine-beta-hydroxylase-deficiency">
+<Focus>dopamine beta-hydroxylase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342687</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dopamine -hydroxylase</Synonym>
+		<Synonym>noradrenaline deficiency</Synonym>
+		<Synonym>norepinephrine deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000300-1" qtype="information">What is (are) dopamine beta-hydroxylase deficiency ?</Question>
+			<Answer>Dopamine beta ()-hydroxylase deficiency is a condition that affects the autonomic nervous system, which controls involuntary body processes such as the regulation of blood pressure and body temperature. Problems related to this disorder can first appear during infancy. Early signs and symptoms may include episodes of vomiting, dehydration, decreased blood pressure (hypotension), difficulty maintaining body temperature, and low blood sugar (hypoglycemia).  Individuals with dopamine -hydroxylase deficiency typically experience a sharp drop in blood pressure upon standing (orthostatic hypotension), which can cause dizziness, blurred vision, or fainting. This sudden drop in blood pressure is usually more severe when getting out of bed in the morning, during hot weather, and as a person gets older. People with dopamine -hydroxylase deficiency experience extreme fatigue during exercise (exercise intolerance) due to their problems maintaining a normal blood pressure.  Other features of dopamine -hydroxylase deficiency include droopy eyelids (ptosis), nasal congestion, and an inability to stand for a prolonged period of time. Affected males may also experience retrograde ejaculation, a discharge of semen backwards into the bladder. Less common features include an unusually large range of joint movement (hypermobility) and muscle weakness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000300-2" qtype="frequency">How many people are affected by dopamine beta-hydroxylase deficiency ?</Question>
+			<Answer>Dopamine -hydroxylase deficiency is a very rare disorder. Fewer than 20 affected individuals, all of Western European descent, have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000300-3" qtype="genetic changes">What are the genetic changes related to dopamine beta-hydroxylase deficiency ?</Question>
+			<Answer>Mutations in the DBH gene cause dopamine -hydroxylase deficiency. The DBH gene provides instructions for producing the enzyme dopamine -hydroxylase. This enzyme converts dopamine to norepinephrine, both of which are chemical messengers (neurotransmitters) that transmit signals between nerve cells.  DBH gene mutations result in the production of a nonfunctional dopamine -hydroxylase enzyme. People who lack functional dopamine -hydroxylase cannot convert dopamine to norepinephrine, which leads to a shortage of norepinephrine in the body. The lack of norepinephrine causes difficulty with regulating blood pressure and other autonomic nervous system problems seen in dopamine -hydroxylase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000300-4" qtype="inheritance">Is dopamine beta-hydroxylase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000300-5" qtype="treatment">What are the treatments for dopamine beta-hydroxylase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of dopamine beta-hydroxylase deficiency:  - Gene Review: Gene Review: Dopamine Beta-Hydroxylase Deficiency  - Genetic Testing Registry: Dopamine beta hydroxylase deficiency  - Vanderbilt Autonomic Dysfunction Center   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

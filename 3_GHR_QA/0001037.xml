@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001037" source="GHR" url="https://ghr.nlm.nih.gov/condition/wilson-disease">
+<Focus>Wilson disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019202</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>copper storage disease</Synonym>
+		<Synonym>hepatolenticular degeneration syndrome</Synonym>
+		<Synonym>WD</Synonym>
+		<Synonym>Wilson's disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001037-1" qtype="information">What is (are) Wilson disease ?</Question>
+			<Answer>Wilson disease is an inherited disorder in which excessive amounts of copper accumulate in the body, particularly in the liver, brain, and eyes. The signs and symptoms of Wilson disease usually first appear between the ages of 6 and 45, but they most often begin during the teenage years. The features of this condition include a combination of liver disease and neurological and psychiatric problems.  Liver disease is typically the initial feature of Wilson disease in affected children and young adults; individuals diagnosed at an older age usually do not have symptoms of liver problems, although they may have very mild liver disease. The signs and symptoms of liver disease include yellowing of the skin or whites of the eyes (jaundice), fatigue, loss of appetite, and abdominal swelling.  Nervous system or psychiatric problems are often the initial features in individuals diagnosed in adulthood and commonly occur in young adults with Wilson disease. Signs and symptoms of these problems can include clumsiness, tremors, difficulty walking, speech problems, impaired thinking ability, depression, anxiety, and mood swings.  In many individuals with Wilson disease, copper deposits in the front surface of the eye (the cornea) form a green-to-brownish ring, called the Kayser-Fleischer ring, that surrounds the colored part of the eye. Abnormalities in eye movements, such as a restricted ability to gaze upwards, may also occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001037-2" qtype="frequency">How many people are affected by Wilson disease ?</Question>
+			<Answer>Wilson disease is a rare disorder that affects approximately 1 in 30,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001037-3" qtype="genetic changes">What are the genetic changes related to Wilson disease ?</Question>
+			<Answer>Wilson disease is caused by mutations in the ATP7B gene. This gene provides instructions for making a protein called copper-transporting ATPase 2, which plays a role in the transport of copper from the liver to other parts of the body. Copper is necessary for many cellular functions, but it is toxic when present in excessive amounts. The copper-transporting ATPase 2 protein is particularly important for the elimination of excess copper from the body. Mutations in the ATP7B gene prevent the transport protein from functioning properly. With a shortage of functional protein, excess copper is not removed from the body. As a result, copper accumulates to toxic levels that can damage tissues and organs, particularly the liver and brain.  Research indicates that a normal variation in the PRNP gene may modify the course of Wilson disease. The PRNP gene provides instructions for making prion protein, which is active in the brain and other tissues and appears to be involved in transporting copper. Studies have focused on the effects of a PRNP gene variation that affects position 129 of the prion protein. At this position, people can have either the protein building block (amino acid) methionine or the amino acid valine. Among people who have mutations in the ATP7B gene, it appears that having methionine instead of valine at position 129 of the prion protein is associated with delayed onset of symptoms and an increased occurrence of neurological symptoms, particularly tremors. Larger studies are needed, however, before the effects of this PRNP gene variation on Wilson disease can be established.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001037-4" qtype="inheritance">Is Wilson disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001037-5" qtype="treatment">What are the treatments for Wilson disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Wilson disease:  - Gene Review: Gene Review: Wilson Disease  - Genetic Testing Registry: Wilson&apos;s disease  - MedlinePlus Encyclopedia: Wilson&apos;s disease  - National Human Genome Research Institute   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000872" source="GARD" url="https://rarediseases.info.nih.gov/gard/5969/buerger-disease">
+<Focus>Buerger disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040021</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Buerger's disease</Synonym>
+		<Synonym>Thromboangiitis obliterans</Synonym>
+		<Synonym>TAO</Synonym>
+		<Synonym>Inflammatory occlusive peripheral vascular disease</Synonym>
+		<Synonym>Occlusive peripheral vascular disease</Synonym>
+		<Synonym>Secondary glomerular disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000872-1" qtype="information">What is (are) Buerger disease ?</Question>
+			<Answer>Buerger disease is a disease of the arteries and veins in the arms and legs. The arteries and veins become inflamed which can lead to narrowed and blocked vessels. This reduces blood flow resulting in pain and eventually damage to affected tissues. Buerger disease nearly always occurs in association with cigarette or other tobacco use. Quitting all forms of tobacco is an essential part of treatment.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000872-2" qtype="symptoms">What are the symptoms of Buerger disease ?</Question>
+			<Answer>What are the signs and symptoms of Buerger disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Buerger disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Arterial thrombosis 90% Gangrene 90% Skin ulcer 90% Vasculitis 90% Acrocyanosis 50% Arthralgia 50% Paresthesia 50% Hyperhidrosis 7.5% Insomnia 7.5% Autosomal recessive inheritance - Limb pain - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000872-3" qtype="causes">What causes Buerger disease ?</Question>
+			<Answer>What causes Buerger disease? Buerger disease has a strong relationship to cigarette smoking. This association may be due to direct poisioning of cells from some component of tobacco, or by hypersensitivity to the same components. Many people with Buerger disease will show hypersensitivities to injection of tobacco extracts into their skin. There may be a genetic component to susceptibility to Buerger disease as well. It is possible that these genetic influences account for the higher prevalence of Buerger disease in people of Israeli, Indian subcontinent, and Japanese descent. Certain HLA (human leukocyte antigen) haplotypes have also been found in association with Buerger disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000872-4" qtype="treatment">What are the treatments for Buerger disease ?</Question>
+			<Answer>How is Buerger disease treated? Currently there is not a cure for Buerger disease, however there are treatments that can help control it. The most essential part of treatment is to avoid all tobacco and nicotine products. Even one cigarette a day can worsen the disease. A doctor can help a person with Buerger disease learn about safe medications and programs to combat smoking/nicotine addiction. Continued smoking is associated with an overall amputation rate of 40 to 50 percent. The following treatments may also be helpful, but do not replace smoking/nicotine cessation: Medications to dilate blood vessels and improve blood flow (e.g., intravenous Iloprost) Medications to dissolve blood clots Treatment with calcium channel blockers Walking exercises Intermittent compression of the arms and legs to increase blood flow to your extremities Surgical sympathectomy (a controversial surgery to cut the nerves to the affected area to control pain and increase blood flow) Therapeutic angiogenesis (medications to stimulate growth of new blood vessels) Spinal cord stimulation Amputation, if infection or gangrene occurs</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

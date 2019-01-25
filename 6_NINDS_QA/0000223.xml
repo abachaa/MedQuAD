@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000223" source="NINDS" url="http://www.ninds.nih.gov/disorders/parkinsons_disease/parkinsons_disease.htm">
+<Focus>Parkinson's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030567</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000223-1" qtype="information">What is (are) Parkinson's Disease ?</Question>
+			<Answer>Parkinson&apos;s disease (PD) belongs to a group of conditions called motor system disorders, which are the result of the loss of dopamine-producing brain cells. The four primary symptoms of PD are tremor, or trembling in hands, arms, legs, jaw, and face; rigidity, or stiffness of the limbs and trunk; bradykinesia, or slowness of movement; and postural instability, or impaired balance and coordination. As these symptoms become more pronounced, patients may have difficulty walking, talking, or completing other simple tasks. PD usually affects people over the age of 60. Early symptoms of PD are subtle and occur gradually. In some people the disease progresses more quickly than in others. As the disease progresses, the shaking, or tremor, which affects the majority of people with PD may begin to interfere with daily activities. Other symptoms may include depression and other emotional changes; difficulty in swallowing, chewing, and speaking; urinary problems or constipation; skin problems; and sleep disruptions. There are currently no blood or laboratory tests that have been proven to help in diagnosing sporadic PD. Therefore the diagnosis is based on medical history and a neurological examination. The disease can be difficult to diagnose accurately. Doctors may sometimes request brain scans or laboratory tests in order to rule out other diseases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000223-2" qtype="treatment">What are the treatments for Parkinson's Disease ?</Question>
+			<Answer>At present, there is no cure for PD, but a variety of medications provide dramatic relief from the symptoms. Usually, affected individuals are given levodopa combined with carbidopa. Carbidopa delays the conversion of levodopa into dopamine until it reaches the brain. Nerve cells can use levodopa to make dopamine and replenish the brain&apos;s dwindling supply. Although levodopa helps at least three-quarters of parkinsonian cases, not all symptoms respond equally to the drug. Bradykinesia and rigidity respond best, while tremor may be only marginally reduced. Problems with balance and other symptoms may not be alleviated at all. Anticholinergics may help control tremor and rigidity. Other drugs, such as bromocriptine, pramipexole, and ropinirole, mimic the role of dopamine in the brain, causing the neurons to react as they would to dopamine. An antiviral drug, amantadine, also appears to reduce symptoms. In May 2006, the FDA approved rasagiline to be used along with levodopa for patients with advanced PD or as a single-drug treatment for early PD.
+                
+In some cases, surgery may be appropriate if the disease doesn&apos;t respond to drugs. A therapy called deep brain stimulation (DBS) has now been approved by the U.S. Food and Drug Administration. In DBS, electrodes are implanted into the brain and connected to a small electrical device called a pulse generator that can be externally programmed. DBS can reduce the need for levodopa and related drugs, which in turn decreases the involuntary movements called dyskinesias that are a common side effect of levodopa. It also helps to alleviate fluctuations of symptoms and to reduce tremors, slowness of movements, and gait problems. DBS requires careful programming of the stimulator device in order to work correctly.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000223-3" qtype="outlook">What is the outlook for Parkinson's Disease ?</Question>
+			<Answer>PD is both chronic, meaning it persists over a long period of time, and progressive, meaning its symptoms grow worse over time. Although some people become severely disabled, others experience only minor motor disruptions. Tremor is the major symptom for some individuals, while for others tremor is only a minor complaint and other symptoms are more troublesome. It is currently not possible to predict which symptoms will affect an individual, and the intensity of the symptoms also varies from person to person.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000223-4" qtype="research">what research (or clinical trials) is being done for Parkinson's Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts PD research in laboratories at the National Institutes of Health (NIH) and also supports additional research through grants to major medical institutions across the country. Current research programs funded by the NINDS are using animal models to study how the disease progresses and to develop new drug therapies. Scientists looking for the cause of PD continue to search for possible environmental factors, such as toxins, that may trigger the disorder, and study genetic factors to determine how defective genes play a role. Other scientists are working to develop new protective drugs that can delay, prevent, or reverse the disease.
+                
+http://www.ninds.nih.gov/research/parkinsonsweb/index.htm</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

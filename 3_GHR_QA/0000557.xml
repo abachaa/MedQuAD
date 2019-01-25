@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000557" source="GHR" url="https://ghr.nlm.nih.gov/condition/kearns-sayre-syndrome">
+<Focus>Kearns-Sayre syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022541</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Kearns-Sayre mitochondrial cytopathy</Synonym>
+		<Synonym>KSS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000557-1" qtype="information">What is (are) Kearns-Sayre syndrome ?</Question>
+			<Answer>Kearns-Sayre syndrome is a condition that affects many parts of the body, especially the eyes. The features of Kearns-Sayre syndrome usually appear before age 20, and the condition is diagnosed by a few characteristic signs and symptoms. People with Kearns-Sayre syndrome have progressive external ophthalmoplegia, which is weakness or paralysis of the eye muscles that impairs eye movement and causes drooping eyelids (ptosis). Affected individuals also have an eye condition called pigmentary retinopathy, which results from breakdown (degeneration) of the light-sensing tissue at the back of the eye (the retina) that gives it a speckled and streaked appearance. The retinopathy may cause loss of vision. In addition, people with Kearns-Sayre syndrome have at least one of the following signs or symptoms: abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects), problems with coordination and balance that cause unsteadiness while walking (ataxia), or abnormally high levels of protein in the fluid that surrounds and protects the brain and spinal cord (the cerebrospinal fluid or CSF).  People with Kearns-Sayre syndrome may also experience muscle weakness in their limbs, deafness, kidney problems, or a deterioration of cognitive functions (dementia). Affected individuals often have short stature. In addition, diabetes mellitus is occasionally seen in people with Kearns-Sayre syndrome.  When the muscle cells of affected individuals are stained and viewed under a microscope, these cells usually appear abnormal. The abnormal muscle cells contain an excess of structures called mitochondria and are known as ragged-red fibers.  A related condition called ophthalmoplegia-plus may be diagnosed if an individual has many of the signs and symptoms of Kearns-Sayre syndrome but not all the criteria are met.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000557-2" qtype="frequency">How many people are affected by Kearns-Sayre syndrome ?</Question>
+			<Answer>The prevalence of Kearns-Sayre syndrome is approximately 1 to 3 per 100,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000557-3" qtype="genetic changes">What are the genetic changes related to Kearns-Sayre syndrome ?</Question>
+			<Answer>Kearns-Sayre syndrome is a condition caused by defects in mitochondria, which are structures within cells that use oxygen to convert the energy from food into a form cells can use. This process is called oxidative phosphorylation. Although most DNA is packaged in chromosomes within the nucleus (nuclear DNA), mitochondria also have a small amount of their own DNA, called mitochondrial DNA (mtDNA). This type of DNA contains many genes essential for normal mitochondrial function. People with Kearns-Sayre syndrome have a single, large deletion of mtDNA, ranging from 1,000 to 10,000 DNA building blocks (nucleotides). The cause of the deletion in affected individuals is unknown.  The mtDNA deletions that cause Kearns-Sayre syndrome result in the loss of genes important for mitochondrial protein formation and oxidative phosphorylation. The most common deletion removes 4,997 nucleotides, which includes twelve mitochondrial genes. Deletions of mtDNA result in impairment of oxidative phosphorylation and a decrease in cellular energy production. Regardless of which genes are deleted, all steps of oxidative phosphorylation are affected. Researchers have not determined how these deletions lead to the specific signs and symptoms of Kearns-Sayre syndrome, although the features of the condition are probably related to a lack of cellular energy. It has been suggested that eyes are commonly affected by mitochondrial defects because they are especially dependent on mitochondria for energy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000557-4" qtype="inheritance">Is Kearns-Sayre syndrome inherited ?</Question>
+			<Answer>This condition is generally not inherited but arises from mutations in the body&apos;s cells that occur after conception. This alteration is called a somatic mutation and is present only in certain cells.  Rarely, this condition is inherited in a mitochondrial pattern, which is also known as maternal inheritance. This pattern of inheritance applies to genes contained in mtDNA. Because egg cells, but not sperm cells, contribute mitochondria to the developing embryo, children can only inherit disorders resulting from mtDNA mutations from their mother. These disorders can appear in every generation of a family and can affect both males and females, but fathers do not pass traits associated with changes in mtDNA to their children.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000557-5" qtype="treatment">What are the treatments for Kearns-Sayre syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Kearns-Sayre syndrome:  - Gene Review: Gene Review: Mitochondrial DNA Deletion Syndromes  - Genetic Testing Registry: Kearns Sayre syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

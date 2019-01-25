@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000438" source="GHR" url="https://ghr.nlm.nih.gov/condition/greenberg-dysplasia">
+<Focus>Greenberg dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2931048</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>chondrodystrophy, hydropic and prenatally lethal type</Synonym>
+		<Synonym>Greenberg skeletal dysplasia</Synonym>
+		<Synonym>HEM dysplasia</Synonym>
+		<Synonym>HEM skeletal dysplasia</Synonym>
+		<Synonym>hydrops - ectopic calcification - moth-eaten skeletal dysplasia</Synonym>
+		<Synonym>moth-eaten skeletal dysplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000438-1" qtype="information">What is (are) Greenberg dysplasia ?</Question>
+			<Answer>Greenberg dysplasia is a severe condition characterized by specific bone abnormalities in the developing fetus. This condition is fatal before birth.  The bones of affected individuals do not develop properly, causing a distinctive spotted appearance called moth-eaten bone, which is visible on x-ray images. In addition, the bones have abnormal calcium deposits (ectopic calcification). Affected individuals have extremely short bones in the arms and legs and abnormally flat vertebrae (platyspondyly). Other skeletal abnormalities may include short ribs and extra fingers (polydactyly). In addition, affected fetuses have extensive swelling of the body caused by fluid accumulation (hydrops fetalis). Greenberg dysplasia is also called hydrops-ectopic calcification-moth-eaten skeletal dysplasia (HEM), which reflects the condition&apos;s most common features.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000438-2" qtype="frequency">How many people are affected by Greenberg dysplasia ?</Question>
+			<Answer>Greenberg dysplasia is a very rare condition. Approximately ten cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000438-3" qtype="genetic changes">What are the genetic changes related to Greenberg dysplasia ?</Question>
+			<Answer>Mutations in the LBR gene cause Greenberg dysplasia. This gene provides instructions for making a protein called the lamin B receptor. One region of this protein, called the sterol reductase domain, plays an important role in the production (synthesis) of cholesterol. Cholesterol is a type of fat that is produced in the body and obtained from foods that come from animals: eggs, meat, fish, and dairy products. Cholesterol is necessary for normal embryonic development and has important functions both before and after birth. Cholesterol is an important component of cell membranes and the protective substance covering nerve cells (myelin). Additionally, cholesterol plays a role in the production of certain hormones and digestive acids. During cholesterol synthesis, the sterol reductase function of the lamin B receptor allows the protein to perform one of several steps that convert a molecule called lanosterol to cholesterol.  LBR gene mutations involved in Greenberg dysplasia lead to loss of the sterol reductase function of the lamin B receptor, and research suggests that this loss causes the condition. Absence of the sterol reductase function disrupts the normal synthesis of cholesterol within cells. This absence may also allow potentially toxic byproducts of cholesterol synthesis to build up in the body&apos;s tissues. Researchers suspect that low cholesterol levels or an accumulation of other substances disrupts the growth and development of many parts of the body. It is not known, however, how a disturbance of cholesterol synthesis leads to the specific features of Greenberg dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000438-4" qtype="inheritance">Is Greenberg dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000438-5" qtype="treatment">What are the treatments for Greenberg dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of Greenberg dysplasia:  - Genetic Testing Registry: Greenberg dysplasia  - Lurie Children&apos;s Hospital of Chicago: Fetal Skeletal Dysplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002298" source="GARD" url="https://rarediseases.info.nih.gov/gard/5033/familial-stomach-cancer">
+<Focus>Familial stomach cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024623</CUI>
+			<CUI>C0699791</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Stomach carcinoma, familial</Synonym>
+		<Synonym>Familial stomach carcinoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002298-1" qtype="information">What is (are) Familial stomach cancer ?</Question>
+			<Answer>Familial stomach cancer is a cluster of stomach cancer within a family. Most cases of stomach cancer occur sporadically in people with little to no family history of the condition; however, approximately 10% of stomach cancer is considered &quot;familial.&quot; Although the underlying cause of some familial cases is unknown, genetic changes (mutations) are identified in a subset of people affected by gastric cancer. Hereditary cancer syndromes associated with a predisposition to gastric cancer include hereditary diffuse gastric cancer, Lynch syndrome, Li-Fraumeni syndrome, familial adenomatous polyposis, and Peutz-Jeghers syndrome. In other families, the cluster of stomach cancers may be due to a combination of gene(s) and/or other shared factors such as environment and lifestyle. Depending on the estimated risk, high-risk cancer screening and/or prophylactic surgeries are typically recommended in people who have an increased risk for stomach cancer based on their personal and/or family histories.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

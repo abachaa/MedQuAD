@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000037" source="NINDS" url="http://www.ninds.nih.gov/disorders/backpain/backpain.htm">
+<Focus>Back Pain</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963071</CUI>
+			<CUI>C0004604</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000037-1" qtype="information">What is (are) Back Pain ?</Question>
+			<Answer>Acute or short-term low back pain generally lasts from a few days to a few weeks. Most acute back pain is the result of trauma to the lower back or a disorder such as arthritis. Pain from trauma may be caused by a sports injury, work around the house or in the garden, or a sudden jolt such as a car accident or other stress on spinal bones and tissues. Symptoms may range from muscle ache to shooting or stabbing pain, limited flexibility and range of motion, or an inability to stand straight. Chronic back pain is pain that persists for more than 3 months. It is often progressive and the cause can be difficult to determine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000037-2" qtype="treatment">What are the treatments for Back Pain ?</Question>
+			<Answer>Most low back pain can be treated without surgery. Treatment involves using over-the-counter pain relievers to reduce discomfort and anti-inflammatory drugs to reduce inflammation. The goal of treatment is to restore proper function and strength to the back, and prevent recurrence of the injury. Medications are often used to treat acute and chronic low back pain. Effective pain relief may involve a combination of prescription drugs and over-the-counter remedies. Although the use of cold and hot compresses has never been scientifically proven to quickly resolve low back injury, compresses may help reduce pain and inflammation and allow greater mobility for some individuals. Bed rest is recommended for only 12 days at most. Individuals should resume activities as soon as possible. Exercise may be the most effective way to speed recovery from low back pain and help strengthen back and abdominal muscles. In the most serious cases, when the condition does not respond to other therapies, surgery may relieve pain caused by back problems or serious musculoskeletal injuries.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000037-3" qtype="outlook">What is the outlook for Back Pain ?</Question>
+			<Answer>Most patients with back pain recover without residual functional loss, but individuals should contact a doctor if there is not a noticeable reduction in pain and inflammation after 72 hours of self-care. Recurring back pain resulting from improper body mechanics or other nontraumatic causes is often preventable. Engaging in exercises that don&apos;t jolt or strain the back, maintaining correct posture, and lifting objects properly can help prevent injuries. Many work-related injuries are caused or aggravated by stressors such as heavy lifting, vibration, repetitive motion, and awkward posture. Applying ergonomic principles  designing furniture and tools to protect the body from injury  at home and in the workplace can greatly reduce the risk of back injury and help maintain a healthy back.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000037-4" qtype="research">what research (or clinical trials) is being done for Back Pain ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct pain research in laboratories at the NIH and also support pain research through grants to major medical institutions across the country. Currently, researchers are examining the use of different drugs to effectively treat back pain, in particular, chronic pain that has lasted at least 6 months. Other studies are comparing different health care approaches to the management of acute low back pain (standard care versus chiropractic, acupuncture, or massage therapy). These studies are measuring symptom relief, restoration of function, and patient satisfaction. Other research is comparing standard surgical treatments to the most commonly used standard nonsurgical treatments to measure changes in health-related quality of life among patients suffering from spinal stenosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000806" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/sepsis.html">
+<Focus>Sepsis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0243026</CUI>
+			<CUI>C0036690</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000806-1" qtype="information">What is (are) Sepsis ?</Question>
+			<Answer>Sepsis is a serious illness. It happens when your body has an overwhelming immune response to a bacterial infection. The chemicals released into the blood to fight the infection trigger widespread inflammation. This leads to blood clots and leaky blood vessels. They cause poor blood flow, which deprives your body&apos;s organs of nutrients and oxygen. In severe cases, one or more organs fail. In the worst cases, blood pressure drops and the heart weakens, leading to septic shock.    Anyone can get sepsis, but the risk is higher in       - People with weakened immune systems    - Infants and children    - The elderly    - People with chronic illnesses, such as diabetes, AIDS, cancer, and kidney or liver disease    - People suffering from a severe burn or physical trauma       Common symptoms of sepsis are fever, chills, rapid breathing and heart rate, rash, confusion, and disorientation. Doctors diagnose sepsis using a blood test to see if the number of white blood cells is abnormal. They also do lab tests that check for signs of infection.    People with sepsis are usually treated in hospital intensive care units. Doctors try to treat the infection, sustain the vital organs, and prevent a drop in blood pressure. Many patients receive oxygen and intravenous fluids. Other types of treatment, such as respirators or kidney dialysis, may be necessary. Sometimes, surgery is needed to clear up an infection.    NIH: National Institute of General Medical Sciences</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

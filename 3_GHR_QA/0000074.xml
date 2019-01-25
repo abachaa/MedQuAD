@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000074" source="GHR" url="https://ghr.nlm.nih.gov/condition/aspartylglucosaminuria">
+<Focus>aspartylglucosaminuria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268225</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AGA deficiency</Synonym>
+		<Synonym>aspartylglucosamidase deficiency</Synonym>
+		<Synonym>Aspartylglucosaminidase deficiency</Synonym>
+		<Synonym>aspartylglycosaminuria</Synonym>
+		<Synonym>glycosylasparaginase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000074-1" qtype="information">What is (are) aspartylglucosaminuria ?</Question>
+			<Answer>Aspartylglucosaminuria is a condition that causes a progressive decline in mental functioning.  Infants with aspartylglucosaminuria appear healthy at birth, and development is typically normal throughout early childhood. The first sign of this condition, evident around the age of 2 or 3, is usually delayed speech. Mild intellectual disability then becomes apparent, and learning occurs at a slowed pace. Intellectual disability progressively worsens in adolescence. Most people with this disorder lose much of the speech they have learned, and affected adults usually have only a few words in their vocabulary. Adults with aspartylglucosaminuria may develop seizures or problems with movement.  People with this condition may also have bones that become progressively weak and prone to fracture (osteoporosis), an unusually large range of joint movement (hypermobility), and loose skin. Affected individuals tend to have a characteristic facial appearance that includes widely spaced eyes (ocular hypertelorism), small ears, and full lips. The nose is short and broad and the face is usually square-shaped. Children with this condition may be tall for their age, but lack of a growth spurt in puberty typically causes adults to be short. Affected children also tend to have frequent upper respiratory infections. Individuals with aspartylglucosaminuria usually survive into mid-adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000074-2" qtype="frequency">How many people are affected by aspartylglucosaminuria ?</Question>
+			<Answer>Aspartylglucosaminuria is estimated to affect 1 in 18,500 people in Finland. This condition is less common outside of Finland, but the incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000074-3" qtype="genetic changes">What are the genetic changes related to aspartylglucosaminuria ?</Question>
+			<Answer>Mutations in the AGA gene cause aspartylglucosaminuria. The AGA gene provides instructions for producing an enzyme called aspartylglucosaminidase. This enzyme is active in lysosomes, which are structures inside cells that act as recycling centers. Within lysosomes, the enzyme helps break down complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins).  AGA gene mutations result in the absence or shortage of the aspartylglucosaminidase enzyme in lysosomes, preventing the normal breakdown of glycoproteins. As a result, glycoproteins can build up within the lysosomes. Excess glycoproteins disrupt the normal functions of the cell and can result in destruction of the cell. A buildup of glycoproteins seems to particularly affect nerve cells in the brain; loss of these cells causes many of the signs and symptoms of aspartylglucosaminuria.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000074-4" qtype="inheritance">Is aspartylglucosaminuria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000074-5" qtype="treatment">What are the treatments for aspartylglucosaminuria ?</Question>
+			<Answer>These resources address the diagnosis or management of aspartylglucosaminuria:  - Genetic Testing Registry: Aspartylglycosaminuria   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

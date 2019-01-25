@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000134" source="NINDS" url="http://www.ninds.nih.gov/disorders/gauchers/gauchers.htm">
+<Focus>Gaucher Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017205</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000134-1" qtype="information">What is (are) Gaucher Disease ?</Question>
+			<Answer>Gaucher disease is one of the inherited metabolic disorders known as lipid storage diseases. Lipids are fatty materials that include oils, fatty acids, waxes, and steroids (such as cholesterol and estrogen). Gaucher disease is caused by a deficiency of the enzyme glucocerebrosidase. Fatty materials can accumulate in the brain, spleen, liver, lungs, bone marrow, and kidneys. Symptoms may begin in early life or adulthood and include skeletal disorders and bone lesions that may cause pain and fractures, enlarged spleen and liver, liver malfunction, anemia, and yellow spots in the eyes. There are three common clinical subtypes of Gaucher disease. The first category, called type 1 (or nonneuropathic), typically does not affect the brain. Symptoms may begin early in life or in adulthood. People in this group usually bruise easily due to low blood platelets and experience fatigue due to anemia They also may have an enlarged liver and spleen. Many individuals with a mild form of the disorder may not show any symptoms. In type 2 Gaucher disease (acute infantile neuropathic Gaucher disease), symptoms usually begin by 3 months of age and include extensive brain damage, seizures, spasticity, poor ability to suck and swallow, and enlarged liver and spleen. Affecetd children usually die before 2 years of age. In the third category, called type 3 (or chronic neuropathic Gaucher disease), signs of brain involvement such as seizures gradually become apparent. Major symptoms also include skeletal irregularities, eye movement disorders, cognitive deficit, poor coordination, enlarged liver and spleen, respiratory problems, and blood disorders.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000134-2" qtype="treatment">What are the treatments for Gaucher Disease ?</Question>
+			<Answer>Enzyme replacement therapy is available for most people with types 1 and 3 Gaucher disease. Given intravenously every two weeks, this therapy decreases liver and spleen size, reduces skeletal abnormalities, and reverses other symptoms of the disorder. The U.S. Food and Drug Administration has approved eligustat tartrate for Gaucher treatment, which works by administering small molecules that reduce the action of the enzyme that catalyzes glucose to ceramide. Surgery to remove the whole or part of the spleen may be required on rare occasions, and blood transfusions may benefit some anemic individuals. Other individuals may require joint replacement surgery to improve mobility and quality of life. There is no effective treatment for severe brain damage that may occur in persons with types 2 and 3 Gaucher disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000134-3" qtype="outlook">What is the outlook for Gaucher Disease ?</Question>
+			<Answer>Enzyme replacement therapy is very beneficial for type 1 and most type 3 individuals with this condition. Successful bone marrow transplantation can reverse the non-neurological effects of the disease, but the procedure carries a high risk and is rarely performed in individuals with Gaucher disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000134-4" qtype="research">what research (or clinical trials) is being done for Gaucher Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS), a part of the National Institutes of Health), is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS supports research to find ways to treat and prevent lipid storage disorders such as Gaucher disease. For example, researchers hope to identify biomarkers (signs that may indicate risk of a disease and improve diagnosis) for Gaucher disease and other lipid storage diseases; and identify genetic, biochemical, and clinical factors that are associated with disease severity in individuals with Gaucher disease.Additional research is looking at the increased buildup of the protein alpha-synuclein, which is seen in Gaucher disease, Parkinson&apos;s disease, and Lewy Body Dementia. Using different models of glucoserebrosidase deficiency, scientists hope to learn how this deficiency impairs the breakdown of lysosomal proteins, including the breakdown of alpha-synuclein.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

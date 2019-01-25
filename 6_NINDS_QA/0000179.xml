@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000179" source="NINDS" url="http://www.ninds.nih.gov/disorders/lennoxgastautsyndrome/lennoxgastautsyndrome.htm">
+<Focus>Lennox-Gastaut Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238111</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000179-1" qtype="information">What is (are) Lennox-Gastaut Syndrome ?</Question>
+			<Answer>Lennox-Gastaut syndrome is a severe form of epilepsy. Seizures usually begin before 4 years of age. Seizure types, which vary among patients, include tonic (stiffening of the body, upward deviation of the eyes, dilation of the pupils, and altered respiratory patterns), atonic (brief loss of muscle tone and consciousness, causing abrupt falls), atypical absence (staring spells), and myoclonic (sudden muscle jerks). There may be periods of frequent seizures mixed with brief, relatively seizure-free periods. Most children with Lennox-Gastaut syndrome experience some degree of impaired intellectual functioning or information processing, along with developmental delays, and behavioral disturbances. Lennox-Gastaut syndrome can be caused by brain malformations, perinatal asphyxia, severe head injury, central nervous system infection and inherited degenerative or metabolic conditions. In 30-35 percent of cases, no cause can be found.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000179-2" qtype="treatment">What are the treatments for Lennox-Gastaut Syndrome ?</Question>
+			<Answer>Treatment for Lennox-Gastaut syndrome includes clobazam and anti-epileptic medications such as valproate, lamotrigine, felbamate, or topiramate. There is usually no single antiepileptic medication that will control seizures. Children who improve initially may later show tolerance to a drug or have uncontrollable seizures.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000179-3" qtype="outlook">What is the outlook for Lennox-Gastaut Syndrome ?</Question>
+			<Answer>The prognosis for individuals with Lennox-Gastaut syndrome varies. There is no cure for the disorder. Complete recovery, including freedom from seizures and normal development, is very unusual.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000179-4" qtype="research">what research (or clinical trials) is being done for Lennox-Gastaut Syndrome ?</Question>
+			<Answer>The NINDS conducts and supports a broad program of basic and clinical research on epilepsy including Lennox-Gastaut syndrome. These studies are aimed at finding the causes of these disorders, improving the diagnosis, and developing new medications and other therapies.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

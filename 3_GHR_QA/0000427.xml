@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000427" source="GHR" url="https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-vi">
+<Focus>glycogen storage disease type VI</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0267971</CUI>
+			<CUI>C0017925</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>GSD type VI</Synonym>
+		<Synonym>GSD VI</Synonym>
+		<Synonym>GSD6</Synonym>
+		<Synonym>hepatic glycogen phosphorylase deficiency</Synonym>
+		<Synonym>Hers disease</Synonym>
+		<Synonym>liver phosphorylase deficiency syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000427-1" qtype="information">What is (are) glycogen storage disease type VI ?</Question>
+			<Answer>Glycogen storage disease type VI (also known as GSDVI or Hers disease) is an inherited disorder caused by an inability to break down a complex sugar called glycogen in liver cells. A lack of glycogen breakdown interferes with the normal function of the liver.  The signs and symptoms of GSDVI typically begin in infancy to early childhood. The first sign is usually an enlarged liver (hepatomegaly). Affected individuals may also have low blood sugar (hypoglycemia) or a buildup of lactic acid in the body (lactic acidosis) during prolonged periods without food (fasting).  The signs and symptoms of GSDVI tend to improve with age; most adults with this condition do not have any related health problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000427-2" qtype="frequency">How many people are affected by glycogen storage disease type VI ?</Question>
+			<Answer>The exact prevalence of GSDVI is unknown. At least 11 cases have been reported in the medical literature, although this condition is likely to be underdiagnosed because it can be difficult to detect in children with mild symptoms or adults with no symptoms. GSDVI is more common in the Old Older Mennonite population, with an estimated incidence of 1 in 1,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000427-3" qtype="genetic changes">What are the genetic changes related to glycogen storage disease type VI ?</Question>
+			<Answer>Mutations in the PYGL gene cause GSDVI. The PYGL gene provides instructions for making an enzyme called liver glycogen phosphorylase. This enzyme is found only in liver cells, where it breaks down glycogen into a type of sugar called glucose-1-phosphate. Additional steps convert glucose-1-phosphate into glucose, a simple sugar that is the main energy source for most cells in the body.  PYGL gene mutations prevent liver glycogen phosphorylase from breaking down glycogen effectively. As a result, liver cells cannot use glycogen for energy. Since glycogen cannot be broken down, it accumulates within liver cells, causing these cells to become enlarged and dysfunctional.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000427-4" qtype="inheritance">Is glycogen storage disease type VI inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000427-5" qtype="treatment">What are the treatments for glycogen storage disease type VI ?</Question>
+			<Answer>These resources address the diagnosis or management of glycogen storage disease type VI:  - Gene Review: Gene Review: Glycogen Storage Disease Type VI  - Genetic Testing Registry: Glycogen storage disease, type VI   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

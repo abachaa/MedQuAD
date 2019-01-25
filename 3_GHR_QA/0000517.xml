@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000517" source="GHR" url="https://ghr.nlm.nih.gov/condition/incontinentia-pigmenti">
+<Focus>incontinentia pigmenti</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2930820</CUI>
+			<CUI>C0021171</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bloch-Siemens-Sulzberger Syndrome</Synonym>
+		<Synonym>Bloch-Siemens syndrome</Synonym>
+		<Synonym>Bloch-Sulzberger Syndrome</Synonym>
+		<Synonym>IP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000517-1" qtype="information">What is (are) incontinentia pigmenti ?</Question>
+			<Answer>Incontinentia pigmenti is a condition that can affect many body systems, particularly the skin. This condition occurs much more often in females than in males.  Incontinentia pigmenti is characterized by skin abnormalities that evolve throughout childhood and young adulthood. Many affected infants have a blistering rash at birth and in early infancy, which heals and is followed by the development of wart-like skin growths. In early childhood, the skin develops grey or brown patches (hyperpigmentation) that occur in a swirled pattern. These patches fade with time, and adults with incontinentia pigmenti usually have lines of unusually light-colored skin (hypopigmentation) on their arms and legs.  Other signs and symptoms of incontinentia pigmenti can include hair loss (alopecia) affecting the scalp and other parts of the body, dental abnormalities (such as small teeth or few teeth), eye abnormalities that can lead to vision loss, and lined or pitted fingernails and toenails. Most people with incontinentia pigmenti have normal intelligence; however, this condition may affect the brain. Associated problems can include delayed development or intellectual disability, seizures, and other neurological problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000517-2" qtype="frequency">How many people are affected by incontinentia pigmenti ?</Question>
+			<Answer>Incontinentia pigmenti is an uncommon disorder. Between 900 and 1,200 affected individuals have been reported in the scientific literature. Most of these individuals are female, but several dozen males with incontinentia pigmenti have also been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000517-3" qtype="genetic changes">What are the genetic changes related to incontinentia pigmenti ?</Question>
+			<Answer>Mutations in the IKBKG gene cause incontinentia pigmenti. The IKBKG gene provides instructions for making a protein that helps regulate nuclear factor-kappa-B. Nuclear factor-kappa-B is a group of related proteins that helps protect cells from self-destructing (undergoing apoptosis) in response to certain signals.  About 80 percent of affected individuals have a mutation that deletes some genetic material from the IKBKG gene. This deletion probably leads to the production of an abnormally small, nonfunctional version of the IKBKG protein. Other people with incontinentia pigmenti have mutations that prevent the production of any IKBKG protein. Without this protein, nuclear factor-kappa-B is not regulated properly, and cells are more sensitive to signals that trigger them to self-destruct. Researchers believe that this abnormal cell death leads to the signs and symptoms of incontinentia pigmenti.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000517-4" qtype="inheritance">Is incontinentia pigmenti inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked dominant pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell is sufficient to cause the disorder. Some cells produce a normal amount of IKBKG protein and other cells produce none. The resulting imbalance in cells producing this protein leads to the signs and symptoms of incontinentia pigmenti.  In males (who have only one X chromosome), most IKBKG mutations result in a total loss of the IKBKG protein. A lack of this protein appears to be lethal early in development, so few males are born with incontinentia pigmenti. Affected males who survive may have an IKBKG mutation with relatively mild effects, an IKBKG mutation in only some of the body&apos;s cells (mosaicism), or an extra copy of the X chromosome in each cell.  Some people with incontinentia pigmenti inherit an IKBKG mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000517-5" qtype="treatment">What are the treatments for incontinentia pigmenti ?</Question>
+			<Answer>These resources address the diagnosis or management of incontinentia pigmenti:  - Gene Review: Gene Review: Incontinentia Pigmenti  - Genetic Testing Registry: Incontinentia pigmenti syndrome  - MedlinePlus Encyclopedia: Incontinentia Pigmenti Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

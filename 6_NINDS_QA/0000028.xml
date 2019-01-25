@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000028" source="NINDS" url="http://www.ninds.nih.gov/disorders/arachnoiditis/arachnoiditis.htm">
+<Focus>Arachnoiditis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003708</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000028-1" qtype="information">What is (are) Arachnoiditis ?</Question>
+			<Answer>Arachnoiditis describes a pain disorder caused by the inflammation of the arachnoid, one of the membranes that surround and protect the nerves of the spinal cord. The arachnoid can become inflamed because of an irritation from chemicals, infection from bacteria or viruses, as the result of direct injury to the spine, chronic compression of spinal nerves, or complications from spinal surgery or other invasive spinal procedures. Inflammation can sometimes lead to the formation of scar tissue and adhesions, which cause the spinal nerves to stick together. If arachnoiditis begins to interfere with the function of one or more of these nerves, it can cause a number of symptoms, including numbness, tingling, and a characteristic stinging and burning pain in the lower back or legs. Some people with arachnoiditis will have debilitating muscle cramps, twitches, or spasms. It may also affect bladder, bowel, and sexual function. In severe cases, arachnoiditis may cause paralysis of the lower limbs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000028-2" qtype="treatment">What are the treatments for Arachnoiditis ?</Question>
+			<Answer>Arachnoiditis remains a difficult condition to treat, and long-term outcomes are unpredictable. Most treatments for arachnoiditis are focused on pain relief and the improvement of symptoms that impair daily function. A regimen of pain management, physiotheraphy, exercise, and psychotheraphy is often recommended. Surgical intervention is controversial since the outcomes are generally poor and provide only short-term relief.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000028-3" qtype="outlook">What is the outlook for Arachnoiditis ?</Question>
+			<Answer>Arachnoiditis is adisorder that causes chronic pain and neurological deficits and does not improve significantly with treatment.Surgery may only provide temporary relief. The outlook for someone witharachnoiditis iscomplicated by the fact that the disorder has no predictable pattern or severity of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000028-4" qtype="research">what research (or clinical trials) is being done for Arachnoiditis ?</Question>
+			<Answer>Within the NINDS research programs, arachnoiditis is addressed primarily through studies associated with pain research. NINDS vigorously pursues a research program seeking new treatments for pain and nerve damage with the ultimate goal of reversing debilitating conditions such as arachnoiditis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

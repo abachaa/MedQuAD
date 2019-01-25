@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000914" source="GHR" url="https://ghr.nlm.nih.gov/condition/sitosterolemia">
+<Focus>sitosterolemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342907</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>beta-sitosterolemia</Synonym>
+		<Synonym>phytosterolaemia</Synonym>
+		<Synonym>phytosterolemia</Synonym>
+		<Synonym>plant sterol storage disease</Synonym>
+		<Synonym>sitosterolaemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000914-1" qtype="information">What is (are) sitosterolemia ?</Question>
+			<Answer>Sitosterolemia is a condition in which fatty substances (lipids) from vegetable oils, nuts, and other plant-based foods accumulate in the blood and tissues. These lipids are called plant sterols (or phytosterols). Sitosterol is one of several plant sterols that accumulate in this disorder, with a blood level 30 to 100 times greater than normal. Cholesterol, a similar fatty substance found in animal products, is mildly to moderately elevated in many people with sitosterolemia. Cholesterol levels are particularly high in some affected children.  Plant sterols are not produced by the body; they are taken in as components of foods. Signs and symptoms of sitosterolemia begin to appear early in life after foods containing plant sterols are introduced into the diet.  An accumulation of fatty deposits on the artery walls (atherosclerosis) may occur by adolescence or early adulthood in people with sitosterolemia. The deposits narrow the arteries and can eventually block blood flow, increasing the chance of a heart attack, stroke, or sudden death.  People with sitosterolemia typically develop small yellowish growths called xanthomas beginning in childhood. The xanthomas consist of accumulated lipids and may be located anywhere on or just under the skin, typically on the heels, knees, elbows, and buttocks. They may also occur in the bands that connect muscles to bones (tendons), including tendons of the hand and the tendon that connects the heel of the foot to the calf muscles (the Achilles tendon). Large xanthomas can cause pain, difficulty with movement, and cosmetic problems.  Joint stiffness and pain resulting from plant sterol deposits may also occur in individuals with sitosterolemia. Less often, affected individuals have blood abnormalities. Occasionally the blood abnormalities are the only signs of the disorder. The red blood cells may be broken down (undergo hemolysis) prematurely, resulting in a shortage of red blood cells (anemia). This type of anemia is called hemolytic anemia. Affected individuals sometimes have abnormally shaped red blood cells called stomatocytes. In addition, the blood cells involved in clotting, called platelets or thrombocytes, may be abnormally large (macrothrombocytopenia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000914-2" qtype="frequency">How many people are affected by sitosterolemia ?</Question>
+			<Answer>Only 80 to 100 individuals with sitosterolemia have been described in the medical literature. However, researchers believe that this condition is likely underdiagnosed because mild cases often do not come to medical attention. Studies suggest that the prevalence may be at least 1 in 50,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000914-3" qtype="genetic changes">What are the genetic changes related to sitosterolemia ?</Question>
+			<Answer>Sitosterolemia is caused by mutations in the ABCG5 or ABCG8 gene. These genes provide instructions for making the two halves of a protein called sterolin. This protein is involved in eliminating plant sterols, which cannot be used by human cells.  Sterolin is a transporter protein, which is a type of protein that moves substances across cell membranes. It is found mostly in cells of the intestines and liver. After plant sterols in food are taken into intestinal cells, the sterolin transporters in these cells pump them back into the intestinal tract, decreasing absorption. Sterolin transporters in liver cells pump the plant sterols into a fluid called bile that is released into the intestine. From the intestine, the plant sterols are eliminated with the feces. This process removes most of the dietary plant sterols, and allows only about 5 percent of these substances to get into the bloodstream. Sterolin also helps regulate cholesterol levels in a similar fashion; normally about 50 percent of cholesterol in the diet is absorbed by the body.  Mutations in the ABCG5 or ABCG8 gene that cause sitosterolemia result in a defective sterolin transporter and impair the elimination of plant sterols and, to a lesser degree, cholesterol from the body. These fatty substances build up in the arteries, skin, and other tissues, resulting in atherosclerosis, xanthomas, and the additional signs and symptoms of sitosterolemia. Excess plant sterols, such as sitosterol, in red blood cells likely make their cell membranes stiff and prone to rupture, leading to hemolytic anemia. Changes in the lipid composition of the membranes of red blood cells and platelets may account for the other blood abnormalities that sometimes occur in sitosterolemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000914-4" qtype="inheritance">Is sitosterolemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000914-5" qtype="treatment">What are the treatments for sitosterolemia ?</Question>
+			<Answer>These resources address the diagnosis or management of sitosterolemia:  - Gene Review: Gene Review: Sitosterolemia  - Genetic Testing Registry: Sitosterolemia  - Massachusetts General Hospital: Lipid Metabolism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

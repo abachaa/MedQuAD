@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002013" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000908.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Hormone therapy for prostate cancer</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0376358</CUI>
+			<CUI>C0600139</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Androgen deprivation therapy</Synonym>
+		<Synonym>ADT</Synonym>
+		<Synonym>Androgen suppression therapy</Synonym>
+		<Synonym>Combined androgen blockade</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002013-1" qtype="information">What is (are) Hormone therapy for prostate cancer ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

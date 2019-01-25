@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004053" source="GARD" url="https://rarediseases.info.nih.gov/gard/3652/microscopic-polyangiitis">
+<Focus>Microscopic polyangiitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0343192</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Secondary glomerular disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004053-1" qtype="information">What is (are) Microscopic polyangiitis ?</Question>
+			<Answer>Microscopic polyangiitis (MPA) is a disorder that causes blood vessel inflammation (vasculitis), which can lead to organ damage. The kidneys, lungs, nerves, skin, and joints are the most commonly affected areas of the body. MPA is diagnosed in people of all ages, all ethnicities, and both genders. The cause of this disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004053-2" qtype="symptoms">What are the symptoms of Microscopic polyangiitis ?</Question>
+			<Answer>What are the signs and symptoms of Microscopic polyangiitis? The symptoms of MPA depend on which blood vessels are involved and what organs in the body are affected. The most common symptoms of MPA include kidney inflammation, weight loss, skin lesions, nerve damage, and fevers. This disorder may occur alone or with other disorders, such as temporal arteritis. The Human Phenotype Ontology provides the following list of signs and symptoms for Microscopic polyangiitis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of temperature regulation 90% Autoimmunity 90% Glomerulopathy 90% Hematuria 90% Hemoptysis 90% Polyneuropathy 90% Pulmonary embolism 90% Renal insufficiency 90% Skin rash 90% Vasculitis 90% Abdominal pain 50% Arthralgia 50% Diarrhea 50% Gastrointestinal hemorrhage 50% Gastrointestinal infarctions 50% Myalgia 50% Nausea and vomiting 50% Peritonitis 50% Skin ulcer 50% Subcutaneous hemorrhage 50% Thrombophlebitis 50% Abnormality of the pericardium 7.5% Abnormality of the retinal vasculature 7.5% Arrhythmia 7.5% Arthritis 7.5% Congestive heart failure 7.5% Cutis marmorata 7.5% Epistaxis 7.5% Gangrene 7.5% Inflammatory abnormality of the eye 7.5% Pancreatitis 7.5% Paresthesia 7.5% Sinusitis 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004053-3" qtype="causes">What causes Microscopic polyangiitis ?</Question>
+			<Answer>What causes microscopic polyangiitis (MPA)? The cause of MPA is unknown. It is not contagious, does not usually run in families, and is not a form of cancer. The immune system is thought to play a critical role in the development of MPA.  It is thought that the immune system becomes overactive and causes blood vessel and tissue inflammation, which leads to organ damage. It is not known what causes the immune system to become overactive.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004053-4" qtype="treatment">What are the treatments for Microscopic polyangiitis ?</Question>
+			<Answer>What is the treatment for microscopic polyangiitis (MPA)? MPA is treated with medications that suppress the immune system, which can lower an individual&apos;s resistance to infections. There are a variety of immune suppressing medications that are used in MPA; however, resources state that a steroid (usually prednisone) and a medication toxic to cells (usually starting with cyclophosphamide) are typically prescribed first. The goal of treatment is to stop all of the organ damage that occurs as a result of MPA.  The duration of treatment with immune suppressing medication varies between individuals, but is typically given for at least one to two years.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000241" source="NINDS" url="http://www.ninds.nih.gov/disorders/pml/pml.htm">
+<Focus>Progressive Multifocal Leukoencephalopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023524</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000241-1" qtype="information">What is (are) Progressive Multifocal Leukoencephalopathy ?</Question>
+			<Answer>Progressive multifocal leukoencephalopathy (PML) is a disease of the white matter of the brain, caused by a virus infection that targets cells that make myelin--the material that insulates nerve cells (neurons). Polyomavirus JC (often called JC virus) is carried by a majority of people and is harmless except among those with lowered immune defenses. The disease is rare and occurs in patients undergoing chronic corticosteroid or immunosuppressive therapy for organ transplant, or individuals with cancer (such as Hodgkins disease or lymphoma). Individuals with autoimmune conditions such as multiple sclerosis, rheumatoid arthritis, and systemic lupus erythematosis -- some of whom are treated with biological therapies that allow JC virus reactivation -- are at risk for PML as well. PML is most common among individuals with HIV-1 infection / acquired immune deficiency syndrome (AIDS). Studies estimate that prior to effective antiretroviral therapy, as many as 5 percent of persons infected with HIV-1 eventually develop PML that is an AIDS-defining illness. However, current HIV therapy using antiretroviral drugs (ART), which effectively restores immune system function, allows as many as half of all HIV-PML patients to survive, although they may sometimes have an inflammatory reaction in the regions of the brain affected by PML. The symptoms of PML are diverse, since they are related to the location and amount of damage in the brain, and may evolve over the course of several weeks to months The most prominent symptoms are clumsiness; progressive weakness; and visual, speech, and sometimes personality changes. The progression of deficits leads to life-threatening disability and (frequently) death. A diagnosis of PML can be made following brain biopsy or by combining observations of a progressive course of the disease, consistent white matter lesions visible on a magnetic resonance imaging (MRI) scan, and the detection of the JC virus in spinal fluid.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000241-2" qtype="treatment">What are the treatments for Progressive Multifocal Leukoencephalopathy ?</Question>
+			<Answer>Currently, the best available therapy is reversal of the immune-deficient state, since there are no effective drugs that block virus infection without toxicity. Reversal may be achieved by using plasma exchange to accelerate the removal of the therapeutic agents that put patients at risk for PML. In the case of HIV-associated PML, immediately beginning anti-retroviral therapy will benefit most individuals. Several new drugs that laboratory tests found effective against infection are being used in PML patients with special permission of the U.S. Food and Drug Administration. Hexadecyloxypropyl-Cidofovir (CMX001) is currently being studied as a treatment option for JVC because of its ability to suppress JVC by inhibiting viral DNA replication.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000241-3" qtype="outlook">What is the outlook for Progressive Multifocal Leukoencephalopathy ?</Question>
+			<Answer>In general, PML has a mortality rate of 30-50 percent in the first few months following diagnosis but depends on the severity of the underlying disease and treatment received. Those who survive PML can be left with severe neurological disabilities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000241-4" qtype="research">what research (or clinical trials) is being done for Progressive Multifocal Leukoencephalopathy ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to PML in laboratories at the NIH, and support additional research through grants to majorresearch institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders such as PML.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000344" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy">
+<Focus>familial dilated cardiomyopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0340427</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congestive cardiomyopathy</Synonym>
+		<Synonym>familial idiopathic cardiomyopathy</Synonym>
+		<Synonym>FDC</Synonym>
+		<Synonym>primary familial dilated cardiomyopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000344-1" qtype="information">What is (are) familial dilated cardiomyopathy ?</Question>
+			<Answer>Familial dilated cardiomyopathy is a genetic form of heart disease. It occurs when heart (cardiac) muscle becomes stretched out in at least one chamber of the heart, causing the open area of the chamber to become enlarged (dilated). As a result, the heart is unable to pump blood as efficiently as usual. Eventually, all four chambers of the heart become dilated as the cardiac muscle tries to increase the amount of blood being pumped through the heart. However, as the cardiac muscle becomes increasingly thin and weakened, it is less able to pump blood. Over time, this condition results in heart failure.  It usually takes many years for symptoms of familial dilated cardiomyopathy to appear. They typically begin in mid-adulthood, but can occur at any time from infancy to late adulthood. Signs and symptoms of familial dilated cardiomyopathy can include an irregular heartbeat (arrhythmia), shortness of breath (dyspnea), extreme tiredness (fatigue), fainting episodes (syncope), and swelling of the legs and feet. In some cases, the first sign of the disorder is sudden cardiac death. The severity of the condition varies among affected individuals, even in members of the same family.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000344-2" qtype="frequency">How many people are affected by familial dilated cardiomyopathy ?</Question>
+			<Answer>It is estimated that 750,000 people in the United States have dilated cardiomyopathy; roughly half of these cases are familial.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000344-3" qtype="genetic changes">What are the genetic changes related to familial dilated cardiomyopathy ?</Question>
+			<Answer>Mutations in more than 30 genes have been found to cause familial dilated cardiomyopathy. These genes provide instructions for making proteins that are found in cardiac muscle cells called cardiomyocytes.  Many of these proteins play important roles in the contraction of the cardiac muscle through their association with cell structures called sarcomeres. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract. Many other proteins associated with familial dilated cardiomyopathy make up the structural framework (the cytoskeleton) of cardiomyocytes. The remaining proteins play various roles within cardiomyocytes to ensure their proper functioning.  Mutations in one gene, TTN, account for approximately 20 percent of cases of familial dilated cardiomyopathy. The TTN gene provides instructions for making a protein called titin, which is found in the sarcomeres of many types of muscle cells, including cardiomyocytes. Titin has several functions within sarcomeres. One of its most important jobs is to provide structure, flexibility, and stability to these cell structures. Titin also plays a role in chemical signaling and in assembling new sarcomeres. The TTN gene mutations that cause familial dilated cardiomyopathy result in the production of an abnormally short titin protein. It is unclear how the altered protein causes familial dilated cardiomyopathy, but it is likely that it impairs sarcomere function and disrupts chemical signaling.  It is unclear how mutations in the other genes cause familial dilated cardiomyopathy. It is likely that the changes impair cardiomyocyte function and reduce the ability of these cells to contract, weakening and thinning cardiac muscle.  People with familial dilated cardiomyopathy often do not have an identified mutation in any of the known associated genes. The cause of the condition in these individuals is unknown.  Familial dilated cardiomyopathy is described as nonsyndromic or isolated because it typically affects only the heart. However, dilated cardiomyopathy can also occur as part of syndromes that affect other organs and tissues in the body. These forms of the condition are described as syndromic and are caused by mutations in other genes. Additionally, there are many nongenetic causes of dilated cardiomyopathy, including viral infection and chronic alcohol abuse.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000344-4" qtype="inheritance">Is familial dilated cardiomyopathy inherited ?</Question>
+			<Answer>Familial dilated cardiomyopathy has different inheritance patterns depending on the gene involved.  In 80 to 90 percent of cases, familial dilated cardiomyopathy is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the mutation from one affected parent. However, some people who inherit the altered gene never develop features of familial dilated cardiomyopathy. (This situation is known as reduced penetrance.) Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  In rare instances, this condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  In other rare cases, this condition is inherited in an X-linked pattern. In these cases, the gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell increases the risk of developing heart disease, but females with such a mutation may not develop familial dilated cardiomyopathy. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes familial dilated cardiomyopathy. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000344-5" qtype="treatment">What are the treatments for familial dilated cardiomyopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of familial dilated cardiomyopathy:  - Cincinnati Children&apos;s Hospital  - Gene Review: Gene Review: Dilated Cardiomyopathy Overview  - Gene Review: Gene Review: Dystrophinopathies  - Gene Review: Gene Review: LMNA-Related Dilated Cardiomyopathy  - MedlinePlus Encyclopedia: Dilated Cardiomyopathy  - National Heart, Lung, and Blood Institute: How Is Cardiomyopathy Treated?  - Seattle Children&apos;s Hospital: Cardiomyopathy Treatment Options  - The Sarcomeric Human Cardiomyopathies Registry (ShaRe)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

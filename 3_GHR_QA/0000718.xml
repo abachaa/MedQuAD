@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000718" source="GHR" url="https://ghr.nlm.nih.gov/condition/neonatal-onset-multisystem-inflammatory-disease">
+<Focus>neonatal onset multisystem inflammatory disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0409818</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>chronic infantile neurologic, cutaneous, and articular syndrome</Synonym>
+		<Synonym>chronic infantile neurological, cutaneous and articular syndrome</Synonym>
+		<Synonym>chronic neurologic, cutaneous, and articular syndrome</Synonym>
+		<Synonym>CINCA</Synonym>
+		<Synonym>CINCA syndrome</Synonym>
+		<Synonym>infantile onset multisystem inflammatory disease</Synonym>
+		<Synonym>IOMID syndrome</Synonym>
+		<Synonym>NOMID</Synonym>
+		<Synonym>Prieur-Griscelli syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000718-1" qtype="information">What is (are) neonatal onset multisystem inflammatory disease ?</Question>
+			<Answer>Neonatal onset multisystem inflammatory disease (NOMID) is a disorder that causes persistent inflammation and tissue damage primarily affecting the nervous system, skin, and joints. Recurrent episodes of mild fever may also occur in this disorder.  People with NOMID have a skin rash that is usually present from birth. The rash persists throughout life, although it changes in size and location.  Affected individuals often have headaches, seizures, and vomiting resulting from chronic meningitis, which is inflammation of the tissue that covers and protects the brain and spinal cord (meninges). Intellectual disability may occur in some people with this disorder. Hearing and vision problems may result from nerve damage and inflammation in various tissues of the eyes.  People with NOMID experience joint inflammation, swelling, and cartilage overgrowth, causing characteristic prominent knees and other skeletal abnormalities that worsen over time. Joint deformities called contractures may restrict the movement of certain joints.  Other features of this disorder include short stature with shortening of the lower legs and forearms, and characteristic facial features such as a prominent forehead and protruding eyes. Abnormal deposits of a protein called amyloid (amyloidosis) may cause progressive kidney damage.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000718-2" qtype="frequency">How many people are affected by neonatal onset multisystem inflammatory disease ?</Question>
+			<Answer>NOMID is a very rare disorder; approximately 100 affected individuals have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000718-3" qtype="genetic changes">What are the genetic changes related to neonatal onset multisystem inflammatory disease ?</Question>
+			<Answer>Mutations in the NLRP3 gene (also known as CIAS1) cause NOMID. The NLRP3 gene provides instructions for making a protein called cryopyrin.  Cryopyrin belongs to a family of proteins called nucleotide-binding domain and leucine-rich repeat containing (NLR) proteins. These proteins are involved in the immune system, helping to regulate the process of inflammation. Inflammation occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair. When this has been accomplished, the body stops (inhibits) the inflammatory response to prevent damage to its own cells and tissues.  Cryopyrin is involved in the assembly of a molecular complex called an inflammasome, which helps trigger the inflammatory process. Researchers believe that NLRP3 mutations that cause NOMID result in a hyperactive cryopyrin protein and an inappropriate inflammatory response. Impairment of the body&apos;s mechanisms for controlling inflammation results in the episodes of fever and widespread inflammatory damage to the body&apos;s cells and tissues seen in NOMID.  In about 50 percent of individuals diagnosed with NOMID, no mutations in the NLRP3 gene have been identified. The cause of NOMID in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000718-4" qtype="inheritance">Is neonatal onset multisystem inflammatory disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In almost all cases, NOMID results from new mutations. These cases occur in people with no history of the disorder in their family. A few cases have been reported in which an affected person has inherited the mutation from one affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000718-5" qtype="treatment">What are the treatments for neonatal onset multisystem inflammatory disease ?</Question>
+			<Answer>These resources address the diagnosis or management of NOMID:  - Genetic Testing Registry: Chronic infantile neurological, cutaneous and articular syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005813" source="GARD" url="https://rarediseases.info.nih.gov/gard/4969/split-hand-urinary-anomalies-spina-bifida">
+<Focus>Split hand urinary anomalies spina bifida</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0749923</CUI>
+			<CUI>C1844502</CUI>
+			<CUI>C0080178</CUI>
+			<CUI>C1968945</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Czeizel-Losonci syndrome</Synonym>
+		<Synonym>Split-hand with obstructive uropathy, spina bifida, and diaphragmatic defects</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005813-1" qtype="symptoms">What are the symptoms of Split hand urinary anomalies spina bifida ?</Question>
+			<Answer>What are the signs and symptoms of Split hand urinary anomalies spina bifida? The Human Phenotype Ontology provides the following list of signs and symptoms for Split hand urinary anomalies spina bifida. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the upper urinary tract 90% Finger syndactyly 90% Abnormality of the antitragus 50% Abnormality of the palate 50% Aplasia/Hypoplasia of the nipples 50% Aplasia/Hypoplasia of the radius 50% Congenital diaphragmatic hernia 50% Edema 50% Low-set, posteriorly rotated ears 50% Myelomeningocele 50% Patent ductus arteriosus 50% Proximal placement of thumb 50% Sloping forehead 50% Spina bifida occulta 50% Split foot 50% Split hand 50% Thickened skin 50% Toe syndactyly 50% Upslanted palpebral fissure 50% Asymmetric growth 7.5% Hydrocephalus 7.5% Talipes 7.5% Tracheoesophageal fistula 7.5% Webbed neck 7.5% Abnormality of the diaphragm - Autosomal dominant inheritance - Cutaneous finger syndactyly - Hydronephrosis - Thoracolumbar scoliosis - Ureteral atresia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000538" source="GHR" url="https://ghr.nlm.nih.gov/condition/isolated-pierre-robin-sequence">
+<Focus>isolated Pierre Robin sequence</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031900</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>glossoptosis, micrognathia, and cleft palate</Synonym>
+		<Synonym>Pierre Robin syndrome</Synonym>
+		<Synonym>Pierre-Robin syndrome</Synonym>
+		<Synonym>Robin sequence</Synonym>
+		<Synonym>Robin syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000538-1" qtype="information">What is (are) isolated Pierre Robin sequence ?</Question>
+			<Answer>Pierre Robin sequence is a set of abnormalities affecting the head and face, consisting of a small lower jaw (micrognathia), a tongue that is placed further back than normal (glossoptosis), and an opening in the roof of the mouth (a cleft palate). This condition is described as a &quot;sequence&quot; because one of its features, an underdeveloped lower jaw (mandible), sets off a sequence of events before birth that cause the other signs and symptoms. Specifically, having an abnormally small jaw affects placement of the tongue and formation of the palate, leading to glossoptosis and cleft palate.  The combination of features characteristic of Pierre Robin sequence can lead to difficulty breathing and problems eating early in life. As a result, some affected babies have an inability to grow and gain weight at the expected rate (failure to thrive). In some children with Pierre Robin sequence, growth of the mandible catches up, and these individuals have normal-sized chins.  Some people have Pierre Robin sequence as part of a syndrome that affects other organs and tissues in the body, such as campomelic dysplasia or Stickler syndrome. These instances are described as syndromic. When Pierre Robin sequence occurs by itself, it is described as nonsyndromic or isolated. Approximately 20 to 40 percent of cases of Pierre Robin sequence are isolated.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000538-2" qtype="frequency">How many people are affected by isolated Pierre Robin sequence ?</Question>
+			<Answer>Isolated Pierre Robin sequence affects an estimated 1 in 8,500 to 14,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000538-3" qtype="genetic changes">What are the genetic changes related to isolated Pierre Robin sequence ?</Question>
+			<Answer>Changes in the DNA near the SOX9 gene are the most common genetic cause of isolated Pierre Robin sequence. It is likely that changes in other genes, some of which have not been identified, also cause isolated Pierre Robin sequence.  The SOX9 gene provides instructions for making a protein that plays a critical role in the formation of many different tissues and organs during embryonic development. The SOX9 protein regulates the activity of other genes, especially those that are important for development of the skeleton, including the mandible.  The genetic changes associated with isolated Pierre Robin sequence occur near the SOX9 gene. These abnormalities are thought to disrupt regions of DNA called enhancers that normally regulate the activity of the SOX9 gene, reducing SOX9 gene activity. As a result, the SOX9 protein cannot properly control the genes essential for normal development of the lower jaw, causing micrognathia, and consequently, glossoptosis and cleft palate.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000538-4" qtype="inheritance">Is isolated Pierre Robin sequence inherited ?</Question>
+			<Answer>Isolated Pierre Robin sequence is usually not inherited. It typically results from new genetic changes and occurs in people with no history of the disorder in their family. When the condition is inherited, it follows an autosomal dominant pattern, which means one copy of the altered DNA in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000538-5" qtype="treatment">What are the treatments for isolated Pierre Robin sequence ?</Question>
+			<Answer>These resources address the diagnosis or management of isolated Pierre Robin sequence:  - Boston Children&apos;s Hospital: Cleft Lip and Cleft Palate Treatment and Care  - Genetic Testing Registry: Robin sequence  - Seattle Children&apos;s Hospital: Robin Sequence Treatments   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

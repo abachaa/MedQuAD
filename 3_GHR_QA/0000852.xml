@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000852" source="GHR" url="https://ghr.nlm.nih.gov/condition/pyridoxal-5-phosphate-dependent-epilepsy">
+<Focus>pyridoxal 5'-phosphate-dependent epilepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1864723</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PNPO Deficiency</Synonym>
+		<Synonym>PNPO-Related Neonatal Epileptic Encephalopathy</Synonym>
+		<Synonym>pyridoxamine 5-prime-phosphate oxidase deficiency</Synonym>
+		<Synonym>pyridoxine-5'-phosphate oxidase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000852-1" qtype="information">What is (are) pyridoxal 5'-phosphate-dependent epilepsy ?</Question>
+			<Answer>Pyridoxal 5&apos;-phosphate-dependent epilepsy is a condition that involves seizures beginning soon after birth or, in some cases, before birth. The seizures typically involve irregular involuntary muscle contractions (myoclonus), abnormal eye movements, and convulsions. Most babies with this condition are born prematurely and may have a temporary, potentially toxic, increase in lactic acid in the blood (lactic acidosis). Additionally, some infants have a slow heart rate and a lack of oxygen during delivery (fetal distress).  Anticonvulsant drugs, which are usually given to control seizures, are ineffective in people with pyridoxal 5&apos;-phosphate-dependent epilepsy. Instead, individuals with this type of epilepsy are medically treated with large daily doses of pyridoxal 5&apos;-phosphate (a form of vitamin B6). If left untreated, people with this condition can develop severe brain dysfunction (encephalopathy), which can lead to death. Even though seizures can be controlled with pyridoxal 5&apos;-phosphate, neurological problems such as developmental delay and learning disorders may still occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000852-2" qtype="frequency">How many people are affected by pyridoxal 5'-phosphate-dependent epilepsy ?</Question>
+			<Answer>Pyridoxal 5&apos;-phosphate-dependent epilepsy is a rare condition; approximately 14 cases have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000852-3" qtype="genetic changes">What are the genetic changes related to pyridoxal 5'-phosphate-dependent epilepsy ?</Question>
+			<Answer>Mutations in the PNPO gene cause pyridoxal 5&apos;-phosphate-dependent epilepsy. The PNPO gene provides instructions for producing an enzyme called pyridoxine 5&apos;-phosphate oxidase. This enzyme is involved in the conversion (metabolism) of vitamin B6 derived from food (in the form of pyridoxine and pyridoxamine) to the active form of vitamin B6 called pyridoxal 5&apos;-phosphate (PLP). PLP is necessary for many processes in the body including protein metabolism and the production of chemicals that transmit signals in the brain (neurotransmitters).  PNPO gene mutations result in a pyridoxine 5&apos;-phosphate oxidase enzyme that is unable to metabolize pyridoxine and pyridoxamine, leading to a deficiency of PLP. A shortage of PLP can disrupt the function of many other proteins and enzymes that need PLP in order to be effective. It is not clear how the lack of PLP affects the brain and leads to the seizures that are characteristic of pyridoxal 5&apos;-phosphate-dependent epilepsy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000852-4" qtype="inheritance">Is pyridoxal 5'-phosphate-dependent epilepsy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000852-5" qtype="treatment">What are the treatments for pyridoxal 5'-phosphate-dependent epilepsy ?</Question>
+			<Answer>These resources address the diagnosis or management of pyridoxal 5&apos;-phosphate-dependent epilepsy:  - Genetic Testing Registry: Pyridoxal 5&apos;-phosphate-dependent epilepsy  - MedlinePlus Encyclopedia: Lactic acidosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

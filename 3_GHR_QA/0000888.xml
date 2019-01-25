@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000888" source="GHR" url="https://ghr.nlm.nih.gov/condition/saddan">
+<Focus>SADDAN</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2674173</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>achondroplasia, severe, with developmental delay and acanthosis nigricans</Synonym>
+		<Synonym>SADDAN dysplasia</Synonym>
+		<Synonym>Severe achondroplasia with developmental delay and acanthosis nigricans</Synonym>
+		<Synonym>Skeleton-skin-brain syndrome</Synonym>
+		<Synonym>SSB syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000888-1" qtype="information">What is (are) SADDAN ?</Question>
+			<Answer>SADDAN (severe achondroplasia with developmental delay and acanthosis nigricans) is a rare disorder of bone growth characterized by skeletal, brain, and skin abnormalities.  All people with this condition have extremely short stature with particularly short arms and legs. Other features include unusual bowing of the leg bones; a small chest with short ribs and curved collar bones; short, broad fingers; and folds of extra skin on the arms and legs. Structural abnormalities of the brain cause seizures, profound developmental delay, and intellectual disability. Several affected individuals also have had episodes in which their breathing slows or stops for short periods (apnea). Acanthosis nigricans, a progressive skin disorder characterized by thick, dark, velvety skin, is another characteristic feature of SADDAN that develops in infancy or early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000888-2" qtype="frequency">How many people are affected by SADDAN ?</Question>
+			<Answer>This disorder is very rare; it has been described in only a small number of individuals worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000888-3" qtype="genetic changes">What are the genetic changes related to SADDAN ?</Question>
+			<Answer>Mutations in the FGFR3 gene cause SADDAN. The FGFR3 gene provides instructions for making a protein that is involved in the development and maintenance of bone and brain tissue. A mutation in this gene may cause the FGFR3 protein to be overly active, which leads to the disturbances in bone growth that are characteristic of this disorder. Researchers have not determined how the mutation disrupts brain development or causes acanthosis nigricans.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000888-4" qtype="inheritance">Is SADDAN inherited ?</Question>
+			<Answer>SADDAN is considered an autosomal dominant disorder because one mutated copy of the FGFR3 gene in each cell is sufficient to cause the condition. The few described cases of SADDAN have been caused by new mutations in the FGFR3 gene and occurred in people with no history of the disorder in their family. No individuals with this disorder are known to have had children; therefore, the disorder has not been passed to the next generation.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000888-5" qtype="treatment">What are the treatments for SADDAN ?</Question>
+			<Answer>These resources address the diagnosis or management of SADDAN:  - Gene Review: Gene Review: Achondroplasia  - Genetic Testing Registry: Severe achondroplasia with developmental delay and acanthosis nigricans  - MedlinePlus Encyclopedia: Acanthosis Nigricans   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

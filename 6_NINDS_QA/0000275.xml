@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000275" source="NINDS" url="http://www.ninds.nih.gov/disorders/williams/williams.htm">
+<Focus>Williams Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0175702</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000275-1" qtype="information">What is (are) Williams Syndrome ?</Question>
+			<Answer>Williams Syndrome (WS) is a rare genetic disorder characterized by mild to moderate delays in cognitive development or learning difficulties, a distinctive facial appearance, and a unique personality that combines over-friendliness and high levels of empathy with anxiety. The most significant medical problem associated with WS is cardiovascular disease caused by narrowed arteries. WS is also associated with elevated blood calcium levels in infancy. A random genetic mutation (deletion of a small piece of chromosome 7), rather than inheritance, most often causes the disorder. However, individuals who have WS have a 50 percent chance of passing it on if they decide to have children. The characteristic facial features of WS include puffiness around the eyes, a short nose with a broad nasal tip, wide mouth, full cheeks, full lips, and a small chin. People with WS are also likely to have a long neck, sloping shoulders, short stature, limited mobility in their joints, and curvature of the spine. Some individuals with WS have a star-like pattern in the iris of their eyes. Infants with WS are often irritable and colicky, with feeding problems that keep them from gaining weight. Chronic abdominal pain is common in adolescents and adults. By age 30, the majority of individuals with WS have diabetes or pre-diabetes and mild to moderate sensorineural hearing loss (a form of deafness due to disturbed function of the auditory nerve). For some people, hearing loss may begin as early as late childhood. WS also is associated with a characteristic cognitive profile of mental strengths and weaknesses composed of strengths in verbal short-term memory and language, combined with severe weakness in visuospatial construction (the skills used to copy patterns, draw, or write). Within language, the strongest skills are typically in concrete, practical vocabulary, which in many cases is in the low average to average range for the general population. Abstract or conceptual-relational vocabulary is much more limited. Most older children and adults with WS speak fluently and use good grammar. More than 50% of children with WS have attention deficit disorders (ADD or ADHD), and about 50% have specific phobias, such as a fear of loud noises. The majority of individuals with WS worry excessively.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000275-2" qtype="treatment">What are the treatments for Williams Syndrome ?</Question>
+			<Answer>There is no cure for Williams syndrome, nor is there a standard course of treatment. Because WS is an uncommon and complex disorder, multidisciplinary clinics have been established at several centers in the       United States   . Treatments are based on an individuals particular symptoms. People with WS require regular cardiovascular monitoring for potential medical problems, such as symptomatic narrowing of the blood vessels, high blood pressure, and heart failure</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000275-3" qtype="outlook">What is the outlook for Williams Syndrome ?</Question>
+			<Answer>The prognosis for individuals with WS varies. Some degree of impaired intellect is found in most people with the disorder. Some adults are able to function independently, complete academic or vocational school, and live in supervised homes or on their own; most live with a caregiver. Parents can increase the likelihood that their child will be able to live semi-independently by teaching self-help skills early. Early intervention and individualized educational programs designed with the distinct cognitive and personality profiles of WS in mind also help individuals maximize their potential. Medical complications associated with the disorder may shorten the lifespans of some individuals with WS.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000275-4" qtype="research">what research (or clinical trials) is being done for Williams Syndrome ?</Question>
+			<Answer>The National Institutes of Health (NIH), and the National Institute of Neurological Disorders and Stroke (NINDS), have funded many of the research studies exploring the genetic and neurobiological origins of WS. In the early 1990s, researchers located and identified the genetic mutation responsible for the disorder: the deletion of a small section of chromosome 7 that contains approximately 25 genes. NINDS continues to support WS researchers including, for example, groups that are attempting to link specific genes with the corresponding facial, cognitive, personality, and neurological characteristics of WS.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

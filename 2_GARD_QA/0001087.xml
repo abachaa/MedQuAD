@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001087" source="GARD" url="https://rarediseases.info.nih.gov/gard/1237/char-syndrome">
+<Focus>Char syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1868570</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CHAR</Synonym>
+		<Synonym>Patent ductus arteriosus with facial dysmorphism and abnormal fifth digits</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001087-1" qtype="information">What is (are) Char syndrome ?</Question>
+			<Answer>Char syndrome is a condition that affects the development of the face, heart, and limbs. It is characterized by a combination of three major features: a distinctive facial appearance, a heart defect called patent ductus arteriosus, and hand abnormalities. Char syndrome is caused by mutations in the TFAP2B gene and is inherited in an autosomal dominant fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001087-2" qtype="symptoms">What are the symptoms of Char syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Char syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Char syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Depressed nasal bridge 90% Depressed nasal ridge 90% Hypertelorism 90% Malar flattening 90% Patent ductus arteriosus 90% Ptosis 90% Short philtrum 90% Thick lower lip vermilion 90% Clinodactyly of the 5th finger 50% Cognitive impairment 7.5% Foot polydactyly 7.5% Hand polydactyly 7.5% Hearing impairment 7.5% Myopia 7.5% Prominent occiput 7.5% Reduced consciousness/confusion 7.5% Reduced number of teeth 7.5% Strabismus 7.5% Supernumerary nipple 7.5% Symphalangism affecting the phalanges of the hand 7.5% Toe syndactyly 7.5% Ventricular septal defect 7.5% Autosomal dominant inheritance - Broad forehead - Broad nasal tip - Distal/middle symphalangism of 5th finger - Highly arched eyebrow - Intellectual disability, mild - Low-set ears - Protruding ear - Thick eyebrow - Triangular mouth - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

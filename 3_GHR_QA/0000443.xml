@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000443" source="GHR" url="https://ghr.nlm.nih.gov/condition/guillain-barre-syndrome">
+<Focus>Guillain-Barr syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acute infectious polyneuritis</Synonym>
+		<Synonym>acute inflammatory polyneuropathy</Synonym>
+		<Synonym>Fisher syndrome</Synonym>
+		<Synonym>GBS</Synonym>
+		<Synonym>Guillain-Barre syndrome</Synonym>
+		<Synonym>Landry-Guillain-Barre syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000443-1" qtype="information">What is (are) Guillain-Barr syndrome ?</Question>
+			<Answer>Guillain-Barr syndrome is an autoimmune disorder that affects the nerves. Autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. In Guillain-Barr syndrome, the immune response damages peripheral nerves, which are the nerves that connect the central nervous system (the brain and spinal cord) to the limbs and organs. Specifically, the immune response affects a particular part of peripheral nerves called axons, which are the extensions of nerve cells (neurons) that transmit nerve impulses. Guillain-Barr syndrome can affect the neurons that control muscle movement (motor neurons); the neurons that transmit sensory signals such as pain, temperature, and touch (sensory neurons); or both. As a result, affected individuals can experience muscle weakness or lose the ability to feel certain sensations.  Muscle weakness or paralysis are the characteristic features of Guillain-Barr syndrome. The weakness often begins in the legs and spreads to the arms, torso, and face and is commonly accompanied by numbness, tingling, or pain. Additional signs and symptoms of the condition include difficulty swallowing and difficulty breathing. Occasionally, the nerves that control involuntary functions of the body such as blood pressure and heart rate are affected, which can lead to fluctuating blood pressure or an abnormal heartbeat (cardiac arrhythmia).  There are several types of Guillain-Barr syndrome, classified by the part of the peripheral nerve involved in the condition. The most common type of Guillain-Barr syndrome is acute inflammatory demyelinating polyradiculoneuropathy (AIDP). In AIDP, the immune response damages myelin, which is the covering that protects axons and promotes the efficient transmission of nerve impulses. In two other types of Guillain-Barr syndrome, acute motor axonal neuropathy (AMAN) and acute motor-sensory axonal neuropathy (AMSAN), the axons themselves are damaged by the immune response. In AMAN, only the axons of motor neurons are damaged. In AMSAN, the axons of sensory neurons are also damaged. Because of sensory nerve damage, affected individuals can lose the ability to sense the position of their limbs and can have abnormal or absent reflexes (areflexia).  Miller Fisher syndrome, another type of Guillain-Barr syndrome, involves cranial nerves, which extend from the brain to various areas of the head and neck. Miller Fisher syndrome is characterized by three features: weakness or paralysis of the muscles that move the eyes (ophthalmoplegia), problems with balance and coordination (ataxia), and areflexia. People with this condition can have other signs and symptoms common in Guillain-Barr syndrome, such as muscle weakness.  Guillain-Barr syndrome occurs in people of all ages. The development of the condition usually follows a pattern. Prior to developing the condition, most people with Guillain-Barr syndrome have a bacterial or viral infection. The first phase of Guillain-Barr syndrome, during which signs and symptoms of the condition worsen, can last up to four weeks, although the peak of the illness is usually reached in one to two weeks. During the second phase, called the plateau, signs and symptoms of Guillain-Barr syndrome stabilize. This phase can last weeks or months. During the recovery phase, symptoms improve. However, some people with Guillain-Barr syndrome never fully recover and can still experience excessive tiredness (fatigue), muscle weakness, or muscle pain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000443-2" qtype="frequency">How many people are affected by Guillain-Barr syndrome ?</Question>
+			<Answer>The prevalence of Guillain-Barr syndrome is estimated to be 6 to 40 cases per 1 million people. The occurrence of the different types of Guillain-Barr syndrome varies across regions. AIDP is the most common type in North America and Europe, accounting for approximately 90 percent of cases of Guillain-Barr syndrome in those regions. AMAN and AMSAN together account for 30 to 50 percent of cases in Asian countries and Latin America but only 3 to 5 percent of cases in North America and Europe. Miller Fisher syndrome is also more common in Asian countries, accounting for approximately 20 percent of cases in these countries but less than 5 percent in North America and Europe.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000443-3" qtype="genetic changes">What are the genetic changes related to Guillain-Barr syndrome ?</Question>
+			<Answer>Some studies show that normal variations in certain genes may be associated with an increased risk of developing Guillain-Barr syndrome; however, more research is necessary to identify and confirm associated genes. Many of the genes that may increase the risk of Guillain-Barr syndrome are involved in the immune system, and their roles in fighting infection may contribute to the development of the condition.  Most people who develop Guillain-Barr syndrome have a bacterial or viral infection prior to developing the signs and symptoms of the condition. However, only a very small percentage of people who have an infection develop Guillain-Barr syndrome. In order to fight the infection, specialized immune cells produce proteins called antibodies that recognize specific proteins or molecules on the bacteria or virus (pathogen). Some research shows that antibodies that recognize molecules on some pathogens may also recognize proteins on the body&apos;s own nerves. As a result, the immune system attacks the nerves, causing inflammation and damaging the axons and myelin, which can lead to the signs and symptoms of Guillain-Barr syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000443-4" qtype="inheritance">Is Guillain-Barr syndrome inherited ?</Question>
+			<Answer>Almost all cases of Guillain-Barr syndrome are sporadic, which means they occur in people with no history of the condition in their family. A few families with more than one affected family member have been described; however, the condition does not have a clear pattern of inheritance. Multiple genetic and environmental factors likely play a part in determining the risk of developing this condition. As a result, inheriting a genetic variation linked with Guillain-Barr syndrome does not mean that a person will develop the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000443-5" qtype="treatment">What are the treatments for Guillain-Barr syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Guillain-Barr syndrome:  - Genetic Testing Registry: Guillain-Barre syndrome, familial  - National Institute of Neurological Disorders and Stroke: Guillain-Barr Syndrome Fact Sheet   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

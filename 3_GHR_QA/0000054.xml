@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000054" source="GHR" url="https://ghr.nlm.nih.gov/condition/andersen-tawil-syndrome">
+<Focus>Andersen-Tawil syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1563715</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Andersen cardiodysrhythmic periodic paralysis</Synonym>
+		<Synonym>Andersen syndrome</Synonym>
+		<Synonym>ATS</Synonym>
+		<Synonym>Long QT syndrome 7</Synonym>
+		<Synonym>LQT7</Synonym>
+		<Synonym>Periodic paralysis, potassium-sensitive cardiodysrhythmic type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000054-1" qtype="information">What is (are) Andersen-Tawil syndrome ?</Question>
+			<Answer>Anderson-Tawil syndrome is a disorder that causes episodes of muscle weakness (periodic paralysis), changes in heart rhythm (arrhythmia), and developmental abnormalities. The most common changes affecting the heart are ventricular arrhythmia, which is a disruption in the rhythm of the heart&apos;s lower chambers, and long QT syndrome. Long QT syndrome is a heart condition that causes the heart (cardiac) muscle to take longer than usual to recharge between beats. If untreated, the irregular heartbeats can lead to discomfort, fainting (syncope), or cardiac arrest.  Physical abnormalities associated with Andersen-Tawil syndrome typically affect the head, face, and limbs. These features often include a very small lower jaw (micrognathia), dental abnormalities, low-set ears, widely spaced eyes, and unusual curving of the fingers or toes (clinodactyly). Some affected people also have short stature and an abnormal curvature of the spine (scoliosis).  Two types of Andersen-Tawil syndrome are distinguished by their genetic causes. Type 1, which accounts for about 60 percent of all cases of the disorder, is caused by mutations in the KCNJ2 gene. The remaining 40 percent of cases are designated as type 2; the cause of these cases is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000054-2" qtype="frequency">How many people are affected by Andersen-Tawil syndrome ?</Question>
+			<Answer>Andersen-Tawil syndrome is a rare genetic disorder; its incidence is unknown. About 100 people with this condition have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000054-3" qtype="genetic changes">What are the genetic changes related to Andersen-Tawil syndrome ?</Question>
+			<Answer>Mutations in the KCNJ2 gene cause Andersen-Tawil syndrome.  The KCNJ2 gene provides instructions for making a protein that forms a channel across cell membranes. This channel transports positively charged atoms (ions) of potassium into muscle cells. The movement of potassium ions through these channels is critical for maintaining the normal functions of muscles used for movement (skeletal muscles) and cardiac muscle. Mutations in the KCNJ2 gene alter the usual structure and function of potassium channels or prevent the channels from being inserted correctly into the cell membrane. Many mutations prevent a molecule called PIP2 from binding to the channels and effectively regulating their activity. These changes disrupt the flow of potassium ions in skeletal and cardiac muscle, leading to the periodic paralysis and irregular heart rhythm characteristic of Andersen-Tawil syndrome.  Researchers have not determined the role of the KCNJ2 gene in bone development, and it is not known how mutations in the gene lead to the developmental abnormalities often found in Andersen-Tawil syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000054-4" qtype="inheritance">Is Andersen-Tawil syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, a person with Andersen-Tawil syndrome inherits the mutation from one affected parent. Other cases result from new mutations in the KCNJ2 gene. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000054-5" qtype="treatment">What are the treatments for Andersen-Tawil syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Andersen-Tawil syndrome:  - Gene Review: Gene Review: Andersen-Tawil Syndrome  - Genetic Testing Registry: Andersen Tawil syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

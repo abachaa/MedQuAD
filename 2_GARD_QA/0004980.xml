@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004980" source="GARD" url="https://rarediseases.info.nih.gov/gard/7430/porencephaly">
+<Focus>Porencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714587</CUI>
+			<CUI>C0151860</CUI>
+			<CUI>C1867983</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004980-1" qtype="information">What is (are) Porencephaly ?</Question>
+			<Answer>Porencephaly is a rare condition that affects the central nervous system. People with porencephaly develop fluid-filled cysts or cavities in the brain either before or shortly after birth. The severity of the condition and the associated signs and symptoms vary significantly based on the size, location, and number of cysts. Common features include developmental delay, reduced muscle tone (hypotonia), seizures, macrocephaly (unusually large head size), spastic hemiplegia, speech problems, delayed growth, and intellectual disability. Porencephaly is usually the result of damage from infection or stroke after birth. In these cases, the condition occurs sporadically in people with no family history of the condition. There is an inherited form of the condition called familial porencephaly, which is caused by changes (mutations) in the COL4A1 or COL4A2 genes and is inherited in an autosomal dominant manner. Treatment is based on the signs and symptoms present in each person and may include physical therapy and medication for seizures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004980-2" qtype="symptoms">What are the symptoms of Porencephaly ?</Question>
+			<Answer>What are the signs and symptoms of Porencephaly? The Human Phenotype Ontology provides the following list of signs and symptoms for Porencephaly. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of movement 90% Hypertonia 90% Ventriculomegaly 90% Cognitive impairment 50% Hemiplegia/hemiparesis 50% Autosomal dominant inheritance - Babinski sign - Cerebellar atrophy - Elevated serum creatine phosphokinase - Exotropia - Hemiplegia - Hemolytic anemia - Hydrocephalus - Incomplete penetrance - Intellectual disability - Intracranial hemorrhage - Ischemic stroke - Leukoencephalopathy - Limb dystonia - Porencephaly - Schizencephaly - Seizures - Spasticity - Tetraparesis - Variable expressivity - Visual field defect - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

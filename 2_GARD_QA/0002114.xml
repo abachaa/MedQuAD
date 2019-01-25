@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002114" source="GARD" url="https://rarediseases.info.nih.gov/gard/6351/eosinophilic-fasciitis">
+<Focus>Eosinophilic fasciitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0264005</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Shulman syndrome</Synonym>
+		<Synonym>EF</Synonym>
+		<Synonym>Idiopathic inflammatory myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002114-1" qtype="information">What is (are) Eosinophilic fasciitis ?</Question>
+			<Answer>Eosinophilic fasciitis is a very rare condition in which muscle tissue underneath the skin, called fascia, becomes swollen and thick. Rapid swelling can occur in the hands, arms, legs, and feet. People with this condition have a buildup of eosinophils, a type of white blood cell, in the affected fascia and muscles. The exact cause of this condition is unknown. Corticosteroids and other immune-suppressing medications are used to relieve the symptoms. Eosinophilic fasciitis is similar in appearance to scleroderma but is not related.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002114-2" qtype="symptoms">What are the symptoms of Eosinophilic fasciitis ?</Question>
+			<Answer>What are the signs and symptoms of Eosinophilic fasciitis? The Human Phenotype Ontology provides the following list of signs and symptoms for Eosinophilic fasciitis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Acrocyanosis 90% Cellulitis 90% Hypermelanotic macule 90% Muscular edema 90% Myalgia 90% Arthralgia 50% Arthritis 50% Myositis 7.5% Paresthesia 7.5% Weight loss 7.5% Autosomal recessive inheritance - Eosinophilic fasciitis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002114-3" qtype="treatment">What are the treatments for Eosinophilic fasciitis ?</Question>
+			<Answer>How might eosinophilic fasciitis be treated? About 10-20% of people with eosinophilic fasciitis recover spontaneously without treatment.  For those who do not, glucocorticoids (0.51 mg/kg/d), such as prednisone, are the mainstay therapy. Even with treatment, improvement in symptoms can take weeks or months. Glucocorticoids are successful in treating eosionophilic fasciitis in over 70% of cases. If glucocorticoids are unsuccessful, methotrexate at low doses (1525 mg once weekly) is probably the most favored second-line treatment, especially in people with reddish to purpleish (morphea-like) skin lesions.  Other treatment options include NSAIDs, D-penicillamine, chloroquine, cimetidine, azathioprine, cyclosporin A, infliximab, UVA-1, and bath PUVA. Physical therapy may help improve joint mobility and decrease contractures. Surgical release has been used in some severe cases to manage significant joint contractures.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

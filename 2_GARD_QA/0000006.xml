@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000006" source="GARD" url="https://rarediseases.info.nih.gov/gard/9181/abdominal-aortic-aneurysm">
+<Focus>Abdominal aortic aneurysm</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162871</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aneurysm, abdominal aortic</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000006-1" qtype="information">What is (are) Abdominal aortic aneurysm ?</Question>
+			<Answer>Abdominal aortic aneurysms (AAAs) are aneurysms that occur in the part of the aorta that passes through the abdomen. They may occur at any age, but are most common in men between 50 and 80 years of age. Many people with an AAA have no symptoms, but some people have a pulsing sensation in the abdomen and/or pain in the back. If the aneurysm ruptures, it may cause deep, severe pain; nausea; vomiting; fast heart rate; clammy skin; and/or shock. About 20% of AAAs eventually rupture and are often fatal. The condition has multiple genetic and environmental risk factors, and may sometimes occur as part of an inherited syndrome. When more than one family member is affected, it may be considered &quot;familial abdominal aortic aneurysm.&quot; Treatment depends on the size of the aneurysm and may include blood pressure medications, or surgery to repair the aneurysm.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000006-2" qtype="symptoms">What are the symptoms of Abdominal aortic aneurysm ?</Question>
+			<Answer>What are the signs and symptoms of Abdominal aortic aneurysm? The Human Phenotype Ontology provides the following list of signs and symptoms for Abdominal aortic aneurysm. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal aortic aneurysm - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000006-3" qtype="inheritance">Is Abdominal aortic aneurysm inherited ?</Question>
+			<Answer>Is abdominal aortic aneurysm inherited? Abdominal aortic aneurysm (AAA) is thought to be a multifactorial condition, meaning that one or more genes likely interact with environmental factors to cause the condition. In some cases, it may occur as part of an inherited syndrome. Having a family history of AAA increases the risk of developing the condition. A genetic predisposition has been suspected since the first report of three brothers who had a ruptured AAA, and additional families with multiple affected relatives have been reported. In some cases, it may be referred to as &quot; familial abdominal aortic aneurysm.&quot; A Swedish survey reported that the relative risk of developing AAA for a first-degree relative of a person with AAA was approximately double that of a person with no family history of AAA. In another study, having a family history increased the risk of having an aneurysm 4.3-fold. The highest risk was among brothers older than age 60, in whom the prevalence was 18%. While specific variations in DNA (polymorphisms) are known or suspected to increase the risk for AAA, no one gene is known to cause isolated AAA. It can occur with some inherited disorders that are caused by mutations in a single gene, such as Marfan syndrome and Ehlers-Danlos syndrome, vascular type. However, these more typically involve the thoracoabdominal aorta. Because the inheritance of AAA is complex, it is not possible to predict whether a specific person will develop AAA. People interested in learning more about the genetics of AAA, and how their family history affects risks to specific family members, should speak with a genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

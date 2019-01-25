@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000046" source="GHR" url="https://ghr.nlm.nih.gov/condition/alternating-hemiplegia-of-childhood">
+<Focus>alternating hemiplegia of childhood</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338488</CUI>
+			<CUI>C0018991</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alternating hemiplegia syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000046-1" qtype="information">What is (are) alternating hemiplegia of childhood ?</Question>
+			<Answer>Alternating hemiplegia of childhood is a neurological condition characterized by recurrent episodes of temporary paralysis, often affecting one side of the body (hemiplegia). During some episodes, the paralysis alternates from one side of the body to the other or affects both sides at the same time. These episodes begin in infancy or early childhood, usually before 18 months of age, and the paralysis lasts from minutes to days.  In addition to paralysis, affected individuals can have sudden attacks of uncontrollable muscle activity; these can cause involuntary limb movements (choreoathetosis), muscle tensing (dystonia), movement of the eyes (nystagmus), or shortness of breath (dyspnea). People with alternating hemiplegia of childhood may also experience sudden redness and warmth (flushing) or unusual paleness (pallor) of the skin. These attacks can occur during or separately from episodes of hemiplegia.  The episodes of hemiplegia or uncontrolled movements can be triggered by certain factors, such as stress, extreme tiredness, cold temperatures, or bathing, although the trigger is not always known. A characteristic feature of alternating hemiplegia of childhood is that all symptoms disappear while the affected person is sleeping but can reappear shortly after awakening. The number and length of the episodes initially worsen throughout childhood but then begin to decrease over time. The uncontrollable muscle movements may disappear entirely, but the episodes of hemiplegia occur throughout life.  Alternating hemiplegia of childhood also causes mild to severe cognitive problems. Almost all affected individuals have some level of developmental delay and intellectual disability. Their cognitive functioning typically declines over time.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000046-2" qtype="frequency">How many people are affected by alternating hemiplegia of childhood ?</Question>
+			<Answer>Alternating hemiplegia of childhood is a rare condition that affects approximately 1 in 1 million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000046-3" qtype="genetic changes">What are the genetic changes related to alternating hemiplegia of childhood ?</Question>
+			<Answer>Alternating hemiplegia of childhood is primarily caused by mutations in the ATP1A3 gene. Very rarely, a mutation in the ATP1A2 gene is involved in the condition. These genes provide instructions for making very similar proteins. They function as different forms of one piece, the alpha subunit, of a larger protein complex called Na+/K+ ATPase; the two versions of the complex are found in different parts of the brain. Both versions play a critical role in the normal function of nerve cells (neurons). Na+/K+ ATPase transports charged atoms (ions) into and out of neurons, which is an essential part of the signaling process that controls muscle movement.  Mutations in the ATP1A3 or ATP1A2 gene reduce the activity of the Na+/K+ ATPase, impairing its ability to transport ions normally. It is unclear how a malfunctioning Na+/K+ ATPase causes the episodes of paralysis or uncontrollable movements characteristic of alternating hemiplegia of childhood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000046-4" qtype="inheritance">Is alternating hemiplegia of childhood inherited ?</Question>
+			<Answer>Alternating hemiplegia of childhood is considered an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases of alternating hemiplegia of childhood result from new mutations in the gene and occur in people with no history of the disorder in their family. However, the condition can also run in families. For unknown reasons, the signs and symptoms are typically milder when the condition is found in multiple family members than when a single individual is affected.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000046-5" qtype="treatment">What are the treatments for alternating hemiplegia of childhood ?</Question>
+			<Answer>These resources address the diagnosis or management of alternating hemiplegia of childhood:  - The Great Ormond Street Hospital  - University of Utah School of Medicine   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000111" source="GHR" url="https://ghr.nlm.nih.gov/condition/bartter-syndrome">
+<Focus>Bartter syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004775</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>aldosteronism with hyperplasia of the adrenal cortex</Synonym>
+		<Synonym>Bartter disease</Synonym>
+		<Synonym>Bartter's syndrome</Synonym>
+		<Synonym>juxtaglomerular hyperplasia with secondary aldosteronism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000111-1" qtype="information">What is (are) Bartter syndrome ?</Question>
+			<Answer>Bartter syndrome is a group of very similar kidney disorders that cause an imbalance of potassium, sodium, chloride, and related molecules in the body.  In some cases, Bartter syndrome becomes apparent before birth. The disorder can cause polyhydramnios, which is an increased volume of fluid surrounding the fetus (amniotic fluid). Polyhydramnios increases the risk of premature birth.  Beginning in infancy, affected individuals often fail to grow and gain weight at the expected rate (failure to thrive). They lose excess amounts of salt (sodium chloride) in their urine, which leads to dehydration, constipation, and increased urine production (polyuria). In addition, large amounts of calcium are lost through the urine (hypercalciuria), which can cause weakening of the bones (osteopenia). Some of the calcium is deposited in the kidneys as they are concentrating urine, leading to hardening of the kidney tissue (nephrocalcinosis). Bartter syndrome is also characterized by low levels of potassium in the blood (hypokalemia), which can result in muscle weakness, cramping, and fatigue. Rarely, affected children develop hearing loss caused by abnormalities in the inner ear (sensorineural deafness).  Two major forms of Bartter syndrome are distinguished by their age of onset and severity. One form begins before birth (antenatal) and is often life-threatening. The other form, often called the classical form, begins in early childhood and tends to be less severe. Once the genetic causes of Bartter syndrome were identified, researchers also split the disorder into different types based on the genes involved. Types I, II, and IV have the features of antenatal Bartter syndrome. Because type IV is also associated with hearing loss, it is sometimes called antenatal Bartter syndrome with sensorineural deafness. Type III usually has the features of classical Bartter syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000111-2" qtype="frequency">How many people are affected by Bartter syndrome ?</Question>
+			<Answer>The exact prevalence of this disorder is unknown, although it likely affects about 1 per million people worldwide. The condition appears to be more common in Costa Rica and Kuwait than in other populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000111-3" qtype="genetic changes">What are the genetic changes related to Bartter syndrome ?</Question>
+			<Answer>Bartter syndrome can be caused by mutations in at least five genes. Mutations in the SLC12A1 gene cause type I. Type II results from mutations in the KCNJ1 gene. Mutations in the CLCNKB gene are responsible for type III. Type IV can result from mutations in the BSND gene or from a combination of mutations in the CLCNKA and CLCNKB genes.  The genes associated with Bartter syndrome play important roles in normal kidney function. The proteins produced from these genes are involved in the kidneys&apos; reabsorption of salt. Mutations in any of the five genes impair the kidneys&apos; ability to reabsorb salt, leading to the loss of excess salt in the urine (salt wasting). Abnormalities of salt transport also affect the reabsorption of other charged atoms (ions), including potassium and calcium. The resulting imbalance of ions in the body leads to the major features of Bartter syndrome.  In some people with Bartter syndrome, the genetic cause of the disorder is unknown. Researchers are searching for additional genes that may be associated with this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000111-4" qtype="inheritance">Is Bartter syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000111-5" qtype="treatment">What are the treatments for Bartter syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Bartter syndrome:  - Genetic Testing Registry: Bartter syndrome antenatal type 1  - Genetic Testing Registry: Bartter syndrome antenatal type 2  - Genetic Testing Registry: Bartter syndrome type 3  - Genetic Testing Registry: Bartter syndrome type 4  - Genetic Testing Registry: Bartter syndrome, type 4b  - Genetic Testing Registry: Bartter&apos;s syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

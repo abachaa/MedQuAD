@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000514" source="GHR" url="https://ghr.nlm.nih.gov/condition/immune-dysregulation-polyendocrinopathy-enteropathy-x-linked-syndrome">
+<Focus>immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1844666</CUI>
+			<CUI>C0039082</CUI>
+			<CUI>C0021831</CUI>
+			<CUI>C3711379</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>insulin-dependent diabetes mellitus secretory diarrhea syndrome</Synonym>
+		<Synonym>IPEX syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000514-1" qtype="information">What is (are) immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome ?</Question>
+			<Answer>Immune dysregulation, polyendocrinopathy, enteropathy, X-linked (IPEX) syndrome is characterized by the development of multiple autoimmune disorders in affected individuals. Autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. Although IPEX syndrome can affect many different areas of the body, autoimmune disorders involving the intestines, skin, and hormone-producing (endocrine) glands occur most often. Most patients with IPEX syndrome are males, and the disease can be life-threatening in early childhood.  Almost all individuals with IPEX syndrome develop a disorder of the intestines called enteropathy. Enteropathy occurs when certain cells in the intestines are destroyed by a person&apos;s immune system. It causes severe diarrhea, which is usually the first symptom of IPEX syndrome. Enteropathy typically begins in the first few months of life. It can cause failure to gain weight and grow at the expected rate (failure to thrive) and general wasting and weight loss (cachexia).  People with IPEX syndrome frequently develop inflammation of the skin, called dermatitis. Eczema is the most common type of dermatitis that occurs in this syndrome, and it causes abnormal patches of red, irritated skin. Other skin disorders that cause similar symptoms are sometimes present in IPEX syndrome.  The term polyendocrinopathy is used in IPEX syndrome because individuals can develop multiple disorders of the endocrine glands. Type 1 diabetes mellitus is an autoimmune condition involving the pancreas and is the most common endocrine disorder present in people with IPEX syndrome. It usually develops within the first few months of life and prevents the body from properly controlling the amount of sugar in the blood. Autoimmune thyroid disease may also develop in people with IPEX syndrome. The thyroid gland is a butterfly-shaped organ in the lower neck that produces hormones. This gland is commonly underactive (hypothyroidism) in individuals with this disorder, but may become overactive (hyperthyroidism).  Individuals with IPEX syndrome typically develop other types of autoimmune disorders in addition to those that involve the intestines, skin, and endocrine glands. Autoimmune blood disorders are common; about half of affected individuals have low levels of red blood cells (anemia), platelets (thrombocytopenia), or white blood cells (neutropenia) because these cells are attacked by the immune system. In some individuals, IPEX syndrome involves the liver and kidneys.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000514-2" qtype="frequency">How many people are affected by immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome ?</Question>
+			<Answer>IPEX syndrome is a rare disorder; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000514-3" qtype="genetic changes">What are the genetic changes related to immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome ?</Question>
+			<Answer>Mutations in the FOXP3 gene cause some cases of IPEX syndrome. The protein produced from this gene is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes. This protein is essential for the production and normal function of certain immune cells called regulatory T cells. Regulatory T cells play an important role in controlling the immune system and preventing autoimmune disorders. Mutations in the FOXP3 gene lead to reduced numbers or a complete absence of regulatory T cells. Without the proper number of regulatory T cells, the body cannot control immune responses. Normal body tissues and organs are attacked, causing the multiple autoimmune disorders present in people with IPEX syndrome.  About half of individuals diagnosed with IPEX syndrome do not have identified mutations in the FOXP3 gene. In these cases, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000514-4" qtype="inheritance">Is immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome inherited ?</Question>
+			<Answer>When IPEX syndrome is due to mutations in the FOXP3 gene, it is inherited in an X-linked recessive pattern. The FOXP3 gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  Some people have a condition that appears identical to IPEX syndrome, but they do not have mutations in the FOXP3 gene. The inheritance pattern for this IPEX-like syndrome is unknown, but females can be affected.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000514-5" qtype="treatment">What are the treatments for immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of IPEX syndrome:  - Gene Review: Gene Review: IPEX Syndrome  - Genetic Testing Registry: Insulin-dependent diabetes mellitus secretory diarrhea syndrome  - Seattle Children&apos;s Hospital   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

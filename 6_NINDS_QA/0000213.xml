@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000213" source="NINDS" url="http://www.ninds.nih.gov/disorders/neuroleptic_syndrome/neuroleptic_syndrome.htm">
+<Focus>Neuroleptic Malignant Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027849</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000213-1" qtype="information">What is (are) Neuroleptic Malignant Syndrome ?</Question>
+			<Answer>Neuroleptic malignant syndrome is a life-threatening, neurological disorder most often caused by an adverse reaction to neuroleptic or antipsychotic drugs. Symptoms include high fever, sweating, unstable blood pressure, stupor, muscular rigidity, and autonomic dysfunction. In most cases, the disorder develops within the first 2 weeks of treatment with the drug; however, the disorder may develop any time during the therapy period. The syndrome can also occur in people taking anti-Parkinsonism drugs known as dopaminergics if those drugs are discontinued abruptly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000213-2" qtype="treatment">What are the treatments for Neuroleptic Malignant Syndrome ?</Question>
+			<Answer>Generally, intensive care is needed. The neuroleptic or antipsychotic drug is discontinued, and the fever is treated aggressively. A muscle relaxant may be prescribed. Dopaminergic drugs, such as a dopamine agonist, have been reported to be useful.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000213-3" qtype="outlook">What is the outlook for Neuroleptic Malignant Syndrome ?</Question>
+			<Answer>Early identification of and treatment for individuals with neuroleptic malignant syndrome improves outcome. If clinically indicated, a low potency neuroleptic can be reintroduced very slowly when the individual recovers, although there is a risk that the syndrome might recur. Another alternative is to substitute another class of drugs for the neuroleptic. Anesthesia may be a risk to individuals who have experienced neuroleptic malignant syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000213-4" qtype="research">what research (or clinical trials) is being done for Neuroleptic Malignant Syndrome ?</Question>
+			<Answer>The NINDS supports research on neurological disorders such as neuroleptic malignant syndrome. Much of this research focuses on finding ways to prevent and treat the disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

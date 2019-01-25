@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000116" source="NINDS" url="http://www.ninds.nih.gov/disorders/encephalitis_lethargica/encephalitis_lethargica.htm">
+<Focus>Encephalitis Lethargica</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014040</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000116-1" qtype="information">What is (are) Encephalitis Lethargica ?</Question>
+			<Answer>Encephalitis lethargica is a disease characterized by high fever, headache, double vision, delayed physical and mental response, and lethargy. In acute cases, patients may enter coma. Patients may also experience abnormal eye movements, upper body weakness, muscular pains, tremors, neck rigidity, and behavioral changes including psychosis. The cause of encephalitis lethargica is unknown. Between 1917 to 1928, an epidemic of encephalitis lethargica spread throughout the world, but no recurrence of the epidemic has since been reported. Postencephalitic Parkinson&apos;s disease may develop after a bout of encephalitis-sometimes as long as a year after the illness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000116-2" qtype="treatment">What are the treatments for Encephalitis Lethargica ?</Question>
+			<Answer>Treatment for encephalitis lethargica is symptomatic. Levodopa and other antiparkinson drugs often produce dramatic responses.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000116-3" qtype="outlook">What is the outlook for Encephalitis Lethargica ?</Question>
+			<Answer>The course of encephalitis lethargica varies depending upon complications or accompanying disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000116-4" qtype="research">what research (or clinical trials) is being done for Encephalitis Lethargica ?</Question>
+			<Answer>The NINDS supports research on disorders that affect the brain, such as encephalitis lethargica, with the goal of finding ways to prevent and treat them. (The disease was the subject of the book and film, &quot;Awakenings.&quot;)</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000850" source="GARD" url="https://rarediseases.info.nih.gov/gard/9158/brody-myopathy">
+<Focus>Brody myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1832918</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Brody disease</Synonym>
+		<Synonym>Sarcoplasmic reticulum -Ca2+ATPase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000850-1" qtype="information">What is (are) Brody myopathy ?</Question>
+			<Answer>Brody disease is a type of myopahty or &quot;disease of muscle.&quot; Signs and symptoms include difficulty relaxing muscles and muscle stiffness following exercise. The condition tends to be inherited in an autosomal recessive fashion. Some cases of Brody disease are caused by mutations in a gene called ATP2A1, for other cases the underlying genetic defect has not been identified.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000850-2" qtype="symptoms">What are the symptoms of Brody myopathy ?</Question>
+			<Answer>What are the signs and symptoms of Brody myopathy? Symptoms of Brody disease typically begin in childhood. Children with this condition may have a hard time keeping up with their peers in physical activities. They have a difficult time relaxing muscles, first in their arms and legs, but then in their face and trunk. They may also have difficulty relaxing their eyelids and grip. These muscle symptoms worsen with exercise and exposure to cold weather. In people with Brody disease, the term pseudomyotonia is used to describe these muscle symptoms. The term myotonia refers to muscle stiffness or an inability to relax the muscles and can be evidenced by abnormal electromyography (EMG) results. In Brody disease the EMG results are normal, even though the person show signs of the muscle stiffness. Because of the normal EMG results, the word pseudo-myotonia is used. In addition to the pseudomyotonia, people with Brody disease sometimes develop myoglobinuria. Myoglobinuria is the abnormal breakdown of the muscle protein, myoglobin. Click here to learn more about testing for myoglobinuria. People with Brody disease do not tend to have percussion myotonia. A doctor may test for percussion myotonia by mildly tapping on a muscle and watching how the muscle responds. Percussion myotonia is a symptom in other muscle disorders. The Human Phenotype Ontology provides the following list of signs and symptoms for Brody myopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Muscle cramps - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000850-3" qtype="causes">What causes Brody myopathy ?</Question>
+			<Answer>What causes Brody disease? Brody disease can be caused by mutations in the gene ATP2A1. In general, genes contain the information needed to make functional molecules called proteins. These proteins are required for our bodies cells (and ultimately tissues, like our muscles) to work correctly. Gene mutations can result in faulty proteins. The ATP2A1 gene tells the body how to make a protein called SERCA Ca(2+)-ATPase. This protein is involved in moving calcium around in the cell, which is important for normal muscle contraction. Mutations in this gene results in problems with calcium transportation in the cell, and ultimately problems with muscle contraction. Not all people with Brody disease have mutations in the ATP2A1 gene. There are likely other gene mutations, that have not yet been identified, that can cause this disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000850-4" qtype="exams and tests">How to diagnose Brody myopathy ?</Question>
+			<Answer>How is Brody disease diagnosed? Brody disease is suspected in people with the characteristic symptoms of this disorder (e.g., peudomyotonia, myoglobinuria etc...). In addition, people with this disease may have normal or slightly elevated creatine kinase levels. Click here to learn more about creatine kinase testing. A careful evaluation of muscle tissue samples obtained from muscle biopsy shows type 2 A and B atrophy with angulated fibers. Also, biochemical and immunological testing of the activity of certain proteins in the cell (i.e., sarcoplasmic reticulum Ca ATPase) can also help confirm the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000850-5" qtype="treatment">What are the treatments for Brody myopathy ?</Question>
+			<Answer>How might Brody disease be treated? There have been case reports describing treatment of Brody disease with the muscle relaxant, dantrolene and with calcium channel blockers with varying success.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

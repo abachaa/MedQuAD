@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000029" source="NINDS" url="http://www.ninds.nih.gov/disorders/chiari/chiari.htm">
+<Focus>Chiari Malformation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003803</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000029-1" qtype="information">What is (are) Chiari Malformation ?</Question>
+			<Answer>Chiari malformations (CMs) are structural defects in the cerebellum, the part of the brain that controls balance. When the indented bony space at the lower rear of the skull is smaller than normal, the cerebellum and brain stem can be pushed downward. The resulting pressure on the cerebellum can block the flow of cerebrospinal fluid (the liquid that surrounds and protects the brain and spinal cord) and can cause a range of symptoms including dizziness, muscle weakness, numbness, vision problems, headache, and problems with balance and coordination. Symptoms may change for some individuals depending on buildup of CNS and any resulting pressure on tissue and nerves. CMs are classified by the severity of the disorder and the parts of the brain that protrude into the spinal canal. The most common is Type I, which may not cause symptoms and is often found by accident during an examination for another condition. Type II (also called Arnold-Chiari malformation) is usually accompanied by a myelomeningocele-a form of spina bifida that occurs when the spinal canal and backbone do not close before birth, causing the spinal cord to protrude through an opening in the back. This can cause partial or complete paralysis below the spinal opening. Type III is the most serious form of CM, and causes severe neurological defects. Other conditions sometimes associated with CM include hydrocephalus, syringomyelia (a fluid-filled cyst in the spinal cord), and spinal curvature.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000029-2" qtype="treatment">What are the treatments for Chiari Malformation ?</Question>
+			<Answer>Medications may ease certain symptoms, such as pain. Surgery is the only treatment available to correct functional disturbances or halt the progression of damage to the central nervous system. More than one surgery may be needed to treat the condition. Some CMs have no noticeable symptoms and do not interfere with the person&apos;s activities of daily living.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000029-3" qtype="outlook">What is the outlook for Chiari Malformation ?</Question>
+			<Answer>Many people with Type I CM are asymptomatic and do not know they have the condition. Many individuals with the more severe types of CM and have surgery see a reduction in their symptoms and/or prolonged periods of relative stability, although paralysis is generally permanent.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000029-4" qtype="research">what research (or clinical trials) is being done for Chiari Malformation ?</Question>
+			<Answer>The NINDS supports research on disorders of the brain and nervous system such as Chiari malformations. The goals of this research are to increase scientific understanding of these disorders and to find ways to prevent, treat, and, ultimately, cure them. Current NINDS-funded research includes studies to better understand the genetic factors responsible for the malformation, and factors that influence the development, progression, and relief of symptoms among people with syringomyelia, including those with Chiari I malformations.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

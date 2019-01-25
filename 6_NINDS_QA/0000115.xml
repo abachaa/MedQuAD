@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000115" source="NINDS" url="http://www.ninds.nih.gov/disorders/encephalitis_meningitis/encephalitis_meningitis.htm">
+<Focus>Meningitis and Encephalitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014038</CUI>
+			<CUI>C0025289</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000115-1" qtype="information">What is (are) Meningitis and Encephalitis ?</Question>
+			<Answer>Meningitis is an infection of the meninges, the membranes that surround the brain and spinal cord. Encephalitis is inflammation of the brain itself. Causes of encephalitis and meningitis include viruses, bacteria, fungus, and parasites. Anyone can get encephalitis or meningitis.Inflammation from encephalitis and meningitis produce a wide range of symptoms. Symptoms of encephalitis include sudden fever, headache, vomiting, heightened sensitivity to light, stiff neck and back, confusion and impaired judgment, drowsiness, weak muscles, a clumsy and unsteady gait, and irritability. In more severe cases, people may have problems with speech or hearing, vision problems, and hallucinations. Symptoms that might require emergency treatment include loss of consciousness, seizures, muscle weakness, or sudden severe dementia.
+                
+Symptoms of meningitis, which may appear suddenly, often include high fever, severe and persistent headache, stiff neck, nausea, sensitivity to bright light, and vomiting. Changes in behavior such as confusion, sleepiness, and difficulty waking up may also occur. In infants, symptoms of meningitis or encephalitis may include fever, vomiting, lethargy, body stiffness, unexplained irritability, and a full or bulging fontanel (the soft spot on the top of the head). Anyone experiencing symptoms of meningitis or encephalitis should see a doctor immediately.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000115-2" qtype="treatment">What are the treatments for Meningitis and Encephalitis ?</Question>
+			<Answer>Anyone experiencing symptoms of meningitis or encephalitis should see a doctor immediately. Antibiotics for most types of meningitis can greatly reduce the risk of dying from the disease. Antiviral medications may be prescribed for viral encephalitis or other severe viral infections.Anticonvulsants are used to prevent or treat seizures. Corticosteroidd rugs can reduce brain swelling and inflammation. Over-the-counter medications may be used for fever and headache. Individuals with encephalitis or bacterial meningitis are usually hospitalized for treatment. Affected individuals with breathing difficulties may require artificial respiration.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000115-3" qtype="outlook">What is the outlook for Meningitis and Encephalitis ?</Question>
+			<Answer>The prognosis for for people with encephalitis or meningitis varies. Some cases are mild, short and relatively benign and individuals have full recovery, although the process may be slow. Individuals who experience mild symptoms may recover in 2-4 weeks. Other cases are severe, and permanent impairment or death is possible. The acute phase of encephalitis may last for 1 to 2 weeks, with gradual or sudden resolution of fever and neurological symptoms. Individuals treated for bacterial meningitis typically show some relief within 48-72 hours. Neurological symptoms may require many months before full recovery. With early diagnosis and prompt treatment, most individuals recover from meningitis. However, in some cases, the disease progresses so rapidly that death occurs during the first 48 hours, despite early treatment.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000115-4" qtype="research">what research (or clinical trials) is being done for Meningitis and Encephalitis ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS is a component of the National Institutes of Health, the leading supporter of biomedical research in the world. Current research efforts include gaining a better understanding of how the central nervous system responds to inflammation in the brain, as well as to better understand the molecular mechanisms involved in the protection and disruption of the blood-brain barrier, which could lead to the development of new treatments for several neuroinflammatory diseases such as meningitis and encephalitis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

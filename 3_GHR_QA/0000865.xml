@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000865" source="GHR" url="https://ghr.nlm.nih.gov/condition/renal-hypouricemia">
+<Focus>renal hypouricemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0473219</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>familial renal hypouricaemia</Synonym>
+		<Synonym>familial renal hypouricemia</Synonym>
+		<Synonym>hereditary renal hypouricemia</Synonym>
+		<Synonym>RHUC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000865-1" qtype="information">What is (are) renal hypouricemia ?</Question>
+			<Answer>Renal hypouricemia is a kidney (renal) disorder that results in a reduced amount of uric acid in the blood. Uric acid is a byproduct of certain normal chemical reactions in the body. In the bloodstream it acts as an antioxidant, protecting cells from the damaging effects of unstable molecules called free radicals. However, having too much uric acid in the body is toxic, so excess uric acid is removed from the body in urine.  People with renal hypouricemia have little to no uric acid in their blood; they release an excessive amount of it in the urine. In many affected individuals, renal hypouricemia causes no signs or symptoms. However, some people with this condition develop kidney problems. After strenuous exercise, they can develop exercise-induced acute kidney injury, which causes pain in their sides and lower back as well as nausea and vomiting that can last several hours.  Because an excessive amount of uric acid passes through the kidneys to be excreted in urine in people with renal hypouricemia, they have an increased risk of developing kidney stones (nephrolithiasis) formed from uric acid crystals. These uric acid stones can damage the kidneys and lead to episodes of blood in the urine (hematuria). Rarely, people with renal hypouricemia develop life-threatening kidney failure.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000865-2" qtype="frequency">How many people are affected by renal hypouricemia ?</Question>
+			<Answer>The prevalence of renal hypouricemia is unknown; at least 150 affected individuals have been described in the scientific literature. This condition is thought to be most prevalent in Asian countries such as Japan and South Korea, although affected individuals have been found in Europe. Renal hypouricemia is likely underdiagnosed because it does not cause any symptoms in many affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000865-3" qtype="genetic changes">What are the genetic changes related to renal hypouricemia ?</Question>
+			<Answer>Mutations in the SLC22A12 or SLC2A9 gene cause renal hypouricemia. These genes provide instructions for making proteins called urate transporter 1 (URAT1) and glucose transporter 9 (GLUT9), respectively. These proteins are found in the kidneys, specifically in structures called proximal tubules. These structures help to reabsorb needed nutrients, water, and other materials into the blood and excrete unneeded substances into the urine. Within the proximal tubules, both the URAT1 and GLUT9 proteins reabsorb uric acid into the bloodstream or release it into the urine, depending on the body&apos;s needs. Most uric acid that is filtered through the kidneys is reabsorbed into the bloodstream; about 10 percent is released into urine.  Mutations that cause renal hypouricemia lead to the production of URAT1 or GLUT9 protein with a reduced ability to reabsorb uric acid into the bloodstream. Instead, large amounts of uric acid are released in the urine. The specific cause of the signs and symptoms of renal hypouricemia is unclear. Researchers suspect that when additional uric acid is produced during exercise and passed through the kidneys, it could lead to tissue damage. Alternatively, without the antioxidant properties of uric acid, free radicals could cause tissue damage in the kidneys. Another possibility is that other substances are prevented from being reabsorbed along with uric acid; accumulation of these substances in the kidneys could cause tissue damage. It is likely that individuals with renal hypouricemia who have mild or no symptoms have enough protein function to reabsorb a sufficient amount of uric acid into the bloodstream to prevent severe kidney problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000865-4" qtype="inheritance">Is renal hypouricemia inherited ?</Question>
+			<Answer>This condition is typically inherited in an autosomal recessive pattern, which means both copies of the SLC22A12 or SLC2A9 gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they usually do not show signs and symptoms of the condition.  Sometimes, individuals with one SLC2A9 gene mutation in each cell have reduced levels of uric acid. The levels usually are not as low as they are in people who have mutations in both copies of the gene, and they often do not cause any signs or symptoms. Rarely, people who carry one copy of the mutated gene will develop uric acid kidney stones.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000865-5" qtype="treatment">What are the treatments for renal hypouricemia ?</Question>
+			<Answer>These resources address the diagnosis or management of renal hypouricemia:  - Genetic Testing Registry: Familial renal hypouricemia  - Genetic Testing Registry: Renal hypouricemia 2  - KidsHealth from Nemours: Blood Test: Uric Acid  - MedlinePlus Encyclopedia: Uric Acid--Blood   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

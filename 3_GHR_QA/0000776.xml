@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000776" source="GHR" url="https://ghr.nlm.nih.gov/condition/partington-syndrome">
+<Focus>Partington syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220775</CUI>
+			<CUI>C0796250</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MRX36</Synonym>
+		<Synonym>Partington-Mulley syndrome</Synonym>
+		<Synonym>Partington X-linked mental retardation syndrome</Synonym>
+		<Synonym>PRTS</Synonym>
+		<Synonym>X-linked intellectual deficit-dystonia-dysarthria</Synonym>
+		<Synonym>X-linked mental retardation with dystonic movements, ataxia, and seizures</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000776-1" qtype="information">What is (are) Partington syndrome ?</Question>
+			<Answer>Partington syndrome is a neurological disorder that causes intellectual disability along with a condition called focal dystonia that particularly affects movement of the hands. Partington syndrome usually occurs in males; when it occurs in females, the signs and symptoms are often less severe.  The intellectual disability associated with Partington syndrome usually ranges from mild to moderate. Some affected individuals have characteristics of autism spectrum disorders that affect communication and social interaction. Recurrent seizures (epilepsy) may also occur in Partington syndrome.  Focal dystonia of the hands is a feature that distinguishes Partington syndrome from other intellectual disability syndromes. Dystonias are a group of movement problems characterized by involuntary, sustained muscle contractions; tremors; and other uncontrolled movements. The term &quot;focal&quot; refers to a type of dystonia that affects a single part of the body, in this case the hands. In Partington syndrome, focal dystonia of the hands, which is called the Partington sign, begins in early childhood and gradually gets worse. This condition typically causes difficulty with grasping movements or using a pen or pencil.  People with Partington syndrome may also have dystonia affecting other parts of the body; dystonia affecting the muscles in the face and those involved in speech may cause impaired speech (dysarthria). People with this disorder may also have an awkward way of walking (gait). Signs and symptoms can vary widely, even within the same family.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000776-2" qtype="frequency">How many people are affected by Partington syndrome ?</Question>
+			<Answer>The prevalence of Partington syndrome is unknown. About 20 cases have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000776-3" qtype="genetic changes">What are the genetic changes related to Partington syndrome ?</Question>
+			<Answer>Partington syndrome is caused by mutations in the ARX gene. This gene provides instructions for producing a protein that regulates the activity of other genes. Within the developing brain, the ARX protein is involved with movement (migration) and communication of nerve cells (neurons). In particular, this protein regulates genes that play a role in the migration of specialized neurons (interneurons) to their proper location. Interneurons relay signals between other neurons.  The normal ARX protein contains four regions where a protein building block (amino acid) called alanine is repeated multiple times. These stretches of alanines are known as polyalanine tracts. The most common mutation that causes Partington syndrome, a duplication of genetic material written as c.428_451dup, adds extra alanines to the second polyalanine tract in the ARX protein. This type of mutation is called a polyalanine repeat expansion. The expansion likely impairs ARX protein function and may disrupt normal interneuron migration in the developing brain, leading to the intellectual disability and dystonia characteristic of Partington syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000776-4" qtype="inheritance">Is Partington syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. Females with one altered copy of the gene may have some signs and symptoms related to the condition. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000776-5" qtype="treatment">What are the treatments for Partington syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Partington syndrome:  - American Academy of Child and Adolescent Psychiatry: Services in School for Children with Special Needs  - American Academy of Pediatrics: What is a Developmental/Behavioral Pediatrician?  - Centers for Disease Control and Prevention: Developmental Screening Fact Sheet  - Genetic Testing Registry: Partington X-linked mental retardation syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

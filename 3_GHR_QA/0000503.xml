@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000503" source="GHR" url="https://ghr.nlm.nih.gov/condition/hypochromic-microcytic-anemia-with-iron-overload">
+<Focus>hypochromic microcytic anemia with iron overload</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0271901</CUI>
+			<CUI>C0282193</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>microcytic anemia and hepatic iron overload</Synonym>
+		<Synonym>microcytic anemia with liver iron overload</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000503-1" qtype="information">What is (are) hypochromic microcytic anemia with iron overload ?</Question>
+			<Answer>Hypochromic microcytic anemia with iron overload is a condition that impairs the normal transport of iron in cells. Iron is an essential component of hemoglobin, which is the substance that red blood cells use to carry oxygen to cells and tissues throughout the body. In this condition, red blood cells cannot access iron in the blood, so there is a decrease of red blood cell production (anemia) that is apparent at birth. The red blood cells that are produced are abnormally small (microcytic) and pale (hypochromic). Hypochromic microcytic anemia with iron overload can lead to pale skin (pallor), tiredness (fatigue), and slow growth.  In hypochromic microcytic anemia with iron overload, the iron that is not used by red blood cells accumulates in the liver, which can impair its function over time. The liver problems typically become apparent in adolescence or early adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000503-2" qtype="frequency">How many people are affected by hypochromic microcytic anemia with iron overload ?</Question>
+			<Answer>Hypochromic microcytic anemia with iron overload is likely a rare disorder; at least five affected families have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000503-3" qtype="genetic changes">What are the genetic changes related to hypochromic microcytic anemia with iron overload ?</Question>
+			<Answer>Mutations in the SLC11A2 gene cause hypochromic microcytic anemia with iron overload. The SLC11A2 gene provides instructions for making a protein called divalent metal transporter 1 (DMT1). The DMT1 protein is found in all tissues, where its primary role is to transport positively charged iron atoms (ions) within cells. In a section of the small intestine called the duodenum, the DMT1 protein is located within finger-like projections called microvilli. These projections absorb nutrients from food as it passes through the intestine and then release them into the bloodstream. In all other cells, including immature red blood cells called erythroblasts, DMT1 is located in the membrane of endosomes, which are specialized compartments that are formed at the cell surface to carry proteins and other molecules to their destinations within the cell. DMT1 transports iron from the endosomes to the cytoplasm so it can be used by the cell.  SLC11A2 gene mutations lead to reduced production of the DMT1 protein, decreased protein function, or impaired ability of the protein to get to the correct location in cells. In erythroblasts, a shortage of DMT1 protein diminishes the amount of iron transported within cells to attach to hemoglobin. As a result, the development of healthy red blood cells is impaired, leading to a shortage of these cells. In the duodenum, a shortage of DMT1 protein decreases iron absorption. To compensate, cells increase production of functional DMT1 protein, which increases iron absorption. Because the red blood cells cannot use the iron that is absorbed, it accumulates in the liver, eventually impairing liver function. The lack of involvement of other tissues in hypochromic microcytic anemia with iron overload is likely because these tissues have other ways to transport iron.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000503-4" qtype="inheritance">Is hypochromic microcytic anemia with iron overload inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000503-5" qtype="treatment">What are the treatments for hypochromic microcytic anemia with iron overload ?</Question>
+			<Answer>These resources address the diagnosis or management of hypochromic microcytic anemia with iron overload:  - Genetic Testing Registry: Hypochromic microcytic anemia with iron overload   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

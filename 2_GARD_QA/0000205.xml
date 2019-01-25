@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000205" source="GARD" url="https://rarediseases.info.nih.gov/gard/5797/al-amyloidosis">
+<Focus>AL amyloidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268381</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Primary systemic amyloidosis</Synonym>
+		<Synonym>Amyloidosis AL</Synonym>
+		<Synonym>Light chain amyloidosis</Synonym>
+		<Synonym>Systemic AL amyloidsis</Synonym>
+		<Synonym>Primary AL amyloidosis</Synonym>
+		<Synonym>Hereditary amyloidosis</Synonym>
+		<Synonym>Secondary glomerular disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000205-1" qtype="information">What is (are) AL amyloidosis ?</Question>
+			<Answer>AL amyloidosisis the most common form of amyloidosis, a group of disorders in which an abnormal protein called amyloid builds up in tissues and organs. The signs and symptoms of AL amyloidosis vary among patients because the build up may occur in the tongue, intestines, muscles, joints, nerves, skin, ligaments, heart, liver, spleen, or kidneys. To diagnose AL amyloidosis, healthcare professionals use blood or urine tests to identify signs of amyloid protein and a biopsy to confirm the diagnosis. Treatment may include chemotherapy directed at the abnormal plasma cells, stem cell transplantation, or other treatments based on which symptoms have developed.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001019" source="GHR" url="https://ghr.nlm.nih.gov/condition/vohwinkel-syndrome">
+<Focus>Vohwinkel syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265964</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital deafness with keratopachydermia and constrictions of fingers and toes</Synonym>
+		<Synonym>keratoderma hereditarium mutilans</Synonym>
+		<Synonym>KHM</Synonym>
+		<Synonym>mutilating keratoderma</Synonym>
+		<Synonym>palmoplantar keratoderma mutilans</Synonym>
+		<Synonym>palmoplantar keratoderma mutilans Vohwinkel</Synonym>
+		<Synonym>PPK mutilans Vohwinkel</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001019-1" qtype="information">What is (are) Vohwinkel syndrome ?</Question>
+			<Answer>Vohwinkel syndrome is a disorder with classic and variant forms, both of which affect the skin.  In the classic form of Vohwinkel syndrome, affected individuals have thick, honeycomb-like calluses on the palms of the hands and soles of the feet (palmoplantar keratoses) beginning in infancy or early childhood. Affected children also typically have distinctive starfish-shaped patches of thickened skin on the tops of the fingers and toes or on the knees. Within a few years they develop tight bands of abnormal fibrous tissue around their fingers and toes (pseudoainhum); the bands may cut off the circulation to the digits and result in spontaneous amputation. People with the classic form of the disorder also have hearing loss.  The variant form of Vohwinkel syndrome does not involve hearing loss, and the skin features also include widespread dry, scaly skin (ichthyosis), especially on the limbs. The ichthyosis is usually mild, and there may also be mild reddening of the skin (erythroderma). Some affected infants are born with a tight, clear sheath covering their skin called a collodion membrane. This membrane is usually shed during the first few weeks of life.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001019-2" qtype="frequency">How many people are affected by Vohwinkel syndrome ?</Question>
+			<Answer>Vohwinkel syndrome is a rare disorder; about 50 cases have been reported in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001019-3" qtype="genetic changes">What are the genetic changes related to Vohwinkel syndrome ?</Question>
+			<Answer>The classic form of Vohwinkel syndrome is caused by mutations in the GJB2 gene. This gene provides instructions for making a protein called gap junction beta 2, more commonly known as connexin 26. Connexin 26 is a member of the connexin protein family. Connexin proteins form channels called gap junctions that permit the transport of nutrients, charged atoms (ions), and signaling molecules between neighboring cells that are in contact with each other. Gap junctions made with connexin 26 transport potassium ions and certain small molecules.  Connexin 26 is found in cells throughout the body, including the inner ear and the skin. In the inner ear, channels made from connexin 26 are found in a snail-shaped structure called the cochlea. These channels may help to maintain the proper level of potassium ions required for the conversion of sound waves to electrical nerve impulses. This conversion is essential for normal hearing. In addition, connexin 26 may be involved in the maturation of certain cells in the cochlea. Connexin 26 also plays a role in the growth, maturation, and stability of the outermost layer of skin (the epidermis).  The GJB2 gene mutations that cause Vohwinkel syndrome change single protein building blocks (amino acids) in connexin 26. The altered protein probably disrupts the function of normal connexin 26 in cells, and may interfere with the function of other connexin proteins. This disruption could affect skin growth and also impair hearing by disturbing the conversion of sound waves to nerve impulses.  The variant form of Vohwinkel syndrome, sometimes called loricrin keratoderma, is caused by mutations in the LOR gene. This gene provides instructions for making a protein called loricrin, which is involved in the formation and maintenance of the epidermis, particularly its tough outer surface (the stratum corneum). The stratum corneum, which is formed in a process known as cornification, provides a sturdy barrier between the body and its environment. Each cell of the stratum corneum, called a corneocyte, is surrounded by a protein shell called a cornified envelope. Loricrin is a major component of the cornified envelope. Links between loricrin and other components of the envelopes hold the corneocytes together and help give the stratum corneum its strength.  Mutations in the LOR gene change the structure of the loricrin protein; the altered protein is trapped inside the cell and cannot reach the cornified envelope. While other proteins can partially compensate for the missing loricrin, the envelope of some corneocytes is thinner than normal in affected individuals, resulting in ichthyosis and the other skin abnormalities associated with the variant form of Vohwinkel syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001019-4" qtype="inheritance">Is Vohwinkel syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001019-5" qtype="treatment">What are the treatments for Vohwinkel syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Vohwinkel syndrome:  - Genetic Testing Registry: Mutilating keratoderma  - Genetic Testing Registry: Vohwinkel syndrome, variant form   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

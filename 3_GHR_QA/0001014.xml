@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001014" source="GHR" url="https://ghr.nlm.nih.gov/condition/very-long-chain-acyl-coa-dehydrogenase-deficiency">
+<Focus>very long-chain acyl-CoA dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342784</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACADVL</Synonym>
+		<Synonym>acyl-CoA dehydrogenase very long chain deficiency</Synonym>
+		<Synonym>very long-chain acyl coenzyme A dehydrogenase deficiency</Synonym>
+		<Synonym>very long-chain acyl-coenzyme A dehydrogenase deficiency</Synonym>
+		<Synonym>VLCAD-C</Synonym>
+		<Synonym>VLCAD deficiency</Synonym>
+		<Synonym>VLCAD-H</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001014-1" qtype="information">What is (are) very long-chain acyl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>Very long-chain acyl-CoA dehydrogenase (VLCAD) deficiency is a condition that prevents the body from converting certain fats to energy, particularly during periods without food (fasting).  Signs and symptoms of VLCAD deficiency typically appear during infancy or early childhood and can include low blood sugar (hypoglycemia), lack of energy (lethargy), and muscle weakness. Affected individuals are also at risk for serious complications such as liver abnormalities and life-threatening heart problems. When symptoms begin in adolescence or adulthood, they tend to be milder and usually do not involve the heart.  Problems related to VLCAD deficiency can be triggered by periods of fasting, illness, and exercise. This disorder is sometimes mistaken for Reye syndrome, a severe disorder that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001014-2" qtype="frequency">How many people are affected by very long-chain acyl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>VLCAD deficiency is estimated to affect 1 in 40,000 to 120,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001014-3" qtype="genetic changes">What are the genetic changes related to very long-chain acyl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>Mutations in the ACADVL gene cause VLCAD deficiency. This gene provides instructions for making an enzyme called very long-chain acyl-CoA dehydrogenase, which is required to break down (metabolize) a group of fats called very long-chain fatty acids. These fatty acids are found in foods and the body&apos;s fat tissues. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.  Mutations in the ACADVL gene lead to a shortage (deficiency) of the VLCAD enzyme within cells. Without sufficient amounts of this enzyme, very long-chain fatty acids are not metabolized properly. As a result, these fats are not converted to energy, which can lead to the characteristic signs and symptoms of this disorder such as lethargy and hypoglycemia. Very long-chain fatty acids or partially metabolized fatty acids may also build up in tissues and damage the heart, liver, and muscles. This abnormal buildup causes the other signs and symptoms of VLCAD deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001014-4" qtype="inheritance">Is very long-chain acyl-CoA dehydrogenase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001014-5" qtype="treatment">What are the treatments for very long-chain acyl-CoA dehydrogenase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of VLCAD deficiency:  - Baby&apos;s First Test  - Gene Review: Gene Review: Very Long-Chain Acyl-Coenzyme A Dehydrogenase Deficiency  - Genetic Testing Registry: Very long chain acyl-CoA dehydrogenase deficiency  - MedlinePlus Encyclopedia: Newborn Screening Tests   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

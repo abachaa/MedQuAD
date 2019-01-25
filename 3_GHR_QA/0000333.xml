@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000333" source="GHR" url="https://ghr.nlm.nih.gov/condition/fabry-disease">
+<Focus>Fabry disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002986</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alpha-galactosidase A deficiency</Synonym>
+		<Synonym>Anderson-Fabry disease</Synonym>
+		<Synonym>angiokeratoma corporis diffusum</Synonym>
+		<Synonym>angiokeratoma diffuse</Synonym>
+		<Synonym>ceramide trihexosidase deficiency</Synonym>
+		<Synonym>Fabry's disease</Synonym>
+		<Synonym>GLA deficiency</Synonym>
+		<Synonym>hereditary dystopic lipidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000333-1" qtype="information">What is (are) Fabry disease ?</Question>
+			<Answer>Fabry disease is an inherited disorder that results from the buildup of a particular type of fat, called globotriaosylceramide, in the body&apos;s cells. Beginning in childhood, this buildup causes signs and symptoms that affect many parts of the body. Characteristic features of Fabry disease include episodes of pain, particularly in the hands and feet (acroparesthesias); clusters of small, dark red spots on the skin called angiokeratomas; a decreased ability to sweat (hypohidrosis); cloudiness of the front part of the eye (corneal opacity); problems with the gastrointestinal system; ringing in the ears (tinnitus); and hearing loss. Fabry disease also involves potentially life-threatening complications such as progressive kidney damage, heart attack, and stroke. Some affected individuals have milder forms of the disorder that appear later in life and affect only the heart or kidneys.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000333-2" qtype="frequency">How many people are affected by Fabry disease ?</Question>
+			<Answer>Fabry disease affects an estimated 1 in 40,000 to 60,000 males. This disorder also occurs in females, although the prevalence is unknown. Milder, late-onset forms of the disorder are probably more common than the classic, severe form.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000333-3" qtype="genetic changes">What are the genetic changes related to Fabry disease ?</Question>
+			<Answer>Fabry disease is caused by mutations in the GLA gene. This gene provides instructions for making an enzyme called alpha-galactosidase A. This enzyme is active in lysosomes, which are structures that serve as recycling centers within cells. Alpha-galactosidase A normally breaks down a fatty substance called globotriaosylceramide. Mutations in the GLA gene alter the structure and function of the enzyme, preventing it from breaking down this substance effectively. As a result, globotriaosylceramide builds up in cells throughout the body, particularly cells lining blood vessels in the skin and cells in the kidneys, heart, and nervous system. The progressive accumulation of this substance damages cells, leading to the varied signs and symptoms of Fabry disease.  GLA gene mutations that result in an absence of alpha-galactosidase A activity lead to the classic, severe form of Fabry disease. Mutations that decrease but do not eliminate the enzyme&apos;s activity usually cause the milder, late-onset forms of Fabry disease that affect only the heart or kidneys.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000333-4" qtype="inheritance">Is Fabry disease inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In males (who have only one X chromosome), one altered copy of the GLA gene in each cell is sufficient to cause the condition. Because females have two copies of the X chromosome, one altered copy of the gene in each cell usually leads to less severe symptoms in females than in males, or rarely may cause no symptoms at all.  Unlike other X-linked disorders, Fabry disease causes significant medical problems in many females who have one altered copy of the GLA gene. These women may experience many of the classic features of the disorder, including nervous system abnormalities, kidney problems, chronic pain, and fatigue. They also have an increased risk of developing high blood pressure, heart disease, stroke, and kidney failure. The signs and symptoms of Fabry disease usually begin later in life and are milder in females than in their affected male relatives.  A small percentage of females who carry a mutation in one copy of the GLA gene never develop signs and symptoms of Fabry disease.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000333-5" qtype="treatment">What are the treatments for Fabry disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Fabry disease:  - Baby&apos;s First Test  - Gene Review: Gene Review: Fabry Disease  - Genetic Testing Registry: Fabry disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

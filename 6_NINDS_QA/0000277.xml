@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000277" source="NINDS" url="http://www.ninds.nih.gov/disorders/zellweger/zellweger.htm">
+<Focus>Zellweger Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043459</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000277-1" qtype="information">What is (are) Zellweger Syndrome ?</Question>
+			<Answer>Zellweger syndrome is one of a group of four related diseases called peroxisome biogenesis disorders (PBD). The diseases are caused by defects in any one of 13 genes, termed PEX genes, required for the normal formation and function of peroxisomes. The PBDs are divided into two groups: Zellweger spectrum disorders and Rhizomelic Chondrodysplasia Punctua spectrum. The Zellweger spectrum is comprised of three disorders that have considerable overlap of features. These include Zellweger syndrome (ZS, the most severe form), neonatal adrenoleukodystrophy (NALD), and Infantile Refsum disease (IRD, the least severe form).
+                
+Peroxisomes are cell structures that break down toxic substances and synthesize lipids (fatty acids. oils, and waxes) that are necessary for cell function. Peroxisomes are required for normal brain development and function and the formation of myelin, the whitish substance that coats nerve fibers. They are also required for normal eye, liver, kidney, and bone functions. Zellweger spectrum disorders result from dysfunctional lipid metabolism, including the over-accumulation of very long-chain fatty acids and phytanic acid, and defects of bile acids and plasmalogens--specialized lipids found in cell membranes and myelin sheaths of nerve fibers. Symptoms of these disorders include an enlarged liver; characteristic facial features such as a high forehead, underdeveloped eyebrow ridges, and wide-set eyes; and neurological abnormalities such as cognitive impairment and seizures. Infants will Zellweger syndrome also lack muscle tone, sometimes to the point of being unable to move, and may not be able to suck or swallow. Some babies will be born with glaucoma, retinal degeneration, and impaired hearing. Jaundice and gastrointestinal bleeding also may occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000277-2" qtype="treatment">What are the treatments for Zellweger Syndrome ?</Question>
+			<Answer>There is no cure for Zellweger syndrome, nor is there a standard course of treatment. Since the metabolic and neurological abnormalities that cause the symptoms of Zellweger syndrome are caused during fetal development, treatments to correct these abnormalities after birth are limited. Most treatments are symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000277-3" qtype="outlook">What is the outlook for Zellweger Syndrome ?</Question>
+			<Answer>The prognosis for infants with Zellweger syndrome is poor. Most infants do not survive past the first 6 months, and usually succumb to respiratory distress, gastrointestinal bleeding, or liver failure.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000277-4" qtype="research">what research (or clinical trials) is being done for Zellweger Syndrome ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS), and other institutes of the National Institutes of Health (NIH), conduct research exploring the molecular and genetic basis of Zellweger syndrome and the other PBDs, and also support additional research through grants to major research institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders such as Zellweger syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

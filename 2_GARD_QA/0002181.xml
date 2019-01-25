@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002181" source="GARD" url="https://rarediseases.info.nih.gov/gard/9323/ewings-family-of-tumors">
+<Focus>Ewing's family of tumors</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027651</CUI>
+			<CUI>C0553580</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ewing family of tumors</Synonym>
+		<Synonym>Askins tumor (PNET of the chest wall) (type)</Synonym>
+		<Synonym>Primitive neuroectodermal tumor (PNET) (type)</Synonym>
+		<Synonym>Ewings tumor of bone (type)</Synonym>
+		<Synonym>Extraosseous Ewings (tumor growing outside of the bone) (type)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002181-1" qtype="causes">What causes Ewing's family of tumors ?</Question>
+			<Answer>What causes Askins tumor? In 80% to 90% of Askins tumors, a part of chromosome 11 and chromosome 22 are translocated. &apos;Translocation&apos; means that the chromosomes have exchanged material. This exchange of material interrupts the cell&apos;s ability to grow and divide normally. In general, cancers are caused when the genes that regulate the cell&apos;s growth and division are changed. The cause of the changes is unknown, but may be due to a combination of genetic factors, environmental factors, and the process of aging. The development of cancer is not a quick or simple process. It is a progression involving a build-up of changes in a number of different genes in the cells of the body tissues over time.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000424" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/headinjuries.html">
+<Focus>Head Injuries</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018674</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cranial injuries</Synonym>
+		<Synonym>Skull fractures</Synonym>
+		<Synonym>Skull injuries</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000424-1" qtype="information">What is (are) Head Injuries ?</Question>
+			<Answer>Chances are you&apos;ve bumped your head before. Usually, the injury is minor because your skull is hard and it protects your brain. But other head injuries can be more severe, such as a skull fracture, concussion, or traumatic brain injury.    Head injuries can be open or closed. A closed injury does not break through the skull. With an open, or penetrating, injury, an object pierces the skull and enters brain tissue. Closed injuries are not always less severe than open injuries.    Some common causes of head injuries are falls, motor vehicle accidents, violence, and sports injuries.    It is important to know the warning signs of a moderate or severe head injury. Get help immediately if the injured person has       - A headache that gets worse or does not go away    - Repeated vomiting or nausea    - Convulsions or seizures    - An inability to wake up    - Dilation of one or both pupils of the eyes    - Slurred speech    - Weakness or numbness in the arms or legs    - Loss of coordination    - Increased confusion, restlessness, or agitation       NIH: National Institute of Neurological Disorders and Stroke</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

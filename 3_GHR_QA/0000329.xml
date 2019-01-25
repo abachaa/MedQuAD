@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000329" source="GHR" url="https://ghr.nlm.nih.gov/condition/essential-thrombocythemia">
+<Focus>essential thrombocythemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0040028</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>essential thrombocytosis</Synonym>
+		<Synonym>primary thrombocythemia</Synonym>
+		<Synonym>primary thrombocytosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000329-1" qtype="information">What is (are) essential thrombocythemia ?</Question>
+			<Answer>Essential thrombocythemia is a condition characterized by an increased number of platelets (thrombocythemia). Platelets (thrombocytes) are blood cell fragments involved in blood clotting. While some people with this condition have no symptoms, others develop problems associated with the excess platelets.  Abnormal blood clotting (thrombosis) is common in people with essential thrombocythemia and causes many signs and symptoms of this condition. Clots that block blood flow to the brain can cause strokes or temporary stroke-like episodes known as transient ischemic attacks. Thrombosis in the legs can cause leg pain, swelling, or both. In addition, clots can travel to the lungs (pulmonary embolism), blocking blood flow in the lungs and causing chest pain and difficulty breathing (dyspnea).  Another problem in essential thrombocythemia is abnormal bleeding, which occurs more often in people with a very high number of platelets. Affected people may have nosebleeds, bleeding gums, or bleeding in the gastrointestinal tract. It is thought that bleeding occurs because a specific protein in the blood that helps with clotting is reduced, although why the protein is reduced is unclear.  Other signs and symptoms of essential thrombocythemia include an enlarged spleen (splenomegaly); weakness; headaches; or a sensation in the skin of burning, tingling, or prickling. Some people with essential thrombocythemia have episodes of severe pain, redness, and swelling (erythromelalgia), which commonly occur in the hands and feet.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000329-2" qtype="frequency">How many people are affected by essential thrombocythemia ?</Question>
+			<Answer>Essential thrombocythemia affects an estimated 1 to 24 per 1 million people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000329-3" qtype="genetic changes">What are the genetic changes related to essential thrombocythemia ?</Question>
+			<Answer>The JAK2 and CALR genes are the most commonly mutated genes in essential thrombocythemia. The MPL, THPO, and TET2 genes can also be altered in this condition. The JAK2, MPL, and THPO genes provide instructions for making proteins that promote the growth and division (proliferation) of blood cells. The CALR gene provides instructions for making a protein with multiple functions, including ensuring the proper folding of newly formed proteins and maintaining the correct levels of stored calcium in cells. The TET2 gene provides instructions for making a protein whose function is unknown.  The proteins produced from the JAK2, MPL, and THPO genes are part of a signaling pathway called the JAK/STAT pathway, which transmits chemical signals from outside the cell to the cell&apos;s nucleus. These proteins work together to turn on (activate) the JAK/STAT pathway, which promotes the proliferation of blood cells, particularly platelets and their precursor cells, megakaryocytes.  Mutations in the JAK2, MPL, and THPO genes that are associated with essential thrombocythemia lead to overactivation of the JAK/STAT pathway. The abnormal activation of JAK/STAT signaling leads to overproduction of megakaryocytes, which results in an increased number of platelets. Excess platelets can cause thrombosis, which leads to many signs and symptoms of essential thrombocythemia.  Although mutations in the CALR and TET2 genes have been found in people with essential thrombocythemia, it is unclear how these gene mutations are involved in development of the condition.  Some people with essential thrombocythemia do not have a mutation in any of the known genes associated with this condition. Researchers are working to identify other genes that may be involved in the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000329-4" qtype="inheritance">Is essential thrombocythemia inherited ?</Question>
+			<Answer>Most cases of essential thrombocythemia are not inherited. Instead, the condition arises from gene mutations that occur in early blood-forming cells after conception. These alterations are called somatic mutations.  Less commonly, essential thrombocythemia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. When it is inherited, the condition is called familial essential thrombocythemia.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000329-5" qtype="treatment">What are the treatments for essential thrombocythemia ?</Question>
+			<Answer>These resources address the diagnosis or management of essential thrombocythemia:  - Cleveland Clinic: Thrombocytosis  - Genetic Testing Registry: Essential thrombocythemia  - Merck Manual for Health Care Professionals: Essential Thrombocythemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

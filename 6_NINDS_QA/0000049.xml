@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000049" source="NINDS" url="http://www.ninds.nih.gov/disorders/brachial_plexus_birth/brachial_plexus_birth.htm">
+<Focus>Erb-Duchenne and Dejerine-Klumpke Palsies</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270898</CUI>
+			<CUI>C0522224</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000049-1" qtype="information">What is (are) Erb-Duchenne and Dejerine-Klumpke Palsies ?</Question>
+			<Answer>The brachial plexus is a network of nerves that conducts signals from the spine to the shoulder, arm, and hand. Brachial plexus injuries are caused by damage to those nerves. Erb-Duchenne (Erb&apos;s) palsy refers to paralysis of the upper brachial plexus. Dejerine-Klumpke (Klumpke&apos;s) palsy refers to paralysis of the lower brachial plexus. Although injuries can occur at any time, many brachial plexus injuries happen when a baby&apos;s shoulders become impacted during delivery and the brachial plexus nerves stretch or tear. There are four types of brachial plexus injuries: avulsion, the most severe type, in which the nerve is torn from the spine; rupture, in which the nerve is torn but not at the spinal attachment; neuroma, in which the nerve has torn and healed but scar tissue puts pressure on the injured nerve and prevents it from conducting signals to the muscles; and neuropraxia or stretch, in which the nerve has been damaged but not torn. Neuropraxia is the most common type of brachial plexus injury. Symptoms of brachial plexus injury may include a limp or paralyzed arm; lack of muscle control in the arm, hand, or wrist; and lack of feeling or sensation in the arm or hand.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000049-2" qtype="treatment">What are the treatments for Erb-Duchenne and Dejerine-Klumpke Palsies ?</Question>
+			<Answer>Some brachial plexus injuries may heal without treatment. Many children who are injured during birth improve or recover by 3 to 4 months of age. Treatment for brachial plexus injuries includes physical therapy and, in some cases, surgery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000049-3" qtype="outlook">What is the outlook for Erb-Duchenne and Dejerine-Klumpke Palsies ?</Question>
+			<Answer>The site and type of brachial plexus injury determines the prognosis. For avulsion and rupture injuries, there is no potential for recovery unless surgical reconnection is made in a timely manner. The potential for recovery varies for neuroma and neuropraxia injuries. Most individuals with neuropraxia injuries recover spontaneously with a 90-100 percent return of function.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000049-4" qtype="research">what research (or clinical trials) is being done for Erb-Duchenne and Dejerine-Klumpke Palsies ?</Question>
+			<Answer>The NINDS conducts and supports research on injuries to the nervous system such as brachial plexus injuries. Much of this research is aimed at finding ways to prevent and treat these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

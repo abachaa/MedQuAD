@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000005" source="GHR" url="https://ghr.nlm.nih.gov/condition/aceruloplasminemia">
+<Focus>aceruloplasminemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0878682</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deficiency of ferroxidase</Synonym>
+		<Synonym>familial apoceruloplasmin deficiency</Synonym>
+		<Synonym>hereditary ceruloplasmin deficiency</Synonym>
+		<Synonym>hypoceruloplasminemia</Synonym>
+		<Synonym>systemic hemosiderosis due to aceruloplasminemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000005-1" qtype="information">What is (are) aceruloplasminemia ?</Question>
+			<Answer>Aceruloplasminemia is a disorder in which iron gradually accumulates in the brain and other organs. Iron accumulation in the brain results in neurological problems that generally appear in adulthood and worsen over time.  People with aceruloplasminemia develop a variety of movement problems. They may experience involuntary muscle contractions (dystonia) of the head and neck, resulting in repetitive movements and contortions. Other involuntary movements may also occur, such as rhythmic shaking (tremors), jerking movements (chorea), eyelid twitching (blepharospasm), and grimacing. Affected individuals may also have difficulty with coordination (ataxia). Some develop psychiatric problems and a decline of intellectual function (dementia) in their forties or fifties.  In addition to neurological problems, affected individuals may have diabetes mellitus caused by iron damage to cells in the pancreas that make insulin, a hormone that helps control blood sugar levels. Iron accumulation in the pancreas reduces the cells&apos; ability to make insulin, which impairs blood sugar regulation and leads to the signs and symptoms of diabetes.  Iron accumulation in the tissues and organs results in a corresponding shortage (deficiency) of iron in the blood, leading to a shortage of red blood cells (anemia). Anemia and diabetes usually occur by the time an affected person is in his or her twenties.  Affected individuals also have changes in the light-sensitive tissue at the back of the eye (retina) caused by excess iron. The changes result in small opaque spots and areas of tissue degeneration (atrophy) around the edges of the retina. These abnormalities usually do not affect vision but can be observed during an eye examination.  The specific features of aceruloplasminemia and their severity may vary, even within the same family.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000005-2" qtype="frequency">How many people are affected by aceruloplasminemia ?</Question>
+			<Answer>Aceruloplasminemia has been seen worldwide, but its overall prevalence is unknown. Studies in Japan have estimated that approximately 1 in 2 million adults in this population are affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000005-3" qtype="genetic changes">What are the genetic changes related to aceruloplasminemia ?</Question>
+			<Answer>Mutations in the CP gene cause aceruloplasminemia. The CP gene provides instructions for making a protein called ceruloplasmin, which is involved in iron transport and processing. Ceruloplasmin helps move iron from the organs and tissues of the body and prepares it for incorporation into a molecule called transferrin, which transports it to red blood cells to help carry oxygen.  CP gene mutations result in the production of ceruloplasmin protein that is unstable or nonfunctional, or they prevent the protein from being released (secreted) by the cells in which it is made. When ceruloplasmin is unavailable, transport of iron out of the body&apos;s tissues is impaired. The resulting iron accumulation damages cells in those tissues, leading to neurological dysfunction, and the other health problems seen in aceruloplasminemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000005-4" qtype="inheritance">Is aceruloplasminemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000005-5" qtype="treatment">What are the treatments for aceruloplasminemia ?</Question>
+			<Answer>These resources address the diagnosis or management of aceruloplasminemia:  - Gene Review: Gene Review: Aceruloplasminemia  - Genetic Testing Registry: Deficiency of ferroxidase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

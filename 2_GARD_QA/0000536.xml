@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000536" source="GARD" url="https://rarediseases.info.nih.gov/gard/5871/autoimmune-hepatitis">
+<Focus>Autoimmune hepatitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0241910</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Autoimmune chronic hepatitis</Synonym>
+		<Synonym>AIH</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000536-1" qtype="information">What is (are) Autoimmune hepatitis ?</Question>
+			<Answer>Autoimmune hepatitis is a disease in which the bodys immune system attacks liver cells. This immune response causes inflammation of the liver, also called hepatitis. The disease can be quite serious and, if not treated, gets worse over time, leading to cirrhosis of the liver and/or liver failure. Autoimmune hepatitis sometimes occurs in relatives of people with autoimmune diseases, suggesting a genetic cause. This disease is most common in young girls and women.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000536-2" qtype="symptoms">What are the symptoms of Autoimmune hepatitis ?</Question>
+			<Answer>What are the signs and symptoms of Autoimmune hepatitis? Symptoms of autoimmune hepatitis range from mild to severe. Fatigue is probably the most common symptom of autoimmune hepatitis. Other symptoms include: an enlarged liver jaundice itching skin rashes joint pain abdominal discomfort spider angiomas, or abnormal blood vessels, on the skin nausea vomiting loss of appetite dark urine pale or gray-colored stools People in advanced stages of the disease are more likely to have symptoms related to chronic liver disease, such as fluid in the abdomenalso called ascitesand mental confusion. Women may stop having menstrual periods. The Human Phenotype Ontology provides the following list of signs and symptoms for Autoimmune hepatitis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autoimmune antibody positivity - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000536-3" qtype="causes">What causes Autoimmune hepatitis ?</Question>
+			<Answer>What causes autoimmune hepatitis? Although the exact cause of autoimmune hepatitis is unknown, evidence suggests that liver injury in a patient with autoimmune hepatitis is the result of a cell-mediated immunologic attack. This autoimmune attack may be triggered by genetic factors, viral infections, or chemical agents. Autoimmune hepatitis sometimes occurs in relatives of people with autoimmune diseases, further suggesting a genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000536-4" qtype="exams and tests">How to diagnose Autoimmune hepatitis ?</Question>
+			<Answer>How is autoimmune hepatitis diagnosed? The diagnosis of autoimmune hepatitis is typically made based on symptoms, blood tests, and a liver biopsy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000536-5" qtype="treatment">What are the treatments for Autoimmune hepatitis ?</Question>
+			<Answer>How might autoimmune hepatitis be treated? Some people with mild forms of autoimmune hepatitis may not need to take medication. Doctors assess each patient individually to determine whether those with mild autoimmune hepatitis should undergo treatment. Treatment works best when autoimmune hepatitis is diagnosed early. With proper treatment, autoimmune hepatitis can usually be controlled. In fact, studies show that sustained response to treatment stops the disease from getting worse and may reverse some of the damage. The primary treatment is medicine to suppress, or slow down, an overactive immune system. Prednisone or other corticosteroids help reduce the inflammation. Azathioprine and mercaptopurine are drugs used to treat other autoimmune disorders, which have shown to help patients with autoimmune hepatitis as well. In about seven out of 10 people, the disease goes into remission within 3 years of starting treatment. Remission occurs when symptoms disappear and lab tests show improvement in liver function. Some people can eventually stop treatment, although many will see the disease return. People who stop treatment must carefully monitor their condition and promptly report any new symptoms to their doctor. Treatment with low doses of prednisone or azathioprine may be necessary on and off for years, if not for life. People who do not respond to standard immune therapy or who have severe side effects may benefit from other immunosuppressive agents such as mycophenylate mofetil, cyclosporine, or tacrolimus. People who progress to end-stage liver diseasealso called liver failureor cirrhosis may need a liver transplant. Transplantation has a 1-year survival rate of 90 percent and a 5-year survival rate of 70 to 80 percent.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

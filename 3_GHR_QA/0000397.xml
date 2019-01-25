@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000397" source="GHR" url="https://ghr.nlm.nih.gov/condition/galactosemia">
+<Focus>galactosemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016952</CUI>
+			<CUI>C0268151</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>classic galactosemia</Synonym>
+		<Synonym>epimerase deficiency galactosemia</Synonym>
+		<Synonym>galactokinase deficiency disease</Synonym>
+		<Synonym>galactose-1-phosphate uridyl-transferase deficiency disease</Synonym>
+		<Synonym>galactose epimerase deficiency</Synonym>
+		<Synonym>GALE deficiency</Synonym>
+		<Synonym>GALK deficiency</Synonym>
+		<Synonym>GALT deficiency</Synonym>
+		<Synonym>UDP-galactose-4-epimerase deficiency disease</Synonym>
+		<Synonym>UTP hexose-1-phosphate uridylyltransferase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000397-1" qtype="information">What is (are) galactosemia ?</Question>
+			<Answer>Galactosemia is a disorder that affects how the body processes a simple sugar called galactose. A small amount of galactose is present in many foods. It is primarily part of a larger sugar called lactose, which is found in all dairy products and many baby formulas. The signs and symptoms of galactosemia result from an inability to use galactose to produce energy.  Researchers have identified several types of galactosemia. These conditions are each caused by mutations in a particular gene and affect different enzymes involved in breaking down galactose.  Classic galactosemia, also known as type I, is the most common and most severe form of the condition. If infants with classic galactosemia are not treated promptly with a low-galactose diet, life-threatening complications appear within a few days after birth. Affected infants typically develop feeding difficulties, a lack of energy (lethargy), a failure to gain weight and grow as expected (failure to thrive), yellowing of the skin and whites of the eyes (jaundice), liver damage, and abnormal bleeding. Other serious complications of this condition can include overwhelming bacterial infections (sepsis) and shock. Affected children are also at increased risk of delayed development, clouding of the lens of the eye (cataract), speech difficulties, and intellectual disability. Females with classic galactosemia may develop reproductive problems caused by an early loss of function of the ovaries (premature ovarian insufficiency).  Galactosemia type II (also called galactokinase deficiency) and type III (also called galactose epimerase deficiency) cause different patterns of signs and symptoms. Galactosemia type II causes fewer medical problems than the classic type. Affected infants develop cataracts but otherwise experience few long-term complications. The signs and symptoms of galactosemia type III vary from mild to severe and can include cataracts, delayed growth and development, intellectual disability, liver disease, and kidney problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000397-2" qtype="frequency">How many people are affected by galactosemia ?</Question>
+			<Answer>Classic galactosemia occurs in 1 in 30,000 to 60,000 newborns. Galactosemia type II and type III are less common; type II probably affects fewer than 1 in 100,000 newborns and type III appears to be very rare.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000397-3" qtype="genetic changes">What are the genetic changes related to galactosemia ?</Question>
+			<Answer>Mutations in the GALT, GALK1, and GALE genes cause galactosemia. These genes provide instructions for making enzymes that are essential for processing galactose obtained from the diet. These enzymes break down galactose into another simple sugar, glucose, and other molecules that the body can store or use for energy.  Mutations in the GALT gene cause classic galactosemia (type I). Most of these genetic changes almost completely eliminate the activity of the enzyme produced from the GALT gene, preventing the normal processing of galactose and resulting in the life-threatening signs and symptoms of this disorder. Another GALT gene mutation, known as the Duarte variant, reduces but does not eliminate the activity of the enzyme. People with the Duarte variant tend to have much milder features of galactosemia.  Galactosemia type II results from mutations in the GALK1 gene, while mutations in the GALE gene underlie galactosemia type III. Like the enzyme produced from the GALT gene, the enzymes made from the GALK1 and GALE genes play important roles in processing galactose. A shortage of any of these critical enzymes allows galactose and related compounds to build up to toxic levels in the body. The accumulation of these substances damages tissues and organs, leading to the characteristic features of galactosemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000397-4" qtype="inheritance">Is galactosemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000397-5" qtype="treatment">What are the treatments for galactosemia ?</Question>
+			<Answer>These resources address the diagnosis or management of galactosemia:  - Baby&apos;s First Test: Classic Galactosemia  - Baby&apos;s First Test: Galactoepimerase Deficiency  - Baby&apos;s First Test: Galactokinase Deficiency  - Gene Review: Gene Review: Classic Galactosemia and Clinical Variant Galactosemia  - Gene Review: Gene Review: Duarte Variant Galactosemia  - Gene Review: Gene Review: Epimerase Deficiency Galactosemia  - Genetic Testing Registry: Galactosemia  - MedlinePlus Encyclopedia: Galactose-1-phosphate uridyltransferase  - MedlinePlus Encyclopedia: Galactosemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

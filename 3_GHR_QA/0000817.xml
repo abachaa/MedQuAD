@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000817" source="GHR" url="https://ghr.nlm.nih.gov/condition/prekallikrein-deficiency">
+<Focus>prekallikrein deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0272339</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital prekallikrein deficiency</Synonym>
+		<Synonym>Fletcher factor deficiency</Synonym>
+		<Synonym>Fletcher trait</Synonym>
+		<Synonym>PKK deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000817-1" qtype="information">What is (are) prekallikrein deficiency ?</Question>
+			<Answer>Prekallikrein deficiency is a blood condition that usually causes no health problems. In people with this condition, blood tests show a prolonged activated partial thromboplastin time (PTT), a result that is typically associated with bleeding problems; however, bleeding problems generally do not occur in prekallikrein deficiency. The condition is usually discovered when blood tests are done for other reasons.  A few people with prekallikrein deficiency have experienced health problems related to blood clotting such as heart attack, stroke, a clot in the deep veins of the arms or legs (deep vein thrombosis), nosebleeds, or excessive bleeding after surgery. However, these are common problems in the general population, and most affected individuals have other risk factors for developing them, so it is unclear whether their occurrence is related to prekallikrein deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000817-2" qtype="frequency">How many people are affected by prekallikrein deficiency ?</Question>
+			<Answer>The prevalence of prekallikrein deficiency is unknown. Approximately 80 affected individuals in about 30 families have been described in the medical literature. Because prekallikrein deficiency usually does not cause any symptoms, researchers suspect that most people with the condition are never diagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000817-3" qtype="genetic changes">What are the genetic changes related to prekallikrein deficiency ?</Question>
+			<Answer>Prekallikrein deficiency is caused by mutations in the KLKB1 gene, which provides instructions for making a protein called prekallikrein. This protein, when converted to an active form called plasma kallikrein in the blood, is involved in the early stages of blood clotting. Plasma kallikrein plays a role in a process called the intrinsic coagulation pathway (also called the contact activation pathway). This pathway turns on (activates) proteins that are needed later in the clotting process. Blood clots protect the body after an injury by sealing off damaged blood vessels and preventing further blood loss.  The KLKB1 gene mutations that cause prekallikrein deficiency reduce or eliminate functional plasma kallikrein, which likely impairs the intrinsic coagulation pathway. Researchers suggest that this lack (deficiency) of functional plasma kallikrein protein does not generally cause any symptoms because another process called the extrinsic coagulation pathway (also known as the tissue factor pathway) can compensate for the impaired intrinsic coagulation pathway.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000817-4" qtype="inheritance">Is prekallikrein deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000817-5" qtype="treatment">What are the treatments for prekallikrein deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of prekallikrein deficiency:  - Genetic Testing Registry: Prekallikrein deficiency  - Massachusetts General Hospital Laboratory Handbook: Prekallikrein   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

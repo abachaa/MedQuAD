@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000942" source="GHR" url="https://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-6">
+<Focus>spinocerebellar ataxia type 6</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0752124</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SCA6</Synonym>
+		<Synonym>type 6 spinocerebellar ataxia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000942-1" qtype="information">What is (are) spinocerebellar ataxia type 6 ?</Question>
+			<Answer>Spinocerebellar ataxia type 6 (SCA6) is a condition characterized by progressive problems with movement. People with this condition initially experience problems with coordination and balance (ataxia). Other early signs and symptoms of SCA6 include speech difficulties, involuntary eye movements (nystagmus), and double vision. Over time, individuals with SCA6 may develop loss of coordination in their arms, tremors, and uncontrolled muscle tensing (dystonia).  Signs and symptoms of SCA6 typically begin in a person&apos;s forties or fifties but can appear anytime from childhood to late adulthood. Most people with this disorder require wheelchair assistance by the time they are in their sixties.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000942-2" qtype="frequency">How many people are affected by spinocerebellar ataxia type 6 ?</Question>
+			<Answer>The worldwide prevalence of SCA6 is estimated to be less than 1 in 100,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000942-3" qtype="genetic changes">What are the genetic changes related to spinocerebellar ataxia type 6 ?</Question>
+			<Answer>Mutations in the CACNA1A gene cause SCA6. The CACNA1A gene provides instructions for making a protein that forms a part of some calcium channels. These channels transport positively charged calcium atoms (calcium ions) across cell membranes. The movement of these ions is critical for normal signaling between nerve cells (neurons) in the brain and other parts of the nervous system. The CACNA1A gene provides instructions for making one part (the alpha-1 subunit) of a calcium channel called CaV2.1. CaV2.1 channels play an essential role in communication between neurons in the brain.  The CACNA1A gene mutations that cause SCA6 involve a DNA segment known as a CAG trinucleotide repeat. This segment is made up of a series of three DNA building blocks (cytosine, adenine, and guanine) that appear multiple times in a row. Normally, the CAG segment is repeated 4 to 18 times within the gene. In people with SCA6, the CAG segment is repeated 20 to 33 times. People with 20 repeats tend to experience signs and symptoms of SCA6 beginning in late adulthood, while people with a larger number of repeats usually have signs and symptoms from mid-adulthood.  An increase in the length of the CAG segment leads to the production of an abnormally long version of the alpha-1 subunit. This version of the subunit alters the location and function of the CaV2.1 channels. Normally the alpha-1 subunit is located within the cell membrane; the abnormal subunit is found in the cell membrane as well as in the fluid inside cells (cytoplasm), where it clusters together and forms clumps (aggregates). The effect these aggregates have on cell functioning is unknown. The lack of normal calcium channels in the cell membrane impairs cell communication between neurons in the brain. Diminished cell communication leads to cell death. Cells within the cerebellum, which is the part of the brain that coordinates movement, are particularly sensitive to the accumulation of these aggregates. Over time, a loss of cells in the cerebellum causes the movement problems characteristic of SCA6.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000942-4" qtype="inheritance">Is spinocerebellar ataxia type 6 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person has one parent with the condition.  As the altered CACNA1A gene is passed down from one generation to the next, the length of the CAG trinucleotide repeat often slightly increases. A larger number of repeats is usually associated with an earlier onset of signs and symptoms. This phenomenon is called anticipation.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000942-5" qtype="treatment">What are the treatments for spinocerebellar ataxia type 6 ?</Question>
+			<Answer>These resources address the diagnosis or management of SCA6:  - Gene Review: Gene Review: Spinocerebellar Ataxia Type 6  - Genetic Testing Registry: Spinocerebellar ataxia 6   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

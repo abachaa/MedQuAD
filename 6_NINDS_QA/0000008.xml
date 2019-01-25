@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000008" source="NINDS" url="http://www.ninds.nih.gov/disorders/adrenoleukodystrophy/adrenoleukodystrophy.htm">
+<Focus>Adrenoleukodystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162309</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000008-1" qtype="information">What is (are) Adrenoleukodystrophy ?</Question>
+			<Answer>X-linked Adrenoleukodystrophy (ALD) is one of a group of genetic disorders called the leukodystrophies that cause damage to the myelin sheath, an insulating membrane that surrounds nerve cells in the brain. Women have two X chromosomes and are the carriers of the disease, but since men only have one X chromosome and lack the protective effect of the extra X chromosome, they are more severely affected. People with X-ALD accumulate high levels of saturated, very long chain fatty acids (VLCFA) in the brain and adrenal cortex. The loss of myelin and the progressive dysfunction of the adrenal gland are the primary characteristics of X-ALD. While nearly all patients with X-ALD suffer from adrenal insufficiency, also known as Addison&apos;s disease, the neurological symptoms can begin either in childhood or in adulthood. The childhood cerebral form is the most severe, with onset between ages 4 and 10. The most common symptoms are usually behavioral changes such as abnormal withdrawal or aggression, poor memory, and poor school performance. Other symptoms include visual loss, learning disabilities, seizures, poorly articulated speech, difficulty swallowing, deafness, disturbances of gait and coordination, fatigue, intermittent vomiting, increased skin pigmentation, and progressive dementia. The milder adult-onset form is also known as adrenomyeloneuropathy (AMN), which typically begins between ages 21 and 35. Symptoms may include progressive stiffness, weakness or paralysis of the lower limbs, and ataxia. Although adult-onset ALD progresses more slowly than the classic childhood form, it can also result in deterioration of brain function. Almost half the women who are carriers of X-ALS will develop a milder form of AMN but almost never will develop symptoms seen in boys the X-ALD. X-ALD should not be confused with neonatal adrenoleukodsystrophy, which is a disease of newborns and young infants and belongs to the group of peroxisomal biogenesis disorders.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000008-2" qtype="treatment">What are the treatments for Adrenoleukodystrophy ?</Question>
+			<Answer>Adrenal function must be tested periodically in all patients with ALD. Treatment with adrenal hormones can be lifesaving. Symptomatic and supportive treatments for ALD include physical therapy, psychological support, and special education. Recent evidence suggests that a mixture of oleic acid and erucic acid, known as &quot;Lorenzo&apos;s Oil,&quot; administered to boys with X-ALD prior to symptom onset can prevent or delay the appearance of the childhood cerebral form It is not known whether Lorenzo&apos;s Oil will have any beneficial effects in AMN. Furthermore, Lorenzo&apos;s Oil has no beneficial effect in symptomatic boys with X-ALD. Bone marrow transplantations can provide long-term benefit to boys who have early evidence of the childhood cerebral form of X-ALD, but the procedure carries risk of mortality and morbidity and is not recommended for those whose symptoms are already severe or who have the adult-onset or neonatal forms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000008-3" qtype="outlook">What is the outlook for Adrenoleukodystrophy ?</Question>
+			<Answer>Prognosis for patients with childhood cerebral X-ALD is generally poor due to progressive neurological deterioration unless bone marrow transplantation is performed early. Death usually occurs within 1 to 10 years after the onset of symptoms. Adult-onset AMN will progress over decades.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000008-4" qtype="research">what research (or clinical trials) is being done for Adrenoleukodystrophy ?</Question>
+			<Answer>The NINDS supports research on genetic disorders such as ALD. The aim of this research is to find ways to prevent, treat, and cure these disorders. Studies are currently underway to identify new biomarkers of disease progression and to determine which patients will develop the childhood cerebral form of X-ALD. A recent case study in Europe demonstrated that the combination of gene therapy with bone marrow transplantation, using the patient&apos;s own bone marrow cells, may arrest disease progression in childhood cerebral X-ALD. A therapeutic trail in the United States is currently being discussed with the U.S. Food and Drug Administration.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

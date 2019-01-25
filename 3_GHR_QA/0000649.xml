@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000649" source="GHR" url="https://ghr.nlm.nih.gov/condition/methemoglobinemia-beta-globin-type">
+<Focus>methemoglobinemia, beta-globin type</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1840779</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>blue baby syndrome</Synonym>
+		<Synonym>congenital methemoglobinemia</Synonym>
+		<Synonym>hemoglobin M disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000649-1" qtype="information">What is (are) methemoglobinemia, beta-globin type ?</Question>
+			<Answer>Methemoglobinemia, beta-globin type is a condition that affects the function of red blood cells. Specifically, it alters a molecule called hemoglobin within these cells. Hemoglobin within red blood cells attaches (binds) to oxygen molecules in the lungs, which it carries through the bloodstream, then releases in tissues throughout the body. Instead of normal hemoglobin, people with methemoglobinemia, beta-globin type have an abnormal form called methemoglobin, which is unable to efficiently deliver oxygen to the body&apos;s tissues. In methemoglobinemia, beta-globin type, the abnormal hemoglobin gives the blood a brown color. It also causes a bluish appearance of the skin, lips, and nails (cyanosis), which usually first appears around the age of 6 months. The signs and symptoms of methemoglobinemia, beta-globin type are generally limited to cyanosis, which does not cause any health problems. However, in rare cases, severe methemoglobinemia, beta-globin type can cause headaches, weakness, and fatigue.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000649-2" qtype="frequency">How many people are affected by methemoglobinemia, beta-globin type ?</Question>
+			<Answer>The incidence of methemoglobinemia, beta-globin type is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000649-3" qtype="genetic changes">What are the genetic changes related to methemoglobinemia, beta-globin type ?</Question>
+			<Answer>Methemoglobinemia, beta-globin type is caused by mutations in the HBB gene. This gene provides instructions for making a protein called beta-globin. Beta-globin is one of four components (subunits) that make up hemoglobin. In adults, hemoglobin normally contains two subunits of beta-globin and two subunits of another protein called alpha-globin. Each of these protein subunits is bound to an iron-containing molecule called heme; each heme contains an iron molecule in its center that can bind to one oxygen molecule. For hemoglobin to bind to oxygen, the iron within the heme molecule needs to be in a form called ferrous iron (Fe2+). The iron within the heme can change to another form of iron called ferric iron (Fe3+), which cannot bind oxygen. Hemoglobin that contains ferric iron is known as methemoglobin.  HBB gene mutations that cause methemoglobinemia, beta-globin type change the structure of beta-globin and promote the heme iron to change from ferrous to ferric. The ferric iron cannot bind oxygen and causes cyanosis and the brown appearance of blood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000649-4" qtype="inheritance">Is methemoglobinemia, beta-globin type inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000649-5" qtype="treatment">What are the treatments for methemoglobinemia, beta-globin type ?</Question>
+			<Answer>These resources address the diagnosis or management of methemoglobinemia, beta-globin type:  - Genetic Testing Registry: Methemoglobinemia, beta-globin type  - KidsHealth from Nemours: Blood Test: Hemoglobin  - MedlinePlus Encyclopedia: Hemoglobin  - MedlinePlus Encyclopedia: Methemoglobinemia  - MedlinePlus Encyclopedia: Skin Discoloration--Bluish   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

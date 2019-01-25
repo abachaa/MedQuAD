@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001296" source="GARD" url="https://rarediseases.info.nih.gov/gard/3765/chromosome-7q-deletion">
+<Focus>Chromosome 7q deletion</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1854978</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Deletion 7q</Synonym>
+		<Synonym>Monosomy 7q</Synonym>
+		<Synonym>7q deletion</Synonym>
+		<Synonym>7q monosomy</Synonym>
+		<Synonym>Partial monosomy 7q</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001296-1" qtype="information">What is (are) Chromosome 7q deletion ?</Question>
+			<Answer>Chromosome 7q deletion is a chromosome abnormality that occurs when there is a missing copy of the genetic material located on the long arm (q) of chromosome 7. The severity of the condition and the signs and symptoms depend on the size and location of the deletion and which genes are involved. Features that often occur in people with chromosome 7q deletion include developmental delay, intellectual disability, behavioral problems, and distinctive facial features. Most cases are not inherited, but people can pass the deletion on to their children. Treatment is based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

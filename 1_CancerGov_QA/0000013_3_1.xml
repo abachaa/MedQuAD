@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000013_3" source="CancerGov" url="https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq">
+<Focus>Chronic Myelomonocytic Leukemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023480</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000013_3-1" qtype="information">What is (are) Chronic Myelomonocytic Leukemia ?</Question>
+			<Answer>Key Points
+                    - Chronic myelomonocytic leukemia is a disease in which too many myelocytes and monocytes (immature white blood cells) are made in the bone marrow.    - Older age and being male increase the risk of chronic myelomonocytic leukemia.    - Signs and symptoms of chronic myelomonocytic leukemia include fever, weight loss, and feeling very tired.    - Certain factors affect prognosis (chance of recovery) and treatment options.
+                
+                
+                    Chronic myelomonocytic leukemia is a disease in which too many myelocytes and monocytes (immature white blood cells) are made in the bone marrow.
+                    In chronic myelomonocytic leukemia (CMML), the body tells too many blood stem cells to become two types of white blood cells called myelocytes and monocytes. Some of these blood stem cells never become mature white blood cells. These immature white blood cells are called blasts. Over time, the myelocytes, monocytes, and blasts crowd out the red blood cells and platelets in the bone marrow. When this happens, infection, anemia, or easy bleeding may occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000013_3-2" qtype="susceptibility">Who is at risk for Chronic Myelomonocytic Leukemia? ?</Question>
+			<Answer>Older age and being male increase the risk of chronic myelomonocytic leukemia. Anything that increases your chance of getting a disease is called a risk factor. Possible risk factors for CMML include the following:         - Older age.    - Being male.    - Being exposed to certain substances at work or in the environment.    - Being exposed to radiation.    - Past treatment with certain anticancer drugs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000013_3-3" qtype="symptoms">What are the symptoms of Chronic Myelomonocytic Leukemia ?</Question>
+			<Answer>Signs and symptoms of chronic myelomonocytic leukemia include fever, weight loss, and feeling very tired. These and other signs and symptoms may be caused by CMML or by other conditions. Check with your doctor if you have any of the following:         -  Fever for no known reason.    - Infection.    - Feeling very tired.    - Weight loss for no known reason.    - Easy bruising or bleeding.    - Pain or a feeling of fullness below the ribs.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000013_3-4" qtype="outlook">What is the outlook for Chronic Myelomonocytic Leukemia ?</Question>
+			<Answer>Certain factors affect prognosis (chance of recovery) and treatment options. The prognosis (chance of recovery) and treatment options for CMML depend on the following:         - The number of white blood cells or platelets in the blood or bone marrow.    - Whether the patient is anemic.    - The amount of blasts in the blood or bone marrow.    - The amount of hemoglobin in red blood cells.    - Whether there are certain changes in the chromosomes.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000013_3-5" qtype="treatment">What are the treatments for Chronic Myelomonocytic Leukemia ?</Question>
+			<Answer>Treatment of chronic myelomonocytic leukemia (CMML) may include the following:         -  Chemotherapy with one or more agents.    -  Stem cell transplant.    - A clinical trial of a new treatment.        Check the list of NCI-supported cancer clinical trials that are now accepting patients with chronic myelomonocytic leukemia. For more specific results, refine the search by using other search features, such as the location of the trial, the type of treatment, or the name of the drug. Talk with your doctor about clinical trials that may be right for you. General information about clinical trials is available from the NCI website.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

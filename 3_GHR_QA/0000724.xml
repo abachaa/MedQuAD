@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000724" source="GHR" url="https://ghr.nlm.nih.gov/condition/neurofibromatosis-type-1">
+<Focus>neurofibromatosis type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027831</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Neurofibromatosis 1</Synonym>
+		<Synonym>NF1</Synonym>
+		<Synonym>Peripheral Neurofibromatosis</Synonym>
+		<Synonym>Recklinghausen Disease, Nerve</Synonym>
+		<Synonym>von Recklinghausen Disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000724-1" qtype="information">What is (are) neurofibromatosis type 1 ?</Question>
+			<Answer>Neurofibromatosis type 1 is a condition characterized by changes in skin coloring (pigmentation) and the growth of tumors along nerves in the skin, brain, and other parts of the body. The signs and symptoms of this condition vary widely among affected people.  Beginning in early childhood, almost all people with neurofibromatosis type 1 have multiple caf-au-lait spots, which are flat patches on the skin that are darker than the surrounding area. These spots increase in size and number as the individual grows older. Freckles in the underarms and groin typically develop later in childhood.  Most adults with neurofibromatosis type 1 develop neurofibromas, which are noncancerous (benign) tumors that are usually located on or just under the skin. These tumors may also occur in nerves near the spinal cord or along nerves elsewhere in the body. Some people with neurofibromatosis type 1 develop cancerous tumors that grow along nerves. These tumors, which usually develop in adolescence or adulthood, are called malignant peripheral nerve sheath tumors. People with neurofibromatosis type 1 also have an increased risk of developing other cancers, including brain tumors and cancer of blood-forming tissue (leukemia).  During childhood, benign growths called Lisch nodules often appear in the colored part of the eye (the iris). Lisch nodules do not interfere with vision. Some affected individuals also develop tumors that grow along the nerve leading from the eye to the brain (the optic nerve). These tumors, which are called optic gliomas, may lead to reduced vision or total vision loss. In some cases, optic gliomas have no effect on vision.  Additional signs and symptoms of neurofibromatosis type 1 include high blood pressure (hypertension), short stature, an unusually large head (macrocephaly), and skeletal abnormalities such as an abnormal curvature of the spine (scoliosis). Although most people with neurofibromatosis type 1 have normal intelligence, learning disabilities and attention deficit hyperactivity disorder (ADHD) occur frequently in affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000724-2" qtype="frequency">How many people are affected by neurofibromatosis type 1 ?</Question>
+			<Answer>Neurofibromatosis type 1 occurs in 1 in 3,000 to 4,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000724-3" qtype="genetic changes">What are the genetic changes related to neurofibromatosis type 1 ?</Question>
+			<Answer>Mutations in the NF1 gene cause neurofibromatosis type 1.  The NF1 gene provides instructions for making a protein called neurofibromin. This protein is produced in many cells, including nerve cells and specialized cells surrounding nerves (oligodendrocytes and Schwann cells). Neurofibromin acts as a tumor suppressor, which means that it keeps cells from growing and dividing too rapidly or in an uncontrolled way. Mutations in the NF1 gene lead to the production of a nonfunctional version of neurofibromin that cannot regulate cell growth and division. As a result, tumors such as neurofibromas can form along nerves throughout the body. It is unclear how mutations in the NF1 gene lead to the other features of neurofibromatosis type 1, such as caf-au-lait spots and learning disabilities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000724-4" qtype="inheritance">Is neurofibromatosis type 1 inherited ?</Question>
+			<Answer>Neurofibromatosis type 1 is considered to have an autosomal dominant pattern of inheritance. People with this condition are born with one mutated copy of the NF1 gene in each cell. In about half of cases, the altered gene is inherited from an affected parent. The remaining cases result from new mutations in the NF1 gene and occur in people with no history of the disorder in their family.  Unlike most other autosomal dominant conditions, in which one altered copy of a gene in each cell is sufficient to cause the disorder, two copies of the NF1 gene must be altered to trigger tumor formation in neurofibromatosis type 1. A mutation in the second copy of the NF1 gene occurs during a person&apos;s lifetime in specialized cells surrounding nerves. Almost everyone who is born with one NF1 mutation acquires a second mutation in many cells and develops the tumors characteristic of neurofibromatosis type 1.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000724-5" qtype="treatment">What are the treatments for neurofibromatosis type 1 ?</Question>
+			<Answer>These resources address the diagnosis or management of neurofibromatosis type 1:  - Gene Review: Gene Review: Neurofibromatosis 1  - Genetic Testing Registry: Neurofibromatosis, type 1  - MedlinePlus Encyclopedia: Neurofibromatosis-1   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

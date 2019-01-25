@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000543" source="GARD" url="https://rarediseases.info.nih.gov/gard/8466/autoimmune-polyglandular-syndrome-type-1">
+<Focus>Autoimmune polyglandular syndrome type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C0085859</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>APS 1</Synonym>
+		<Synonym>Autoimmune polyendocrine syndrome type 1</Synonym>
+		<Synonym>Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED)</Synonym>
+		<Synonym>Hypoadrenocorticism with hypoparathyroidism and superficial moniliasis</Synonym>
+		<Synonym>Autoimmune polyendocrinopathy syndrome type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000543-1" qtype="information">What is (are) Autoimmune polyglandular syndrome type 1 ?</Question>
+			<Answer>Autoimmune polyglandular syndrome type 1 is an inherited autoimmune condition that affects many of the body&apos;s organs. Symptoms often begin in childhood or adolescence and may include mucocutaneous candidiasis, hypoparathyroidism, and Addison disease. Affected individuals typically have at least two of these features, and many have all three. This syndrome can cause a variety of additional signs and symptoms, although they occur less often. Complications of this disorder can affect the skin and nails, the gonads (ovaries and testicles), the eyes, the thyroid, and the digestive system. Type 1 diabetes also occurs in some patients with this condition. Mutations in the AIRE gene cause autoimmune polyglandular syndrome, type 1. This condition is inherited in an autosomal recessive fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000543-2" qtype="symptoms">What are the symptoms of Autoimmune polyglandular syndrome type 1 ?</Question>
+			<Answer>What are the signs and symptoms of Autoimmune polyglandular syndrome type 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Autoimmune polyglandular syndrome type 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of calcium-phosphate metabolism 90% Abnormality of the cerebral vasculature 90% Abnormality of the fingernails 90% Autoimmunity 90% Hypercortisolism 90% Hypoparathyroidism 90% Opacification of the corneal stroma 90% Photophobia 90% Primary adrenal insufficiency 90% Visual impairment 90% Cataract 50% Abnormal hair quantity 7.5% Cerebral calcification 7.5% Hypopigmented skin patches 7.5% Alopecia - Anemia - Asplenia - Autosomal dominant inheritance - Autosomal recessive inheritance - Cholelithiasis - Chronic active hepatitis - Chronic atrophic gastritis - Chronic mucocutaneous candidiasis - Diarrhea - Female hypogonadism - Hypoplasia of dental enamel - Juvenile onset - Keratoconjunctivitis - Malabsorption - Type I diabetes mellitus - Vitiligo - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

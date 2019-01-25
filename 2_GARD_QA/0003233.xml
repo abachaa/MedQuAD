@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003233" source="GARD" url="https://rarediseases.info.nih.gov/gard/8572/intervertebral-disc-disease">
+<Focus>Intervertebral disc disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0158252</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>IDD</Synonym>
+		<Synonym>Intervertebral disc degeneration</Synonym>
+		<Synonym>Degenerative disc disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003233-1" qtype="information">What is (are) Intervertebral disc disease ?</Question>
+			<Answer>Intervertebral disc disease (IDD) is a common musculoskeletal condition that primarily affects the back. It is characterized by intervertebral disc herniation and/or sciatic pain (sciatica) and is a primary cause of low back pain, affecting about 5% of individuals. Both environmental and genetic factors are thought to predispose an individual to developing the condition. Treatment for IDD may include physical therapy, pain medications, and sometimes surgical intervention such as discectomy or spinal fusion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003233-2" qtype="causes">What causes Intervertebral disc disease ?</Question>
+			<Answer>What causes intervertebral disc disease? Intervertebral disc disease (IDD) is a multifactorial disorder, which means that both genetic and environmental factors probably interact to predispose an individual to the condition. It is likely that several factors are needed for development of IDD. Factors such as occupational stress, trauma, or obesity, together with genetic alterations, may result in the structural weakness of a disc, cause a herniation, and possibly initiate a cascade of events leading to sciatica and pathological disc changes. One of the best-known environmental risk factors for IDD is vibration in occupational driving. Inflammation is also likely to play an important role in the progression of this process.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003233-3" qtype="treatment">What are the treatments for Intervertebral disc disease ?</Question>
+			<Answer>How might intervertebral disc disease be treated? In the absence of red flags, the initial approach to treatment is typically conservative and includes physical therapy and pain medications. In 90% of affected individuals, acute attacks of sciatica usually improve within 4 to 6 weeks without surgical intervention. In cases where surgical intervention is necessary, surgical procedures may include discectomy or spinal fusion.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

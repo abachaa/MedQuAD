@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000109" source="GHR" url="https://ghr.nlm.nih.gov/condition/bart-pumphrey-syndrome">
+<Focus>Bart-Pumphrey syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266004</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>knuckle pads, deafness, and leukonychia syndrome</Synonym>
+		<Synonym>knuckle pads, leukonychia, and sensorineural deafness</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000109-1" qtype="information">What is (are) Bart-Pumphrey syndrome ?</Question>
+			<Answer>Bart-Pumphrey syndrome is characterized by nail and skin abnormalities and hearing loss.  People with Bart-Pumphrey syndrome typically have a white discoloration of the nails (leukonychia); the nails may also be thick and crumbly. Affected individuals often have wart-like (verrucous) skin growths called knuckle pads on the knuckles of the fingers and toes. They may also have thickening of the skin on the palms of the hands and soles of the feet (palmoplantar keratoderma). The skin abnormalities generally become noticeable during childhood.  The hearing loss associated with Bart-Pumphrey syndrome ranges from moderate to profound and is typically present from birth (congenital).  The signs and symptoms of this disorder may vary even within the same family; while almost all affected individuals have hearing loss, they may have different combinations of the other associated features.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000109-2" qtype="frequency">How many people are affected by Bart-Pumphrey syndrome ?</Question>
+			<Answer>Bart-Pumphrey syndrome is a rare disorder; its exact prevalence is unknown. Only a few affected families and individual cases have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000109-3" qtype="genetic changes">What are the genetic changes related to Bart-Pumphrey syndrome ?</Question>
+			<Answer>Bart-Pumphrey syndrome is caused by mutations in the GJB2 gene. This gene provides instructions for making a protein called gap junction beta 2, more commonly known as connexin 26. Connexin 26 is a member of the connexin protein family. Connexin proteins form channels called gap junctions that permit the transport of nutrients, charged atoms (ions), and signaling molecules between neighboring cells that are in contact with each other. Gap junctions made with connexin 26 transport potassium ions and certain small molecules.  Connexin 26 is found in cells throughout the body, including the inner ear and the skin. In the inner ear, channels made from connexin 26 are found in a snail-shaped structure called the cochlea. These channels may help to maintain the proper level of potassium ions required for the conversion of sound waves to electrical nerve impulses. This conversion is essential for normal hearing. In addition, connexin 26 may be involved in the maturation of certain cells in the cochlea. Connexin 26 also plays a role in the growth, maturation, and stability of the outermost layer of skin (the epidermis).  The GJB2 gene mutations that cause Bart-Pumphrey syndrome change single protein building blocks (amino acids) in the connexin 26 protein. The altered protein probably disrupts the function of normal connexin 26 in cells, and may interfere with the function of other connexin proteins. This disruption could affect skin growth and also impair hearing by disturbing the conversion of sound waves to nerve impulses.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000109-4" qtype="inheritance">Is Bart-Pumphrey syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000109-5" qtype="treatment">What are the treatments for Bart-Pumphrey syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Bart-Pumphrey syndrome:  - Foundation for Ichthyosis and Related Skin Types: Palmoplantar Keratoderma  - Genetic Testing Registry: Knuckle pads, deafness AND leukonychia syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

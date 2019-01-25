@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001102" source="GHR" url="https://ghr.nlm.nih.gov/condition/8p11-myeloproliferative-syndrome">
+<Focus>8p11 myeloproliferative syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2827362</CUI>
+			<CUI>C1443043</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>8p11 stem cell leukemia/lymphoma syndrome</Synonym>
+		<Synonym>8p11 stem cell syndrome</Synonym>
+		<Synonym>myeloid and lymphoid neoplasms with FGFR1 abnormalities</Synonym>
+		<Synonym>stem cell leukemia/lymphoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001102-1" qtype="information">What is (are) 8p11 myeloproliferative syndrome ?</Question>
+			<Answer>8p11 myeloproliferative syndrome is a blood cancer that involves different types of blood cells. Blood cells are divided into several groups (lineages) based on the type of early cell from which they are descended. Two of these lineages are myeloid cells and lymphoid cells. Individuals with 8p11 myeloproliferative syndrome can develop both myeloid cell cancer and lymphoid cell cancer.  The condition can occur at any age. It usually begins as a myeloproliferative disorder, which is characterized by a high number of white blood cells (leukocytes). Most affected individuals also have an excess of myeloid cells known as eosinophils (eosinophilia).  In addition to a myeloproliferative disorder, many people with 8p11 myeloproliferative syndrome develop lymphoma, which is a form of blood cancer that involves lymphoid cells. The cancerous lymphoid cells grow and divide in lymph nodes, forming a tumor that enlarges the lymph nodes. In most cases of 8p11 myeloproliferative syndrome, the cancerous cells are lymphoid cells called T cells. Lymphoma can develop at the same time as the myeloproliferative disorder or later.  In most people with 8p11 myeloproliferative syndrome, the myeloproliferative disorder develops into a fast-growing blood cancer called acute myeloid leukemia.  The rapid myeloid and lymphoid cell production caused by these cancers results in enlargement of the spleen and liver (splenomegaly and hepatomegaly, respectively). Most people with 8p11 myeloproliferative syndrome have symptoms such as fatigue or night sweats. Some affected individuals have no symptoms, and the condition is discovered through routine blood tests.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001102-2" qtype="frequency">How many people are affected by 8p11 myeloproliferative syndrome ?</Question>
+			<Answer>The prevalence of 8p11 myeloproliferative syndrome is unknown. It is thought to be a rare condition.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001102-3" qtype="genetic changes">What are the genetic changes related to 8p11 myeloproliferative syndrome ?</Question>
+			<Answer>8p11 myeloproliferative syndrome is caused by rearrangements of genetic material (translocations) between two chromosomes. All of the translocations that cause this condition involve the FGFR1 gene, which is found on the short (p) arm of chromosome 8 at a position described as p11. The translocations lead to fusion of part of the FGFR1 gene with part of another gene; the most common partner gene is ZMYM2 on chromosome 13. These genetic changes are found only in cancer cells.  The protein normally produced from the FGFR1 gene can trigger a cascade of chemical reactions that instruct the cell to undergo certain changes, such as growing and dividing. This signaling is turned on when the FGFR1 protein interacts with growth factors. In contrast, when the FGFR1 gene is fused with another gene, FGFR1 signaling is turned on without the need for stimulation by growth factors. The uncontrolled signaling promotes continuous cell growth and division, leading to cancer.  Researchers believe the mutations that cause this condition occur in a very early blood cell called a stem cell that has the ability to mature into either a myeloid cell or a lymphoid cell. For this reason, this condition is sometimes referred to as stem cell leukemia/lymphoma.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001102-4" qtype="inheritance">Is 8p11 myeloproliferative syndrome inherited ?</Question>
+			<Answer>This condition is generally not inherited but arises from a mutation in the body&apos;s cells that occurs after conception. This alteration is called a somatic mutation.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001102-5" qtype="treatment">What are the treatments for 8p11 myeloproliferative syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of 8p11 myeloproliferative syndrome:  - Cancer.Net from the American Society of Clinical Oncology: Acute Myeloid Leukemia Diagnosis  - Cancer.Net from the American Society of Clinical Oncology: Acute Myeloid Leukemia Treatment Options  - Cancer.Net from the American Society of Clinical Oncology: Non-Hodgkin Lymphoma Diagnosis  - Cancer.Net from the American Society of Clinical Oncology: Non-Hodgkin Lymphoma Treatment Options  - Genetic Testing Registry: Chromosome 8p11 myeloproliferative syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

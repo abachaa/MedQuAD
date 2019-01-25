@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002786" source="GARD" url="https://rarediseases.info.nih.gov/gard/10418/hemophilia">
+<Focus>Hemophilia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0684275</CUI>
+			<CUI>C0019069</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acquired hemophilia A</Synonym>
+		<Synonym>Hemophilia A</Synonym>
+		<Synonym>Hemophilia B</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002786-1" qtype="information">What is (are) Hemophilia ?</Question>
+			<Answer>Hemophilia is a bleeding disorder that slows the blood clotting process. People with this disorder experience prolonged bleeding following an injury, surgery, or having a tooth pulled. In severe cases, heavy bleeding occurs after minor trauma or in the absence of injury. Serious complications can result from bleeding into the joints, muscles, brain, or other internal organs. The major types of this disorder are hemophilia A and hemophilia B. Although the two types have very similar signs and symptoms, they are caused by mutations in different genes. People with an unusual form of hemophilia B, known as hemophilia B Leyden, experience episodes of excessive bleeding in childhood, but have few bleeding problems after puberty. Another form of the disorder, acquired hemophilia, is not caused by inherited gene mutations.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

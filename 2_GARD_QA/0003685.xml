@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003685" source="GARD" url="https://rarediseases.info.nih.gov/gard/5742/lung-adenocarcinoma">
+<Focus>Lung adenocarcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152013</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003685-1" qtype="information">What is (are) Lung adenocarcinoma ?</Question>
+			<Answer>Lung adenocarcinoma is a cancer that occurs due to abnormal and uncontrolled cell growth in the lungs. It is a subtype of non-small cell lung cancer that is often diagnosed in an outer area of the lung. Early lung cancers may not be associated with any signs and symptoms. As the condition progresses, affected people can experience chest pain, a persistent cough, fatigue, coughing up blood, loss of appetite, unexplained weight loss, shortness of breath, and/or wheezing. The underlying cause of lung adenocarcinoma is generally unknown; however, risk factors for developing a lung cancer include smoking; exposure to secondhand smoke and other toxic chemicals; a family history of lung cancer; previous radiation treatment to the chest or breast; and HIV infection. Treatment varies based on the severity of the condition, the associated signs and symptoms and the affected person&apos;s overall health. It may include a combination of surgery, radiation therapy, chemotherapy, targeted therapy, and/or watchful waiting.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003685-2" qtype="symptoms">What are the symptoms of Lung adenocarcinoma ?</Question>
+			<Answer>What are the signs and symptoms of Lung adenocarcinoma? The Human Phenotype Ontology provides the following list of signs and symptoms for Lung adenocarcinoma. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Alveolar cell carcinoma - Autosomal recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

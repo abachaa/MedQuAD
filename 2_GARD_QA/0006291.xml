@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006291" source="GARD" url="https://rarediseases.info.nih.gov/gard/7837/urea-cycle-disorders">
+<Focus>Urea cycle disorders</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0154246</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>UCD</Synonym>
+		<Synonym>Adult-onset citrullinemia type II</Synonym>
+		<Synonym>Arginase deficiency</Synonym>
+		<Synonym>Argininosuccinic aciduria</Synonym>
+		<Synonym>Carbamoyl phosphate synthetase 1 deficiency</Synonym>
+		<Synonym>Citrullinemia type I</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006291-1" qtype="information">What is (are) Urea cycle disorders ?</Question>
+			<Answer>A urea cycle disorder is a genetic disorder that results in a deficiency of one of the six enzymes in the urea cycle. These enzymes are responsible for removing ammonia from the blood stream. The urea cycle involves a series of biochemical steps in which nitrogen, a waste product of protein metabolism, is changed to a compound called urea and removed from the blood. Normally, the urea is removed from the body through the urine. In urea cycle disorders, nitrogen builds up in the blood in the form of ammonia, a highly toxic substance, resulting in hyperammonemia (elevated blood ammonia). Ammonia then reaches the brain through the blood, where it can cause irreversible brain damage, coma and/or death. The onset and severity of urea cycle disorders is highly variable. The severity correlates with the amount of urea cycle enzyme function.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

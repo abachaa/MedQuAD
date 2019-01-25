@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000117" source="GHR" url="https://ghr.nlm.nih.gov/condition/benign-familial-neonatal-seizures">
+<Focus>benign familial neonatal seizures</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220669</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>benign familial neonatal convulsions</Synonym>
+		<Synonym>benign familial neonatal epilepsy</Synonym>
+		<Synonym>benign neonatal convulsions</Synonym>
+		<Synonym>benign neonatal epilepsy</Synonym>
+		<Synonym>BFNS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000117-1" qtype="information">What is (are) benign familial neonatal seizures ?</Question>
+			<Answer>Benign familial neonatal seizures (BFNS) is a condition characterized by recurrent seizures in newborn babies. The seizures begin around day 3 of life and usually go away within 1 to 4 months. The seizures can involve only one side of the brain (focal seizures) or both sides (generalized seizures). Many infants with this condition have generalized tonic-clonic seizures (also known as grand mal seizures). This type of seizure involves both sides of the brain and affects the entire body, causing muscle rigidity, convulsions, and loss of consciousness.  A test called an electroencephalogram (EEG) is used to measure the electrical activity of the brain. Abnormalities on an EEG test, measured during no seizure activity, can indicate a risk for seizures. However, infants with BFNS usually have normal EEG readings. In some affected individuals, the EEG shows a specific abnormality called the theta pointu alternant pattern. By age 2, most affected individuals who had EEG abnormalities have a normal EEG reading.  Typically, seizures are the only symptom of BFNS, and most people with this condition develop normally. However, some affected individuals develop intellectual disability that becomes noticeable in early childhood. A small percentage of people with BFNS also have a condition called myokymia, which is an involuntary rippling movement of the muscles. In addition, in about 15 percent of people with BFNS, recurrent seizures (epilepsy) will come back later in life after the seizures associated with BFNS have gone away. The age that epilepsy begins is variable.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000117-2" qtype="frequency">How many people are affected by benign familial neonatal seizures ?</Question>
+			<Answer>Benign familial neonatal seizures occurs in approximately 1 in 100,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000117-3" qtype="genetic changes">What are the genetic changes related to benign familial neonatal seizures ?</Question>
+			<Answer>Mutations in two genes, KCNQ2 and KCNQ3, have been found to cause BFNS. Mutations in the KCNQ2 gene are a much more common cause of the condition than mutations in the KCNQ3 gene.  The KCNQ2 and KCNQ3 genes provide instructions for making proteins that interact to form potassium channels. Potassium channels, which transport positively charged atoms (ions) of potassium into and out of cells, play a key role in a cell&apos;s ability to generate and transmit electrical signals.  Channels made with the KCNQ2 and KCNQ3 proteins are active in nerve cells (neurons) in the brain, where they transport potassium ions out of cells. These channels transmit a particular type of electrical signal called the M-current, which prevents the neuron from continuing to send signals to other neurons. The M-current ensures that the neuron is not constantly active, or excitable.  Mutations in the KCNQ2 or KCNQ3 gene result in a reduced or altered M-current, which leads to excessive excitability of neurons. Seizures develop when neurons in the brain are abnormally excited. It is unclear why the seizures stop around the age of 4 months. It has been suggested that potassium channels formed from the KCNQ2 and KCNQ3 proteins play a major role in preventing excessive excitability of neurons in newborns, but other mechanisms develop during infancy.  About 70 percent of people with BFNS have a mutation in either the KCNQ2 or the KCNQ3 gene. Researchers are working to identify other gene mutations involved in this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000117-4" qtype="inheritance">Is benign familial neonatal seizures inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the mutation from one affected parent. A few cases result from new mutations in the KCNQ2 gene. These cases occur in people with no history of benign familial neonatal seizures in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000117-5" qtype="treatment">What are the treatments for benign familial neonatal seizures ?</Question>
+			<Answer>These resources address the diagnosis or management of BFNS:  - Boston Children&apos;s Hospital: My Child Has...Seizures and Epilepsy  - Epilepsy Action: Benign Neonatal Convulsions  - Gene Review: Gene Review: KCNQ2-Related Disorders  - Gene Review: Gene Review: KCNQ3-Related Disorders  - Genetic Testing Registry: Benign familial neonatal seizures  - Genetic Testing Registry: Benign familial neonatal seizures 1  - Genetic Testing Registry: Benign familial neonatal seizures 2  - MedlinePlus Encyclopedia: EEG   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

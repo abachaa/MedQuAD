@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000231" source="GHR" url="https://ghr.nlm.nih.gov/condition/congenital-insensitivity-to-pain">
+<Focus>congenital insensitivity to pain</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002768</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>asymbolia for pain</Synonym>
+		<Synonym>channelopathy-associated insensitivity to pain</Synonym>
+		<Synonym>CIP</Synonym>
+		<Synonym>congenital analgesia</Synonym>
+		<Synonym>congenital indifference to pain</Synonym>
+		<Synonym>congenital pain indifference</Synonym>
+		<Synonym>indifference to pain, congenital, autosomal recessive</Synonym>
+		<Synonym>pain insensitivity, congenital</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000231-1" qtype="information">What is (are) congenital insensitivity to pain ?</Question>
+			<Answer>Congenital insensitivity to pain is a condition that inhibits the ability to perceive physical pain. From birth, affected individuals never feel pain in any part of their body when injured. People with this condition can feel the difference between sharp and dull and hot and cold, but cannot sense, for example, that a hot beverage is burning their tongue. This lack of pain awareness often leads to an accumulation of wounds, bruises, broken bones, and other health issues that may go undetected. Young children with congenital insensitivity to pain may have mouth or finger wounds due to repeated self-biting and may also experience multiple burn-related injuries. These repeated injuries often lead to a reduced life expectancy in people with congenital insensitivity to pain. Many people with congenital insensitivity to pain also have a complete loss of the sense of smell (anosmia).  Congenital insensitivity to pain is considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000231-2" qtype="frequency">How many people are affected by congenital insensitivity to pain ?</Question>
+			<Answer>Congenital insensitivity to pain is a rare condition; about 20 cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000231-3" qtype="genetic changes">What are the genetic changes related to congenital insensitivity to pain ?</Question>
+			<Answer>Mutations in the SCN9A gene cause congenital insensitivity to pain. The SCN9A gene provides instructions for making one part (the alpha subunit) of a sodium channel called NaV1.7. Sodium channels transport positively charged sodium atoms (sodium ions) into cells and play a key role in a cell&apos;s ability to generate and transmit electrical signals. NaV1.7 sodium channels are found in nerve cells called nociceptors that transmit pain signals to the spinal cord and brain. The NaV1.7 channel is also found in olfactory sensory neurons, which are nerve cells in the nasal cavity that transmit smell-related signals to the brain.  The SCN9A gene mutations that cause congenital insensitivity to pain result in the production of nonfunctional alpha subunits that cannot be incorporated into NaV1.7 channels. As a result, the channels cannot be formed. The absence of NaV1.7 channels impairs the transmission of pain signals from the site of injury to the brain, causing those affected to be insensitive to pain. Loss of this channel in olfactory sensory neurons likely impairs the transmission of smell-related signals to the brain, leading to anosmia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000231-4" qtype="inheritance">Is congenital insensitivity to pain inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000231-5" qtype="treatment">What are the treatments for congenital insensitivity to pain ?</Question>
+			<Answer>These resources address the diagnosis or management of congenital insensitivity to pain:  - Genetic Testing Registry: Indifference to pain, congenital, autosomal recessive   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

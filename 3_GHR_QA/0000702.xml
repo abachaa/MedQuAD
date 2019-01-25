@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000702" source="GHR" url="https://ghr.nlm.nih.gov/condition/myoclonic-epilepsy-myopathy-sensory-ataxia">
+<Focus>myoclonic epilepsy myopathy sensory ataxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014544</CUI>
+			<CUI>C1843852</CUI>
+			<CUI>C0026848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MEMSA</Synonym>
+		<Synonym>SCAE</Synonym>
+		<Synonym>spinocerebellar ataxia with epilepsy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000702-1" qtype="information">What is (are) myoclonic epilepsy myopathy sensory ataxia ?</Question>
+			<Answer>Myoclonic epilepsy myopathy sensory ataxia, commonly called MEMSA, is part of a group of conditions called the POLG-related disorders. The conditions in this group feature a range of similar signs and symptoms involving muscle-, nerve-, and brain-related functions. The signs and symptoms of MEMSA typically appear during young adulthood. This condition had previously been known as spinocerebellar ataxia with epilepsy (SCAE).  The first symptom of MEMSA is usually cerebellar ataxia, which refers to problems with coordination and balance due to defects in the part of the brain that is involved in coordinating movement (cerebellum). Recurrent seizures (epilepsy) usually develop later, often in combination with uncontrollable muscle jerks (myoclonus). The seizures usually begin in the right arm and spread to become generalized throughout the body. Additionally, affected individuals may have severe brain dysfunction (encephalopathy) or muscle weakness (myopathy). The myopathy can affect muscles close to the center of the body (proximal), such as the muscles of the hips, thighs, upper arms, or neck, or muscles farther away from the center of the body (distal), such as the muscles of the hands or feet. The myopathy may be especially noticeable during exercise (exercise intolerance).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000702-2" qtype="frequency">How many people are affected by myoclonic epilepsy myopathy sensory ataxia ?</Question>
+			<Answer>The prevalence of myoclonic epilepsy myopathy sensory ataxia is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000702-3" qtype="genetic changes">What are the genetic changes related to myoclonic epilepsy myopathy sensory ataxia ?</Question>
+			<Answer>MEMSA is caused by mutations in the POLG gene. This gene provides instructions for making one part, the alpha subunit, of a protein called polymerase gamma (pol ). Pol  functions in mitochondria, which are structures within cells that use oxygen to convert the energy from food into a form cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA (mtDNA), which is essential for the normal function of these structures. Pol  &quot;reads&quot; sequences of mtDNA and uses them as templates to produce new copies of mtDNA in a process called DNA replication.  Most POLG gene mutations change single protein building blocks (amino acids) in the alpha subunit of pol . These changes result in a mutated pol  that has a reduced ability to replicate DNA. Although the mechanism is unknown, mutations in the POLG gene often result in fewer copies of mtDNA (mtDNA depletion), particularly in muscle, brain, or liver cells. MtDNA depletion causes a decrease in cellular energy, which could account for the signs and symptoms of MEMSA.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000702-4" qtype="inheritance">Is myoclonic epilepsy myopathy sensory ataxia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000702-5" qtype="treatment">What are the treatments for myoclonic epilepsy myopathy sensory ataxia ?</Question>
+			<Answer>These resources address the diagnosis or management of MEMSA:  - Gene Review: Gene Review: POLG-Related Disorders  - Genetic Testing Registry: Myoclonic epilepsy myopathy sensory ataxia  - United Mitochondrial Disease Foundation: Diagnosis of Mitochondrial Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

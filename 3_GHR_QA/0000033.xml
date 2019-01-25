@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000033" source="GHR" url="https://ghr.nlm.nih.gov/condition/alg12-congenital-disorder-of-glycosylation">
+<Focus>ALG12-congenital disorder of glycosylation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242354</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ALG12-CDG</Synonym>
+		<Synonym>CDG Ig</Synonym>
+		<Synonym>CDG1G</Synonym>
+		<Synonym>congenital disorder of glycosylation type 1G</Synonym>
+		<Synonym>congenital disorder of glycosylation type Ig</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000033-1" qtype="information">What is (are) ALG12-congenital disorder of glycosylation ?</Question>
+			<Answer>ALG12-congenital disorder of glycosylation (ALG12-CDG, also known as congenital disorder of glycosylation type Ig) is an inherited disorder with varying signs and symptoms that can affect several body systems. Individuals with ALG12-CDG typically develop signs and symptoms of the condition during infancy. They may have problems feeding and difficulty growing and gaining weight at the expected rate (failure to thrive). In addition, affected individuals often have intellectual disability, delayed development, and weak muscle tone (hypotonia), and some develop seizures.  Some people with ALG12-CDG have physical abnormalities such as a small head size (microcephaly) and unusual facial features. These features can include folds of skin that cover the inner corners of the eyes (epicanthal folds), a prominent nasal bridge, and abnormally shaped ears. Some males with ALG12-CDG have abnormal genitalia, such as a small penis (micropenis) and undescended testes.  People with ALG12-CDG often produce abnormally low levels of proteins called antibodies (or immunoglobulins), particularly immunoglobulin G (IgG). Antibodies help protect the body against infection by attaching to specific foreign particles and germs, marking them for destruction. A reduction in antibodies can make it difficult for affected individuals to fight infections.  Less common abnormalities seen in people with ALG12-CDG include a weakened heart muscle (cardiomyopathy) and poor bone development, which can lead to skeletal abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000033-2" qtype="frequency">How many people are affected by ALG12-congenital disorder of glycosylation ?</Question>
+			<Answer>ALG12-CDG is a rare condition; its prevalence is unknown. Only a handful of affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000033-3" qtype="genetic changes">What are the genetic changes related to ALG12-congenital disorder of glycosylation ?</Question>
+			<Answer>Mutations in the ALG12 gene cause ALG12-CDG. This gene provides instructions for making an enzyme that is involved in a process called glycosylation. During this process, complex chains of sugar molecules (oligosaccharides) are added to proteins and fats (lipids). Glycosylation modifies proteins and lipids so they can fully perform their functions. The enzyme produced from the ALG12 gene transfers a simple sugar called mannose to growing oligosaccharides at a particular step in the formation of the sugar chain. Once the correct number of sugar molecules are linked together, the oligosaccharide is attached to a protein or lipid.  ALG12 gene mutations lead to the production of an abnormal enzyme with reduced activity. Without a properly functioning enzyme, mannose cannot be added to the chain efficiently, and the resulting oligosaccharides are often incomplete. Although the short oligosaccharides can be transferred to proteins and fats, the process is not as efficient as with the full-length oligosaccharide. As a result, glycosylation is reduced. The wide variety of signs and symptoms in ALG12-CDG are likely due to impaired glycosylation of proteins and lipids that are needed for normal function of many organs and tissues, including the brain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000033-4" qtype="inheritance">Is ALG12-congenital disorder of glycosylation inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000033-5" qtype="treatment">What are the treatments for ALG12-congenital disorder of glycosylation ?</Question>
+			<Answer>These resources address the diagnosis or management of ALG12-CDG:  - Gene Review: Gene Review: Congenital Disorders of N-Linked Glycosylation Pathway Overview  - Genetic Testing Registry: Congenital disorder of glycosylation type 1G   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000611" source="GHR" url="https://ghr.nlm.nih.gov/condition/lynch-syndrome">
+<Focus>Lynch syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1333990</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cancer family syndrome</Synonym>
+		<Synonym>familial nonpolyposis colon cancer</Synonym>
+		<Synonym>hereditary nonpolyposis colorectal cancer</Synonym>
+		<Synonym>hereditary nonpolyposis colorectal neoplasms</Synonym>
+		<Synonym>HNPCC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000611-1" qtype="information">What is (are) Lynch syndrome ?</Question>
+			<Answer>Lynch syndrome, often called hereditary nonpolyposis colorectal cancer (HNPCC), is an inherited disorder that increases the risk of many types of cancer, particularly cancers of the colon (large intestine) and rectum, which are collectively referred to as colorectal cancer. People with Lynch syndrome also have an increased risk of cancers of the stomach, small intestine, liver, gallbladder ducts, upper urinary tract, brain, and skin. Additionally, women with this disorder have a high risk of cancer of the ovaries and lining of the uterus (the endometrium). People with Lynch syndrome may occasionally have noncancerous (benign) growths (polyps) in the colon, called colon polyps. In individuals with this disorder, colon polyps occur earlier but not in greater numbers than they do in the general population.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000611-2" qtype="frequency">How many people are affected by Lynch syndrome ?</Question>
+			<Answer>In the United States, about 140,000 new cases of colorectal cancer are diagnosed each year. Approximately 3 to 5 percent of these cancers are caused by Lynch syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000611-3" qtype="genetic changes">What are the genetic changes related to Lynch syndrome ?</Question>
+			<Answer>Variations in the MLH1, MSH2, MSH6, PMS2, or EPCAM gene increase the risk of developing Lynch syndrome.  The MLH1, MSH2, MSH6, and PMS2 genes are involved in the repair of mistakes that occur when DNA is copied in preparation for cell division (a process called DNA replication). Mutations in any of these genes prevent the proper repair of DNA replication mistakes. As the abnormal cells continue to divide, the accumulated mistakes can lead to uncontrolled cell growth and possibly cancer.  Mutations in the EPCAM gene also lead to impaired DNA repair, although the gene is not itself involved in this process. The EPCAM gene lies next to the MSH2 gene on chromosome 2; certain EPCAM gene mutations cause the MSH2 gene to be turned off (inactivated), interrupting DNA repair and leading to accumulated DNA mistakes.  Although mutations in these genes predispose individuals to cancer, not all people who carry these mutations develop cancerous tumors.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000611-4" qtype="inheritance">Is Lynch syndrome inherited ?</Question>
+			<Answer>Lynch syndrome cancer risk is inherited in an autosomal dominant pattern, which means one inherited copy of the altered gene in each cell is sufficient to increase cancer risk. It is important to note that people inherit an increased risk of cancer, not the disease itself. Not all people who inherit mutations in these genes will develop cancer.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000611-5" qtype="treatment">What are the treatments for Lynch syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Lynch syndrome:  - American Medical Association and National Coalition for Health Professional Education in Genetics: Understand the Basics of Genetic Testing for Hereditary Colorectal Cancer  - Gene Review: Gene Review: Lynch Syndrome  - GeneFacts: Lynch Syndrome: Management  - Genetic Testing Registry: Hereditary nonpolyposis colorectal cancer type 3  - Genetic Testing Registry: Hereditary nonpolyposis colorectal cancer type 4  - Genetic Testing Registry: Hereditary nonpolyposis colorectal cancer type 5  - Genetic Testing Registry: Hereditary nonpolyposis colorectal cancer type 8  - Genetic Testing Registry: Lynch syndrome  - Genetic Testing Registry: Lynch syndrome I  - Genetic Testing Registry: Lynch syndrome II  - Genomics Education Programme (UK)  - MedlinePlus Encyclopedia: Colon Cancer  - National Cancer Institute: Genetic Testing for Hereditary Cancer Syndromes   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

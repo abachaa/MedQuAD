@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000045" source="GARD" url="https://rarediseases.info.nih.gov/gard/8713/achondrogenesis-type-2">
+<Focus>Achondrogenesis type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220685</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACG2</Synonym>
+		<Synonym>Achondrogenesis, Langer-Saldino type</Synonym>
+		<Synonym>Langer-Saldino achondrogenesis</Synonym>
+		<Synonym>Chondrogenesis imperfecta</Synonym>
+		<Synonym>Achondrogenesis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000045-1" qtype="information">What is (are) Achondrogenesis type 2 ?</Question>
+			<Answer>Achondrogenesis is a group of severe disorders that are present from birth and affect the development of cartilage and bone. Infants with achondrogenesis usually have a small body, short arms and legs, and other skeletal abnormalities that cause life-threatening complications.  There are at least three forms of achondrogenesis, type 1A, type 1B and type 2, which are distinguished by signs and symptoms, pattern of inheritance, and the results of imaging studies such as x-rays (radiology), tissue analysis (histology), and genetic testing.  Type 1A and 1B achondrogenesis are both inherited in an autosomal recessive pattern.  Type 1B may be caused by mutations in the SLC26A2 gene.  Type 2 achondrogenesis is inherited in an autosomal dominant pattern and is caused by new (de novo) mutations in the COL2A1 gene.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000045-2" qtype="symptoms">What are the symptoms of Achondrogenesis type 2 ?</Question>
+			<Answer>What are the signs and symptoms of Achondrogenesis type 2? The Human Phenotype Ontology provides the following list of signs and symptoms for Achondrogenesis type 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of bone mineral density 90% Anteverted nares 90% Aplasia/Hypoplasia of the lungs 90% Frontal bossing 90% Hydrops fetalis 90% Long philtrum 90% Macrocephaly 90% Malar flattening 90% Micromelia 90% Narrow chest 90% Short neck 90% Short nose 90% Short stature 90% Short thorax 90% Skeletal dysplasia 90% Thickened nuchal skin fold 90% Polyhydramnios 50% Umbilical hernia 50% Cystic hygroma 7.5% Postaxial hand polydactyly 7.5% Abdominal distention - Abnormality of the foot - Absent vertebral body mineralization - Autosomal dominant inheritance - Barrel-shaped chest - Broad long bones - Cleft palate - Disproportionate short-limb short stature - Disproportionate short-trunk short stature - Edema - Horizontal ribs - Hypoplastic iliac wing - Short long bone - Short ribs - Short tubular bones (hand) - Stillbirth - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

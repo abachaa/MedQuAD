@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003687" source="GARD" url="https://rarediseases.info.nih.gov/gard/10253/lupus">
+<Focus>Lupus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0024131</CUI>
+			<CUI>C0409974</CUI>
+			<CUI>C0024138</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Systemic lupus erythematosus</Synonym>
+		<Synonym>Disseminated lupus erythematosus</Synonym>
+		<Synonym>Lupus erythematosus</Synonym>
+		<Synonym>Discoid lupus</Synonym>
+		<Synonym>Subacute cutaneous lupus</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003687-1" qtype="information">What is (are) Lupus ?</Question>
+			<Answer>Lupus is an autoimmune disease that can affect almost every organ in the body. Symptoms of lupus can range from very mild to life-threatening. There are three types of lupus; systemic lupus erythematosus, discoid lupus, and drug-induced lupus. Genetics is thought to play a role in the development of lupus along with other lifestyle and environmental factors. Studies suggest that a number of different genes may be involved in determining a persons likelihood of developing the disease, which tissues and organs are affected, and the severity of disease. The treatment of lupus depends on the severity of the condition and what parts of the body are affected. Treatment may include acetaminophen, ibuprofen, antimalarial drugs, anti-inflammatory steroids, and/or immunosuppressive drugs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003687-2" qtype="symptoms">What are the symptoms of Lupus ?</Question>
+			<Answer>What are the signs and symptoms of Lupus? You can read about the signs and symptoms of lupus from MedlinePlus and the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS). The Human Phenotype Ontology provides the following list of signs and symptoms for Lupus. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal pain 90% Abnormality of temperature regulation 90% Abnormality of the heart valves 90% Abnormality of the pericardium 90% Alopecia 90% Arthralgia 90% Arthritis 90% Autoimmunity 90% Chest pain 90% Cutaneous photosensitivity 90% Skin rash 90% Thrombocytopenia 90% Thrombophlebitis 90% Abnormal pyramidal signs 50% Abnormal tendon morphology 50% Abnormality of the autonomic nervous system 50% Abnormality of the endocardium 50% Abnormality of the pleura 50% Anorexia 50% Arterial thrombosis 50% Aseptic leukocyturia 50% Bone marrow hypocellularity 50% Conjunctival telangiectasia 50% Cranial nerve paralysis 50% Cutis marmorata 50% Dry skin 50% Eczema 50% Edema of the lower limbs 50% Glomerulopathy 50% Hallucinations 50% Hematuria 50% Hepatomegaly 50% Hyperkeratosis 50% Hypoproteinemia 50% Increased antibody level in blood 50% Increased intracranial pressure 50% Lymphadenopathy 50% Lymphopenia 50% Meningitis 50% Myalgia 50% Normocytic anemia 50% Recurrent respiratory infections 50% Renal insufficiency 50% Sleep disturbance 50% Splenomegaly 50% Weight loss 50% Xerostomia 50% Abnormal blistering of the skin 7.5% Abnormality of eosinophils 7.5% Abnormality of the myocardium 7.5% Ascites 7.5% Aseptic necrosis 7.5% Cellulitis 7.5% Cerebral ischemia 7.5% Cerebral palsy 7.5% Coronary artery disease 7.5% Diarrhea 7.5% Fatigable weakness 7.5% Feeding difficulties in infancy 7.5% Gastrointestinal infarctions 7.5% Hemiplegia/hemiparesis 7.5% Hypermelanotic macule 7.5% Inflammation of the large intestine 7.5% Memory impairment 7.5% Myositis 7.5% Nausea and vomiting 7.5% Pancreatitis 7.5% Peripheral neuropathy 7.5% Pulmonary embolism 7.5% Pulmonary hypertension 7.5% Pulmonary infiltrates 7.5% Restrictive lung disease 7.5% Retinopathy 7.5% Seizures 7.5% Skin ulcer 7.5% Subcutaneous hemorrhage 7.5% Telangiectasia of the skin 7.5% Urticaria 7.5% Vasculitis 7.5% Verrucae 7.5% Antinuclear antibody positivity - Antiphospholipid antibody positivity - Autosomal dominant inheritance - Hemolytic anemia - Leukopenia - Nephritis - Pericarditis - Pleuritis - Psychosis - Systemic lupus erythematosus - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003687-3" qtype="inheritance">Is Lupus inherited ?</Question>
+			<Answer>Is lupus inherited? The Lupus Foundation of American has a page called Is lupus hereditary? that provides a good overview. They also have a Genetics page for all of their content tagged as related to genetics. Medscape Reference has an in-depth review of the genetics of lupus that was written for healthcare professionals but can be useful to anyone looking for detailed information. You may have to register to view the article, but registration is free.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003687-4" qtype="treatment">What are the treatments for Lupus ?</Question>
+			<Answer>How might lupus be treated? For information on the treatment of lupus, you can read the National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS) publication called Handout on Health: Systemic Lupus Erythematosus. NIAMS is the primary NIH organization for research and information on lupus.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

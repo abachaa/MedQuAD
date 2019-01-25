@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000540" source="GHR" url="https://ghr.nlm.nih.gov/condition/jackson-weiss-syndrome">
+<Focus>Jackson-Weiss syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0795998</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>JWS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000540-1" qtype="information">What is (are) Jackson-Weiss syndrome ?</Question>
+			<Answer>Jackson-Weiss syndrome is a genetic disorder characterized by foot abnormalities and the premature fusion of certain skull bones (craniosynostosis). This early fusion prevents the skull from growing normally and affects the shape of the head and face.  Many of the characteristic facial features of Jackson-Weiss syndrome result from premature fusion of the skull bones. Abnormal growth of these bones leads to a misshapen skull, widely spaced eyes, and a bulging forehead.  Foot abnormalities are the most consistent features of Jackson-Weiss syndrome. The first (big) toes are short and wide, and they bend away from the other toes. Additionally, the bones of some toes may be fused together (syndactyly) or abnormally shaped. The hands are almost always normal.  People with Jackson-Weiss syndrome usually have normal intelligence and a normal life span.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000540-2" qtype="frequency">How many people are affected by Jackson-Weiss syndrome ?</Question>
+			<Answer>Jackson-Weiss syndrome is a rare genetic disorder; its incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000540-3" qtype="genetic changes">What are the genetic changes related to Jackson-Weiss syndrome ?</Question>
+			<Answer>Mutations in the FGFR2 gene cause Jackson-Weiss syndrome. This gene provides instructions for making a protein called fibroblast growth factor receptor 2. Among its multiple functions, this protein signals immature cells to become bone cells during embryonic development. A mutation in a specific part of the FGFR2 gene overstimulates signaling by the FGFR2 protein, which promotes the premature fusion of skull bones and affects the development of bones in the feet.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000540-4" qtype="inheritance">Is Jackson-Weiss syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000540-5" qtype="treatment">What are the treatments for Jackson-Weiss syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Jackson-Weiss syndrome:  - Gene Review: Gene Review: FGFR-Related Craniosynostosis Syndromes  - Genetic Testing Registry: Jackson-Weiss syndrome  - MedlinePlus Encyclopedia: Craniosynostosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

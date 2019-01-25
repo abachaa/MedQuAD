@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000705" source="GHR" url="https://ghr.nlm.nih.gov/condition/myofibrillar-myopathy">
+<Focus>myofibrillar myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2678065</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>myofibrillar myopathies</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000705-1" qtype="information">What is (are) myofibrillar myopathy ?</Question>
+			<Answer>Myofibrillar myopathy is part of a group of disorders called muscular dystrophies that affect muscle function and cause weakness. Myofibrillar myopathy primarily affects skeletal muscles, which are muscles that the body uses for movement. In some cases, the heart (cardiac) muscle is also affected.  The signs and symptoms of myofibrillar myopathy vary widely among affected individuals, typically depending on the condition&apos;s genetic cause. Most people with this disorder begin to develop muscle weakness (myopathy) in mid-adulthood. However, features of this condition can appear anytime between infancy and late adulthood. Muscle weakness most often begins in the hands and feet (distal muscles), but some people first experience weakness in the muscles near the center of the body (proximal muscles). Other affected individuals develop muscle weakness throughout their body. Facial muscle weakness can cause swallowing and speech difficulties. Muscle weakness worsens over time.  Other signs and symptoms of myofibrillar myopathy can include a weakened heart muscle (cardiomyopathy), muscle pain (myalgia), loss of sensation and weakness in the limbs (peripheral neuropathy), and respiratory failure. Individuals with this condition may have skeletal problems including joint stiffness (contractures) and abnormal side-to-side curvature of the spine (scoliosis). Rarely, people with this condition develop clouding of the lens of the eyes (cataracts).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000705-2" qtype="frequency">How many people are affected by myofibrillar myopathy ?</Question>
+			<Answer>The prevalence of myofibrillar myopathy is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000705-3" qtype="genetic changes">What are the genetic changes related to myofibrillar myopathy ?</Question>
+			<Answer>Mutations in several genes can cause myofibrillar myopathy. These genes provide instructions for making proteins that play important roles in muscle fibers. Within muscle fibers, these proteins are involved in the assembly of structures called sarcomeres. Sarcomeres are necessary for muscles to tense (contract). The proteins associated with myofibrillar myopathy are normally active on rod-like structures within the sarcomere called Z-discs. Z-discs link neighboring sarcomeres together to form myofibrils, the basic unit of muscle fibers. The linking of sarcomeres and formation of myofibrils provide strength for muscle fibers during repeated muscle contraction and relaxation.  Gene mutations that cause myofibrillar myopathy disrupt the function of skeletal and cardiac muscle. Various muscle proteins form clumps (aggregates) in the muscle fibers of affected individuals. The aggregates prevent these proteins from functioning normally, which reduces linking between neighboring sarcomeres. As a result, muscle fiber strength is diminished.  At least six genes have been associated with myofibrillar myopathy. Mutations in these six genes account for approximately half of all cases of this condition. Mutations in the DES, MYOT, and LDB3 genes are responsible for the majority of cases of myofibrillar myopathy when the genetic cause is known.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000705-4" qtype="inheritance">Is myofibrillar myopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000705-5" qtype="treatment">What are the treatments for myofibrillar myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of myofibrillar myopathy:  - Gene Review: Gene Review: Myofibrillar Myopathy  - Genetic Testing Registry: Alpha-B crystallinopathy  - Genetic Testing Registry: Myofibrillar myopathy  - Genetic Testing Registry: Myofibrillar myopathy 1  - Genetic Testing Registry: Myofibrillar myopathy, BAG3-related  - Genetic Testing Registry: Myofibrillar myopathy, ZASP-related  - Genetic Testing Registry: Myofibrillar myopathy, filamin C-related  - Genetic Testing Registry: Myotilinopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

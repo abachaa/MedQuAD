@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000434" source="GHR" url="https://ghr.nlm.nih.gov/condition/gracile-syndrome">
+<Focus>GRACILE syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1864002</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Fellman syndrome</Synonym>
+		<Synonym>Finnish lactic acidosis with hepatic hemosiderosis</Synonym>
+		<Synonym>Finnish lethal neonatal metabolic syndrome</Synonym>
+		<Synonym>growth retardation, amino aciduria, cholestasis, iron overload, lactic acidosis, and early death</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000434-1" qtype="information">What is (are) GRACILE syndrome ?</Question>
+			<Answer>GRACILE syndrome is a severe disorder that begins before birth. GRACILE stands for the condition&apos;s characteristic features: growth retardation, aminoaciduria, cholestasis, iron overload, lactic acidosis, and early death.  In GRACILE syndrome, growth before birth is slow (intrauterine growth retardation). Affected newborns are smaller than average and have an inability to grow and gain weight at the expected rate (failure to thrive). A characteristic of GRACILE syndrome is excess iron in the liver, which likely begins before birth. Iron levels may begin to improve after birth, although they typically remain elevated. Within the first day of life, infants with GRACILE syndrome have a buildup of a chemical called lactic acid in the body (lactic acidosis). They also have kidney problems that lead to an excess of molecules called amino acids in the urine (aminoaciduria). Babies with GRACILE syndrome have cholestasis, which is a reduced ability to produce and release a digestive fluid called bile. Cholestasis leads to irreversible liver disease (cirrhosis) in the first few months of life.  Because of the severe health problems caused by GRACILE syndrome, infants with this condition do not survive for more than a few months, and about half die within a few days of birth.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000434-2" qtype="frequency">How many people are affected by GRACILE syndrome ?</Question>
+			<Answer>GRACILE syndrome is found almost exclusively in Finland, where it is estimated to affect 1 in 47,000 infants. At least 32 affected infants have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000434-3" qtype="genetic changes">What are the genetic changes related to GRACILE syndrome ?</Question>
+			<Answer>GRACILE syndrome is caused by a mutation in the BCS1L gene. The protein produced from this gene is found in cell structures called mitochondria, which convert the energy from food into a form that cells can use. In mitochondria, the BCS1L protein plays a role in oxidative phosphorylation, which is a multistep process through which cells derive much of their energy. The BCS1L protein is critical for the formation of a group of proteins known as complex III, which is one of several protein complexes involved in oxidative phosphorylation.  The genetic change involved in GRACILE syndrome alters the BCS1L protein, and the abnormal protein is broken down more quickly than the normal protein. What little protein remains is able to help form some complete complex III, although the amount is severely reduced, particularly in the liver and kidneys. As a result, complex III activity and oxidative phosphorylation are decreased in these organs in people with GRACILE syndrome. Without energy, these organs become damaged, leading to many of the features of GRACILE syndrome. It is not clear why a change in the BCS1L gene leads to iron accumulation in people with this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000434-4" qtype="inheritance">Is GRACILE syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000434-5" qtype="treatment">What are the treatments for GRACILE syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of GRACILE syndrome:  - Genetic Testing Registry: GRACILE syndrome  - MedlinePlus Encyclopedia: Aminoaciduria  - MedlinePlus Encyclopedia: Cholestasis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

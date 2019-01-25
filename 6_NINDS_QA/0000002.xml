@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000002" source="NINDS" url="http://www.ninds.nih.gov/disorders/acid_lipase/acid_lipase.htm">
+<Focus>Acid Lipase Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2936797</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000002-1" qtype="information">What is (are) Acid Lipase Disease ?</Question>
+			<Answer>Acid lipase disease or deficiency occurs when the enzyme needed to break down certain fats that are normally digested by the body is lacking or missing, resulting in the toxic buildup of these fats in the bodys cells and tissues. These fatty substances, called lipids, include fatty acids, oils, and cholesterol. Two rare lipid storage diseases are caused by the deficiency of the enzyme lysosomal acid lipase:
+                
+Wolmans disease (also known as acid lipase deficiency) is an autosomal recessive disorder marked by the buildup of cholesteryl esters (normally a tranport form of cholesterol that brings nutrients into the cells and carries out waste) and triglycerides (a chemical form in which fats exist in the body). Infants with the disorder appear normal at birth but quickly develop progressive mental deterioration, low muscle tone,enlarged liver and grossly enlarged spleen, gastrointestinal problems including an excessive amount of fats in the stools, jaundice, anemia, vomiting, and calcium deposits in the adrenal glands, which causes them to harden. Both male and female infants are affected by the disorder.
+                
+Cholesteryl ester storage disease (CESD) is an extremely rare disorder that results from storage of cholesteryl esters and triglycerides in cells in the blood and lymph and lymphoid tissue. Children develop an enlarged liver, leading to cirrhosis and chronic liver failure before adulthood. Children may also develop calcium deposits in the adrenal glands and jaundice. Onset varies, and the disorder may not be diagnosed until adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000002-2" qtype="treatment">What are the treatments for Acid Lipase Disease ?</Question>
+			<Answer>Enzyme replacement therapy for both Wolman&apos;s and cholesteryl ester storage disease is currently under investigation. Certain drugs may be given to help with adrenal gland production, and children may need to be fed intravenously. Individuals with CESD may benefit from a low cholesterol diet.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000002-3" qtype="outlook">What is the outlook for Acid Lipase Disease ?</Question>
+			<Answer>Wolmans disease is usually fatal by age 1. The onset and course of cholesteryl ester storage disease varies, and individuals may live into adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000002-4" qtype="research">what research (or clinical trials) is being done for Acid Lipase Disease ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge abut the brain and nervous system, and to use that knowledge to reduce the burden of neurological diseaset. The NINDS conducts and supports research to understand lipid storage diseases such as acid lipase deficiency. Additional research studies hope to identify biomarkers (signs that may indicate risk of a disease and improve diagnosis) for thee lipid storage diseases that will speed the development of novel therapeutics for these disorders. Other investigators hope to establish an international disease registry designed to collect longitudinal data that would be used to improve the care and treatment of individuals with lysosomal acid lipase deficiency.
+                
+The National Library of Medicine (NLM), a part of the National Institutes of Health (NIH) within the U.S. Department of Health and Human Services, offers free searches of biomedical literature through an Internet service called PubMed. To search, go to: http://www.ncbi.nlm.nih.gov/PubMed . The NLM also offers extensive health information from NIH and other trusted sources. To research your condition, go to: http://www.medlineplus.gov .</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

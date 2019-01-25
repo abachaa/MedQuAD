@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000021_2" source="CancerGov" url="https://www.cancer.gov/types/testicular/patient/testicular-screening-pdq">
+<Focus>Testicular Cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0153594</CUI>
+			<CUI>C0855197</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000021_2-1" qtype="information">What is (are) Testicular Cancer ?</Question>
+			<Answer>Key Points
+                    - Testicular cancer is a disease in which malignant (cancer) cells form in the tissues of one or both testicles.    - Testicular cancer is the most common cancer in men aged 15 to 34 years.    - Testicular cancer can usually be cured.    - A condition called cryptorchidism (an undescended testicle) is a risk factor for testicular cancer.
+                
+                
+                    Testicular cancer is a disease in which malignant (cancer) cells form in the tissues of one or both testicles.
+                    The testicles are 2 egg-shaped glands inside the scrotum (a sac of loose skin that lies directly below the penis). The testicles are held within the scrotum by the spermatic cord. The spermatic cord also contains the vas deferens and vessels and nerves of the testicles.     The testicles are the male sex glands and make testosterone and sperm. Germ cells in the testicles make immature sperm. These sperm travel through a network of tubules (tiny tubes) and larger tubes into the epididymis (a long coiled tube next to the testicles). This is where the sperm mature and are stored.   Almost all testicular cancers start in the germ cells. The two main types of testicular germ cell tumors are seminomas and nonseminomas.    See the PDQ summary on Testicular Cancer Treatment for more information about testicular cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000021_2-2" qtype="susceptibility">Who is at risk for Testicular Cancer? ?</Question>
+			<Answer>Testicular cancer is the most common cancer in men aged 15 to 34 years. Testicular cancer is very rare, but it is the most common cancer found in men between the ages of 15 and 34. White men are four times more likely than black men to have testicular cancer</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000021_2-3" qtype="outlook">What is the outlook for Testicular Cancer ?</Question>
+			<Answer>Testicular cancer can usually be cured. Although the number of new cases of testicular cancer has doubled in the last 40 years, the number of deaths caused by testicular cancer has decreased greatly because of better treatments. Testicular cancer can usually be cured, even in late stages of the disease. (See the PDQ summary on Testicular Cancer Treatment for more information.)</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000021_2-4" qtype="susceptibility">Who is at risk for Testicular Cancer? ?</Question>
+			<Answer>A condition called cryptorchidism (an undescended testicle) is a risk factor for testicular cancer. Anything that increases the chance of getting a disease is called a risk factor. Having a risk factor does not mean that you will get cancer; not having risk factors doesn&apos;t mean that you will not get cancer. Talk to your doctor if you think you may be at risk. Risk factors for testicular cancer include the following:          - Having cryptorchidism (an undescended testicle).    - Having a testicle that is not normal, such as a small testicle that does not work the way it should.    - Having testicular carcinoma in situ.    - Being white.    - Having a personal or family history of testicular cancer.    - Having Klinefelter syndrome.        Men who have cryptorchidism, a testicle that is not normal, or testicular carcinoma in situ have an increased risk of testicular cancer in one or both testicles, and need to be followed closely.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

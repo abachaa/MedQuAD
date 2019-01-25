@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000055" source="GHR" url="https://ghr.nlm.nih.gov/condition/androgen-insensitivity-syndrome">
+<Focus>androgen insensitivity syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0936016</CUI>
+			<CUI>C0039585</CUI>
+			<CUI>C0237677</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AIS</Synonym>
+		<Synonym>Androgen receptor deficiency</Synonym>
+		<Synonym>Androgen resistance syndrome</Synonym>
+		<Synonym>AR deficiency</Synonym>
+		<Synonym>DHTR deficiency</Synonym>
+		<Synonym>Dihydrotestosterone receptor deficiency</Synonym>
+		<Synonym>Testicular feminization</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000055-1" qtype="information">What is (are) androgen insensitivity syndrome ?</Question>
+			<Answer>Androgen insensitivity syndrome is a condition that affects sexual development before birth and during puberty. People with this condition are genetically male, with one X chromosome and one Y chromosome in each cell. Because their bodies are unable to respond to certain male sex hormones (called androgens), they may have mostly female sex characteristics or signs of both male and female sexual development.  Complete androgen insensitivity syndrome occurs when the body cannot use androgens at all. People with this form of the condition have the external sex characteristics of females, but do not have a uterus and therefore do not menstruate and are unable to conceive a child (infertile). They are typically raised as females and have a female gender identity. Affected individuals have male internal sex organs (testes) that are undescended, which means they are abnormally located in the pelvis or abdomen. Undescended testes can become cancerous later in life if they are not surgically removed. People with complete androgen insensitivity syndrome also have sparse or absent hair in the pubic area and under the arms.  The partial and mild forms of androgen insensitivity syndrome result when the body&apos;s tissues are partially sensitive to the effects of androgens. People with partial androgen insensitivity (also called Reifenstein syndrome) can have normal female sex characteristics, both male and female sex characteristics, or normal male sex characteristics. They may be raised as males or as females, and may have a male or a female gender identity. People with mild androgen insensitivity are born with male sex characteristics, but are often infertile and tend to experience breast enlargement at puberty.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000055-2" qtype="frequency">How many people are affected by androgen insensitivity syndrome ?</Question>
+			<Answer>Complete androgen insensitivity syndrome affects 2 to 5 per 100,000 people who are genetically male. Partial androgen insensitivity is thought to be at least as common as complete androgen insensitivity. Mild androgen insensitivity is much less common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000055-3" qtype="genetic changes">What are the genetic changes related to androgen insensitivity syndrome ?</Question>
+			<Answer>Mutations in the AR gene cause androgen insensitivity syndrome. This gene provides instructions for making a protein called an androgen receptor. Androgen receptors allow cells to respond to androgens, which are hormones (such as testosterone) that direct male sexual development. Androgens and androgen receptors also have other important functions in both males and females, such as regulating hair growth and sex drive. Mutations in the AR gene prevent androgen receptors from working properly, which makes cells less responsive to androgens or prevents cells from using these hormones at all. Depending on the level of androgen insensitivity, an affected person&apos;s sex characteristics can vary from mostly female to mostly male.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000055-4" qtype="inheritance">Is androgen insensitivity syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In genetic males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In genetic females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females.  About two-thirds of all cases of androgen insensitivity syndrome are inherited from mothers who carry an altered copy of the AR gene on one of their two X chromosomes. The remaining cases result from a new mutation that can occur in the mother&apos;s egg cell before the child is conceived or during early fetal development.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000055-5" qtype="treatment">What are the treatments for androgen insensitivity syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of androgen insensitivity syndrome:  - Gene Review: Gene Review: Androgen Insensitivity Syndrome  - Genetic Testing Registry: Androgen resistance syndrome  - MedlinePlus Encyclopedia: Androgen Insensitivity Syndrome  - MedlinePlus Encyclopedia: Intersex  - MedlinePlus Encyclopedia: Reifenstein Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

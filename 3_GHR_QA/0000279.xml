@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000279" source="GHR" url="https://ghr.nlm.nih.gov/condition/deoxyguanosine-kinase-deficiency">
+<Focus>deoxyguanosine kinase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3711385</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DGUOK-related mitochondrial DNA depletion syndrome</Synonym>
+		<Synonym>hepatocerebral mitochondrial DNA depletion syndrome</Synonym>
+		<Synonym>mitochondrial DNA depletion syndrome, hepatocerebral form</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000279-1" qtype="information">What is (are) deoxyguanosine kinase deficiency ?</Question>
+			<Answer>Deoxyguanosine kinase deficiency is an inherited disorder that can cause liver disease and neurological problems. Researchers have described two forms of this disorder. The majority of affected individuals have the more severe form, which is called hepatocerebral because of the serious problems it causes in the liver and brain.  Newborns with the hepatocerebral form of deoxyguanosine kinase deficiency may have a buildup of lactic acid in the body (lactic acidosis) within the first few days after birth. They may also have weakness, behavior changes such as poor feeding and decreased activity, and vomiting. Affected newborns sometimes have low blood sugar (hypoglycemia) as a result of liver dysfunction. During the first few weeks of life they begin showing other signs of liver disease which may result in liver failure. They also develop progressive neurological problems including very weak muscle tone (severe hypotonia), abnormal eye movements (nystagmus) and the loss of skills they had previously acquired (developmental regression). Children with this form of the disorder usually do not survive past the age of 2 years.  Some individuals with deoxyguanosine kinase deficiency have a milder form of the disorder without severe neurological problems. Liver disease is the primary symptom of this form of the disorder, generally becoming evident during infancy or childhood. Occasionally it first appears after an illness such as a viral infection. Affected individuals may also develop kidney problems. Mild hypotonia is the only neurological effect associated with this form of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000279-2" qtype="frequency">How many people are affected by deoxyguanosine kinase deficiency ?</Question>
+			<Answer>The prevalence of deoxyguanosine kinase deficiency is unknown. Approximately 100 affected individuals have been identified.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000279-3" qtype="genetic changes">What are the genetic changes related to deoxyguanosine kinase deficiency ?</Question>
+			<Answer>The DGUOK gene provides instructions for making the enzyme deoxyguanosine kinase. This enzyme plays a critical role in mitochondria, which are structures within cells that convert the energy from food into a form that cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA or mtDNA, which is essential for the normal function of these structures. Deoxyguanosine kinase is involved in producing and maintaining the building blocks of mitochondrial DNA.  Mutations in the DGUOK gene reduce or eliminate the activity of the deoxyguanosine kinase enzyme. Reduced enzyme activity leads to problems with the production and maintenance of mitochondrial DNA. A reduction in the amount of mitochondrial DNA (known as mitochondrial DNA depletion) impairs mitochondrial function in many of the body&apos;s cells and tissues. These problems lead to the neurological and liver dysfunction associated with deoxyguanosine kinase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000279-4" qtype="inheritance">Is deoxyguanosine kinase deficiency inherited ?</Question>
+			<Answer>Deoxyguanosine kinase deficiency is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. In most cases, the parents of an individual with this condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000279-5" qtype="treatment">What are the treatments for deoxyguanosine kinase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of deoxyguanosine kinase deficiency:  - Gene Review: Gene Review: DGUOK-Related Mitochondrial DNA Depletion Syndrome, Hepatocerebral Form  - Genetic Testing Registry: Mitochondrial DNA-depletion syndrome 3, hepatocerebral  - MedlinePlus Encyclopedia: Hypotonia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

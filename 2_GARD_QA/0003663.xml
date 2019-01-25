@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003663" source="GARD" url="https://rarediseases.info.nih.gov/gard/6922/long-qt-syndrome">
+<Focus>Long QT syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023976</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003663-1" qtype="information">What is (are) Long QT syndrome ?</Question>
+			<Answer>Long QT syndrome is a disorder of the hearts electrical activity that can cause sudden, uncontrollable, and irregular heartbeats (arrhythmia), which may lead to sudden death. Long QT syndrome can be detected by electrocardiogram (EKG). It can be caused by a variety of different gene mutations (changes). It can also be acquired (noninherited) and may be brought on by certain medicines and other medical conditions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003663-2" qtype="symptoms">What are the symptoms of Long QT syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Long QT syndrome? Signs and symptoms of the arrhythmias experienced by people with long QT syndrome includes unexplained fainting, seizures, drowning or near drowning, and sudden cardiac arrest or death. You can read more about these and other symptoms of long QT syndrome on the National Heart Lung and Blood Institute&apos;s Web site by clicking here. The Human Phenotype Ontology provides the following list of signs and symptoms for Long QT syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Arrhythmia 90% Sensorineural hearing impairment 90% Abdominal situs inversus 7.5% Anemia 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003663-3" qtype="causes">What causes Long QT syndrome ?</Question>
+			<Answer>What causes long QT syndrome? Acquired long QT syndrome can be caused by certain medicines and medical conditions. Some medications that cause long QT syndrome include antihistamines and decongestants, antibiotics, antidepressants, and cholesterol-lowering medicines. Examples of medical conditions that can cause long QT syndrome include excessive diarrhea or vomiting and certain thyroid disorders. Inherited forms of long QT syndrome are caused by changes in genes that control the heart muscles electrical activity. Inherited long QT syndrome may be isolated (occur alone without other associated symptoms) or be due to a genetic syndrome, such as Romano-Ward syndrome, Jervell Lang-Nielsen syndrome, Anderson-Tawil syndrome, and Timothy syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003663-4" qtype="exams and tests">How to diagnose Long QT syndrome ?</Question>
+			<Answer>How is long QT syndrome diagnosed? Long QT syndrome is diagnosed on the basis of electrocardiographic (EKG) findings, clinical findings such as congenital deafness or unexplained fainting, and family history of long QT syndrome or sudden cardiac death. Genetic testing is often performed in families in whom the diagnosis of long QT syndrome has been made or is suspected on clinical grounds.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001022" source="GHR" url="https://ghr.nlm.nih.gov/condition/waardenburg-syndrome">
+<Focus>Waardenburg syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3266898</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Waardenburg's syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001022-1" qtype="information">What is (are) Waardenburg syndrome ?</Question>
+			<Answer>Waardenburg syndrome is a group of genetic conditions that can cause hearing loss and changes in coloring (pigmentation) of the hair, skin, and eyes. Although most people with Waardenburg syndrome have normal hearing, moderate to profound hearing loss can occur in one or both ears. The hearing loss is present from birth (congenital). People with this condition often have very pale blue eyes or different colored eyes, such as one blue eye and one brown eye. Sometimes one eye has segments of two different colors. Distinctive hair coloring (such as a patch of white hair or hair that prematurely turns gray) is another common sign of the condition. The features of Waardenburg syndrome vary among affected individuals, even among people in the same family.  The four known types of Waardenburg syndrome are distinguished by their physical characteristics and sometimes by their genetic cause. Types I and II have very similar features, although people with type I almost always have eyes that appear widely spaced and people with type II do not. In addition, hearing loss occurs more often in people with type II than in those with type I. Type III (sometimes called Klein-Waardenburg syndrome) includes abnormalities of the upper limbs in addition to hearing loss and changes in pigmentation. Type IV (also known as Waardenburg-Shah syndrome) has signs and symptoms of both Waardenburg syndrome and Hirschsprung disease, an intestinal disorder that causes severe constipation or blockage of the intestine.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001022-2" qtype="frequency">How many people are affected by Waardenburg syndrome ?</Question>
+			<Answer>Waardenburg syndrome affects an estimated 1 in 40,000 people. It accounts for 2 to 5 percent of all cases of congenital hearing loss. Types I and II are the most common forms of Waardenburg syndrome, while types III and IV are rare.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001022-3" qtype="genetic changes">What are the genetic changes related to Waardenburg syndrome ?</Question>
+			<Answer>Mutations in the EDN3, EDNRB, MITF, PAX3, SNAI2, and SOX10 genes can cause Waardenburg syndrome. These genes are involved in the formation and development of several types of cells, including pigment-producing cells called melanocytes. Melanocytes make a pigment called melanin, which contributes to skin, hair, and eye color and plays an essential role in the normal function of the inner ear. Mutations in any of these genes disrupt the normal development of melanocytes, leading to abnormal pigmentation of the skin, hair, and eyes and problems with hearing.  Types I and III Waardenburg syndrome are caused by mutations in the PAX3 gene. Mutations in the MITF and SNAI2 genes are responsible for type II Waardenburg syndrome.  Mutations in the SOX10, EDN3, or EDNRB genes cause type IV Waardenburg syndrome. In addition to melanocyte development, these genes are important for the development of nerve cells in the large intestine. Mutations in any of these genes result in hearing loss, changes in pigmentation, and intestinal problems related to Hirschsprung disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001022-4" qtype="inheritance">Is Waardenburg syndrome inherited ?</Question>
+			<Answer>Waardenburg syndrome is usually inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition. A small percentage of cases result from new mutations in the gene; these cases occur in people with no history of the disorder in their family.  Some cases of type II and type IV Waardenburg syndrome appear to have an autosomal recessive pattern of inheritance, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001022-5" qtype="treatment">What are the treatments for Waardenburg syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Waardenburg syndrome:  - Gene Review: Gene Review: Waardenburg Syndrome Type I  - Genetic Testing Registry: Klein-Waardenberg&apos;s syndrome  - Genetic Testing Registry: Waardenburg syndrome type 1  - Genetic Testing Registry: Waardenburg syndrome type 2A  - Genetic Testing Registry: Waardenburg syndrome type 2B  - Genetic Testing Registry: Waardenburg syndrome type 2C  - Genetic Testing Registry: Waardenburg syndrome type 2D  - Genetic Testing Registry: Waardenburg syndrome type 4A  - MedlinePlus Encyclopedia: Waardenburg Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

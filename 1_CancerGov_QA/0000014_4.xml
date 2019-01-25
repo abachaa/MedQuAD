@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000014_4" source="CancerGov" url="https://www.cancer.gov/types/uterine/patient/endometrial-screening-pdq">
+<Focus>Endometrial Cancer</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1883486</CUI>
+			<CUI>C0007103</CUI>
+			<CUI>C0476089</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000014_4-1" qtype="information">What is (are) Endometrial Cancer ?</Question>
+			<Answer>Key Points
+                    - Endometrial cancer is a disease in which malignant (cancer) cells form in the tissues of the endometrium.     - In the United States, endometrial cancer is the most common invasive cancer of the female reproductive system.    -  Health history and certain medicines can affect the risk of developing endometrial cancer.
+                
+                
+                    Endometrial cancer is a disease in which malignant (cancer) cells form in the tissues of the endometrium.
+                    The endometrium is the innermost lining of the uterus. The uterus is a hollow, muscular organ in a woman&apos;s pelvis. The uterus is where a fetus grows. In most nonpregnant women, the uterus is about 3 inches long.     Cancer of the endometrium is different from cancer of the muscle of the uterus, which is called uterine sarcoma. See the PDQ summary on Uterine Sarcoma Treatment for more information.   See the following PDQ summaries for more information about endometrial cancer:         -  Endometrial Cancer Treatment     -  Endometrial Cancer Prevention
+                
+                
+                    In the United States, endometrial cancer is the most common invasive cancer of the female reproductive system.
+                    Endometrial cancer is diagnosed most often in postmenopausal women at an average age of 60 years.   From 2004 to 2013, the number of new cases of endometrial cancer increased slightly in white and black women. From 2005 to 2014, the number of deaths from endometrial cancer increased slightly in white and black women. When endometrial cancer is diagnosed in black women, it is usually more advanced and less likely to be cured.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000014_4-2" qtype="susceptibility">Who is at risk for Endometrial Cancer? ?</Question>
+			<Answer>Health history and certain medicines can affect the risk of developing endometrial cancer. Anything that increases your chance of getting a disease is called a risk factor. Having a risk factor does not mean that you will get cancer; not having risk factors doesnt mean that you will not get cancer. People who think they may be at risk should discuss this with their doctor. Risk factors for endometrial cancer include the following:         - Taking tamoxifen for treatment or prevention of breast cancer.    - Taking estrogen alone. (Taking estrogen in combination with progestin does not appear to increase the risk of endometrial cancer.)    - Being overweight.    - Eating a high-fat diet.    -  Never giving birth.    - Beginning menstruation at an early age.    - Reaching menopause at an older age.    - Having the gene for hereditary non-polyposis colon cancer (HNPCC).     - Being white.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

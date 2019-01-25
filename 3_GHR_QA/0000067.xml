@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000067" source="GHR" url="https://ghr.nlm.nih.gov/condition/argininosuccinic-aciduria">
+<Focus>argininosuccinic aciduria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268547</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Argininosuccinate lyase deficiency</Synonym>
+		<Synonym>argininosuccinic acidemia</Synonym>
+		<Synonym>Argininosuccinicaciduria</Synonym>
+		<Synonym>argininosuccinyl-CoA lyase deficiency</Synonym>
+		<Synonym>arginosuccinase deficiency</Synonym>
+		<Synonym>ASA</Synonym>
+		<Synonym>ASAuria</Synonym>
+		<Synonym>ASL deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000067-1" qtype="information">What is (are) argininosuccinic aciduria ?</Question>
+			<Answer>Argininosuccinic aciduria is an inherited disorder that causes ammonia to accumulate in the blood. Ammonia, which is formed when proteins are broken down in the body, is toxic if the levels become too high. The nervous system is especially sensitive to the effects of excess ammonia.  Argininosuccinic aciduria usually becomes evident in the first few days of life. An infant with argininosuccinic aciduria may be lacking in energy (lethargic) or unwilling to eat, and have poorly controlled breathing rate or body temperature. Some babies with this disorder experience seizures or unusual body movements, or go into a coma. Complications from argininosuccinic aciduria may include developmental delay and intellectual disability. Progressive liver damage, skin lesions, and brittle hair may also be seen.  Occasionally, an individual may inherit a mild form of the disorder in which ammonia accumulates in the bloodstream only during periods of illness or other stress.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000067-2" qtype="frequency">How many people are affected by argininosuccinic aciduria ?</Question>
+			<Answer>Argininosuccinic aciduria occurs in approximately 1 in 70,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000067-3" qtype="genetic changes">What are the genetic changes related to argininosuccinic aciduria ?</Question>
+			<Answer>Mutations in the ASL gene cause argininosuccinic aciduria.  Argininosuccinic aciduria belongs to a class of genetic diseases called urea cycle disorders. The urea cycle is a sequence of reactions that occur in liver cells. It processes excess nitrogen, generated when protein is used by the body, to make a compound called urea that is excreted by the kidneys.  In argininosuccinic aciduria, the enzyme that starts a specific reaction within the urea cycle is damaged or missing. The urea cycle cannot proceed normally, and nitrogen accumulates in the bloodstream in the form of ammonia.  Ammonia is especially damaging to the nervous system, so argininosuccinic aciduria causes neurological problems as well as eventual damage to the liver.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000067-4" qtype="inheritance">Is argininosuccinic aciduria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000067-5" qtype="treatment">What are the treatments for argininosuccinic aciduria ?</Question>
+			<Answer>These resources address the diagnosis or management of argininosuccinic aciduria:  - Baby&apos;s First Test  - Gene Review: Gene Review: Argininosuccinate Lyase Deficiency  - Gene Review: Gene Review: Urea Cycle Disorders Overview  - Genetic Testing Registry: Argininosuccinate lyase deficiency  - MedlinePlus Encyclopedia: Hereditary urea cycle abnormality   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

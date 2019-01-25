@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000573" source="GHR" url="https://ghr.nlm.nih.gov/condition/lactose-intolerance">
+<Focus>lactose intolerance</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022951</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>alactasia</Synonym>
+		<Synonym>dairy product intolerance</Synonym>
+		<Synonym>hypolactasia</Synonym>
+		<Synonym>lactose malabsorption</Synonym>
+		<Synonym>milk sugar intolerance</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000573-1" qtype="information">What is (are) lactose intolerance ?</Question>
+			<Answer>Lactose intolerance is an impaired ability to digest lactose, a sugar found in milk and other dairy products. Lactose is normally broken down by an enzyme called lactase, which is produced by cells in the lining of the small intestine.  Congenital lactase deficiency, also called congenital alactasia, is a disorder in which infants are unable to break down lactose in breast milk or formula. This form of lactose intolerance results in severe diarrhea. If affected infants are not given a lactose-free infant formula, they may develop severe dehydration and weight loss.  Lactose intolerance in adulthood is caused by reduced production of lactase after infancy (lactase nonpersistence). If individuals with lactose intolerance consume lactose-containing dairy products, they may experience abdominal pain, bloating, flatulence, nausea, and diarrhea beginning 30 minutes to 2 hours later.  Most people with lactase nonpersistence retain some lactase activity and can include varying amounts of lactose in their diets without experiencing symptoms. Often, affected individuals have difficulty digesting fresh milk but can eat certain dairy products such as cheese or yogurt without discomfort. These foods are made using fermentation processes that break down much of the lactose in milk.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000573-2" qtype="frequency">How many people are affected by lactose intolerance ?</Question>
+			<Answer>Lactose intolerance in infancy resulting from congenital lactase deficiency is a rare disorder. Its incidence is unknown. This condition is most common in Finland, where it affects an estimated 1 in 60,000 newborns.  Approximately 65 percent of the human population has a reduced ability to digest lactose after infancy. Lactose intolerance in adulthood is most prevalent in people of East Asian descent, affecting more than 90 percent of adults in some of these communities. Lactose intolerance is also very common in people of West African, Arab, Jewish, Greek, and Italian descent.  The prevalence of lactose intolerance is lowest in populations with a long history of dependence on unfermented milk products as an important food source. For example, only about 5 percent of people of Northern European descent are lactose intolerant.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000573-3" qtype="genetic changes">What are the genetic changes related to lactose intolerance ?</Question>
+			<Answer>Lactose intolerance in infants (congenital lactase deficiency) is caused by mutations in the LCT gene. The LCT gene provides instructions for making the lactase enzyme. Mutations that cause congenital lactase deficiency are believed to interfere with the function of lactase, causing affected infants to have a severely impaired ability to digest lactose in breast milk or formula.  Lactose intolerance in adulthood is caused by gradually decreasing activity (expression) of the LCT gene after infancy, which occurs in most humans. LCT gene expression is controlled by a DNA sequence called a regulatory element, which is located within a nearby gene called MCM6. Some individuals have inherited changes in this element that lead to sustained lactase production in the small intestine and the ability to digest lactose throughout life. People without these changes have a reduced ability to digest lactose as they get older, resulting in the signs and symptoms of lactose intolerance.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000573-4" qtype="inheritance">Is lactose intolerance inherited ?</Question>
+			<Answer>The type of lactose intolerance that occurs in infants (congenital lactase deficiency) is inherited in an autosomal recessive pattern, which means both copies of the LCT gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  The ability to digest lactose into adulthood depends on which variations in the regulatory element within the MCM6 gene individuals have inherited from their parents. The variations that promote continued lactase production are considered autosomal dominant, which means one copy of the altered regulatory element in each cell is sufficient to sustain lactase production. People who have not inherited these variations from either parent will have some degree of lactose intolerance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000573-5" qtype="treatment">What are the treatments for lactose intolerance ?</Question>
+			<Answer>These resources address the diagnosis or management of lactose intolerance:  - Genetic Testing Registry: Congenital lactase deficiency  - Genetic Testing Registry: Nonpersistence of intestinal lactase  - MedlinePlus Encyclopedia: Lactose Intolerance  - MedlinePlus Encyclopedia: Lactose Tolerance Tests   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

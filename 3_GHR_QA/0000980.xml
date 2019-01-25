@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000980" source="GHR" url="https://ghr.nlm.nih.gov/condition/thrombotic-thrombocytopenic-purpura">
+<Focus>thrombotic thrombocytopenic purpura</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034150</CUI>
+			<CUI>C0034155</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Familial Thrombotic Thrombocytopenia Purpura</Synonym>
+		<Synonym>Microangiopathic hemolytic anemia</Synonym>
+		<Synonym>Moschkowitz Disease</Synonym>
+		<Synonym>Purpura, Thrombotic Thrombocytopenic</Synonym>
+		<Synonym>Thrombotic microangiopathy, familial</Synonym>
+		<Synonym>TTP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000980-1" qtype="information">What is (are) thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Thrombotic thrombocytopenic purpura is a rare disorder that causes blood clots (thrombi) to form in small blood vessels throughout the body. These clots can cause serious medical problems if they block vessels and restrict blood flow to organs such as the brain, kidneys, and heart. Resulting complications can include neurological problems (such as personality changes, headaches, confusion, and slurred speech), fever, abnormal kidney function, abdominal pain, and heart problems.  Blood clots normally form to prevent excess blood loss at the site of an injury. In people with thrombotic thrombocytopenic purpura, clots develop in blood vessels even in the absence of injury. Blood clots are formed from clumps of cell fragments called platelets, which circulate in the blood and assist with clotting. Because a large number of platelets are used to make clots in people with thrombotic thrombocytopenic purpura, fewer platelets are available in the bloodstream. A reduced level of circulating platelets is known as thrombocytopenia. Thrombocytopenia can lead to small areas of bleeding just under the surface of the skin, resulting in purplish spots called purpura.  This disorder also causes red blood cells to break down (undergo hemolysis) prematurely. As blood squeezes past clots within blood vessels, red blood cells can break apart. A condition called hemolytic anemia occurs when red blood cells are destroyed faster than the body can replace them. This type of anemia leads to paleness, yellowing of the eyes and skin (jaundice), fatigue, shortness of breath, and a rapid heart rate.  There are two major forms of thrombotic thrombocytopenic purpura, an acquired (noninherited) form and a familial form. The acquired form usually appears in late childhood or adulthood. Affected individuals may have a single episode of signs and symptoms, or they may recur over time. The familial form of this disorder is much rarer and typically appears in infancy or early childhood. In people with the familial form, signs and symptoms often recur on a regular basis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000980-2" qtype="frequency">How many people are affected by thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>The precise incidence of thrombotic thrombocytopenic purpura is unknown. Researchers estimate that, depending on geographic location, the condition affects 1.7 to 11 per million people each year in the United States. For unknown reasons, the disorder occurs more frequently in women than in men. The acquired form of thrombotic thrombocytopenic purpura is much more common than the familial form.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000980-3" qtype="genetic changes">What are the genetic changes related to thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>Mutations in the ADAMTS13 gene cause the familial form of thrombotic thrombocytopenic purpura. The ADAMTS13 gene provides instructions for making an enzyme that is involved in the normal process of blood clotting. Mutations in this gene lead to a severe reduction in the activity of this enzyme. The acquired form of thrombotic thrombocytopenic purpura also results from a reduction in ADAMTS13 enzyme activity; however, people with the acquired form do not have mutations in the ADAMTS13 gene. Instead, their immune systems often produce specific proteins called autoantibodies that block the activity of the enzyme.  A lack of ADAMTS13 enzyme activity disrupts the usual balance between bleeding and clotting. Normally, blood clots form at the site of an injury to seal off damaged blood vessels and prevent excess blood loss. In people with thrombotic thrombocytopenic purpura, clots form throughout the body as platelets bind together abnormally and stick to the walls of blood vessels. These clots can block small blood vessels, causing organ damage and the other features of thrombotic thrombocytopenic purpura.  Researchers believe that other genetic or environmental factors may contribute to the signs and symptoms of thrombotic thrombocytopenic purpura. In people with reduced ADAMTS13 enzyme activity, factors such as pregnancy, surgery, and infection may trigger abnormal blood clotting and its associated complications.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000980-4" qtype="inheritance">Is thrombotic thrombocytopenic purpura inherited ?</Question>
+			<Answer>The familial form of thrombotic thrombocytopenic purpura is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  The acquired form of thrombotic thrombocytopenic purpura is not inherited.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000980-5" qtype="treatment">What are the treatments for thrombotic thrombocytopenic purpura ?</Question>
+			<Answer>These resources address the diagnosis or management of thrombotic thrombocytopenic purpura:  - Genetic Testing Registry: Upshaw-Schulman syndrome  - MedlinePlus Encyclopedia: Blood Clots  - MedlinePlus Encyclopedia: Hemolytic anemia  - MedlinePlus Encyclopedia: Purpura  - MedlinePlus Encyclopedia: Thrombocytopenia  - MedlinePlus Encyclopedia: Thrombotic thrombocytopenic purpura   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

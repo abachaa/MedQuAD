@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000760" source="GHR" url="https://ghr.nlm.nih.gov/condition/osteoporosis-pseudoglioma-syndrome">
+<Focus>osteoporosis-pseudoglioma syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432252</CUI>
+			<CUI>C0033800</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>OPPG</Synonym>
+		<Synonym>osteogenesis imperfecta, ocular form</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000760-1" qtype="information">What is (are) osteoporosis-pseudoglioma syndrome ?</Question>
+			<Answer>Osteoporosis-pseudoglioma syndrome is a rare condition characterized by severe thinning of the bones (osteoporosis) and eye abnormalities that lead to vision loss. In people with this condition, osteoporosis is usually recognized in early childhood. It is caused by a shortage of minerals, such as calcium, in bones (decreased bone mineral density), which makes the bones brittle and prone to fracture. Affected individuals often have multiple bone fractures, including in the bones that form the spine (vertebrae). Multiple fractures can cause collapse of the affected vertebrae (compressed vertebrae), abnormal side-to-side curvature of the spine (scoliosis), short stature, and limb deformities. Decreased bone mineral density can also cause softening or thinning of the skull (craniotabes).  Most affected individuals have impaired vision at birth or by early infancy and are blind by young adulthood. Vision problems are usually caused by one of several eye conditions, grouped together as pseudoglioma, that affect the light-sensitive tissue at the back of the eye (the retina), although other eye conditions have been identified in affected individuals. Pseudogliomas are so named because, on examination, the conditions resemble an eye tumor known as a retinal glioma.  Rarely, people with osteoporosis-pseudoglioma syndrome have additional signs or symptoms such as mild intellectual disability, weak muscle tone (hypotonia), abnormally flexible joints, or seizures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000760-2" qtype="frequency">How many people are affected by osteoporosis-pseudoglioma syndrome ?</Question>
+			<Answer>Osteoporosis-pseudoglioma syndrome is a rare disorder that occurs in approximately 1 in 2 million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000760-3" qtype="genetic changes">What are the genetic changes related to osteoporosis-pseudoglioma syndrome ?</Question>
+			<Answer>Osteoporosis-pseudoglioma syndrome is caused by mutations in the LRP5 gene. This gene provides instructions for making a protein that participates in a chemical signaling pathway that affects the way cells and tissues develop. In particular, the LRP5 protein helps regulate bone mineral density and plays a critical role in development of the retina.  LRP5 gene mutations that cause osteoporosis-pseudoglioma syndrome prevent cells from making any LRP5 protein or lead to a protein that cannot function. Loss of this protein&apos;s function disrupts the chemical signaling pathways that are needed for the formation of bone and for normal retinal development, leading to the bone and eye abnormalities characteristic of osteoporosis-pseudoglioma syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000760-4" qtype="inheritance">Is osteoporosis-pseudoglioma syndrome inherited ?</Question>
+			<Answer>Osteoporosis-pseudoglioma syndrome is inherited in an autosomal recessive pattern, which means both copies of the LRP5 gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. However, some carriers may have decreased bone mineral density.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000760-5" qtype="treatment">What are the treatments for osteoporosis-pseudoglioma syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of osteoporosis-pseudoglioma syndrome:  - Genetic Testing Registry: Osteoporosis with pseudoglioma  - Lucile Packard Children&apos;s Hospital at Stanford: Juvenile Osteoporosis  - MedlinePlus Encyclopedia: Bone Mineral Density Test  - Merck Manual Home Health Edition: Osteoporosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000082" source="NINDS" url="http://www.ninds.nih.gov/disorders/coma/coma.htm">
+<Focus>Coma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0543874</CUI>
+			<CUI>C0009421</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000082-1" qtype="information">What is (are) Coma ?</Question>
+			<Answer>A coma, sometimes also called persistent vegetative state, is a profound or deep state of unconsciousness. Persistent vegetative state is not brain-death. An individual in a state of coma is alive but unable to move or respond to his or her environment. Coma may occur as a complication of an underlying illness, or as a result of injuries, such as head trauma. . Individuals in such a state have lost their thinking abilities and awareness of their surroundings, but retain non-cognitive function and normal sleep patterns. Even though those in a persistent vegetative state lose their higher brain functions, other key functions such as breathing and circulation remain relatively intact. Spontaneous movements may occur, and the eyes may open in response to external stimuli. Individuals may even occasionally grimace, cry, or laugh. Although individuals in a persistent vegetative state may appear somewhat normal, they do not speak and they are unable to respond to commands.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000082-2" qtype="treatment">What are the treatments for Coma ?</Question>
+			<Answer>Once an individual is out of immediate danger, the medical care team focuses on preventing infections and maintaining a healthy physical state. This will often include preventing pneumonia and bedsores and providing balanced nutrition. Physical therapy may also be used to prevent contractures (permanent muscular contractions) and deformities of the bones, joints, and muscles that would limit recovery for those who emerge from coma.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000082-3" qtype="outlook">What is the outlook for Coma ?</Question>
+			<Answer>The outcome for coma and persistent vegetative state depends on the cause, severity, and site of neurological damage. Individuals may emerge from coma with a combination of physical, intellectual, and psychological difficulties that need special attention. Recovery usually occurs gradually, with some acquiring more and more ability to respond. Some individuals never progress beyond very basic responses, but many recover full awareness. Individuals recovering from coma require close medical supervision. A coma rarely lasts more than 2 to 4 weeks. Some patients may regain a degree of awareness after persistent vegetative state. Others may remain in that state for years or even decades. The most common cause of death for someone in a persistent vegetative state is infection, such as pneumonia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000082-4" qtype="research">what research (or clinical trials) is being done for Coma ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to coma in their laboratories at the NIH and also support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent and treat coma.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

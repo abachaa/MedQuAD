@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000359" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/fever.html">
+<Focus>Fever</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0424755</CUI>
+			<CUI>C0015967</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pyrexia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000359-1" qtype="information">What is (are) Fever ?</Question>
+			<Answer>A fever is a body temperature that is higher than normal. It is not an illness. It is part of your body&apos;s defense against infection. Most bacteria and viruses that cause infections do well at the body&apos;s normal temperature (98.6 F). A slight fever can make it harder for them to survive. Fever also activates your body&apos;s immune system.    Infections cause most fevers. There can be many other causes, including       -  Medicines    -  Heat exhaustion    -  Cancers    -  Autoimmune diseases       Treatment depends on the cause of your fever. Your health care provider may recommend using over-the-counter medicines such as acetaminophen or ibuprofen to lower a very high fever. Adults can also take aspirin, but children with fevers should not take aspirin. It is also important to drink enough liquids to prevent dehydration.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

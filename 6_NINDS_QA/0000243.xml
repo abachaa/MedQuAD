@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000243" source="NINDS" url="http://www.ninds.nih.gov/disorders/prosopagnosia/Prosopagnosia.htm">
+<Focus>Prosopagnosia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0234512</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000243-1" qtype="information">What is (are) Prosopagnosia ?</Question>
+			<Answer>Prosopagnosia is a neurological disorder characterized by the inability to recognize faces. Prosopagnosia is also known as face blindness or facial agnosia. The term prosopagnosia comes from the Greek words for face and lack of knowledge. Depending upon the degree of impairment, some people with prosopagnosia may only have difficulty recognizing a familiar face; others will be unable to discriminate between unknown faces, while still others may not even be able to distinguish a face as being different from an object. Some people with the disorder are unable to recognize their own face. Prosopagnosia is not related to memory dysfunction, memory loss, impaired vision, or learning disabilities. Prosopagnosia is thought to be the result of abnormalities, damage, or impairment in the right fusiform gyrus, a fold in the brain that appears to coordinate the neural systems that control facial perception and memory. Prosopagnosia can result from stroke, traumatic brain injury, or certain neurodegenerative diseases. In some cases it is a congenital disorder, present at birth in the absence of any brain damage. Congenital prosopagnosia appears to run in families, which makes it likely to be the result of a genetic mutation or deletion. Some degree of prosopagnosia is often present in children with autism and Aspergers syndrome, and may be the cause of their impaired social development.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000243-2" qtype="treatment">What are the treatments for Prosopagnosia ?</Question>
+			<Answer>The focus of any treatment should be to help the individual with prosopagnosia develop compensatory strategies. Adults who have the condition as a result of stroke or brain trauma can be retrained to use other clues to identify individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000243-3" qtype="outlook">What is the outlook for Prosopagnosia ?</Question>
+			<Answer>Prosopagnosia can be socially crippling. Individuals with the disorder often have difficulty recognizing family members and close friends. They often use other ways to identify people, such as relying on voice, clothing, or unique physical attributes, but these are not as effective as recognizing a face. Children with congenital prosopagnosia are born with the disability and have never had a time when they could recognize faces. Greater awareness of autism, and the autism spectrum disorders, which involve communication impairments such as prosopagnosia, is likely to make the disorder less overlooked in the future.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000243-4" qtype="research">what research (or clinical trials) is being done for Prosopagnosia ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to prosopagnosia in its laboratories at the National Institutes of Health (NIH), and also supports additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure disorders, such as prosopagnosia.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

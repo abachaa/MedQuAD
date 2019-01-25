@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000096" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/birthdefects.html">
+<Focus>Birth Defects</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0220810</CUI>
+			<CUI>C0000768</CUI>
+			<CUI>C2186260</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000096-1" qtype="information">What is (are) Birth Defects ?</Question>
+			<Answer>A birth defect is a problem that happens while a baby is developing in the mother&apos;s body. Most birth defects happen during the first 3 months of pregnancy. One out of every 33 babies in the United States is born with a birth defect.    A birth defect may affect how the body looks, works or both. Some birth defects like cleft lip or neural tube defects are structural problems that can be easy to see. To find others, like heart defects, doctors use special tests. Birth defects can vary from mild to severe. Some result from exposures to medicines or chemicals. For example, alcohol abuse can cause fetal alcohol syndrome. Infections during pregnancy can also result in birth defects. For most birth defects, the cause is unknown.     Some birth defects can be prevented. Taking folic acid can help prevent some birth defects. Talk to your doctor about any medicines you take. Some medicines can cause serious birth defects.    Babies with birth defects may need surgery or other medical treatments. Today, doctors can diagnose many birth defects in the womb. This enables them to treat or even correct some problems before the baby is born.    Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

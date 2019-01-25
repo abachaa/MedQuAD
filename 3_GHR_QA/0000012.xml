@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000012" source="GHR" url="https://ghr.nlm.nih.gov/condition/activated-pi3k-delta-syndrome">
+<Focus>activated PI3K-delta syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039082</CUI>
+			<CUI>C3714976</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>APDS</Synonym>
+		<Synonym>immunodeficiency 14</Synonym>
+		<Synonym>p110-activating mutation causing senescent T cells, lymphadenopathy, and immunodeficiency</Synonym>
+		<Synonym>PASLI</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000012-1" qtype="information">What is (are) activated PI3K-delta syndrome ?</Question>
+			<Answer>Activated PI3K-delta syndrome is a disorder that impairs the immune system. Individuals with this condition often have low numbers of white blood cells (lymphopenia), particularly B cells and T cells. Normally, these cells recognize and attack foreign invaders, such as viruses and bacteria, to prevent infection. Beginning in childhood, people with activated PI3K-delta syndrome develop recurrent infections, particularly in the lungs, sinuses, and ears. Over time, recurrent respiratory tract infections can lead to a condition called bronchiectasis, which damages the passages leading from the windpipe to the lungs (bronchi) and can cause breathing problems. People with activated PI3K-delta syndrome may also have chronic active viral infections, commonly Epstein-Barr virus or cytomegalovirus infections.  Another possible feature of activated PI3K-delta syndrome is abnormal clumping of white blood cells. These clumps can lead to enlarged lymph nodes (lymphadenopathy), or the white blood cells can build up to form solid masses (nodular lymphoid hyperplasia), usually in the moist lining of the airways or intestines. While lymphadenopathy and nodular lymphoid hyperplasia are noncancerous (benign), activated PI3K-delta syndrome also increases the risk of developing a form of cancer called B-cell lymphoma.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000012-2" qtype="frequency">How many people are affected by activated PI3K-delta syndrome ?</Question>
+			<Answer>The prevalence of activated PI3K-delta syndrome is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000012-3" qtype="genetic changes">What are the genetic changes related to activated PI3K-delta syndrome ?</Question>
+			<Answer>Activated PI3K-delta syndrome is caused by mutations in the PIK3CD gene, which provides instructions for making a protein called p110 delta (p110). This protein is one piece (subunit) of an enzyme called phosphatidylinositol 3-kinase (PI3K), which turns on signaling pathways within cells. The version of PI3K containing the p110 subunit, called PI3K-delta, is specifically found in white blood cells, including B cells and T cells. PI3K-delta signaling is involved in the growth and division (proliferation) of white blood cells, and it helps direct B cells and T cells to mature (differentiate) into different types, each of which has a distinct function in the immune system.  PIK3CD gene mutations involved in activated PI3K-delta syndrome lead to production of an altered p110 protein. A PI3K-delta enzyme containing the altered subunit is abnormally turned on (activated). Studies indicate that overactive PI3K-delta signaling alters the differentiation of B cells and T cells, leading to production of cells that cannot respond to infections and that die earlier than usual. Lack of functioning B cells and T cells makes it difficult for people with this disorder to fight off bacterial and viral infections. Overactivation of PI3K-delta signaling can also stimulate abnormal proliferation of white blood cells, leading to lymphadenopathy and nodular lymphoid hyperplasia in some affected individuals. An increase in B cell proliferation in combination with reduced immune system function may contribute to development of B-cell lymphoma.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000012-4" qtype="inheritance">Is activated PI3K-delta syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000012-5" qtype="treatment">What are the treatments for activated PI3K-delta syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of activated PI3K-delta syndrome:  - Genetic Testing Registry: Activated PI3K-delta syndrome  - National Institute of Allergy and Infectious Diseases: Primary Immune Deficiency Diseases: Talking To Your Doctor   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004415" source="GARD" url="https://rarediseases.info.nih.gov/gard/7206/niemann-pick-disease-type-a">
+<Focus>Niemann-Pick disease type A</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268242</CUI>
+			<CUI>C0236642</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Sphingomyelin lipidosis</Synonym>
+		<Synonym>Sphingomyelinase deficiency</Synonym>
+		<Synonym>Sphingolipidosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004415-1" qtype="information">What is (are) Niemann-Pick disease type A ?</Question>
+			<Answer>Niemann-Pick disease is an inherited condition involving lipid metabolism, which is the breakdown, transport, and use of fats and cholesterol in the body. In people with this condition, abnormal lipid metabolism causes harmful amounts of lipids to accumulate in the spleen, liver, lungs, bone marrow, and brain. Niemann-Pick disease type A appears during infancy and is characterized by an enlarged liver and spleen (hepatosplenomegaly), failure to gain weight and grow at the expected rate (failure to thrive), and progressive deterioration of the nervous system. Due to the involvement of the nervous system, Niemann-Pick disease type A is also known as the neurological type. There is currently no effective treatment for this condition and those who are affected generally do not survive past early childhood. Niemann-Pick disease type A is caused by mutations in the SMPD1 gene. It is inherited in an autosomal recessive pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004415-2" qtype="symptoms">What are the symptoms of Niemann-Pick disease type A ?</Question>
+			<Answer>What are the signs and symptoms of Niemann-Pick disease type A? The Human Phenotype Ontology provides the following list of signs and symptoms for Niemann-Pick disease type A. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cherry red spot of the macula 50% Athetosis - Autosomal recessive inheritance - Bone-marrow foam cells - Constipation - Diffuse reticular or finely nodular infiltrations - Failure to thrive - Feeding difficulties in infancy - Foam cells with lamellar inclusion bodies - Hepatomegaly - Hyporeflexia - Infantile onset - Intellectual disability - Lymphadenopathy - Microcytic anemia - Muscle weakness - Muscular hypotonia - Osteoporosis - Protuberant abdomen - Recurrent respiratory infections - Rigidity - Sea-blue histiocytosis - Short stature - Spasticity - Splenomegaly - Vomiting - Xanthomatosis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004415-3" qtype="treatment">What are the treatments for Niemann-Pick disease type A ?</Question>
+			<Answer>How might Niemann-Pick disease type A be treated? There is no specific treatment for this disease. Supportive care from the following specialists may be helpful for managing the symptoms:  A pulmonologist for respiratory problems A cardiologist for heart problems Liver and spleen specialists Nutritionists Physical therapists A gastroenterologist Learning specialists You can learn more about ongoing research efforts to better understand the natural history of this condition and identify treatment options in the Research section of our web page.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

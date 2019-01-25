@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000136" source="NINDS" url="http://www.ninds.nih.gov/disorders/gerstmanns/gerstmanns.htm">
+<Focus>Gerstmann's Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017494</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000136-1" qtype="information">What is (are) Gerstmann's Syndrome ?</Question>
+			<Answer>Gerstmann&apos;s syndrome is a cognitive impairment that results from damage to a specific area of the brain -- the left parietal lobe in the region of the angular gyrus. It may occur after a stroke or in association with damage to the parietal lobe. It is characterized by four primary symptoms: a writing disability (agraphia or dysgraphia), a lack of understanding of the rules for calculation or arithmetic (acalculia or dyscalculia), an inability to distinguish right from left, and an inability to identify fingers (finger agnosia). The disorder should not be confused with Gerstmann-Strussler-Scheinker disease, a type of transmissible spongiform encephalopathy.
+                
+In addition to exhibiting the above symptoms, many adults also experience aphasia, (difficulty in expressing oneself when speaking, in understanding speech, or in reading and writing).
+                
+There are few reports of the syndrome, sometimes called developmental Gerstmann&apos;s syndrome, in children. The cause is not known. Most cases are identified when children reach school age, a time when they are challenged with writing and math exercises. Generally, children with the disorder exhibit poor handwriting and spelling skills, and difficulty with math functions, including adding, subtracting, multiplying, and dividing. An inability to differentiate right from left and to discriminate among individual fingers may also be apparent. In addition to the four primary symptoms, many children also suffer from constructional apraxia, an inability to copy simple drawings. Frequently, there is also an impairment in reading. Children with a high level of intellectual functioning as well as those with brain damage may be affected with the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000136-2" qtype="treatment">What are the treatments for Gerstmann's Syndrome ?</Question>
+			<Answer>There is no cure for Gerstmann&apos;s syndrome. Treatment is symptomatic and supportive. Occupational and speech therapies may help diminish the dysgraphia and apraxia. In addition, calculators and word processors may help school children cope with the symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000136-3" qtype="outlook">What is the outlook for Gerstmann's Syndrome ?</Question>
+			<Answer>In adults, many of the symptoms diminish over time. Although it has been suggested that in children symptoms may diminish over time, it appears likely that most children probably do not overcome their deficits, but learn to adjust to them.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000136-4" qtype="research">what research (or clinical trials) is being done for Gerstmann's Syndrome ?</Question>
+			<Answer>The NINDS supports research on disorders that result from damage to the brain such as dysgraphia. The NINDS and other components of the National Institutes of Health also support research on learning disabilities. Current research avenues focus on developing techniques to diagnose and treat learning disabilities and increase understanding of the biological basis of them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

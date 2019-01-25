@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005069" source="GARD" url="https://rarediseases.info.nih.gov/gard/7467/progeria">
+<Focus>Progeria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0033300</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hutchinson Gilford progeria syndrome</Synonym>
+		<Synonym>Hutchinson Gilford syndrome</Synonym>
+		<Synonym>HGPS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005069-1" qtype="information">What is (are) Progeria ?</Question>
+			<Answer>Progeria is a rare condition characterized by dramatic, rapid aging beginning in childhood. Affected newborns usually appear normal but within a year, their growth rate slows significantly. Affected children develop a distinctive appearance characterized by baldness, aged-looking skin, a pinched nose, and a small face and jaw relative to head size. They also often have symptoms typically seen in much older people including joint stiffness, hip dislocations and severe, progressive cardiovascular disease. Intelligence is typically normal. The average lifespan is age 13-14; death is usually due to heart attack or stroke. Progeria is caused by mutations in the LMNA gene, but almost always results from a new mutation rather than being inherited from a parent. Management focuses on the individual signs and symptoms of the condition. Although there is currently no cure, research involving treatment is ongoing and progress is being made.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005069-2" qtype="symptoms">What are the symptoms of Progeria ?</Question>
+			<Answer>What are the signs and symptoms of Progeria? The Human Phenotype Ontology provides the following list of signs and symptoms for Progeria. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of adipose tissue 90% Abnormality of the fingernails 90% Abnormality of the genital system 90% Alopecia 90% Delayed eruption of teeth 90% Hypoplastic toenails 90% Narrow face 90% Prematurely aged appearance 90% Proptosis 90% Reduced number of teeth 90% Short distal phalanx of finger 90% Short stature 90% Thin skin 90% Weight loss 90% Abnormality of skin pigmentation 50% Abnormality of the clavicle 50% Abnormality of the fontanelles or cranial sutures 50% Abnormality of the hip bone 50% Abnormality of the voice 50% Acrocyanosis 50% Convex nasal ridge 50% Coronary artery disease 50% External ear malformation 50% Gait disturbance 50% Lack of skin elasticity 50% Osteolysis 50% Reduced bone mineral density 50% Thin vermilion border 50% Arthralgia 7.5% Nephrosclerosis 7.5% Skeletal dysplasia 7.5% Absence of subcutaneous fat - Angina pectoris - Autosomal dominant inheritance - Congestive heart failure - Generalized osteoporosis with pathologic fractures - Growth delay - Hypoplasia of midface - Malar flattening - Myocardial infarction - Precocious atherosclerosis - Premature coronary artery disease - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005069-3" qtype="causes">What causes Progeria ?</Question>
+			<Answer>What genes are related to Hutchinson-Gilford progeria syndrome? Mutations in the LMNA gene cause Hutchinson-Gilford progeria syndrome. The LMNA gene provides instructions for making a protein called lamin A. This protein plays an important role in determining the shape of the nucleus within cells. It is an essential scaffolding (supporting) component of the nuclear envelope, which is the membrane that surrounds the nucleus. Mutations that cause Hutchinson-Gilford progeria syndrome result in the production of an abnormal version of the lamin A protein. The altered protein makes the nuclear envelope unstable and progressively damages the nucleus, making cells more likely to die prematurely. Researchers are working to determine how these changes lead to the characteristic features of Hutchinson-Gilford progeria syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005069-4" qtype="treatment">What are the treatments for Progeria ?</Question>
+			<Answer>How might progeria be treated? Management for progeria generally focuses on the signs and symptoms of the condition and may include the following: Exercise, diet modification, and medication when the lipid profile becomes abnormal Frequent small meals to maximize caloric intake Oral hydration Use of shoe pads for foot discomfort due to lack of body fat Use of sunscreen on all exposed areas of skin Nitroglycerin for angina Routine anticongestive therapy if congestive heart failure is present Statins for their putative effect on farnesylation inhibition Anticoagulation therapy if vascular blockage, transient ischemic attacks, stroke, angina, or heart attack occur Routine physical and occupational therapy to help maintain range of motion in large and small joints Although there is currently no cure for progeria, research involving treatments is ongoing and scientists have been making much progress. The results of a recently published phase II clinical trial provided preliminary evidence that lonafarnib, a farnesyltransferase inhibitor, may improve cardiovascular status, bone structure, and audiological (hearing) status in affected children. A free, full-text version of this study is available on PubMed and can be viewed by clicking here.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

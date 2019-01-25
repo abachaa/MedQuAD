@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000959" source="GHR" url="https://ghr.nlm.nih.gov/condition/succinic-semialdehyde-dehydrogenase-deficiency">
+<Focus>succinic semialdehyde dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268631</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>4-hydroxybutyric aciduria</Synonym>
+		<Synonym>4-hydroxybutyricaciduria</Synonym>
+		<Synonym>Gamma-hydroxybutyric acidemia</Synonym>
+		<Synonym>gamma-hydroxybutyric aciduria</Synonym>
+		<Synonym>SSADH deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000959-1" qtype="information">What is (are) succinic semialdehyde dehydrogenase deficiency ?</Question>
+			<Answer>Succinic semialdehyde dehydrogenase deficiency is a disorder that can cause a variety of neurological problems. People with this condition typically have developmental delay, especially involving speech development; intellectual disability; and decreased muscle tone (hypotonia) soon after birth. About half of those affected experience seizures, difficulty coordinating movements (ataxia), decreased reflexes (hyporeflexia), and behavioral problems. The most common behavioral problems associated with this condition are sleep disturbances, hyperactivity, difficulty maintaining attention, and anxiety. Less frequently, affected individuals may have increased aggression, hallucinations, obsessive-compulsive disorder (OCD), and self-injurious behavior, including biting and head banging. People with this condition can also have problems controlling eye movements. Less common features of succinic semialdehyde dehydrogenase deficiency include uncontrollable movements of the limbs (choreoathetosis), involuntary tensing of the muscles (dystonia), muscle twitches (myoclonus), and a progressive worsening of ataxia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000959-2" qtype="frequency">How many people are affected by succinic semialdehyde dehydrogenase deficiency ?</Question>
+			<Answer>Approximately 350 people with succinic semialdehyde dehydrogenase deficiency have been reported worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000959-3" qtype="genetic changes">What are the genetic changes related to succinic semialdehyde dehydrogenase deficiency ?</Question>
+			<Answer>Mutations in the ALDH5A1 gene cause succinic semialdehyde dehydrogenase deficiency. The ALDH5A1 gene provides instructions for producing the succinic semialdehyde dehydrogenase enzyme. This enzyme is involved in the breakdown of a chemical that transmits signals in the brain (neurotransmitter) called gamma-amino butyric acid (GABA). The primary role of GABA is to prevent the brain from being overloaded with too many signals.  A shortage (deficiency) of succinic semialdehyde dehydrogenase leads to an increase in the amount of GABA and a related molecule called gamma-hydroxybutyrate (GHB) in the body, particularly the brain and spinal cord (central nervous system). It is unclear how an increase in GABA and GHB causes developmental delay, seizures, and other signs and symptoms of succinic semialdehyde dehydrogenase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000959-4" qtype="inheritance">Is succinic semialdehyde dehydrogenase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000959-5" qtype="treatment">What are the treatments for succinic semialdehyde dehydrogenase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of succinic semialdehyde dehydrogenase deficiency:  - Gene Review: Gene Review: Succinic Semialdehyde Dehydrogenase Deficiency  - Genetic Testing Registry: Succinate-semialdehyde dehydrogenase deficiency  - MedlinePlus Encyclopedia: Hyperactivity   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

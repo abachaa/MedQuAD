@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000570" source="GHR" url="https://ghr.nlm.nih.gov/condition/l1-syndrome">
+<Focus>L1 syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0795953</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CRASH syndrome</Synonym>
+		<Synonym>MASA syndrome</Synonym>
+		<Synonym>spastic paraplegia 1</Synonym>
+		<Synonym>SPG1</Synonym>
+		<Synonym>X-linked complicated hereditary spastic paraplegia type 1</Synonym>
+		<Synonym>X-linked corpus callosum agenesis</Synonym>
+		<Synonym>X-linked hydrocephalus syndrome</Synonym>
+		<Synonym>X-linked hydrocephalus with stenosis of the aqueduct of Sylvius (HSAS)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000570-1" qtype="information">What is (are) L1 syndrome ?</Question>
+			<Answer>L1 syndrome is an inherited disorder that primarily affects the nervous system. L1 syndrome involves a variety of features that were once thought to be distinct disorders, but are now considered to be part of the same syndrome. The most common characteristics of L1 syndrome are muscle stiffness (spasticity) of the lower limbs, intellectual disability, increased fluid in the center of the brain (hydrocephalus), and thumbs bent toward the palm (adducted thumbs). People with L1 syndrome can also have difficulty speaking (aphasia), seizures, and underdeveloped or absent tissue connecting the left and right halves of the brain (agenesis of the corpus callosum). The symptoms of L1 syndrome vary widely among affected individuals, even among members of the same family. Because this disorder involves spasticity of the lower limbs, L1 syndrome is sometimes referred to as spastic paraplegia type 1 (SPG1).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000570-2" qtype="frequency">How many people are affected by L1 syndrome ?</Question>
+			<Answer>L1 syndrome is estimated to occur in 1 in 25,000 to 60,000 males. Females are rarely affected by this condition.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000570-3" qtype="genetic changes">What are the genetic changes related to L1 syndrome ?</Question>
+			<Answer>L1 syndrome is caused by mutations in the L1CAM gene. The L1CAM gene provides instructions for producing the L1 protein, which is found throughout the nervous system on the surface of nerve cells (neurons). The L1 protein plays a role in the development and organization of neurons, the formation of the protective sheath (myelin) that surrounds certain neurons, and the formation of junctions between nerve cells (synapses), where cell-to-cell communication occurs. Mutations in the L1 protein can interfere with these developmental processes. Research suggests that a disruption in the development and function of neurons causes the signs and symptoms of L1 syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000570-4" qtype="inheritance">Is L1 syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000570-5" qtype="treatment">What are the treatments for L1 syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of L1 syndrome:  - Gene Review: Gene Review: Hereditary Spastic Paraplegia Overview  - Gene Review: Gene Review: L1 Syndrome  - Genetic Testing Registry: Corpus callosum, partial agenesis of, X-linked  - Genetic Testing Registry: L1 Syndrome  - Genetic Testing Registry: Spastic paraplegia 1  - Genetic Testing Registry: X-linked hydrocephalus syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

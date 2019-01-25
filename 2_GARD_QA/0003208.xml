@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003208" source="GARD" url="https://rarediseases.info.nih.gov/gard/7146/inflammatory-myofibroblastic-tumor">
+<Focus>Inflammatory myofibroblastic tumor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0334121</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Inflammatory pseudotumor</Synonym>
+		<Synonym>Inflammatory fibrosarcoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003208-1" qtype="information">What is (are) Inflammatory myofibroblastic tumor ?</Question>
+			<Answer>An inflammatory myofibroblastic tumor (IMT) is an uncommon, presumably benign (non-cancerous) tumor made up of cells called myofibroblastic spindle cells. It usually develops in children or young adults, but can affect people of any age. An IMT can occur in almost any part of the body but is most commonly found in the lung, orbit (eye socket), peritoneum (lining of the abdominal cavity and internal organs), and mesentery. Signs and symptoms vary depending on the site of the tumor. Some people with an IMT are asymptomatic, while others may have nonspecific respiratory symptoms, fever, or pain. IMTs may recur, and occasionally become locally invasive and/or spread (metastasize) to other parts of the body. The underlying cause of IMTs is poorly understood. Some cases have been linked to translocations involving the ALK gene. Treatment involves surgical removal when possible, although there are reports of treatment with oral steroids and radiation therapy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003208-2" qtype="causes">What causes Inflammatory myofibroblastic tumor ?</Question>
+			<Answer>What causes inflammatory myofibroblastic tumors? The underlying cause of inflammatory myofibroblastic tumors (IMTs) remains unknown. While some researchers believe it is a true neoplasm, others believe that it represents an immunologic response to an infectious or noninfectious agent. Several associations have been reported between IMT and infections, including: organizing pneumonia Mycobacterium avium intracellulare Corynebacterium equi (a bacteria that affects the lungs) Campylobacter jejuni (a common cause of gastroenteritis) Bacillus sphaericus Coxiella burnetii Epstein-Barr virus E. coli occlusive phlebitis of intrahepatic veins Associations have also been reported between IMT and: previous abdominal surgery trauma ventriculoperitoneal shunt radiation therapy steroid usage An inflammatory reaction to an underlying, low-grade malignancy has also been proposed as a cause. Because there is limited information available to support or refute any of these, the mechanism behind the development of IMTs is still unclear.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

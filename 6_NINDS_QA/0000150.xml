@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000150" source="NINDS" url="http://www.ninds.nih.gov/disorders/holoprosencephaly/holoprosencephaly.htm">
+<Focus>Holoprosencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079541</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000150-1" qtype="information">What is (are) Holoprosencephaly ?</Question>
+			<Answer>Holoprosencephaly is a disorder caused by the failure of the prosencephalon (the embryonic forebrain) to sufficiently divide into the double lobes of the cerebral hemispheres. The result is a single-lobed brain structure and severe skull and facial defects. In most cases of holoprosencephaly, the malformations are so severe that babies die before birth. In less severe cases, babies are born with normal or near-normal brain development and facial deformities that may affect the eyes, nose, and upper lip.
+                
+There are three classifications of holoprosencephaly. Alobar, in which the brain has not divided at all, is usually associated with severe facial deformities. Semilobar, in which the brain&apos;s hemispheres have somewhat divided, causes an intermediate form of the disorder. Lobar, in which there is considerable evidence of separate brain hemispheres, is the least severe form. In some cases of lobar holoprosencephaly the baby&apos;s brain may be nearly normal.
+                
+The least severe of the facial anomalies is the median cleft lip (premaxillary agenesis). The most severe is cyclopia, an abnormality characterized by a single eye located in the area normally occupied by the root of the nose, and a missing nose or a proboscis (a tubular-shaped nose) located above the eye. The least common facial anomaly is ethmocephaly, in which a proboscis separates closely-set eyes. Cebocephaly, another facial anomaly, is characterized by a small, flattened nose with a single nostril situated below incomplete or underdeveloped closely-set eyes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000150-2" qtype="treatment">What are the treatments for Holoprosencephaly ?</Question>
+			<Answer>There is no standard course of treatment for holoprosencephaly. Treatment is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000150-3" qtype="outlook">What is the outlook for Holoprosencephaly ?</Question>
+			<Answer>The prognosis for individuals with the disorder depends on the severity of the brain and facial deformities.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000150-4" qtype="research">what research (or clinical trials) is being done for Holoprosencephaly ?</Question>
+			<Answer>The NINDS supports and conducts a wide range of studies that focus on identifying and learning more about the factors involved in normal brain development. Recent research has identified specific genes that cause holoprosencephaly. The knowledge gained from these fundamental studies provides the foundation for understanding how to develop new ways to treat, and potentially prevent, this disorder.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

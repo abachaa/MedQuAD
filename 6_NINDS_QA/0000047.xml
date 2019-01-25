@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000047" source="NINDS" url="http://www.ninds.nih.gov/disorders/binswangers/binswangers.htm">
+<Focus>Binswanger's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270786</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000047-1" qtype="information">What is (are) Binswanger's Disease ?</Question>
+			<Answer>Binswanger&apos;s disease (BD), also called subcortical vascular dementia, is a type of dementia caused by widespread, microscopic areas of damage to the deep layers of white matter in the brain. The damage is the result of the thickening and narrowing (atherosclerosis) of arteries that feed the subcortical areas of the brain. Atherosclerosis (commonly known as &quot;hardening of the arteries&quot;) is a systemic process that affects blood vessels throughout the body. It begins late in the fourth decade of life and increases in severity with age. As the arteries become more and more narrowed, the blood supplied by those arteries decreases and brain tissue dies. A characteristic pattern of BD-damaged brain tissue can be seen with modern brain imaging techniques such as CT scans or magnetic resonance imaging (MRI). The symptoms associated with BD are related to the disruption of subcortical neural circuits that control what neuroscientists call executive cognitive functioning: short-term memory, organization, mood, the regulation of attention, the ability to act or make decisions, and appropriate behavior. The most characteristic feature of BD is psychomotor slowness - an increase in the length of time it takes, for example, for the fingers to turn the thought of a letter into the shape of a letter on a piece of paper. Other symptoms include forgetfulness (but not as severe as the forgetfulness of Alzheimer&apos;s disease), changes in speech, an unsteady gait, clumsiness or frequent falls, changes in personality or mood (most likely in the form of apathy, irritability, and depression), and urinary symptoms that aren&apos;t caused by urological disease. Brain imaging, which reveals the characteristic brain lesions of BD, is essential for a positive diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000047-2" qtype="treatment">What are the treatments for Binswanger's Disease ?</Question>
+			<Answer>There is no specific course of treatment for BD. Treatment is symptomatic. People with depression or anxiety may require antidepressant medications such as the serotonin-specific reuptake inhibitors (SSRI) sertraline or citalopram. Atypical antipsychotic drugs, such as risperidone and olanzapine, can be useful in individuals with agitation and disruptive behavior. Recent drug trials with the drug memantine have shown improved cognition and stabilization of global functioning and behavior. The successful management of hypertension and diabetes can slow the progression of atherosclerosis, and subsequently slow the progress of BD. Because there is no cure, the best treatment is preventive, early in the adult years, by controlling risk factors such as hypertension, diabetes, and smoking.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000047-3" qtype="outlook">What is the outlook for Binswanger's Disease ?</Question>
+			<Answer>BD is a progressive disease; there is no cure. Changes may be sudden or gradual and then progress in a stepwise manner. BD can often coexist with Alzheimer&apos;s disease. Behaviors that slow the progression of high blood pressure, diabetes, and atherosclerosis -- such as eating a healthy diet and keeping healthy wake/sleep schedules, exercising, and not smoking or drinking too much alcohol -- can also slow the progression of BD.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000047-4" qtype="research">what research (or clinical trials) is being done for Binswanger's Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to BD in its laboratories at the National Institutes of Health (NIH), and also supports additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure neurological disorders, such as BD.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000035" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/anesthesia.html">
+<Focus>Anesthesia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2219802</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000035-1" qtype="information">What is (are) Anesthesia ?</Question>
+			<Answer>If you are having surgery, your doctor will give you medicine called an anesthetic. Anesthetics reduce or prevent pain. There are three main types:       - Local - numbs one small area of the body. You stay awake and alert.    - Regional - blocks pain in an area of the body, such an arm or leg. A common type is epidural anesthesia, which is often used during childbirth.    - General - makes you unconscious. You do not feel any pain, and you do not remember the procedure afterwards.       You may also get a mild sedative to relax you. You stay awake but may not remember the procedure afterwards. Sedation can be used with or without anesthesia.    The type of anesthesia or sedation you get depends on many factors. They include the procedure you are having and your current health.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

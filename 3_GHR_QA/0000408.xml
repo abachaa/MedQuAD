@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000408" source="GHR" url="https://ghr.nlm.nih.gov/condition/gillespie-syndrome">
+<Focus>Gillespie syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0431401</CUI>
+			<CUI>C0812437</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>aniridia-cerebellar ataxia-intellectual disability</Synonym>
+		<Synonym>aniridia-cerebellar ataxia-mental deficiency</Synonym>
+		<Synonym>aniridia, cerebellar ataxia, and mental retardation</Synonym>
+		<Synonym>partial aniridia-cerebellar ataxia-oligophrenia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000408-1" qtype="information">What is (are) Gillespie syndrome ?</Question>
+			<Answer>Gillespie syndrome is a disorder that involves eye abnormalities, problems with balance and coordinating movements (ataxia), and mild to moderate intellectual disability.  Gillespie syndrome is characterized by aniridia, which is the absence of the colored part of the eye (the iris). In most affected individuals, only part of the iris is missing (partial aniridia) in both eyes, but in some affected individuals, partial aniridia affects only one eye, or the entire iris is missing (complete aniridia) in one or both eyes. The absence of all or part of the iris can cause blurry vision (reduced visual acuity) and increased sensitivity to light (photophobia). Rapid, involuntary eye movements (nystagmus) can also occur in Gillespie syndrome.  The balance and movement problems in Gillespie syndrome result from underdevelopment (hypoplasia) of a part of the brain called the cerebellum. This abnormality can cause delayed development of motor skills such as walking. In addition, difficulty controlling the muscles in the mouth can lead to delayed speech development. The difficulties with coordination generally become noticeable in early childhood when the individual is learning these skills. People with Gillespie syndrome usually continue to have an unsteady gait and speech problems. However, the problems do not get worse over time, and in some cases they improve slightly.  Other features of Gillespie syndrome can include abnormalities in the bones of the spine (vertebrae) and malformations of the heart.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000408-2" qtype="frequency">How many people are affected by Gillespie syndrome ?</Question>
+			<Answer>The prevalence of Gillespie syndrome is unknown. Only a few dozen affected individuals have been described in the medical literature. It has been estimated that Gillespie syndrome accounts for about 2 percent of cases of aniridia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000408-3" qtype="genetic changes">What are the genetic changes related to Gillespie syndrome ?</Question>
+			<Answer>Gillespie syndrome can be caused by mutations in the PAX6 gene. The PAX6 gene provides instructions for making a protein that is involved in early development, including the development of the eyes and brain. The PAX6 protein attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the PAX6 protein is called a transcription factor.  Mutations in the PAX6 gene result in the absence of the PAX6 protein or production of a nonfunctional PAX6 protein that is unable to bind to DNA and regulate the activity of other genes. This lack of functional protein disrupts embryonic development, especially the development of the eyes and brain, leading to the signs and symptoms of Gillespie syndrome.  Most people with Gillespie syndrome do not have mutations in the PAX6 gene. In these affected individuals, the cause of the disorder is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000408-4" qtype="inheritance">Is Gillespie syndrome inherited ?</Question>
+			<Answer>In some cases, including those in which Gillespie syndrome is caused by PAX6 gene mutations, the condition occurs in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Some affected individuals inherit the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  Gillespie syndrome can also be inherited in an autosomal recessive pattern, which means both copies of a gene in each cell have mutations. The gene or genes involved in these cases are unknown. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000408-5" qtype="treatment">What are the treatments for Gillespie syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Gillespie syndrome:  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: How Do Health Care Providers Diagnose Intellectual and Developmental Disabilities?  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: What Are Treatments for Intellectual and Developmental Disabilities?  - Genetic Testing Registry: Aniridia, cerebellar ataxia, and mental retardation   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

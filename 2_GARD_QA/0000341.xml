@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000341" source="GARD" url="https://rarediseases.info.nih.gov/gard/5808/anencephaly">
+<Focus>Anencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2021655</CUI>
+			<CUI>C0002902</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Absence of a large part of the brain and the skull</Synonym>
+		<Synonym>Neural tube defects</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000341-1" qtype="information">What is (are) Anencephaly ?</Question>
+			<Answer>Anencephaly is a type of neural tube defect characterized by abnormal development of the brain and the bones of the skull. The neural tube is a narrow channel that normally folds and closes between the 3rd and 4th weeks of pregnancy, forming the brain and spinal cord of the embryo. Anencephaly occurs when the &apos;cephalic&apos; or head end of the neural tube fails to close, causing the absence of a major portion of the brain, skull, and scalp. Infants with this disorder are born without a forebrain (the front part of the brain) and a cerebrum (the thinking and coordinating part of the brain). The remaining brain tissue is often exposed (not covered by bone or skin). Affected babies are usually blind, deaf, unconscious, and unable to feel pain. Almost all babies with anencephaly die before birth, although some may survive a few hours or a few days after birth. Anencephaly is likely caused by an interaction between genetic and environmental factors, many of which remain unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000341-2" qtype="symptoms">What are the symptoms of Anencephaly ?</Question>
+			<Answer>What are the signs and symptoms of Anencephaly? The Human Phenotype Ontology provides the following list of signs and symptoms for Anencephaly. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Anencephaly 90% Primary adrenal insufficiency 90% Spina bifida - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000341-3" qtype="causes">What causes Anencephaly ?</Question>
+			<Answer>What causes anencephaly? The underlying cause of anencephaly is not fully understood. Like other forms of neural tube defects (NTDs), anencephaly is likely caused by the interaction of multiple genes and environmental factors, many of which remain unknown. Variations in many genes may influence the risk of developing anencephaly. The best-studied gene thus far is the MTHFR gene, which gives the body instructions to make a protein used to process the vitamin folate (also called vitamin B9). A deficiency of folate is a known risk factor for NTDs. Other genes involved in folate processing, and the development of the neural tube, may also affect the risk. Researchers have also looked at environmental factors that could contribute to the risk of anencephaly. Folate appears to play a significant role, and studies have shown that taking folic acid (a form of folate), before getting pregnant and very early in pregnancy, significantly reduces the risk to have a baby with a NTD. Other possible maternal risk factors for anencephaly include diabetes mellitus; obesity; exposure to high heat (such as a fever or use of a hot tub or sauna) in early pregnancy; and the use of certain anti-seizure medications during pregnancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000341-4" qtype="inheritance">Is Anencephaly inherited ?</Question>
+			<Answer>Is anencephaly inherited? Most cases of anencephaly are sporadic, which means they occur in people with no family history of anencephaly or other neural tube defects (NTDs). In some cases, it may be associated with a chromosome abnormality, a severe malformation syndrome, or disruption of the amniotic membrane. A small portion of cases have appeared to be familial, but it often does not have a clear inheritance pattern. In isolated populations, anencephaly has been suspected to be due to a single gene. In Iranian Jews, who have high rates of consanguinity (mating with family members), it is inherited in an autosomal recessive manner. Parents who have had a child with anencephaly are at an increased risk to have another affected child (compared with the risk in the general population). Because most cases are believed to be multifactorial (due to interaction of genetic and environmental factors), the recurrence risk is estimated to be between 2% and 5% after a single case. If anencephaly is known to be associated with an underlying disorder, the recurrence risk may depend on that of the underlying disorder. For women who have previously had a fetus or infant with anencephaly, the Centers for Disease Control and Prevention (CDC) recommends increasing the intake of folic acid to 4mg per day beginning at least one month prior to conception. People who have had a pregnancy or child with anencephaly or another NTD, and have questions about future risk, are encouraged to speak with a genetic counselor or other genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

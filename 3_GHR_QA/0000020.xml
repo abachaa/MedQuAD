@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000020" source="GHR" url="https://ghr.nlm.nih.gov/condition/adenylosuccinate-lyase-deficiency">
+<Focus>adenylosuccinate lyase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268126</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>adenylosuccinase deficiency</Synonym>
+		<Synonym>ADSL deficiency</Synonym>
+		<Synonym>succinylpurinemic autism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000020-1" qtype="information">What is (are) adenylosuccinate lyase deficiency ?</Question>
+			<Answer>Adenylosuccinate lyase deficiency is a neurological disorder that causes brain dysfunction (encephalopathy) leading to delayed development of mental and movement abilities (psychomotor delay), autistic behaviors that affect communication and social interaction, and seizures. A characteristic feature that can help with diagnosis of this condition is the presence of chemicals called succinylaminoimidazole carboxamide riboside (SAICAr) and succinyladenosine (S-Ado) in body fluids.  Adenylosuccinate lyase deficiency is classified into three forms based on the severity of the signs and symptoms. The most severe is the neonatal form. Signs and symptoms of this form can be detected at or before birth and can include impaired growth during fetal development and a small head size (microcephaly). Affected newborns have severe encephalopathy, which leads to a lack of movement, difficulty feeding, and life-threatening respiratory problems. Some affected babies develop seizures that do not improve with treatment. Because of the severity of the encephalopathy, infants with this form of the condition generally do not survive more than a few weeks after birth.  Adenylosuccinate lyase deficiency type I (also known as the severe form) is the most common. The signs and symptoms of this form begin in the first months of life. Affected babies have severe psychomotor delay, weak muscle tone (hypotonia), and microcephaly. Many affected infants develop recurrent seizures that are difficult to treat, and some exhibit autistic behaviors, such as repetitive behaviors and a lack of eye contact.  In individuals with adenylosuccinate lyase deficiency type II (also known as the moderate or mild form), development is typically normal for the first few years of life but then slows. Psychomotor delay is considered mild or moderate. Some children with this form of the condition develop seizures and autistic behaviors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000020-2" qtype="frequency">How many people are affected by adenylosuccinate lyase deficiency ?</Question>
+			<Answer>Adenylosuccinate lyase deficiency is a rare disorder; fewer than 100 cases have been reported. The condition is most common in the Netherlands and Belgium, but it has been found worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000020-3" qtype="genetic changes">What are the genetic changes related to adenylosuccinate lyase deficiency ?</Question>
+			<Answer>All forms of adenylosuccinate lyase deficiency are caused by mutations in the ADSL gene. This gene provides instructions for making an enzyme called adenylosuccinate lyase, which performs two steps in the process that produces purine nucleotides. These nucleotides are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP that serve as energy sources in the cell. Adenylosuccinate lyase converts a molecule called succinylaminoimidazole carboxamide ribotide (SAICAR) to aminoimidazole carboxamide ribotide (AICAR) and converts succinyladenosine monophosphate (SAMP) to adenosine monophosphate (AMP).  Most of the mutations involved in adenylosuccinate lyase deficiency change single protein building blocks (amino acids) in the adenylosuccinate lyase enzyme, which impairs its function. Reduced function of this enzyme leads to buildup of SAICAR and SAMP, which are converted through a different reaction to succinylaminoimidazole carboxamide riboside (SAICAr) and succinyladenosine (S-Ado). Researchers believe that SAICAr and S-Ado are toxic; damage to brain tissue caused by one or both of these substances likely underlies the neurological problems that occur in adenylosuccinate lyase deficiency.  Studies suggest that the amount of SAICAr relative to S-Ado reflects the severity of adenylosuccinate lyase deficiency. Individuals with more SAICAr than S-Ado have more severe encephalopathy and psychomotor delay.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000020-4" qtype="inheritance">Is adenylosuccinate lyase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000020-5" qtype="treatment">What are the treatments for adenylosuccinate lyase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of adenylosuccinate lyase deficiency:  - Genetic Testing Registry: Adenylosuccinate lyase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

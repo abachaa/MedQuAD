@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005994" source="GARD" url="https://rarediseases.info.nih.gov/gard/1084/systemic-capillary-leak-syndrome">
+<Focus>Systemic capillary leak syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0343084</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SCLS</Synonym>
+		<Synonym>Clarkson disease</Synonym>
+		<Synonym>Capillary leak syndrome</Synonym>
+		<Synonym>Capillary leak syndrome with monoclonal gammopathy</Synonym>
+		<Synonym>Periodic systemic capillary leak syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005994-1" qtype="information">What is (are) Systemic capillary leak syndrome ?</Question>
+			<Answer>Systemic capillary leak syndrome is a condition in which fluid and proteins leak out of tiny blood vessels and flow into surrounding tissues, resulting in dangerously low blood pressure. Attacks frequently last for several days and require emergency care. Most cases of capillary leak occur randomly in previously healthy adults. Treatment involves preventing attacks using medications which may decrease capillary leakage and interfere with hormones that may cause future leakage. Once an attack is underway, treatment is aimed at controlling blood pressure to maintain blood flow to vital organs and prevention of swelling due to fluid accumulation. Capillary leak syndrome may lead to multiple organ failure, shock and even death.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005994-2" qtype="symptoms">What are the symptoms of Systemic capillary leak syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Systemic capillary leak syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Systemic capillary leak syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Edema of the lower limbs 90% Leukocytosis 90% Abdominal pain 50% Abnormal immunoglobulin level 50% Diarrhea 50% Hypotension 50% Impaired temperature sensation 50% Myalgia 50% Pancreatitis 50% Pulmonary edema 50% Sinusitis 50% Weight loss 50% Abnormality of temperature regulation 7.5% Abnormality of the myocardium 7.5% Abnormality of the pericardium 7.5% Abnormality of the pleura 7.5% Abnormality of the renal tubule 7.5% Multiple myeloma 7.5% Renal insufficiency 7.5% Seizures 7.5% Sudden cardiac death 7.5% Thrombophlebitis 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005994-3" qtype="treatment">What are the treatments for Systemic capillary leak syndrome ?</Question>
+			<Answer>How might systemic capillary leak syndrome be treated? Unfortunately, there is no cure for systemic capillary leak syndrome at this time.  However, recent studies suggest that taking medication known as beta-adrenergic agonists (including terbutaline) or undergoing immunoglobulin intravenous (IV) therapy may reduce the frequency of attacks and may increase survival in individuals affected with this condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

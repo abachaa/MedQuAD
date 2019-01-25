@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000859" source="GHR" url="https://ghr.nlm.nih.gov/condition/rapid-onset-dystonia-parkinsonism">
+<Focus>rapid-onset dystonia parkinsonism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1868681</CUI>
+			<CUI>C0013421</CUI>
+			<CUI>C0393593</CUI>
+			<CUI>C3537200</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DYT12</Synonym>
+		<Synonym>RDP</Synonym>
+		<Synonym>RODP</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000859-1" qtype="information">What is (are) rapid-onset dystonia parkinsonism ?</Question>
+			<Answer>Rapid-onset dystonia parkinsonism is a rare movement disorder. &quot;Rapid-onset&quot; refers to the abrupt appearance of signs and symptoms over a period of hours to days. Dystonia is a condition characterized by involuntary, sustained muscle contractions. Parkinsonism can include tremors, unusually slow movement (bradykinesia), rigidity, an inability to hold the body upright and balanced (postural instability), and a shuffling walk that can cause recurrent falls.  Rapid-onset dystonia parkinsonism causes movement abnormalities that can make it difficult to walk, talk, and carry out other activities of daily life. In this disorder, dystonia affects the arms and legs, causing muscle cramping and spasms. Facial muscles are often affected, resulting in problems with speech and swallowing. The movement abnormalities associated with rapid-onset dystonia parkinsonism tend to begin near the top of the body and move downward, first affecting the facial muscles, then the arms, and finally the legs.  The signs and symptoms of rapid-onset dystonia parkinsonism most commonly appear in adolescence or young adulthood. In some affected individuals, signs and symptoms can be triggered by an infection, physical stress (such as prolonged exercise), emotional stress, or alcohol consumption. The signs and symptoms tend to stabilize within about a month, but they typically do not improve much after that. In some people with this condition, the movement abnormalities abruptly worsen during a second episode several years later.  Some people with rapid-onset dystonia parkinsonism have been diagnosed with anxiety, social phobias, depression, and seizures. It is unclear whether these disorders are related to the genetic changes that cause rapid-onset dystonia parkinsonism.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000859-2" qtype="frequency">How many people are affected by rapid-onset dystonia parkinsonism ?</Question>
+			<Answer>Rapid-onset dystonia parkinsonism appears to be a rare disorder, although its prevalence is unknown. It has been diagnosed in individuals and families from the United States, Europe, and Korea.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000859-3" qtype="genetic changes">What are the genetic changes related to rapid-onset dystonia parkinsonism ?</Question>
+			<Answer>Rapid-onset dystonia parkinsonism is caused by mutations in the ATP1A3 gene. This gene provides instructions for making one part of a larger protein called Na+/K+ ATPase, also known as the sodium pump. This protein is critical for the normal function of nerve cells (neurons) in the brain. It transports charged atoms (ions) into and out of neurons, which is an essential part of the signaling process that controls muscle movement.  Mutations in the ATP1A3 gene reduce the activity of the Na+/K+ ATPase or make the protein unstable. Studies suggest that the defective protein is unable to transport ions normally, which disrupts the electrical activity of neurons in the brain. However, it is unclear how a malfunctioning Na+/K+ ATPase causes the movement abnormalities characteristic of rapid-onset dystonia parkinsonism.  In some people with rapid-onset dystonia parkinsonism, no mutation in the ATP1A3 gene has been identified. The genetic cause of the disorder is unknown in these individuals. Researchers believe that mutations in at least one other gene, which has not been identified, can cause this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000859-4" qtype="inheritance">Is rapid-onset dystonia parkinsonism inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered ATP1A3 gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits a mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  Not everyone who has an ATP1A3 mutation will ultimately develop the signs and symptoms of rapid-onset dystonia parkinsonism. It is unclear why some people with a gene mutation develop movement abnormalities and others do not.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000859-5" qtype="treatment">What are the treatments for rapid-onset dystonia parkinsonism ?</Question>
+			<Answer>These resources address the diagnosis or management of rapid-onset dystonia parkinsonism:  - Gene Review: Gene Review: Rapid-Onset Dystonia-Parkinsonism  - Genetic Testing Registry: Dystonia 12   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

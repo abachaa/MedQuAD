@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000463" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-hyperekplexia">
+<Focus>hereditary hyperekplexia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0234166</CUI>
+			<CUI>C0085292</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital stiff-man syndrome</Synonym>
+		<Synonym>congenital stiff-person syndrome</Synonym>
+		<Synonym>familial hyperekplexia</Synonym>
+		<Synonym>hyperekplexia</Synonym>
+		<Synonym>startle syndrome</Synonym>
+		<Synonym>STHE</Synonym>
+		<Synonym>stiff-baby syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000463-1" qtype="information">What is (are) hereditary hyperekplexia ?</Question>
+			<Answer>Hereditary hyperekplexia is a condition in which affected infants have increased muscle tone (hypertonia) and an exaggerated startle reaction to unexpected stimuli, especially loud noises. Following the startle reaction, infants experience a brief period in which they are very rigid and unable to move. During these rigid periods, some infants stop breathing, which, if prolonged, can be fatal. This condition may explain some cases of sudden infant death syndrome (SIDS), which is a major cause of unexplained death in babies younger than 1 year. Infants with hereditary hyperekplexia have hypertonia at all times, except when they are sleeping.  Other signs and symptoms of hereditary hyperekplexia can include muscle twitches when falling asleep (hypnagogic myoclonus) and movements of the arms or legs while asleep. Some infants, when tapped on the nose, extend their head forward and have spasms of the limb and neck muscles. Rarely, infants with hereditary hyperekplexia experience recurrent seizures (epilepsy).  The signs and symptoms of hereditary hyperekplexia typically fade by age 1. However, older individuals with hereditary hyperekplexia may still startle easily and have periods of rigidity, which can cause them to fall down. Some individuals with this condition have a low tolerance for crowded places and loud noises. Some affected people have persistent limb movements during sleep. Affected individuals who have epilepsy have the disorder throughout their lives.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000463-2" qtype="frequency">How many people are affected by hereditary hyperekplexia ?</Question>
+			<Answer>The exact prevalence of hereditary hyperekplexia is unknown. This condition has been identified in more than 70 families worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000463-3" qtype="genetic changes">What are the genetic changes related to hereditary hyperekplexia ?</Question>
+			<Answer>At least five genes are associated with hereditary hyperekplexia. Most of these genes provide instructions for producing proteins that are found in nerve cells (neurons). They play a role in how neurons respond to a molecule called glycine. This molecule acts as a neurotransmitter, which is a chemical messenger that transmits signals in the nervous system. Gene mutations that cause hereditary hyperekplexia disrupt normal cell signaling in the spinal cord and the part of the brain that is connected to the spinal cord (the brainstem).  Approximately 80 percent of cases of hereditary hyperekplexia are caused by mutations in the GLRA1 gene. The GLRA1 gene provides instructions for making one part, the alpha ()1 subunit, of the glycine receptor protein. GLRA1 gene mutations lead to the production of a receptor that cannot properly respond to glycine. As a result, glycine is less able to transmit signals in the spinal cord and brainstem. Mutations in the other four genes account for a small percentage of all cases of hereditary hyperekplexia.  A disruption in cell signaling caused by mutations in the five genes associated with hereditary hyperekplexia is thought to cause the abnormal muscle movements, exaggerated startle reaction, and other symptoms characteristic of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000463-4" qtype="inheritance">Is hereditary hyperekplexia inherited ?</Question>
+			<Answer>Hereditary hyperekplexia has different inheritance patterns.  This condition can be inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.  Hereditary hyperekplexia can also be inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive disorder typically each carry one copy of the altered gene, but do not show signs and symptoms of the disorder.  Rarely, hereditary hyperekplexia is inherited in an X-linked pattern. In these cases, the gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell is sufficient to cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000463-5" qtype="treatment">What are the treatments for hereditary hyperekplexia ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary hyperekplexia:  - Gene Review: Gene Review: Hyperekplexia  - Genetic Testing Registry: Early infantile epileptic encephalopathy 8  - Genetic Testing Registry: Hyperekplexia hereditary   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

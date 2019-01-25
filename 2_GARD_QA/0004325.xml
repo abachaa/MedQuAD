@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004325" source="GARD" url="https://rarediseases.info.nih.gov/gard/6454/necrotizing-fasciitis">
+<Focus>Necrotizing fasciitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238124</CUI>
+			<CUI>C0015645</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004325-1" qtype="information">What is (are) Necrotizing fasciitis ?</Question>
+			<Answer>Necrotizing fasciitis is a serious infection of the skin, subcutaneous tissue (tissue just beneath the skin) and fascia. The infection can arise suddenly and spread quickly. Necrotizing fasciitis can be caused by several different types of bacteria. Early signs include flu-like symptoms and redness and pain around the infection site. If the infection is not treated promptly, it can lead to multiple organ failure and death. As a result, prompt diagnosis and treatment is essential. Treatment typically includes intravenous antibiotics and surgery to remove infected and dead tissue.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004325-2" qtype="symptoms">What are the symptoms of Necrotizing fasciitis ?</Question>
+			<Answer>What are the signs and symptoms of necrotizing fasciitis? Symptoms often begin within hours of an injury. Intense pain and tenderness over the affected area are often considered the hallmark symptoms of necrotizing fasciitis (NF). The pain is often described as severe and may raise suspicion of a torn muscle. Some early symptoms may be mistaken for the flu and can include fever, sore throat, stomach ache, nausea, diarrhea, chills, and general body aches. The patient may notice redness around the area which spreads quickly; the affected area can eventually become swollen, shiny, discolored, and hot to the touch. In addition, there may be ulcers or blisters. If the infection continues to spread, the patient may experience the following: dehydration, high fever, fast heart rate, and low blood pressure. Pain may actually improve as tissues and the nerves are destroyed. As the infection spreads, vital organs may be affected and the patient may become confused or delirious. If not successfully treated, NF can lead to shock and eventual death.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004325-3" qtype="causes">What causes Necrotizing fasciitis ?</Question>
+			<Answer>What causes necrotizing fasciitis? Bacteria that can cause necrotizing fasciitis (NF) include the following: Klebsiella, Clostridium, and Escherichia coli; group A Streptococcus is the most common cause. Anyone can develop NF. Approximately 50% of necrotizing fasciitis cases caused by streptococcal bacteria occur in young and otherwise healthy individuals. Although necrotizing fasciitis most frequently develops after trauma that causes a break in the skin, it can also develop after minor trauma that occurs without a break in the skin. NF can occur as a complication of a surgical procedure; it can also occur at the site of a relatively minor injury such as an insect bite or an injection. In addition, underlying illnesses which weaken the immune system may increase the risk that a person will develop NF. Studies have even suggested a possible relationship between the use of nonsteroidal anti-inflammatory medications (NSAIDs) during varicella infections and the development of necrotizing fasciitis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004325-4" qtype="treatment">What are the treatments for Necrotizing fasciitis ?</Question>
+			<Answer>How might necrotizing fasciitis be treated? Accurate and prompt diagnosis, treatment with intravenous (IV) antibiotics, and surgery to remove dead tissue are all important for treating necrotizing fasciitis. Since the blood supply to the infected tissue is impaired, antibiotics cannot penetrate into the infected tissue. As a result, surgery to remove the dead, damaged, or infected tissue is the cornerstone of treatment for necrotizing fasciitis. In addition, early surgical treatment may minimize tissue loss, eliminating the need for amputation of the infected extremity. The choice of antibiotics will likely depend on the particular bacteria involved. Supplemental oxygen, fluids, and medicines may be needed to raise the blood pressure. Hyperbaric oxygen therapy and intravenous immunoglobulin may also be considered, but their use in patients with NF is considered controversial by some.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

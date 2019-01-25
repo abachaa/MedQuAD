@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000170" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/chestinjuriesanddisorders.html">
+<Focus>Chest Injuries and Disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039980</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000170-1" qtype="information">What is (are) Chest Injuries and Disorders ?</Question>
+			<Answer>The chest is the part of the body between your neck and your abdomen. It includes the ribs and breastbone. Inside your chest are several organs, including the heart, lungs, and esophagus. The pleura, a large thin sheet of tissue, lines the inside of the chest cavity.    Chest injuries and disorders include       - Heart diseases    - Lung diseases and collapsed lung    - Pleural disorders    - Esophagus disorders    - Broken ribs    - Thoracic aortic aneurysms    - Disorders of the mediastinum, the space between the lungs, breastbone, and spine</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

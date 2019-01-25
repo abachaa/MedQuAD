@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000181" source="NINDS" url="http://www.ninds.nih.gov/disorders/leukodystrophy/leukodystrophy.htm">
+<Focus>Leukodystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023520</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000181-1" qtype="information">What is (are) Leukodystrophy ?</Question>
+			<Answer>Leukodystrophy refers to progressive degeneration of the white matter of the brain due to imperfect growth or development of the myelin sheath, the fatty covering that acts as an insulator around nerve fiber. Myelin, which lends its color to the white matter of the brain, is a complex substance made up of at least ten different chemicals. The leukodystrophies are a group of disorders that are caused by genetic defects in how myelin produces or metabolizes these chemicals. Each of the leukodystrophies is the result of a defect in the gene that controls one (and only one) of the chemicals. Specific leukodystrophies include metachromatic leukodystrophy, Krabb disease, adrenoleukodystrophy, Pelizaeus-Merzbacher disease, Canavan disease, Childhood Ataxia with Central Nervous System Hypomyelination or CACH (also known as Vanishing White Matter Disease), Alexander disease, Refsum disease, and cerebrotendinous xanthomatosis. The most common symptom of a leukodystrophy disease is a gradual decline in an infant or child who previously appeared well. Progressive loss may appear in body tone, movements, gait, speech, ability to eat, vision, hearing, and behavior. There is often a slowdown in mental and physical development. Symptoms vary according to the specific type of leukodystrophy, and may be difficult to recognize in the early stages of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000181-2" qtype="treatment">What are the treatments for Leukodystrophy ?</Question>
+			<Answer>Treatment for most of the leukodystrophies is symptomatic and supportive, and may include medications, physical, occupational, and speech therapies; and nutritional, educational, and recreational programs. Bone marrow transplantation is showing promise for a few of the leukodystrophies.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000181-3" qtype="outlook">What is the outlook for Leukodystrophy ?</Question>
+			<Answer>The prognosis for the leukodystrophies varies according to the specific type of leukodystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000181-4" qtype="research">what research (or clinical trials) is being done for Leukodystrophy ?</Question>
+			<Answer>The NINDS supports research on genetic disorders, including the leukodystrophies. The goals of this research are to increase scientific understanding of these disorders, and to find ways to prevent, treat, and, ultimately, cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

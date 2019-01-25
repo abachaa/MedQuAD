@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000622" source="GHR" url="https://ghr.nlm.nih.gov/condition/mandibuloacral-dysplasia">
+<Focus>mandibuloacral dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432291</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>mandibuloacral dysostosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000622-1" qtype="information">What is (are) mandibuloacral dysplasia ?</Question>
+			<Answer>Mandibuloacral dysplasia is a condition that causes a variety of abnormalities involving bone development, skin coloring (pigmentation), and fat distribution. People with this condition may grow slowly after birth. Most affected individuals are born with an underdeveloped lower jaw bone (mandible) and small collar bones (clavicles), leading to the characteristic features of a small chin and sloped shoulders. Other bone problems include loss of bone from the tips of the fingers (acroosteolysis), which causes bulbous finger tips; delayed closure of certain skull bones; and joint deformities (contractures).  People with mandibuloacral dysplasia can have mottled or patchy skin pigmentation or other skin abnormalities. Some people with this condition have features of premature aging (a condition called progeria), such as thin skin, loss of teeth, loss of hair, and a beaked nose. Some individuals with mandibuloacral dysplasia have metabolic problems, such as diabetes.  A common feature of mandibuloacral dysplasia is a lack of fatty tissue under the skin (lipodystrophy) in certain regions of the body. The two types of this disorder, mandibuloacral dysplasia with type A lipodystrophy (MADA) and mandibuloacral dysplasia with type B lipodystrophy (MADB) are distinguished by the pattern of fat distribution throughout the body. Type A is described as partial lipodystrophy; affected individuals have a loss of fatty tissue from the torso and limbs, but it may build up around the neck and shoulders. Type B is a generalized lipodystrophy, with loss of fatty tissue in the face, torso, and limbs.  MADA usually begins in adulthood, although children can be affected. MADB begins earlier, often just after birth. Many babies with MADB are born prematurely.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000622-2" qtype="frequency">How many people are affected by mandibuloacral dysplasia ?</Question>
+			<Answer>Mandibuloacral dysplasia is a rare condition; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000622-3" qtype="genetic changes">What are the genetic changes related to mandibuloacral dysplasia ?</Question>
+			<Answer>The two forms of mandibuloacral dysplasia are caused by mutations in different genes. Mutations in the LMNA gene cause MADA, and mutations in the ZMPSTE24 gene cause MADB. Within cells, these genes are involved in maintaining the structure of the nucleus and may play a role in many cellular processes.  The LMNA gene provides instructions for making two related proteins, lamin A and lamin C. These proteins act as scaffolding (supporting) components of the nuclear envelope, which is the membrane that surrounds the nucleus in cells. The nuclear envelope regulates the movement of molecules into and out of the nucleus and may help regulate the activity of certain genes. Mutations in this gene likely change the structure of lamin A and lamin C.  The lamin A protein (but not lamin C) must be processed within the cell before becoming part of the nuclear envelope. The protein produced from the ZMPSTE24 gene is involved in this processing; it cuts the immature lamin A protein (prelamin A) at a particular location, forming mature lamin A. Mutations in the ZMPSTE24 gene lead to a buildup of prelamin A and a shortage of the mature protein.  Mutations in the LMNA or ZMPSTE24 gene likely disrupt the structure of the nuclear envelope. Researchers are working to understand how these genetic changes result in the signs and symptoms of mandibuloacral dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000622-4" qtype="inheritance">Is mandibuloacral dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000622-5" qtype="treatment">What are the treatments for mandibuloacral dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of mandibuloacral dysplasia:  - Genetic Testing Registry: Mandibuloacral dysostosis  - Genetic Testing Registry: Mandibuloacral dysplasia with type B lipodystrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

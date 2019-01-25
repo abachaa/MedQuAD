@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000963" source="GHR" url="https://ghr.nlm.nih.gov/condition/surfactant-dysfunction">
+<Focus>surfactant dysfunction</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3711368</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>interstitial lung disease due to surfactant deficiency</Synonym>
+		<Synonym>pulmonary surfactant metabolism dysfunction</Synonym>
+		<Synonym>surfactant metabolism deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000963-1" qtype="information">What is (are) surfactant dysfunction ?</Question>
+			<Answer>Surfactant dysfunction is a lung disorder that causes breathing problems. This condition results from abnormalities in the composition or function of surfactant, a mixture of certain fats (called phospholipids) and proteins that lines the lung tissue and makes breathing easy. Without normal surfactant, the tissue surrounding the air sacs in the lungs (the alveoli) sticks together (because of a force called surface tension) after exhalation, causing the alveoli to collapse. As a result, filling the lungs with air on each breath becomes very difficult, and the delivery of oxygen to the body is impaired.  The signs and symptoms of surfactant dysfunction can vary in severity. The most severe form of this condition causes respiratory distress syndrome in newborns. Affected babies have extreme difficulty breathing and are unable to get enough oxygen. The lack of oxygen can damage the baby&apos;s brain and other organs. This syndrome leads to respiratory failure, and most babies with this form of the condition do not survive more than a few months.  Less severe forms of surfactant dysfunction cause gradual onset of breathing problems in children or adults. Signs and symptoms of these milder forms are abnormally rapid breathing (tachypnea); low concentrations of oxygen in the blood (hypoxemia); and an inability to grow or gain weight at the expected rate (failure to thrive).  There are several types of surfactant dysfunction, which are identified by the genetic cause of the condition. One type, called SP-B deficiency, causes respiratory distress syndrome in newborns. Other types, known as SP-C dysfunction and ABCA3 deficiency, have signs and symptoms that range from mild to severe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000963-2" qtype="frequency">How many people are affected by surfactant dysfunction ?</Question>
+			<Answer>One type of surfactant dysfunction, SP-B deficiency, is estimated to occur in 1 in 1 million newborns worldwide. The prevalence of surfactant dysfunction due to other causes is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000963-3" qtype="genetic changes">What are the genetic changes related to surfactant dysfunction ?</Question>
+			<Answer>Surfactant dysfunction is caused by mutations in one of several genes, including SFTPB, SFTPC, and ABCA3. Each of these genes is involved in the production of surfactant. The production and release of surfactant is a complex process. The phospholipids and proteins that make up surfactant are packaged in cellular structures known as lamellar bodies. These structures are also important for some processing of surfactant proteins, which is necessary for the proteins to mature and become functional. Surfactant is released from the lung cells and spreads across the tissue that surrounds alveoli. This substance lowers surface tension, which keeps the alveoli from collapsing after exhalation and makes breathing easy.  The SFTPB and SFTPC genes provide instructions for making surfactant protein-B (SP-B) and surfactant protein-C (SP-C), respectively, two of the four proteins in surfactant. These two proteins help spread the surfactant across the surface of the lung tissue, aiding in the surface tension-lowering property of surfactant. In addition, SP-B plays a role in the formation of lamellar bodies.  Mutations in the SFTPB gene cause a type of surfactant dysfunction sometimes referred to as SP-B deficiency. These mutations lead to a reduction in or absence of mature SP-B. In addition, SFTPB gene mutations cause abnormal processing of SP-C, resulting in a lack of mature SP-C and a buildup of unprocessed forms of SP-C. These changes lead to abnormal surfactant composition and decreased surfactant function. The loss of functional surfactant raises surface tension in the alveoli, causing severe breathing problems. The combination of SP-B and SP-C dysfunction may explain why the signs and symptoms of SP-B deficiency are so severe.  Mutations in the SFTPC gene are involved in a type of surfactant dysfunction sometimes called SP-C dysfunction. These mutations result in a reduction or absence of mature SP-C and the buildup of abnormal forms of SP-C. It is unclear which of these outcomes causes the signs and symptoms of SP-C dysfunction. Lack of mature SP-C can lead to abnormal composition of surfactant and decreased surfactant function. Alternatively, research suggests that abnormally processed SP-C proteins form the wrong three-dimensional shape and accumulate inside the lung cells. These misfolded proteins may trigger a cellular response that results in cell damage and death. This damage may disrupt surfactant production and release.  The ABCA3 gene provides instructions for making a protein that is found in the membrane that surrounds lamellar bodies. The ABCA3 protein transports phospholipids into lamellar bodies where they form surfactant. The ABCA3 protein also appears to be involved in the formation of lamellar bodies.  ABCA3 gene mutations, which cause a type of surfactant dysfunction sometimes referred to as ABCA3 deficiency, lead to reduction or absence of the protein&apos;s function. Without ABCA3 protein function, the transport of surfactant phospholipids is decreased. In addition, lamellar body formation is impaired, which causes abnormal processing of SP-B and SP-C. ABCA3 gene mutations result in abnormal surfactant composition and function. It has been suggested that mutations that eliminate ABCA3 protein function cause severe forms of surfactant dysfunction, and mutations that leave some residual ABCA3 activity cause milder forms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000963-4" qtype="inheritance">Is surfactant dysfunction inherited ?</Question>
+			<Answer>Surfactant dysfunction can have different inheritance patterns depending on its genetic cause.  When caused by mutations in the SFTPB or ABCA3 gene, this condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  When caused by mutations in the SFTPC gene, this condition has an autosomal dominant inheritance pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In about half of cases caused by changes in the SFTPC gene, an affected person inherits the mutation from one affected parent. The remainder result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000963-5" qtype="treatment">What are the treatments for surfactant dysfunction ?</Question>
+			<Answer>These resources address the diagnosis or management of surfactant dysfunction:  - Children&apos;s Interstitial and Diffuse Lung Disease (chILD) Foundation: Surfactant Deficiency  - Genetic Testing Registry: Surfactant metabolism dysfunction, pulmonary, 1  - Genetic Testing Registry: Surfactant metabolism dysfunction, pulmonary, 2  - Genetic Testing Registry: Surfactant metabolism dysfunction, pulmonary, 4  - Genetic Testing Registry: Surfactant metabolism dysfunction, pulmonary, 5  - National Heart Lung and Blood Institute: How is Respiratory Distress Syndrome Diagnosed?  - National Heart Lung and Blood Institute: How is Respiratory Distress Syndrome Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

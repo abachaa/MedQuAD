@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000927" source="GHR" url="https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-2">
+<Focus>spastic paraplegia type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751604</CUI>
+			<CUI>C0030486</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hereditary X-linked Recessive Spastic Paraplegia</Synonym>
+		<Synonym>spastic paraplegia 2</Synonym>
+		<Synonym>X linked Recessive Hereditary Spastic Paraplegia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000927-1" qtype="information">What is (are) spastic paraplegia type 2 ?</Question>
+			<Answer>Spastic paraplegia type 2 is part of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the lower limbs (paraplegia). Hereditary spastic paraplegias are divided into two types: pure and complex. The pure types involve the lower limbs. The complex types involve the lower limbs and can also affect the upper limbs to a lesser degree; the structure or functioning of the brain; and the nerves connecting the brain and spinal cord to muscles and sensory cells that detect sensations such as touch, pain, heat, and sound (the peripheral nervous system). Spastic paraplegia type 2 can occur in either the pure or complex form.  People with the pure form of spastic paraplegia type 2 experience spasticity in the lower limbs, usually without any additional features. People with the complex form of spastic paraplegia type 2 have lower limb spasticity and can also experience problems with movement and balance (ataxia); involuntary movements of the eyes (nystagmus); mild intellectual disability; involuntary, rhythmic shaking (tremor); and degeneration (atrophy) of the optic nerves, which carry information from the eyes to the brain. Symptoms usually become apparent between the ages of 1 and 5 years; those affected are typically able to walk and have a normal lifespan.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000927-2" qtype="frequency">How many people are affected by spastic paraplegia type 2 ?</Question>
+			<Answer>The prevalence of all hereditary spastic paraplegias combined is estimated to be 2 to 6 in 100,000 people worldwide. Spastic paraplegia type 2 likely accounts for only a small percentage of all spastic paraplegia cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000927-3" qtype="genetic changes">What are the genetic changes related to spastic paraplegia type 2 ?</Question>
+			<Answer>Mutations in the PLP1 gene cause spastic paraplegia 2. The PLP1 gene provides instructions for producing proteolipid protein 1 and a modified version (isoform) of proteolipid protein 1, called DM20. Proteolipid protein 1 and DM20 are primarily located in the brain and spinal cord (central nervous system) and are the main proteins found in myelin, the fatty covering that insulates nerve fibers. A lack of proteolipid protein 1 and DM20 can cause a reduction in the formation of myelin (dysmyelination) which can impair nervous system function, resulting in the signs and symptoms of spastic paraplegia type 2.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000927-4" qtype="inheritance">Is spastic paraplegia type 2 inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. Because females have two copies of the X chromosome, one altered copy of the gene in each cell usually leads to less severe symptoms in females than in males, or may cause no symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one altered copy of the gene in each cell is called a carrier. She can pass on the gene, but generally does not experience signs and symptoms of the disorder. Some females who carry a PLP1 mutation, however, may experience muscle stiffness and a decrease in intellectual function. Females with one PLP1 mutation have an increased risk of experiencing progressive deterioration of cognitive functions (dementia) later in life.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000927-5" qtype="treatment">What are the treatments for spastic paraplegia type 2 ?</Question>
+			<Answer>These resources address the diagnosis or management of spastic paraplegia type 2:  - Gene Review: Gene Review: Hereditary Spastic Paraplegia Overview  - Gene Review: Gene Review: PLP1-Related Disorders  - Genetic Testing Registry: Spastic paraplegia 2  - Spastic Paraplegia Foundation, Inc.: Treatments and Therapies   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

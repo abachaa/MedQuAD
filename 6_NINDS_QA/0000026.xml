@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000026" source="NINDS" url="http://www.ninds.nih.gov/disorders/apraxia/apraxia.htm">
+<Focus>Apraxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003635</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000026-1" qtype="information">What is (are) Apraxia ?</Question>
+			<Answer>Apraxia (called &quot;dyspraxia&quot; if mild) is a neurological disorder characterized by loss of the ability to execute or carry out skilled movements and gestures, despite having the desire and the physical ability to perform them. Apraxia results from dysfunction of the cerebral hemispheres of the brain, especially the parietal lobe, and can arise from many diseases or damage to the brain.  There are several kinds of apraxia, which may occur alone or together. The most common is buccofacial or orofacial apraxia, which causes the inability to carry out facial movements on command such as licking lips, whistling, coughing, or winking. Other types of apraxia include limb-kinetic apraxia (the inability to make fine, precise movements with an arm or leg), ideomotor apraxia (the inability to make the proper movement in response to a verbal command), ideational apraxia (the inability to coordinate activities with multiple, sequential movements, such as dressing, eating, and bathing), verbal apraxia (difficulty coordinating mouth and speech movements), constructional apraxia (the inability to copy, draw, or construct simple figures), and oculomotor apraxia (difficulty moving the eyes on command). Apraxia may be accompanied by a language disorder called aphasia. Corticobasal ganglionic degeneration is a disease that causes a variety of types of apraxia, especially in elderly adults.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000026-2" qtype="treatment">What are the treatments for Apraxia ?</Question>
+			<Answer>Generally, treatment for individuals with apraxia includes physical, speech,or occupational therapy. If apraxia is a symptom of another disorder, the underlying disorder should be treated.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000026-3" qtype="outlook">What is the outlook for Apraxia ?</Question>
+			<Answer>The prognosis for individuals with apraxia varies and depends partly on the underlying cause. Some individuals improve significantly while others may show very little improvement.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000026-4" qtype="research">what research (or clinical trials) is being done for Apraxia ?</Question>
+			<Answer>The NINDS supports research on movement disorders and conditions such as apraxia. The goals of this research are to increase scientific understanding of these disorders, and to find ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

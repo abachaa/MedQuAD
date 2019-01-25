@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000168" source="GHR" url="https://ghr.nlm.nih.gov/condition/cerebral-cavernous-malformation">
+<Focus>cerebral cavernous malformation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2919945</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CCM</Synonym>
+		<Synonym>central nervous system cavernous hemangioma</Synonym>
+		<Synonym>cerebral cavernous hemangioma</Synonym>
+		<Synonym>familial cavernous hemangioma</Synonym>
+		<Synonym>familial cavernous malformation</Synonym>
+		<Synonym>familial cerebral cavernous angioma</Synonym>
+		<Synonym>familial cerebral cavernous malformation</Synonym>
+		<Synonym>intracerebral cavernous hemangioma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000168-1" qtype="information">What is (are) cerebral cavernous malformation ?</Question>
+			<Answer>Cerebral cavernous malformations are collections of small blood vessels (capillaries) in the brain that are enlarged and irregular in structure. These capillaries have abnormally thin walls, and they lack other support tissues, such as elastic fibers, which normally make them stretchy. As a result, the blood vessels are prone to leakage, which can cause the health problems related to this condition. Cavernous malformations can occur anywhere in the body, but usually produce serious signs and symptoms only when they occur in the brain and spinal cord (which are described as cerebral).  Approximately 25 percent of individuals with cerebral cavernous malformations never experience any related health problems. Other people with this condition may experience serious signs and symptoms such as headaches, seizures, paralysis, hearing or vision loss, and bleeding in the brain (cerebral hemorrhage). Severe brain hemorrhages can result in death. The location and number of cerebral cavernous malformations determine the severity of this disorder. These malformations can change in size and number over time.  There are two forms of the condition: familial and sporadic. The familial form is passed from parent to child, and affected individuals typically have multiple cerebral cavernous malformations. The sporadic form occurs in people with no family history of the disorder. These individuals typically have only one malformation.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000168-2" qtype="frequency">How many people are affected by cerebral cavernous malformation ?</Question>
+			<Answer>Cerebral cavernous malformations affect about 0.5 percent of the population worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000168-3" qtype="genetic changes">What are the genetic changes related to cerebral cavernous malformation ?</Question>
+			<Answer>Mutations in at least three genes, KRIT1 (also known as CCM1), CCM2, and PDCD10 (also known as CCM3), cause familial cerebral cavernous malformations.  The precise functions of these genes are not fully understood. Studies show that the proteins produced from these genes are found in the junctions connecting neighboring blood vessel cells. The proteins interact with each other as part of a complex that strengthens the interactions between cells and limits leakage from the blood vessels. Mutations in any of the three genes impair the function of the protein complex, resulting in weakened cell-to-cell junctions and increased leakage from vessels as seen in cerebral cavernous malformations.  Mutations in these three genes account for 85 to 95 percent of all cases of familial cerebral cavernous malformations. The remaining 5 to 15 percent of cases may be due to mutations in unidentified genes or to other unknown causes. Mutations in the KRIT1, CCM2, and PDCD10 genes are not involved in sporadic cerebral cavernous malformations. The cause of this form of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000168-4" qtype="inheritance">Is cerebral cavernous malformation inherited ?</Question>
+			<Answer>This condition has an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In the familial form, an affected person inherits the mutation from one affected parent.  Most people with cerebral cavernous malformations have the sporadic form of the disorder. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000168-5" qtype="treatment">What are the treatments for cerebral cavernous malformation ?</Question>
+			<Answer>These resources address the diagnosis or management of cerebral cavernous malformation:  - Angioma Alliance: Imaging and Diagnostics  - Gene Review: Gene Review: Familial Cerebral Cavernous Malformation  - Genetic Testing Registry: Cerebral cavernous malformation  - Genetic Testing Registry: Cerebral cavernous malformations 1  - Genetic Testing Registry: Cerebral cavernous malformations 2  - Genetic Testing Registry: Cerebral cavernous malformations 3  - MedlinePlus Encyclopedia: Cerebral angiography   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

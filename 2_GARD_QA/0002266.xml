@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002266" source="GARD" url="https://rarediseases.info.nih.gov/gard/7229/familial-hypertrophic-cardiomyopathy">
+<Focus>Familial hypertrophic cardiomyopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0949658</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Asymmetric septal hypertrophy</Synonym>
+		<Synonym>Hereditary ventricular hypertrophy</Synonym>
+		<Synonym>Idiopathic hypertrophic subaortic stenosis</Synonym>
+		<Synonym>Cardiomyopathy familial hypertrophic</Synonym>
+		<Synonym>Heritable hypertrophic cardiomyopathy</Synonym>
+		<Synonym>Myosinopathies</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002266-1" qtype="information">What is (are) Familial hypertrophic cardiomyopathy ?</Question>
+			<Answer>Familial hypertrophic cardiomyopathy (HCM) is an inherited heart condition characterized by thickening of the heart muscle. The thickening most often occurs in the muscle wall that separates the left and right ventricles from each other (interventricular septum). This may restrict the flow of oxygen-rich blood from the heart, or it may lead to less efficient pumping of blood. Signs and symptoms can vary. While some people have no symptoms, others may have chest pain, shortness of breath, palpitations, lightheadedness, dizziness, and/or fainting. Even in the absence of symptoms, familial HCM can have serious consequences such as life-threatening arrhythmias, heart failure, and an increased risk of sudden death. Familial HCM may be caused by mutations in any of several genes and is typically inherited in an autosomal dominant manner. Treatment may depend on severity of symptoms and may include medications, surgical procedures, and/or an implantable cardioverter-defibrillator (ICD).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002266-2" qtype="symptoms">What are the symptoms of Familial hypertrophic cardiomyopathy ?</Question>
+			<Answer>What are the signs and symptoms of Familial hypertrophic cardiomyopathy? The Human Phenotype Ontology provides the following list of signs and symptoms for Familial hypertrophic cardiomyopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis - Arrhythmia - Asymmetric septal hypertrophy - Autosomal dominant inheritance - Congestive heart failure - Subaortic stenosis - Sudden death - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002266-3" qtype="causes">What causes Familial hypertrophic cardiomyopathy ?</Question>
+			<Answer>What causes familial hypertrophic cardiomyopathy? Familial hypertrophic cardiomyopathy (HCM) is caused by mutations in any of several genes. The genes most commonly responsible are the MYH7, MYBPC3, TNNT2, and TNNI3 genes. Other genes that have not yet been identified may also be responsible for familial HCM. The genes known to be responsible for familial HCM give the body instructions to make proteins that play important roles in contraction of the heart muscle. The proteins form structures in muscle cells called sarcomeres, which are needed for muscle contractions. Sarcomeres are made of protein fibers that attach to each other and release, allowing muscles to contract. The contractions of heart muscle are needed to pump blood to the rest of the body. While it is unclear exactly how mutations in these genes cause familial HCM, they are thought to lead to abnormal structure or function of sarcomeres, or reduce the amount of proteins made. When the function of sarcomeres is impaired, normal heart muscle contractions are disrupted.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002266-4" qtype="inheritance">Is Familial hypertrophic cardiomyopathy inherited ?</Question>
+			<Answer>How is familial hypertrophic cardiomyopathy inherited? Familial hypertrophic cardiomyopathy (HCM) is inherited in an autosomal dominant manner. This means that having only one changed (mutated) copy of the responsible gene in each cell is enough to cause features of the condition. When a person with an autosomal dominant condition has children, each child has a 50% (1 in 2) chance to inherit the mutated copy of the gene. In rare cases, a person with familial HCM has a mutation in both copies of the responsible gene, which leads to more severe signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002266-5" qtype="exams and tests">How to diagnose Familial hypertrophic cardiomyopathy ?</Question>
+			<Answer>Is genetic testing available for familial hypertrophic cardiomyopathy? Yes. Familial hypertrophic cardiomyopathy (HCM) is caused by mutations in any of several known genes, and possibly other genes that have not yet been identified. Genetic testing for HCM is most informative as a &quot;family test&quot; rather than a test of one person. Results are most accurately interpreted after merging both genetic and medical test results from multiple family members. Ideally, the family member first having genetic testing should have a definitive diagnosis of HCM and be the most severely affected person in the family. Genetic testing of at-risk, asymptomatic relatives is possible when the responsible mutation has been identified in an affected family member. Testing should be performed in the context of formal genetic counseling. An algorithm showing a general approach to finding the specific genetic cause in people with HCM can be viewed here. The Genetic Testing Registry (GTR) provides information about the genetic tests for familial HCM. The intended audience for the GTR is health care providers and researchers. Patients and consumers with specific questions about a genetic test should contact a health care provider or a genetics professional. As is often the case with genetic testing in general, there are benefits and limitations of genetic testing for familial HCM. Testing may confirm the diagnosis in a person with symptoms, and may help to identify family members at risk. However, results are sometimes unclear; testing cannot detect all mutations; and results cannot be used to predict whether a person will develop symptoms, age of onset, or long-term outlook (prognosis).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

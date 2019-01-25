@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000010" source="GHR" url="https://ghr.nlm.nih.gov/condition/acromicric-dysplasia">
+<Focus>acromicric dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265287</CUI>
+			<CUI>C3489726</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ACMICD</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000010-1" qtype="information">What is (are) acromicric dysplasia ?</Question>
+			<Answer>Acromicric dysplasia is a condition characterized by severely short stature, short limbs, stiff joints, and distinctive facial features.  Newborns with acromicric dysplasia are of normal size, but slow growth over time results in short stature. The average height of adults with this disorder is about 4 feet, 2 inches for women and 4 feet, 5 inches for men. The long bones of the arms and legs, and the bones in the hands and feet, are shorter than would be expected for the individual&apos;s height. Other skeletal features that occur in this disorder include slowed mineralization of bone (delayed bone age), abnormally shaped bones of the spine (vertebrae), and constrained movement of joints. Affected individuals often develop carpal tunnel syndrome, which is characterized by numbness, tingling, and weakness in the hands and fingers. A misalignment of the hip joints (hip dysplasia) can also occur in this disorder. These skeletal and joint problems may require treatment, but most affected individuals have few limitations in their activities.  Children with acromicric dysplasia may have a round face, sharply defined eyebrows, long eyelashes, a bulbous nose with upturned nostrils, a long space between the nose and upper lip (philtrum), and a small mouth with thick lips. These facial differences become less apparent in adulthood. Intelligence is unaffected in this disorder, and life expectancy is generally normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000010-2" qtype="frequency">How many people are affected by acromicric dysplasia ?</Question>
+			<Answer>Acromicric dysplasia is a rare disorder; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000010-3" qtype="genetic changes">What are the genetic changes related to acromicric dysplasia ?</Question>
+			<Answer>Acromicric dysplasia is caused by mutations in the FBN1 gene, which provides instructions for making a large protein called fibrillin-1. This protein is transported out of cells into the extracellular matrix, which is an intricate lattice of proteins and other molecules that forms in the spaces between cells. In this matrix, molecules of fibrillin-1 attach (bind) to each other and to other proteins to form threadlike filaments called microfibrils. The microfibrils become part of the fibers that provide strength and flexibility to connective tissues, which support the bones, skin, and other tissues and organs. Additionally, microfibrils store molecules called growth factors, including transforming growth factor beta (TGF-), and release them at various times to control the growth and repair of tissues and organs throughout the body.  Most of the FBN1 gene mutations that cause acromicric dysplasia change single protein building blocks in the fibrillin-1 protein. The mutations result in a reduction and disorganization of the microfibrils. Without enough normal microfibrils to store TGF-, the growth factor is abnormally active. These effects likely contribute to the physical abnormalities that occur in acromicric dysplasia, but the mechanisms are unclear.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000010-4" qtype="inheritance">Is acromicric dysplasia inherited ?</Question>
+			<Answer>Acromicric dysplasia is an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family. In other cases, an affected person inherits the mutation from one affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000010-5" qtype="treatment">What are the treatments for acromicric dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of acromicric dysplasia:  - Genetic Testing Registry: Acromicric dysplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

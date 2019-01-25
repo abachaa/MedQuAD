@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000849" source="GARD" url="https://rarediseases.info.nih.gov/gard/11900/brittle-diabetes">
+<Focus>Brittle diabetes</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342302</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Labile diabetes</Synonym>
+		<Synonym>Brittle diabetes mellitus</Synonym>
+		<Synonym>Brittle type 1 diabetes</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000849-1" qtype="information">What is (are) Brittle diabetes ?</Question>
+			<Answer>Brittle diabetes is characterized by severe instability of blood glucose levels with frequent and unpredictable episodes of hypoglycemia and/or ketoacidosis that disrupt quality of life, often requiring frequent or prolonged hospitalizations. These unpredictable episodes are due to an absolute insulin dependency, affecting type 1 diabetics almost exclusively. Brittle diabetes is most common in women in their twenties or thirties, but can occur at any age and in either gender. The condition may be caused by stress and hormonal inbalance, neglect of self-care (noncompliance), or underlying medical conditions such as malabsorption, delayed gastric emptying due to autonomic neuropathy, drug or alcohol use or abnormal insulin absorption or degradation. Treatment is difficult and dependent upon the underlying cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000849-2" qtype="symptoms">What are the symptoms of Brittle diabetes ?</Question>
+			<Answer>What are the symptoms of brittle diabetes? The main symptom of brittle diabetes is severe instability of blood glucose levels with frequent and unpredictable episodes of hypoglycemia and/or ketoacidosis that cause a disruption of daily activities. Three clinical presentations have been described: Predominant hyperglycemia with recurrent ketoacidosis, Predominant hypoglycemia, and Mixed hyper- and hypoglycemia. Patients with brittle diabetes have wide swings in their blood sugar levels and often experience differing blood sugar responses to the same dose and type of insulin. Complications such as neuropathy, nephropathy, and retinopathy are common. Most patients are females in their twenties of thirties, though any age or gender can be affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000849-3" qtype="causes">What causes Brittle diabetes ?</Question>
+			<Answer>What causes brittle diabetes? There are multiple causes of brittle diabetes. Emotional stress seems to play an important role, in some cases leading to hormonal inbalances which can lead to brittle diabetes. Emotional stress can also lead to a shift in the behavior of an individual, leading them to neglect their self-care. Other cases can be traced to physiological causes, including malabsorption, delayed gastric emptying due to autonomic neuropathy (gastroparesis), celiac disease, impaired glucose counterregulation (which doesn&apos;t allow the patient&apos;s body to react as it should when blood glucose levels drop), hypothyroidism and adrenal insufficiency, drug or alcohol use, systemic insulin resistance, and abnormal insulin absorption or degradation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000849-4" qtype="treatment">What are the treatments for Brittle diabetes ?</Question>
+			<Answer>How might brittle diabetes be treated? The approach to management depends upon the underlying cause. General management strategies include diabetes education, frequent self-monitoring of blood glucose, the use of a continuous subcutaneous insulin pump in conjunction with a continuous glucose monitoring device, and, in rare cases, pancreas transplantation. Psychotherapy or working with a psychiatrist or psychologist is recommended for many people with brittle diabetes. Referral to a specialty center may be warranted in certain situations.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

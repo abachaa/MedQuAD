@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000984" source="GHR" url="https://ghr.nlm.nih.gov/condition/tk2-related-mitochondrial-dna-depletion-syndrome-myopathic-form">
+<Focus>TK2-related mitochondrial DNA depletion syndrome, myopathic form</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3501891</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>mitochondrial DNA depletion syndrome 2 (myopathic type)</Synonym>
+		<Synonym>MTDPS2</Synonym>
+		<Synonym>TK2-related mitochondrial DNA depletion myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000984-1" qtype="information">What is (are) TK2-related mitochondrial DNA depletion syndrome, myopathic form ?</Question>
+			<Answer>TK2-related mitochondrial DNA depletion syndrome, myopathic form (TK2-MDS) is an inherited condition that causes progressive muscle weakness (myopathy).  The signs and symptoms of TK2-MDS typically begin in early childhood. Development is usually normal early in life, but as muscle weakness progresses, people with TK2-MDS lose motor skills such as standing, walking, eating, and talking. Some affected individuals have increasing weakness in the muscles that control eye movement, leading to droopy eyelids (progressive external ophthalmoplegia).  Most often in TK2-MDS, the muscles are the only affected tissues; however, the liver may be enlarged (hepatomegaly), seizures can occur, and hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss) may be present. Intelligence is usually not affected.  As the disorder worsens, the muscles that control breathing become weakened and affected individuals frequently have to rely on mechanical ventilation. Respiratory failure is the most common cause of death in people with TK2-MDS, often occurring in childhood. Rarely, the disorder progresses slowly and affected individuals survive into adolescence or adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000984-2" qtype="frequency">How many people are affected by TK2-related mitochondrial DNA depletion syndrome, myopathic form ?</Question>
+			<Answer>The prevalence of TK2-MDS is unknown. Approximately 45 cases have been described.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000984-3" qtype="genetic changes">What are the genetic changes related to TK2-related mitochondrial DNA depletion syndrome, myopathic form ?</Question>
+			<Answer>As the condition name suggests, mutations in the TK2 gene cause TK2-MDS. The TK2 gene provides instructions for making an enzyme called thymidine kinase 2 that functions within cell structures called mitochondria, which are found in all tissues. Mitochondria are involved in a wide variety of cellular activities, including energy production; chemical signaling; and regulation of cell growth, cell division, and cell death. Mitochondria contain their own genetic material, known as mitochondrial DNA (mtDNA), which is essential for the normal function of these structures. Thymidine kinase 2 is involved in the production and maintenance of mtDNA. Specifically, this enzyme plays a role in recycling mtDNA building blocks (nucleotides) so that errors in mtDNA sequencing can be repaired and new mtDNA molecules can be produced.  Mutations in the TK2 gene reduce the production or activity of thymidine kinase 2. A decrease in enzyme activity impairs recycling of mtDNA nucleotides, causing a shortage of nucleotides available for the repair and production of mtDNA molecules. A reduction in the amount of mtDNA (known as mtDNA depletion) impairs mitochondrial function. Greater mtDNA depletion tends to cause more severe signs and symptoms. The muscle cells of people with TK2-MDS have very low amounts of mtDNA, ranging from 5 to 30 percent of normal. Other tissues can have 60 percent of normal to normal amounts of mtDNA.  It is unclear why TK2 gene mutations typically affect only muscle tissue, but the high energy demands of muscle cells may make them the most susceptible to cell death when mtDNA is lost and less energy is produced in cells. The brain and the liver also have high energy demands, which may explain why these organs are affected in severe cases of TK2-MDS.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000984-4" qtype="inheritance">Is TK2-related mitochondrial DNA depletion syndrome, myopathic form inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000984-5" qtype="treatment">What are the treatments for TK2-related mitochondrial DNA depletion syndrome, myopathic form ?</Question>
+			<Answer>These resources address the diagnosis or management of TK2-related mitochondrial DNA depletion syndrome, myopathic form:  - Cincinnati Children&apos;s Hospital: Mitochondrial Diseases Program  - Gene Review: Gene Review: TK2-Related Mitochondrial DNA Depletion Syndrome, Myopathic Form   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

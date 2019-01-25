@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001943" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003558.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Hepatitis virus panel</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019186</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T005</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hepatitis A antibody test</Synonym>
+		<Synonym>Hepatitis B antibody test</Synonym>
+		<Synonym>Hepatitis C antibody test</Synonym>
+		<Synonym>Hepatitis D antibody test</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001943-1" qtype="information">What is (are) Hepatitis virus panel ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="8">
+			<Question qid="0001943-8" qtype="susceptibility">Who is at risk for Hepatitis virus panel? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

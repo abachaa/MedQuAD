@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001862" source="GARD" url="https://rarediseases.info.nih.gov/gard/19/dihydropyrimidine-dehydrogenase-deficiency">
+<Focus>Dihydropyrimidine dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1959620</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DPD deficiency</Synonym>
+		<Synonym>Hereditary thymine-uraciluria</Synonym>
+		<Synonym>Familial pyrimidinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001862-1" qtype="information">What is (are) Dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>Dihydropyrimidine dehydrogenase (DPD) deficiency is a condition in which the body cannot break down the nucleotides thymine and uracil. DPD deficiency can have a wide range of severity; some individuals may have various neurological problems, while others have no signs and symptoms. Signs and symptoms in severely affected individuals begin in infancy and may include seizures, intellectual disability, microcephaly, increased muscle tone (hypertonia), delayed motor skills, and autistic behavior.  All individuals with the condition, regardless of the presence or severity of symptoms, are at risk for severe, toxic reactions to drugs called fluoropyrimidines which are used to treat cancer. Individuals with no symptoms may be diagnosed only by laboratory testing or after exposure to fluoropyrimidines. DPD deficiency is caused by mutations in the DPYD gene and is inherited in an autosomal recessive manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001862-2" qtype="symptoms">What are the symptoms of Dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>What are the signs and symptoms of Dihydropyrimidine dehydrogenase deficiency? The Human Phenotype Ontology provides the following list of signs and symptoms for Dihydropyrimidine dehydrogenase deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Agenesis of corpus callosum 5% Autism - Autosomal recessive inheritance - Cerebral atrophy - Coloboma - Delayed speech and language development - Failure to thrive - Growth delay - Hyperactivity - Hypertonia - Intellectual disability - Lethargy - Microcephaly - Microphthalmia - Motor delay - Muscular hypotonia - Nystagmus - Optic atrophy - Phenotypic variability - Reduced dihydropyrimidine dehydrogenase activity - Seizures - Tetraplegia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001862-3" qtype="causes">What causes Dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>What causes dihydropyrimidine dehydrogenase (DPD) deficiency? DPD deficiency is caused by mutations in the DPYD gene. This gene provides instructions for making an enzyme called dihydropyrimidine dehydrogenase (DPD), which is involved in the breakdown of molecules called uracil and thymine. Uracil and thymine are building blocks of DNA, RNA, and molecules that serve as energy sources in cells. Mutations in the DPYD gene result in deficiencies (to various degrees) of functional DPD, interfering with the breakdown of uracil and thymine in cells. This results in excessive amounts of uracil and thymine in the blood, urine, and the fluid that surrounds the brain and spinal cord. It is currently poorly understood exactly how this cascade of events causes the signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001862-4" qtype="inheritance">Is Dihydropyrimidine dehydrogenase deficiency inherited ?</Question>
+			<Answer>How is dihydropyrimidine dehydrogenase deficiency inherited? Dihydropyrimidine dehydrogenase (DPD) deficiency is inherited in an autosomal recessive manner. This means that in affected individuals, both copies of the DPYD gene in each cell (one inherited from each parent) have mutations. The mutations that cause DPD deficiency vary widely in severity; therefore, some people with 2 mutated copies of the gene may have signs and symptoms of the condition, while others may be asymptomatic. However, all individuals with 2 mutations are at risk for toxic reactions to fluoropyrimidine drugs. Individuals who carry one mutated copy of the disease-causing gene (including most parents of affected individuals) are referred to as carriers. Carriers typically do not have signs and symptoms of the condition. However, people with one mutated copy of the DPYD gene may still experience toxic reactions to fluoropyrimidine drugs. When 2 carriers for the same autosomal recessive condition have children, each child has a 25% (1 in 4) risk to have the condition, a 50% (1 in 2) risk to be a carrier like each parent, and a 25% risk to not have the condition and not be a carrier. A child of one carrier parent has a 50% risk to also be a carrier.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001862-5" qtype="exams and tests">How to diagnose Dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>How is dihydropyrimidine dehydrogenase (DPD) deficiency diagnosed? DPD deficiency may be diagnosed in various ways. In individuals with complete or profound DPD deficiency, laboratory testing can detect elevated levels of uracil and/or thymine in plasma or urine. Partial DPD deficiency is more difficult to detect, which has led to the development of a radioenzymatic test for the DPD enzyme. This test has remained the gold standard for diagnosing DPD deficiency even after the development of genetic testing for the condition, because of the complexity of the DPYD gene and the presence of multiple DNA sequence variations present in most affected individuals. Various types of cells and tissues can be examined this way. More recently, a rapid, noninvasive, and cost-effective breath test was developed. This test permits the evaluation of DPD activity (normal activity and partial or profound deficiency) before the administration of fluoropyrmidine drugs such as 5-FU.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0001862-6" qtype="treatment">What are the treatments for Dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>How might dihydropyrimidine dehydrogenase deficiency be treated in infants and children? Currently, no treatment or cure exists for the inborn error of metabolism form of DHD deficiency. Symptoms usually remain the same throughout the person&apos;s life.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

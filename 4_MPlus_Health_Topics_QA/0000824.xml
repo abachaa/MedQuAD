@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000824" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/sleepdisorders.html">
+<Focus>Sleep Disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0851578</CUI>
+			<CUI>C0037317</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000824-1" qtype="information">What is (are) Sleep Disorders ?</Question>
+			<Answer>Is it hard for you to fall asleep or stay asleep through the night? Do you wake up feeling tired or feel very sleepy during the day, even if you have had enough sleep? You might have a sleep disorder. The most common kinds are       - Insomnia - a hard time falling or staying asleep    - Sleep apnea - breathing interruptions during sleep    -  Restless legs syndrome - a tingling or prickly sensation in the legs     - Narcolepsy - daytime &quot;sleep attacks&quot;       Nightmares, night terrors, sleepwalking, sleep talking, head banging, wetting the bed and grinding your teeth are kinds of sleep problems called parasomnias. There are treatments for most sleep disorders. Sometimes just having regular sleep habits can help.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

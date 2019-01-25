@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000449" source="GHR" url="https://ghr.nlm.nih.gov/condition/head-and-neck-squamous-cell-carcinoma">
+<Focus>head and neck squamous cell carcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0007137</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HNSCC</Synonym>
+		<Synonym>SCCHN</Synonym>
+		<Synonym>squamous cell carcinoma of the head and neck</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000449-1" qtype="information">What is (are) head and neck squamous cell carcinoma ?</Question>
+			<Answer>Squamous cell carcinoma is a cancer that arises from particular cells called squamous cells. Squamous cells are found in the outer layer of skin and in the mucous membranes, which are the moist tissues that line body cavities such as the airways and intestines. Head and neck squamous cell carcinoma (HNSCC) develops in the mucous membranes of the mouth, nose, and throat.  HNSCC is classified by its location: it can occur in the mouth (oral cavity), the middle part of the throat near the mouth (oropharynx), the space behind the nose (nasal cavity and paranasal sinuses), the upper part of the throat near the nasal cavity (nasopharynx), the voicebox (larynx), or the lower part of the throat near the larynx (hypopharynx). Depending on the location, the cancer can cause abnormal patches or open sores (ulcers) in the mouth and throat, unusual bleeding or pain in the mouth, sinus congestion that does not clear, sore throat, earache, pain when swallowing or difficulty swallowing, a hoarse voice, difficulty breathing, or enlarged lymph nodes.  HNSCC can spread (metastasize) to other parts of the body, such as the lymph nodes or lungs. If it spreads, the cancer has a worse prognosis and can be fatal. About half of affected individuals survive more than five years after diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000449-2" qtype="frequency">How many people are affected by head and neck squamous cell carcinoma ?</Question>
+			<Answer>HNSCC is the seventh most common cancer worldwide. Approximately 600,000 new cases are diagnosed each year, including about 50,000 in the United States. HNSCC occurs most often in men in their 50s or 60s, although the incidence among younger individuals is increasing.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000449-3" qtype="genetic changes">What are the genetic changes related to head and neck squamous cell carcinoma ?</Question>
+			<Answer>HNSCC is caused by a variety of factors that can alter the DNA in cells. The strongest risk factors for developing this form of cancer are tobacco use (including smoking or using chewing tobacco) and heavy alcohol consumption. In addition, studies have shown that infection with certain strains of human papillomavirus (HPV) is linked to the development of HNSCC. HPV infection accounts for the increasing incidence of HNSCC in younger people.  Researchers have identified mutations in many genes in people with HNSCC; however, it is not yet clear what role most of these mutations play in the development or progression of cancer. The proteins produced from several of the genes associated with HNSCC, including TP53, NOTCH1, and CDKN2A, function as tumor suppressors, which means they normally keep cells from growing and dividing too rapidly or in an uncontrolled way. When tumor suppressors are impaired, cells can grow and divide without control, leading to tumor formation. It is likely that a series of changes in multiple genes is involved in the development and progression of HNSCC.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000449-4" qtype="inheritance">Is head and neck squamous cell carcinoma inherited ?</Question>
+			<Answer>HNSCC is generally not inherited; it typically arises from mutations in the body&apos;s cells that occur during an individual&apos;s lifetime. This type of alteration is called a somatic mutation.  Rarely, HNSCC is found in several members of a family. These families have inherited disorders that increase the risk of multiple types of cancer.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000449-5" qtype="treatment">What are the treatments for head and neck squamous cell carcinoma ?</Question>
+			<Answer>These resources address the diagnosis or management of head and neck squamous cell carcinoma:  - Cancer.Net: Head and Neck Cancer: Treatment Options  - National Cancer Institute: Head and Neck Cancers   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

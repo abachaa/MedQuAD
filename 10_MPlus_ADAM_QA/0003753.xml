@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003753" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000341.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Stroke - risk factors</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038454</CUI>
+			<CUI>C0455624</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Preventing stroke</Synonym>
+		<Synonym>Stroke - prevention</Synonym>
+		<Synonym>CVA - prevention</Synonym>
+		<Synonym>TIA - prevention</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003753-1" qtype="information">What is (are) Stroke - risk factors ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003753-2" qtype="susceptibility">Who is at risk for Stroke - risk factors? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003753-3" qtype="susceptibility">Who is at risk for Stroke - risk factors? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

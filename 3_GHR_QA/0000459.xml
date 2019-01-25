@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000459" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-folate-malabsorption">
+<Focus>hereditary folate malabsorption</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2749650</CUI>
+			<CUI>C0342705</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital defect of folate absorption</Synonym>
+		<Synonym>Congenital folate malabsorption</Synonym>
+		<Synonym>Folic acid transport defect</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000459-1" qtype="information">What is (are) hereditary folate malabsorption ?</Question>
+			<Answer>Hereditary folate malabsorption is a disorder that interferes with the body&apos;s ability to absorb certain B vitamins (called folates) from food. Folates are important for many cell functions, including the production of DNA and its chemical cousin, RNA.  Infants with hereditary folate malabsorption are born with normal amounts of folates in their body because they obtain these vitamins from their mother&apos;s blood before birth. They generally begin to show signs and symptoms of the disorder within the first few months of life because their ability to absorb folates from food is impaired.  Infants with hereditary folate malabsorption experience feeding difficulties, diarrhea, and failure to gain weight and grow at the expected rate (failure to thrive). Affected individuals usually develop a blood disorder called megaloblastic anemia. Megaloblastic anemia occurs when a person has a low number of red blood cells (anemia), and the remaining red blood cells are larger than normal (megaloblastic). The symptoms of this blood disorder may include decreased appetite, lack of energy, headaches, pale skin, and tingling or numbness in the hands and feet. People with hereditary folate malabsorption may also have a deficiency of white blood cells (leukopenia), leading to increased susceptibility to infections. In addition, they may have a reduction in the amount of platelets (thrombocytopenia), which can result in easy bruising and abnormal bleeding.  Some infants with hereditary folate malabsorption exhibit neurological problems such as developmental delay and seizures. Over time, untreated individuals may develop intellectual disability and difficulty coordinating movements (ataxia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000459-2" qtype="frequency">How many people are affected by hereditary folate malabsorption ?</Question>
+			<Answer>The prevalence of hereditary folate malabsorption is unknown. Approximately 15 affected families have been reported worldwide. Researchers believe that some infants with this disorder may not get diagnosed or treated, particularly in areas where advanced medical care is not available.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000459-3" qtype="genetic changes">What are the genetic changes related to hereditary folate malabsorption ?</Question>
+			<Answer>The SLC46A1 gene provides instructions for making a protein called the proton-coupled folate transporter (PCFT). PCFT is important for normal functioning of intestinal epithelial cells, which are cells that line the walls of the intestine. These cells have fingerlike projections called microvilli that absorb nutrients from food as it passes through the intestine. Based on their appearance, groups of these microvilli are known collectively as the brush border. PCFT is involved in the process of using energy to move folates across the brush border membrane, a mechanism called active transport. It is also involved in the transport of folates between the brain and the fluid that surrounds it (cerebrospinal fluid).  Mutations in the SLC46A1 gene result in a PCFT protein that has little or no activity. In some cases the mutated protein is not transported to the cell membrane, and so it is unable to perform its function. A lack of functional PCFT impairs the body&apos;s ability to absorb folates from food, resulting in the signs and symptoms of hereditary folate malabsorption.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000459-4" qtype="inheritance">Is hereditary folate malabsorption inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000459-5" qtype="treatment">What are the treatments for hereditary folate malabsorption ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary folate malabsorption:  - Gene Review: Gene Review: Hereditary Folate Malabsorption  - Genetic Testing Registry: Congenital defect of folate absorption  - MedlinePlus Encyclopedia: Folate  - MedlinePlus Encyclopedia: Folate Deficiency  - MedlinePlus Encyclopedia: Folate-Deficiency Anemia  - MedlinePlus Encyclopedia: Malabsorption   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

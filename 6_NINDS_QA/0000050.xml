@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000050" source="NINDS" url="http://www.ninds.nih.gov/disorders/brachial_plexus/brachial_plexus.htm">
+<Focus>Brachial Plexus Injuries</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0161446</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T037</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000050-1" qtype="information">What is (are) Brachial Plexus Injuries ?</Question>
+			<Answer>The brachial plexus is a network of nerves that conducts signals from the spine to the shoulder, arm, and hand. Brachial plexus injuries are caused by damage to those nerves. Symptoms may include a limp or paralyzed arm; lack of muscle control in the arm, hand, or wrist; and a lack of feeling or sensation in the arm or hand. Brachial plexus injuries can occur as a result of shoulder trauma, tumors, or inflammation. There is a rare syndrome called Parsonage-Turner Syndrome, or brachial plexitis, which causes inflammation of the brachial plexus without any obvious shoulder injury. This syndrome can begin with severe shoulder or arm pain followed by weakness and numbness. In infants, brachial plexus injuries may happen during birth if the babys shoulder is stretched during passage in the birth canal (see Brachial Plexus Birth Injuries). 
+                
+The severity of a brachial plexus injury is determined by the type of damage done to the nerves. The most severe type, avulsion, is caused when the nerve root is severed or cut from the spinal cord. There is also an incomplete form of avulsion in which part of the nerve is damaged and which leaves some opportunity for the nerve to slowly recover function. Neuropraxia, or stretch injury, is the mildest type of injury Neuropraxia damages the protective covering of the nerve, which causes problems with nerve signal conduction, but does not always damage the nerve underneath.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000050-2" qtype="treatment">What are the treatments for Brachial Plexus Injuries ?</Question>
+			<Answer>Some brachial plexus injuries may heal without treatment. Many children who are injured during birth improve or recover by 3 to 4 months of age. Treatment for brachial plexus injuries includes physical therapy and, in some cases, surgery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000050-3" qtype="outlook">What is the outlook for Brachial Plexus Injuries ?</Question>
+			<Answer>The site and type of brachial plexus injury determines the prognosis. For avulsion and rupture injuries, there is no potential for recovery unless surgical reconnection is made in a timely manner. The potential for recovery varies for neuroma and neuropraxia injuries. Most individuals with neuropraxia injuries recover spontaneously with a 90-100% return of function.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000050-4" qtype="research">what research (or clinical trials) is being done for Brachial Plexus Injuries ?</Question>
+			<Answer>The NINDS conducts and supports research on injuries to the nervous system such as brachial plexus injuries. Much of this research is aimed at finding ways to prevent and treat these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

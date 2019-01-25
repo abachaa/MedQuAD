@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001865" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000106.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Heart disease - risk factors</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018799</CUI>
+			<CUI>C0455624</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Heart disease - prevention</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001865-1" qtype="information">What is (are) Heart disease - risk factors ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001865-2" qtype="susceptibility">Who is at risk for Heart disease - risk factors? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001865-3" qtype="susceptibility">Who is at risk for Heart disease - risk factors? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

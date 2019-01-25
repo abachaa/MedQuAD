@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000032" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/anaphylaxis.html">
+<Focus>Anaphylaxis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002792</CUI>
+			<CUI>C0850803</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anaphylactic shock</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000032-1" qtype="information">What is (are) Anaphylaxis ?</Question>
+			<Answer>Anaphylaxis is a serious allergic reaction. It can begin very quickly, and symptoms may be life-threatening. The most common causes are reactions to foods (especially peanuts), medications, and stinging insects. Other causes include exercise and exposure to latex. Sometimes no cause can be found.    It can affect many organs:       - Skin - itching, hives, redness, swelling    - Nose - sneezing, stuffy nose, runny nose    - Mouth - itching, swelling of the lips or tongue    - Throat - itching, tightness, trouble swallowing, swelling of the back of the throat    - Chest - shortness of breath, coughing, wheezing, chest pain or tightness    - Heart - weak pulse, passing out, shock    - Gastrointestinal tract - vomiting, diarrhea, cramps    - Nervous system - dizziness or fainting       If someone is having a serious allergic reaction, call 9-1-1. If an auto-injector is available, give the person the injection right away.    NIH: National Institute of Allergy and Infectious Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

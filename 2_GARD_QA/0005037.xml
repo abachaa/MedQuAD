@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005037" source="GARD" url="https://rarediseases.info.nih.gov/gard/8703/primary-angiitis-of-the-central-nervous-system">
+<Focus>Primary angiitis of the central nervous system</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2930862</CUI>
+			<CUI>C0042384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PACNS</Synonym>
+		<Synonym>Primary central nervous system vasculitis</Synonym>
+		<Synonym>Primary CNS vasculitis</Synonym>
+		<Synonym>Granulomatous angiitis of the central nervous system</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005037-1" qtype="information">What is (are) Primary angiitis of the central nervous system ?</Question>
+			<Answer>Primary angiitis of the central nervous system is a rare form of vasculitis (inflammation of blood vessels) affecting the blood vessels that nourish the brain, spinal cord and peripheral nerves. This condition can lead to narrowing and blockage of the blood vessels of the central nervous system which can eventually cause aneurysms, ischemia and/or hemmorrhage. The cause of this condition is unknown. Signs and symptoms of this condition may begin suddenly or develop over time. Some of the symptoms may incude headaches that do not go away, fever, rapid weight loss, confusion or forgetfulness, and general malaise. Treatment for this condition involves a course of immunosuppresive steroids.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005037-2" qtype="treatment">What are the treatments for Primary angiitis of the central nervous system ?</Question>
+			<Answer>How might primary angiitis of the central nervous system be treated?  The current treatment recommendation is to start with oral prednisone at a dose of 1 mg/kg per day and cyclophosphamide at a dose of 2 mg/kg per day. Most centers use prednisone and cyclophosphamide for 4-6 months to induce clinical remission, and then taper prednisone off. Patients generally stay on cyclophosphamide therapy between three and six months, depending on when remission occurs and if there are any potential side effects from cyclophosphamide. Once cyclophosphamide is discontinued, it should be replaced with a less toxic medication for an additional six to twelve months of maintenance therapy. Some doctors switch from cyclophosphamide to azathioprine (2 mg/kg) or mycophenolate mofetil. Methotrexate can also be used, but may be limited by its difficulty to cross the blood brain barrier. There is limited data on how long the maintenance therapy lasts so the decision on the duration of the therapy should be individualized, based upon how the patient responds to therapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000117" source="GARD" url="https://rarediseases.info.nih.gov/gard/5732/acute-intermittent-porphyria">
+<Focus>Acute intermittent porphyria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162565</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AIP</Synonym>
+		<Synonym>Porphobilinogen deaminase deficiency</Synonym>
+		<Synonym>PBGD deficiency</Synonym>
+		<Synonym>Uroporphyrinogen synthase deficiency</Synonym>
+		<Synonym>UPS deficiency</Synonym>
+		<Synonym>Porphyria</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000117-1" qtype="information">What is (are) Acute intermittent porphyria ?</Question>
+			<Answer>Acute intermittent porphyria (AIP) is one of the liver (hepatic) porphyrias. AIP is caused by low levels of porphobilinogen deaminase (PBGD), an enzyme also often called hydroxymethylbilane synthase. The low levels of PBGD are generally not sufficient to cause symptoms; however, activating factors such as hormones, drugs, and dietary changes may trigger symptoms. Although most individuals with AIP never develop symptoms, symptomatic individuals typically present with abdominal pain with nausea. Treatment is dependent on the symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000117-2" qtype="symptoms">What are the symptoms of Acute intermittent porphyria ?</Question>
+			<Answer>What are the signs and symptoms of Acute intermittent porphyria? Some people who inherit the gene for AIP never develop symptoms and are said to have &quot;latent&quot; AIP. Those individuals that present with symptoms usually do so after puberty, probably because of hormonal influences, although other activating factors include: alcohol, drugs (e.g., barbiturates, steroids, sulfa-containing antibiotics), chemicals, smoking, reduced caloric intake, stress, and travel. Symptoms usually last several days, but attacks for which treatment is not received promptly may last weeks or months. Abdominal pain, which is associated with nausea and can be severe, is the most common symptom and usually the first sign of an attack. Other symptoms may include :  Gastrointestinal issues (e.g., nausea, vomiting, constipation, diarrhea, abdominal distention, ileus)  Urinary tract issues (e.g., urinary retention, urinary incontinence, or dysuria)  Neurological issues (e.g., muscle weakness in the arms or legs, paralysis)  Psychiatric issues (e.g., insomnia, hysteria, anxiety, apathy or depression, phobias, psychosis, agitation, delirium, somnolence, or coma) Individuals with AIP have an increased risk of developing hepatocellular carcinoma; some develop kidney failure. The Human Phenotype Ontology provides the following list of signs and symptoms for Acute intermittent porphyria. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal pain 90% Abnormality of urine homeostasis 90% Anorexia 90% Insomnia 90% Myalgia 90% Nausea and vomiting 90% Seizures 90% Arrhythmia 50% Constipation 50% Hyperhidrosis 50% Hypertensive crisis 50% Paresthesia 50% Abnormality of lipid metabolism 7.5% Arthralgia 7.5% Cranial nerve paralysis 7.5% Diaphragmatic paralysis 7.5% Hallucinations 7.5% Hemiplegia/hemiparesis 7.5% Hyponatremia 7.5% Neoplasm of the liver 7.5% Reduced consciousness/confusion 7.5% Renal insufficiency 7.5% Weight loss 7.5% Acute episodes of neuropathic symptoms - Anxiety - Autosomal dominant inheritance - Depression - Diarrhea - Dysuria - Elevated urinary delta-aminolevulinic acid - Hepatocellular carcinoma - Hypertension - Nausea - Paralytic ileus - Psychotic episodes - Respiratory paralysis - Tachycardia - Urinary incontinence - Urinary retention - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000117-3" qtype="causes">What causes Acute intermittent porphyria ?</Question>
+			<Answer>What causes acute intermittent porphyria (AIP)? AIP is caused by the deficiency of an enzyme called porphobilinogen deaminase (PBGD), also known as hydroxymethylbilane synthase (HMBS) and formerly known as uroporphyrinogen I-synthase. The deficiency of PBGD is caused by a mutation in the HMBS gene. The HMBS gene is the only gene known to be associated with AIP. However, the deficiency of PBGD alone is not enough to cause AIP. Other activating factors (e.g., hormones, drugs, dietary changes) must also be present.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000117-4" qtype="inheritance">Is Acute intermittent porphyria inherited ?</Question>
+			<Answer>How is acute intermittent porphyria (AIP) inherited? AIP is inherited in an autosomal dominant fashion, which means only one of the two HMBS genes needs to have a disease-causing mutation to decrease enzyme activity and cause symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000117-5" qtype="exams and tests">How to diagnose Acute intermittent porphyria ?</Question>
+			<Answer>How is acute intermittent porphyria (AIP) diagnosed? Diagnosis of AIP is suspected in individuals with otherwise unexplained severe, acute abdominal pain without physical signs. The finding of increased levels of delta-aminolevulinic acid (ALA) and porphobilinogen (PBG) in urine establishes that one of the acute porphyrias is present. If PBGD is deficient in normal red blod cells, the diagnosis of AIP is established. The diagnosis is confirmed in individuals with a disease-causing mutation in the HMBS gene, the only gene known to be associated with AIP, which encodes the erythrocyte hydroxymethylbilane synthase enzyme. Molecular genetic testing of the HMBS gene detects more than 98% of affected individuals and is available in clinical laboratories. To obtain a list of clinical laboratories offering genetic testing for AIP, click here.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000117-6" qtype="treatment">What are the treatments for Acute intermittent porphyria ?</Question>
+			<Answer>How might acute intermittent porphyria (AIP) be treated? Treatment of AIP may vary based on the trigger of the attack and the symptoms present. Treatment may include stopping medications that cause or worsen the symptoms, treating any infections which may be present, administration of pain medication, monitoring fluid balance and/or correcting electrolyte disturbances, monitoring neurologic status and administering respiratory support. Mild attacks can be manged with increased caloric intake and fluid replacement. Recurrent acute attacks should be managed by a porphyria specialist. Hospitalization is often necessary.  Panhematin, an intravenous medication used to correct heme deficiency, may also be prescribed. More detailed information about the use of Panhematin for the treatment of AIP can be found by clicking here.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

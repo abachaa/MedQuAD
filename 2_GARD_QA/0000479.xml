@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000479" source="GARD" url="https://rarediseases.info.nih.gov/gard/8756/arts-syndrome">
+<Focus>Arts syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0796028</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ARTS</Synonym>
+		<Synonym>X-linked fatal ataxia with deafness and loss of vision</Synonym>
+		<Synonym>Lethal ataxia-deafness-optic atrophy</Synonym>
+		<Synonym>Lethal ataxia with deafness and optic atrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000479-1" qtype="information">What is (are) Arts syndrome ?</Question>
+			<Answer>Arts syndrome is characterized by sensorineural hearing loss and serious neurological and immune system problems in males. Females can also be affected by this condition, but they typically have much milder symptoms. Arts syndrome is caused by mutations in the PRPS1 gene which is located on the X chromosome. It is inherited in an X-linked recessive manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000479-2" qtype="symptoms">What are the symptoms of Arts syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Arts syndrome? Boys with Arts syndrome have sensorineural hearing loss, which is a complete or almost complete loss of hearing caused by abnormalities in the inner ear. Other features include weak muscle tone (hypotonia), impaired muscle coordination (ataxia), developmental delay, and intellectual disability. In early childhood, affected boys develop vision loss caused by degeneration of the nerves that carry information from the eyes to the brain (optic atrophy). They also experience loss of sensation and weakness in the limbs (peripheral neuropathy).   Boys with Arts syndrome also have problems with their immune system that lead to recurrent infections, especially involving the respiratory system. Because of these infections and their complications, affected boys often do not survive past early childhood.  Females can also be affected by Arts syndrome, but they typically have much milder symptoms. In some cases, hearing loss that begins in adulthood may be the only symptom.  The Human Phenotype Ontology provides the following list of signs and symptoms for Arts syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of immune system physiology 90% Cognitive impairment 90% Decreased nerve conduction velocity 90% Hemiplegia/hemiparesis 90% Incoordination 90% Muscular hypotonia 90% Optic atrophy 90% Peripheral neuropathy 90% Sensorineural hearing impairment 90% Visual impairment 90% Muscle weakness 50% Respiratory insufficiency 50% Pancreatic fibrosis 7.5% Hyperreflexia 5% Absent speech - Areflexia - Ataxia - Death in infancy - Drooling - Dysphagia - Growth delay - Hearing impairment - Immunodeficiency - Intellectual disability - Neonatal hypotonia - Nystagmus - Progressive muscle weakness - Recurrent infections - Recurrent upper respiratory tract infections - Seizures - Spinal cord posterior columns myelin loss - Tetraplegia - Visual loss - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000479-3" qtype="causes">What causes Arts syndrome ?</Question>
+			<Answer>What causes Arts syndrome? Arts syndrome is caused by mutations in the PRPS1 gene. This gene provides instructions for making an enzyme called phosphoribosyl pyrophosphate synthetase 1, or PRPP synthetase 1. This enzyme is involved in producing purines and pyrimidines, the building blocks of DNA, RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. The PRPS1 mutations that cause Arts syndrome replace one protein building block (amino acid) with another amino acid in the PRPP synthetase 1 enzyme. The resulting enzyme is likely unstable, compromising its ability to perform its normal function. The disruption of purine and pyrimidine production may impair energy storage and transport in cells. Impairment of these processes may have a particularly severe effect on tissues that require a large amount of energy, such as the nervous system and the immune system, resulting in the neurological problems and immune dysfunction characteristic of Arts syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000479-4" qtype="inheritance">Is Arts syndrome inherited ?</Question>
+			<Answer>How is Arts syndrome inherited? Arts syndrome is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only 1 X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell sometimes causes the disorder. Females with one copy of the mutated gene are typically much less severely affected.by Arts syndrome than males. In many cases, they do not experience any symptoms.  In the small number of Arts syndrome cases that have been identified, affected individuals have inherited the mutation from a mother who carries an altered copy of the PRPS1 gene.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

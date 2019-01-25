@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002417" source="GARD" url="https://rarediseases.info.nih.gov/gard/6464/fragile-x-syndrome">
+<Focus>Fragile X syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0016667</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Marker X syndrome</Synonym>
+		<Synonym>Martin-Bell syndrome</Synonym>
+		<Synonym>FRAXA syndrome</Synonym>
+		<Synonym>Fra(X) syndrome</Synonym>
+		<Synonym>FXS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002417-1" qtype="information">What is (are) Fragile X syndrome ?</Question>
+			<Answer>Fragile X syndrome is a genetic condition involving changes in part of the X chromosome. This condition causes a range of developmental problems including learning disabilities and cognitive impairment. It is the most common form of inherited intellectual disability in males and a significant cause of intellectual disability in females. Other signs and symptoms may include symptoms of autism spectrum disorders, seizures, and characteristic physical features. Fragile X syndrome is caused by a change (mutation) in the FMR1 gene and is inherited in an X-linked dominant manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002417-2" qtype="symptoms">What are the symptoms of Fragile X syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Fragile X syndrome? Fragile X syndrome is characterized by developmental problems including intellectual disability and delayed speech and language development. Males are usually more severely affected than females. Additional features may include anxiety; attention deficit disorder (ADD); features of autism spectrum disorders that affect communication and social interaction; and seizures. Most males and some females with fragile X syndrome have characteristic physical features that become more apparent with age. These features may include a long and narrow face; large ears; a prominent jaw and forehead; unusually flexible fingers; flat feet; and in males, enlarged testicles (macroorchidism) after puberty. The Human Phenotype Ontology provides the following list of signs and symptoms for Fragile X syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Cognitive impairment 90% Joint hypermobility 90% Macroorchidism 90% Neurological speech impairment 90% Otitis media 90% Pes planus 90% Abnormality of the pinna 50% Attention deficit hyperactivity disorder 50% Frontal bossing 50% Intellectual disability, moderate 50% Long face 50% Macrocephaly 50% Mandibular prognathia 50% Muscular hypotonia 50% Narrow face 50% Sinusitis 50% Abnormality of the mitral valve 7.5% Autism 7.5% Cerebral cortical atrophy 7.5% Dilatation of the ascending aorta 7.5% Seizures 7.5% Self-injurious behavior 7.5% Strabismus 7.5% Abnormal head movements - Coarse facial features - Congenital macroorchidism - Folate-dependent fragile site at Xq28 - Hyperactivity - Incomplete penetrance - Joint laxity - Large forehead - Macroorchidism, postpubertal - Macrotia - Mitral valve prolapse - Pectus excavatum - Periventricular gray matter heterotopia - Poor eye contact - Scoliosis - X-linked dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002417-3" qtype="causes">What causes Fragile X syndrome ?</Question>
+			<Answer>What causes fragile X syndrome? Mutations (changes) in the FMR1 gene cause fragile X syndrome (FXS). This gene carries instructions to make a protein called the fragile X mental retardation 1 protein. The FMR1 gene contains a section of DNA called a CGG triplet repeat, which normally repeats from 5 to around 40 times. In most cases of FXS, this section of DNA is repeated more than 200 times, which &quot;turns off&quot; the FMR1 gene and disrupts the function of the nervous system. In a small portion of cases, other types of changes in the FMR1 gene cause FXS. These changes may involve a deletion of all or part of the gene, or a change in the building blocks (amino acids) used to make the gene&apos;s protein. People with 55 to 200 repeats of the CGG segment are said to have an FMR1 premutation. Most people with a premutation are intellectually normal. In some cases, people with a premutation have lower levels of the gene&apos;s protein and may have some mild symptoms of FXS. About 20% of women with a premutation have premature ovarian failure, and some people with a premutation have an increased risk of developing fragile X-associated tremor/ataxia syndrome (FXTAS).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002417-4" qtype="inheritance">Is Fragile X syndrome inherited ?</Question>
+			<Answer>How is fragile X syndrome inherited? Fragile X syndrome (FXS) is inherited in an X-linked dominant manner. A condition is X-linked if the responsible gene is located on the X chromosome. The inheritance is dominant if having only one changed (mutated) copy of the responsible gene is enough to cause symptoms of the condition. In women who carry an FMR1 gene premutation (approximately 55 to 200 CGG repeats), the repeats can expand to more than 200 repeats in their cells that develop into eggs. This means that women with a premutation (or a full mutation) have an increased risk to have a child with FXS. The size of the risk corresponds to the number of CGG repeats they have. By contrast, men with premutations are not at risk for the repeats expanding to over 200 when passing the gene to offspring. However, men with a premutation will pass the premutation on to all of their daughters and none of their sons. This is because boys receive only a Y chromosome from their fathers.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0002417-5" qtype="exams and tests">How to diagnose Fragile X syndrome ?</Question>
+			<Answer>Is genetic testing available for fragile X syndrome? Yes, genetic testing is available for fragile X syndrome. Carrier testing for at-risk relatives and prenatal testing for pregnancies at increased risk are possible if the diagnosis of an FMR1-related disorder (including fragile X syndrome) has been confirmed in a family member. The Genetic Testing Registry (GTR) provides information about the labs that offer genetic testing for fragile X syndrome. The intended audience for the GTR is health care providers and researchers. People with questions about genetic testing should speak with a health care provider or genetics professional.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0002417-6" qtype="treatment">What are the treatments for Fragile X syndrome ?</Question>
+			<Answer>How might fragile X syndrome be treated? There is no specific treatment available for fragile X syndrome.  Management of this condition is generally supportive and may include: recognizing the need for special education and avoiding excessive stimulation, which may help with behavioral problems early educational intervention and special education that is tailored to specific learning difficulties; small class size, individual attention and avoidance of sudden change is often needed medications for behavioral issues that affect social interaction routine medical management of strabismus, ear infections, reflux, seizures, mitral valve prolapse, and/or high blood pressure.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

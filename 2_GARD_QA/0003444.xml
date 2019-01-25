@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003444" source="GARD" url="https://rarediseases.info.nih.gov/gard/10925/la-crosse-encephalitis">
+<Focus>La Crosse encephalitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014038</CUI>
+			<CUI>C0276379</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Californian encephalitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003444-1" qtype="information">What is (are) La Crosse encephalitis ?</Question>
+			<Answer>La Crosse (LAC) encephalitis is a mosquito-borne virus that was first described in La Crosse, Wisconsin in 1963. Since then, it has been reported in several Midwestern and Mid-Atlantic states. The LAC virus is one of many mosquito-transmitted viruses that can cause an inflammation of the brain (encephalitis). About 80-100 cases of this condition are reported each year in the United States. Most cases occur in children younger than age 16. While most people who become infected have no symptoms, those who do become ill may have fever, headache, vomiting and lethargy (tiredness). Severe cases develop encephalitis accompanied by seizures. Coma and paralysis occur in some cases. There is no specific treatment for LAC encephalitis. Supportive therapy is provided to those who develop severe cases of the disease.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003444-2" qtype="symptoms">What are the symptoms of La Crosse encephalitis ?</Question>
+			<Answer>What are the symptoms of La Crosse (LAC) encephalitis? Most people infected with LAC encephalitis do not have symptoms. Those that do become ill may initially have fever, headache, vomiting and lethargy (tiredness). Severe cases may develop encephalitis, an inflammation of the brain, which is often accompanied by seizures. Coma and paralysis may also occur. Most cases that develop symptoms occur in children under the age of 16 Symptoms, if present, typically develop 5 to 15 days after the bite of an infected mosquito. Most cases occur during the summer months.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003444-3" qtype="treatment">What are the treatments for La Crosse encephalitis ?</Question>
+			<Answer>How might La Crosse (LAC) encephalitis be treated? There is no specific treatment for LAC encephalitis. Severe cases are treated with supportive therapy which may include hospitalization, respiratory support, IV fluids and prevention of other infections.[9633]</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

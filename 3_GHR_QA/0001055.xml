@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001055" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-infantile-spasm-syndrome">
+<Focus>X-linked infantile spasm syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037769</CUI>
+			<CUI>C2931919</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>early infantile epileptic encephalopathy</Synonym>
+		<Synonym>infantile epileptic-dyskinetic encephalopathy</Synonym>
+		<Synonym>ISSX</Synonym>
+		<Synonym>X-linked West syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001055-1" qtype="information">What is (are) X-linked infantile spasm syndrome ?</Question>
+			<Answer>X-linked infantile spasm syndrome is a seizure disorder characterized by a type of seizure known as infantile spasms. The spasms usually appear before the age of 1. Several types of spasms have been described, but the most commonly reported involves bending at the waist and neck with extension of the arms and legs (sometimes called a jackknife spasm). Each spasm lasts only seconds, but they occur in clusters several minutes long. Although individuals are not usually affected while they are sleeping, the spasms commonly occur just after awakening. Infantile spasms usually disappear by age 5, but many children then develop other types of seizures that recur throughout their lives.  Most babies with X-linked infantile spasm syndrome have characteristic results on an electroencephalogram (EEG), a test used to measure the electrical activity of the brain. The EEG of these individuals typically shows an irregular pattern known as hypsarrhythmia, and this finding can help differentiate infantile spasms from other types of seizures.  Because of the recurrent seizures, babies with X-linked infantile spasm syndrome stop developing normally and begin to lose skills they have acquired (developmental regression), such as sitting, rolling over, and babbling. Subsequently, development in affected children is delayed. Most affected individuals also have intellectual disability throughout their lives.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001055-2" qtype="frequency">How many people are affected by X-linked infantile spasm syndrome ?</Question>
+			<Answer>Infantile spasms are estimated to affect 1 to 1.6 in 100,000 individuals. This estimate includes X-linked infantile spasm syndrome as well as infantile spasms that have other causes.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001055-3" qtype="genetic changes">What are the genetic changes related to X-linked infantile spasm syndrome ?</Question>
+			<Answer>X-linked infantile spasm syndrome is caused by mutations in either the ARX gene or the CDKL5 gene. The proteins produced from these genes play a role in the normal functioning of the brain. The ARX protein is involved in the regulation of other genes that contribute to brain development. The CDKL5 protein is thought to regulate the activity of at least one protein that is critical for normal brain function. Researchers are working to determine how mutations in either of these genes lead to seizures and intellectual disability.  Infantile spasms can have nongenetic causes, such as brain malformations, other disorders that affect brain function, or brain damage. In addition, changes in genes that are not located on the X chromosome cause infantile spasms in rare cases.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001055-4" qtype="inheritance">Is X-linked infantile spasm syndrome inherited ?</Question>
+			<Answer>X-linked infantile spasm syndrome can have different inheritance patterns depending on the genetic cause.  When caused by mutations in the ARX gene, this condition is inherited in an X-linked recessive pattern. The ARX gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. Usually in females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. However, in some instances, one altered copy of the ARX gene is sufficient because the X chromosome with the normal copy of the ARX gene is turned off through a process called X-inactivation. Early in embryonic development in females, one of the two X chromosomes is permanently inactivated in somatic cells (cells other than egg and sperm cells). X-inactivation ensures that females, like males, have only one active copy of the X chromosome in each body cell. Usually X-inactivation occurs randomly, such that each X chromosome is active in about half of the body cells. Sometimes X-inactivation is not random, and one X chromosome is active in more than half of cells. When X-inactivation does not occur randomly, it is called skewed X-inactivation. Some ARX gene mutations may be associated with skewed X-inactivation, which results in the inactivation of the X chromosome with the normal copy of the ARX gene in most cells of the body. This skewed X-inactivation causes the chromosome with the mutated ARX gene to be expressed in more than half of cells, causing X-linked infantile spasm syndrome.  When caused by mutations in the CDKL5 gene, this condition is thought to have an X-linked dominant inheritance pattern. The CDKL5 gene is also located on the X chromosome, making this condition X-linked. The inheritance is dominant because one copy of the altered gene in each cell is sufficient to cause the condition in both males and females.  X-linked infantile spasm syndrome caused by CDKL5 gene mutations usually occurs in individuals with no history of the disorder in their family. These mutations likely occur in early embryonic development (called de novo mutations). Because males have only one X chromosome, X-linked dominant disorders are often more severe in males than in females. Male fetuses with CDKL5-related X-linked infantile spasm syndrome may not survive to birth, so more females are diagnosed with the condition. In females, the distribution of active and inactive X chromosomes due to X-inactivation may affect whether a woman develops the condition or the severity of the signs and symptoms. Generally, the larger the proportion of active X chromosomes that contain the mutated CDKL5 gene, the more severe the signs and symptoms of the condition are.  A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001055-5" qtype="treatment">What are the treatments for X-linked infantile spasm syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked infantile spasm syndrome:  - Child Neurology Foundation  - Genetic Testing Registry: Early infantile epileptic encephalopathy 2  - Genetic Testing Registry: West syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

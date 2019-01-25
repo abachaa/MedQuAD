@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006001" source="GARD" url="https://rarediseases.info.nih.gov/gard/7730/takayasu-arteritis">
+<Focus>Takayasu arteritis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039263</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>TA</Synonym>
+		<Synonym>Young female arteritis</Synonym>
+		<Synonym>Takayasu disease</Synonym>
+		<Synonym>Pulseless disease</Synonym>
+		<Synonym>Aortic arch syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006001-1" qtype="information">What is (are) Takayasu arteritis ?</Question>
+			<Answer>Takayasu arteritis is a condition that causes inflammation of the main blood vessel that carries blood from the heart to the rest of the body (aorta) and its associated branched blood vessels. As a result of the inflammation, the blood vessel walls become thick and make it difficult for blood to flow. Over time, impaired blood flow causes damage to the heart and various other organs of the body.  Although the cause remains unknown, Takayasu arteritis appears to be an autoimmune condition, in which cells that fight infection and disease are wrongly targeted against the body&apos;s own tissues.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006001-2" qtype="symptoms">What are the symptoms of Takayasu arteritis ?</Question>
+			<Answer>What are the signs and symptoms of Takayasu arteritis? The Human Phenotype Ontology provides the following list of signs and symptoms for Takayasu arteritis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of temperature regulation 90% Aneurysm 90% Hyperhidrosis 90% Hypertensive crisis 90% Vasculitis 90% Weight loss 90% Abnormal pattern of respiration 50% Abnormality of the aortic valve 50% Anemia 50% Anorexia 50% Arthritis 50% Chest pain 50% Coronary artery disease 50% Dilatation of the ascending aorta 50% Gangrene 50% Hypertrophic cardiomyopathy 50% Inflammatory abnormality of the eye 50% Migraine 50% Muscle weakness 50% Myalgia 50% Pulmonary hypertension 50% Seizures 50% Skin ulcer 50% Visual impairment 50% Abnormality of the endocardium 7.5% Amaurosis fugax 7.5% Arthralgia 7.5% Cerebral ischemia 7.5% Gastrointestinal infarctions 7.5% Hemoptysis 7.5% Neurological speech impairment 7.5% Reduced consciousness/confusion 7.5% Retinopathy 7.5% Arteritis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006001-3" qtype="treatment">What are the treatments for Takayasu arteritis ?</Question>
+			<Answer>How might Takayasu arteritis be treated? The treatment of Takayasu arteritis is focused on controlling both the inflammatory process and hypertension . Treatment options might include: corticosteroids, medications that block the activity of interkeukin-6 (iL-6 receptor inhibitors), medications that impair the activity of B-lymphocyets (B-cell depletion), medications that are toxic to cells (cytotoxic agents), medications that block the activity of tumor necrosis factor (anti-tumor necrosis factor agents), and antihypertensive agents. Lifestyle modification including exercise and diet might additionally be recommended. For additional information on the treatment of Takayasu arteritis, please reference the Medscape article. You may need to register to view the article, but registration is free.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

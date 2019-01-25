@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000211" source="NINDS" url="http://www.ninds.nih.gov/disorders/narcolepsy/narcolepsy.htm">
+<Focus>Narcolepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027404</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000211-1" qtype="information">What is (are) Narcolepsy ?</Question>
+			<Answer>Narcolepsy is a chronic neurological disorder caused by the brain&apos;s inability to regulate sleep-wake cycles normally. At various times throughout the day, people with narcolepsy experience irresistable bouts ofsleep. If the urge becomes overwhelming, individuals will fall asleep for periods lasting from a few seconds to several minutes. In rare cases, some people may remain asleep for an hour or longer. In addition to excessive daytime sleepiness (EDS), three other major symptoms frequently characterize narcolepsy: cataplexy, or the sudden loss of voluntary muscle tone; vivid hallucinations during sleep onset or upon awakening; and brief episodes of total paralysis at the beginning or end of sleep. Narcolepsy is not definitively diagnosed in most patients until 10 to 15 years after the first symptoms appear. The cause of narcolepsy remains unknown. It is likely that narcolepsy involves multiple factors interacting to cause neurological dysfunction and sleep disturbances.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000211-2" qtype="treatment">What are the treatments for Narcolepsy ?</Question>
+			<Answer>There is no cure for narcolepsy. In 1999, after successful clinical trial results, the U.S. Food and Drug Administration (FDA) approved a drug called modafinil for the treatment of EDS. Two classes of antidepressant drugs have proved effective in controlling cataplexy in many patients: tricyclics (including imipramine, desipramine, clomipramine, and protriptyline) and selective serotonin reuptake inhibitors (including fluoxetine and sertraline). Drug therapy should be supplemented by behavioral strategies. For example, many people with narcolepsy take short, regularly scheduled naps at times when they tend to feel sleepiest. Improving the quality of nighttime sleep can combat EDS and help relieve persistent feelings of fatigue. Among the most important common-sense measures people with narcolepsy can take to enhance sleep quality are actions such as maintaining a regular sleep schedule, and avoiding alcohol and caffeine-containing beverages before bedtime. The drug Xyrem (sodium oxybate or gamma hydroxybutyrate, also known as GHB) was approved in July 2002 for treating cataplexy and in November 2005 for EDS in people who have narcolepsy. Due to safety concerns associated with the use of this drug, the distribution of Xyrem is tightly restricted.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000211-3" qtype="outlook">What is the outlook for Narcolepsy ?</Question>
+			<Answer>None of the currently available medications enables people with narcolepsy to consistently maintain a fully normal state of alertness. But EDS and cataplexy, the most disabling symptoms of the disorder, can be controlled in most patients with drug treatment. Often the treatment regimen is modified as symptoms change. Whatever the age of onset, patients find that the symptoms tend to get worse over the two to three decades after the first symptoms appear. Many older patients find that some daytime symptoms decrease in severity after age 60.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000211-4" qtype="research">what research (or clinical trials) is being done for Narcolepsy ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research into narcolepsy and other sleep disorders in laboratories at the NIH and also support additional research through grants to major medical institutions across the country. The NINDS continues to support investigations into the basic biology of sleep, including the brain mechanisms involved in generating and regulating sleep. Within the National Heart, Lung, and Blood Institute, also a component of the NIH, the       National        Center   on Sleep Disorders Research (NCSDR) coordinates Federal government sleep research activities and shares information with private and nonprofit groups.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

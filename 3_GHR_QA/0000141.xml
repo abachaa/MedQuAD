@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000141" source="GHR" url="https://ghr.nlm.nih.gov/condition/buschke-ollendorff-syndrome">
+<Focus>Buschke-Ollendorff syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265514</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dermatofibrosis disseminata lenticularis</Synonym>
+		<Synonym>dermatofibrosis lenticularis disseminata</Synonym>
+		<Synonym>dermatofibrosis lenticularis disseminata with osteopoikilosis</Synonym>
+		<Synonym>dermatofibrosis, disseminated, with osteopoikilosis</Synonym>
+		<Synonym>dermatoosteopoikilosis</Synonym>
+		<Synonym>osteopathia condensans disseminata</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000141-1" qtype="information">What is (are) Buschke-Ollendorff syndrome ?</Question>
+			<Answer>Buschke-Ollendorff syndrome is a hereditary disorder of connective tissues, which are tissues that provide strength and flexibility to structures throughout the body. Specifically, the condition is characterized by skin growths called connective tissue nevi and a bone abnormality known as osteopoikilosis.  Connective tissue nevi are small, noncancerous lumps on the skin. They tend to appear in childhood and are widespread in people with Buschke-Ollendorff syndrome. The most common form of these nevi are elastomas, which are made up of a type of stretchy connective tissue called elastic fibers. Less commonly, affected individuals have nevi called collagenomas, which are made up of another type of connective tissue called collagen.  Osteopoikilosis, which is from the Greek words for &quot;spotted bones,&quot; is a skeletal abnormality characterized by small, round areas of increased bone density that appear as brighter spots on x-rays. Osteopoikilosis usually occurs near the ends of the long bones of the arms and legs, and in the bones of the hands, feet, and pelvis. The areas of increased bone density appear during childhood. They do not cause pain or other health problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000141-2" qtype="frequency">How many people are affected by Buschke-Ollendorff syndrome ?</Question>
+			<Answer>Buschke-Ollendorff syndrome has an estimated incidence of 1 in 20,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000141-3" qtype="genetic changes">What are the genetic changes related to Buschke-Ollendorff syndrome ?</Question>
+			<Answer>Buschke-Ollendorff syndrome results from mutations in the LEMD3 gene. This gene provides instructions for making a protein that helps control signaling through two chemical pathways known as the bone morphogenic protein (BMP) and transforming growth factor-beta (TGF-) pathways. These signaling pathways regulate various cellular processes and are involved in the growth of cells, including new bone cells.  Mutations in the LEMD3 gene reduce the amount of functional LEMD3 protein that is produced. A shortage of this protein prevents it from controlling BMP and TGF- signaling effectively, leading to increased signaling through both of these pathways. Studies suggest that the enhanced signaling increases the formation of bone tissue, resulting in areas of overly dense bone. It is unclear how it is related to the development of connective tissue nevi in people with Buschke-Ollendorff syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000141-4" qtype="inheritance">Is Buschke-Ollendorff syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In many cases, an affected person has a parent and other family members with the condition. While most people with Buschke-Ollendorff syndrome have both connective tissue nevi and osteopoikilosis, some affected families include individuals who have the skin abnormalities alone or the bone abnormalities alone. When osteopoikilosis occurs without connective tissue nevi, the condition is often called isolated osteopoikilosis.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000141-5" qtype="treatment">What are the treatments for Buschke-Ollendorff syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Buschke-Ollendorff syndrome:  - Genetic Testing Registry: Dermatofibrosis lenticularis disseminata   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

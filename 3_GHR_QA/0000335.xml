@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000335" source="GHR" url="https://ghr.nlm.nih.gov/condition/factor-v-deficiency">
+<Focus>factor V deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015499</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>labile factor deficiency</Synonym>
+		<Synonym>Owren disease</Synonym>
+		<Synonym>Owren's disease</Synonym>
+		<Synonym>parahemophilia</Synonym>
+		<Synonym>proaccelerin deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000335-1" qtype="information">What is (are) factor V deficiency ?</Question>
+			<Answer>Factor V deficiency is a rare bleeding disorder. The signs and symptoms of this condition can begin at any age, although the most severe cases are apparent in childhood. Factor V deficiency commonly causes nosebleeds; easy bruising; bleeding under the skin; bleeding of the gums; and prolonged or excessive bleeding following surgery, trauma, or childbirth. Women with factor V deficiency can have heavy or prolonged menstrual bleeding (menorrhagia). Bleeding into joint spaces (hemarthrosis) can also occur, although it is rare. Severely affected individuals have an increased risk of bleeding inside the skull (intracranial hemorrhage), in the lungs (pulmonary hemorrhage), or in the gastrointestinal tract, which can be life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000335-2" qtype="frequency">How many people are affected by factor V deficiency ?</Question>
+			<Answer>Factor V deficiency affects an estimated 1 in 1 million people. This condition is more common in countries such as Iran and southern India, where it occurs up to ten times more frequently than in western countries.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000335-3" qtype="genetic changes">What are the genetic changes related to factor V deficiency ?</Question>
+			<Answer>Factor V deficiency is usually caused by mutations in the F5 gene, which provides instructions for making a protein called coagulation factor V. This protein plays a critical role in the coagulation system, which is a series of chemical reactions that forms blood clots in response to injury. F5 gene mutations that cause factor V deficiency prevent the production of functional coagulation factor V or severely reduce the amount of the protein in the bloodstream. People with this condition typically have less than 10 percent of normal levels of coagulation factor V in their blood; the most severely affected individuals have less than 1 percent. A reduced amount of functional coagulation factor V prevents blood from clotting normally, causing episodes of abnormal bleeding that can be severe.  Very rarely, a form of factor V deficiency is caused by abnormal antibodies that recognize coagulation factor V. Antibodies normally attach (bind) to specific foreign particles and germs, marking them for destruction, but the antibodies in this form of factor V deficiency attack a normal human protein, leading to its inactivation. These cases are called acquired factor V deficiency and usually occur in individuals who have been treated with substances that stimulate the production of anti-factor V antibodies, such as bovine thrombin used during surgical procedures. There is no known genetic cause for this form of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000335-4" qtype="inheritance">Is factor V deficiency inherited ?</Question>
+			<Answer>Factor V deficiency is inherited in an autosomal recessive pattern, which means both copies of the F5 gene in each cell have mutations. Individuals with a mutation in a single copy of the F5 gene have a reduced amount of coagulation factor V in their blood and can have mild bleeding problems, although most have no related health effects.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000335-5" qtype="treatment">What are the treatments for factor V deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of factor V deficiency:  - Genetic Testing Registry: Factor V deficiency  - MedlinePlus Encyclopedia: Factor V Deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001029" source="GHR" url="https://ghr.nlm.nih.gov/condition/warsaw-breakage-syndrome">
+<Focus>Warsaw breakage syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3150658</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>WABS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001029-1" qtype="information">What is (are) Warsaw breakage syndrome ?</Question>
+			<Answer>Warsaw breakage syndrome is a condition that can cause multiple abnormalities. People with Warsaw breakage syndrome have intellectual disability that varies from mild to severe. They also have impaired growth from birth leading to short stature and a small head size (microcephaly). Affected individuals have distinctive facial features that may include a small forehead, a short nose, a small lower jaw, a flat area between the nose and mouth (philtrum), and prominent cheeks. Other common features include hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss) and heart malformations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001029-2" qtype="frequency">How many people are affected by Warsaw breakage syndrome ?</Question>
+			<Answer>Warsaw breakage syndrome is a rare condition; at least four cases have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001029-3" qtype="genetic changes">What are the genetic changes related to Warsaw breakage syndrome ?</Question>
+			<Answer>Mutations in the DDX11 gene cause Warsaw breakage syndrome. The DDX11 gene provides instructions for making an enzyme called ChlR1. This enzyme functions as a helicase. Helicases are enzymes that attach (bind) to DNA and temporarily unwind the two spiral strands (double helix) of the DNA molecule. This unwinding is necessary for copying (replicating) DNA in preparation for cell division, and for repairing damaged DNA and any mistakes that are made when DNA is copied. In addition, after DNA is copied, ChlR1 plays a role in ensuring proper separation of each chromosome during cell division. By helping repair mistakes in DNA and ensuring proper DNA replication, the ChlR1 enzyme is involved in maintaining the stability of a cell&apos;s genetic information.  DDX11 gene mutations severely reduce or completely eliminate ChlR1 enzyme activity. As a result, the enzyme cannot bind to DNA and cannot unwind the DNA strands to help with DNA replication and repair. A lack of functional ChlR1 impairs cell division and leads to an accumulation of DNA damage. This DNA damage can appear as breaks in the DNA, giving the condition its name. It is unclear how these problems in DNA maintenance lead to the specific abnormalities characteristic of Warsaw breakage syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001029-4" qtype="inheritance">Is Warsaw breakage syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001029-5" qtype="treatment">What are the treatments for Warsaw breakage syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Warsaw breakage syndrome:  - Centers for Disease Control and Prevention: Hearing Loss in Children  - Genetic Testing Registry: Warsaw breakage syndrome  - MedlinePlus Encyclopedia: Hearing Loss--Infants   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

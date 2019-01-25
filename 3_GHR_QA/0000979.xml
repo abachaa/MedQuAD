@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000979" source="GHR" url="https://ghr.nlm.nih.gov/condition/thrombocytopenia-absent-radius-syndrome">
+<Focus>thrombocytopenia-absent radius syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1405984</CUI>
+			<CUI>C0039082</CUI>
+			<CUI>C0175703</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>chromosome 1q21.1 deletion syndrome, 200-KB</Synonym>
+		<Synonym>radial aplasia-amegakaryocytic thrombocytopenia</Synonym>
+		<Synonym>radial aplasia-thrombocytopenia syndrome</Synonym>
+		<Synonym>TAR syndrome</Synonym>
+		<Synonym>thrombocytopenia absent radii</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000979-1" qtype="information">What is (are) thrombocytopenia-absent radius syndrome ?</Question>
+			<Answer>Thrombocytopenia-absent radius (TAR) syndrome is characterized by the absence of a bone called the radius in each forearm. Affected individuals also have a shortage (deficiency) of blood cells involved in clotting (platelets). This platelet deficiency (thrombocytopenia) usually appears during infancy and becomes less severe over time; in some cases the platelet levels become normal.  Thrombocytopenia prevents normal blood clotting, resulting in easy bruising and frequent nosebleeds. Potentially life-threatening episodes of severe bleeding (hemorrhages) may occur in the brain and other organs, especially during the first year of life. Hemorrhages can damage the brain and lead to intellectual disability. Affected children who survive this period and do not have damaging hemorrhages in the brain usually have a normal life expectancy and normal intellectual development.  TAR syndrome is unusual among similar malformations in that affected individuals have thumbs, while people with other conditions involving an absent radius typically do not. TAR syndrome is also associated with short stature and additional skeletal abnormalities, including underdevelopment of other bones in the arms and legs. Affected individuals may also have malformations of the heart and kidneys. TAR syndrome is associated with unusual facial features including a small lower jaw (micrognathia), a prominent forehead, and low-set ears. About half of affected individuals have allergic reactions to cow&apos;s milk that may worsen the thrombocytopenia associated with this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000979-2" qtype="frequency">How many people are affected by thrombocytopenia-absent radius syndrome ?</Question>
+			<Answer>TAR syndrome is a rare disorder, affecting fewer than 1 in 100,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000979-3" qtype="genetic changes">What are the genetic changes related to thrombocytopenia-absent radius syndrome ?</Question>
+			<Answer>Mutations in the RBM8A gene cause TAR syndrome. The RBM8A gene provides instructions for making a protein called RNA-binding motif protein 8A. This protein is believed to be involved in several important cellular functions involving the production of other proteins.  Most people with TAR syndrome have a mutation in one copy of the RBM8A gene and a deletion of genetic material from chromosome 1 that includes the other copy of the RBM8A gene in each cell. A small number of affected individuals have mutations in both copies of the RBM8A gene in each cell and do not have a deletion on chromosome 1. RBM8A gene mutations that cause TAR syndrome reduce the amount of RNA-binding motif protein 8A in cells. The deletions involved in TAR syndrome eliminate at least 200,000 DNA building blocks (200 kilobases, or 200 kb) from the long (q) arm of chromosome 1 in a region called 1q21.1. The deletion eliminates one copy of the RBM8A gene in each cell and the RNA-binding motif protein 8A that would have been produced from it.  People with either an RBM8A gene mutation and a chromosome 1 deletion or with two gene mutations have a decreased amount of RNA-binding motif protein 8A. This reduction is thought to cause problems in the development of certain tissues, but it is unknown how it causes the specific signs and symptoms of TAR syndrome. No cases have been reported in which a deletion that includes the RBM8A gene occurs on both copies of chromosome 1; studies indicate that the complete loss of RNA-binding motif protein 8A is not compatible with life.  Researchers sometimes refer to the deletion in chromosome 1 associated with TAR syndrome as the 200-kb deletion to distinguish it from another chromosomal abnormality called a 1q21.1 microdeletion. People with a 1q21.1 microdeletion are missing a different, larger DNA segment in the chromosome 1q21.1 region near the area where the 200-kb deletion occurs. The chromosomal change related to 1q21.1 microdeletion is often called the recurrent distal 1.35-Mb deletion.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000979-4" qtype="inheritance">Is thrombocytopenia-absent radius syndrome inherited ?</Question>
+			<Answer>TAR syndrome is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell are altered. In this disorder, either both copies of the RBM8A gene in each cell have mutations or, more commonly, one copy of the gene has a mutation and the other is lost as part of a deleted segment on chromosome 1. The affected individual usually inherits an RBM8A gene mutation from one parent. In about 75 percent of cases, the affected person inherits a copy of chromosome 1 with the 200-kb deletion from the other parent. In the remaining cases, the deletion occurs during the formation of reproductive cells (eggs and sperm) or in early fetal development. Although parents of an individual with TAR syndrome can carry an RBM8A gene mutation or a 200-kb deletion, they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000979-5" qtype="treatment">What are the treatments for thrombocytopenia-absent radius syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of TAR syndrome:  - Gene Review: Gene Review: Thrombocytopenia Absent Radius Syndrome  - Genetic Testing Registry: Radial aplasia-thrombocytopenia syndrome  - MedlinePlus Encyclopedia: Skeletal Limb Abnormalities   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

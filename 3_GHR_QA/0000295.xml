@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000295" source="GHR" url="https://ghr.nlm.nih.gov/condition/dolk-congenital-disorder-of-glycosylation">
+<Focus>DOLK-congenital disorder of glycosylation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242354</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CDG1M</Synonym>
+		<Synonym>congenital disorder of glycosylation, type Im</Synonym>
+		<Synonym>DK1 deficiency</Synonym>
+		<Synonym>dolichol kinase deficiency</Synonym>
+		<Synonym>DOLK-CDG</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000295-1" qtype="information">What is (are) DOLK-congenital disorder of glycosylation ?</Question>
+			<Answer>DOLK-congenital disorder of glycosylation (DOLK-CDG, formerly known as congenital disorder of glycosylation type Im) is an inherited condition that often affects the heart but can also involve other body systems. The pattern and severity of this disorder&apos;s signs and symptoms vary among affected individuals.  Individuals with DOLK-CDG typically develop signs and symptoms of the condition during infancy or early childhood. Nearly all individuals with DOLK-CDG develop a weakened and enlarged heart (dilated cardiomyopathy). Other frequent signs and symptoms include recurrent seizures; developmental delay; poor muscle tone (hypotonia); and dry, scaly skin (ichthyosis). Less commonly, affected individuals can have distinctive facial features, kidney disease, hormonal abnormalities, or eye problems.  Individuals with DOLK-CDG typically do not survive into adulthood, often because of complications related to dilated cardiomyopathy, and some do not survive past infancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000295-2" qtype="frequency">How many people are affected by DOLK-congenital disorder of glycosylation ?</Question>
+			<Answer>DOLK-CDG is likely a rare condition; at least 18 cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000295-3" qtype="genetic changes">What are the genetic changes related to DOLK-congenital disorder of glycosylation ?</Question>
+			<Answer>DOLK-CDG is caused by mutations in the DOLK gene. This gene provides instructions for making the enzyme dolichol kinase, which facilitates the final step of the production of a compound called dolichol phosphate. This compound is critical for a process called glycosylation, which attaches groups of sugar molecules (oligosaccharides) to proteins. Glycosylation changes proteins in ways that are important for their functions. During glycosylation, sugars are added to dolichol phosphate in order to build the oligosaccharide chain. Once the chain is formed, dolichol phosphate transports the oligosaccharide to the protein that needs to be glycosylated and attaches it to a specific site on the protein.  Mutations in the DOLK gene lead to the production of abnormal dolichol kinase with reduced or absent activity. Without properly functioning dolichol kinase, dolichol phosphate is not produced and glycosylation cannot proceed normally. In particular, a protein known to stabilize heart muscle fibers, called alpha-dystroglycan, has been shown to have reduced glycosylation in people with DOLK-CDG. Impaired glycosylation of alpha-dystroglycan disrupts its normal function, which damages heart muscle fibers as they repeatedly contract and relax. Over time, the fibers weaken and break down, leading to dilated cardiomyopathy. The other signs and symptoms of DOLK-CDG are likely due to the abnormal glycosylation of additional proteins in other organs and tissues.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000295-4" qtype="inheritance">Is DOLK-congenital disorder of glycosylation inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000295-5" qtype="treatment">What are the treatments for DOLK-congenital disorder of glycosylation ?</Question>
+			<Answer>These resources address the diagnosis or management of DOLK-CDG:  - Gene Review: Gene Review: Congenital Disorders of N-Linked Glycosylation Pathway Overview  - Genetic Testing Registry: Congenital disorder of glycosylation type 1M  - MedlinePlus Encyclopedia: Dilated Cardiomyopathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

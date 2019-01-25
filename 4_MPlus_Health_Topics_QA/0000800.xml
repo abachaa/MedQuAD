@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000800" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/scoliosis.html">
+<Focus>Scoliosis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0559260</CUI>
+			<CUI>C0036439</CUI>
+			<CUI>C0700208</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000800-1" qtype="information">What is (are) Scoliosis ?</Question>
+			<Answer>Scoliosis causes a sideways curve of your backbone, or spine. These curves are often S- or C-shaped. Scoliosis is most common in late childhood and the early teens, when children grow fast. Girls are more likely to have it than boys. It can run in families. Symptoms include leaning to one side and having uneven shoulders and hips.    Doctors use your medical and family history, a physical exam, and imaging tests to diagnose scoliosis. Treatment depends on your age, how much more you&apos;re likely to grow, how much curving there is, and whether the curve is temporary or permanent. People with mild scoliosis might only need checkups to see if the curve is getting worse. Others might need to wear a brace or have surgery.     NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

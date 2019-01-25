@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001034" source="GHR" url="https://ghr.nlm.nih.gov/condition/weyers-acrofacial-dysostosis">
+<Focus>Weyers acrofacial dysostosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0457013</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>acrodental dysostosis of Weyers</Synonym>
+		<Synonym>Curry-Hall syndrome</Synonym>
+		<Synonym>Weyers acrodental dysostosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001034-1" qtype="information">What is (are) Weyers acrofacial dysostosis ?</Question>
+			<Answer>Weyers acrofacial dysostosis is a disorder that affects the development of the teeth, nails, and bones. Dental abnormalities can include small, peg-shaped teeth; fewer teeth than normal (hypodontia); and one front tooth instead of two (a single central incisor). Additionally, the lower jaw (mandible) may be abnormally shaped. People with Weyers acrofacial dysostosis have abnormally small or malformed fingernails and toenails. Most people with the condition are relatively short, and they may have extra fingers or toes (polydactyly).  The features of Weyers acrofacial dysostosis overlap with those of another, more severe condition called Ellis-van Creveld syndrome. In addition to tooth and nail abnormalities, people with Ellis-van Creveld syndrome have very short stature and are often born with heart defects. The two conditions are caused by mutations in the same genes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001034-2" qtype="frequency">How many people are affected by Weyers acrofacial dysostosis ?</Question>
+			<Answer>Weyers acrofacial dysostosis appears to be a rare disorder. Only a few affected families have been identified worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001034-3" qtype="genetic changes">What are the genetic changes related to Weyers acrofacial dysostosis ?</Question>
+			<Answer>Most cases of Weyers acrofacial dysostosis result from mutations in the EVC2 gene. A mutation in a similar gene, EVC, has been found in at least one person with the characteristic features of the disorder. Little is known about the function of the EVC and EVC2 genes, although they appear to play important roles in cell-to-cell signaling during development. In particular, the proteins produced from these genes are thought to help regulate the Sonic Hedgehog signaling pathway. This pathway plays roles in cell growth, cell specialization, and the normal shaping (patterning) of many parts of the body.  The mutations that cause Weyers acrofacial dysostosis result in the production of an abnormal EVC or EVC2 protein. It is unclear how the abnormal proteins lead to the specific signs and symptoms of this condition. Studies suggest that they interfere with Sonic Hedgehog signaling in the developing embryo, disrupting the formation and growth of the teeth, nails, and bones.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001034-4" qtype="inheritance">Is Weyers acrofacial dysostosis inherited ?</Question>
+			<Answer>Weyers acrofacial dysostosis is inherited in an autosomal dominant pattern, which means one copy of the altered EVC or EVC2 gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the altered gene from a parent who has the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001034-5" qtype="treatment">What are the treatments for Weyers acrofacial dysostosis ?</Question>
+			<Answer>These resources address the diagnosis or management of Weyers acrofacial dysostosis:  - Genetic Testing Registry: Curry-Hall syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

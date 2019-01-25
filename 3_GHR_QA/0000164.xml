@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000164" source="GHR" url="https://ghr.nlm.nih.gov/condition/central-core-disease">
+<Focus>central core disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751951</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CCD</Synonym>
+		<Synonym>CCO</Synonym>
+		<Synonym>Central Core Myopathy</Synonym>
+		<Synonym>Myopathy, Central Core</Synonym>
+		<Synonym>Shy-Magee Syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000164-1" qtype="information">What is (are) central core disease ?</Question>
+			<Answer>Central core disease is a disorder that affects muscles used for movement (skeletal muscles). This condition causes muscle weakness that ranges from almost unnoticeable to very severe.  Most people with central core disease experience persistent, mild muscle weakness that does not worsen with time. This weakness affects the muscles near the center of the body (proximal muscles), particularly muscles in the upper legs and hips. Muscle weakness causes affected infants to appear &quot;floppy&quot; and can delay the development of motor skills such as sitting, standing, and walking. In severe cases, affected infants experience profoundly weak muscle tone (hypotonia) and serious or life-threatening breathing problems. Central core disease is also associated with skeletal abnormalities such as abnormal curvature of the spine (scoliosis), hip dislocation, and joint deformities called contractures that restrict the movement of certain joints.  Many people with central core disease also have an increased risk of developing a severe reaction to certain drugs used during surgery and other invasive procedures. This reaction is called malignant hyperthermia. Malignant hyperthermia occurs in response to some anesthetic gases, which are used to block the sensation of pain, and with a particular type of muscle relaxant. If given these drugs, people at risk for malignant hyperthermia may experience muscle rigidity, breakdown of muscle fibers (rhabdomyolysis), a high fever, increased acid levels in the blood and other tissues (acidosis), and a rapid heart rate. The complications of malignant hyperthermia can be life-threatening unless they are treated promptly.  Central core disease gets its name from disorganized areas called cores, which are found in the center of muscle fibers in many affected individuals. These abnormal regions can only be seen under a microscope. Although the presence of cores can help doctors diagnose central core disease, it is unclear how they are related to muscle weakness and the other features of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000164-2" qtype="frequency">How many people are affected by central core disease ?</Question>
+			<Answer>Central core disease is probably an uncommon condition, although its incidence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000164-3" qtype="genetic changes">What are the genetic changes related to central core disease ?</Question>
+			<Answer>Mutations in the RYR1 gene cause central core disease.  The RYR1 gene provides instructions for making a protein called ryanodine receptor 1. This protein plays an essential role in skeletal muscles. For the body to move normally, these muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of charged atoms (ions) into muscle cells. The ryanodine receptor 1 protein forms a channel that releases calcium ions stored within muscle cells. The resulting increase in calcium ion concentration inside muscle cells stimulates muscle fibers to contract, allowing the body to move.  Mutations in the RYR1 gene change the structure of ryanodine receptor 1, allowing calcium ions to &quot;leak&quot; through the abnormal channel or impairing the channel&apos;s ability to release stored calcium ions at the correct time. This disruption in calcium ion transport prevents muscles from contracting normally, leading to the muscle weakness characteristic of central core disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000164-4" qtype="inheritance">Is central core disease inherited ?</Question>
+			<Answer>Central core disease is most often inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases may result from new mutations in the gene. These cases occur in people with no history of the disorder in their family.  Less commonly, central core disease is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but typically do not show signs and symptoms of the condition. People who carry one mutated copy of the RYR1 gene, however, may be at increased risk for malignant hyperthermia.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000164-5" qtype="treatment">What are the treatments for central core disease ?</Question>
+			<Answer>These resources address the diagnosis or management of central core disease:  - Gene Review: Gene Review: Central Core Disease  - Genetic Testing Registry: Central core disease  - MedlinePlus Encyclopedia: Hypotonia  - MedlinePlus Encyclopedia: Malignant Hyperthermia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

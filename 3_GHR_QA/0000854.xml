@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000854" source="GHR" url="https://ghr.nlm.nih.gov/condition/pyruvate-carboxylase-deficiency">
+<Focus>pyruvate carboxylase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0034341</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ataxia with Lactic Acidosis, Type II</Synonym>
+		<Synonym>PC deficiency</Synonym>
+		<Synonym>Pyruvate Carboxylase Deficiency Disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000854-1" qtype="information">What is (are) pyruvate carboxylase deficiency ?</Question>
+			<Answer>Pyruvate carboxylase deficiency is an inherited disorder that causes lactic acid and other potentially toxic compounds to accumulate in the blood. High levels of these substances can damage the body&apos;s organs and tissues, particularly in the nervous system.  Researchers have identified at least three types of pyruvate carboxylase deficiency, which are distinguished by the severity of their signs and symptoms. Type A, which has been identified mostly in people from North America, has moderately severe symptoms that begin in infancy. Characteristic features include developmental delay and a buildup of lactic acid in the blood (lactic acidosis). Increased acidity in the blood can lead to vomiting, abdominal pain, extreme tiredness (fatigue), muscle weakness, and difficulty breathing. In some cases, episodes of lactic acidosis are triggered by an illness or periods without food (fasting). Children with pyruvate carboxylase deficiency type A typically survive only into early childhood.  Pyruvate carboxylase deficiency type B has life-threatening signs and symptoms that become apparent shortly after birth. This form of the condition has been reported mostly in Europe, particularly France. Affected infants have severe lactic acidosis, a buildup of ammonia in the blood (hyperammonemia), and liver failure. They experience neurological problems including weak muscle tone (hypotonia), abnormal movements, seizures, and coma. Infants with this form of the condition usually survive for less than 3 months after birth.  A milder form of pyruvate carboxylase deficiency, sometimes called type C, has also been described. This type is characterized by slightly increased levels of lactic acid in the blood and minimal signs and symptoms affecting the nervous system.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000854-2" qtype="frequency">How many people are affected by pyruvate carboxylase deficiency ?</Question>
+			<Answer>Pyruvate carboxylase deficiency is a rare condition, with an estimated incidence of 1 in 250,000 births worldwide. This disorder appears to be much more common in some Algonkian Indian tribes in eastern Canada.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000854-3" qtype="genetic changes">What are the genetic changes related to pyruvate carboxylase deficiency ?</Question>
+			<Answer>Mutations in the PC gene cause pyruvate carboxylase deficiency.  The PC gene provides instructions for making an enzyme called pyruvate carboxylase. This enzyme is active in mitochondria, which are the energy-producing centers within cells. It is involved in several important cellular functions including the generation of glucose, a simple sugar that is the body&apos;s main energy source. Pyruvate carboxylase also plays a role in the formation of the protective sheath that surrounds certain nerve cells (myelin) and the production of brain chemicals called neurotransmitters.  Mutations in the PC gene reduce the amount of pyruvate carboxylase in cells or disrupt the enzyme&apos;s activity. The missing or altered enzyme cannot carry out its essential role in generating glucose, which impairs the body&apos;s ability to make energy in mitochondria. Additionally, a loss of pyruvate carboxylase allows potentially toxic compounds such as lactic acid and ammonia to build up and damage organs and tissues. Researchers suggest that the loss of pyruvate carboxylase function in the nervous system, particularly the role of the enzyme in myelin formation and neurotransmitter production, also contributes to the neurologic features of pyruvate carboxylase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000854-4" qtype="inheritance">Is pyruvate carboxylase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000854-5" qtype="treatment">What are the treatments for pyruvate carboxylase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of pyruvate carboxylase deficiency:  - Gene Review: Gene Review: Pyruvate Carboxylase Deficiency  - Genetic Testing Registry: Pyruvate carboxylase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

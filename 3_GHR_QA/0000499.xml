@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000499" source="GHR" url="https://ghr.nlm.nih.gov/condition/hyperphosphatemic-familial-tumoral-calcinosis">
+<Focus>hyperphosphatemic familial tumoral calcinosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1876187</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HFTC</Synonym>
+		<Synonym>hyperphosphatemia hyperostosis</Synonym>
+		<Synonym>hyperphosphatemia hyperostosis syndrome</Synonym>
+		<Synonym>hyperphosphatemia tumoral calcinosis</Synonym>
+		<Synonym>primary hyperphosphatemic tumoral calcinosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000499-1" qtype="information">What is (are) hyperphosphatemic familial tumoral calcinosis ?</Question>
+			<Answer>Hyperphosphatemic familial tumoral calcinosis (HFTC) is a condition characterized by an increase in the levels of phosphate in the blood (hyperphosphatemia) and abnormal deposits of phosphate and calcium (calcinosis) in the body&apos;s tissues. Calcinosis typically develops in early childhood to early adulthood, although in some people the deposits first appear in infancy or in late adulthood. Calcinosis usually occurs in and just under skin tissue around the joints, most often the hips, shoulders, and elbows. Calcinosis may also develop in the soft tissue of the feet, legs, and hands. Rarely, calcinosis occurs in blood vessels or in the brain and can cause serious health problems. The deposits develop over time and vary in size. Larger deposits form masses that are noticeable under the skin and can interfere with the function of joints and impair movement. These large deposits may appear tumor-like (tumoral), but they are not tumors or cancerous. The number and frequency of deposits varies among affected individuals; some develop few deposits during their lifetime, while others may develop many in a short period of time.  Other features of HFTC include eye abnormalities such as calcium buildup in the clear front covering of the eye (corneal calcification) or angioid streaks that occur when tiny breaks form in the layer of tissue at the back of the eye called Bruch&apos;s membrane. Inflammation of the long bones (diaphysis) or excessive bone growth (hyperostosis) may occur. Some affected individuals have dental abnormalities. In males, small crystals of cholesterol can accumulate (microlithiasis) in the testicles, which usually causes no health problems.  A similar condition called hyperphosphatemia-hyperostosis syndrome (HHS) results in increased levels of phosphate in the blood, excessive bone growth, and bone lesions. This condition used to be considered a separate disorder, but it is now thought to be a mild variant of HFTC.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000499-2" qtype="frequency">How many people are affected by hyperphosphatemic familial tumoral calcinosis ?</Question>
+			<Answer>The prevalence of HFTC is unknown, but it is thought to be a rare condition. It occurs most often in Middle Eastern and African populations.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000499-3" qtype="genetic changes">What are the genetic changes related to hyperphosphatemic familial tumoral calcinosis ?</Question>
+			<Answer>Mutations in the FGF23, GALNT3, or KL gene cause HFTC. The proteins produced from these genes are all involved in the regulation of phosphate levels within the body (phosphate homeostasis). Among its many functions, phosphate plays a critical role in the formation and growth of bones in childhood and helps maintain bone strength in adults. Phosphate levels are controlled in large part by the kidneys. The kidneys normally rid the body of excess phosphate by excreting it in urine, and they reabsorb this mineral into the bloodstream when more is needed.  The FGF23 gene provides instructions for making a protein called fibroblast growth factor 23, which is produced in bone cells and signals the kidneys to stop reabsorbing phosphate. The proteins produced from the GALNT3 and KL genes help to regulate fibroblast growth factor 23. The protein produced from the GALNT3 gene, called ppGalNacT3, attaches sugar molecules to fibroblast growth factor 23 in a process called glycosylation. Glycosylation allows fibroblast growth factor 23 to move out of the cell and protects the protein from being broken down. Once outside the bone cell, fibroblast growth factor 23 must attach (bind) to a receptor protein that spans the membrane of kidney cells. The protein produced from the KL gene, called alpha-klotho, turns on (activates) the receptor protein so that fibroblast growth factor 23 can bind to it. Binding of fibroblast growth factor 23 to its receptor stimulates signaling that stops phosphate reabsorption into the bloodstream.  Mutations in the FGF23, GALNT3, or KL gene lead to a disruption in fibroblast growth factor 23 signaling. FGF23 gene mutations result in the production of a protein with decreased function that quickly gets broken down. Mutations in the GALNT3 gene result in the production of ppGalNacT3 protein with little or no function. As a result, the protein cannot glycosylate fibroblast growth factor 23, which is consequently trapped inside the cell and broken down rather than being released from the cell (secreted). KL gene mutations lead to a shortage of functional alpha-klotho. As a result, the receptor protein is not activated, causing it to be unavailable to be bound to fibroblast growth factor 23. All of these impairments to fibroblast growth factor 23 function and signaling lead to increased phosphate absorption by the kidneys. Calcinosis results when the excess phosphate combines with calcium to form deposits that build up in soft tissues. Although phosphate levels are increased, calcium is typically within the normal range.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000499-4" qtype="inheritance">Is hyperphosphatemic familial tumoral calcinosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000499-5" qtype="treatment">What are the treatments for hyperphosphatemic familial tumoral calcinosis ?</Question>
+			<Answer>These resources address the diagnosis or management of hyperphosphatemic familial tumoral calcinosis:  - Genetic Testing Registry: Tumoral calcinosis, familial, hyperphosphatemic   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

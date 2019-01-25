@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003660" source="GARD" url="https://rarediseases.info.nih.gov/gard/10791/logopenic-progressive-aphasia">
+<Focus>Logopenic progressive aphasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338457</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>LPA</Synonym>
+		<Synonym>Logopenic primary progressive aphasia</Synonym>
+		<Synonym>Logopenic variant PPA</Synonym>
+		<Synonym>Primary progressive aphasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003660-1" qtype="information">What is (are) Logopenic progressive aphasia ?</Question>
+			<Answer>Logopenic progressive aphasia (LPA) is a type of dementia characterized by language disturbance, including difficulty making or understanding speech (aphasia). It is a type of primary progressive aphasia (PPA). Affected individuals have slow, hesitant speech due to difficulty retrieving the correct words, names, or numbers. Difficulty with phase and sentence repetition are additionally present. Speech is typically well articulated and grammatically correct with good single-word comprehension. But over time, affected individuals may have trouble understanding long or complex verbal information, due to problems holding onto lengthy information that they hear. Language difficulties associated with LPA are due to shrinking, or atrophy, in the left posterior temporal cortex and inferior parietal lobule. Click here to view an image of the lobes of the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003660-2" qtype="treatment">What are the treatments for Logopenic progressive aphasia ?</Question>
+			<Answer>How might logopenic progressive aphasia be treated? Although no medications or interventions have demonstrated long-term stabilization of logopenic progressive aphasia (LPA), different treatment methods have shown promising short-term benefits. Studies utilizing language therapy and behavioral interventions have shown encouraging results. Neuromodulation through methodologies such as Transcranial Direct Current Stimulation (tDCS) and transcranial magnetic stimulation (rTMS) have additionally been identified as a promising therapies to potentially use in combination with behavioral treatment and language therapy. As the most common underlying pathology of LPA is Alzheimer&apos;s disease (AD) pathology, limited research has been completed on interventions shown to reduce the rate of decline in cognitive symptoms in AD. So far cholinesterase inhibitors and memantine, medications used in Alzheimers disease, have not been proven effective in treating logopenic progressive aphasia. Case studies involving steriod use and Omentum Transposition Therapy have reported improvement; however, the results have not been replicated in other cases and as with other treatment options, long-term studies are lacking. The National Aphasia Association provides further information on the medical management of primary progressive aphasias at the following link: http://live-naa.pantheon.io/wp-content/uploads/2014/12/Managing-PPA.pdf</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006460" source="GARD" url="https://rarediseases.info.nih.gov/gard/7897/wolff-parkinson-white-syndrome">
+<Focus>Wolff-Parkinson-White syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1963282</CUI>
+			<CUI>C0043202</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>WPW syndrome</Synonym>
+		<Synonym>Ventricular familial preexcitation syndrome</Synonym>
+		<Synonym>Auriculoventricular accessory pathway syndrome</Synonym>
+		<Synonym>False bundle branch block syndrome</Synonym>
+		<Synonym>Anomalous ventricular excitation syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006460-1" qtype="information">What is (are) Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>Wolff-Parkinson-White syndrome is a condition that disrupts the heart&apos;s normal rhythm (arrhythmia). People with Wolff-Parkinson-White syndrome are born with a heart abnormality that affects the coordinated movement of electrical signals through the heart.  This abnormality leads to an abnormally fast heartbeat (tachycardia) and other arrhythmias. In most cases, the cause of Wolff-Parkinson-White syndrome is unknown. A small percentage of cases are caused by mutations in the PRKAG2 gene. These cases appear to be inherited in an autosomal dominant manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006460-2" qtype="symptoms">What are the symptoms of Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Wolff-Parkinson-White syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Wolff-Parkinson-White syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Arrhythmia 90% Cardiomyopathy - Palpitations - Paroxysmal atrial fibrillation - Paroxysmal supraventricular tachycardia - Prolonged QRS complex - Shortened PR interval - Stroke - Sudden cardiac death - Ventricular preexcitation with multiple accessory pathways - Wolff-Parkinson-White syndrome - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006460-3" qtype="causes">What causes Wolff-Parkinson-White syndrome ?</Question>
+			<Answer>What causes Wolff-Parkinson-White syndrome? Normally, electrical signals in the heart go through a pathway that helps the heart beat regularly. The wiring of the heart prevents extra beats from occurring and keeps the next beat from happening too soon. In people with Wolff Parkinson White syndrome, there is an extra, or accessory, pathway that may cause a very rapid heart rate. This extra electrical pathway is present at birth. A mutation in the PRKAG2 gene  is the cause of a small percentage of cases of the disorder. Otherwise, little is known about why this extra pathway develops.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0006460-4" qtype="inheritance">Is Wolff-Parkinson-White syndrome inherited ?</Question>
+			<Answer>Is Wolff-Parkinson-White syndrome inherited?</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

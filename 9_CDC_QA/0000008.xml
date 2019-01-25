@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000008" source="CDC" url="http://www.cdc.gov/vhf/alkhurma/">
+<Focus>Alkhurma Hemorrhagic Fever (AHF)</Focus>
+<UMLS>
+<CUI></CUI>
+<SemanticType></SemanticType>
+<SemanticGroup></SemanticGroup>
+</UMLS>
+<QAPairs>
+<QAPair pid="1">
+<Question qid="0000008-1" qtype="susceptibility">Who is at risk for Alkhurma Hemorrhagic Fever (AHF)? ?</Question>
+<Answer>Transmission of AHFV is not well understood. AHFV is a zoonotic virus, and its described tick hosts (the soft tick Ornithodoros savignyi and the hard tick Hyalomma dromedari) are widely distributed. People can become infected through a tick bite or when crushing infected ticks. Epidemiologic studies indicate that contact with domestic animals or livestock may increase the risk of human infection. No human-to-human transmission of AHF has been documented. 
+ 
+Although livestock animals may provide blood meals for ticks, it is thought that they play a minor role in transmitting AHFV to humans. No transmission through non-pasteurized milk has been described, although other tick-borne flaviviruses have been transmitted to humans through this route.</Answer>
+</QAPair>
+<QAPair pid="2">
+<Question qid="0000008-2" qtype="symptoms">What are the symptoms of Alkhurma Hemorrhagic Fever (AHF) ?</Question>
+<Answer>Based on limited information, after an incubation period that could be as short as 2-4 days, the disease presents initially with non-specific flu-like symptoms, including fever, anorexia (loss of appetite), general malaise, diarrhea, and vomiting; a second phase has appeared in some patients, and includes neurologic and hemorrhagic symptoms in severe form. Multi-organ failure precedes fatal outcomes. No repeated or chronic symptoms have been reported following recovery. Evidence suggests that a milder form may exist, where hospitalization is not required. 
+                
+Thrombocytopenia, leukopenia, and elevated liver enzymes are nearly always observed in patients who have been hospitalized.</Answer>
+</QAPair>
+<QAPair pid="3">
+<Question qid="0000008-3" qtype="susceptibility">Who is at risk for Alkhurma Hemorrhagic Fever (AHF)? ?</Question>
+<Answer>Contact with  livestock with tick exposure are risk factors for humans, as is contact with infected ticks, whether through crushing the infected tick with unprotected fingers or by a bite from an infected tick. Slaughtering of animals which may acutely but asymptomatically infected may also be a risk factor, as it is possible that infected animals develop a viremia without obvious clinical signs.</Answer>
+</QAPair>
+<QAPair pid="4">
+<Question qid="0000008-4" qtype="exams and tests">How to diagnose Alkhurma Hemorrhagic Fever (AHF) ?</Question>
+<Answer>Clinical diagnosis could be difficult due to similarities between AVHF, Crimean-Congo Hemorrhagic fever (CCHF), and Rift Valley fever (RVF), which occur in similar geographic areas. Laboratory diagnosis of AHF can be made in the early stage of the illness by molecular detection by PCR or virus isolation from blood. Later, serologic testing using enzyme-linked immunosorbent serologic assay (ELISA) can be performed.</Answer>
+</QAPair>
+<QAPair pid="5">
+<Question qid="0000008-5" qtype="treatment">What are the treatments for Alkhurma Hemorrhagic Fever (AHF) ?</Question>
+<Answer>There is no standard specific treatment for the disease. Patients receive supportive therapy, which consists of balancing the patient’s fluid and electrolytes, maintaining oxygen status and blood pressure, and treatment for any complications. Mortality in hospitalized patients ranges from 1-20%.</Answer>
+</QAPair>
+<QAPair pid="6">
+<Question qid="0000008-6" qtype="prevention">How to prevent Alkhurma Hemorrhagic Fever (AHF) ?</Question>
+<Answer>Given that no treatment or specific prophylaxis is presently available, prevention and increased awareness of AHFV are the only recommended measures. Complete control of ticks and interruption of the virus life cycle is impractical; in endemic regions, it is important to avoid tick-infested areas and to limit contact with livestock and domestic animals.  
+                
+Individuals should use tick repellants on skin and clothes and check skin for attached ticks, removing them as soon as possible. Tick collars are available for domestic animals, and dipping in acaricides is effective in killing ticks on livestock. People working with animals or animal products in farms or slaughterhouses should avoid unprotected contact with the blood, fluids, or tissues of any potentially infected or viremic animals.</Answer>
+</QAPair>
+</QAPairs>
+</Document>

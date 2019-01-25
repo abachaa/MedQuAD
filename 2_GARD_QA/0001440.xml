@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001440" source="GARD" url="https://rarediseases.info.nih.gov/gard/10008/colpocephaly">
+<Focus>Colpocephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0431384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001440-1" qtype="information">What is (are) Colpocephaly ?</Question>
+			<Answer>Colpocephaly is a congenital brain abnormality in which the occipital horns - the posterior or rear portion of the lateral ventricles (cavities) of the brain - are larger than normal because white matter in the posterior cerebrum has failed to develop or thicken.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001440-2" qtype="symptoms">What are the symptoms of Colpocephaly ?</Question>
+			<Answer>What are the symptoms of colpocephaly? Colpocephaly is characterized by a small head circumference and in many cases, intellectual disability. Other signs and symptoms may include movement abnormalities, muscle spasms, and seizures. Poor vision, speech and language difficulties, deafness, and chorioretinitis have been described in individual cases. Cases of people with colpocephaly and normal neurological and motor development have also been described.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001440-3" qtype="causes">What causes Colpocephaly ?</Question>
+			<Answer>What causes colpocephaly? Researchers believe that the disorder results from some kind of disturbance in the fetal environment that occurs between the second and sixth months of pregnancy. The underlying causes of colpocephaly are multiple and diverse. Causes include chromosomal anomalies such as trisomy-8 mosaicism and trisomy-9 mosaicism; intrauterine infection such as toxoplasmosis; perinatal anoxic-ischemic encephalopathy; and maternal drug ingestion during early pregnancy, such as corticosteroids, salbutamol, and theophylline. In addition, a familial occurrence of colpocephaly has been noted in three reports. A genetic origin with an autosomal recessive or X-linked recessive inheritance was suggested in these familial cases.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001440-4" qtype="treatment">What are the treatments for Colpocephaly ?</Question>
+			<Answer>How might colpocephaly be treated? There is no definitive treatment for colpocephaly. Anticonvulsant medications are often prescribed to prevent seizures, and doctors rely on exercise therapies and orthopedic appliances to reduce shrinkage or shortening of muscles.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

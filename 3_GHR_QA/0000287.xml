@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000287" source="GHR" url="https://ghr.nlm.nih.gov/condition/dihydropyrimidinase-deficiency">
+<Focus>dihydropyrimidinase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342803</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dihydropyrimidinuria</Synonym>
+		<Synonym>dihydrouracil amidohydrolase deficiency</Synonym>
+		<Synonym>DPH deficiency</Synonym>
+		<Synonym>DPYS deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000287-1" qtype="information">What is (are) dihydropyrimidinase deficiency ?</Question>
+			<Answer>Dihydropyrimidinase deficiency is a disorder that can cause neurological and gastrointestinal problems in some affected individuals. Other people with dihydropyrimidinase deficiency have no signs or symptoms related to the disorder, and in these individuals the condition can be diagnosed only by laboratory testing.  The neurological abnormalities that occur most often in people with dihydropyrimidinase deficiency are intellectual disability, seizures, and weak muscle tone (hypotonia). An abnormally small head size (microcephaly) and autistic behaviors that affect communication and social interaction also occur in some individuals with this condition.  Gastrointestinal problems that occur in dihydropyrimidinase deficiency include backflow of acidic stomach contents into the esophagus (gastroesophageal reflux) and recurrent episodes of vomiting (cyclic vomiting). Affected individuals can also have deterioration (atrophy) of the small, finger-like projections (villi) that line the small intestine and provide a large surface area with which to absorb nutrients. This condition, called villous atrophy, can lead to difficulty absorbing nutrients from foods (malabsorption), resulting in a failure to grow and gain weight at the expected rate (failure to thrive).  People with dihydropyrimidinase deficiency, including those who otherwise exhibit no symptoms, may be vulnerable to severe, potentially life-threatening toxic reactions to certain drugs called fluoropyrimidines that are used to treat cancer. Common examples of these drugs are 5-fluorouracil and capecitabine. These drugs may not be broken down efficiently and can build up to toxic levels in the body (fluoropyrimidine toxicity), leading to drug reactions including gastrointestinal problems, blood abnormalities, and other signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000287-2" qtype="frequency">How many people are affected by dihydropyrimidinase deficiency ?</Question>
+			<Answer>Dihydropyrimidinase deficiency is thought to be a rare disorder. Only a few dozen affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000287-3" qtype="genetic changes">What are the genetic changes related to dihydropyrimidinase deficiency ?</Question>
+			<Answer>Dihydropyrimidinase deficiency is caused by mutations in the DPYS gene, which provides instructions for making an enzyme called dihydropyrimidinase. This enzyme is involved in the breakdown of molecules called pyrimidines, which are building blocks of DNA and its chemical cousin RNA. The dihydropyrimidinase enzyme is involved in the second step of the three-step process that breaks down pyrimidines. This step opens the ring-like structures of molecules called 5,6-dihydrothymine and 5,6-dihydrouracil so that these molecules can be further broken down.  The DPYS gene mutations that cause dihydropyrimidinase deficiency greatly reduce or eliminate dihydropyrimidinase enzyme function. As a result, the enzyme is unable to begin the breakdown of 5,6-dihydrothymine and 5,6-dihydrouracil. Excessive amounts of these molecules accumulate in the blood and in the fluid that surrounds and protects the brain and spinal cord (the cerebrospinal fluid or CSF) and are released in the urine.  The relationship between the inability to break down 5,6-dihydrothymine and 5,6-dihydrouracil and the specific features of dihydropyrimidinase deficiency is unclear. Failure to complete this step in the breakdown of pyrimidines also impedes the final step of the process, which produces molecules called beta-aminoisobutyric acid and beta-alanine. Both of these molecules are thought to protect the nervous system and help it function properly. Reduced production of beta-aminoisobutyric acid and beta-alanine may impair the function of these molecules in the nervous system, leading to neurological problems in some people with dihydropyrimidinase deficiency. Because fluoropyrimidine drugs are broken down by the same three-step process as pyrimidines, deficiency of the dihydropyrimidinase enzyme could lead to the drug buildup that causes fluoropyrimidine toxicity.  It is unknown why some people with dihydropyrimidinase deficiency do not develop health problems related to the condition; other genetic and environmental factors likely help determine the effects of this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000287-4" qtype="inheritance">Is dihydropyrimidinase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000287-5" qtype="treatment">What are the treatments for dihydropyrimidinase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of dihydropyrimidinase deficiency:  - Genetic Testing Registry: Dihydropyrimidinase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

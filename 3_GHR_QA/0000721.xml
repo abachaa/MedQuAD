@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000721" source="GHR" url="https://ghr.nlm.nih.gov/condition/netherton-syndrome">
+<Focus>Netherton syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265962</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>bamboo hair syndrome</Synonym>
+		<Synonym>Comel-Netherton syndrome</Synonym>
+		<Synonym>ichthyosiform erythroderma with hypotrichosis and hyper-IgE</Synonym>
+		<Synonym>ichthyosis linearis circumflexa</Synonym>
+		<Synonym>ILC</Synonym>
+		<Synonym>NETH</Synonym>
+		<Synonym>Netherton disease</Synonym>
+		<Synonym>NS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000721-1" qtype="information">What is (are) Netherton syndrome ?</Question>
+			<Answer>Netherton syndrome is a disorder that affects the skin, hair, and immune system. Newborns with Netherton syndrome have skin that is red and scaly (ichthyosiform erythroderma), and the skin may leak fluid. Some affected infants are born with a tight, clear sheath covering their skin called a collodion membrane. This membrane is usually shed during the first few weeks of life. Because newborns with this disorder are missing the protection provided by normal skin, they are at risk of becoming dehydrated and developing infections in the skin or throughout the body (sepsis), which can be life-threatening. Affected babies may also fail to grow and gain weight at the expected rate (failure to thrive). The health of older children and adults with Netherton syndrome usually improves, although they often remain underweight and of short stature.  After infancy, the severity of the skin abnormalities varies among people with Netherton syndrome and can fluctuate over time. The skin may continue to be red and scaly, especially during the first few years of life. Some affected individuals have intermittent redness or experience outbreaks of a distinctive skin abnormality called ichthyosis linearis circumflexa, involving patches of multiple ring-like lesions. The triggers for the outbreaks are not known, but researchers suggest that stress or infections may be involved.  Itchiness is a common problem for affected individuals, and scratching can lead to frequent infections. Dead skin cells are shed at an abnormal rate and often accumulate in the ear canals, which can affect hearing if not removed regularly. The skin is abnormally absorbent of substances such as lotions and ointments, which can result in excessive blood levels of some topical medications. Because the ability of the skin to protect against heat and cold is impaired, affected individuals may have difficulty regulating their body temperature.  People with Netherton syndrome have hair that is fragile and breaks easily. Some strands of hair vary in diameter, with thicker and thinner spots. This feature is known as bamboo hair, trichorrhexis nodosa, or trichorrhexis invaginata. In addition to the hair on the scalp, the eyelashes and eyebrows may be affected. The hair abnormality in Netherton syndrome may not be noticed in infancy because babies often have sparse hair.  Most people with Netherton syndrome have immune system-related problems such as food allergies, hay fever, asthma, or an inflammatory skin disorder called eczema.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000721-2" qtype="frequency">How many people are affected by Netherton syndrome ?</Question>
+			<Answer>Netherton syndrome is estimated to affect 1 in 200,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000721-3" qtype="genetic changes">What are the genetic changes related to Netherton syndrome ?</Question>
+			<Answer>Netherton syndrome is caused by mutations in the SPINK5 gene. This gene provides instructions for making a protein called LEKT1. LEKT1 is a type of serine peptidase inhibitor. Serine peptidase inhibitors control the activity of enzymes called serine peptidases, which break down other proteins. LEKT1 is found in the skin and in the thymus, which is a gland located behind the breastbone that plays an important role in the immune system by producing white blood cells called lymphocytes. LEKT1 controls the activity of certain serine peptidases in the outer layer of skin (the epidermis), especially the tough outer surface known as the stratum corneum, which provides a sturdy barrier between the body and its environment. Serine peptidase enzymes are involved in normal skin shedding by helping to break the connections between cells of the stratum corneum. LEKT1 is also involved in normal hair growth, the development of lymphocytes in the thymus, and the control of peptidases that trigger immune system function.  Mutations in the SPINK5 gene result in a LEKT1 protein that is unable to control serine peptidase activity. The lack of LEKT1 function allows the serine peptidases to be abnormally active and break down too many proteins in the stratum corneum. As a result, too much skin shedding takes place, and the stratum corneum is too thin and breaks down easily, resulting in the skin abnormalities that occur in Netherton syndrome. Loss of LEKT1 function also results in abnormal hair growth and immune dysfunction that leads to allergies, asthma, and eczema.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000721-4" qtype="inheritance">Is Netherton syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000721-5" qtype="treatment">What are the treatments for Netherton syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Netherton syndrome:  - Genetic Testing Registry: Netherton syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000100" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-recessive-hyper-ige-syndrome">
+<Focus>autosomal recessive hyper-IgE syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022398</CUI>
+		</CUIs>
+		<SemanticTypes>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AR-HIES</Synonym>
+		<Synonym>autosomal recessive HIES</Synonym>
+		<Synonym>CID due to DOCK8 deficiency</Synonym>
+		<Synonym>combined immunodeficiency due to DOCK8 deficiency</Synonym>
+		<Synonym>DOCK8 deficiency</Synonym>
+		<Synonym>DOCK8 immunodeficiency syndrome</Synonym>
+		<Synonym>hyper IgE recurrent infection syndrome, autosomal recessive</Synonym>
+		<Synonym>hyper immunoglobulin E syndrome, autosomal recessive</Synonym>
+		<Synonym>hyperimmunoglobulin E recurrent infection syndrome, autosomal recessive</Synonym>
+		<Synonym>hyperimmunoglobulin E syndrome type 2</Synonym>
+		<Synonym>non-skeletal hyper-IgE syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000100-1" qtype="information">What is (are) autosomal recessive hyper-IgE syndrome ?</Question>
+			<Answer>Autosomal recessive hyper-IgE syndrome (AR-HIES) is a disorder of the immune system. A hallmark feature of the condition is recurrent infections that are severe and can be life-threatening. Skin infections can be caused by bacteria, viruses, or fungi. These infections cause rashes, blisters, accumulations of pus (abscesses), open sores, and scaling. People with AR-HIES also tend to have frequent bouts of pneumonia and other respiratory tract infections.  Other immune system-related problems in people with AR-HIES include an inflammatory skin disorder called eczema, food or environmental allergies, and asthma. In some affected individuals, the immune system malfunctions and attacks the body&apos;s own tissues and organs, causing autoimmune disease. For example, autoimmunity can lead to abnormal destruction of red blood cells (hemolytic anemia) in people with AR-HIES.  AR-HIES is characterized by abnormally high levels of an immune system protein called immunoglobulin E (IgE) in the blood; the levels are more than 10 times higher than normal. IgE normally triggers an immune response against foreign invaders in the body, particularly parasitic worms, and plays a role in allergies. It is unclear why people with AR-HIES have such high levels of this protein. People with AR-HIES also have highly elevated numbers of certain white blood cells called eosinophils (hypereosinophilia). Eosinophils aid in the immune response and are involved in allergic reactions.  Some people with AR-HIES have neurological problems, such as paralysis that affects the face or one side of the body (hemiplegia). Blockage of blood flow in the brain or abnormal bleeding in the brain, both of which can lead to stroke, can also occur in AR-HIES.  People with AR-HIES have a greater-than-average risk of developing cancer, particularly cancers of the blood or skin.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000100-2" qtype="frequency">How many people are affected by autosomal recessive hyper-IgE syndrome ?</Question>
+			<Answer>AR-HIES is a rare disorder whose prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000100-3" qtype="genetic changes">What are the genetic changes related to autosomal recessive hyper-IgE syndrome ?</Question>
+			<Answer>AR-HIES is usually caused by mutations in the DOCK8 gene. The protein produced from this gene plays a critical role in the survival and function of several types of immune system cells. One of the protein&apos;s functions is to help maintain the structure and integrity of immune cells called T cells and NK cells, which recognize and attack foreign invaders, particularly as these cells travel to sites of infection within the body. In addition, DOCK8 is involved in chemical signaling pathways that stimulate other immune cells called B cells to mature and produce antibodies, which are specialized proteins that attach to foreign particles and germs, marking them for destruction.  DOCK8 gene mutations result in the production of little or no functional DOCK8 protein. Shortage of this protein impairs normal immune cell development and function. It is thought that T cells and NK cells lacking DOCK8 cannot maintain their shape as they move through dense spaces, such as those found within the skin. The abnormal cells die, resulting in reduced numbers of these cells. A shortage of these immune cells impairs the immune response to foreign invaders, accounting for the severe viral skin infections common in AR-HIES. A lack of DOCK8 also impairs B cell maturation and the production of antibodies. A lack of this type of immune response leads to recurrent respiratory tract infections in people with this disorder. It is unclear how DOCK8 gene mutations are involved in other features of AR-HIES, such as the elevation of IgE levels, autoimmunity, and neurological problems.  Some people with AR-HIES do not have mutations in the DOCK8 gene. The genetic cause of the condition in these individuals is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000100-4" qtype="inheritance">Is autosomal recessive hyper-IgE syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000100-5" qtype="treatment">What are the treatments for autosomal recessive hyper-IgE syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of autosomal recessive hyper-IgE syndrome:  - Genetic Testing Registry: Hyperimmunoglobulin E syndrome  - MedlinePlus Encyclopedia: Hyperimmunoglobulin E Syndrome  - Merck Manual Professional Version: Hyperimmunoglobulin E Syndrome  - PID UK: Hyperimmunoglobulin E Syndromes Treatment and Immunizations   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

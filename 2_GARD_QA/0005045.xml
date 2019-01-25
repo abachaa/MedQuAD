@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005045" source="GARD" url="https://rarediseases.info.nih.gov/gard/6406/primary-familial-brain-calcification">
+<Focus>Primary Familial Brain Calcification</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270685</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FIBGC (formerly)</Synonym>
+		<Synonym>Idiopathic basal ganglia calcification 1</Synonym>
+		<Synonym>Fahr's Syndrome (formerly)</Synonym>
+		<Synonym>Bilateral striopallidodentate calcinosis</Synonym>
+		<Synonym>BSPDC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005045-1" qtype="information">What is (are) Primary Familial Brain Calcification ?</Question>
+			<Answer>Primary familial brain calcification (PFBC) is a neurodegenerative disorder characterized by calcium deposits in the basal ganglia, a part of the brain that helps start and control movement. The first symptoms often include clumsiness, fatigue, unsteady walking (gait), slow or slurred speech, difficulty swallowing (dysphagia) and dementia. Migraines and seizures frequently occur. Symptoms typically start in an individual&apos;s 30&apos;s to 40&apos;s but may begin at any age.The neuropsychiatric symptoms and movement disorders worsen over time. Mutations in the SLC20A2, PDGFRB, and PDGFB genes have been found to cause PFBC. This condition is inherited in an autosomal dominant manner.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005045-2" qtype="symptoms">What are the symptoms of Primary Familial Brain Calcification ?</Question>
+			<Answer>What are the signs and symptoms of Primary Familial Brain Calcification? The Human Phenotype Ontology provides the following list of signs and symptoms for Primary Familial Brain Calcification. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of neuronal migration 90% Cerebral calcification 90% Hepatomegaly 90% Intrauterine growth retardation 90% Microcephaly 90% Seizures 90% Subcutaneous hemorrhage 90% Thrombocytopenia 90% Ventriculomegaly 90% Opacification of the corneal stroma 50% Abnormal pyramidal signs 5% Adult onset - Athetosis - Autosomal dominant inheritance - Basal ganglia calcification - Bradykinesia - Calcification of the small brain vessels - Chorea - Dense calcifications in the cerebellar dentate nucleus - Depression - Dysarthria - Dysdiadochokinesis - Dystonia - Gait disturbance - Hyperreflexia - Limb dysmetria - Mask-like facies - Memory impairment - Mental deterioration - Parkinsonism - Postural instability - Progressive - Psychosis - Rigidity - Tremor - Urinary incontinence - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005045-3" qtype="causes">What causes Primary Familial Brain Calcification ?</Question>
+			<Answer>What causes primary familial brain calcification (PFBC)? PFBC is a genetic condition. Mutations in the SLC20A2 gene are thought to cause about half of the cases of PFBC. Mutations in the PDGFRB and PDGFB genes have also been shown to cause PFBC. In some cases, the genes responsible have not yet been found.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005045-4" qtype="exams and tests">How to diagnose Primary Familial Brain Calcification ?</Question>
+			<Answer>How is primary familial brain calcification (PFBC) diagnosed? The diagnosis of PFBC relies upon:   1) visualization of bilateral (on both sides) calcification of the basal ganglia on neuroimaging,  2) presence of progressive neurological dysfunction,  3) absence of a metabolic, infectious, toxic, or traumatic cause, and 4) a family history consistent with autosomal dominant inheritance (a person must inherit one copy of the altered gene from one parent to have the condition). Molecular genetic testing can help confirm the diagnosis. Is there genetic testing for primary familial brain calcification (PFBC) even though not all of the causitive genes are known? Genetic testing may help to confirm the diagnosis. For individuals in who a diagnosis of PFBC is being considered, other causes of brain calcification should be eliminated prior to pursuing genetic testing, particularly in simplex cases. Testing that might be done includes biochemical analysis of blood and urine, as well s analysis of cerebrospinal fluid. If no other primary cause for brain calcification is detected or if the family history is suggestive of autosomal dominant inheritance, molecular genetic testing should be considered.  Sequencing of SLC20A2 should be pursued first. If no mutation is identified, deletion/duplication analysis of SLC20A2 may be considered. If no identifiable mutation or deletion in SLC20A2 is found, sequence analysis of PDGFRB and PDGFB may be considered.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005045-5" qtype="treatment">What are the treatments for Primary Familial Brain Calcification ?</Question>
+			<Answer>How might primary familial brain calcification (PFBC) be treated? There is no standard course of treatment for PFBC. Treatment typically addresses symptoms on an individual basis. Medications may be used to improve anxiety, depression, obsessive-compulsive behaviors, and dystonia. Antiepileptic drugs (AEDs) can be prescribed for seizures. Oxybutynin may be prescribed for urinary incontinence (loss of bladder control). Surveillance typically includes yearly neurologic and neuropsychiatric assessments.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

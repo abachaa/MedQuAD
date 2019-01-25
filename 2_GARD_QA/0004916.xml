@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004916" source="GARD" url="https://rarediseases.info.nih.gov/gard/12125/plasmablastic-lymphoma">
+<Focus>Plasmablastic lymphoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079746</CUI>
+			<CUI>C3472614</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>B-cell lymphoma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004916-1" qtype="information">What is (are) Plasmablastic lymphoma ?</Question>
+			<Answer>Plasmablastic lymphoma is an aggressive form of non-Hodgkin lymphoma. Although the condition most commonly occurs in the oral cavity, it can be diagnosed in many other parts of the body such as the gastrointestinal tract, lymph nodes, and skin. The exact underlying cause of plasmablastic lymphoma is poorly understood; however, it is often associated with suppression of the immune system (i.e. HIV infection, immunosuppressive therapy). There is currently no standard therapy for plasmablastic lymphoma. Treatment usually consists of chemotherapy with or without radiation therapy and hematopoietic stem cell transplantation.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

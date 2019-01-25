@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000068" source="GHR" url="https://ghr.nlm.nih.gov/condition/aromatase-deficiency">
+<Focus>aromatase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1970109</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>46,XX disorder of sex development (DSD) due to placental aromatase deficiency</Synonym>
+		<Synonym>estrogen synthetase deficiency</Synonym>
+		<Synonym>oestrogen synthetase deficiency</Synonym>
+		<Synonym>placental aromatase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000068-1" qtype="information">What is (are) aromatase deficiency ?</Question>
+			<Answer>Aromatase deficiency is a condition characterized by reduced levels of the female sex hormone estrogen and increased levels of the male sex hormone testosterone.  Females with aromatase deficiency have a typical female chromosome pattern (46,XX) but are born with external genitalia that do not appear clearly female or male (ambiguous genitalia). These individuals typically have normal internal reproductive organs, but develop ovarian cysts early in childhood, which impair the release of egg cells from the ovaries (ovulation). In adolescence, most affected females do not develop secondary sexual characteristics, such as breast growth and menstrual periods. They tend to develop acne and excessive body hair growth (hirsutism).  Men with this condition have a typical male chromosome pattern (46,XY) and are born with male external genitalia. Some men with this condition have decreased sex drive, abnormal sperm production, or testes that are small or undescended (cryptorchidism).  There are other features associated with aromatase deficiency that can affect both males and females. Affected individuals are abnormally tall because of excessive growth of long bones in the arms and legs. The abnormal bone growth results in slowed mineralization of bones (delayed bone age) and thinning of the bones (osteoporosis), which can lead to bone fractures with little trauma. Males and females with aromatase deficiency can have abnormally high blood sugar (hyperglycemia) because the body does not respond correctly to the hormone insulin. In addition, they can have excessive weight gain and a fatty liver.  Women who are pregnant with fetuses that have aromatase deficiency often experience mild symptoms of the disorder even though they themselves do not have the disorder. These women may develop hirsutism, acne, an enlarged clitoris (clitoromegaly), and a deep voice. These features can appear as early as 12 weeks of pregnancy and go away soon after delivery.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000068-2" qtype="frequency">How many people are affected by aromatase deficiency ?</Question>
+			<Answer>The prevalence of aromatase deficiency is unknown; approximately 20 cases have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000068-3" qtype="genetic changes">What are the genetic changes related to aromatase deficiency ?</Question>
+			<Answer>Mutations in the CYP19A1 gene cause aromatase deficiency. The CYP19A1 gene provides instructions for making an enzyme called aromatase. This enzyme converts a class of hormones called androgens, which are involved in male sexual development, to different forms of estrogen. In females, estrogen guides female sexual development before birth and during puberty. In both males and females, estrogen plays a role in regulating bone growth and blood sugar levels. During fetal development, aromatase converts androgens to estrogens in the placenta, which is the link between the mother&apos;s blood supply and the fetus. This conversion in the placenta prevents androgens from directing sexual development in female fetuses. After birth, the conversion of androgens to estrogens takes place in multiple tissues.  CYP19A1 gene mutations that cause aromatase deficiency decrease or eliminate aromatase activity. A shortage of functional aromatase results in an inability to convert androgens to estrogens before birth and throughout life. As a result, there is a decrease in estrogen production and an increase in the levels of androgens, including testosterone. In affected individuals, these abnormal hormone levels lead to impaired female sexual development, unusual bone growth, insulin resistance, and other signs and symptoms of aromatase deficiency. In women who are pregnant with an affected fetus, excess androgens in the placenta pass into the woman&apos;s bloodstream, which may cause her to have temporary signs and symptoms of aromatase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000068-4" qtype="inheritance">Is aromatase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000068-5" qtype="treatment">What are the treatments for aromatase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of aromatase deficiency:  - Genetic Testing Registry: Aromatase deficiency  - MedlinePlus Encyclopedia: Ovarian Overproduction of Androgens   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

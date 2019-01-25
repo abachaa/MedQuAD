@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000025" source="GHR" url="https://ghr.nlm.nih.gov/condition/adult-onset-leukoencephalopathy-with-axonal-spheroids-and-pigmented-glia">
+<Focus>adult-onset leukoencephalopathy with axonal spheroids and pigmented glia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270612</CUI>
+			<CUI>C3278074</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ALSP</Synonym>
+		<Synonym>hereditary diffuse leukoencephalopathy with axonal spheroids and pigmented glia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000025-1" qtype="information">What is (are) adult-onset leukoencephalopathy with axonal spheroids and pigmented glia ?</Question>
+			<Answer>Adult-onset leukoencephalopathy with axonal spheroids and pigmented glia (ALSP) is a neurological condition characterized by changes to certain areas of the brain. A hallmark of ALSP is leukoencephalopathy, which is the alteration of a type of brain tissue called white matter. White matter consists of nerve fibers (axons) covered by a substance called myelin that insulates and protects them. The axons extend from nerve cells (neurons) and transmit nerve impulses throughout the body. Areas of damage to this brain tissue (white matter lesions) can be seen with magnetic resonance imaging (MRI). Another feature of ALSP is swellings called spheroids in the axons of the brain, which are a sign of axon damage. Also common in ALSP are abnormally pigmented glial cells. Glial cells are specialized brain cells that protect and maintain neurons. Damage to myelin and neurons is thought to contribute to many of the neurological signs and symptoms in people with ALSP.  Symptoms of ALSP usually begin in a person&apos;s forties and worsen over time. Personality changes, including depression and a loss of social inhibitions, are among the earliest symptoms of ALSP. Affected individuals may develop memory loss and loss of executive function, which is the ability to plan and implement actions and develop problem-solving strategies. Loss of this function impairs skills such as impulse control, self-monitoring, and focusing attention appropriately. Some people with ALSP have mild seizures, usually only when the condition begins. As ALSP progresses, it causes a severe decline in thinking and reasoning abilities (dementia).  Over time, motor skills are affected, and people with ALSP may have difficulty walking. Many develop a pattern of movement abnormalities known as parkinsonism, which includes unusually slow movement (bradykinesia), involuntary trembling (tremor), and muscle stiffness (rigidity). The pattern of cognitive and motor problems are variable, even among individuals in the same family, although almost all affected individuals ultimately become unable to walk, speak, and care for themselves.  ALSP was previously thought to be two separate conditions, hereditary diffuse leukoencephalopathy with spheroids (HDLS) and familial pigmentary orthochromatic leukodystrophy (POLD), both of which cause very similar white matter damage and cognitive and movement problems. POLD was thought to be distinguished by the presence of pigmented glial cells and an absence of spheroids; however, people with HDLS can have pigmented cells, too, and people with POLD can have spheroids. HDLS and POLD are now considered to be part of the same disease spectrum, which researchers have recommended calling ALSP.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000025-2" qtype="frequency">How many people are affected by adult-onset leukoencephalopathy with axonal spheroids and pigmented glia ?</Question>
+			<Answer>ALSP is thought to be a rare disorder, although the prevalence is unknown. Because it can be mistaken for other disorders with similar symptoms, ALSP may be underdiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000025-3" qtype="genetic changes">What are the genetic changes related to adult-onset leukoencephalopathy with axonal spheroids and pigmented glia ?</Question>
+			<Answer>ALSP is caused by mutations in the CSF1R gene. This gene provides instructions for making a protein called colony stimulating factor 1 receptor (CSF-1 receptor), which is found in the outer membrane of certain types of cells, including glial cells. The CSF-1 receptor triggers signaling pathways that control many important cellular processes, such as cell growth and division (proliferation) and maturation of the cell to take on specific functions (differentiation).  CSF1R gene mutations in ALSP lead to an altered CSF-1 receptor protein that is likely unable to stimulate cell signaling pathways. However, it is unclear how the gene mutations lead to white matter damage or cognitive and movement problems in people with ALSP.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000025-4" qtype="inheritance">Is adult-onset leukoencephalopathy with axonal spheroids and pigmented glia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000025-5" qtype="treatment">What are the treatments for adult-onset leukoencephalopathy with axonal spheroids and pigmented glia ?</Question>
+			<Answer>These resources address the diagnosis or management of ALSP:  - Gene Review: Gene Review: Adult-Onset Leukoencephalopathy with Axonal Spheroids and Pigmented Glia  - Genetic Testing Registry: Hereditary diffuse leukoencephalopathy with spheroids  - MedlinePlus Encyclopedia: Dementia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

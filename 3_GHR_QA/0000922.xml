@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000922" source="GHR" url="https://ghr.nlm.nih.gov/condition/sost-related-sclerosing-bone-dysplasia">
+<Focus>SOST-related sclerosing bone dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0432272</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hyperostosis corticalis generalisata</Synonym>
+		<Synonym>hyperotosis corticalis generalisata familiaris</Synonym>
+		<Synonym>hyperphosphatasemia tarda</Synonym>
+		<Synonym>sclerosteosis</Synonym>
+		<Synonym>SOST sclerosing bone dysplasia</Synonym>
+		<Synonym>van Buchem disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000922-1" qtype="information">What is (are) SOST-related sclerosing bone dysplasia ?</Question>
+			<Answer>SOST-related sclerosing bone dysplasia is a disorder of bone development characterized by excessive bone formation (hyperostosis). As a result of hyperostosis, bones throughout the body are denser and wider than normal, particularly the bones of the skull. Affected individuals typically have an enlarged jaw with misaligned teeth. People with this condition may also have a sunken appearance of the middle of the face (midface hypoplasia), bulging eyes with shallow eye sockets (ocular proptosis), and a prominent forehead. People with this condition often experience headaches because increased thickness of the skull bones increases pressure on the brain. The excessive bone formation seen in this condition seems to occur throughout a person&apos;s life, so the skeletal features become more pronounced over time. However, the excessive bone growth may only occur in certain areas.  Abnormal bone growth can pinch (compress) the cranial nerves, which emerge from the brain and extend to various areas of the head and neck. Compression of the cranial nerves can lead to paralyzed facial muscles (facial nerve palsy), hearing loss, vision loss, and a sense of smell that is diminished (hyposmia) or completely absent (anosmia). Abnormal bone growth can cause life-threatening complications if it compresses the part of the brain that is connected to the spinal cord (the brainstem).  There are two forms of SOST-related sclerosing bone dysplasia: sclerosteosis and van Buchem disease. The two forms are distinguished by the severity of their symptoms.  Sclerosteosis is the more severe form of the disorder. People with sclerosteosis are often tall and have webbed or fused fingers (syndactyly), most often involving the second and third fingers. The syndactyly is present from birth, while the skeletal features typically appear in early childhood. People with sclerosteosis may also have absent or malformed nails.  Van Buchem disease represents the milder form of the disorder. People with van Buchem disease are typically of average height and do not have syndactyly or nail abnormalities. Affected individuals tend to have less severe cranial nerve compression, resulting in milder neurological features. In people with van Buchem disease, the skeletal features typically appear in childhood or adolescence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000922-2" qtype="frequency">How many people are affected by SOST-related sclerosing bone dysplasia ?</Question>
+			<Answer>SOST-related sclerosing bone dysplasia is a rare condition; its exact prevalence is unknown.  Approximately 100 individuals with sclerosteosis have been reported in the scientific literature. Sclerosteosis is most common in the Afrikaner population of South Africa.  Van Buchem disease has been reported in approximately 30 people. Most people with van Buchem disease are of Dutch ancestry.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000922-3" qtype="genetic changes">What are the genetic changes related to SOST-related sclerosing bone dysplasia ?</Question>
+			<Answer>SOST-related sclerosing bone dysplasia is caused by mutations in or near the SOST gene. The SOST gene provides instructions for making the protein sclerostin. Sclerostin is produced in osteocytes, which are a type of bone cell. The main function of sclerostin is to stop (inhibit) bone formation.  Mutations in the SOST gene that cause sclerosteosis prevent the production of any functional sclerostin. A lack of sclerostin disrupts the inhibitory role it plays during bone formation, causing excessive bone growth.  SOST mutations that cause van Buchem disease result in a shortage of functional sclerostin. This shortage reduces the protein&apos;s ability to inhibit bone formation, causing the excessive bone growth seen in people with van Buchem disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000922-4" qtype="inheritance">Is SOST-related sclerosing bone dysplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000922-5" qtype="treatment">What are the treatments for SOST-related sclerosing bone dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of SOST-related sclerosing bone dysplasia:  - Gene Review: Gene Review: SOST-Related Sclerosing Bone Dysplasias  - Genetic Testing Registry: Hyperphosphatasemia tarda  - Genetic Testing Registry: Sclerosteosis  - MedlinePlus Encyclopedia: Facial Paralysis  - MedlinePlus Encyclopedia: Smell--Impaired   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

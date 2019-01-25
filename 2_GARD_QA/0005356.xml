@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005356" source="GARD" url="https://rarediseases.info.nih.gov/gard/7572/rhabdoid-tumor">
+<Focus>Rhabdoid tumor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206743</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Rhabdoid sarcoma</Synonym>
+		<Synonym>Malignant rhabdoid tumor</Synonym>
+		<Synonym>RHABDOID TUMOR PREDISPOSITION SYNDROME 1</Synonym>
+		<Synonym>BRAIN TUMOR, POSTERIOR FOSSA, OF INFANCY, FAMILIAL</Synonym>
+		<Synonym>Rhabdoid tumor predisposition syndrome 2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005356-1" qtype="information">What is (are) Rhabdoid tumor ?</Question>
+			<Answer>Rhabdoid tumor (RT) is an aggressive pediatric soft tissue sarcoma that arises in the kidney, the liver, the peripheral nerves and all miscellaneous soft-parts throughout the body. RT involving the central nervous system (CNS) is called atypical teratoid rhabdoid tumor. RT usually occurs in infancy or childhood. In most cases, the first symptoms are linked to the compressive effects of a bulky tumor (such as respiratory distress, abdomen mass, peripheral nerve palsy). In about 90% of the cases it is caused by a mutation in the SMARCB1 gene, which is a tumor suppressor gene and in rare cases by a mutation in the SMARCA4 gene. No standard care exists for RT although there are a lot of studies. Treatment includes resection of the tumor mass and chemotherapy and radiotherapy. Because atypical teratoid rhabdoid tumors and rhabdoid tumors of the kidney have the same gene mutation and similar biopsy findings they are considered now identical or closely related entities. Also, 10-15% of patients with malignant rhabdoid tumors have brain tumors.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005356-2" qtype="symptoms">What are the symptoms of Rhabdoid tumor ?</Question>
+			<Answer>What are the signs and symptoms of Rhabdoid tumor? The Human Phenotype Ontology provides the following list of signs and symptoms for Rhabdoid tumor. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Nausea and vomiting 90% Neoplasm of the nervous system 90% Abdominal pain 50% Abnormality of coagulation 50% Abnormality of temperature regulation 50% Abnormality of the skin 50% Behavioral abnormality 50% Cerebral palsy 50% Cranial nerve paralysis 50% Hematuria 50% Hemiplegia/hemiparesis 50% Hydrocephalus 50% Hypertension 50% Incoordination 50% Limitation of joint mobility 50% Lymphadenopathy 50% Macrocephaly 50% Migraine 50% Muscle weakness 50% Neoplasm of the liver 50% Ophthalmoparesis 50% Renal neoplasm 50% Respiratory insufficiency 50% Sarcoma 50% Seizures 50% Sleep disturbance 50% Weight loss 50% Anemia 7.5% Cerebral calcification 7.5% Hypercalcemia 7.5% Thrombocytopenia 7.5% Autosomal dominant inheritance - Choroid plexus carcinoma - Medulloblastoma - Neoplasm of the central nervous system - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

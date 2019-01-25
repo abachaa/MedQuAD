@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000121" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/bowelincontinence.html">
+<Focus>Bowel Incontinence</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015732</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Encopresis</Synonym>
+		<Synonym>Fecal incontinence</Synonym>
+		<Synonym>Stool soiling</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000121-1" qtype="information">What is (are) Bowel Incontinence ?</Question>
+			<Answer>Bowel incontinence is the inability to control your bowels. When you feel the urge to have a bowel movement, you may not be able to hold it until you get to a toilet. Millions of Americans have this problem. It affects people of all ages - children and adults. It is more common in women and older adults. It is not a normal part of aging.    Causes include       - Constipation    - Damage to muscles or nerves of the anus and rectum    - Diarrhea    - Pelvic support problems       Treatments include changes in diet, medicines, bowel training, or surgery.     NIH: National Institute of Diabetes and Digestive and Kidney Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

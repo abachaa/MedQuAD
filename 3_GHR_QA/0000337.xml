@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000337" source="GHR" url="https://ghr.nlm.nih.gov/condition/factor-x-deficiency">
+<Focus>factor X deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015519</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital Stuart factor deficiency</Synonym>
+		<Synonym>F10 deficiency</Synonym>
+		<Synonym>Stuart-Prower factor deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000337-1" qtype="information">What is (are) factor X deficiency ?</Question>
+			<Answer>Factor X deficiency is a rare bleeding disorder that varies in severity among affected individuals. The signs and symptoms of this condition can begin at any age, although the most severe cases are apparent in childhood. Factor X deficiency commonly causes nosebleeds, easy bruising, bleeding under the skin, bleeding of the gums, blood in the urine (hematuria), and prolonged or excessive bleeding following surgery or trauma. Women with factor X deficiency can have heavy or prolonged menstrual bleeding (menorrhagia) or excessive bleeding in childbirth, and may be at increased risk of pregnancy loss (miscarriage). Bleeding into joint spaces (hemarthrosis) occasionally occurs. Severely affected individuals have an increased risk of bleeding inside the skull (intracranial hemorrhage), in the lungs (pulmonary hemorrhage), or in the gastrointestinal tract, which can be life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000337-2" qtype="frequency">How many people are affected by factor X deficiency ?</Question>
+			<Answer>Factor X deficiency occurs in approximately 1 per million individuals worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000337-3" qtype="genetic changes">What are the genetic changes related to factor X deficiency ?</Question>
+			<Answer>The inherited form of factor X deficiency, known as congenital factor X deficiency, is caused by mutations in the F10 gene, which provides instructions for making a protein called coagulation factor X. This protein plays a critical role in the coagulation system, which is a series of chemical reactions that forms blood clots in response to injury. Some F10 gene mutations that cause factor X deficiency reduce the amount of coagulation factor X in the bloodstream, resulting in a form of the disorder called type I. Other F10 gene mutations result in the production of a coagulation factor X protein with impaired function, leading to type II factor X deficiency. Reduced quantity or function of coagulation factor X prevents blood from clotting normally, causing episodes of abnormal bleeding that can be severe.  A non-inherited form of the disorder, called acquired factor X deficiency, is more common than the congenital form. Acquired factor X deficiency can be caused by other disorders such as severe liver disease or systemic amyloidosis, a condition involving the accumulation of abnormal proteins called amyloids. Acquired factor X deficiency can also be caused by certain drugs such as medicines that prevent clotting, or by a deficiency of vitamin K.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000337-4" qtype="inheritance">Is factor X deficiency inherited ?</Question>
+			<Answer>When this condition is caused by mutations in the F10 gene, it is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.  Acquired factor X deficiency is not inherited, and generally occurs in individuals with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000337-5" qtype="treatment">What are the treatments for factor X deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of factor X deficiency:  - Genetic Testing Registry: Factor X deficiency  - MedlinePlus Encyclopedia: Factor X Assay   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

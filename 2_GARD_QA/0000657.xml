@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000657" source="GARD" url="https://rarediseases.info.nih.gov/gard/5896/basilar-migraine">
+<Focus>Basilar migraine</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270860</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bickerstaff migraine</Synonym>
+		<Synonym>Basilar artery migraine</Synonym>
+		<Synonym>Brainstem migraine</Synonym>
+		<Synonym>Vertebrobasilar migraine</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000657-1" qtype="information">What is (are) Basilar migraine ?</Question>
+			<Answer>Basilar migraine is a type of migraine headache with aura that is associated with bilateral (on both sides) pain at the back of the head. An aura is a group of symptoms that generally serve as a warning sign that a bad headache is coming and may include dizziness and vertigo, slurred speech, ataxia, tinnitus, visual changes, and loss of balance. Although basilar migraines can occur in men and women of all ages, they are most common in adolescent girls. The exact underlying cause is not well understood. However, migraines are likely complex disorders that are influenced by multiple genes in combination with lifestyle and environmental factors. In rare cases, the susceptibility to basilar migraines may be caused by a change (mutation) in the ATP1A2 gene or CACNA1A gene. During episodes, affected people are typically treated with nonsteroidal anti-inflammatory drugs (NSAIDs) and antiemetic medications to help alleviate the symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000657-2" qtype="symptoms">What are the symptoms of Basilar migraine ?</Question>
+			<Answer>What are the signs and symptoms of Basilar migraine? Episodes of basilar migraines usually begin with an aura, which is a group of symptoms that serve as a warning sign that a bad headache is coming. Signs and symptoms of an aura vary, but may include: Dizziness and vertigo Disorientation Double vision and other visual changes Tinnitus Loss of balance Confusion Dysarthria Fainting Loss of consciousness These symptoms can last any where from two minutes to over an hour. They are then followed by a throbbing headache which is often along the back of the head and nausea. The Human Phenotype Ontology provides the following list of signs and symptoms for Basilar migraine. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aphasia - Apraxia - Autosomal dominant inheritance - Blurred vision - Coma - Confusion - Diplopia - Drowsiness - Dysarthria - Dysphasia - Episodic ataxia - Fever - Hemiparesis - Hemiplegia - Incomplete penetrance - Intellectual disability - Migraine with aura - Seizures - Transient unilateral blurring of vision - Vertigo - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common. What are the signs and symptoms of a basilar migraine? Episodes of basilar migraines usually begin with an aura, which is a group of symptoms that serve as a warning sign that a bad headache is coming. Signs and symptoms of an aura vary, but may include: Dizziness and vertigo Disorientation Double vision and other visual changes Tinnitus Loss of balance Confusion Dysarthria Fainting Loss of consciousness These symptoms can last any where from two minutes to over an hour. They are then followed by a throbbing headache which is often along the back of the head and nausea.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000657-3" qtype="causes">What causes Basilar migraine ?</Question>
+			<Answer>What causes a basilar migraine? The exact underlying cause of basilar migraines is not well understood. Basilar migraines, like all types of migraines, are likely complex disorders that are influenced by multiple genes in combination with lifestyle and environmental factors. Scientists also suspect that nerve abnormalities and/or altered blood flow to certain parts of the brain (brainstem and occipital lobes, specifically) may also play a role in the development of basilar migraines. The susceptibility to basilar migraines may rarely be caused by a change (mutation) in the ATP1A2 gene or CACNA1A gene. In these cases, episodes of basilar migraines may occur in more than one family member.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000657-4" qtype="inheritance">Is Basilar migraine inherited ?</Question>
+			<Answer>Are basilar migraines inherited? In most cases, basilar migraines are not inherited. However, the susceptibility to basilar migraines may rarely be caused by a change (mutation) in the ATP1A2 gene or CACNA1A gene. In these cases, they are inherited in an autosomal dominant manner. This means that to be affected, a person only needs a mutation in one copy of the responsible gene in each cell. In some cases, an affected person inherits the mutation from an affected parent. Other cases may result from new (de novo) mutations in the gene. These cases occur in people with no history of the disorder in their family. A person with one of these mutations has a 50% chance with each pregnancy of passing along the altered gene to his or her child.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000657-5" qtype="exams and tests">How to diagnose Basilar migraine ?</Question>
+			<Answer>How is a basilar migraine diagnosed? A diagnosis of basilar migraine is made based on the presence of characteristic signs and symptoms. Although there are no tests available to confirm the diagnosis, additional testing may be ordered to rule out other conditions that can cause similar features. These tests may include: Brain MRI MR angiogram (MRA) Electroencephalogram 24-hour heart monitor Specialized blood tests</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000657-6" qtype="treatment">What are the treatments for Basilar migraine ?</Question>
+			<Answer>How are basilar migraines treated? During episodes of basilar migraines, people are generally treated with nonsteroidal anti-inflammatory drugs (NSAIDs) and antiemetic medications to help alleviate the symptoms. In some cases, a nerve block can be used to treat pain if other therapies are ineffective. In people with episodes of basilar migraines that are frequent, prolonged, or particularly debilitating, certain medications such as verapamil or topiramate may be prescribed as a preventative therapy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004159" source="GARD" url="https://rarediseases.info.nih.gov/gard/7072/mucopolysaccharidosis-type-iiib">
+<Focus>Mucopolysaccharidosis type IIIB</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0086648</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Mucopoly-saccharidosis type 3B</Synonym>
+		<Synonym>Sanfilippo syndrome B</Synonym>
+		<Synonym>N-acetyl-alpha-d-glucosaminidase deficiency</Synonym>
+		<Synonym>MPS IIIB</Synonym>
+		<Synonym>MPS 3B</Synonym>
+		<Synonym>Mucopolysaccharidosis type III</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004159-1" qtype="information">What is (are) Mucopolysaccharidosis type IIIB ?</Question>
+			<Answer>Mucopolysaccharidosis type IIIB (MPS IIIB) is an genetic disorder that makes the body unable to break down large sugar molecules called glycosaminoglycans (GAGs, formerly called mucopolysaccharides). Specifically, people with this condition are unable to break down a GAG called heparan sulfate. Affected individuals can have severe neurological symptoms, including progressive dementia, aggressive behavior, hyperactivity, seizures, deafness, loss of vision, and an inability to sleep for more than a few hours at a time. MPS IIIB is caused by alterations (mutations) in the NAGLU gene. This gene provides the instructions for producing an enzyme called N-alpha-acetylglucosaminidase, which is needed to completely break down heparan sulfate. MPS IIIB is inherited in an autosomal recessive manner. There is no specific treatment for this condition. Most people with MPS IIIB live into their teenage years, and some live longer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004159-2" qtype="symptoms">What are the symptoms of Mucopolysaccharidosis type IIIB ?</Question>
+			<Answer>What are the signs and symptoms of Mucopolysaccharidosis type IIIB? The Human Phenotype Ontology provides the following list of signs and symptoms for Mucopolysaccharidosis type IIIB. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aggressive behavior - Asymmetric septal hypertrophy - Autosomal recessive inheritance - Cardiomegaly - Coarse facial features - Coarse hair - Dense calvaria - Diarrhea - Dysostosis multiplex - Hearing impairment - Heparan sulfate excretion in urine - Hepatomegaly - Hirsutism - Hyperactivity - Intellectual disability - Joint stiffness - Juvenile onset - Ovoid thoracolumbar vertebrae - Progressive neurologic deterioration - Recurrent upper respiratory tract infections - Seizures - Sleep disturbance - Splenomegaly - Synophrys - Thickened ribs - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001018" source="GHR" url="https://ghr.nlm.nih.gov/condition/vldlr-associated-cerebellar-hypoplasia">
+<Focus>VLDLR-associated cerebellar hypoplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0266470</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autosomal recessive cerebellar ataxia with mental retardation</Synonym>
+		<Synonym>autosomal recessive cerebellar hypoplasia with cerebral gyral simplification</Synonym>
+		<Synonym>cerebellar disorder, nonprogressive, with mental retardation</Synonym>
+		<Synonym>cerebellar hypoplasia and mental retardation with or without quadrupedal locomotion</Synonym>
+		<Synonym>cerebellar hypoplasia, VLDLR-associated</Synonym>
+		<Synonym>CHMRQ1</Synonym>
+		<Synonym>DES-VLDLR</Synonym>
+		<Synonym>dysequilibrium syndrome-VLDLR</Synonym>
+		<Synonym>VLDLR-CH</Synonym>
+		<Synonym>VLDLRCH</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001018-1" qtype="information">What is (are) VLDLR-associated cerebellar hypoplasia ?</Question>
+			<Answer>VLDLR-associated cerebellar hypoplasia is an inherited condition that affects the development of the brain. People with this condition have an unusually small and underdeveloped cerebellum, which is the part of the brain that coordinates movement. This brain malformation leads to problems with balance and coordination (ataxia) that become apparent in infancy and remain stable over time. Children with VLDLR-associated cerebellar hypoplasia may learn to walk later in childhood, usually after the age of 6, although some are never able to walk independently. In one Turkish family, affected people walk on their hands and feet (quadrupedal locomotion).  Additional features of VLDLR-associated cerebellar hypoplasia include moderate to profound intellectual disability, impaired speech (dysarthria) or a lack of speech, and eyes that do not look in the same direction (strabismus). Some affected individuals have also had flat feet (pes planus), seizures, and short stature. Studies suggest that VLDLR-associated cerebellar hypoplasia does not significantly affect a person&apos;s life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001018-2" qtype="frequency">How many people are affected by VLDLR-associated cerebellar hypoplasia ?</Question>
+			<Answer>VLDLR-associated cerebellar hypoplasia is rare; its prevalence is unknown. The condition was first described in the Hutterite population in Canada and the United States. This condition has also been reported in families from Iran and Turkey.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001018-3" qtype="genetic changes">What are the genetic changes related to VLDLR-associated cerebellar hypoplasia ?</Question>
+			<Answer>As its name suggests, VLDLR-associated cerebellar hypoplasia results from mutations in the VLDLR gene. This gene provides instructions for making a protein called a very low density lipoprotein (VLDL) receptor. Starting before birth, this protein plays a critical role in guiding the movement of developing nerve cells to their appropriate locations in the brain. Mutations in the VLDLR gene prevent cells from producing any functional VLDL receptor protein. Without this protein, developing nerve cells cannot reach the parts of the brain where they are needed. The resulting problems with brain development lead to ataxia and the other major features of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001018-4" qtype="inheritance">Is VLDLR-associated cerebellar hypoplasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001018-5" qtype="treatment">What are the treatments for VLDLR-associated cerebellar hypoplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of VLDLR-associated cerebellar hypoplasia:  - Gene Review: Gene Review: Hereditary Ataxia Overview  - Gene Review: Gene Review: VLDLR-Associated Cerebellar Hypoplasia  - Genetic Testing Registry: Dysequilibrium syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

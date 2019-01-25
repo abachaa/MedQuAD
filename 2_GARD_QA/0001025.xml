@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001025" source="GARD" url="https://rarediseases.info.nih.gov/gard/12308/celiac-artery-compression-syndrome">
+<Focus>Celiac artery compression syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152098</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Median arcuate ligament syndrome</Synonym>
+		<Synonym>MALS</Synonym>
+		<Synonym>Celiac access syndrome</Synonym>
+		<Synonym>Dunbar syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001025-1" qtype="information">What is (are) Celiac artery compression syndrome ?</Question>
+			<Answer>Celiac artery compression syndrome is a rare disorder characterized by chronic, recurrent abdominal pain related to compression of the celiac artery (which supplies blood to the upper abdominal organs) by the median arcuate ligament (a muscular fibrous band of the diaphragm). It usually presents with symptoms of abdominal pain, weight loss, and an abdominal bruit (abnormal sound of a blood vessel when blocked or narrowed). The cause is not fully understood; however, it is suspected that there could be a combination of vascular (blood supply) and neurogenic (neurological) components involved. Diagnosis is usually confirmed with imaging such as CT angiography, MRI, ultrasound, and arteriography.Surgery is currently the only treatment option and involves releasing the ligament.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001025-2" qtype="symptoms">What are the symptoms of Celiac artery compression syndrome ?</Question>
+			<Answer>What are the signs and symptoms of celiac artery compression syndrome?  Classically, individuals with celiac artery compression syndrome present with a triad of abdominal pain after eating, weight loss (usually &gt;20 pounds), and abdominal bruit (abnormal sound of a blood vessel when blocked or narrowed).  One review found that abdominal pain is the most common symptom, found to be present in approximately 80% of individuals, while weight loss was found in approximately 48% and abdominal bruit was appreciated in approximately 35%. Other symptoms include: nausea, diarrhea, vomiting, and delayed gastric emptying.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001025-3" qtype="causes">What causes Celiac artery compression syndrome ?</Question>
+			<Answer>What causes celiac artery compression syndrome? The cause of celiac artery syndrome is disputed. While it was initially thought to be caused by a restriction of blood supply secondary to compression of the celiac artery (supplies blood to the upper abdominal organs) by the median arcuate ligament (a muscular fibrous band of the diaphragm), other factors have been proposed. It has been suggested that nerve dysfunction might additionally be involved, which could explain some of the associated symptoms such as pain and delayed gastric emptying.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001025-4" qtype="exams and tests">How to diagnose Celiac artery compression syndrome ?</Question>
+			<Answer>How is celiac artery compression syndrome diagnosed? A diagnosis of celiac artery compression syndrome might be suspected in middle aged (40-60) female patients with a triad of symptoms including abdominal pain after eating, weight loss, and abdominal bruit (abnormal sound of a blood vessel when blocked or narrowed). Abdominal imaging is used to confirm the diagnosis and rule out other similarly presenting disorders. Imaging methodologies might include: CT angiography, MRI, ultrasound, and arteriography.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001025-5" qtype="treatment">What are the treatments for Celiac artery compression syndrome ?</Question>
+			<Answer>How might celiac artery compression syndrome be treated? Surgery is currently the only treatment option for celiac artery compression syndrome. Surgery typically involves decompression of the celiac artery by dividing the fibers of the median arcuate ligament and celiac plexus (network of nerves in the abdomen). Surgical decompression might additionally be combined with stent placement, angioplasty, or vascular reconstruction of the celiac artery.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

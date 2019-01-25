@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000594" source="GHR" url="https://ghr.nlm.nih.gov/condition/leptin-receptor-deficiency">
+<Focus>leptin receptor deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3554225</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital deficiency of the leptin receptor</Synonym>
+		<Synonym>leptin receptor-related monogenic obesity</Synonym>
+		<Synonym>obesity due to leptin receptor gene deficiency</Synonym>
+		<Synonym>obesity, morbid, due to leptin receptor deficiency</Synonym>
+		<Synonym>obesity, morbid, nonsyndromic 2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000594-1" qtype="information">What is (are) leptin receptor deficiency ?</Question>
+			<Answer>Leptin receptor deficiency is a condition that causes severe obesity beginning in the first few months of life. Affected individuals are of normal weight at birth, but they are constantly hungry and quickly gain weight. The extreme hunger leads to chronic excessive eating (hyperphagia) and obesity. Beginning in early childhood, affected individuals develop abnormal eating behaviors such as fighting with other children over food, hoarding food, and eating in secret.  People with leptin receptor deficiency also have hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development. Affected individuals experience delayed puberty or do not go through puberty, and may be unable to conceive children (infertile).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000594-2" qtype="frequency">How many people are affected by leptin receptor deficiency ?</Question>
+			<Answer>The prevalence of leptin receptor deficiency is unknown. It has been estimated to account for up to 3 percent of individuals with severe obesity and hyperphagia that begins in early childhood.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000594-3" qtype="genetic changes">What are the genetic changes related to leptin receptor deficiency ?</Question>
+			<Answer>Leptin receptor deficiency is caused by mutations in the LEPR gene. This gene provides instructions for making a protein called the leptin receptor, which is involved in the regulation of body weight. The leptin receptor protein is found on the surface of cells in many organs and tissues of the body including a part of the brain called the hypothalamus. The hypothalamus controls hunger and thirst as well as other functions such as sleep, moods, and body temperature. It also regulates the release of many hormones that have functions throughout the body.  The leptin receptor is turned on (activated) by a hormone called leptin that attaches (binds) to the receptor, fitting into it like a key into a lock. Normally, the body&apos;s fat cells release leptin in proportion to their size. As fat cells become larger, they produce more leptin. This rise in leptin indicates that fat stores are increasing. In the hypothalamus, the binding of leptin to its receptor triggers a series of chemical signals that affect hunger and help produce a feeling of fullness (satiety).  LEPR gene mutations that cause leptin receptor deficiency prevent the receptor from responding to leptin, leading to the excessive hunger and weight gain associated with this disorder. Because hypogonadotropic hypogonadism occurs in leptin receptor deficiency, researchers suggest that leptin receptor signaling is also involved in regulating the body&apos;s response to hormones that control sexual development, and that this response is affected by LEPR gene mutations. However, the mechanism of this effect is unknown.  Leptin receptor deficiency is a rare cause of obesity. Researchers are studying the factors involved in more common forms of obesity.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000594-4" qtype="inheritance">Is leptin receptor deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000594-5" qtype="treatment">What are the treatments for leptin receptor deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of leptin receptor deficiency:  - Eunice Kennedy Shriver National Institute of Child Health and Human Development: How Are Obesity and Overweight Diagnosed?  - Genetic Testing Registry: Leptin receptor deficiency  - Genetics of Obesity Study  - National Heart, Lung, and Blood Institute: How Are Overweight and Obesity Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

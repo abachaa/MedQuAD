@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000044" source="NINDS" url="http://www.ninds.nih.gov/disorders/monomelic_amyotrophy/monomelic_amyotrophy.htm">
+<Focus>Monomelic Amyotrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1865384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000044-1" qtype="information">What is (are) Monomelic Amyotrophy ?</Question>
+			<Answer>Monomelic amyotrophy (MMA) is characterized by progressive degeneration and loss of motor neurons, the nerve cells in the brain and spinal cord that are responsible for controlling voluntary muscles. It is characterized by weakness and wasting in a single limb, usually an arm and hand rather than a foot and leg. There is no pain associated with MMA. While some physicians contend that mild sensory loss may be associated with this disease, many experts suggest that such symptoms actually indicate a cause other than MMA. MMA occurs in males between the ages of 15 and 25. Onset and progression are slow. MMA is seen most frequently in Asia, particularly in Japan and India; it is much less common in North America. In most cases, the cause is unknown, although there have been a few published reports linking MMA to traumatic or radiation injury. There are also familial forms of MMA. Diagnosis is made by physical exam and medical history. Electromyography (EMG), a special recording technique that detects electrical activity in muscles, shows a loss of the nerve supply, or denervation, in the affected limb; MRI and CT scans may show muscle atrophy. People believed to have MMA should be followed by a neuromuscular disease specialist for a number of months to make certain that no signs of other motor neuron diseases develop.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000044-2" qtype="treatment">What are the treatments for Monomelic Amyotrophy ?</Question>
+			<Answer>There is no cure for MMA. Treatment consists of muscle strengthening exercises and training in hand coordination</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000044-3" qtype="outlook">What is the outlook for Monomelic Amyotrophy ?</Question>
+			<Answer>The symptoms of MMA usually progress slowly for one to two years before reaching a plateau, and then remain stable for many years. Disability is generally slight. Rarely, the weakness progresses to the opposite limb. There is also a slowly progressive variant of MMA known as O&apos;Sullivan-McLeod syndrome, which only affects the small muscles of the hand and forearm and has a slowly progressive course.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000044-4" qtype="research">what research (or clinical trials) is being done for Monomelic Amyotrophy ?</Question>
+			<Answer>The NINDS conducts and supports a broad range of research on motor neuron diseases. The goals of these studies are to increase understanding of these disorders and to find ways to treat, prevent, and ultimately cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

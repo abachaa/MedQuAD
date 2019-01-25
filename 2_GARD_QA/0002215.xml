@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002215" source="GARD" url="https://rarediseases.info.nih.gov/gard/2237/factor-v-deficiency">
+<Focus>Factor V deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0015499</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002215-1" qtype="information">What is (are) Factor V deficiency ?</Question>
+			<Answer>Factor V deficiency is an inherited blood disorder that involves abnormal blood clotting (coagulation). This disorder is caused by the deficiency of a blood protein called factor V. The reduced amount of factor V leads to episodes of abnormal bleeding that range from mild to severe. Factor V deficiency is inherited in an autosomal recessive manner, which means that both copies of the F5 gene in each cell have mutations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002215-2" qtype="symptoms">What are the symptoms of Factor V deficiency ?</Question>
+			<Answer>What are the signs and symptoms of Factor V deficiency? The symptoms of factor V deficiency may include: Bleeding into the skin Excessive bruising Nose bleeds Bleeding of the gums Excessive menstrual bleeding Prolonged or excessive loss of blood with surgery or trauma Umbilical stump bleeding The Human Phenotype Ontology provides the following list of signs and symptoms for Factor V deficiency. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal bleeding - Autosomal recessive inheritance - Bruising susceptibility - Epistaxis - Menorrhagia - Prolonged bleeding time - Prolonged partial thromboplastin time - Prolonged whole-blood clotting time - Reduced factor V activity - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002215-3" qtype="causes">What causes Factor V deficiency ?</Question>
+			<Answer>What causes factor V deficiency? Factor V deficiency is caused by mutations in the F5 gene that prevent the production of a functional factor V protein or decrease the amount of the protein in the bloodstream. Mutations are present in both copies of the F5 gene in each cell, which prevents blood from clotting normally.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0002215-4" qtype="treatment">What are the treatments for Factor V deficiency ?</Question>
+			<Answer>How is factor V deficiency treated? Resources state that fresh plasma or fresh frozen plasma infusions will correct the deficiency temporarily and may be administered daily during a bleeding episode or after surgery.  Individuals with factor V deficiency should discuss treatment options with their primary health care provider and a hematologist.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001067" source="GHR" url="https://ghr.nlm.nih.gov/condition/y-chromosome-infertility">
+<Focus>Y chromosome infertility</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3711648</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>spermatogenic failure, Y-linked</Synonym>
+		<Synonym>Y chromosome-related azoospermia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001067-1" qtype="information">What is (are) Y chromosome infertility ?</Question>
+			<Answer>Y chromosome infertility is a condition that affects the production of sperm, making it difficult or impossible for affected men to father children. An affected man&apos;s body may produce no sperm cells (azoospermia), a smaller than usual number of sperm cells (oligospermia), or sperm cells that are abnormally shaped or that do not move properly.  Some men with Y chromosome infertility who have mild to moderate oligospermia may eventually father a child naturally. Assisted reproductive technologies may help other affected men; most men with Y chromosome infertility have some sperm cells in the testes that can be extracted for this purpose. The most severely affected men do not have any mature sperm cells in the testes. This form of Y chromosome infertility is called Sertoli cell-only syndrome.  Men with Y chromosome infertility usually do not have any other signs or symptoms. Occasionally they may have unusually small testes or undescended testes (cryptorchidism).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001067-2" qtype="frequency">How many people are affected by Y chromosome infertility ?</Question>
+			<Answer>Y chromosome infertility occurs in approximately 1 in 2,000 to 1 in 3,000 males of all ethnic groups. This condition accounts for between 5 percent and 10 percent of cases of azoospermia or severe oligospermia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001067-3" qtype="genetic changes">What are the genetic changes related to Y chromosome infertility ?</Question>
+			<Answer>As its name suggests, this form of infertility is caused by changes in the Y chromosome. People normally have 46 chromosomes in each cell. Two of the 46 chromosomes are sex chromosomes, called X and Y. Females have two X chromosomes (46,XX), and males have one X chromosome and one Y chromosome (46,XY). Because only males have the Y chromosome, the genes on this chromosome tend to be involved in male sex determination and development.  Y chromosome infertility is usually caused by deletions of genetic material in regions of the Y chromosome called azoospermia factor (AZF) A, B, or C. Genes in these regions are believed to provide instructions for making proteins involved in sperm cell development, although the specific functions of these proteins are not well understood.  Deletions in the AZF regions may affect several genes. The missing genetic material likely prevents production of a number of proteins needed for normal sperm cell development, resulting in Y chromosome infertility.  In rare cases, changes to a single gene called USP9Y, which is located in the AZFA region of the Y chromosome, can cause Y chromosome infertility. The USP9Y gene provides instructions for making a protein called ubiquitin-specific protease 9. A small number of individuals with Y chromosome infertility have deletions of all or part of the USP9Y gene, while other genes in the AZF regions are unaffected. Deletions in the USP9Y gene prevent the production of ubiquitin-specific protease 9 or result in the production of an abnormally short, nonfunctional protein. The absence of functional ubiquitin-specific protease 9 impairs the production of sperm cells, resulting in Y chromosome infertility.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001067-4" qtype="inheritance">Is Y chromosome infertility inherited ?</Question>
+			<Answer>Because Y chromosome infertility impedes the ability to father children, this condition is usually caused by new deletions on the Y chromosome and occurs in men with no history of the disorder in their family. When men with Y chromosome infertility do father children, either naturally or with the aid of assisted reproductive technologies, they pass on the genetic changes on the Y chromosome to all their sons. As a result, the sons will also have Y chromosome infertility. This form of inheritance is called Y-linked. Daughters, who do not inherit the Y chromosome, are not affected.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001067-5" qtype="treatment">What are the treatments for Y chromosome infertility ?</Question>
+			<Answer>These resources address the diagnosis or management of Y chromosome infertility:  - Gene Review: Gene Review: Y Chromosome Infertility  - Genetic Testing Registry: Spermatogenic failure, Y-linked 2  - Genetic Testing Registry: Spermatogenic failure, Y-linked, 1  - MedlinePlus Encyclopedia: Semen Analysis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

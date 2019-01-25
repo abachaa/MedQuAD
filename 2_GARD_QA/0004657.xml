@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004657" source="GARD" url="https://rarediseases.info.nih.gov/gard/7296/ovarian-carcinosarcoma">
+<Focus>Ovarian carcinosarcoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0392998</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Malignant mixed mullerian tumor of the ovary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004657-1" qtype="information">What is (are) Ovarian carcinosarcoma ?</Question>
+			<Answer>Ovarian carcinosarcoma is a cancer of the ovary that is composed of two types of cells, namely carcinoma cells and sarcoma cells.  Ovarian carcinosarcoma is also known as a malignant mixed mullerian tumor of the ovary.  The average age of women at the time of diagnosis is 60 to 70 years.  Symptoms may include pain in the abdomen or pelvic area, bloating or swelling of the abdomen, quickly feeling full when eating or other digestive issues.  The cause of ovarian carcinosarcoma is currently unknown.  Treatment usually consists of surgery (sometimes called debulking) and chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004657-2" qtype="causes">What causes Ovarian carcinosarcoma ?</Question>
+			<Answer>Is there a hereditary cause for ovarian carcinosarcoma? Ovarian carcinosarcoma is not thought to be caused by an inherited gene mutation.  However, one article in the medical literature suggests that an inherited mutation in the BRCA2 gene contributed to the development of ovarian carcinosarcoma in one woman.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004657-3" qtype="treatment">What are the treatments for Ovarian carcinosarcoma ?</Question>
+			<Answer>How might ovarian carcinosarcoma be treated? Because ovarian carcinosarcoma is rare, there are no established treatment guidelines.  Treatment decisions are based on the unique features of each individual&apos;s diagnosis.  The National Comprehensive Cancer Network (NCCN), a group of physicians and researchers who strive to improve cancer care, recommends that women with ovarian carcinosarcoma be treated similarly to women with ovarian carcinoma (also called epithelial ovarian cancer), which is the most common type of ovarian cancer. Currently, treatment for ovarian carcinosarcoma usually begins with surgery to remove as much of the cancer as possible.  Chemotherapy may be used to destroy any cancer cells that could be in the body after surgery.  Medications that contain platinum (such as the drug cisplatin) seem to be the most effective chemotherapies for ovarian carcinosarcoma.  Recent evidence suggests that another medication called ifosfamide may increase the effectiveness of treatment when used in combination with platinum-based medications.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

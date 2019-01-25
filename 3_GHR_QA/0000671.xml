@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000671" source="GHR" url="https://ghr.nlm.nih.gov/condition/moyamoya-disease">
+<Focus>moyamoya disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026654</CUI>
+			<CUI>C2931384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>cerebrovascular moyamoya disease</Synonym>
+		<Synonym>moya-moya disease</Synonym>
+		<Synonym>progressive intracranial arterial occlusion</Synonym>
+		<Synonym>progressive intracranial occlusive arteropathy</Synonym>
+		<Synonym>spontaneous occlusion of the Circle of Willis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000671-1" qtype="information">What is (are) moyamoya disease ?</Question>
+			<Answer>Moyamoya disease is a disorder of blood vessels in the brain, specifically the internal carotid arteries and the arteries that branch from them. These vessels, which provide oxygen-rich blood to the brain, narrow over time. Narrowing of these vessels reduces blood flow in the brain. In an attempt to compensate, new networks of small, fragile blood vessels form. These networks, visualized by a particular test called an angiogram, resemble puffs of smoke, which is how the condition got its name: &quot;moyamoya&quot; is an expression meaning &quot;something hazy like a puff of smoke&quot; in Japanese.  Moyamoya disease commonly begins either around age 5 or in a person&apos;s thirties or forties. A lack of blood supply to the brain leads to several symptoms of the disorder, including temporary stroke-like episodes (transient ischemic attacks), strokes, and seizures. In addition, the fragile blood vessels that grow can develop bulges (aneurysms), or they can break open, leading to bleeding (hemorrhage) in the brain. Affected individuals may develop recurrent headaches, involuntary jerking movements (chorea), or a decline in thinking ability. The symptoms of moyamoya disease often worsen over time if the condition is not treated.  Some people have the blood vessel changes characteristic of moyamoya disease in addition to features of another disorder, such as neurofibromatosis type 1, sickle cell disease, or Graves disease. These individuals are said to have moyamoya syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000671-2" qtype="frequency">How many people are affected by moyamoya disease ?</Question>
+			<Answer>Moyamoya disease was first identified in Japan, where it is most prevalent, affecting about 5 in 100,000 individuals. The condition is also relatively common in other Asian populations. It is ten times less common in Europe. In the United States, Asian Americans are four times more commonly affected than whites. For unknown reasons, moyamoya disease occurs twice as often in females as in males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000671-3" qtype="genetic changes">What are the genetic changes related to moyamoya disease ?</Question>
+			<Answer>The genetics of moyamoya disease are not well understood. Research suggests that the condition can be passed through families, and changes in one gene, RNF213, have been associated with the condition. Other genes that have not been identified may be involved in moyamoya disease. It is also likely that other factors (such as infection or inflammation) in combination with genetic factors play a role in the condition&apos;s development.  The RNF213 gene provides instructions for making a protein whose function is unknown. However, research suggests that the RNF213 protein is involved in the proper development of blood vessels.  Changes in the RNF213 gene involved in moyamoya disease replace single protein building blocks (amino acids) in the RNF213 protein. The effect of these changes on the function of the RNF213 protein is unknown, and researchers are unsure how the changes contribute to the narrowing of blood vessels or the characteristic blood vessel growth of moyamoya disease. For unknown reasons, people with moyamoya disease have elevated levels of proteins involved in cell and tissue growth, including the growth of blood vessels (angiogenesis). An excess of these proteins could account for the growth of new blood vessels characteristic of moyamoya disease. It is not clear if changes in the RNF213 gene are involved in the overproduction of these proteins.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000671-4" qtype="inheritance">Is moyamoya disease inherited ?</Question>
+			<Answer>Up to 15 percent of Japanese people with moyamoya disease have one or more family members with the condition, indicating that the condition can be passed through generations in families; however, the inheritance pattern is unknown. Research suggests that the condition follows an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. However, some people who have a copy of the altered gene never develop the condition, which is a situation known as reduced penetrance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000671-5" qtype="treatment">What are the treatments for moyamoya disease ?</Question>
+			<Answer>These resources address the diagnosis or management of moyamoya disease:  - Barrow Neurological Institute: What Medical Therapies Are Used To Treat Moyamoya Disease?  - Boston Children&apos;s Hospital: Learn More About Treatment for Moyamoya Disease  - Genetic Testing Registry: Moyamoya disease  - Genetic Testing Registry: Moyamoya disease 2  - Genetic Testing Registry: Moyamoya disease 3  - Genetic Testing Registry: Moyamoya disease 5  - National Institute of Neurological Disorders and Stroke: Moyamoya Disease Information Page   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

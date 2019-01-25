@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001500" source="GARD" url="https://rarediseases.info.nih.gov/gard/10307/congenital-disorders-of-glycosylation">
+<Focus>Congenital disorders of glycosylation</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0282577</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CDG</Synonym>
+		<Synonym>Carbohydrate-deficient glycoprotein syndromes</Synonym>
+		<Synonym>Congenital disorder of glycosylation</Synonym>
+		<Synonym>ALG11-CDG (CDG-Ip)</Synonym>
+		<Synonym>ALG12-CDG (CDG-Ig)</Synonym>
+		<Synonym>ALG13-CDG</Synonym>
+		<Synonym>ALG1-CDG (CDG-Ik)</Synonym>
+		<Synonym>ALG2-CDG (CDG-Ii)</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001500-1" qtype="information">What is (are) Congenital disorders of glycosylation ?</Question>
+			<Answer>Congenital disorders of glycosylation (CDG) are a group of inherited metabolic disorders that affect a process called glycosylation. Glycosylation is the complex process by which all human cells build long sugar chains that are attached to proteins, which are called glycoproteins. There are many steps involved in this process, and each step is triggered by a type of protein called an enzyme. Individuals with a CDG are missing one of the enzymes that is required for glycosylation. The type of CDG that a person has depends on which enzyme is missing. Currently, there are 19 identified types of CDG. CDG type IA is the most common form. The symptoms of CDG vary widely among affected individuals. Some people have severe developmental delay, failure to thrive, and multiple organ problems, while others have diarrhea, low blood sugar (hypoglycemia), liver problems, and normal developmental potential.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001500-2" qtype="symptoms">What are the symptoms of Congenital disorders of glycosylation ?</Question>
+			<Answer>What are the signs and symptoms of Congenital disorders of glycosylation? The Human Phenotype Ontology provides the following list of signs and symptoms for Congenital disorders of glycosylation. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of adipose tissue 90% Abnormality of coagulation 90% Abnormality of immune system physiology 90% Abnormality of retinal pigmentation 90% Aplasia/Hypoplasia of the cerebellum 90% Aplasia/Hypoplasia of the nipples 90% Cerebral cortical atrophy 90% Cognitive impairment 90% Elevated hepatic transaminases 90% Strabismus 90% Abnormality of the genital system 50% Abnormality of the pericardium 50% Broad forehead 50% Hypertrophic cardiomyopathy 50% Hypoglycemia 50% Seizures 50% Abnormality of the intestine 7.5% Ascites 7.5% Nephropathy 7.5% Peripheral neuropathy 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000017" source="NINDS" url="http://www.ninds.nih.gov/disorders/alzheimersdisease/alzheimersdisease.htm">
+<Focus>Alzheimer's Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0002395</CUI>
+			<CUI>C1521724</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000017-1" qtype="information">What is (are) Alzheimer's Disease ?</Question>
+			<Answer>Alzheimer&apos;s disease (AD) is an age-related, non-reversible brain disorder that develops over a period of years. Initially, people experience memory loss and confusion, which may be mistaken for the kinds of memory changes that are sometimes associated with normal aging. However, the symptoms of AD gradually lead to behavior and personality changes, a decline in cognitive abilities such as decision-making and language skills, and problems recognizing family and friends. AD ultimately leads to a severe loss of mental function. These losses are related to the worsening breakdown of the connections between certain neurons in the brain and their eventual death. AD is one of a group of disorders called dementias that are characterized by cognitive and behavioral problems. It is the most common cause of dementia among people age 65 and older.
+                
+There are three major hallmarks in the brain that are associated with the disease processes of AD.
+                
+- Amyloid plaques, which are made up of fragments of a protein called beta-amyloid peptide mixed with a collection of additional proteins, remnants of neurons, and bits and pieces of other nerve cells. - Neurofibrillary tangles (NFTs), found inside neurons, are abnormal collections of a protein called tau. Normal tau is required for healthy neurons. However, in AD, tau clumps together. As a result, neurons fail to function normally and eventually die. - Loss of connections between neurons responsible for memory and learning. Neurons can&apos;t survive when they lose their connections to other neurons. As neurons die throughout the brain, the affected regions begin to atrophy, or shrink. By the final stage of AD, damage is widespread and brain tissue has shrunk significantly.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000017-2" qtype="treatment">What are the treatments for Alzheimer's Disease ?</Question>
+			<Answer>Currently there are no medicines that can slow the progression of AD. However, four FDA-approved medications are used to treat AD symptoms. These drugs help individuals carry out the activities of daily living by maintaining thinking, memory, or speaking skills. They can also help with some of the behavioral and personality changes associated with AD. However, they will not stop or reverse AD and appear to help individuals for only a few months to a few years. Donepezil (Aricept), rivastigmine (Exelon), and galantamine (Razadyne) are prescribed to treat mild to moderate AD symptoms. Donepezil was recently approved to treat severe AD as well. The newest AD medication is memantine (Namenda), which is prescribed to treat moderate to severe AD symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000017-3" qtype="outlook">What is the outlook for Alzheimer's Disease ?</Question>
+			<Answer>In very few families, people develop AD in their 30s, 40s, and 50s. This is known as &quot;early onset&quot; AD. These individuals have a mutation in one of three different inherited genes that causes the disease to begin at an earlier age. More than 90 percent of AD develops in people older than 65. This form of AD is called &quot;late-onset&quot; AD, and its development and pattern of damage in the brain is similar to that of early-onset AD. The course of this disease varies from person to person, as does the rate of decline. In most people with AD, symptoms first appear after age 65.
+                
+We don&apos;t yet completely understand the causes of late-onset AD, but they probably include genetic, environmental, and lifestyle factors. Although the risk of developing AD increases with age, AD and dementia symptoms are not a part of normal aging. There are also some forms of dementia that aren&apos;t related to brain diseases such as AD, but are caused by systemic abnormalities such as metabolic syndrome, in which the combination of high blood pressure, high cholesterol, and diabetes causes confusion and memory loss.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000017-4" qtype="research">what research (or clinical trials) is being done for Alzheimer's Disease ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) supports basic and translational research related to AD through grants to major medical institutions across the country. Current studies are investigating how the development of beta amyloid plaques damages neurons, and how abnormalities in tau proteins create the characteristic neurofibrillary tangles of AD. Other research is exploring the impact of risk factors associated with the development of AD, such as pre-existing problems with blood flow in the blood vessels of the brain. Most importantly, the NINDS supports a number of studies that are developing and testing new and novel therapies that can relieve the symptoms of AD and potentially lead to a cure.
+                
+On May 15, 2012 the Obama Administration announced the release of the National Alzheimers Plan. U.S. Secretary of Health and Human Services Kathleen Sebelius reaffirmed our nations commitment to conquering Alzheimers disease and related dementias, with a specific goal of finding effective ways to prevent and treat the disease by 2025.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

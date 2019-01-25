@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004300" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000121.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>When you have diarrhea</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011991</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diarrhea - self-care</Synonym>
+		<Synonym>Diarrhea - gastroenteritis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004300-1" qtype="information">What is (are) When you have diarrhea ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004300-2" qtype="treatment">What are the treatments for When you have diarrhea ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004300-5" qtype="when to contact a medical professional">Do I need to see a doctor for When you have diarrhea ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

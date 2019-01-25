@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000075" source="GARD" url="https://rarediseases.info.nih.gov/gard/491/acrodysplasia-scoliosis">
+<Focus>Acrodysplasia scoliosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2931761</CUI>
+			<CUI>C0036439</CUI>
+			<CUI>C0700208</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T020</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Prata-Liberal-Goncalves syndrome</Synonym>
+		<Synonym>Brachydactyly-scoliosis-carpal fusion syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000075-1" qtype="information">What is (are) Acrodysplasia scoliosis ?</Question>
+			<Answer>Acrodysplasia scoliosis is a rare condition that has been reported in two brothers. The condition is characterized by scoliosis, brachydactyly (unusually short fingers and toes), spina bifida occulta, and carpal synostosis (fused bones of the wrist). The underlying genetic cause of the condition is unknown, but it appears to be inherited in an autosomal recessive manner. Treatment is based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000075-2" qtype="symptoms">What are the symptoms of Acrodysplasia scoliosis ?</Question>
+			<Answer>What are the signs and symptoms of Acrodysplasia scoliosis? The Human Phenotype Ontology provides the following list of signs and symptoms for Acrodysplasia scoliosis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Brachydactyly syndrome 90% Scoliosis 90% Spina bifida occulta 50% Vertebral segmentation defect 50% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

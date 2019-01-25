@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000221" source="NINDS" url="http://www.ninds.nih.gov/disorders/paraneoplastic/paraneoplastic.htm">
+<Focus>Paraneoplastic Syndromes</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0030472</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000221-1" qtype="information">What is (are) Paraneoplastic Syndromes ?</Question>
+			<Answer>Paraneoplastic syndromes are a group of rare disorders that are triggered by an abnormal immune system response to a cancerous tumor known as a &quot;neoplasm.&quot; Paraneoplastic syndromes are thought to happen when cancer-fighting antibodies or white blood cells (known as T cells) mistakenly attack normal cells in the nervous system. These disorders typically affect middle-aged to older people and are most common in individuals with lung, ovarian, lymphatic, or breast cancer. Neurologic symptoms generally develop over a period of days to weeks and usually occur prior to the tumor being discovered. These symptoms may include difficulty in walking or swallowing, loss of muscle tone, loss of fine motor coordination, slurred speech, memory loss, vision problems, sleep disturbances, dementia, seizures, sensory loss in the limbs, and vertigo or dizziness. Paraneoplastic syndromes include Lambert-Eaton myasthenic syndrome, stiff-person syndrome, encephalomyelitis, myasthenia gravis, cerebellar degeneration, limbic or brainstem encephalitis, neuromyotonia, opsoclonus, and sensory neuropathy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000221-2" qtype="treatment">What are the treatments for Paraneoplastic Syndromes ?</Question>
+			<Answer>When present, the tumor and cancer are treated first, followed by efforts to decrease the autoimmune response -- either through steroids such as cortisone or prednisone, high-dose intravenous immunoglobulin, or irradiation. Plasmapheresis, a process that cleanses antibodies from the blood, may ease symptoms in people with paraneoplastic disorders that affect the peripheral nervous system. Speech and physical therapy may help individuals regain some functions.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000221-3" qtype="outlook">What is the outlook for Paraneoplastic Syndromes ?</Question>
+			<Answer>There are no cures for paraneoplastic syndromes. There are no available treatments to stop progressive neurological damage. Generally, the stage of cancer at diagnosis determines the outcome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000221-4" qtype="research">what research (or clinical trials) is being done for Paraneoplastic Syndromes ?</Question>
+			<Answer>Research on paraneoplastic syndromes is aimed at enhancing scientific understanding and evaluating new therapeutic interventions. Researchers seek to learn what causes the autoimmune response in these disorders. Studies are directed at developing tests that detect the presence of antibodies. Scientists also hope to develop animal models for these diseases, which may be used to determine effective treatment strategies.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

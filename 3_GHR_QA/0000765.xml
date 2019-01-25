@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000765" source="GHR" url="https://ghr.nlm.nih.gov/condition/pachyonychia-congenita">
+<Focus>pachyonychia congenita</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265334</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital pachyonychia</Synonym>
+		<Synonym>Jackson-Lawler syndrome (PC-2)</Synonym>
+		<Synonym>Jadassohn-Lewandowski syndrome (PC-1)</Synonym>
+		<Synonym>pachyonychia congenita syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000765-1" qtype="information">What is (are) pachyonychia congenita ?</Question>
+			<Answer>Pachyonychia congenita is a condition that primarily affects the nails and skin. The signs and symptoms of this condition usually become apparent within the first few months of life.  Almost everyone with pachyonychia congenita has hypertrophic nail dystrophy, which causes the fingernails and toenails to become thick and abnormally shaped. Many affected children also develop very painful blisters and calluses on the soles of the feet and, less commonly, on the palms of the hands. This condition is known as palmoplantar keratoderma. Severe blisters and calluses on the feet can make it painful or impossible to walk.  Pachyonychia congenita can have several additional features, which vary among affected individuals. These features include thick, white patches on the tongue and inside of the cheeks (oral leukokeratosis); bumps called follicular keratoses that develop around hair follicles on the elbows, knees, and waistline; cysts in the armpits, groin, back, or scalp; and excessive sweating on the palms and soles (palmoplantar hyperhidrosis). Some affected individuals also develop widespread cysts called steatocystomas, which are filled with an oily substance called sebum that normally lubricates the skin and hair. Some babies with pachyonychia congenita have prenatal or natal teeth, which are teeth that are present at birth or in early infancy. Rarely, pachyonychia congenita can affect the voice box (larynx), potentially leading to hoarseness or breathing problems.  Researchers used to split pachyonychia congenita into two types, PC-1 and PC-2, based on the genetic cause and pattern of signs and symptoms. However, as more affected individuals were identified, it became clear that the features of the two types overlapped considerably. Now researchers prefer to describe pachyonychia congenita based on the gene that is altered.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000765-2" qtype="frequency">How many people are affected by pachyonychia congenita ?</Question>
+			<Answer>Although the prevalence of pachyonychia congenita is unknown, it appears to be rare. There are probably several thousand people worldwide with this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000765-3" qtype="genetic changes">What are the genetic changes related to pachyonychia congenita ?</Question>
+			<Answer>Mutations in several genes, including KRT6A, KRT6B, KRT6C, KRT16, and KRT17, can cause pachyonychia congenita. All of these genes provide instructions for making tough, fibrous proteins called keratins. These proteins form networks that provide strength and resilience to the tissues that make up the skin, hair, and nails.  When pachyonychia congenita is caused by mutations in the KRT6A gene, it is classified as PC-K6a. Similarly, KRT6B gene mutations cause PC-K6b, KRT6C gene mutations cause PC-K6c, KRT16 gene mutations cause PC-K16, and KRT17 gene mutations cause PC-K17.  Mutations in keratin genes alter the structure of keratin proteins, which prevents these proteins from forming strong, stable networks within cells. Without this network, skin cells become fragile and are easily damaged, making the skin less resistant to friction and minor trauma. Even normal activities such as walking can cause skin cells to break down, resulting in the formation of severe, painful blisters and calluses. Defective keratins also disrupt the growth and function of cells in the hair follicles and nails, resulting in the other features of pachyonychia congenita.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000765-4" qtype="inheritance">Is pachyonychia congenita inherited ?</Question>
+			<Answer>Pachyonychia congenita is considered an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In about half of all cases, an affected person inherits the mutation from one affected parent. The other half of cases result from a new (de novo) mutation in the gene that occurs during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000765-5" qtype="treatment">What are the treatments for pachyonychia congenita ?</Question>
+			<Answer>These resources address the diagnosis or management of pachyonychia congenita:  - Gene Review: Gene Review: Pachyonychia Congenita  - Genetic Testing Registry: Pachyonychia congenita 4  - Genetic Testing Registry: Pachyonychia congenita syndrome  - Genetic Testing Registry: Pachyonychia congenita type 2  - Genetic Testing Registry: Pachyonychia congenita, type 1  - MedlinePlus Encyclopedia: Nail Abnormalities  - MedlinePlus Encyclopedia: Natal Teeth   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000743" source="GHR" url="https://ghr.nlm.nih.gov/condition/ocular-albinism">
+<Focus>ocular albinism</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0078917</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Albinism, Ocular</Synonym>
+		<Synonym>OA</Synonym>
+		<Synonym>XLOA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000743-1" qtype="information">What is (are) ocular albinism ?</Question>
+			<Answer>Ocular albinism is a genetic condition that primarily affects the eyes. This condition reduces the coloring (pigmentation) of the iris, which is the colored part of the eye, and the retina, which is the light-sensitive tissue at the back of the eye. Pigmentation in the eye is essential for normal vision.  Ocular albinism is characterized by severely impaired sharpness of vision (visual acuity) and problems with combining vision from both eyes to perceive depth (stereoscopic vision). Although the vision loss is permanent, it does not worsen over time. Other eye abnormalities associated with this condition include rapid, involuntary eye movements (nystagmus); eyes that do not look in the same direction (strabismus); and increased sensitivity to light (photophobia). Many affected individuals also have abnormalities involving the optic nerves, which carry visual information from the eye to the brain.  Unlike some other forms of albinism, ocular albinism does not significantly affect the color of the skin and hair. People with this condition may have a somewhat lighter complexion than other members of their family, but these differences are usually minor.  The most common form of ocular albinism is known as the Nettleship-Falls type or type 1. Other forms of ocular albinism are much rarer and may be associated with additional signs and symptoms, such as hearing loss.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000743-2" qtype="frequency">How many people are affected by ocular albinism ?</Question>
+			<Answer>The most common form of this disorder, ocular albinism type 1, affects at least 1 in 60,000 males. The classic signs and symptoms of this condition are much less common in females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000743-3" qtype="genetic changes">What are the genetic changes related to ocular albinism ?</Question>
+			<Answer>Ocular albinism type 1 results from mutations in the GPR143 gene. This gene provides instructions for making a protein that plays a role in pigmentation of the eyes and skin. It helps control the growth of melanosomes, which are cellular structures that produce and store a pigment called melanin. Melanin is the substance that gives skin, hair, and eyes their color. In the retina, this pigment also plays a role in normal vision.  Most mutations in the GPR143 gene alter the size or shape of the GPR143 protein. Many of these genetic changes prevent the protein from reaching melanosomes to control their growth. In other cases, the protein reaches melanosomes normally but mutations disrupt the protein&apos;s function. As a result of these changes, melanosomes in skin cells and the retina can grow abnormally large. Researchers are uncertain how these giant melanosomes are related to vision loss and other eye abnormalities in people with ocular albinism.  Rare cases of ocular albinism are not caused by mutations in the GPR143 gene. In these cases, the genetic cause of the condition is often unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000743-4" qtype="inheritance">Is ocular albinism inherited ?</Question>
+			<Answer>Ocular albinism type 1 is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the GPR143 gene in each cell is sufficient to cause the characteristic features of ocular albinism. Because females have two copies of the X chromosome, women with only one copy of a GPR143 mutation in each cell usually do not experience vision loss or other significant eye abnormalities. They may have mild changes in retinal pigmentation that can be detected during an eye examination.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000743-5" qtype="treatment">What are the treatments for ocular albinism ?</Question>
+			<Answer>These resources address the diagnosis or management of ocular albinism:  - Gene Review: Gene Review: Ocular Albinism, X-Linked  - Genetic Testing Registry: Albinism ocular late onset sensorineural deafness  - Genetic Testing Registry: Albinism, ocular, with sensorineural deafness  - Genetic Testing Registry: Ocular albinism, type I  - MedlinePlus Encyclopedia: Albinism   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

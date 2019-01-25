@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000105" source="NINDS" url="http://www.ninds.nih.gov/disorders/neuromyelitis_optica/neuromyelitis_optica.htm">
+<Focus>Neuromyelitis Optica</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027873</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000105-1" qtype="information">What is (are) Neuromyelitis Optica ?</Question>
+			<Answer>Neuromyelitis optica (NMO) is an autoimmune disease of the central nervous system (CNS) that predominantly affects the optic nerves and spinal cord. It is sometimes also referred to as NMO spectrum disorder.In NMO, the body&apos;s immune system mistakenly attacks healthy cells and proteins in the body, must often those in the spinal cord and eyes. Individuals with NMO develop optic neuritis, which caused pain in the eye and vision loss. Individuals also develop transverse myelitis, which causes weakness or paralysis of arms and legs,and numbness, along with loss of bladder and bowel control Magnetic resonance imaging of the spine often shows an abnormality that extends over long segments of the spinal cord. Individuals may also develop episodes of severe nausea and vomiting, with hiccups from involvement of a part of the brain that ocntrols vomiting The disease is caused by abnormal autoantibodies that bind to a protein called aquaporin-4. Binding of the aquaporin-4 antibody activates other components of the immune system, causing inflammation and damage to these cells. This also results in the brain and spinal cord the loss of myelin, the fatty substance that acts as insulation around nerve fibers and helps nerve signals move from cell to cell.
+                
+NMO is different from multiple sclerosis (MS). Attacks are usually more severe in NMO than in MS, and NMO is treated differently than MS. Most individuals with NMO experience clusters of attacks days to months or years apart, followed by partial recovery during periods of remission. Women are more often affected by NMO than men. African Americans are at greater risk of the disease than are Caucasians. The onset of NMO varies from childhood to adulthood, with two peaks, one in childhood and the other in adults in their 40s.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000105-2" qtype="treatment">What are the treatments for Neuromyelitis Optica ?</Question>
+			<Answer>There is no cure for NMO and no FDA-approved therapies, but there are therapies to treat an attack while it is happening, to reduce symptoms, and to prevent relapses.NMO relapses and attacks are often treated with corticosteroid drugs and plasma exchange (also called plasmapheresis, a process used to remove harmful antibodies from the bloodstream). Immunosuppressvie drugs used to prevent attacks include mycophenolate mofetil, rituximab, and azathioprine. Pain, stiffness, muscle spasms, and bladder and bowel control problems can be managed with medicaitons and therapies. Individuals with major disability will require the combined efforts to physical and occupational therapists, along with social services professionals to address complex rehabilitation needs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000105-3" qtype="outlook">What is the outlook for Neuromyelitis Optica ?</Question>
+			<Answer>Most individuals with NMO have an unpredictable, relapsing course of disease with attacks occurring months or years apart. Disability is cumulative, the result of each attack damaging new areas of the central nervous system. Some individuals are severely affected by NMO and can lose vision in both eyes and the use of their arms and legs. Most individuals experience some degree of permanent limb weakness or vision loss from NMO. However, reducing the number of attacks with immunosuppressive medications may help prevent with accumulation of disability. Rarely, muscle weakness can be severe enough to cause breathing difficulties and may require the use of artificial ventilation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000105-4" qtype="research">what research (or clinical trials) is being done for Neuromyelitis Optica ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge of the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS is a component of the National Institutes of Health, the leading supporter of biomedical research in the world. NINDS researchers are working to better understand the process by which the immune system destroys or attacks the nerve insulating substance called myelin in autoijmune diseases or disorders. Other work focuses on strategies to repair demyelinated spinal cords, including approaches using cell transplantation. this research may lead to a grater understanding of the mechanisms responsible for damaging myelin and may ultimately provide a means to prevent and treat transverse myelitis An NINDS-funded study comparing clinical MRI and lumbar puncture of healthy individuals to those with symptoms of immune-related central nervous system damage hopes to identify processes or mechanisms to inhibit or minimize spinal tissue damage and enhance recovery mechanisms. Multiple studies are looking at ways to target different components of the immune system known to be involved in NMO spectrum disorders to allow more directly targeted treatment of this disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

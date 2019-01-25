@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000160" source="GHR" url="https://ghr.nlm.nih.gov/condition/catsper1-related-nonsyndromic-male-infertility">
+<Focus>CATSPER1-related nonsyndromic male infertility</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0445223</CUI>
+			<CUI>C2048468</CUI>
+			<CUI>C0021364</CUI>
+			<CUI>C2677304</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CATSPER-related nonsyndromic male infertility</Synonym>
+		<Synonym>CATSPER1-related male infertility</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000160-1" qtype="information">What is (are) CATSPER1-related nonsyndromic male infertility ?</Question>
+			<Answer>CATSPER1-related nonsyndromic male infertility is a condition that affects the function of sperm, leading to an inability to father children. Males with this condition produce sperm that have decreased movement (motility). Affected men may also produce a smaller than usual number of sperm cells or sperm cells that are abnormally shaped. Men with CATSPER1-related nonsyndromic male infertility do not have any other symptoms related to this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000160-2" qtype="frequency">How many people are affected by CATSPER1-related nonsyndromic male infertility ?</Question>
+			<Answer>The prevalence of CATSPER1-related nonsyndromic male infertility is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000160-3" qtype="genetic changes">What are the genetic changes related to CATSPER1-related nonsyndromic male infertility ?</Question>
+			<Answer>Mutations in the CATSPER1 gene cause CATSPER1-related nonsyndromic male infertility. The CATSPER1 gene provides instructions for producing a protein that is found in the tail of sperm cells. The CATSPER1 protein is involved in the movement of the sperm tail, which propels the sperm forward and is required for sperm cells to push through the outside membrane of the egg cell during fertilization.  CATSPER1 gene mutations result in the production of a CATSPER1 protein that may be altered, nonfunctional, or quickly broken down (degraded) by the cell. Sperm cells missing a functional CATSPER1 protein have decreased motion in their tails and move more slowly than normal. Sperm cells lacking functional CATSPER1 protein cannot push through the outside membrane of the egg cell. As a result, sperm cells cannot reach the inside of the egg cell to achieve fertilization.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000160-4" qtype="inheritance">Is CATSPER1-related nonsyndromic male infertility inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show symptoms of the condition.  Males with two CATSPER1 gene mutations in each cell have CATSPER1-related nonsyndromic male infertility. Females with two CATSPER1 gene mutations in each cell have no symptoms because the mutations only affect sperm function, and women do not produce sperm.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000160-5" qtype="treatment">What are the treatments for CATSPER1-related nonsyndromic male infertility ?</Question>
+			<Answer>These resources address the diagnosis or management of CATSPER1-related nonsyndromic male infertility:  - Cleveland Clinic: Male Infertility  - Gene Review: Gene Review: CATSPER-Related Male Infertility  - Genetic Testing Registry: CATSPER-Related Male Infertility  - MedlinePlus Health Topic: Assisted Reproductive Technology  - RESOLVE: The National Infertility Association: Semen Analysis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

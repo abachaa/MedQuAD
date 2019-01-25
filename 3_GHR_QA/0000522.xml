@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000522" source="GHR" url="https://ghr.nlm.nih.gov/condition/infantile-onset-spinocerebellar-ataxia">
+<Focus>infantile-onset spinocerebellar ataxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1849096</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>IOSCA</Synonym>
+		<Synonym>Ohaha syndrome</Synonym>
+		<Synonym>ophthalmoplegia, hypotonia, ataxia, hypacusis, and athetosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000522-1" qtype="information">What is (are) infantile-onset spinocerebellar ataxia ?</Question>
+			<Answer>Infantile-onset spinocerebellar ataxia (IOSCA) is a progressive disorder that affects the nervous system. Babies with IOSCA develop normally during the first year of life. During early childhood, however, they begin experiencing difficulty coordinating movements (ataxia); very weak muscle tone (hypotonia); involuntary writhing movements of the limbs (athetosis); and decreased reflexes. By their teenage years affected individuals require wheelchair assistance.  People with IOSCA often develop problems with the autonomic nervous system, which controls involuntary body functions. As a result, they may experience excessive sweating, difficulty controlling urination, and severe constipation.  IOSCA also leads to vision and hearing problems that begin by about age 7. Children with this disorder develop weakness in the muscles that control eye movement (ophthalmoplegia). In their teenage years they experience degeneration of the nerves that carry information from the eyes to the brain (optic atrophy), which can result in vision loss. Hearing loss caused by nerve damage (sensorineural hearing loss) typically occurs during childhood and progresses to profound deafness.  Individuals with IOSCA may have recurrent seizures (epilepsy). These seizures can lead to severe brain dysfunction (encephalopathy).  Most people with IOSCA survive into adulthood. However, a few individuals with IOSCA have an especially severe form of the disorder involving liver damage and encephalopathy that develops during early childhood. These children do not generally live past age 5.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000522-2" qtype="frequency">How many people are affected by infantile-onset spinocerebellar ataxia ?</Question>
+			<Answer>More than 20 individuals with IOSCA have been identified in Finland. A few individuals with similar symptoms have been reported elsewhere in Europe.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000522-3" qtype="genetic changes">What are the genetic changes related to infantile-onset spinocerebellar ataxia ?</Question>
+			<Answer>Mutations in the C10orf2 gene cause IOSCA. The C10orf2 gene provides instructions for making two very similar proteins called Twinkle and Twinky. These proteins are found in the mitochondria, which are structures within cells that convert the energy from food into a form that cells can use.  Mitochondria each contain a small amount of DNA, known as mitochondrial DNA or mtDNA, which is essential for the normal function of these structures. The Twinkle protein is involved in the production and maintenance of mtDNA. The function of the Twinky protein is unknown.  The C10orf2 gene mutations that cause IOSCA interfere with the function of the Twinkle protein and result in reduced quantities of mtDNA (mtDNA depletion). Impaired mitochondrial function in the nervous system, muscles, and other tissues that require a large amount of energy leads to neurological dysfunction and the other problems associated with IOSCA.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000522-4" qtype="inheritance">Is infantile-onset spinocerebellar ataxia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000522-5" qtype="treatment">What are the treatments for infantile-onset spinocerebellar ataxia ?</Question>
+			<Answer>These resources address the diagnosis or management of IOSCA:  - Gene Review: Gene Review: Infantile-Onset Spinocerebellar Ataxia  - Genetic Testing Registry: Mitochondrial DNA depletion syndrome 7 (hepatocerebral type)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

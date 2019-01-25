@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000239" source="NINDS" url="http://www.ninds.nih.gov/disorders/tse/tse.htm">
+<Focus>Transmissible Spongiform Encephalopathies</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162534</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000239-1" qtype="information">What is (are) Transmissible Spongiform Encephalopathies ?</Question>
+			<Answer>Transmissible spongiform encephalopathies (TSEs), also known as prion diseases, are a group of rare degenerative brain disorders characterized by tiny holes that give the brain a &quot;spongy&quot; appearance. These holes can be seen when brain tissue is viewed under a microscope.
+                
+Creutzfeldt-Jakob disease (CJD) is the most well-known of the human TSEs. It is a rare type of dementia that affects about one in every one million people each year. Other human TSEs include kuru, fatal familial insomnia (FFI), and Gerstmann-Straussler-Scheinker disease (GSS). Kuru was identified in people of an isolated tribe in Papua New Guinea and has now almost disappeared. FFI and GSS are extremely rare hereditary diseases, found in just a few families around the world. A new type of CJD, called variant CJD (vCJD), was first described in 1996 and has been found in Great Britain and several other European countries. The initial symptoms of vCJD are different from those of classic CJD and the disorder typically occurs in younger patients. Research suggests that vCJD may have resulted from human consumption of beef from cattle with a TSE disease called bovine spongiform encephalopathy (BSE), also known as &quot;mad cow disease.&quot; Other TSEs found in animals include scrapie, which affects sheep and goats; chronic wasting disease, which affects elk and deer; and transmissible mink encephalopathy. In a few rare cases, TSEs have occurred in other mammals such as zoo animals. These cases are probably caused by contaminated feed. CJD and other TSEs also can be transmitted experimentally to mice and other animals in the laboratory.
+                
+Research suggests that TSEs are caused by an abnormal version of a protein called a prion (prion is short for proteinaceous infectious particle). Prion proteins occur in both a normal form, which is a harmless protein found in the body&apos;s cells, and in an infectious form, which causes disease. The harmless and infectious forms of the prion protein are nearly identical, but the infectious form takes on a different folded shape from the normal protein.
+                
+Human TSEs can occur three ways: sporadically; as hereditary diseases; or through transmission from infected individuals. Sporadic TSEs may develop because some of a person&apos;s normal prions spontaneously change into the infectious form of the protein and then alter the prions in other cells in a chain reaction. Inherited cases arise from a change, or mutation, in the prion protein gene that causes the prions to be shaped in an abnormal way. This genetic change may be transmitted to an individual&apos;s offspring. Transmission of TSEs from infected individuals is relatively rare. TSEs cannot be transmitted through the air or through touching or most other forms of casual contact. However, they may be transmitted through contact with infected tissue, body fluids, or contaminated medical instruments. Normal sterilization procedures such as boiling or irradiating materials do not prevent transmission of TSEs.
+                
+Symptoms of TSEs vary, but they commonly include personality changes, psychiatric problems such as depression, lack of coordination, and/or an unsteady gait. Patients also may experience involuntary jerking movements called myoclonus, unusual sensations, insomnia, confusion, or memory problems. In the later stages of the disease, patients have severe mental impairment and lose the ability to move or speak.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000239-2" qtype="treatment">What are the treatments for Transmissible Spongiform Encephalopathies ?</Question>
+			<Answer>TSEs tend to progress rapidly and usually culminate in death over the course of a few months to a few years.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000239-3" qtype="outlook">What is the outlook for Transmissible Spongiform Encephalopathies ?</Question>
+			<Answer>There is currently no treatment that can halt progression of any of the TSEs. Treatment is aimed at alleviating symptoms and making the patient as comfortable as possible. A clinical trial of a potential therapy for CJD is expected to begin soon at the University of California at San Francisco.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000239-4" qtype="research">what research (or clinical trials) is being done for Transmissible Spongiform Encephalopathies ?</Question>
+			<Answer>The NINDS conducts and supports research on TSEs. This research is aimed at determining how abnormal prion proteins lead to disease, at finding better tests for diagnosing CJD and other disorders, and ultimately at finding ways to treat TSEs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000897" source="GHR" url="https://ghr.nlm.nih.gov/condition/sensorineural-deafness-and-male-infertility">
+<Focus>sensorineural deafness and male infertility</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2048468</CUI>
+			<CUI>C0021364</CUI>
+			<CUI>C0018784</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>chromosome 15q15.3 deletion syndrome</Synonym>
+		<Synonym>deafness-infertility syndrome</Synonym>
+		<Synonym>DIS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000897-1" qtype="information">What is (are) sensorineural deafness and male infertility ?</Question>
+			<Answer>Sensorineural deafness and male infertility is a condition characterized by hearing loss and an inability to father children. Affected individuals have moderate to severe sensorineural hearing loss, which is caused by abnormalities in the inner ear. The hearing loss is typically diagnosed in early childhood and does not worsen over time. Males with this condition produce sperm that have decreased movement (motility), causing affected males to be infertile.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000897-2" qtype="frequency">How many people are affected by sensorineural deafness and male infertility ?</Question>
+			<Answer>The prevalence of sensorineural deafness and male infertility is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000897-3" qtype="genetic changes">What are the genetic changes related to sensorineural deafness and male infertility ?</Question>
+			<Answer>Sensorineural deafness and male infertility is caused by a deletion of genetic material on the long (q) arm of chromosome 15. The signs and symptoms of sensorineural deafness and male infertility are related to the loss of multiple genes in this region. The size of the deletion varies among affected individuals. Researchers have determined that the loss of a particular gene on chromosome 15, the STRC gene, is responsible for hearing loss in affected individuals. The loss of another gene, CATSPER2, in the same region of chromosome 15 is responsible for the sperm abnormalities and infertility in affected males. Researchers are working to determine how the loss of additional genes in the deleted region affects people with sensorineural deafness and male infertility.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000897-4" qtype="inheritance">Is sensorineural deafness and male infertility inherited ?</Question>
+			<Answer>Sensorineural deafness and male infertility is inherited in an autosomal recessive pattern, which means both copies of chromosome 15 in each cell have a deletion. The parents of an individual with sensorineural deafness and male infertility each carry one copy of the chromosome 15 deletion, but they do not show symptoms of the condition.  Males with two chromosome 15 deletions in each cell have sensorineural deafness and infertility. Females with two chromosome 15 deletions in each cell have sensorineural deafness as their only symptom because the CATSPER2 gene deletions affect sperm function, and women do not produce sperm.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000897-5" qtype="treatment">What are the treatments for sensorineural deafness and male infertility ?</Question>
+			<Answer>These resources address the diagnosis or management of sensorineural deafness and male infertility:  - Cleveland Clinic: Male Infertility  - Gene Review: Gene Review: CATSPER-Related Male Infertility  - Genetic Testing Registry: Deafness, sensorineural, and male infertility  - MedlinePlus Health Topic: Assisted Reproductive Technology  - RESOLVE: The National Infertility Association: Semen Analysis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000721" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/pneumococcalinfections.html">
+<Focus>Pneumococcal Infections</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032269</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Streptococcus pneumoniae infections</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000721-1" qtype="information">What is (are) Pneumococcal Infections ?</Question>
+			<Answer>Pneumococci are a type of streptococcus bacteria. The bacteria spread through contact with people who are ill or by healthy people who carry the bacteria in the back of their nose. Pneumococcal infections can be mild or severe. The most common types of infections are       - Ear infections    - Sinus infections    - Pneumonia    - Sepsis    - Meningitis       How the diagnosis is made depends upon where the infection is. Your doctor will do a physical exam and health history. Possible tests may include blood, imaging, or lab tests. Treatment is with antibiotics. Vaccines can prevent pneumococcal infections. There are two vaccines. One is for infants and young children. The other is for people at high risk, including those who are over 65 years old, have chronic illnesses or weak immune systems, smoke, have asthma, or live in long-term care facilities.    Centers for Disease Control and Prevention</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

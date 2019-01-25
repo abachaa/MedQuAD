@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000780" source="GHR" url="https://ghr.nlm.nih.gov/condition/pelizaeus-merzbacher-disease">
+<Focus>Pelizaeus-Merzbacher disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0205711</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cockayne-Pelizaeus-Merzbacher Disease</Synonym>
+		<Synonym>PMD</Synonym>
+		<Synonym>sclerosis; brain, Pelizaeus-Merzbacher</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000780-1" qtype="information">What is (are) Pelizaeus-Merzbacher disease ?</Question>
+			<Answer>Pelizaeus-Merzbacher disease is an inherited condition involving the brain and spinal cord (central nervous system). This disease is one of a group of genetic disorders called leukodystrophies. Leukodystrophies are characterized by degeneration of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses. Pelizaeus-Merzbacher disease is caused by an inability to form myelin (dysmyelination). As a result, individuals with this condition have impaired intellectual functions, such as language and memory, and delayed motor skills, such as coordination and walking. Typically, motor skills are more severely affected than intellectual function; motor skills development tends to occur more slowly and usually stops in a person&apos;s teens, followed by gradual deterioration.  Pelizaeus-Merzbacher disease is divided into classic and connatal types. Although these two types differ in severity, their features can overlap.  Classic Pelizaeus-Merzbacher disease is the more common type. Within the first year of life, those affected with classic Pelizaeus-Merzbacher disease typically experience weak muscle tone (hypotonia), involuntary movements of the eyes (nystagmus), and delayed development of motor skills such as crawling or walking. As the child gets older, nystagmus usually stops but other movement disorders develop, including muscle stiffness (spasticity), problems with movement and balance (ataxia), and involuntary jerking (choreiform movements).  Connatal Pelizaeus-Merzbacher disease is the more severe of the two types. Symptoms can begin in infancy and include problems feeding, a whistling sound when breathing, progressive spasticity leading to joint deformities (contractures) that restrict movement, speech difficulties (dysarthria), ataxia, and seizures. Those affected with connatal Pelizaeus-Merzbacher disease show little development of motor skills and intellectual function.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000780-2" qtype="frequency">How many people are affected by Pelizaeus-Merzbacher disease ?</Question>
+			<Answer>The prevalence of Pelizaeus-Merzbacher disease is estimated to be 1 in 200,000 to 500,000 males in the United States. This condition rarely affects females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000780-3" qtype="genetic changes">What are the genetic changes related to Pelizaeus-Merzbacher disease ?</Question>
+			<Answer>Mutations in the PLP1 gene cause Pelizaeus-Merzbacher disease. The PLP1 gene provides instructions for producing proteolipid protein 1 and a modified version (isoform) of proteolipid protein 1, called DM20. Proteolipid protein 1 and DM20 are primarily located in the central nervous system and are the main proteins found in myelin, the fatty covering that insulates nerve fibers. A lack of proteolipid protein 1 and DM20 can cause dysmyelination, which can impair nervous system function, resulting in the signs and symptoms of Pelizaeus-Merzbacher disease.  It is estimated that 5 percent to 20 percent of people with Pelizaeus-Merzbacher disease do not have identified mutations in the PLP1 gene. In these cases, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000780-4" qtype="inheritance">Is Pelizaeus-Merzbacher disease inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. Because females have two copies of the X chromosome, one altered copy of the gene in each cell usually leads to less severe symptoms in females than in males, or may cause no symptoms at all. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one altered copy of the gene in each cell is called a carrier. She can pass on the gene, but generally does not experience signs and symptoms of the disorder. Some females who carry a PLP1 mutation, however, may experience muscle stiffness and a decrease in intellectual function. Females with one PLP1 mutation have an increased risk of experiencing progressive deterioration of cognitive functions (dementia) later in life.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000780-5" qtype="treatment">What are the treatments for Pelizaeus-Merzbacher disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Pelizaeus-Merzbacher disease:  - Gene Review: Gene Review: PLP1-Related Disorders  - Genetic Testing Registry: Pelizaeus-Merzbacher disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

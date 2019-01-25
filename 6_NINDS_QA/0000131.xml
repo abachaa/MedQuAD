@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000131" source="NINDS" url="http://www.ninds.nih.gov/disorders/hypotonia/hypotonia.htm">
+<Focus>Hypotonia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026827</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000131-1" qtype="information">What is (are) Hypotonia ?</Question>
+			<Answer>Hypotonia is a medical term used to describe decreased muscle tone. Normally, even when relaxed, muscles have a very small amount of contraction that gives them a springy feel and provides some resistance to passive movement. It is not the same as muscle weakness, although the two conditions can co-exist. Muscle tone is regulated by signals that travel from the brain to the nerves and tell the muscles to contract. Hypotonia can happen from damage to the brain, spinal cord, nerves, or muscles. The damage can be the result of trauma, environmental factors, or genetic, muscle, or central nervous system disorders. For example, it can be seen in Down syndrome, muscular dystrophy, cerebral palsy, Prader-Willi syndrome, myotonic dystrophy, and Tay-Sachs disease. Sometimes it may not be possible to find what causes the hypotonia. Infants with hypotonia have a floppy quality or rag doll appearance because their arms and legs hang by their sides and they have little or no head control. Other symptoms of hypotonia include problems with mobility and posture, breathing and speech difficulties, ligament and joint laxity, and poor reflexes. Hypotonia does not affect intellect. The opposite of hypotonia is hypertonia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000131-2" qtype="treatment">What are the treatments for Hypotonia ?</Question>
+			<Answer>Treatment begins with a thorough diagnostic evaluation, usually performed by a neurologist, including an assessment of motor and sensory skills, balance and coordination, mental status, reflexes, and functioning of the nerves. Diagnostic tests that may be helpful include a CT or MRI scan of the brain, an EMG to evaluate nerve and muscle function, or an EEG to measure electrical activity in the brain. Once a diagnosis has been made, the underlying condition is treated first, followed by symptomatic and supportive therapy for the hypotonia. Physical therapy can improve motor control and overall body strength. Occupational therapy can help relearn ways to address activities of daily living. Speech-language therapy can help breathing, speech, and swallowing difficulties. Therapy for infants and young children may also include sensory stimulation programs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000131-3" qtype="outlook">What is the outlook for Hypotonia ?</Question>
+			<Answer>Hypotonia can be a life-long condition. In some cases, however, muscle tone improves over time.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000131-4" qtype="research">what research (or clinical trials) is being done for Hypotonia ?</Question>
+			<Answer>The NINDS supports research on conditions that can result from neurological disorders, such as hypotonia. Much of this research is aimed at learning more about these conditions and finding ways to prevent and treat them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

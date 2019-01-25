@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000828" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/smoking.html">
+<Focus>Smoking</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C1519384</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cigar smoking</Synonym>
+		<Synonym>Cigarette smoking</Synonym>
+		<Synonym>Pipe smoking</Synonym>
+		<Synonym>Tobacco smoking</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000828-1" qtype="information">What is (are) Smoking ?</Question>
+			<Answer>There&apos;s no way around it. Smoking is bad for your health. Smoking harms nearly every organ of the body. Cigarette smoking causes 87 percent of lung cancer deaths. It is also responsible for many other cancers and health problems. These include lung disease, heart and blood vessel disease, stroke and cataracts. Women who smoke have a greater chance of certain pregnancy problems or having a baby die from sudden infant death syndrome (SIDS). Your smoke is also bad for other people - they breathe in your smoke secondhand and can get many of the same problems as smokers do.    E-cigarettes often look like cigarettes, but they work differently. They are battery-operated smoking devices. Not much is known about the health risks of using them.    Quitting smoking can reduce your risk of health problems. The earlier you quit, the greater the benefit.     NIH: National Cancer Institute</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

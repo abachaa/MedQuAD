@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000795" source="GHR" url="https://ghr.nlm.nih.gov/condition/phosphoglycerate-mutase-deficiency">
+<Focus>phosphoglycerate mutase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268149</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>deficiency mutase phosphoglycerate</Synonym>
+		<Synonym>glycogen storage disease X</Synonym>
+		<Synonym>GSD X</Synonym>
+		<Synonym>GSD10</Synonym>
+		<Synonym>GSDX</Synonym>
+		<Synonym>myopathy due to phosphoglycerate mutase deficiency</Synonym>
+		<Synonym>PGAM deficiency</Synonym>
+		<Synonym>PGAMM deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000795-1" qtype="information">What is (are) phosphoglycerate mutase deficiency ?</Question>
+			<Answer>Phosphoglycerate mutase deficiency is a disorder that primarily affects muscles used for movement (skeletal muscles). Beginning in childhood or adolescence, affected individuals experience muscle aches or cramping following strenuous physical activity. Some people with this condition also have recurrent episodes of myoglobinuria. Myoglobinuria occurs when muscle tissue breaks down abnormally and releases a protein called myoglobin, which is processed by the kidneys and released in the urine. If untreated, myoglobinuria can lead to kidney failure.  In some cases of phosphoglycerate mutase deficiency, microscopic tube-shaped structures called tubular aggregates are seen in muscle fibers. It is unclear how tubular aggregates are associated with the signs and symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000795-2" qtype="frequency">How many people are affected by phosphoglycerate mutase deficiency ?</Question>
+			<Answer>Phosphoglycerate mutase deficiency is a rare condition; about 15 affected people have been reported in the medical literature. Most affected individuals have been African American.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000795-3" qtype="genetic changes">What are the genetic changes related to phosphoglycerate mutase deficiency ?</Question>
+			<Answer>Phosphoglycerate mutase deficiency is caused by mutations in the PGAM2 gene. This gene provides instructions for making an enzyme called phosphoglycerate mutase, which is involved in a critical energy-producing process in cells known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy.  The version of phosphoglycerate mutase produced from the PGAM2 gene is found primarily in skeletal muscle cells. Mutations in the PGAM2 gene greatly reduce the activity of phosphoglycerate mutase, which disrupts energy production in these cells. This defect underlies the muscle cramping and myoglobinuria that occur after strenuous exercise in affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000795-4" qtype="inheritance">Is phosphoglycerate mutase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the PGAM2 gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. However, people who carry one altered copy of the PGAM2 gene may have some features of phosphoglycerate mutase deficiency, including episodes of exercise-induced muscle cramping and myoglobinuria.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000795-5" qtype="treatment">What are the treatments for phosphoglycerate mutase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of phosphoglycerate mutase deficiency:  - Genetic Testing Registry: Glycogen storage disease type X   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

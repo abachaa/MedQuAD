@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000510" source="GHR" url="https://ghr.nlm.nih.gov/condition/ichthyosis-with-confetti">
+<Focus>ichthyosis with confetti</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3665704</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital reticular ichthyosiform erythroderma</Synonym>
+		<Synonym>CRIE</Synonym>
+		<Synonym>ichthyosis variegata</Synonym>
+		<Synonym>IWC</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000510-1" qtype="information">What is (are) ichthyosis with confetti ?</Question>
+			<Answer>Ichthyosis with confetti is a disorder of the skin. Individuals with this condition are born with red, scaly skin all over the body, which can be itchy in some people. In childhood or adolescence, hundreds to thousands of small patches of normal skin appear, usually on the torso. The numerous pale spots surrounded by red skin look like confetti, giving the condition its name. The patches of normal skin increase in number and size over time.  In addition to red, scaly skin, people with ichthyosis with confetti typically have abnormally thick skin on the palms of the hands and soles of the feet (palmoplantar keratoderma). Many affected individuals have excess hair (hirsutism) on some parts of the body, particularly on the arms and legs. Because of their skin abnormalities, people with ichthyosis with confetti are at increased risk of developing skin infections.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000510-2" qtype="frequency">How many people are affected by ichthyosis with confetti ?</Question>
+			<Answer>Ichthyosis with confetti is a rare disorder. Fewer than 20 affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000510-3" qtype="genetic changes">What are the genetic changes related to ichthyosis with confetti ?</Question>
+			<Answer>Mutations in the KRT10 gene cause ichthyosis with confetti. This gene provides instructions for making a protein called keratin 10, which is found in cells called keratinocytes in the outer layer of the skin (the epidermis). In the fluid-filled space inside these cells (the cytoplasm), this tough, fibrous protein attaches to another keratin protein (produced from a different gene) to form fibers called intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the skin.  KRT10 gene mutations associated with ichthyosis with confetti alter the keratin 10 protein. The altered protein is abnormally transported to the nucleus of cells, where it cannot form networks of intermediate filaments. Loss of these networks disrupts the epidermis, contributing to the red, scaly skin. However, in some abnormal cells, the mutated gene corrects itself through a complex process by which genetic material is exchanged between chromosomes. As a result, normal keratin 10 protein is produced and remains in the cytoplasm. The cell becomes normal and, as it continues to grow and divide, forms small patches of normal skin that give ichthyosis with confetti its name.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000510-4" qtype="inheritance">Is ichthyosis with confetti inherited ?</Question>
+			<Answer>Ichthyosis with confetti is considered to have an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Usually, the condition is caused by a new mutation that occurs very early in embryonic development (called a de novo mutation). In these cases, the affected individuals have no history of the disorder in their family. In some cases, an affected person inherits the mutation from one affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000510-5" qtype="treatment">What are the treatments for ichthyosis with confetti ?</Question>
+			<Answer>These resources address the diagnosis or management of ichthyosis with confetti:  - Foundation for Ichthyosis and Related Skin Types (FIRST): Skin Care Tips  - Foundation for Ichthyosis and Related Skin Types (FIRST): Treating Ichthyosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

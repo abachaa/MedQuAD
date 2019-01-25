@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000694" source="GHR" url="https://ghr.nlm.nih.gov/condition/multiple-sclerosis">
+<Focus>multiple sclerosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026769</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>disseminated sclerosis</Synonym>
+		<Synonym>MS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000694-1" qtype="information">What is (are) multiple sclerosis ?</Question>
+			<Answer>Multiple sclerosis is a condition characterized by areas of damage (lesions) on the brain and spinal cord. These lesions are associated with destruction of the covering that protects nerves and promotes the efficient transmission of nerve impulses (the myelin sheath) and damage to nerve cells. Multiple sclerosis is considered an autoimmune disorder; autoimmune disorders occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs, in this case tissues of the nervous system.  Multiple sclerosis usually begins in early adulthood, between ages 20 and 40. The symptoms vary widely, and affected individuals can experience one or more effects of nervous system damage. Multiple sclerosis often causes sensory disturbances in the limbs, including a prickling or tingling sensation (paresthesia), numbness, pain, and itching. Some people experience Lhermitte sign, which is an electrical shock-like sensation that runs down the back and into the limbs. This sensation usually occurs when the head is bent forward. Problems with muscle control are common in people with multiple sclerosis. Affected individuals may have tremors, muscle stiffness (spasticity), exaggerated reflexes (hyperreflexia), weakness or partial paralysis of the muscles of the limbs, difficulty walking, or poor bladder control. Multiple sclerosis is also associated with vision problems, such as blurred or double vision or partial or complete vision loss. Infections that cause fever can make the symptoms worse.  There are several forms of multiple sclerosis: relapsing-remitting MS, secondary progressive MS, primary progressive MS, and progressive relapsing MS. The most common is the relapsing-remitting form, which affects approximately 80 percent of people with multiple sclerosis. Individuals with this form of the condition have periods during which they experience symptoms, called clinical attacks, followed by periods without any symptoms (remission). The triggers of clinical attacks and remissions are unknown. After about 10 years, relapsing-remitting MS usually develops into another form of the disorder called secondary progressive MS. In this form, there are no remissions, and symptoms of the condition continually worsen.  Primary progressive MS is the next most common form, affecting approximately 10 to 20 percent of people with multiple sclerosis. This form is characterized by constant symptoms that worsen over time, with no clinical attacks or remissions. Primary progressive MS typically begins later than the other forms, around age 40.  Progressive relapsing MS is a rare form of multiple sclerosis that initially appears like primary progressive MS, with constant symptoms. However, people with progressive relapsing MS also experience clinical attacks of more severe symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000694-2" qtype="frequency">How many people are affected by multiple sclerosis ?</Question>
+			<Answer>An estimated 1.1 to 2.5 million people worldwide have multiple sclerosis. Although the reason is unclear, this condition is more common in regions that are farther away from the equator. In Canada, parts of the northern United States, western and northern Europe, Russia, and southeastern Australia, the condition affects approximately 1 in 2,000 to 2,400 people. It is less common closer to the equator, such as in Asia, sub-Saharan Africa, and parts of South America, where about 1 in 20,000 people are affected. For unknown reasons, most forms of multiple sclerosis affect women twice as often as men; however, women and men are equally affected by primary progressive MS.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000694-3" qtype="genetic changes">What are the genetic changes related to multiple sclerosis ?</Question>
+			<Answer>Although the cause of multiple sclerosis is unknown, variations in dozens of genes are thought to be involved in multiple sclerosis risk. Changes in the HLA-DRB1 gene are the strongest genetic risk factors for developing multiple sclerosis. Other factors associated with an increased risk of developing multiple sclerosis include changes in the IL7R gene and environmental factors, such as exposure to the Epstein-Barr virus, low levels of vitamin D, and smoking.  The HLA-DRB1 gene belongs to a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). Each HLA gene has many different normal variations, allowing each person&apos;s immune system to react to a wide range of foreign proteins. Variations in several HLA genes have been associated with increased multiple sclerosis risk, but one particular variant of the HLA-DRB1 gene, called HLA-DRB1*15:01, is the most strongly linked genetic factor.  The IL7R gene provides instructions for making one piece of two different receptor proteins: the interleukin 7 (IL-7) receptor and the thymic stromal lymphopoietin (TSLP) receptor. Both receptors are embedded in the cell membrane of immune cells. These receptors stimulate signaling pathways that induce the growth and division (proliferation) and survival of immune cells. The genetic variation involved in multiple sclerosis leads to production of an IL-7 receptor that is not embedded in the cell membrane but is instead found inside the cell. It is unknown if this variation affects the TSLP receptor.  Because the HLA-DRB1 and IL-7R genes are involved in the immune system, changes in either might be related to the autoimmune response that damages the myelin sheath and nerve cells and leads to the signs and symptoms of multiple sclerosis. However, it is unclear exactly what role variations in either gene plays in development of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000694-4" qtype="inheritance">Is multiple sclerosis inherited ?</Question>
+			<Answer>The inheritance pattern of multiple sclerosis is unknown, although the condition does appear to be passed down through generations in families. The risk of developing multiple sclerosis is higher for siblings or children of a person with the condition than for the general population.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000694-5" qtype="treatment">What are the treatments for multiple sclerosis ?</Question>
+			<Answer>These resources address the diagnosis or management of multiple sclerosis:  - Gene Review: Gene Review: Multiple Sclerosis Overview  - Multiple Sclerosis Association of America: Treatments for MS  - Multiple Sclerosis International Federation: About MS--Diagnosis  - National Multiple Sclerosis Society: Diagnosing Tools   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

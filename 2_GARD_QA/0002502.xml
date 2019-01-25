@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002502" source="GARD" url="https://rarediseases.info.nih.gov/gard/8233/gaucher-disease">
+<Focus>Gaucher disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017205</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Acute cerebral Gaucher disease</Synonym>
+		<Synonym>Cerebroside lipidosis syndrome</Synonym>
+		<Synonym>Gaucher splenomegaly</Synonym>
+		<Synonym>Sphingolipidosis 1</Synonym>
+		<Synonym>Glucocerebrosidosis</Synonym>
+		<Synonym>Atypical Gaucher disease due to saposin C deficiency</Synonym>
+		<Synonym>Gaucher disease - ophthalmoplegia - cardiovascular calcification</Synonym>
+		<Synonym>Gaucher disease perinatal lethal</Synonym>
+		<Synonym>Gaucher disease type 1</Synonym>
+		<Synonym>Gaucher disease type 2</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002502-1" qtype="information">What is (are) Gaucher disease ?</Question>
+			<Answer>Gaucher disease refers to a group of inherited conditions that affect many organs and tissues in the body. Signs and symptoms vary widely among affected individuals. There are different types of this condition: Gaucher disease perinatal lethal, Gaucher disease type 1, Gaucher disease type 2, and Gaucher disease type 3. Gaucher disease type 1 is the most common form of this condition. Gaucher disease is inherited in an autosomal recessive fashion and is caused by mutations in the GBA gene.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002502-2" qtype="symptoms">What are the symptoms of Gaucher disease ?</Question>
+			<Answer>What are the signs and symptoms of Gaucher disease? The Human Phenotype Ontology provides the following list of signs and symptoms for Gaucher disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Anemia 90% Hepatomegaly 90% Splenomegaly 90% Abdominal pain 50% Abnormality of temperature regulation 50% Abnormality of the genital system 50% Arthralgia 50% Aseptic necrosis 50% Behavioral abnormality 50% Bone pain 50% Delayed skeletal maturation 50% Developmental regression 50% Feeding difficulties in infancy 50% Incoordination 50% Involuntary movements 50% Oculomotor apraxia 50% Recurrent fractures 50% Reduced bone mineral density 50% Seizures 50% Strabismus 50% Thrombocytopenia 50% Abnormality of coagulation 7.5% Abnormality of extrapyramidal motor function 7.5% Abnormality of skin pigmentation 7.5% Abnormality of the aortic valve 7.5% Abnormality of the macula 7.5% Abnormality of the myocardium 7.5% Abnormality of the pericardium 7.5% Bone marrow hypocellularity 7.5% Cirrhosis 7.5% Cranial nerve paralysis 7.5% Gingival bleeding 7.5% Hearing impairment 7.5% Hematuria 7.5% Hemiplegia/hemiparesis 7.5% Hydrocephalus 7.5% Hydrops fetalis 7.5% Ichthyosis 7.5% Increased antibody level in blood 7.5% Increased bone mineral density 7.5% Limitation of joint mobility 7.5% Mitral stenosis 7.5% Muscular hypotonia 7.5% Opacification of the corneal stroma 7.5% Osteoarthritis 7.5% Osteolysis 7.5% Osteomyelitis 7.5% Proteinuria 7.5% Pulmonary fibrosis 7.5% Pulmonary hypertension 7.5% Respiratory insufficiency 7.5% Restrictive lung disease 7.5% Retinopathy 7.5% Short stature 7.5% Tremor 7.5% Ventriculomegaly 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

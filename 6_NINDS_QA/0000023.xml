@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000023" source="NINDS" url="http://www.ninds.nih.gov/disorders/anoxia/anoxia.htm">
+<Focus>Cerebral Hypoxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1527348</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000023-1" qtype="information">What is (are) Cerebral Hypoxia ?</Question>
+			<Answer>Cerebral hypoxia refers to a condition in which there is a decrease of oxygen supply to the brain even though there is adequate blood flow. Drowning, strangling, choking, suffocation, cardiac arrest, head trauma, carbon monoxide poisoning, and complications of general anesthesia can create conditions that can lead to cerebral hypoxia. Symptoms of mild cerebral hypoxia include inattentiveness, poor judgment, memory loss, and a decrease in motor coordination. Brain cells are extremely sensitive to oxygen deprivation and can begin to die within five minutes after oxygen supply has been cut off. When hypoxia lasts for longer periods of time, it can cause coma, seizures, and even brain death. In brain death, there is no measurable activity in the brain, although cardiovascular function is preserved. Life support is required for respiration.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000023-2" qtype="treatment">What are the treatments for Cerebral Hypoxia ?</Question>
+			<Answer>Treatment depends on the underlying cause of the hypoxia, but basic life-support systems have to be put in place: mechanical ventilation to secure the airway; fluids, blood products, or medications to support blood pressure and heart rate; and medications to suppress seizures.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000023-3" qtype="outlook">What is the outlook for Cerebral Hypoxia ?</Question>
+			<Answer>Recovery depends on how long the brain has been deprived of oxygen and how much brain damage has occurred, although carbon monoxide poisoning can cause brain damage days to weeks after the event. Most people who make a full recovery have only been briefly unconscious. The longer someone is unconscious, the higher the chances of death or brain death and the lower the chances of a meaningful recovery. During recovery, psychological and neurological abnormalities such as amnesia, personality regression, hallucinations, memory loss, and muscle spasms and twitches may appear, persist, and then resolve.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000023-4" qtype="research">what research (or clinical trials) is being done for Cerebral Hypoxia ?</Question>
+			<Answer>The NINDS supports and conducts studies aimed at understanding neurological conditions that can damage the brain, such as cerebral hypoxia. The goals of these studies are to find ways to prevent and treat these conditions.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

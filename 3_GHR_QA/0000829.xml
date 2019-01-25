@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000829" source="GHR" url="https://ghr.nlm.nih.gov/condition/progressive-familial-intrahepatic-cholestasis">
+<Focus>progressive familial intrahepatic cholestasis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268312</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ABCB4-related intrahepatic cholestasis</Synonym>
+		<Synonym>ABCB11-related intrahepatic cholestasis</Synonym>
+		<Synonym>ATP8B1-related intrahepatic cholestasis</Synonym>
+		<Synonym>BSEP deficiency</Synonym>
+		<Synonym>Byler disease</Synonym>
+		<Synonym>Byler syndrome</Synonym>
+		<Synonym>FIC1 deficiency</Synonym>
+		<Synonym>low -GT familial intrahepatic cholestasis</Synonym>
+		<Synonym>MDR3 deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000829-1" qtype="information">What is (are) progressive familial intrahepatic cholestasis ?</Question>
+			<Answer>Progressive familial intrahepatic cholestasis (PFIC) is a disorder that causes progressive liver disease, which typically leads to liver failure. In people with PFIC, liver cells are less able to secrete a digestive fluid called bile. The buildup of bile in liver cells causes liver disease in affected individuals.  Signs and symptoms of PFIC typically begin in infancy and are related to bile buildup and liver disease. Specifically, affected individuals experience severe itching, yellowing of the skin and whites of the eyes (jaundice), failure to gain weight and grow at the expected rate (failure to thrive), high blood pressure in the vein that supplies blood to the liver (portal hypertension), and an enlarged liver and spleen (hepatosplenomegaly).  There are three known types of PFIC: PFIC1, PFIC2, and PFIC3. The types are also sometimes described as shortages of particular proteins needed for normal liver function. Each type has a different genetic cause.  In addition to signs and symptoms related to liver disease, people with PFIC1 may have short stature, deafness, diarrhea, inflammation of the pancreas (pancreatitis), and low levels of fat-soluble vitamins (vitamins A, D, E, and K) in the blood. Affected individuals typically develop liver failure before adulthood.  The signs and symptoms of PFIC2 are typically related to liver disease only; however, these signs and symptoms tend to be more severe than those experienced by people with PFIC1. People with PFIC2 often develop liver failure within the first few years of life. Additionally, affected individuals are at increased risk of developing a type of liver cancer called hepatocellular carcinoma.  Most people with PFIC3 have signs and symptoms related to liver disease only. Signs and symptoms of PFIC3 usually do not appear until later in infancy or early childhood; rarely, people are diagnosed in early adulthood. Liver failure can occur in childhood or adulthood in people with PFIC3.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000829-2" qtype="frequency">How many people are affected by progressive familial intrahepatic cholestasis ?</Question>
+			<Answer>PFIC is estimated to affect 1 in 50,000 to 100,000 people worldwide. PFIC type 1 is much more common in the Inuit population of Greenland and the Old Order Amish population of the United States.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000829-3" qtype="genetic changes">What are the genetic changes related to progressive familial intrahepatic cholestasis ?</Question>
+			<Answer>Mutations in the ATP8B1, ABCB11, and ABCB4 genes can cause PFIC.  ATP8B1 gene mutations cause PFIC1. The ATP8B1 gene provides instructions for making a protein that helps to maintain an appropriate balance of bile acids, a component of bile. This process, known as bile acid homeostasis, is critical for the normal secretion of bile and the proper functioning of liver cells. In its role in maintaining bile acid homeostasis, some researchers believe that the ATP8B1 protein is involved in moving certain fats across cell membranes. Mutations in the ATP8B1 gene result in the buildup of bile acids in liver cells, damaging these cells and causing liver disease. The ATP8B1 protein is found throughout the body, but it is unclear how a lack of this protein causes short stature, deafness, and other signs and symptoms of PFIC1.  Mutations in the ABCB11 gene are responsible for PFIC2. The ABCB11 gene provides instructions for making a protein called the bile salt export pump (BSEP). This protein is found in the liver, and its main role is to move bile salts (a component of bile) out of liver cells. Mutations in the ABCB11 gene result in the buildup of bile salts in liver cells, damaging these cells and causing liver disease.  ABCB4 gene mutations cause PFIC3. The ABCB4 gene provides instructions for making a protein that moves certain fats called phospholipids across cell membranes. Outside liver cells, phospholipids attach (bind) to bile acids. Large amounts of bile acids can be toxic when they are not bound to phospholipids. Mutations in the ABCB4 gene lead to a lack of phospholipids available to bind to bile acids. A buildup of free bile acids damages liver cells and leads to liver disease.  Some people with PFIC do not have a mutation in the ATP8B1, ABCB11, or ABCB4 gene. In these cases, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000829-4" qtype="inheritance">Is progressive familial intrahepatic cholestasis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000829-5" qtype="treatment">What are the treatments for progressive familial intrahepatic cholestasis ?</Question>
+			<Answer>These resources address the diagnosis or management of progressive familial intrahepatic cholestasis:  - Gene Review: Gene Review: ATP8B1 Deficiency  - Genetic Testing Registry: Progressive familial intrahepatic cholestasis 2  - Genetic Testing Registry: Progressive familial intrahepatic cholestasis 3  - Genetic Testing Registry: Progressive intrahepatic cholestasis  - MedlinePlus Encyclopedia: Cholestasis  - MedlinePlus Encyclopedia: Hepatocellular Carcinoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

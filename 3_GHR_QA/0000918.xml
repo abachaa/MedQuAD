@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000918" source="GHR" url="https://ghr.nlm.nih.gov/condition/small-fiber-neuropathy">
+<Focus>small fiber neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3276706</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SFN</Synonym>
+		<Synonym>SFNP</Synonym>
+		<Synonym>small nerve fiber neuropathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000918-1" qtype="information">What is (are) small fiber neuropathy ?</Question>
+			<Answer>Small fiber neuropathy is a condition characterized by severe pain attacks that typically begin in the feet or hands. As a person ages, the pain attacks can affect other regions. Some people initially experience a more generalized, whole-body pain. The attacks usually consist of pain described as stabbing or burning, or abnormal skin sensations such as tingling or itchiness. In some individuals, the pain is more severe during times of rest or at night. The signs and symptoms of small fiber neuropathy usually begin in adolescence to mid-adulthood.  Individuals with small fiber neuropathy cannot feel pain that is concentrated in a very small area, such as the prick of a pin. However, they have an increased sensitivity to pain in general (hyperalgesia) and experience pain from stimulation that typically does not cause pain (hypoesthesia). People affected with this condition may also have a reduced ability to differentiate between hot and cold. However, in some individuals, the pain attacks are provoked by cold or warm triggers.  Some affected individuals have urinary or bowel problems, episodes of rapid heartbeat (palpitations), dry eyes or mouth, or abnormal sweating. They can also experience a sharp drop in blood pressure upon standing (orthostatic hypotension), which can cause dizziness, blurred vision, or fainting.  Small fiber neuropathy is considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000918-2" qtype="frequency">How many people are affected by small fiber neuropathy ?</Question>
+			<Answer>The prevalence of small fiber neuropathy is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000918-3" qtype="genetic changes">What are the genetic changes related to small fiber neuropathy ?</Question>
+			<Answer>Mutations in the SCN9A or SCN10A gene can cause small fiber neuropathy. These genes provide instructions for making pieces (the alpha subunits) of sodium channels. The SCN9A gene instructs the production of the alpha subunit for the NaV1.7 sodium channel and the SCN10A gene instructs the production of the alpha subunit for the NaV1.8 sodium channel. Sodium channels transport positively charged sodium atoms (sodium ions) into cells and play a key role in a cell&apos;s ability to generate and transmit electrical signals. The NaV1.7 and NaV1.8 sodium channels are found in nerve cells called nociceptors that transmit pain signals to the spinal cord and brain.  The SCN9A gene mutations that cause small fiber neuropathy result in NaV1.7 sodium channels that do not close completely when the channel is turned off. Many SCN10A gene mutations result in NaV1.8 sodium channels that open more easily than usual. The altered channels allow sodium ions to flow abnormally into nociceptors. This increase in sodium ions enhances transmission of pain signals, causing individuals to be more sensitive to stimulation that might otherwise not cause pain. In this condition, the small fibers that extend from the nociceptors through which pain signals are transmitted (axons) degenerate over time. The cause of this degeneration is unknown, but it likely accounts for signs and symptoms such as the loss of temperature differentiation and pinprick sensation. The combination of increased pain signaling and degeneration of pain-transmitting fibers leads to a variable condition with signs and symptoms that can change over time.  SCN9A gene mutations have been found in approximately 30 percent of individuals with small fiber neuropathy; SCN10A gene mutations are responsible for about 5 percent of cases. In some instances, other health conditions cause this disorder. Diabetes mellitus and impaired glucose tolerance are the most common diseases that lead to this disorder, with 6 to 50 percent of diabetics or pre-diabetics developing small fiber neuropathy. Other causes of this condition include a metabolic disorder called Fabry disease, immune disorders such as celiac disease or Sjogren syndrome, an inflammatory condition called sarcoidosis, and human immunodeficiency virus (HIV) infection.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000918-4" qtype="inheritance">Is small fiber neuropathy inherited ?</Question>
+			<Answer>Small fiber neuropathy is inherited in an autosomal dominant pattern, which means one copy of the altered SCN9A gene or SCN10A gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  When the genetic cause of small fiber neuropathy is unknown or when the condition is caused by another disorder, the inheritance pattern is unclear.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000918-5" qtype="treatment">What are the treatments for small fiber neuropathy ?</Question>
+			<Answer>These resources address the diagnosis or management of small fiber neuropathy:  - Genetic Testing Registry: Small fiber neuropathy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

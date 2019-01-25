@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000162" source="GHR" url="https://ghr.nlm.nih.gov/condition/cav3-related-distal-myopathy">
+<Focus>CAV3-related distal myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0751336</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>distal myopathy, Tateyama type</Synonym>
+		<Synonym>MPDT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000162-1" qtype="information">What is (are) CAV3-related distal myopathy ?</Question>
+			<Answer>CAV3-related distal myopathy is one form of distal myopathy, a group of disorders characterized by weakness and loss of function affecting the muscles farthest from the center of the body (distal muscles), such as those of the hands and feet. People with CAV3-related distal myopathy experience wasting (atrophy) and weakness of the small muscles in the hands and feet that generally become noticeable in adulthood. A bump or other sudden impact on the muscles, especially those in the forearms, may cause them to exhibit repetitive tensing (percussion-induced rapid contraction). The rapid contractions can continue for up to 30 seconds and may be painful. Overgrowth (hypertrophy) of the calf muscles can also occur in CAV3-related distal myopathy. The muscles closer to the center of the body (proximal muscles) such as the thighs and upper arms are normal in this condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000162-2" qtype="frequency">How many people are affected by CAV3-related distal myopathy ?</Question>
+			<Answer>The prevalence of CAV3-related distal myopathy is unknown. Only a few affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000162-3" qtype="genetic changes">What are the genetic changes related to CAV3-related distal myopathy ?</Question>
+			<Answer>CAV3-related distal myopathy is part of a group of conditions called caveolinopathies, which are muscle disorders caused by mutations in the CAV3 gene. The CAV3 gene provides instructions for making a protein called caveolin-3, which is found in the membrane surrounding muscle cells. This protein is the main component of caveolae, which are small pouches in the muscle cell membrane. Within the caveolae, the caveolin-3 protein acts as a scaffold to organize other molecules that are important for cell signaling and maintenance of the cell structure.  CAV3 gene mutations result in a shortage of caveolin-3 protein in the muscle cell membrane and a reduction in the number of caveolae. Researchers suggest that a shortage of caveolae impairs the structural integrity of muscle cells, interferes with cell signaling, and causes the self-destruction of cells (apoptosis). The resulting degeneration of muscle tissue leads to the signs and symptoms of CAV3-related distal myopathy.  In addition to CAV3-related distal myopathy, CAV3 gene mutations can cause other caveolinopathies including limb-girdle muscular dystrophy, rippling muscle disease, isolated hyperCKemia, and a heart disorder called hypertrophic cardiomyopathy. Several CAV3 gene mutations have been found to cause different caveolinopathies in different individuals. It is unclear why a single CAV3 gene mutation may cause different patterns of signs and symptoms, even within the same family.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000162-4" qtype="inheritance">Is CAV3-related distal myopathy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with CAV3-related distal myopathy or another caveolinopathy. Rare cases result from new mutations in the gene and occur in people with no history of caveolinopathies in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000162-5" qtype="treatment">What are the treatments for CAV3-related distal myopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of CAV3-related distal myopathy:  - Gene Review: Gene Review: Caveolinopathies  - Genetic Testing Registry: CAV3-Related Distal Myopathy  - Genetic Testing Registry: Distal myopathy, Tateyama type  - MedlinePlus Encyclopedia: Electromyography  - MedlinePlus Encyclopedia: Muscle Biopsy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

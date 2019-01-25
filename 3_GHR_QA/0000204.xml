@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000204" source="GHR" url="https://ghr.nlm.nih.gov/condition/color-vision-deficiency">
+<Focus>color vision deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0242225</CUI>
+			<CUI>C0009398</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>color blindness</Synonym>
+		<Synonym>color vision defects</Synonym>
+		<Synonym>defective color vision</Synonym>
+		<Synonym>vision defect, color</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000204-1" qtype="information">What is (are) color vision deficiency ?</Question>
+			<Answer>Color vision deficiency (sometimes called color blindness) represents a group of conditions that affect the perception of color. Red-green color vision defects are the most common form of color vision deficiency. Affected individuals have trouble distinguishing between some shades of red, yellow, and green. Blue-yellow color vision defects (also called tritan defects), which are rarer, cause problems with differentiating shades of blue and green and cause difficulty distinguishing dark blue from black. These two forms of color vision deficiency disrupt color perception but do not affect the sharpness of vision (visual acuity).  A less common and more severe form of color vision deficiency called blue cone monochromacy causes very poor visual acuity and severely reduced color vision. Affected individuals have additional vision problems, which can include increased sensitivity to light (photophobia), involuntary back-and-forth eye movements (nystagmus), and nearsightedness (myopia). Blue cone monochromacy is sometimes considered to be a form of achromatopsia, a disorder characterized by a partial or total lack of color vision with other vision problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000204-2" qtype="frequency">How many people are affected by color vision deficiency ?</Question>
+			<Answer>Red-green color vision defects are the most common form of color vision deficiency. This condition affects males much more often than females. Among populations with Northern European ancestry, it occurs in about 1 in 12 males and 1 in 200 females. Red-green color vision defects have a lower incidence in almost all other populations studied.  Blue-yellow color vision defects affect males and females equally. This condition occurs in fewer than 1 in 10,000 people worldwide.  Blue cone monochromacy is rarer than the other forms of color vision deficiency, affecting about 1 in 100,000 people worldwide. Like red-green color vision defects, blue cone monochromacy affects males much more often than females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000204-3" qtype="genetic changes">What are the genetic changes related to color vision deficiency ?</Question>
+			<Answer>Mutations in the OPN1LW, OPN1MW, and OPN1SW genes cause the forms of color vision deficiency described above. The proteins produced from these genes play essential roles in color vision. They are found in the retina, which is the light-sensitive tissue at the back of the eye. The retina contains two types of light receptor cells, called rods and cones, that transmit visual signals from the eye to the brain. Rods provide vision in low light. Cones provide vision in bright light, including color vision. There are three types of cones, each containing a specific pigment (a photopigment called an opsin) that is most sensitive to particular wavelengths of light. The brain combines input from all three types of cones to produce normal color vision.  The OPN1LW, OPN1MW, and OPN1SW genes provide instructions for making the three opsin pigments in cones. The opsin made from the OPN1LW gene is more sensitive to light in the yellow/orange part of the visible spectrum (long-wavelength light), and cones with this pigment are called long-wavelength-sensitive or L cones. The opsin made from the OPN1MW gene is more sensitive to light in the middle of the visible spectrum (yellow/green light), and cones with this pigment are called middle-wavelength-sensitive or M cones. The opsin made from the OPN1SW gene is more sensitive to light in the blue/violet part of the visible spectrum (short-wavelength light), and cones with this pigment are called short-wavelength-sensitive or S cones.  Genetic changes involving the OPN1LW or OPN1MW gene cause red-green color vision defects. These changes lead to an absence of L or M cones or to the production of abnormal opsin pigments in these cones that affect red-green color vision. Blue-yellow color vision defects result from mutations in the OPN1SW gene. These mutations lead to the premature destruction of S cones or the production of defective S cones. Impaired S cone function alters perception of the color blue, making it difficult or impossible to detect differences between shades of blue and green and causing problems with distinguishing dark blue from black.  Blue cone monochromacy occurs when genetic changes affecting the OPN1LW and OPN1MW genes prevent both L and M cones from functioning normally. In people with this condition, only S cones are functional, which leads to reduced visual acuity and poor color vision. The loss of L and M cone function also underlies the other vision problems in people with blue cone monochromacy.  Some problems with color vision are not caused by gene mutations. These nonhereditary conditions are described as acquired color vision deficiencies. They can be caused by other eye disorders, such as diseases involving the retina, the nerve that carries visual information from the eye to the brain (the optic nerve), or areas of the brain involved in processing visual information. Acquired color vision deficiencies can also be side effects of certain drugs, such as chloroquine (which is used to treat malaria), or result from exposure to particular chemicals, such as organic solvents.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000204-4" qtype="inheritance">Is color vision deficiency inherited ?</Question>
+			<Answer>Red-green color vision defects and blue cone monochromacy are inherited in an X-linked recessive pattern. The OPN1LW and OPN1MW genes are located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one genetic change in each cell is sufficient to cause the condition. Males are affected by X-linked recessive disorders much more frequently than females because in females (who have two X chromosomes), a genetic change would have to occur on both copies of the chromosome to cause the disorder. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  Blue-yellow color vision defects are inherited in an autosomal dominant pattern, which means one copy of the altered OPN1SW gene in each cell is sufficient to cause the condition. In many cases, an affected person inherits the condition from an affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000204-5" qtype="treatment">What are the treatments for color vision deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of color vision deficiency:  - Gene Review: Gene Review: Red-Green Color Vision Defects  - Genetic Testing Registry: Colorblindness, partial, deutan series  - Genetic Testing Registry: Cone monochromatism  - Genetic Testing Registry: Protan defect  - Genetic Testing Registry: Red-green color vision defects  - Genetic Testing Registry: Tritanopia  - MedlinePlus Encyclopedia: Color Vision Test  - MedlinePlus Encyclopedia: Colorblind   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

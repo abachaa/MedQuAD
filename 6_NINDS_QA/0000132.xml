@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000132" source="NINDS" url="http://www.ninds.nih.gov/disorders/foot_drop/foot_drop.htm">
+<Focus>Foot Drop</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0085684</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000132-1" qtype="information">What is (are) Foot Drop ?</Question>
+			<Answer>Foot drop describes the inability to raise the front part of the foot due to weakness or paralysis of the muscles that lift the foot. As a result, individuals with foot drop scuff their toes along the ground or bend their knees to lift their foot higher than usual to avoid the scuffing, which causes what is called a steppage gait. Foot drop can be unilateral (affecting one foot) or bilateral (affecting both feet). Foot drop is a symptom of an underlying problem and is either temporary or permanent, depending on the cause. Causes include: neurodegenerative disorders of the brain that cause muscular problems, such as multiple sclerosis, stroke, and cerebral palsy; motor neuron disorders such as polio, some forms of spinal muscular atrophy and amyotrophic lateral sclerosis (commonly known as Lou Gehrigs disease); injury to the nerve roots, such as in spinal stenosis; peripheral nerve disorders such as Charcot-Marie-Tooth disease or acquired peripheral neuropathy; local compression or damage to the peroneal nerve as it passes across the fibular bone below the knee; and muscle disorders, such as muscular dystrophy or myositis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000132-2" qtype="treatment">What are the treatments for Foot Drop ?</Question>
+			<Answer>Treatment depends on the specific cause of foot drop. The most common treatment is to support the foot with light-weight leg braces and shoe inserts, called ankle-foot orthotics. Exercise therapy to strengthen the muscles and maintain joint motion also helps to improve gait. Devices that electrically stimulate the peroneal nerve during footfall are appropriate for a small number of individuals with foot drop. In cases with permanent loss of movement, surgery that fuses the foot and ankle joint or that transfers tendons from stronger leg muscles is occasionally performed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000132-3" qtype="outlook">What is the outlook for Foot Drop ?</Question>
+			<Answer>The prognosis for foot drop depends on the cause. Foot drop caused by trauma or nerve damage usually shows partial or even complete recovery. For progressive neurological disorders, foot drop will be a symptom that is likely to continue as a lifelong disability, but it will not shorten life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000132-4" qtype="research">what research (or clinical trials) is being done for Foot Drop ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts research related to the neurological conditions that cause foot drop in its laboratories at the National Institutes of Health (NIH), and also supports additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure the kinds of neurological disorders that cause foot drop.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

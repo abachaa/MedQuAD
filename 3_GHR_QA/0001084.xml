@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001084" source="GHR" url="https://ghr.nlm.nih.gov/condition/22q112-deletion-syndrome">
+<Focus>22q11.2 deletion syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1442161</CUI>
+			<CUI>C0039082</CUI>
+			<CUI>C0012236</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T049</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>22q11.2DS</Synonym>
+		<Synonym>autosomal dominant Opitz G/BBB syndrome</Synonym>
+		<Synonym>CATCH22</Synonym>
+		<Synonym>Cayler cardiofacial syndrome</Synonym>
+		<Synonym>conotruncal anomaly face syndrome (CTAF)</Synonym>
+		<Synonym>deletion 22q11.2 syndrome</Synonym>
+		<Synonym>DiGeorge syndrome</Synonym>
+		<Synonym>Sedlackova syndrome</Synonym>
+		<Synonym>Shprintzen syndrome</Synonym>
+		<Synonym>VCFS</Synonym>
+		<Synonym>velo-cardio-facial syndrome</Synonym>
+		<Synonym>velocardiofacial syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001084-1" qtype="information">What is (are) 22q11.2 deletion syndrome ?</Question>
+			<Answer>22q11.2 deletion syndrome (which is also known by several other names, listed below) is a disorder caused by the deletion of a small piece of chromosome 22. The deletion occurs near the middle of the chromosome at a location designated q11.2.  22q11.2 deletion syndrome has many possible signs and symptoms that can affect almost any part of the body. The features of this syndrome vary widely, even among affected members of the same family. Common signs and symptoms include heart abnormalities that are often present from birth, an opening in the roof of the mouth (a cleft palate), and distinctive facial features. People with 22q11.2 deletion syndrome often experience recurrent infections caused by problems with the immune system, and some develop autoimmune disorders such as rheumatoid arthritis and Graves disease in which the immune system attacks the body&apos;s own tissues and organs. Affected individuals may also have breathing problems, kidney abnormalities, low levels of calcium in the blood (which can result in seizures), a decrease in blood platelets (thrombocytopenia), significant feeding difficulties, gastrointestinal problems, and hearing loss. Skeletal differences are possible, including mild short stature and, less frequently, abnormalities of the spinal bones.  Many children with 22q11.2 deletion syndrome have developmental delays, including delayed growth and speech development, and learning disabilities. Later in life, they are at an increased risk of developing mental illnesses such as schizophrenia, depression, anxiety, and bipolar disorder. Additionally, affected children are more likely than children without 22q11.2 deletion syndrome to have attention deficit hyperactivity disorder (ADHD) and developmental conditions such as autism spectrum disorders that affect communication and social interaction.  Because the signs and symptoms of 22q11.2 deletion syndrome are so varied, different groupings of features were once described as separate conditions. Doctors named these conditions DiGeorge syndrome, velocardiofacial syndrome (also called Shprintzen syndrome), and conotruncal anomaly face syndrome. In addition, some children with the 22q11.2 deletion were diagnosed with the autosomal dominant form of Opitz G/BBB syndrome and Cayler cardiofacial syndrome. Once the genetic basis for these disorders was identified, doctors determined that they were all part of a single syndrome with many possible signs and symptoms. To avoid confusion, this condition is usually called 22q11.2 deletion syndrome, a description based on its underlying genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001084-2" qtype="frequency">How many people are affected by 22q11.2 deletion syndrome ?</Question>
+			<Answer>22q11.2 deletion syndrome affects an estimated 1 in 4,000 people. However, the condition may actually be more common than this estimate because doctors and researchers suspect it is underdiagnosed due to its variable features. The condition may not be identified in people with mild signs and symptoms, or it may be mistaken for other disorders with overlapping features.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001084-3" qtype="genetic changes">What are the genetic changes related to 22q11.2 deletion syndrome ?</Question>
+			<Answer>Most people with 22q11.2 deletion syndrome are missing a sequence of about 3 million DNA building blocks (base pairs) on one copy of chromosome 22 in each cell. This region contains 30 to 40 genes, many of which have not been well characterized. A small percentage of affected individuals have shorter deletions in the same region. This condition is described as a contiguous gene deletion syndrome because it results from the loss of many genes that are close together.  Researchers are working to identify all of the genes that contribute to the features of 22q11.2 deletion syndrome. They have determined that the loss of a particular gene on chromosome 22, TBX1, is probably responsible for many of the syndrome&apos;s characteristic signs (such as heart defects, a cleft palate, distinctive facial features, hearing loss, and low calcium levels). Some studies suggest that a deletion of this gene may contribute to behavioral problems as well. The loss of another gene, COMT, in the same region of chromosome 22 may also help explain the increased risk of behavioral problems and mental illness. The loss of additional genes in the deleted region likely contributes to the varied features of 22q11.2 deletion syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001084-4" qtype="inheritance">Is 22q11.2 deletion syndrome inherited ?</Question>
+			<Answer>The inheritance of 22q11.2 deletion syndrome is considered autosomal dominant because a deletion in one copy of chromosome 22 in each cell is sufficient to cause the condition. Most cases of 22q11.2 deletion syndrome are not inherited, however. The deletion occurs most often as a random event during the formation of reproductive cells (eggs or sperm) or in early fetal development. Affected people typically have no history of the disorder in their family, though they can pass the condition to their children. In about 10 percent of cases, a person with this condition inherits the deletion in chromosome 22 from a parent. In inherited cases, other family members may be affected as well.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001084-5" qtype="treatment">What are the treatments for 22q11.2 deletion syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of 22q11.2 deletion syndrome:  - Gene Review: Gene Review: 22q11.2 Deletion Syndrome  - Genetic Testing Registry: Asymmetric crying face association  - Genetic Testing Registry: DiGeorge sequence  - Genetic Testing Registry: Opitz G/BBB syndrome  - Genetic Testing Registry: Shprintzen syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

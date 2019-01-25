@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005219" source="GARD" url="https://rarediseases.info.nih.gov/gard/9298/pyridoxine-dependent-epilepsy">
+<Focus>Pyridoxine-dependent epilepsy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1849508</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Pyridoxine dependency</Synonym>
+		<Synonym>Pyridoxine dependency with seizures</Synonym>
+		<Synonym>Vitamin B6-dependent seizures</Synonym>
+		<Synonym>Antiquitin deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005219-1" qtype="information">What is (are) Pyridoxine-dependent epilepsy ?</Question>
+			<Answer>Pyridoxine-dependent epilepsy is a condition that involves seizures beginning in infancy or, in some cases, before birth. Those affected typically experience prolonged seizures lasting several minutes (status epilepticus). These seizures involve muscle rigidity, convulsions, and loss of consciousness (tonic-clonic seizures). Anticonvulsant drugs, which are usually given to control seizures, are ineffective in people with pyridoxine-dependent epilepsy. Instead, people with this type of seizure are medically treated with large daily doses of pyridoxine (a type of vitamin B6 found in food). Mutations in the ALDH7A1 gene cause pyridoxine-dependent epilepsy. This gene is inherited in an autosomal recessive fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005219-2" qtype="symptoms">What are the symptoms of Pyridoxine-dependent epilepsy ?</Question>
+			<Answer>What are the signs and symptoms of Pyridoxine-dependent epilepsy? Those affected by pyridoxine-dependent epilepsy typically experience prolonged seizures lasting several minutes (status epilepticus). These seizures involve muscle rigidity, convulsions, and loss of consciousness (tonic-clonic seizures). Additional features of pyridoxine-dependent epilepsy include low body temperature (hypothermia), poor muscle tone (dystonia) soon after birth, and irritability before a seizure episode. In rare instances, children with this condition do not have seizures until they are 1 to 3 years old.  If left untreated, people with this condition can develop severe brain dysfunction (encephalopathy). Even though seizures can be controlled with pyridoxine, neurological problems such as developmental delay and learning disorders may still occur. The Human Phenotype Ontology provides the following list of signs and symptoms for Pyridoxine-dependent epilepsy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of metabolism/homeostasis 90% Abnormality of movement 90% Cognitive impairment 90% EEG abnormality 90% Neurological speech impairment 90% Seizures 90% Muscular hypotonia 50% Cerebral cortical atrophy 7.5% Hepatomegaly 7.5% Strabismus 7.5% Ventriculomegaly 7.5% Autosomal recessive inheritance - Delayed speech and language development - Generalized myoclonic seizures - Generalized tonic-clonic seizures - Intellectual disability - Neonatal respiratory distress - Prenatal movement abnormality - Respiratory distress - Status epilepticus - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005219-3" qtype="causes">What causes Pyridoxine-dependent epilepsy ?</Question>
+			<Answer>What causes pyridoxine-dependent epilepsy? Mutations in the ALDH7A1 gene cause pyridoxine-dependent epilepsy. This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. The ALDH7A1 gene provides instructions for making an enzyme called -aminoadipic semialdehyde (-AASA) dehydrogenase, also known as antiquitin. This enzyme is involved in the breakdown of the protein building block (amino acid) lysine in the brain. When antiquitin is deficient, a molecule that interferes with vitamin B6 function builds up in various tissues. Pyridoxine plays a role in many processes in the body, such as the breakdown of amino acids and the productions of chemicals that transmit signals in the brain (neurotransmitters). It is unclear how a lack of pyridoxine causes the seizures that are characteristic of this condition. Some individuals with pyridoxine-dependent epilepsy do not have identified mutations in the ALDH7A1 gene. In these cases, the cause of the condition is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005219-4" qtype="treatment">What are the treatments for Pyridoxine-dependent epilepsy ?</Question>
+			<Answer>How might pyridoxine-dependent epilepsy be treated? Anticonvulsant drugs, which are usually given to control seizures, are ineffective in people with pyridoxine-dependent epilepsy. Instead, people with this type of seizure are medically treated with large daily doses of pyridoxine (a type of vitamin B6 found in food). Recent studies have focused on using a lysine-restricted diet in addition to pyridoxine. Preliminary results suggest that this treatment has the potential to help control seizures and improve developmental outcomes in children with pyridoxine-dependent epilepsy.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

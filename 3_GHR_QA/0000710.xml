@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000710" source="GHR" url="https://ghr.nlm.nih.gov/condition/myotonic-dystrophy">
+<Focus>myotonic dystrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027126</CUI>
+			<CUI>C0410226</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dystrophia myotonica</Synonym>
+		<Synonym>myotonia atrophica</Synonym>
+		<Synonym>myotonia dystrophica</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000710-1" qtype="information">What is (are) myotonic dystrophy ?</Question>
+			<Answer>Myotonic dystrophy is part of a group of inherited disorders called muscular dystrophies. It is the most common form of muscular dystrophy that begins in adulthood.  Myotonic dystrophy is characterized by progressive muscle wasting and weakness. People with this disorder often have prolonged muscle contractions (myotonia) and are not able to relax certain muscles after use. For example, a person may have difficulty releasing their grip on a doorknob or handle. Also, affected people may have slurred speech or temporary locking of their jaw.  Other signs and symptoms of myotonic dystrophy include clouding of the lens of the eye (cataracts) and abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects). In affected men, hormonal changes may lead to early balding and an inability to father a child (infertility). The features of this disorder often develop during a person&apos;s twenties or thirties, although they can occur at any age. The severity of the condition varies widely among affected people, even among members of the same family.  There are two major types of myotonic dystrophy: type 1 and type 2. Their signs and symptoms overlap, although type 2 tends to be milder than type 1. The muscle weakness associated with type 1 particularly affects the lower legs, hands, neck, and face. Muscle weakness in type 2 primarily involves the muscles of the neck, shoulders, elbows, and hips. The two types of myotonic dystrophy are caused by mutations in different genes.  A variation of type 1 myotonic dystrophy, called congenital myotonic dystrophy, is apparent at birth. Characteristic features include weak muscle tone (hypotonia), an inward- and upward-turning foot (clubfoot), breathing problems, delayed development, and intellectual disability. Some of these health problems can be life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000710-2" qtype="frequency">How many people are affected by myotonic dystrophy ?</Question>
+			<Answer>Myotonic dystrophy affects at least 1 in 8,000 people worldwide. The prevalence of the two types of myotonic dystrophy varies among different geographic and ethnic populations. In most populations, type 1 appears to be more common than type 2. However, recent studies suggest that type 2 may be as common as type 1 among people in Germany and Finland.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000710-3" qtype="genetic changes">What are the genetic changes related to myotonic dystrophy ?</Question>
+			<Answer>Myotonic dystrophy type 1 is caused by mutations in the DMPK gene, while type 2 results from mutations in the CNBP gene. The specific functions of these genes are unclear. The protein produced from the DMPK gene may play a role in communication within cells. It appears to be important for the correct functioning of cells in the heart, brain, and skeletal muscles (which are used for movement). The protein produced from the CNBP gene is found primarily in the heart and in skeletal muscles, where it probably helps regulate the function of other genes.  Similar changes in the structure of the DMPK and CNBP genes cause the two forms of myotonic dystrophy. In each case, a segment of DNA is abnormally repeated many times, forming an unstable region in the gene. The mutated gene produces an expanded version of messenger RNA, which is a molecular blueprint of the gene that is normally used to guide the production of proteins. The abnormally long messenger RNA forms clumps inside the cell that interfere with the production of many other proteins. These changes prevent muscle cells and cells in other tissues from functioning normally, which leads to the signs and symptoms of myotonic dystrophy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000710-4" qtype="inheritance">Is myotonic dystrophy inherited ?</Question>
+			<Answer>Both types of myotonic dystrophy are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, an affected person has one parent with the condition.  As myotonic dystrophy is passed from one generation to the next, the disorder generally begins earlier in life and signs and symptoms become more severe. This phenomenon, called anticipation, has been reported with both types of myotonic dystrophy. However, the evidence for anticipation appears to be strongest in myotonic dystrophy type 1. In this form of the disorder, anticipation is caused by an increase in the length of the unstable region in the DMPK gene. It is less clear whether anticipation occurs in myotonic dystrophy type 2, and the mechanism is unknown. A longer unstable region in the CNBP gene does not appear to influence the age of onset of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000710-5" qtype="treatment">What are the treatments for myotonic dystrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of myotonic dystrophy:  - Gene Review: Gene Review: Myotonic Dystrophy Type 1  - Gene Review: Gene Review: Myotonic Dystrophy Type 2  - Genetic Testing Registry: Myotonic dystrophy type 2  - Genetic Testing Registry: Steinert myotonic dystrophy syndrome  - MedlinePlus Encyclopedia: Muscular Dystrophy  - University of Washington: Myotonic Dystrophy: Making an Informed Choice About Genetic Testing   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

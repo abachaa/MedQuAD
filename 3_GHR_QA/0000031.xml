@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000031" source="GHR" url="https://ghr.nlm.nih.gov/condition/alexander-disease">
+<Focus>Alexander disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0270726</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alexander's disease</Synonym>
+		<Synonym>ALX</Synonym>
+		<Synonym>AxD</Synonym>
+		<Synonym>demyelinogenic leukodystrophy</Synonym>
+		<Synonym>dysmyelinogenic leukodystrophy</Synonym>
+		<Synonym>fibrinoid degeneration of astrocytes</Synonym>
+		<Synonym>leukodystrophy with Rosenthal fibers</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000031-1" qtype="information">What is (are) Alexander disease ?</Question>
+			<Answer>Alexander disease is a rare disorder of the nervous system. It is one of a group of disorders, called leukodystrophies, that involve the destruction of myelin. Myelin is the fatty covering that insulates nerve fibers and promotes the rapid transmission of nerve impulses. If myelin is not properly maintained, the transmission of nerve impulses could be disrupted. As myelin deteriorates in leukodystrophies such as Alexander disease, nervous system functions are impaired.  Most cases of Alexander disease begin before age 2 and are described as the infantile form. Signs and symptoms of the infantile form typically include an enlarged brain and head size (megalencephaly), seizures, stiffness in the arms and/or legs (spasticity), intellectual disability, and developmental delay. Less frequently, onset occurs later in childhood (the juvenile form) or in adulthood. Common problems in juvenile and adult forms of Alexander disease include speech abnormalities, swallowing difficulties, seizures, and poor coordination (ataxia). Rarely, a neonatal form of Alexander disease occurs within the first month of life and is associated with severe intellectual disability and developmental delay, a buildup of fluid in the brain (hydrocephalus), and seizures.  Alexander disease is also characterized by abnormal protein deposits known as Rosenthal fibers. These deposits are found in specialized cells called astroglial cells, which support and nourish other cells in the brain and spinal cord (central nervous system).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000031-2" qtype="frequency">How many people are affected by Alexander disease ?</Question>
+			<Answer>The prevalence of Alexander disease is unknown. About 500 cases have been reported since the disorder was first described in 1949.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000031-3" qtype="genetic changes">What are the genetic changes related to Alexander disease ?</Question>
+			<Answer>Mutations in the GFAP gene cause Alexander disease. The GFAP gene provides instructions for making a protein called glial fibrillary acidic protein. Several molecules of this protein bind together to form intermediate filaments, which provide support and strength to cells. Mutations in the GFAP gene lead to the production of a structurally altered glial fibrillary acidic protein. The altered protein is thought to impair the formation of normal intermediate filaments. As a result, the abnormal glial fibrillary acidic protein likely accumulates in astroglial cells, leading to the formation of Rosenthal fibers, which impair cell function. It is not well understood how impaired astroglial cells contribute to the abnormal formation or maintenance of myelin, leading to the signs and symptoms of Alexander disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000031-4" qtype="inheritance">Is Alexander disease inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  Most cases result from new mutations in the gene. These cases occur in people with no history of the disorder in their family. Rarely, an affected person inherits the mutation from one affected parent.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000031-5" qtype="treatment">What are the treatments for Alexander disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Alexander disease:  - Gene Review: Gene Review: Alexander Disease  - Genetic Testing Registry: Alexander&apos;s disease  - MedlinePlus Encyclopedia: Myelin   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

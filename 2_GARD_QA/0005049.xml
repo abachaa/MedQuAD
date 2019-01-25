@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005049" source="GARD" url="https://rarediseases.info.nih.gov/gard/2836/primary-hyperoxaluria-type-2">
+<Focus>Primary hyperoxaluria type 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268165</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HP2</Synonym>
+		<Synonym>Oxalosis 2</Synonym>
+		<Synonym>Glyoxylate reductase/hydroxypyruvate reductase deficiency</Synonym>
+		<Synonym>Glyceric aciduria</Synonym>
+		<Synonym>D-glycerate dehydrogenase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005049-1" qtype="information">What is (are) Primary hyperoxaluria type 2 ?</Question>
+			<Answer>Primary hyperoxaluria type 2  is a rare condition characterized by the overproduction of a substance called oxalate (also called oxalic acid). In the kidneys, the excess oxalate combines with calcium to form calcium oxalate, a hard compound that is the main component of kidney stones. Deposits of calcium oxalate can lead to kidney damage, kidney failure, and injury to other organs. Primary hyperoxaluria type 2 is caused by the shortage (deficiency) of an enzyme called glyoxylate reductase/hydroxypyruvate reductase (GRHPR) that normally prevents the buildup of oxalate. This enzyme shortage is caused by mutations in the GRHPR gene. Primary hyperoxaluria type 2 is inherited in an autosomal recessive pattern.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005049-2" qtype="symptoms">What are the symptoms of Primary hyperoxaluria type 2 ?</Question>
+			<Answer>What are the signs and symptoms of Primary hyperoxaluria type 2? Primary hyperoxaluria type 2 is characterized by recurrent nephrolithiasis (deposition of calcium oxalate in the kidney and urinary tract), nephrocalcinosis (deposition of calcium oxalate in the kidney tissue), and end-stage renal disease (ESRD). After ESRD, oxalosis (widespread tissue deposition of calcium oxalate) usually develops. Presenting symptoms are typically those associated with the presence of kidney stones, including hematuria, renal colic (a type of abdominal pain caused by kidney stones), or obstruction of the urinary tract. The symptoms of primary hyperoxaluria type 2 are typically less severe than primary hyperoxaluria type 1 and may be limited to kidney stone formation. Symptom onset may occur in childhood or adolescence. End stage renal disease is rarely observed in childhood. The Human Phenotype Ontology provides the following list of signs and symptoms for Primary hyperoxaluria type 2. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Renal insufficiency 5% Aminoaciduria - Autosomal recessive inheritance - Calcium oxalate nephrolithiasis - Hematuria - Hyperoxaluria - Nephrocalcinosis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005049-3" qtype="causes">What causes Primary hyperoxaluria type 2 ?</Question>
+			<Answer>What causes primary hyperoxaluria type 2? Researchers have identified more than a dozen GRHPR mutations that cause this condition. These mutations either introduce signals that disrupt production of the glyoxylate reductase/hydroxypyruvate reductase enzyme or alter its structure. As a result, enzyme activity is absent or dramatically reduced. Glyoxylate builds up because of the enzyme shortage, and is converted to a compound called oxalate instead of glycolate. Oxalate, in turn, combines with calcium to form calcium oxalate, which the body cannot readily eliminate. Deposits of calcium oxalate can lead to the characteristic features of primary hyperoxaluria type 2.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005049-4" qtype="inheritance">Is Primary hyperoxaluria type 2 inherited ?</Question>
+			<Answer>How is primary hyperoxaluria type 2 inherited? Primary hyperoxaluria type 2 is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0005049-5" qtype="treatment">What are the treatments for Primary hyperoxaluria type 2 ?</Question>
+			<Answer>How might primary hyperoxaluria type 2 be treated? The current management strategy includes high fluid intake, treatment with inhibitors of calcium oxalate crystallization, and temporary intensive dialysis for end-stage renal disease (ESRD) followed by kidney transplantation. Varying success has been reported following transplantation, with recurrence being a real possibility since hyperoxaluria and elevated L-glycerate levels persist. Careful management in the postoperative period, with attention to brisk urine output and use of calcium oxalate urinary inhibitors may help prevent complications. To date, liver-kidney transplantation has not been used in primary hyperoxaluria type 2. This strategy may be considered, however, as there is more enzyme in the liver than in other tissues. More studies are needed before liver transplantation can be recommended. Other treatment modalities needing further investigation include liver cell transplantation and recombinant gene therapy to replace the missing enzyme.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

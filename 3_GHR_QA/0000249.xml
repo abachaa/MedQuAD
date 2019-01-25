@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000249" source="GHR" url="https://ghr.nlm.nih.gov/condition/craniofacial-deafness-hand-syndrome">
+<Focus>craniofacial-deafness-hand syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011053</CUI>
+			<CUI>C0018772</CUI>
+			<CUI>C1852510</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CDHS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000249-1" qtype="information">What is (are) craniofacial-deafness-hand syndrome ?</Question>
+			<Answer>Craniofacial-deafness-hand syndrome is characterized by distinctive facial features, profound hearing loss, and hand abnormalities.  The distinctive facial features of people with craniofacial-deafness-hand syndrome result from a variety of developmental abnormalities involving the skull (cranium) and face. Affected individuals often have underdeveloped or absent nasal bones resulting in a small nose, thin nostrils, and a flattened mid-face with a flat nasal bridge. Individuals with this condition typically also have widely spaced eyes (ocular hypertelorism), narrowed openings of the eyes (narrowed palpebral fissures), a small upper jaw (hypoplastic maxilla), and a small mouth with pursed lips.  People with this condition also have profound hearing loss that is caused by abnormalities in the inner ear (sensorineural deafness). Hearing loss in these individuals is present from birth.  In affected individuals, a common abnormality of the muscles in the hand is a malformation in which all of the fingers are angled outward toward the fifth finger (ulnar deviation). People with craniofacial-deafness-hand syndrome may also have permanently bent third, fourth, and fifth fingers (camptodactyly), which can limit finger movement and lead to joint deformities called contractures. Contractures in the wrist can further impair hand movements.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000249-2" qtype="frequency">How many people are affected by craniofacial-deafness-hand syndrome ?</Question>
+			<Answer>Craniofacial-deafness-hand syndrome is an extremely rare condition. Only a few cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000249-3" qtype="genetic changes">What are the genetic changes related to craniofacial-deafness-hand syndrome ?</Question>
+			<Answer>Craniofacial-deafness-hand syndrome is caused by mutations in the PAX3 gene. The PAX3 gene plays a critical role in the formation of tissues and organs during embryonic development. To perform this function, the gene provides instructions for making a protein that attaches (binds) to specific areas of DNA to help control the activity of particular genes. During embryonic development, the PAX3 gene is active in cells called neural crest cells. These cells migrate from the developing spinal cord to specific regions in the embryo. The protein produced from the PAX3 gene directs the activity of other genes that signal neural crest cells to form specialized tissues or cell types. These include some nerve tissues, bones in the face and skull (craniofacial bones), and muscle tissue.  At least one PAX3 gene mutation has been identified in individuals with craniofacial-deafness-hand syndrome. This mutation appears to affect the ability of the PAX3 protein to bind to DNA. As a result, the PAX3 protein cannot control the activity of other genes and cannot regulate the differentiation of neural crest cells. A lack of specialization of neural crest cells leads to the impaired growth of craniofacial bones, nerve tissue, and muscles seen in craniofacial-deafness-hand syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000249-4" qtype="inheritance">Is craniofacial-deafness-hand syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000249-5" qtype="treatment">What are the treatments for craniofacial-deafness-hand syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of craniofacial-deafness-hand syndrome:  - Genetic Testing Registry: Craniofacial deafness hand syndrome  - Johns Hopkins Children&apos;s Center: Hearing Loss   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

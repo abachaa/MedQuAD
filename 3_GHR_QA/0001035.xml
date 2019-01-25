@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001035" source="GHR" url="https://ghr.nlm.nih.gov/condition/white-sponge-nevus">
+<Focus>white sponge nevus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1721005</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cannon's disease</Synonym>
+		<Synonym>familial white folded mucosal dysplasia</Synonym>
+		<Synonym>hereditary leukokeratosis</Synonym>
+		<Synonym>hereditary mucosal leukokeratosis</Synonym>
+		<Synonym>hereditary oral keratosis</Synonym>
+		<Synonym>leukokeratosis of oral mucosa</Synonym>
+		<Synonym>leukokeratosis, hereditary mucosal</Synonym>
+		<Synonym>nevus of Cannon</Synonym>
+		<Synonym>white folded gingivostomatosis</Synonym>
+		<Synonym>white gingivostomatitis</Synonym>
+		<Synonym>white sponge naevus</Synonym>
+		<Synonym>white sponge nevus of Cannon</Synonym>
+		<Synonym>white sponge nevus of mucosa</Synonym>
+		<Synonym>WSN</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001035-1" qtype="information">What is (are) white sponge nevus ?</Question>
+			<Answer>White sponge nevus is a condition characterized by the formation of white patches of tissue called nevi (singular: nevus) that appear as thickened, velvety, sponge-like tissue. The nevi are most commonly found on the moist lining of the mouth (oral mucosa), especially on the inside of the cheeks (buccal mucosa). Affected individuals usually develop multiple nevi. Rarely, white sponge nevi also occur on the mucosae (singular: mucosa) of the nose, esophagus, genitals, or anus. The nevi are caused by a noncancerous (benign) overgrowth of cells.  White sponge nevus can be present from birth but usually first appears during early childhood. The size and location of the nevi can change over time. In the oral mucosa, both sides of the mouth are usually affected. The nevi are generally painless, but the folds of extra tissue can promote bacterial growth, which can lead to infection that may cause discomfort. The altered texture and appearance of the affected tissue, especially the oral mucosa, can be bothersome for some affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001035-2" qtype="frequency">How many people are affected by white sponge nevus ?</Question>
+			<Answer>The exact prevalence of white sponge nevus is unknown, but it is estimated to affect less than 1 in 200,000 individuals worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001035-3" qtype="genetic changes">What are the genetic changes related to white sponge nevus ?</Question>
+			<Answer>Mutations in the KRT4 or KRT13 gene cause white sponge nevus. These genes provide instructions for making proteins called keratins. Keratins are a group of tough, fibrous proteins that form the structural framework of epithelial cells, which are cells that line the surfaces and cavities of the body and make up the different mucosae. The keratin 4 protein (produced from the KRT4 gene) and the keratin 13 protein (produced from the KRT13 gene) partner together to form molecules known as intermediate filaments. These filaments assemble into networks that provide strength and resilience to the different mucosae. Networks of intermediate filaments protect the mucosae from being damaged by friction or other everyday physical stresses.  Mutations in the KRT4 or KRT13 gene disrupt the structure of the keratin protein. As a result, keratin 4 and keratin 13 are mismatched and do not fit together properly, leading to the formation of irregular intermediate filaments that are easily damaged with little friction or trauma. Fragile intermediate filaments in the oral mucosa might be damaged when eating or brushing one&apos;s teeth. Damage to intermediate filaments leads to inflammation and promotes the abnormal growth and division (proliferation) of epithelial cells, causing the mucosae to thicken and resulting in white sponge nevus.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001035-4" qtype="inheritance">Is white sponge nevus inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell can be sufficient to cause the disorder. However, some people who have a mutation that causes white sponge nevus do not develop these abnormal growths; this phenomenon is called reduced penetrance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001035-5" qtype="treatment">What are the treatments for white sponge nevus ?</Question>
+			<Answer>These resources address the diagnosis or management of white sponge nevus:  - Genetic Testing Registry: White sponge nevus of cannon   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

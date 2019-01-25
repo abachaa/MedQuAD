@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000157" source="NINDS" url="http://www.ninds.nih.gov/disorders/hypersomnia/hypersomnia.htm">
+<Focus>Hypersomnia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0917799</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000157-1" qtype="information">What is (are) Hypersomnia ?</Question>
+			<Answer>Hypersomnia is characterized by recurrent episodes of excessive daytime sleepiness or prolonged nighttime sleep. Different from feeling tired due to lack of or interrupted sleep at night, persons with hypersomnia are compelled to nap repeatedly during the day, often at inappropriate times such as at work, during a meal, or in conversation. These daytime naps usually provide no relief from symptoms. Patients often have difficulty waking from a long sleep, and may feel disoriented. Other symptoms may include anxiety, increased irritation, decreased energy, restlessness, slow thinking, slow speech, loss of appetite, hallucinations, and memory difficulty. Some patients lose the ability to function in family, social, occupational, or other settings. Hypersomnia may be caused by another sleep disorder (such as narcolepsy or sleep apnea), dysfunction of the autonomic nervous system, or drug or alcohol abuse. In some cases it results from a physical problem, such as a tumor, head trauma, or injury to the central nervous system. Certain medications, or medicine withdrawal, may also cause hypersomnia. Medical conditions including multiple sclerosis, depression, encephalitis, epilepsy, or obesity may contribute to the disorder. Some people appear to have a genetic predisposition to hypersomnia; in others, there is no known cause. Typically, hypersomnia is first recognized in adolescence or young adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000157-2" qtype="treatment">What are the treatments for Hypersomnia ?</Question>
+			<Answer>Treatment is symptomatic in nature. Stimulants, such as amphetamine, methylphenidate, and modafinil, may be prescribed. Other drugs used to treat hypersomnia include clonidine, levodopa, bromocriptine, antidepressants, and monoamine oxidase inhibitors. Changes in behavior (for example avoiding night work and social activities that delay bed time) and diet may offer some relief. Patients should avoid alcohol and caffeine.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000157-3" qtype="outlook">What is the outlook for Hypersomnia ?</Question>
+			<Answer>The prognosis for persons with hypersomnia depends on the cause of the disorder. While the disorder itself is not life threatening, it can have serious consequences, such as automobile accidents caused by falling asleep while driving. The attacks usually continue indefinitely.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000157-4" qtype="research">what research (or clinical trials) is being done for Hypersomnia ?</Question>
+			<Answer>The NINDS supports and conducts research on sleep disorders such as hypersomnia. The goal of this research is to increase scientific understanding of the condition, find improved methods of diagnosing and treating it, and discover ways to prevent it.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

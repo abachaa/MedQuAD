@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005347" source="GARD" url="https://rarediseases.info.nih.gov/gard/5696/rett-syndrome">
+<Focus>Rett syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035372</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Autism, dementia, ataxia, and loss of purposeful hand use</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005347-1" qtype="information">What is (are) Rett syndrome ?</Question>
+			<Answer>Rett syndrome is a progressive, neuro-developmental condition that primarily affects girls. Affected girls appear to have normal psychomotor development during the first 6 to 18 months of life, followed by a developmental &quot;plateau,&quot; and then rapid regression in language and motor skills. Additional signs and symptoms may include repetitive, stereotypic hand movements; fits of screaming and inconsolable crying; autistic features; panic-like attacks; teeth grinding (bruxism); episodic apnea and/or hyperpnea; gait ataxia and apraxia; tremors; seizures; and slowed head growth. Some people have an atypical form of Rett syndrome that may be more mild or more severe. Classic Rett syndrome is most commonly caused by mutations in the MECP2 gene and is usually inherited in an X-linked dominant manner. The vast majority of cases are not inherited from a parent, but are due to a new mutation in the affected person. Treatment mainly focuses on the specific signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005347-2" qtype="symptoms">What are the symptoms of Rett syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Rett syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Rett syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the voice 90% Developmental regression 90% Gait disturbance 90% Neurological speech impairment 90% Stereotypic behavior 90% Abnormality of the eye 50% Cerebral cortical atrophy 50% Hypertonia 50% Incoordination 50% Kyphosis 50% Muscle weakness 50% Respiratory insufficiency 50% Scoliosis 50% Seizures 50% Sleep disturbance 50% Tremor 50% Abnormality of the autonomic nervous system 7.5% Apnea 7.5% Arrhythmia 7.5% Autism 7.5% Hemiplegia/hemiparesis 7.5% Hepatomegaly 7.5% Limitation of joint mobility 7.5% Microcephaly 7.5% Reduced bone mineral density 7.5% Self-injurious behavior 7.5% Skeletal muscle atrophy 7.5% Abnormality of the teeth - Autistic behavior - Bruxism - Cachexia - Constipation - Dystonia - EEG abnormality - EKG: T-wave abnormalities - Gait apraxia - Gait ataxia - Gastroesophageal reflux - Intellectual disability, profound - Intermittent hyperventilation - Motor deterioration - Postnatal microcephaly - Prolonged QTc interval - Short foot - Short stature - Spasticity - Truncal ataxia - X-linked dominant inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005347-3" qtype="causes">What causes Rett syndrome ?</Question>
+			<Answer>What causes Rett syndrome? Rett syndrome is typically caused by changes (mutations) in the MECP2 gene. This gene provides instructions for making a protein (MeCP2) needed for the development of the nervous system and normal brain function. Mutations in the MECP2 gene that cause Rett syndrome can change the MeCP2 protein or result in the production of too little protein, which appears to disrupt the normal function of neurons and other cells in the brain. Several conditions caused by changes in other genes (such as FOXG1 syndrome) have overlapping signs and/or symptoms of Rett syndrome. These conditions were once thought to be variant forms of Rett syndrome, but are now usually considered to be separate disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005347-4" qtype="inheritance">Is Rett syndrome inherited ?</Question>
+			<Answer>Is Rett syndrome inherited? Although Rett syndrome is a genetic disorder, less than 1 percent of recorded cases are inherited or passed from one generation to the next. Most cases are sporadic, which means the mutation occurs randomly, and are not inherited. A few families have been described with more than one affected family member. These cases helped researchers determine that Rett syndrome has an X-linked dominant pattern of inheritance. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. The inheritance is dominant if one copy of the altered gene in each cell is sufficient to cause the condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

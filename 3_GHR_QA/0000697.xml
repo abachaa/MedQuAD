@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000697" source="GHR" url="https://ghr.nlm.nih.gov/condition/myasthenia-gravis">
+<Focus>myasthenia gravis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026896</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>MG</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000697-1" qtype="information">What is (are) myasthenia gravis ?</Question>
+			<Answer>Myasthenia gravis is a disorder that causes weakness of the skeletal muscles, which are muscles that the body uses for movement. The weakness most often starts in the muscles around the eyes, causing drooping of the eyelids (ptosis) and difficulty coordinating eye movements, which results in blurred or double vision. In a form of the disorder called ocular myasthenia, the weakness remains confined to the eye muscles. In most people with myasthenia gravis, however, additional muscles in the face and neck are affected. Affected individuals may have unusual facial expressions, difficulty holding up the head, speech impairment (dysarthria), and chewing and swallowing problems (dysphagia) that may lead to choking, gagging, or drooling.  Other muscles in the body are also affected in some people with myasthenia gravis. The muscles of the arms and legs may be involved, causing affected individuals to have changes in their gait or trouble with lifting objects, rising from a seated position, or climbing stairs. The muscle weakness tends to fluctuate over time; it typically worsens with activity and improves with rest.  Weakness of the muscles in the chest wall and the muscle that separates the abdomen from the chest cavity (the diaphragm) can cause breathing problems in some people with myasthenia gravis. About 10 percent of people with this disorder experience a potentially life-threatening complication in which these respiratory muscles weaken to the point that breathing is dangerously impaired, and the affected individual requires ventilation assistance. This respiratory failure, called a myasthenic crisis, may be triggered by stresses such as infections or reactions to medications.  People can develop myasthenia gravis at any age. For reasons that are unknown, it is most commonly diagnosed in women younger than age 40 and men older than age 60. It is uncommon in children, but some infants born to women with myasthenia gravis show signs and symptoms of the disorder for the first few days or weeks of life. This temporary occurrence of symptoms is called transient neonatal myasthenia gravis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000697-2" qtype="frequency">How many people are affected by myasthenia gravis ?</Question>
+			<Answer>Myasthenia gravis affects about 20 per 100,000 people worldwide. The prevalence has been increasing in recent decades, which likely results from earlier diagnosis and better treatments leading to longer lifespans for affected individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000697-3" qtype="genetic changes">What are the genetic changes related to myasthenia gravis ?</Question>
+			<Answer>Researchers believe that variations in particular genes may increase the risk of myasthenia gravis, but the identity of these genes is unknown. Many factors likely contribute to the risk of developing this complex disorder.  Myasthenia gravis is an autoimmune disorder, which occurs when the immune system malfunctions and attacks the body&apos;s own tissues and organs. In myasthenia gravis, the immune system disrupts the transmission of nerve impulses to muscles by producing a protein called an antibody that attaches (binds) to proteins important for nerve signal transmission. Antibodies normally bind to specific foreign particles and germs, marking them for destruction, but the antibody in myasthenia gravis attacks a normal human protein. In most affected individuals, the antibody targets a protein called acetylcholine receptor (AChR); in others, the antibodies attack a related protein called muscle-specific kinase (MuSK). In both cases, the abnormal antibodies lead to a reduction of available AChR.  The AChR protein is critical for signaling between nerve and muscle cells, which is necessary for movement. In myasthenia gravis, because of the abnormal immune response, less AChR is present, which reduces signaling between nerve and muscle cells. These signaling abnormalities lead to decreased muscle movement and the muscle weakness characteristic of this condition.  It is unclear why the immune system malfunctions in people with myasthenia gravis. About 75 percent of affected individuals have an abnormally large and overactive thymus, which is a gland located behind the breastbone that plays an important role in the immune system. The thymus sometimes develops tumors (thymomas) that are usually noncancerous (benign). However, the relationship between the thymus problems and the specific immune system malfunction that occurs in myasthenia gravis is not well understood.  People with myasthenia gravis are at increased risk of developing other autoimmune disorders, including autoimmune thyroid disease and systemic lupus erythematosus. Gene variations that affect immune system function likely affect the risk of developing myasthenia gravis and other autoimmune disorders.  Some families are affected by an inherited disorder with symptoms similar to those of myasthenia gravis, but in which antibodies to the AChR or MuSK proteins are not present. This condition, which is not an autoimmune disorder, is called congenital myasthenic syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000697-4" qtype="inheritance">Is myasthenia gravis inherited ?</Question>
+			<Answer>In most cases, myasthenia gravis is not inherited and occurs in people with no history of the disorder in their family. About 3 to 5 percent of affected individuals have other family members with myasthenia gravis or other autoimmune disorders, but the inheritance pattern is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000697-5" qtype="treatment">What are the treatments for myasthenia gravis ?</Question>
+			<Answer>These resources address the diagnosis or management of myasthenia gravis:  - Cleveland Clinic  - Genetic Testing Registry: Myasthenia gravis  - Genetic Testing Registry: Myasthenia gravis with thymus hyperplasia  - MedlinePlus Encyclopedia: Acetylcholine Receptor Antibody  - MedlinePlus Encyclopedia: Tensilon Test   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

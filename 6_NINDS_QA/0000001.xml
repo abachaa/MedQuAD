@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000001" source="NINDS" url="http://www.ninds.nih.gov/disorders/absence_septum_pellucidum/absence_septum_pellucidum.htm">
+<Focus>Absence of the Septum Pellucidum</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0431371</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000001-1" qtype="information">What is (are) Absence of the Septum Pellucidum ?</Question>
+			<Answer>The septum pellucidum (SP) is a thin membrane located at the midline of the brain between the two cerebral hemispheres, or halves of the brain.. It is connected to the corpus callosum -- a collection of nerve fibers that connect the cerebral hemispherers. This rare abnormality accompanies various malformations of the brain that affect intelligence, behavior, and the neurodevelopmental process, and seizures may occur. Children who are born without this membrane and also have other abnormalities--pituitary deficiencies and abnormal development of the optic disk--have a disorder known as septo-optic dysplasia. More information about this condition can be located at the NINDS Septo-Optic Dysplasia Information Page.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000001-2" qtype="treatment">What are the treatments for Absence of the Septum Pellucidum ?</Question>
+			<Answer>Absence of the SP alone is not a disorder but is instead a characteristic noted in children with septo-optic dysplasia or other developmental anomalies.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000001-3" qtype="outlook">What is the outlook for Absence of the Septum Pellucidum ?</Question>
+			<Answer>When the absence of the septum pellucidum is part of septo-optic dysplasia, the prognosis varies according to the presence and severity of associated symptoms. By itself, absence of the septum pellucidum is not life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000001-4" qtype="research">what research (or clinical trials) is being done for Absence of the Septum Pellucidum ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system ad to use that knowledge to reduce the burden of neurological disease. The NINDS conducts and supports a wide range of studies that explore the complex mechanisms of normal brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how this process can go awry and offers hope for new means to treat and prevent developmental brain disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

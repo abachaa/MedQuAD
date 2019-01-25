@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000125" source="NINDS" url="http://www.ninds.nih.gov/disorders/syncope/syncope.htm">
+<Focus>Syncope</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039070</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000125-1" qtype="information">What is (are) Syncope ?</Question>
+			<Answer>Syncope is a medical term used to describe a temporary loss of consciousness due to the sudden decline of blood flow to the brain. Syncope is commonly called fainting or passing out. If an individual is about to faint, he or she will feel dizzy, lightheaded, or nauseous and their field of vision may white out or black out. The skin may be cold and clammy. The person drops to the floor as he or she loses consciousness. After fainting, an individual may be unconscious for a minute or two, but will revive and slowly return to normal. Syncope can occur in otherwise healthy people and affects all age groups, but occurs more often in the elderly.
+                
+Vasovagal
+                
+Carotid sinus
+                
+Situational</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000125-2" qtype="treatment">What are the treatments for Syncope ?</Question>
+			<Answer>The immediate treatment for an individual who has fainted involves checking first to see if their airway is open and they are breathing. The person should remain lying down for at least 10-15 minutes, preferably in a cool and quiet space. If this isnt possible, have the individual sit forward and lower their head below their shoulders and between their knees. Ice or cold water in a cup is refreshing. For individuals who have problems with chronic fainting spells, therapy should focus on recognizing the triggers and learning techniques to keep from fainting. At the appearance of warning signs such as lightheadedness, nausea, or cold and clammy skin, counter-pressure maneuvers that involve gripping fingers into a fist, tensing the arms, and crossing the legs or squeezing the thighs together can be used to ward off a fainting spell. If fainting spells occur often without a triggering event, syncope may be a sign of an underlying heart disease.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000125-3" qtype="outlook">What is the outlook for Syncope ?</Question>
+			<Answer>Syncope is a dramatic event and can be life-threatening if not treated properly. Generally, however, people recover completely within minutes to hours. If syncope is symptomatic of an underlying condition, then the prognosis will reflect the course of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000125-4" qtype="research">what research (or clinical trials) is being done for Syncope ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to syncope in laboratories at the NIH and support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent and treat syncope.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

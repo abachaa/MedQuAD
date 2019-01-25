@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003520" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/article/003741.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Sensitivity analysis</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0427965</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Antibiotic sensitivity testing</Synonym>
+		<Synonym>Antimicrobial susceptibility testing</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003520-1" qtype="information">What is (are) Sensitivity analysis ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="7">
+			<Question qid="0003520-7" qtype="susceptibility">Who is at risk for Sensitivity analysis? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

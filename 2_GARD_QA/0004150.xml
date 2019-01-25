@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004150" source="GARD" url="https://rarediseases.info.nih.gov/gard/8472/muckle-wells-syndrome">
+<Focus>Muckle-Wells syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268390</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Urticaria, deafness and amyloidosis</Synonym>
+		<Synonym>Urticaria-deafness-amyloidosis syndrome</Synonym>
+		<Synonym>UDA syndrome</Synonym>
+		<Synonym>Muckle Wells syndrome</Synonym>
+		<Synonym>Secondary glomerular disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004150-1" qtype="information">What is (are) Muckle-Wells syndrome ?</Question>
+			<Answer>Muckle-Wells syndrome is an autoinflammatory disease, and the intermediate form of cryopyrin-associated periodic syndrome (CAPS). Signs and symptoms may include recurrent episodes of fever, skin rash, joint pain, abdominal pain, and pinkeye; progressive sensorineural deafness; and amyloidosis. It is caused by mutations in the NLRP3 gene and is inherited in an autosomal dominant manner. Treatment includes a medication called Anakinra during acute episodes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004150-2" qtype="symptoms">What are the symptoms of Muckle-Wells syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Muckle-Wells syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Muckle-Wells syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Arthralgia 90% Arthritis 90% Broad foot 90% Cranial nerve paralysis 90% Hepatomegaly 90% Splenomegaly 90% Abdominal pain 50% Nephropathy 50% Nephrotic syndrome 50% Urticaria 50% Abnormality of temperature regulation 7.5% Abnormality of the genital system 7.5% Abnormality of the nose 7.5% Abnormality of the palate 7.5% Abnormality of the voice 7.5% Anemia 7.5% Camptodactyly of finger 7.5% Glaucoma 7.5% Hernia of the abdominal wall 7.5% Ichthyosis 7.5% Macrocephaly 7.5% Myalgia 7.5% Optic atrophy 7.5% Pes cavus 7.5% Polyneuropathy 7.5% Restrictive lung disease 7.5% Short stature 7.5% Skeletal muscle atrophy 7.5% Vasculitis 7.5% Abnormality of the skin - Autosomal dominant inheritance - Conjunctivitis - Elevated erythrocyte sedimentation rate - Episodic fever - Hearing impairment - Infantile onset - Leukocytosis - Progressive sensorineural hearing impairment - Recurrent aphthous stomatitis - Renal amyloidosis - Renal insufficiency - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

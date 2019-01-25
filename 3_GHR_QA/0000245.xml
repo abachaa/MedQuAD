@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000245" source="GHR" url="https://ghr.nlm.nih.gov/condition/costello-syndrome">
+<Focus>Costello syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0587248</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>faciocutaneoskeletal syndrome</Synonym>
+		<Synonym>FCS syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000245-1" qtype="information">What is (are) Costello syndrome ?</Question>
+			<Answer>Costello syndrome is a disorder that affects many parts of the body. This condition is characterized by delayed development and intellectual disability, loose folds of skin (which are especially noticeable on the hands and feet), unusually flexible joints, and distinctive facial features including a large mouth. Heart problems are common, including an abnormal heartbeat (arrhythmia), structural heart defects, and a type of heart disease that enlarges and weakens the heart muscle (hypertrophic cardiomyopathy). Infants with Costello syndrome may be larger than average at birth, but most have difficulty feeding and grow more slowly than other children. People with this condition have relatively short stature and may have reduced growth hormone levels. Other signs and symptoms of Costello syndrome can include tight Achilles tendons (which connect the calf muscles to the heel), weak muscle tone (hypotonia), a structural abnormality of the brain called a Chiari I malformation, skeletal abnormalities, dental problems, and problems with vision.  Beginning in early childhood, people with Costello syndrome are at an increased risk of developing certain cancerous and noncancerous tumors. The most common noncancerous tumors associated with this condition are papillomas, which are small, wart-like growths that usually develop around the nose and mouth or near the anus. The most common cancerous tumor associated with Costello syndrome is a childhood cancer called rhabdomyosarcoma, which begins in muscle tissue. Neuroblastoma, a tumor that arises in developing nerve cells, also has been reported in children and adolescents with this syndrome. In addition, some teenagers with Costello syndrome have developed transitional cell carcinoma, a form of bladder cancer that is usually seen in older adults.  The signs and symptoms of Costello syndrome overlap significantly with those of two other genetic conditions, cardiofaciocutaneous syndrome (CFC syndrome) and Noonan syndrome. In affected infants, it can be difficult to tell the three conditions apart based on their physical features. However, the conditions can be distinguished by their genetic cause and by specific patterns of signs and symptoms that develop later in childhood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000245-2" qtype="frequency">How many people are affected by Costello syndrome ?</Question>
+			<Answer>This condition is very rare; it probably affects 200 to 300 people worldwide. Reported estimates of Costello syndrome prevalence range from 1 in 300,000 to 1 in 1.25 million people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000245-3" qtype="genetic changes">What are the genetic changes related to Costello syndrome ?</Question>
+			<Answer>Mutations in the HRAS gene cause Costello syndrome. This gene provides instructions for making a protein called H-Ras, which is part of a pathway that helps control cell growth and division. Mutations that cause Costello syndrome lead to the production of an H-Ras protein that is abnormally turned on (active). The overactive protein directs cells to grow and divide constantly, which can lead to the development of cancerous and noncancerous tumors. It is unclear how mutations in the HRAS gene cause the other features of Costello syndrome, but many of the signs and symptoms probably result from cell overgrowth and abnormal cell division.  Some people with signs and symptoms of Costello syndrome do not have an identified mutation in the HRAS gene. These individuals may actually have CFC syndrome or Noonan syndrome, which are caused by mutations in related genes. The proteins produced from these genes interact with one another and with the H-Ras protein as part of the same cell growth and division pathway. These interactions help explain why mutations in different genes can cause conditions with overlapping signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000245-4" qtype="inheritance">Is Costello syndrome inherited ?</Question>
+			<Answer>Costello syndrome is considered to be an autosomal dominant condition, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Almost all reported cases have resulted from new gene mutations and have occurred in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000245-5" qtype="treatment">What are the treatments for Costello syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Costello syndrome:  - Gene Review: Gene Review: Costello Syndrome  - Genetic Testing Registry: Costello syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

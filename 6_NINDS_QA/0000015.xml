@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000015" source="NINDS" url="http://www.ninds.nih.gov/disorders/alpersdisease/alpersdisease.htm">
+<Focus>Alpers' Disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0205710</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000015-1" qtype="information">What is (are) Alpers' Disease ?</Question>
+			<Answer>Alpers&apos; disease is a progressive, neurodevelopmental, mitochondrial DNA depletion syndrome characterized by three co-occurring clinical symptoms: psychomotor regression (dementia); seizures; and liver disease. It is an autosomal recessive disease caused by mutation in the gene for the mitochondrial DNA polymerase POLG. The disease occurs in about one in 100,000 persons. Most individuals with Alpers&apos; disease do not show symptoms at birth and develop normally for weeks to years before the onset of symptoms. Diagnosis is established by testing for the POLG gene. Symptoms typically occur months before tissue samples show the mitochondrial DNA depletion, so that these depletion studies cannot be used for early diagnosis. About 80 percent of individuals with Alpers&apos; disease develop symptoms in the first two years of life, and 20 percent develop symptoms between ages 2 and 25. The first symptoms of the disorder are usually nonspecific and may include hypoglycemia secondary to underlying liver disease, failure to thrive, infection-associated encephalopathy, spasticity, myoclonus (involuntary jerking of a muscle or group of muscles), seizures, or liver failure. An increased protein level is seen in cerebrospinal fluid analysis. Cortical blindness (loss of vision due to damage to the area of the cortex that controls vision) develops in about 25 percent of cases. Gastrointestinal dysfunction and cardiomyopathy may occur. Dementia is typically episodic and often associated with an infection that occurs while another disease is in process. Seizures may be difficult to control and unrelenting seizures can cause developmental regression as well. &quot;Alpers-like&quot; disorders without liver disease are genetically different and have a different clinical course. Fewer than one-third of individuals with the &quot;Alpers-like&quot; phenotype without liver disease have POLG mutations.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000015-2" qtype="treatment">What are the treatments for Alpers' Disease ?</Question>
+			<Answer>There is no cure for Alpers&apos; disease and no way to slow its progression. Treatment is symptomatic and supportive. Anticonvulsants may be used to treat the seizures, but at times the seizures do not respond well to therapy, even at high doses. Therefore, the benefit of seizure control should be weights against what could be excessive sedation from the anticonvulsant.. Valproate should not be used since it can increase the risk of liver failure. Physical therapy may help to relieve spasticity and maintain or increase muscle tone.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000015-3" qtype="outlook">What is the outlook for Alpers' Disease ?</Question>
+			<Answer>The prognosis for individuals with Alpers&apos; disease is poor. Those with the disease usually die within their first decade of life. Continuous, unrelenting seizures often lead to death. Liver failure and cardiorespiratory failure due to brain, spinal cord, and nerve involvement may also occur.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000015-4" qtype="research">what research (or clinical trials) is being done for Alpers' Disease ?</Question>
+			<Answer>The NINDS supports research on gene-linked neurodegenerative disorders such as Alpers&apos; disease. The goals of this research are to increase scientific understanding of these disorders, and to find ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

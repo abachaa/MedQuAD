@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000005" source="NINDS" url="http://www.ninds.nih.gov/disorders/acute_encephalomyelitis/acute_encephalomyelitis.htm">
+<Focus>Acute Disseminated Encephalomyelitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014059</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000005-1" qtype="information">What is (are) Acute Disseminated Encephalomyelitis ?</Question>
+			<Answer>Acute disseminated encephalomyelitis (ADEM) is characterized by a brief but widespread attack of inflammation in the brain and spinal cord that damages myelin  the protective covering of nerve fibers. ADEM often follows viral or bacterial infections, or less often, vaccination for measles, mumps, or rubella. The symptoms of ADEM appear rapidly, beginning with encephalitis-like symptoms such as fever, fatigue, headache, nausea and vomiting, and in the most severe cases, seizures and coma. ADEM typically damages white matter (brain tissue that takes its name from the white color of myelin), leading to neurological symptoms such as visual loss (due to inflammation of the optic nerve)in one or both eyes, weakness even to the point of paralysis, and difficulty coordinating voluntary muscle movements (such as those used in walking). ADEM is sometimes misdiagnosed as a severe first attack of multiple sclerosis (MS), since the symptoms and the appearance of the white matter injury on brain imaging may be similar. However, ADEM has several features which differentiate it from MS. First, unlike MS patients, persons with ADEM will have rapid onset of fever, a history of recent infection or immunization, and some degree of impairment of consciousness, perhaps even coma; these features are not typically seen in MS. Children are more likely than adults to have ADEM, whereas MS is a rare diagnosis in children. In addition, ADEM usually consists of a single episode or attack of widespread myelin damage, while MS features many attacks over the course of time. Doctors will often use imaging techniques, such as MRI (magnetic resonance imaging), to search for old and new lesions (areas of damage) on the brain. The presence of older brain lesions on MRI suggest that the condition may be MS rather than ADEM, since MS can cause brain lesions before symptoms become obvious. In rare situations, a brain biopsy may be necessary to differentiate between ADEM and some other diseases that involve inflammation and damage to myelin..</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000005-2" qtype="treatment">What are the treatments for Acute Disseminated Encephalomyelitis ?</Question>
+			<Answer>Treatment for ADEM is targeted at suppressing inflammation in the brain using anti-inflammatory drugs. Most individuals respond to several days of intravenous corticosteroids such as methylprednisolone, followed by oral corticosteroid treatment. When corticosteroids fail to work, plasmapheresis or intravenous immunoglobulin therapy are possible secondary treatment options that are reported to help in some severe cases. Additional treatment is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000005-3" qtype="outlook">What is the outlook for Acute Disseminated Encephalomyelitis ?</Question>
+			<Answer>Corticosteroid therapy typically helps hasten recovery from most ADEM symptoms. The long-term prognosis for individuals with ADEM is generally favorable. For most individuals, recovery begins within days, and within six months the majority of ADEM patients will have total or near total recoveries. Others may have mild to moderate lifelong impairment ranging from cognitive difficulties, weakness, loss of vision, or numbness. Severe cases of ADEM can be fatal but this is a very rare occurrence. ADEM can recur, usually within months of the initial diagnosis, and is treated by restarting corticosteroids. A small fraction of individuals who are initially diagnosed as having ADEM can go on to develop MS, but there is currently no method or known risk factors to predict whom those individuals will be.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000005-4" qtype="research">what research (or clinical trials) is being done for Acute Disseminated Encephalomyelitis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to ADEM in laboratories at the NIH, and also support additional research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure demyelinating disorders such as ADEM.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000205" source="GHR" url="https://ghr.nlm.nih.gov/condition/combined-malonic-and-methylmalonic-aciduria">
+<Focus>combined malonic and methylmalonic aciduria</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268583</CUI>
+			<CUI>C3280314</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CMAMMA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000205-1" qtype="information">What is (are) combined malonic and methylmalonic aciduria ?</Question>
+			<Answer>Combined malonic and methylmalonic aciduria (CMAMMA) is a condition characterized by high levels of certain chemicals, known as malonic acid and methylmalonic acid, in the body. A distinguishing feature of this condition is higher levels of methylmalonic acid than malonic acid in the urine, although both are elevated.  The signs and symptoms of CMAMMA can begin in childhood. In some children, the buildup of acids causes the blood to become too acidic (ketoacidosis), which can damage the body&apos;s tissues and organs. Other signs and symptoms may include involuntary muscle tensing (dystonia), weak muscle tone (hypotonia), developmental delay, an inability to grow and gain weight at the expected rate (failure to thrive), low blood sugar (hypoglycemia), and coma. Some affected children have an unusually small head size (microcephaly).  Other people with CMAMMA do not develop signs and symptoms until adulthood. These individuals usually have neurological problems, such as seizures, loss of memory, a decline in thinking ability, or psychiatric diseases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000205-2" qtype="frequency">How many people are affected by combined malonic and methylmalonic aciduria ?</Question>
+			<Answer>CMAMMA appears to be a rare disease. Approximately a dozen cases have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000205-3" qtype="genetic changes">What are the genetic changes related to combined malonic and methylmalonic aciduria ?</Question>
+			<Answer>Mutations in the ACSF3 gene cause CMAMMA. This gene provides instructions for making an enzyme that plays a role in the formation (synthesis) of fatty acids. Fatty acids are building blocks used to make fats (lipids). The ACSF3 enzyme performs a chemical reaction that converts malonic acid to malonyl-CoA, which is the first step of fatty acid synthesis in cellular structures called mitochondria. Based on this activity, the enzyme is classified as a malonyl-CoA synthetase. The ACSF3 enzyme also converts methylmalonic acid to methylmalonyl-CoA, making it a methylmalonyl-CoA synthetase as well.  The effects of ACSF3 gene mutations are unknown. Researchers suspect that the mutations lead to altered enzymes that have little or no function. Because the enzyme cannot convert malonic and methylmalonic acids, they build up in the body. Damage to organs and tissues caused by accumulation of these acids may be responsible for the signs and symptoms of CMAMMA, although the mechanisms are unclear.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000205-4" qtype="inheritance">Is combined malonic and methylmalonic aciduria inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000205-5" qtype="treatment">What are the treatments for combined malonic and methylmalonic aciduria ?</Question>
+			<Answer>These resources address the diagnosis or management of CMAMMA:  - Genetic Testing Registry: Combined malonic and methylmalonic aciduria  - Organic Acidemia Association: What are Organic Acidemias?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

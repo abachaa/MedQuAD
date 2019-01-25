@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000046" source="NINDS" url="http://www.ninds.nih.gov/disorders/meralgia_paresthetica/meralgia_paresthetica.htm">
+<Focus>Meralgia Paresthetica</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0152110</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000046-1" qtype="information">What is (are) Meralgia Paresthetica ?</Question>
+			<Answer>Meralgia paresthetica is a disorder characterized by tingling, numbness, and burning pain in the outer side of the thigh. The disorder is caused by compression of the lateral femoral cutaneous nerve, a sensory nerve to the skin, as it exits the pelvis. People with the disorder often notice a patch of skin that is sensitive to touch and sometimes painful. Meralgia paresthetica should not be associated with weakness or radiating pain from the back.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000046-2" qtype="treatment">What are the treatments for Meralgia Paresthetica ?</Question>
+			<Answer>Treatment for meralgia paresthetica is symptomatic and supportive. The majority of cases improve with conservative treatment by wearing looser clothing and losing weight. Medications used to treat neurogenic pain, such as anti-seizure or anti-depressant medications, may alleviate symptoms of pain. In a few cases, in which pain is persistent or severe, surgical intervention may be indicated.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000046-3" qtype="outlook">What is the outlook for Meralgia Paresthetica ?</Question>
+			<Answer>Meralgia paresthetica usually has a good prognosis. In most cases, meralgia paresthetica will improve with conservative treatment or may even spontaneously resolve. Surgical intervention is not always fully successful.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000046-4" qtype="research">what research (or clinical trials) is being done for Meralgia Paresthetica ?</Question>
+			<Answer>Within the NINDS research programs, meralgia paresthetica is addressed primarily through studies associated with pain research. NINDS vigorously pursues a research program seeking new treatments for pain and nerve damage with the ultimate goal of reversing these debilitating conditions.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

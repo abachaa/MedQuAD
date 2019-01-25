@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000964" source="GARD" url="https://rarediseases.info.nih.gov/gard/10924/carney-triad">
+<Focus>Carney triad</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1858592</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Gastric leiomyosarcoma, pulmonary chondroma, and extraadrenal paraganglioma</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000964-1" qtype="symptoms">What are the symptoms of Carney triad ?</Question>
+			<Answer>What are the signs and symptoms of Carney triad? The Human Phenotype Ontology provides the following list of signs and symptoms for Carney triad. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abdominal pain 90% Diarrhea 90% Gastrointestinal hemorrhage 90% Nausea and vomiting 90% Neoplasm of the lung 90% Neoplasm of the stomach 90% Neuroendocrine neoplasm 90% Sarcoma 90% Abnormality of the liver 50% Abnormality of the mediastinum 50% Ascites 50% Hypercortisolism 50% Anemia 7.5% Anorexia 7.5% Arrhythmia 7.5% Hypertension 7.5% Lymphadenopathy 7.5% Migraine 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

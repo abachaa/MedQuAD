@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001136" source="GARD" url="https://rarediseases.info.nih.gov/gard/9230/chiari-malformation-type-1">
+<Focus>Chiari malformation type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0000768</CUI>
+			<CUI>C0750929</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Chiari type I malformation</Synonym>
+		<Synonym>Chiari malformation type I</Synonym>
+		<Synonym>Arnold Chiari malformation type I</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001136-1" qtype="information">What is (are) Chiari malformation type 1 ?</Question>
+			<Answer>Chiari malformation type 1 is a structural abnormality of the cerebellum, the part of the brain that controls balance. It involves the extension of the lower part of the cerebellum into the foramen magnum (the large hole at the base of the skull which allows passage of the spinal cord), without involving the brainstem. Normally, only the spinal cord passes through this opening. This malformation is the most common type of Chiari malformation and may not cause any symptoms. Depending on the symptoms present and severity, some individuals may not require treatment while others may require pain medications or surgery.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001136-2" qtype="symptoms">What are the symptoms of Chiari malformation type 1 ?</Question>
+			<Answer>What are the signs and symptoms of Chiari malformation type 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Chiari malformation type 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Areflexia of upper limbs - Arnold-Chiari type I malformation - Autosomal dominant inheritance - Babinski sign - Basilar impression - Diplopia - Dysarthria - Dysphagia - Gait ataxia - Headache - Hearing impairment - Hyperacusis - Limb muscle weakness - Lower limb hyperreflexia - Lower limb spasticity - Nystagmus - Paresthesia - Photophobia - Scoliosis - Small flat posterior fossa - Syringomyelia - Tinnitus - Unsteady gait - Urinary incontinence - Vertigo - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001136-3" qtype="causes">What causes Chiari malformation type 1 ?</Question>
+			<Answer>What causes Chiari malformation type 1? Primary or congenital Chiari malformations are caused by structural defects in the brain and spinal cord that occur during fetal development. The underlying cause of the structural defects are not completely understood, but may involve genetic mutations or lack of proper vitamins or nutrients in the maternal diet. Less frequently, Chiari malformation type 1 is acquired after birth. Causes of acquired Chiari malformation type 1 involve the excessive draining of spinal fluid from the lumbar or thoracic areas of the spine as a result of injury, exposure to harmful substances, or infection. Click here to view a diagram of the spine.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001136-4" qtype="treatment">What are the treatments for Chiari malformation type 1 ?</Question>
+			<Answer>How might Chiari malformation type 1 be treated? Some individuals with Chiari malformation type 1 are asymptomatic and do not require treatment. Individuals who have minimal symptoms, without syringomyelia, can typically be treated conservatively. Mild neck pain and headaches can usually be treated with pain medications, muscle relaxants, and the occasional use of a soft collar. Individuals with more severe symptoms may be in need of surgery. Surgery is the only treatment available to correct functional disturbances or halt the progression of damage to the central nervous system. The goals of surgical treatment are decompression of the point where the skull meets the spine (the cervicomedullary junction) and restoration of normal flow of cerebrospinal fluid in the region of the foramen magnum (the hole in the bottom of the skull where the spinal cord passes to connect to the brain). Prognosis after surgery for the condition is generally good and typically depends on the extent of neurological deficits that were present before the surgery. Most individuals have a reduction of symptoms and/or prolonged periods of relative stability. More than one surgery may be needed to treat the condition.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

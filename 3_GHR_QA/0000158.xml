@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000158" source="GHR" url="https://ghr.nlm.nih.gov/condition/cask-related-intellectual-disability">
+<Focus>CASK-related intellectual disability</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0445223</CUI>
+			<CUI>C3714756</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>CASK-related disorders</Synonym>
+		<Synonym>X-linked intellectual deficit, Najm type</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000158-1" qtype="information">What is (are) CASK-related intellectual disability ?</Question>
+			<Answer>CASK-related intellectual disability is a disorder of brain development that has two main forms: microcephaly with pontine and cerebellar hypoplasia (MICPCH), and X-linked intellectual disability (XL-ID) with or without nystagmus. Within each of these forms, males typically have more severe signs and symptoms than do females; the more severe MICPCH mostly affects females, likely because only a small number of males survive to birth.  People with MICPCH often have an unusually small head at birth, and the head does not grow at the same rate as the rest of the body, so it appears that the head is getting smaller as the body grows (progressive microcephaly). Individuals with this condition have underdevelopment (hypoplasia) of areas of the brain called the cerebellum and the pons. The cerebellum is the part of the brain that coordinates movement. The pons is located at the base of the brain in an area called the brainstem, where it transmits signals from the cerebellum to the rest of the brain.  Individuals with MICPCH have intellectual disability that is usually severe. They may have sleep disturbances and exhibit self-biting, hand flapping, or other abnormal repetitive behaviors. Seizures are also common in this form of the disorder.  People with MICPCH do not usually develop language skills, and most do not learn to walk. They have hearing loss caused by nerve problems in the inner ear (sensorineural hearing loss), and most also have abnormalities affecting the eyes. These abnormalities include underdevelopment of the nerves that carry information from the eyes to the brain (optic nerve hypoplasia), breakdown of the light-sensing tissue at the back of the eyes (retinopathy), and eyes that do not look in the same direction (strabismus). Characteristic facial features may include arched eyebrows; a short, broad nose; a lengthened area between the nose and mouth (philtrum); a protruding upper jaw (maxilla); a short chin; and large ears.  Individuals with MICPCH may have weak muscle tone (hypotonia) in the torso along with increased muscle tone (hypertonia) and stiffness (spasticity) in the limbs. Movement problems such as involuntary tensing of various muscles (dystonia) may also occur in this form of the disorder.  XL-ID with or without nystagmus (rapid, involuntary eye movements) is a milder form of CASK-related intellectual disability. The intellectual disability in this form of the disorder can range from mild to severe; some affected females have normal intelligence. About half of affected individuals have nystagmus. Seizures and rhythmic shaking (tremors) may also occur in this form.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000158-2" qtype="frequency">How many people are affected by CASK-related intellectual disability ?</Question>
+			<Answer>The prevalence of CASK-related intellectual disability is unknown. More than 50 females with MICPCH have been described in the medical literature, while only a few affected males have been described.  By contrast, more than 20 males but only a few females have been diagnosed with the milder form of the disorder, XL-ID with or without nystagmus. This form of the disorder may go unrecognized in mildly affected females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000158-3" qtype="genetic changes">What are the genetic changes related to CASK-related intellectual disability ?</Question>
+			<Answer>CASK-related intellectual disability, as its name suggests, is caused by mutations in the CASK gene. This gene provides instructions for making a protein called calcium/calmodulin-dependent serine protein kinase (CASK). The CASK protein is primarily found in nerve cells (neurons) in the brain, where it helps control the activity (expression) of other genes that are involved in brain development. It also helps regulate the movement of chemicals called neurotransmitters and of charged atoms (ions), which are necessary for signaling between neurons. Research suggests that the CASK protein may also interact with the protein produced from another gene, FRMD7, to promote development of the nerves that control eye movement (the oculomotor neural network).  Mutations in the CASK gene affect the role of the CASK protein in brain development and function, resulting in the signs and symptoms of CASK-related intellectual disability. The severe form of this disorder, MICPCH, is caused by mutations that eliminate CASK function, while mutations that impair the function of this protein cause the milder form, XL-ID with or without nystagmus. Affected individuals with nystagmus may have CASK gene mutations that disrupt the interaction between the CASK protein and the protein produced from the FRMD7 gene, leading to problems with the development of the oculomotor neural network and resulting in abnormal eye movements.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000158-4" qtype="inheritance">Is CASK-related intellectual disability inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes in each cell. In females, who have two copies of the X chromosome, one altered copy of the gene in each cell is sufficient to cause the disorder. In males, who have only one X chromosome, a mutation in the only copy of the gene in each cell causes the condition. In most cases, males experience more severe symptoms of the disorder than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000158-5" qtype="treatment">What are the treatments for CASK-related intellectual disability ?</Question>
+			<Answer>These resources address the diagnosis or management of CASK-related intellectual disability:  - Gene Review: Gene Review: CASK-Related Disorders  - Genetic Testing Registry: Mental retardation and microcephaly with pontine and cerebellar hypoplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

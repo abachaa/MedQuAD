@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000577" source="GHR" url="https://ghr.nlm.nih.gov/condition/lamellar-ichthyosis">
+<Focus>lamellar ichthyosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0079154</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>collodion baby</Synonym>
+		<Synonym>collodion baby syndrome</Synonym>
+		<Synonym>ichthyoses, lamellar</Synonym>
+		<Synonym>ichthyosis, lamellar</Synonym>
+		<Synonym>LI</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000577-1" qtype="information">What is (are) lamellar ichthyosis ?</Question>
+			<Answer>Lamellar ichthyosis is a condition that mainly affects the skin. Infants with this condition are typically born with a tight, clear sheath covering their skin called a collodion membrane. This membrane usually dries and peels off during the first few weeks of life, and then it becomes obvious that affected babies have scaly skin, and eyelids and lips that are turned outward. People with lamellar ichthyosis typically have large, dark, plate-like scales covering their skin on most of their body. Infants with lamellar ichthyosis may develop infections, an excessive loss of fluids (dehydration), and respiratory problems. Affected individuals may also have hair loss (alopecia), abnormally formed fingernails and toenails (nail dystrophy), a decreased ability to sweat (hypohidrosis), an increased sensitivity to heat, and a thickening of the skin on the palms of the hands and soles of the feet (keratoderma). Less frequently, affected individuals have reddened skin (erythema) and joint deformities (contractures).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000577-2" qtype="frequency">How many people are affected by lamellar ichthyosis ?</Question>
+			<Answer>Lamellar ichthyosis is estimated to affect 1 in 100,000 individuals in the United States. This condition is more common in Norway, where an estimated 1 in 91,000 individuals are affected.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000577-3" qtype="genetic changes">What are the genetic changes related to lamellar ichthyosis ?</Question>
+			<Answer>Mutations in one of many genes can cause lamellar ichthyosis. These genes provide instructions for making proteins that are found in the outermost layer of the skin (the epidermis). The skin abnormalities associated with lamellar ichthyosis disrupt the normal formation of the epidermis, resulting in impaired regulation of body temperature, water retention, and resistance to infections.  Mutations in the TGM1 gene are responsible for approximately 90 percent of cases of lamellar ichthyosis. The TGM1 gene provides instructions for making an enzyme called transglutaminase 1. This enzyme is involved in the formation of the cornified cell envelope, which is a structure that surrounds skin cells and helps form a protective barrier between the body and its environment. TGM1 gene mutations lead to severely reduced or absent enzyme production, which prevents the formation of the cornified cell envelope.  Mutations in other genes associated with lamellar ichthyosis are each responsible for only a small percentage of cases. In some people with lamellar ichthyosis, the cause of the disorder is unknown. Researchers have identified multiple chromosome regions that contain genes that may be associated with lamellar ichthyosis, although the specific genes have not been identified.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000577-4" qtype="inheritance">Is lamellar ichthyosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000577-5" qtype="treatment">What are the treatments for lamellar ichthyosis ?</Question>
+			<Answer>These resources address the diagnosis or management of lamellar ichthyosis:  - Foundation for Ichthyosis and Related Skin Types (FIRST): Skin Care Tips  - Gene Review: Gene Review: Autosomal Recessive Congenital Ichthyosis  - Genetic Testing Registry: Autosomal recessive congenital ichthyosis 3  - Genetic Testing Registry: Autosomal recessive congenital ichthyosis 4A  - Genetic Testing Registry: Autosomal recessive congenital ichthyosis 5  - Genetic Testing Registry: Autosomal recessive congenital ichthyosis 8  - Genetic Testing Registry: Congenital ichthyosis of skin   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

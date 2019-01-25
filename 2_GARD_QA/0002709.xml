@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002709" source="GARD" url="https://rarediseases.info.nih.gov/gard/6560/hairy-cell-leukemia">
+<Focus>Hairy cell leukemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023443</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Leukemic reticuloendotheliosis</Synonym>
+		<Synonym>HCL</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002709-1" qtype="information">What is (are) Hairy cell leukemia ?</Question>
+			<Answer>Hairy cell leukemia is a rare, slow-growing cancer of the blood in which the bone marrow makes too many B cells (lymphocytes), a type of white blood cell that fights infection. The condition is named after these excess B cells which look &apos;hairy&apos; under a microscope. As the number of leukemia cells increases, fewer healthy white blood cells, red blood cells and platelets are produced. The underlying cause of this condition is unknown. While there is no cure, treatment can lead to remission which can last for years.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

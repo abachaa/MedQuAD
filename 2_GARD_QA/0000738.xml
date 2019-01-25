@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000738" source="GARD" url="https://rarediseases.info.nih.gov/gard/5926/birdshot-chorioretinopathy">
+<Focus>Birdshot chorioretinopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1853959</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>BSCR</Synonym>
+		<Synonym>Multiple small, cream-colored lesions, symmetrically scattered mainly around the optic disk</Synonym>
+		<Synonym>Birdshot chorioretinitis</Synonym>
+		<Synonym>Birdshot retinochoroiditis</Synonym>
+		<Synonym>Birdshot retinochoroidopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000738-1" qtype="information">What is (are) Birdshot chorioretinopathy ?</Question>
+			<Answer>Birdshot chorioretinopathy is an eye condition in which painless, light-colored spots develop on the retina.  These spots are scattered in a &quot;birdshot&quot; pattern.  The effects of this condition on vision are quite variable; some individuals&apos; vision is only mildly affected, whereas others experience a significant decline in vision, the appearance of floaters (small specks that appear in one&apos;s line of sight), night blindness, and other vision problems.  Symptoms typically begin around middle age; Caucasians are affected more than individuals of other ethnicities.  The cause of birdshot chorioretinopathy is currently unknown, but it is suspected to be an autoimmune disease.  Treatment may include medications that aim to regulate the body&apos;s immune response.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000738-2" qtype="symptoms">What are the symptoms of Birdshot chorioretinopathy ?</Question>
+			<Answer>What are the signs and symptoms of Birdshot chorioretinopathy? The Human Phenotype Ontology provides the following list of signs and symptoms for Birdshot chorioretinopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Chorioretinal abnormality - Posterior uveitis - Retinal pigment epithelial atrophy - Visual impairment - Vitritis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000738-3" qtype="treatment">What are the treatments for Birdshot chorioretinopathy ?</Question>
+			<Answer>What treatments are available for birdshot chorioretinopathy? Unfortunately, there is currently no cure for birdshot chorioretinopathy.  Because this condition is rare, there are no established guidelines for treatment.  Treatment is determined based on the severity of each affected individual&apos;s symptoms.  Because birdshot chorioretinopathy is suspected to be an autoimmune disease, therapies aim to regulate the body&apos;s immune response.  Therapies may include corticosteroids such as prednisone (by injection or medication taken by mouth) or medications that suppress the immune system such as cyclosporine.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

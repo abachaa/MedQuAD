@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004465" source="GARD" url="https://rarediseases.info.nih.gov/gard/4011/norum-disease">
+<Focus>Norum disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023195</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Lecithin cholesterol acyltransferase deficiency</Synonym>
+		<Synonym>LCAT deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004465-1" qtype="information">What is (are) Norum disease ?</Question>
+			<Answer>Norum disease is an autosomal recessive disorder of lipoprotein metabolism that causes a typical triad of diffuse corneal opacities, target cell hemolytic anemia, and proteinuria with renal (kidney) failure. Two clinical forms are recognized: familial LCAT deficiency and fish-eye disease. Familial LCAT deficiency is associated with a complete absence of alpha and beta LCAT activities and results in esterification anomalies involving both HDL (alpha-LCAT activity) and LDL (beta-LCAT activity).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004465-2" qtype="symptoms">What are the symptoms of Norum disease ?</Question>
+			<Answer>What are the signs and symptoms of Norum disease? Norum disease is marked by low plasma HDL levels and corneal clouding due to accumulation of cholesterol deposits in the cornea (&apos;fish-eye&apos;). Corneal opacity is often present at birth, beginning at the periphery of the cornea and progressing gradually to the center. Hemolytic anemia, and proteinuria are other common findings. This condition may also present with: Papilledema (swelling of the optic nerve) with impaired ocular blood supply, leading to functional visual loss Signs of renal insufficiency, including hypertension Signs of atherosclerosis Xanthelasma (in end-stage disease) Hepatomegaly Splenomegaly Lymphadenopathy The Human Phenotype Ontology provides the following list of signs and symptoms for Norum disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Hemolytic anemia - Hypertriglyceridemia - Hypoalphalipoproteinemia - Normochromic anemia - Opacification of the corneal stroma - Proteinuria - Renal insufficiency - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0004465-3" qtype="causes">What causes Norum disease ?</Question>
+			<Answer>What causes Norum disease? Norum disease is caused by defects in the LCAT gene. The clinical manifestations of LCAT deficiency are probably due to a defect in LCAT-mediated cholesterol ester formation and, therefore, accumulation of unesterified cholesterol in certain tissues, such as the cornea, kidneys, and erythrocytes (red blood cells).</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0004465-4" qtype="inheritance">Is Norum disease inherited ?</Question>
+			<Answer>How is Norum disease inherited? Norum disease is transmitted as an autosomal recessive trait, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Sporadic cases have also been reported.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0004465-5" qtype="treatment">What are the treatments for Norum disease ?</Question>
+			<Answer>How might Norum disease be treated? Symptomatic treatment for anemia, renal insufficiency, and atherosclerosis is indicated. LCAT gene therapy or liver transplantation theoretically would be a treatment of choice to correct the underlying pathophysiology, but neither procedure has been reported. Short-term whole blood or plasma transfusion has been tried to replace the LCAT enzyme in some patients with familial LCAT deficiency, but it did not correct anemia, proteinuria, or lipoprotein abnormalities. Renal replacement by dialysis is necessary in those individuals who develop kidney failure. Kidney transplantation is indicated in patients with familial LCAT deficiency and renal failure. Corneal transplantation is indicated in patients with corneal opacities with severely reduced vision. Restriction of fat intake may be advisable in patients with familial LCAT deficiency, but no evidence supports its potential benefits. Because of the small but measurable risk of atherosclerosis in persons with LCAT deficiency, exercise, under the guidance of a physician, theoretically would have a role in prevention of this complication.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

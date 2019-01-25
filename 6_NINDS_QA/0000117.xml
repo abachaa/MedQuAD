@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000117" source="NINDS" url="http://www.ninds.nih.gov/disorders/encephaloceles/encephaloceles.htm">
+<Focus>Encephaloceles</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014065</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000117-1" qtype="information">What is (are) Encephaloceles ?</Question>
+			<Answer>Encephaloceles are rare neural tube defects characterized by sac-like protrusions of the brain and the membranes that cover it through openings in the skull. These defects are caused by failure of the neural tube to close completely during fetal development. The result is a groove down the midline of the upper part of the skull, or the area between the forehead and nose, or the back of the skull. When located in the back of the skull, encephaloceles are often associated with neurological problems. Usually encephaloceles are dramatic deformities diagnosed immediately after birth, but occasionally a small encephalocele in the nasal and forehead region can go undetected. Encephaloceles are often accompanied by craniofacial abnormalities or other brain malformations. Symptoms and associated abnormalities of encephaloceles may include hydrocephalus (excessive accumulation of cerebrospinal fluid in the brain), spastic quadriplegia (paralysis of the arms and legs), microcephaly (abnormally small head), ataxia (uncoordinated movement of the voluntary muscles, such as those involved in walking and reaching), developmental delay, vision problems, mental and growth retardation, and seizures. Some affected children may have normal intelligence. There is a genetic component to the condition; it often occurs in families with a history of spina bifida and anencephaly in family members.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000117-2" qtype="treatment">What are the treatments for Encephaloceles ?</Question>
+			<Answer>Generally, surgery is performed during infancy to place the protruding tissues back into the skull, remove the sac, and correct the associated craniofacial abnormalities. Even large protrusions can often be removed without causing major functional disability. Hydrocephalus associated with encephaloceles may require surgical treatment with a shunt. Other treatment is symptomatic and supportive.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000117-3" qtype="outlook">What is the outlook for Encephaloceles ?</Question>
+			<Answer>The prognosis for individuals with encephaloceles varies depending on the type of brain tissue involved, the location of the sacs, and the accompanying brain malformations.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000117-4" qtype="research">what research (or clinical trials) is being done for Encephaloceles ?</Question>
+			<Answer>The NINDS conducts and supports a wide range of studies that explore the complex mechanisms of normal brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how this process can go awry and offers hope for new means to treat and prevent congenital brain disorders including neural tube defects such as encephaloceles.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

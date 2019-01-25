@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006209" source="GARD" url="https://rarediseases.info.nih.gov/gard/5295/triploidy">
+<Focus>Triploidy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3536727</CUI>
+			<CUI>C0333693</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T049</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Triploid syndrome</Synonym>
+		<Synonym>Triploidy syndrome</Synonym>
+		<Synonym>Chromosome triploidy syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006209-1" qtype="information">What is (are) Triploidy ?</Question>
+			<Answer>Triploidy is a chromosome abnormality that occurs when there is an extra set of chromosomes present in each cell. Most pregnancies affected by triploidy are lost through early miscarriage. However, reports exist of some affected babies living up to five months. Those that survive are often mosaic. The signs and symptoms associated with triploidy vary but may include a variety of birth defects and an unusually small size. This condition does not run in families and is not associated with maternal or paternal age. Treatment is based on the signs and symptoms present in each person.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006209-2" qtype="symptoms">What are the symptoms of Triploidy ?</Question>
+			<Answer>What are the signs and symptoms of Triploidy? The Human Phenotype Ontology provides the following list of signs and symptoms for Triploidy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of chromosome segregation 90% Abnormality of the fontanelles or cranial sutures 90% Cryptorchidism 90% Decreased skull ossification 90% Displacement of the external urethral meatus 90% Hypertelorism 90% Hypoplasia of penis 90% Intrauterine growth retardation 90% Low-set, posteriorly rotated ears 90% Wide mouth 90% Abnormality of the tongue 50% Aplasia/Hypoplasia affecting the eye 50% Cataract 50% Cleft palate 50% Finger syndactyly 50% Hepatomegaly 50% Iris coloboma 50% Narrow chest 50% Non-midline cleft lip 50% Omphalocele 50% Polyhydramnios 50% Abnormality of the cardiac septa 7.5% Abnormality of the gallbladder 7.5% Abnormality of the pancreas 7.5% Aplasia/Hypoplasia of the corpus callosum 7.5% Holoprosencephaly 7.5% Hydrocephalus 7.5% Intestinal malrotation 7.5% Macrocephaly 7.5% Meningocele 7.5% Narrow mouth 7.5% Short neck 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000601" source="GHR" url="https://ghr.nlm.nih.gov/condition/liddle-syndrome">
+<Focus>Liddle syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221043</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>pseudoaldosteronism</Synonym>
+		<Synonym>pseudoprimary hyperaldosteronism</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000601-1" qtype="information">What is (are) Liddle syndrome ?</Question>
+			<Answer>Liddle syndrome is an inherited form of high blood pressure (hypertension). This condition is characterized by severe hypertension that begins unusually early in life, often in childhood, although some affected individuals are not diagnosed until adulthood. Some people with Liddle syndrome have no additional signs or symptoms, especially in childhood. Over time, however, untreated hypertension can lead to heart disease or stroke, which may be fatal.  In addition to hypertension, affected individuals can have low levels of potassium in the blood (hypokalemia). Signs and symptoms of hypokalemia include muscle weakness or pain, fatigue, constipation, or heart palpitations. The shortage of potassium can also raise the pH of the blood, a condition known as metabolic alkalosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000601-2" qtype="frequency">How many people are affected by Liddle syndrome ?</Question>
+			<Answer>Liddle syndrome is a rare condition, although its prevalence is unknown. The condition has been found in populations worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000601-3" qtype="genetic changes">What are the genetic changes related to Liddle syndrome ?</Question>
+			<Answer>Liddle syndrome is caused by mutations in the SCNN1B or SCNN1G gene. Each of these genes provides instructions for making a piece (subunit) of a protein complex called the epithelial sodium channel (ENaC). These channels are found at the surface of certain cells called epithelial cells in many tissues of the body, including the kidneys, where the channels transport sodium into cells.  In the kidney, ENaC channels open in response to signals that sodium levels in the blood are too low, which allows sodium to flow into cells. From the kidney cells, this sodium is returned to the bloodstream (a process called reabsorption) rather than being removed from the body in urine.  Mutations in the SCNN1B or SCNN1G gene change the structure of the respective ENaC subunit. The changes alter a region of the subunit that is involved in signaling for its breakdown (degradation) when it is no longer needed. As a result of the mutations, the subunit proteins are not degraded, and more ENaC channels remain at the cell surface. The increase in channels at the cell surface abnormally increases the reabsorption of sodium (followed by water), which leads to hypertension. Reabsorption of sodium into the blood is linked with removal of potassium from the blood, so excess sodium reabsorption leads to hypokalemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000601-4" qtype="inheritance">Is Liddle syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000601-5" qtype="treatment">What are the treatments for Liddle syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Liddle syndrome:  - Genetic Testing Registry: Pseudoprimary hyperaldosteronism  - Merck Manual for Health Care Professionals   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

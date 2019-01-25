@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000288" source="GHR" url="https://ghr.nlm.nih.gov/condition/dihydropyrimidine-dehydrogenase-deficiency">
+<Focus>dihydropyrimidine dehydrogenase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1959620</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>dihydropyrimidinuria</Synonym>
+		<Synonym>DPD deficiency</Synonym>
+		<Synonym>familial pyrimidemia</Synonym>
+		<Synonym>hereditary thymine-uraciluria</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000288-1" qtype="information">What is (are) dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>Dihydropyrimidine dehydrogenase deficiency is a disorder characterized by a wide range of severity, with neurological problems in some individuals and no signs or symptoms in others.  In people with severe dihydropyrimidine dehydrogenase deficiency, the disorder becomes apparent in infancy. These affected individuals have neurological problems such as recurrent seizures (epilepsy), intellectual disability, a small head size (microcephaly), increased muscle tone (hypertonia), delayed development of motor skills such as walking, and autistic behaviors that affect communication and social interaction. Other affected individuals are asymptomatic, which means they do not have any signs or symptoms of the condition. Individuals with asymptomatic dihydropyrimidine dehydrogenase deficiency may be identified only by laboratory testing.  People with dihydropyrimidine dehydrogenase deficiency, including those who otherwise exhibit no symptoms, are vulnerable to severe, potentially life-threatening toxic reactions to certain drugs called fluoropyrimidines that are used to treat cancer. Common examples of these drugs are 5-fluorouracil and capecitabine. These drugs are not broken down efficiently by people with dihydropyrimidine dehydrogenase deficiency and build up to toxic levels in the body (fluoropyrimidine toxicity). Severe inflammation and ulceration of the lining of the gastrointestinal tract (mucositis) may occur, which can lead to signs and symptoms including mouth sores, abdominal pain, bleeding, nausea, vomiting, and diarrhea. Fluoropyrimidine toxicity may also lead to low numbers of white blood cells (neutropenia), which increases the risk of infections. It can also be associated with low numbers of platelets in the blood (thrombocytopenia), which impairs blood clotting and may lead to abnormal bleeding (hemorrhage). Redness, swelling, numbness, and peeling of the skin on the palms and soles (hand-foot syndrome); shortness of breath; and hair loss may also occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000288-2" qtype="frequency">How many people are affected by dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>Severe dihydropyrimidine dehydrogenase deficiency, with its early-onset neurological symptoms, is a rare disorder. Its prevalence is unknown. However, between 2 and 8 percent of the general population may be vulnerable to toxic reactions to fluoropyrimidine drugs caused by otherwise asymptomatic dihydropyrimidine dehydrogenase deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000288-3" qtype="genetic changes">What are the genetic changes related to dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>Dihydropyrimidine dehydrogenase deficiency is caused by mutations in the DPYD gene. This gene provides instructions for making an enzyme called dihydropyrimidine dehydrogenase, which is involved in the breakdown of molecules called uracil and thymine. Uracil and thymine are pyrimidines, which are one type of nucleotide. Nucleotides are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell.  Mutations in the DPYD gene result in a lack (deficiency) of functional dihydropyrimidine dehydrogenase. Dihydropyrimidine dehydrogenase deficiency interferes with the breakdown of uracil and thymine, and results in excess quantities of these molecules in the blood, urine, and the fluid that surrounds the brain and spinal cord (cerebrospinal fluid). It is unclear how the excess uracil and thymine are related to the specific signs and symptoms of dihydropyrimidine dehydrogenase deficiency. Mutations that result in the absence (complete deficiency) of dihydropyrimidine dehydrogenase generally lead to more severe signs and symptoms than do mutations that lead to a partial deficiency of this enzyme.  Because fluoropyrimidine drugs are also broken down by the dihydropyrimidine dehydrogenase enzyme, deficiency of this enzyme leads to the drug buildup that causes fluoropyrimidine toxicity.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000288-4" qtype="inheritance">Is dihydropyrimidine dehydrogenase deficiency inherited ?</Question>
+			<Answer>Dihydropyrimidine dehydrogenase deficiency is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Depending on the severity of these mutations, people with two mutated copies of the DPYD gene in each cell may exhibit the signs and symptoms of this disorder, or they may be generally asymptomatic but at risk for toxic reactions to fluoropyrimidine drugs.  The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. However, people with one mutated copy of the DPYD gene in each cell may still experience toxic reactions to fluoropyrimidine drugs.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000288-5" qtype="treatment">What are the treatments for dihydropyrimidine dehydrogenase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of dihydropyrimidine dehydrogenase deficiency:  - Genetic Testing Registry: Dihydropyrimidine dehydrogenase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

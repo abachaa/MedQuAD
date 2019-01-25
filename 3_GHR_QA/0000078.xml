@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000078" source="GHR" url="https://ghr.nlm.nih.gov/condition/ataxia-with-oculomotor-apraxia">
+<Focus>ataxia with oculomotor apraxia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0271270</CUI>
+			<CUI>C1853761</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>adult onset ataxia with oculomotor apraxia</Synonym>
+		<Synonym>EAOH</Synonym>
+		<Synonym>early-onset ataxia with ocular motor apraxia and hypoalbuminemia</Synonym>
+		<Synonym>SCAN2</Synonym>
+		<Synonym>SCAR1</Synonym>
+		<Synonym>spinocerebellar ataxia with axonal neuropathy type 2</Synonym>
+		<Synonym>spinocerebellar ataxia, recessive, non-Friedreich type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000078-1" qtype="information">What is (are) ataxia with oculomotor apraxia ?</Question>
+			<Answer>Ataxia with oculomotor apraxia is a condition characterized by progressive problems with movement. The hallmark of this condition is difficulty coordinating movements (ataxia), which is often the first symptom. Most affected people also have oculomotor apraxia, which makes it difficult to move their eyes side-to-side. People with oculomotor apraxia have to turn their head to see things in their side (peripheral) vision.  There are multiple types of ataxia with oculomotor apraxia. The types are very similar but are caused by mutations in different genes. The two most common types (types 1 and 2) share features, in addition to ataxia and oculomotor apraxia, that include involuntary jerking movements (chorea), muscle twitches (myoclonus), and disturbances in nerve function (neuropathy). In type 1, ataxia beings around age 4; in type 2, ataxia begins around age 15. Chorea and myoclonus tend to disappear gradually in type 1; these movement problems persist throughout life in type 2. Individuals with type 1 often develop wasting (atrophy) in their hands and feet, which further impairs movement. Nearly all individuals with ataxia with oculomotor apraxia develop neuropathy, which leads to absent reflexes and weakness. Neuropathy causes many individuals with this condition to require wheelchair assistance, typically 10 to 15 years after the start of movement problems. Intelligence is usually not affected by this condition, but some people have intellectual disability.  People with ataxia with oculomotor apraxia type 1 tend to have decreased amounts of a protein called albumin, which transports molecules in the blood. This decrease in albumin likely causes an increase in the amount of cholesterol circulating in the bloodstream. Increased cholesterol levels may raise a person&apos;s risk of developing heart disease. People with ataxia with oculomotor apraxia type 2 have increased blood cholesterol, but they have normal albumin levels. Individuals with type 2 tend to have high amounts of a protein called alpha-fetoprotein (AFP) in their blood. (An increase in the level of this protein is normally seen in the bloodstream of pregnant women.) Affected individuals may also have high amounts of a protein called creatine phosphokinase (CPK) in their blood. This protein is found mainly in muscle tissue. The effect of abnormally high levels of AFP or CPK in people with ataxia with oculomotor apraxia type 2 is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000078-2" qtype="frequency">How many people are affected by ataxia with oculomotor apraxia ?</Question>
+			<Answer>Ataxia with oculomotor apraxia is a rare condition. Type 1 is a common form of ataxia in Portugal and Japan. Type 2 is estimated to occur in 1 in 900,000 individuals worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000078-3" qtype="genetic changes">What are the genetic changes related to ataxia with oculomotor apraxia ?</Question>
+			<Answer>Mutations in the APTX and SETX genes cause ataxia with oculomotor apraxia types 1 and 2, respectively. These genes provide instructions for making proteins that are involved in DNA repair.  Mutations in the APTX or SETX gene decrease the amount of functional protein that is available to repair damaged DNA, which leads to the accumulation of breaks in DNA. These breaks can be caused by natural and medical radiation or other environmental exposures, and also occur when chromosomes exchange genetic material in preparation for cell division. DNA damage that is not repaired causes the cell to be unstable and can lead to cell death. It is thought that nerve cells in the brain are particularly affected by cell death because these cells do not copy (replicate) themselves to replace cells that have been lost. The part of the brain involved in coordinating movements (the cerebellum) is especially affected. It is thought that the loss of brain cells in the cerebellum causes the movement problems characteristic of ataxia with oculomotor apraxia.  Mutations in other genes are responsible for the rare types of ataxia with oculomotor apraxia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000078-4" qtype="inheritance">Is ataxia with oculomotor apraxia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000078-5" qtype="treatment">What are the treatments for ataxia with oculomotor apraxia ?</Question>
+			<Answer>These resources address the diagnosis or management of ataxia with oculomotor apraxia:  - Gene Review: Gene Review: Ataxia with Oculomotor Apraxia Type 1  - Gene Review: Gene Review: Ataxia with Oculomotor Apraxia Type 2  - Genetic Testing Registry: Adult onset ataxia with oculomotor apraxia  - Genetic Testing Registry: Ataxia-oculomotor apraxia 3  - Genetic Testing Registry: Ataxia-oculomotor apraxia 4  - Genetic Testing Registry: Spinocerebellar ataxia autosomal recessive 1  - MedlinePlus Encyclopedia: Apraxia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

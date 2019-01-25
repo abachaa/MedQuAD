@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000274" source="GHR" url="https://ghr.nlm.nih.gov/condition/deafness-dystonia-optic-neuronopathy-syndrome">
+<Focus>deafness-dystonia-optic neuronopathy syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0796074</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Deafness-dystonia syndrome</Synonym>
+		<Synonym>Mohr-Tranebjrg syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000274-1" qtype="information">What is (are) deafness-dystonia-optic neuronopathy syndrome ?</Question>
+			<Answer>Deafness-dystonia-optic neuronopathy (DDON) syndrome, also known as Mohr-Tranebjrg syndrome, is characterized by hearing loss that begins early in life, problems with movement, impaired vision, and behavior problems. This condition occurs almost exclusively in males.  The first symptom of DDON syndrome is hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss), which begins in early childhood. The hearing impairment worsens over time, and most affected individuals have profound hearing loss by age 10.  People with DDON syndrome typically begin to develop problems with movement during their teens, although the onset of these symptoms varies among affected individuals. Some people experience involuntary tensing of the muscles (dystonia), while others have difficulty coordinating movements (ataxia). The problems with movement usually worsen over time.  Individuals with DDON syndrome have normal vision during childhood, but they may begin to develop an increased sensitivity to light (photophobia) or other vision problems during their teens. These people often have a slowly progressive reduction in the sharpness of vision (visual acuity) and become legally blind in mid-adulthood.  People with this condition may also have behavior problems, including changes in personality and aggressive or paranoid behaviors. They also usually develop a gradual decline in thinking and reasoning abilities (dementia) in their forties. The lifespan of individuals with DDON syndrome depends on the severity of the disorder. People with severe cases have survived into their teenage years, while those with milder cases have lived into their sixties.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000274-2" qtype="frequency">How many people are affected by deafness-dystonia-optic neuronopathy syndrome ?</Question>
+			<Answer>DDON syndrome is a rare disorder; it has been reported in fewer than 70 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000274-3" qtype="genetic changes">What are the genetic changes related to deafness-dystonia-optic neuronopathy syndrome ?</Question>
+			<Answer>Mutations in the TIMM8A gene cause DDON syndrome. The protein produced from this gene is found inside the energy-producing centers of cells (mitochondria). The TIMM8A protein forms a complex (a group of proteins that work together) with a very similar protein called TIMM13. This complex functions by transporting other proteins within the mitochondria.  Most mutations in the TIMM8A gene result in the absence of functional TIMM8A protein inside the mitochondria, which prevents the formation of the TIMM8A/TIMM13 complex. Researchers believe that the lack of this complex leads to abnormal protein transport, although it is unclear how abnormal protein transport affects the function of the mitochondria and causes the signs and symptoms of DDON syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000274-4" qtype="inheritance">Is deafness-dystonia-optic neuronopathy syndrome inherited ?</Question>
+			<Answer>DDON syndrome is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause DDON syndrome. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. Females who carry one altered copy of the TIMM8A gene are typically unaffected; however, they may develop mild hearing loss and dystonia. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000274-5" qtype="treatment">What are the treatments for deafness-dystonia-optic neuronopathy syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of deafness-dystonia-optic neuronopathy syndrome:  - Gene Review: Gene Review: Deafness-Dystonia-Optic Neuronopathy Syndrome  - Genetic Testing Registry: Mohr-Tranebjaerg syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

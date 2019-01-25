@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006358" source="GARD" url="https://rarediseases.info.nih.gov/gard/5493/vipoma">
+<Focus>VIPoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1881600</CUI>
+			<CUI>C0011993</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Vasoactive intestinal peptide (VIP) tumor</Synonym>
+		<Synonym>Pancreatic VIPoma</Synonym>
+		<Synonym>Vasoactive intestinal peptide-producing tumor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006358-1" qtype="information">What is (are) VIPoma ?</Question>
+			<Answer>VIPoma is a rare cancer that develops within the pancreas. This tumor causes pancreatic cells to produce high levels of a hormone called vasoactive intestinal peptide (VIP). The signs and symptoms of a VIPoma include abdominal pain, flushing or redness of the face, nausea, watery diarrhea, weight loss, dehydration, and low blood potassium (hypokalemia). VIPomas are usually diagnosed in adults around age 50. The cause of VIPoma is unknown. Treatment may include intravenous (IV) fluids to correct dehydration, medications such as octreotide to help control diarrhea, and surgery to remove the tumor.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006358-2" qtype="treatment">What are the treatments for VIPoma ?</Question>
+			<Answer>How might VIPoma be treated? Treatment for VIPoma may include intravenous (IV) fluids to correct dehydration, medications such as octreotide to help control diarrhea, and surgery to remove the tumor. If the tumor has spread (metastasized) to the liver or other tissues, treatment may involve chemotherapy, radiofrequency ablation, or hepatic artery embolization.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

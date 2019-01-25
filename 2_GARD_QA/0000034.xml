@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000034" source="GARD" url="https://rarediseases.info.nih.gov/gard/9499/aceruloplasminemia">
+<Focus>Aceruloplasminemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0878682</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ceruloplasmin deficiency</Synonym>
+		<Synonym>Familial apoceruloplasmin deficiency</Synonym>
+		<Synonym>Hereditary ceruloplasmin deficiency</Synonym>
+		<Synonym>Hypoceruloplasminemia</Synonym>
+		<Synonym>Systemic hemosiderosis due to aceruloplasminemia</Synonym>
+		<Synonym>Neurodegeneration with brain iron accumulation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000034-1" qtype="information">What is (are) Aceruloplasminemia ?</Question>
+			<Answer>Aceruloplasminemia is a disorder of iron metabolism. This disorder causes iron to build-up in the body. Signs and symptoms begin in adulthood. People with this disorder tend to develop anemia and diabetes in their 20&apos;s. As the condition progresses, movement problems are common, such as tremors, chorea, ataxia, eyelid twitching, and grimacing. Some experience psychiatric problems and dementia in their 40&apos;s and 50&apos;s. Eye examination may reveal changes in the retina, but these changes typically do not affect vision. Aceruloplasminemia is caused by mutations in the CP gene and are inherited in an autosomal recessive fashion.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000034-2" qtype="symptoms">What are the symptoms of Aceruloplasminemia ?</Question>
+			<Answer>What are the signs and symptoms of Aceruloplasminemia? The Human Phenotype Ontology provides the following list of signs and symptoms for Aceruloplasminemia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal renal physiology 90% Abnormality of iron homeostasis 90% Anemia 90% Chorea 90% Diabetes mellitus 90% Retinopathy 90% Tremor 90% Behavioral abnormality 50% Developmental regression 50% Hypertonia 50% Incoordination 50% Neurological speech impairment 50% Congestive heart failure 7.5% Hypothyroidism 7.5% Memory impairment 7.5% Abnormality of extrapyramidal motor function - Adult onset - Ataxia - Autosomal recessive inheritance - Blepharospasm - Cogwheel rigidity - Dementia - Dysarthria - Increased serum ferritin - Retinal degeneration - Scanning speech - Torticollis - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000034-3" qtype="exams and tests">How to diagnose Aceruloplasminemia ?</Question>
+			<Answer>How might aceruloplasminemia be diagnosed? When a person has more than one of the following symptoms, aceruloplasminemia should be suspected: Diabetes mellitus Retinal degeneration Anemia Movement disorder Diagnosis can be further supported by MRI and pathology results demonstrating iron deposition in the body. People with aceruloplasminemia tend to have low serum copper (&lt;10 ug/dL), low serum iron (&lt; 45 ug/dL), high serum ferritin (850-4000 ng/mL) and absent serum ceruloplasmin concentration. Patients also tend to demonstrate altered serum ceruloplasmin ferroxidase activity. Genetic testing is available on a research basis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

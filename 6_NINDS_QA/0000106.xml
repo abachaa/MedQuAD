@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000106" source="NINDS" url="http://www.ninds.nih.gov/disorders/diabetic/diabetic.htm">
+<Focus>Diabetic Neuropathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011882</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000106-1" qtype="information">What is (are) Diabetic Neuropathy ?</Question>
+			<Answer>Diabetic neuropathy is a peripheral nerve disorder caused by diabetes or poor blood sugar control. The most common types of diabetic neuropathy result in problems with sensation in the feet. It can develop slowly after many years of diabetes or may occur early in the disease. The symptoms are numbness, pain, or tingling in the feet or lower legs. The pain can be intense and require treatment to relieve the discomfort. The loss of sensation in the feet may also increase the possibility that foot injuries will go unnoticed and develop into ulcers or lesions that become infected. In some cases, diabetic neuropathy can be associated with difficulty walking and some weakness in the foot muscles. There are other types of diabetic-related neuropathies that affect specific parts of the body. For example, diabetic amyotrophy causes pain, weakness and wasting of the thigh muscles, or cranial nerve infarcts that may result in double vision, a drooping eyelid, or dizziness. Diabetes can also affect the autonomic nerves that control blood pressure, the digestive tract, bladder function, and sexual organs. Problems with the autonomic nerves may cause lightheadedness, indigestion, diarrhea or constipation, difficulty with bladder control, and impotence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000106-2" qtype="treatment">What are the treatments for Diabetic Neuropathy ?</Question>
+			<Answer>The goal of treating diabetic neuropathy is to prevent further tissue damage and relieve discomfort. The first step is to bring blood sugar levels under control by diet and medication. Another important part of treatment involves taking special care of the feet by wearing proper fitting shoes and routinely checking the feet for cuts and infections. Analgesics, low doses of antidepressants, and some anticonvulsant medications may be prescribed for relief of pain, burning, or tingling. Some individuals find that walking regularly, taking warm baths, or using elastic stockings may help relieve leg pain.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000106-3" qtype="outlook">What is the outlook for Diabetic Neuropathy ?</Question>
+			<Answer>The prognosis for diabetic neuropathy depends largely on how well the underlying condition of diabetes is handled. Treating diabetes may halt progression and improve symptoms of the neuropathy, but recovery is slow. The painful sensations of diabetic neuropathy may become severe enough to cause depression in some patients.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000106-4" qtype="research">what research (or clinical trials) is being done for Diabetic Neuropathy ?</Question>
+			<Answer>The NINDS conducts and supports research on diabetic neuropathy to increase understanding of the disorder and find ways to prevent and cure it. New medications are currently being examined to assess improvement or stabilization of neuropathic symptoms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

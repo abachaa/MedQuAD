@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000476" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-spherocytosis">
+<Focus>hereditary spherocytosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0553720</CUI>
+			<CUI>C0037889</CUI>
+			<CUI>C2674218</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital spherocytic hemolytic anemia</Synonym>
+		<Synonym>congenital spherocytosis</Synonym>
+		<Synonym>HS</Synonym>
+		<Synonym>spherocytic anemia</Synonym>
+		<Synonym>spherocytosis, type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000476-1" qtype="information">What is (are) hereditary spherocytosis ?</Question>
+			<Answer>Hereditary spherocytosis is a condition that affects red blood cells. People with this condition typically experience a shortage of red blood cells (anemia), yellowing of the eyes and skin (jaundice), and an enlarged spleen (splenomegaly). Most newborns with hereditary spherocytosis have severe anemia, although it improves after the first year of life. Splenomegaly can occur anytime from early childhood to adulthood. About half of affected individuals develop hard deposits in the gallbladder called gallstones, which typically occur from late childhood to mid-adulthood.  There are four forms of hereditary spherocytosis, which are distinguished by the severity of signs and symptoms. They are known as the mild form, the moderate form, the moderate/severe form, and the severe form. It is estimated that 20 to 30 percent of people with hereditary spherocytosis have the mild form, 60 to 70 percent have the moderate form, 10 percent have the moderate/severe form, and 3 to 5 percent have the severe form.  People with the mild form may have very mild anemia or sometimes have no symptoms. People with the moderate form typically have anemia, jaundice, and splenomegaly. Many also develop gallstones. The signs and symptoms of moderate hereditary spherocytosis usually appear in childhood. Individuals with the moderate/severe form have all the features of the moderate form but also have severe anemia. Those with the severe form have life-threatening anemia that requires frequent blood transfusions to replenish their red blood cell supply. They also have severe splenomegaly, jaundice, and a high risk for developing gallstones. Some individuals with the severe form have short stature, delayed sexual development, and skeletal abnormalities.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000476-2" qtype="frequency">How many people are affected by hereditary spherocytosis ?</Question>
+			<Answer>Hereditary spherocytosis occurs in 1 in 2,000 individuals of Northern European ancestry. This condition is the most common cause of inherited anemia in that population. The prevalence of hereditary spherocytosis in people of other ethnic backgrounds is unknown, but it is much less common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000476-3" qtype="genetic changes">What are the genetic changes related to hereditary spherocytosis ?</Question>
+			<Answer>Mutations in at least five genes cause hereditary spherocytosis. These genes provide instructions for producing proteins that are found on the membranes of red blood cells. These proteins transport molecules into and out of cells, attach to other proteins, and maintain cell structure. Some of these proteins allow for cell flexibility; red blood cells have to be flexible to travel from the large blood vessels (arteries) to the smaller blood vessels (capillaries). The proteins allow the cell to change shape without breaking when passing through narrow capillaries.  Mutations in red blood cell membrane proteins result in an overly rigid, misshapen cell. Instead of a flattened disc shape, these cells are spherical. Dysfunctional membrane proteins interfere with the cell&apos;s ability to change shape when traveling through the blood vessels. The misshapen red blood cells, called spherocytes, are removed from circulation and taken to the spleen for destruction. Within the spleen, the red blood cells break down (undergo hemolysis). The shortage of red blood cells in circulation and the abundance of cells in the spleen are responsible for the signs and symptoms of hereditary spherocytosis.  Mutations in the ANK1 gene are responsible for approximately half of all cases of hereditary spherocytosis. The other genes associated with hereditary spherocytosis each account for a smaller percentage of cases of this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000476-4" qtype="inheritance">Is hereditary spherocytosis inherited ?</Question>
+			<Answer>In about 75 percent of cases, hereditary spherocytosis is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  This condition can also be inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000476-5" qtype="treatment">What are the treatments for hereditary spherocytosis ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary spherocytosis:  - Genetic Testing Registry: Hereditary spherocytosis  - Genetic Testing Registry: Spherocytosis type 2  - Genetic Testing Registry: Spherocytosis type 3  - Genetic Testing Registry: Spherocytosis type 4  - Genetic Testing Registry: Spherocytosis type 5  - Genetic Testing Registry: Spherocytosis, type 1, autosomal recessive  - Seattle Children&apos;s Hospital: Hereditary Spherocytosis Treatment Options   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

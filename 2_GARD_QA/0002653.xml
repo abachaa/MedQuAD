@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002653" source="GARD" url="https://rarediseases.info.nih.gov/gard/6542/gorhams-disease">
+<Focus>Gorham's disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0029438</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cystic angiomatosis of bone diffuse</Synonym>
+		<Synonym>Gorham-Stout syndrome</Synonym>
+		<Synonym>Gorham-Stout disease</Synonym>
+		<Synonym>Osteolysis massive</Synonym>
+		<Synonym>Vanishing bone disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002653-1" qtype="information">What is (are) Gorham's disease ?</Question>
+			<Answer>Gorham&apos;s disease is a rare bone disorder that is characterized by bone loss (osteolysis), often associated with swelling or abnormal blood vessel growth (angiomatous proliferation). Bone loss can occur in just one bone, or spread to soft tissue and adjacent bones. It may affect any part of the skeleton, but most commonly involves the skull, shoulder, and pelvis. The cause of Gorham&apos;s disease is currently unknown.  Most cases occur randomly. Treatment is based on the signs and symptoms present in each affected person, and most commonly involves surgery and/or radiation therapy. In some cases, Gorham&apos;s disease improves without treatment (spontaneous remission).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002653-2" qtype="symptoms">What are the symptoms of Gorham's disease ?</Question>
+			<Answer>What are the signs and symptoms of Gorham&apos;s disease? Most cases of Gorham&apos;s disease are discovered before the age of 40. Symptoms vary among affected people and depend on the area of the body involved. The most commonly involved sites are the skull, jaw, shoulder, rib cage, and pelvis. The degree of complications ranges from mild to severe, or even life-threatening. In some cases, affected people may rapidly develop pain and swelling in the affected area, or a fracture on the affected site. Others may experience a dull pain or ache, limitation of motion, or generalized weakness that builds over time. Some people don&apos;t have any symptoms. Complications from Gorham&apos;s disease may occur when fluids build-up in the space between the membrane that surround each lung and line the chest cavity (pleural effusion). This can have serious consequences, including loss of protein, malnutrition, and respiratory distress and failure. The Human Phenotype Ontology provides the following list of signs and symptoms for Gorham&apos;s disease. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal dominant inheritance - Cystic angiomatosis of bone - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002653-3" qtype="treatment">What are the treatments for Gorham's disease ?</Question>
+			<Answer>How might Gorham disease be treated? No specific therapy exists for people with Gorham&apos;s disease. Certain treatments may be effective in some, but not others. Several different methods are often used before finding one that is effective. In some cases, treatment may not be necessary. Most people require intense treatment, especially if the disease has spread to other areas of the body or if there is extensive involvement in the spine and skull. Treatment options include radiation therapy, steroids, and/or surgery that may involve bone grafting. Other treatments might include biphosphonates (such as pamidronate or zoledronic acid) and alpha-2b interferon. These treatments have led to improvement of symptoms in some cases. More research is necessary to determine the long-term safety and effectiveness of these therapies in people with Gorham&apos;s disease.  All treatments (pharmacological and surgical) are all still considered to be experimental since there have been no studies done to examine the effectiveness of anything used to date. In general, no single treatment has been proven effective in stopping the progression of the disease.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

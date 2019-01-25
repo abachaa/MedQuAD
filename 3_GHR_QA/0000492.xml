@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000492" source="GHR" url="https://ghr.nlm.nih.gov/condition/hypercholesterolemia">
+<Focus>hypercholesterolemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1522133</CUI>
+			<CUI>C0020443</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Elevated cholesterol</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000492-1" qtype="information">What is (are) hypercholesterolemia ?</Question>
+			<Answer>Hypercholesterolemia is a condition characterized by very high levels of cholesterol in the blood. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals (particularly egg yolks, meat, poultry, fish, and dairy products). The body needs this substance to build cell membranes, make certain hormones, and produce compounds that aid in fat digestion. Too much cholesterol, however, increases a person&apos;s risk of developing heart disease.  People with hypercholesterolemia have a high risk of developing a form of heart disease called coronary artery disease. This condition occurs when excess cholesterol in the bloodstream is deposited in the walls of blood vessels, particularly in the arteries that supply blood to the heart (coronary arteries). The abnormal buildup of cholesterol forms clumps (plaque) that narrow and harden artery walls. As the clumps get bigger, they can clog the arteries and restrict the flow of blood to the heart. The buildup of plaque in coronary arteries causes a form of chest pain called angina and greatly increases a person&apos;s risk of having a heart attack.  Inherited forms of hypercholesterolemia can also cause health problems related to the buildup of excess cholesterol in other tissues. If cholesterol accumulates in tendons, it causes characteristic growths called tendon xanthomas. These growths most often affect the Achilles tendons and tendons in the hands and fingers. Yellowish cholesterol deposits under the skin of the eyelids are known as xanthelasmata. Cholesterol can also accumulate at the edges of the clear, front surface of the eye (the cornea), leading to a gray-colored ring called an arcus cornealis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000492-2" qtype="frequency">How many people are affected by hypercholesterolemia ?</Question>
+			<Answer>More than 34 million American adults have elevated blood cholesterol levels (higher than 240 mg/dL). Inherited forms of hypercholesterolemia, which cause even higher levels of cholesterol, occur less frequently. The most common inherited form of high cholesterol is called familial hypercholesterolemia. This condition affects about 1 in 500 people in most countries. Familial hypercholesterolemia occurs more frequently in certain populations, including Afrikaners in South Africa, French Canadians, Lebanese, and Finns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000492-3" qtype="genetic changes">What are the genetic changes related to hypercholesterolemia ?</Question>
+			<Answer>Mutations in the APOB, LDLR, LDLRAP1, and PCSK9 genes cause hypercholesterolemia.  High blood cholesterol levels typically result from a combination of genetic and environmental risk factors. Lifestyle choices including diet, exercise, and tobacco smoking strongly influence the amount of cholesterol in the blood. Additional factors that impact cholesterol levels include a person&apos;s gender, age, and health problems such as diabetes and obesity. A small percentage of all people with high cholesterol have an inherited form of hypercholesterolemia. The most common cause of inherited high cholesterol is a condition known as familial hypercholesterolemia, which results from mutations in the LDLR gene.  The LDLR gene provides instructions for making a protein called a low-density lipoprotein receptor. This type of receptor binds to particles called low-density lipoproteins (LDLs), which are the primary carriers of cholesterol in the blood. By removing low-density lipoproteins from the bloodstream, these receptors play a critical role in regulating cholesterol levels. Some LDLR mutations reduce the number of low-density lipoprotein receptors produced within cells. Other mutations disrupt the receptors&apos; ability to remove low-density lipoproteins from the bloodstream. As a result, people with mutations in the LDLR gene have very high levels of blood cholesterol. As the excess cholesterol circulates through the bloodstream, it is deposited abnormally in tissues such as the skin, tendons, and arteries that supply blood to the heart.  Less commonly, hypercholesterolemia can be caused by mutations in the APOB, LDLRAP1, or PCSK9 gene. Changes in the APOB gene result in a form of inherited hypercholesterolemia known as familial defective apolipoprotein B-100 (FDB). LDLRAP1 mutations are responsible for another type of inherited high cholesterol, autosomal recessive hypercholesterolemia (ARH). Proteins produced from the APOB, LDLRAP1, and PCSK9 genes are essential for the normal function of low-density lipoprotein receptors. Mutations in any of these genes prevent the cell from making functional receptors or alter the receptors&apos; function. Hypercholesterolemia results when low-density lipoprotein receptors are unable to remove cholesterol from the blood effectively.  Researchers are working to identify and characterize additional genes that may influence cholesterol levels and the risk of heart disease in people with hypercholesterolemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000492-4" qtype="inheritance">Is hypercholesterolemia inherited ?</Question>
+			<Answer>Most cases of high cholesterol are not caused by a single inherited condition, but result from a combination of lifestyle choices and the effects of variations in many genes.  Inherited forms of hypercholesterolemia resulting from mutations in the LDLR, APOB, or PCSK9 gene have an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of an altered gene in each cell is sufficient to cause the disorder. An affected person typically inherits one altered copy of the gene from an affected parent and one normal copy of the gene from the other parent.  Rarely, a person with familial hypercholesterolemia is born with two mutated copies of the LDLR gene. This situation occurs when the person has two affected parents, each of whom passes on one altered copy of the gene. The presence of two LDLR mutations results in a more severe form of hypercholesterolemia that usually appears in childhood.  When hypercholesterolemia is caused by mutations in the LDLRAP1 gene, the condition is inherited in an autosomal recessive pattern. Autosomal recessive inheritance means the condition results from two altered copies of the gene in each cell. The parents of an individual with autosomal recessive hypercholesterolemia each carry one copy of the altered gene, but their blood cholesterol levels are usually in the normal range.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000492-5" qtype="treatment">What are the treatments for hypercholesterolemia ?</Question>
+			<Answer>These resources address the diagnosis or management of hypercholesterolemia:  - Gene Review: Gene Review: Familial Hypercholesterolemia  - GeneFacts: Familial Hypercholesterolemia: Diagnosis  - GeneFacts: Familial Hypercholesterolemia: Management  - Genetic Testing Registry: Familial hypercholesterolemia  - Genetic Testing Registry: Hypercholesterolemia, autosomal dominant, 3  - Genetic Testing Registry: Hypercholesterolemia, autosomal dominant, type B  - Genetic Testing Registry: Hypercholesterolemia, autosomal recessive  - Genomics Education Programme (UK)  - MedlinePlus Encyclopedia: Familial hypercholesterolemia  - MedlinePlus Encyclopedia: High blood cholesterol and triglycerides  - MedlinePlus Encyclopedia: Xanthoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

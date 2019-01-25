@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000462" source="GHR" url="https://ghr.nlm.nih.gov/condition/hereditary-hemorrhagic-telangiectasia">
+<Focus>hereditary hemorrhagic telangiectasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0039446</CUI>
+			<CUI>C0039445</CUI>
+			<CUI>C1963248</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>HHT</Synonym>
+		<Synonym>Osler hemorrhagic telangiectasia syndrome</Synonym>
+		<Synonym>Osler-Rendu Disease</Synonym>
+		<Synonym>Osler-Rendu-Weber disease</Synonym>
+		<Synonym>Osler's disease</Synonym>
+		<Synonym>Rendu-Osler-Weber</Synonym>
+		<Synonym>Weber-Osler</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000462-1" qtype="information">What is (are) hereditary hemorrhagic telangiectasia ?</Question>
+			<Answer>Hereditary hemorrhagic telangiectasia is a disorder that results in the development of multiple abnormalities in the blood vessels.  In the circulatory system, blood carrying oxygen from the lungs is normally pumped by the heart into the arteries at high pressure. The pressure allows the blood to make its way through the arteries to the smaller vessels (arterioles and capillaries) that supply oxygen to the body&apos;s tissues. By the time blood reaches the capillaries, the pressure is much lower. The blood then proceeds from the capillaries into veins, through which it eventually returns to the heart.  In hereditary hemorrhagic telangiectasia, some arterial vessels flow directly into veins rather than into the capillaries. These abnormalities are called arteriovenous malformations. When they occur in vessels near the surface of the skin, where they are visible as red markings, they are known as telangiectases (the singular is telangiectasia).  Without the normal buffer of the capillaries, the blood moves from the arteries at high pressure into the thinner walled, less elastic veins. The extra pressure tends to strain and enlarge these blood vessels, and may result in compression or irritation of adjacent tissues and frequent episodes of severe bleeding (hemorrhage). Nosebleeds are very common in people with hereditary hemorrhagic telangiectasia, and more serious problems may arise from hemorrhages in the brain, liver, lungs, or other organs.  Forms of hereditary hemorrhagic telangiectasia include type 1, type 2, type 3, and juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome. People with type 1 tend to develop symptoms earlier than those with type 2, and are more likely to have blood vessel malformations in the lungs and brain. Type 2 and type 3 may be associated with a higher risk of liver involvement. Women are more likely than men to develop blood vessel malformations in the lungs with type 1, and are also at higher risk of liver involvement with both type 1 and type 2. Individuals with any form of hereditary hemorrhagic telangiectasia, however, can have any of these problems.  Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome is a condition that involves both arteriovenous malformations and a tendency to develop growths (polyps) in the gastrointestinal tract. Types 1, 2 and 3 do not appear to increase the likelihood of such polyps.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000462-2" qtype="frequency">How many people are affected by hereditary hemorrhagic telangiectasia ?</Question>
+			<Answer>The incidence of hereditary hemorrhagic telangiectasia is difficult to determine because the severity of symptoms can vary widely and some symptoms, such as frequent nosebleeds, are common in the general population. In addition, arteriovenous malformations may be associated with other medical conditions. Hereditary hemorrhagic telangiectasia is widely distributed, occurring in many ethnic groups around the world. It is believed to affect between 1 in 5,000 and 1 in 10,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000462-3" qtype="genetic changes">What are the genetic changes related to hereditary hemorrhagic telangiectasia ?</Question>
+			<Answer>Mutations in the ACVRL1, ENG, and SMAD4 genes cause hereditary hemorrhagic telangiectasia.  Hereditary hemorrhagic telangiectasia type 1 is caused by mutations in the gene ENG. Type 2 is caused by mutations in the gene ACVRL1. Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome is caused by mutations in the gene SMAD4. All these genes provide instructions for making proteins that are found in the lining of the blood vessels. These proteins interact with growth factors that control blood vessel development. The gene involved in hereditary hemorrhagic telangiectasia type 3 is not known, but is believed to be located on chromosome 5.  Mutations in these genes generally prevent the production of the associated protein, or result in the production of a defective protein that cannot fulfill its function. An individual with a mutated gene will therefore have a reduced amount of the functional protein available in the tissue lining the blood vessels. This deficiency is believed to result in the signs and symptoms of hereditary hemorrhagic telangiectasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000462-4" qtype="inheritance">Is hereditary hemorrhagic telangiectasia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000462-5" qtype="treatment">What are the treatments for hereditary hemorrhagic telangiectasia ?</Question>
+			<Answer>These resources address the diagnosis or management of hereditary hemorrhagic telangiectasia:  - Gene Review: Gene Review: Hereditary Hemorrhagic Telangiectasia  - Genetic Testing Registry: Hereditary hemorrhagic telangiectasia type 2  - Genetic Testing Registry: Hereditary hemorrhagic telangiectasia type 3  - Genetic Testing Registry: Hereditary hemorrhagic telangiectasia type 4  - Genetic Testing Registry: Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome  - Genetic Testing Registry: Osler hemorrhagic telangiectasia syndrome  - MedlinePlus Encyclopedia: Osler-Weber-Rendu syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000983" source="GHR" url="https://ghr.nlm.nih.gov/condition/timothy-syndrome">
+<Focus>Timothy syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1832916</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Long QT syndrome with syndactyly</Synonym>
+		<Synonym>LQT8</Synonym>
+		<Synonym>TS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000983-1" qtype="information">What is (are) Timothy syndrome ?</Question>
+			<Answer>Timothy syndrome is a rare disorder that affects many parts of the body including the heart, digits (fingers and toes), and the nervous system.  Timothy syndrome is characterized by a heart condition called long QT syndrome, which causes the heart (cardiac) muscle to take longer than usual to recharge between beats. This abnormality in the heart&apos;s electrical system can cause irregular heartbeats (arrhythmia), which can lead to sudden death. Many people with Timothy syndrome are also born with structural heart defects that affect the heart&apos;s ability to pump blood effectively. As a result of these serious heart problems, many people with Timothy syndrome live only into childhood. The most common cause of death is a form of arrhythmia called ventricular tachyarrhythmia, in which the lower chambers of the heart (the ventricles) beat abnormally fast and lead to cardiac arrest.  Timothy syndrome is also characterized by webbing or fusion of the skin between some fingers or toes (cutaneous syndactyly). About half of affected people have distinctive facial features such as a flattened nasal bridge, low-set ears, a small upper jaw, and a thin upper lip. Children with this condition have small, misplaced teeth and frequent cavities (dental caries). Additional signs and symptoms of Timothy syndrome can include baldness at birth, frequent infections, episodes of low blood sugar (hypoglycemia), and an abnormally low body temperature (hypothermia).  Researchers have found that many children with Timothy syndrome have the characteristic features of autism or similar conditions known as autistic spectrum disorders. Affected children tend to have impaired communication and socialization skills, as well as delayed development of speech and language. Other nervous system abnormalities, including intellectual disability and seizures, can also occur in children with Timothy syndrome.  Researchers have identified two forms of Timothy syndrome. Type 1, which is also known as the classic type, includes all of the characteristic features described above. Type 2, or the atypical type, causes a more severe form of long QT syndrome and a greater risk of arrhythmia and sudden death. Unlike the classic type, the atypical type does not appear to cause webbing of the fingers or toes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000983-2" qtype="frequency">How many people are affected by Timothy syndrome ?</Question>
+			<Answer>Timothy syndrome is a rare condition; fewer than 20 people with this disorder have been reported worldwide. The classic type of Timothy syndrome appears to be more common than the atypical type, which has been identified in only two individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000983-3" qtype="genetic changes">What are the genetic changes related to Timothy syndrome ?</Question>
+			<Answer>Mutations in the CACNA1C gene are responsible for all reported cases of Timothy syndrome. This gene provides instructions for making a protein that acts as a channel across cell membranes. This channel, known as CaV1.2, is one of several channels that transport positively charged calcium atoms (calcium ions) into cells. Calcium ions are involved in many different cellular functions, including cell-to-cell communication, the tensing of muscle fibers (muscle contraction), and the regulation of certain genes. CaV1.2 calcium channels are particularly important for the normal function of heart and brain cells. In cardiac muscle, these channels play a critical role in maintaining the heart&apos;s normal rhythm. Their role in the brain and in other tissues is less clear.  Mutations in the CACNA1C gene change the structure of CaV1.2 channels. The altered channels stay open much longer than usual, which allows calcium ions to continue flowing into cells abnormally. The resulting overload of calcium ions within cardiac muscle cells changes the way the heart beats and can cause arrhythmia. Researchers are working to determine how an increase in calcium ion transport in other tissues, including cells in the brain, underlies the other features of Timothy syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000983-4" qtype="inheritance">Is Timothy syndrome inherited ?</Question>
+			<Answer>This condition is considered to have an autosomal dominant pattern of inheritance, which means one copy of the altered CACNA1C gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene, and occur in people with no history of the disorder in their family. Less commonly, people with Timothy syndrome inherit the altered gene from an unaffected parent who is mosaic for a CACNA1C mutation. Mosaicism means that the parent has the mutation in some cells (including egg or sperm cells), but not in others.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000983-5" qtype="treatment">What are the treatments for Timothy syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Timothy syndrome:  - Gene Review: Gene Review: Timothy Syndrome  - Genetic Testing Registry: Timothy syndrome  - MedlinePlus Encyclopedia: Arrhythmias  - MedlinePlus Encyclopedia: Congenital Heart Disease  - MedlinePlus Encyclopedia: Webbing of the Fingers or Toes   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

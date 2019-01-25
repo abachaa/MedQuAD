@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006318" source="GARD" url="https://rarediseases.info.nih.gov/gard/7845/valinemia">
+<Focus>Valinemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268573</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Valine transaminase deficiency</Synonym>
+		<Synonym>Hypervalinemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006318-1" qtype="information">What is (are) Valinemia ?</Question>
+			<Answer>Valinemia is a very rare metabolic disorder characterized by abnormally high levels of the amino acid valine in the blood and urine. Infants with valinemia reportedly experience lack of appetite, vomiting, and failure to thrive. In some cases, the condition may be life-threatening. Low muscle tone (hypotonia), excessive drowsiness, hyperactivity, and developmental delay have also been reported. Valinemia is caused by a deficiency of the enzyme valine transaminase, which is needed for the breakdown (metabolism) of valine in the body. It is inherited in an autosomal recessive manner, although the gene responsible for the condition is not yet known. Treatment includes a diet low in valine (introduced during early infancy) which usually improves symptoms and brings valine levels to normal.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006318-2" qtype="symptoms">What are the symptoms of Valinemia ?</Question>
+			<Answer>What are the signs and symptoms of Valinemia? Valinemia is thought to be extremely rare and has been described in only a few people. The condition is reportedly present from birth. Symptoms in the newborn period include lack of appetite, protein intolerance, metabolic acidosis, frequent vomiting, failure to thrive, and/or coma. The condition can become life-threatening. Abnormally low muscle tone (hypotonia); hyperkinesia; hyperactivity; excessive drowsiness; and delayed mental and physical development have also been reported. The Human Phenotype Ontology provides the following list of signs and symptoms for Valinemia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Drowsiness - Failure to thrive - Hyperkinesis - Hypervalinemia - Muscle weakness - Vomiting - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006318-3" qtype="treatment">What are the treatments for Valinemia ?</Question>
+			<Answer>How might valinemia be treated? Due to the rarity of valinemia, information about treatment in the medical literature is very limited. A diet low in valine introduced during early infancy is thought to improve symptoms of the condition and lower valine concentrations in the blood to normal levels.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

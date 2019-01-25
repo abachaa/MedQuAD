@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000163" source="NINDS" url="http://www.ninds.nih.gov/disorders/inflammatory_myopathies/inflammatory_myopathies.htm">
+<Focus>Inflammatory Myopathies</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0027121</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000163-1" qtype="information">What is (are) Inflammatory Myopathies ?</Question>
+			<Answer>The inflammatory myopathies are a group of diseases, with no known cause, that involve chronic muscle inflammation accompanied by muscle weakness. The three main types of chronic, or persistent, inflammatory myopathy are polymyositis, dermatomyositis, and inclusion body myositis (IBM). These rare disorders may affect both adults and children, although dermatomyositis is more common in children. Polymyositis and dermatomyositis are more common in women than in men. General symptoms of chronic inflammatory myopathy include slow but progressive muscle weakness that starts in the proximal musclesthose muscles closest to the trunk of the body. Other symptoms include fatigue after walking or standing, tripping or falling, and difficulty swallowing or breathing. Some patients may have slight muscle pain or muscles that are tender to the touch. Polymyositis affects skeletal muscles (involved with making movement) on both sides of the body. Dermatomyositis is characterized by a skin rash that precedes or accompanies progressive muscle weakness. IBM is characterized by progressive muscle weakness and wasting. Juvenile myositis has some similarities to adult dermatomyositis and polymyositis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000163-2" qtype="treatment">What are the treatments for Inflammatory Myopathies ?</Question>
+			<Answer>The chronic inflammatory myopathies cant be cured in most adults but many of the symptoms can be treated. Options include medication, physical therapy, exercise, heat therapy (including microwave and ultrasound), orthotics and assistive devices, and rest. Polymyositis and dermatomyositis are first treated with high doses of prednisone or another corticosteroid drug. This is most often given as an oral medication but can be delivered intravenously. Immunosuppressant drugs, such as azathioprine and methotrexate, may reduce inflammation in people who do not respond well to prednisone. IBM has no standard course of treatment. The disease is generally unresponsive to corticosteroids and immunosuppressive drugs.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000163-3" qtype="outlook">What is the outlook for Inflammatory Myopathies ?</Question>
+			<Answer>Most cases of dermatomyositis respond to therapy. The prognosis for polymyositis varies. Most individuals respond fairly well to therapy, but some people have a more severe disease that does not respond adequately to therapies and are left with significant disability. IBM is generally resistant to all therapies and its rate of progression appears to be unaffected by currently available treatments.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000163-4" qtype="research">what research (or clinical trials) is being done for Inflammatory Myopathies ?</Question>
+			<Answer>The National Institutes of Health (NIH), through the collaborative efforts of its National Institute of Neurological Disorders and Stroke (NINDS), National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS), and National Institute of Environmental Health Sciences (NIEHS), conducts and supports a wide range of research on neuromuscular disorders, including the inflammatory myopathies. The NINDS and NIAMS are funding DNA analyses using microarrays to characterize patterns of muscle gene expression among adult and juvenile individuals with distinct subtypes of inflammatory myopathies. Findings will be used to refine disease classification and provide clues to the pathology of these disorders. Other NIH-funded research is studying prior viral infection as a precursor to inflammatory myopathy. Other research hopes to determine whether the drug infliximab, which blocks a protein that is associated with harmful inflammation, is safe and effective in treating dermatomyositis and polymyositis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

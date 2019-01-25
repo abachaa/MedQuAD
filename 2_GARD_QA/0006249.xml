@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006249" source="GARD" url="https://rarediseases.info.nih.gov/gard/7831/turner-syndrome">
+<Focus>Turner syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0041408</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ullrich-Turner syndrome</Synonym>
+		<Synonym>Bonnevie-Ulrich syndrome</Synonym>
+		<Synonym>45, X Syndrome</Synonym>
+		<Synonym>Chromosome X Monosomy X</Synonym>
+		<Synonym>Gonadal Dysgenesis (45,X)</Synonym>
+		<Synonym>Numeric sex chromosome variations</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006249-1" qtype="information">What is (are) Turner syndrome ?</Question>
+			<Answer>Turner syndrome is a chromosomal disorder that affects development in females. It is characterized by a person having one X chromosome in each cell (females without Turner syndrome have two X chromosomes in each cell). Signs and symptoms may include short stature; premature ovarian failure; a &quot;webbed&quot; neck; a low hairline at the back of the neck; and swelling (lymphedema) of the hands and feet. Some people with Turner syndrome have skeletal abnormalities, kidney problems, and/or a congenital heart defect. Most affected girls and women have normal intelligence, but some have developmental delays, learning disabilities, and/or behavior problems. Turner syndrome is typically not inherited, but it can be inherited in rare cases. Treatment may include growth hormone therapy for short stature and estrogen therapy to help stimulate sexual development. While most women with Turner syndrome are infertile, assisted reproductive techniques can help some women become pregnant.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006249-2" qtype="symptoms">What are the symptoms of Turner syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Turner syndrome? There are various signs and symptoms of Turner syndrome, which can range from very mild to more severe. Short stature is the most common feature and usually becomes apparent by age 5. In early childhood, frequent middle ear infections are common and can lead to hearing loss in some cases. Most affected girls do not produce the necessary sex hormones for puberty, so they don&apos;t have a pubertal growth spurt, start their periods or develop breasts without hormone treatment. While most affected women are infertile, pregnancy is possible with egg donation and assisted reproductive technology. Intelligence is usually normal, but developmental delay, learning disabilities, and/or behavioral problems are sometimes present. Additional symptoms of Turner syndrome may include: a wide, webbed neck a low or indistinct hairline in the back of the head swelling (lymphedema) of the hands and feet broad chest and widely spaced nipples arms that turn out slightly at the elbow congenital heart defects or heart murmur scoliosis (curving of the spine) or other skeletal abnormalities kidney problems an underactive thyroid gland a slightly increased risk to develop diabetes, especially if older or overweight osteoporosis due to a lack of estrogen, (usually prevented by hormone replacement therapy). The Human Phenotype Ontology provides the following list of signs and symptoms for Turner syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the aorta 90% Aplasia/Hypoplasia of the nipples 90% Cubitus valgus 90% Enlarged thorax 90% Low posterior hairline 90% Polycystic ovaries 90% Short stature 90% Abnormal dermatoglyphics 50% Abnormal localization of kidney 50% Abnormality of the fingernails 50% Abnormality of the metacarpal bones 50% Hypoplastic toenails 50% Melanocytic nevus 50% Secondary amenorrhea 50% Webbed neck 50% Atria septal defect 7.5% Atypical scarring of skin 7.5% Cognitive impairment 7.5% Cystic hygroma 7.5% Delayed skeletal maturation 7.5% Lymphedema 7.5% Ptosis 7.5% Reduced bone mineral density 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0006249-3" qtype="causes">What causes Turner syndrome ?</Question>
+			<Answer>What causes Turner syndrome? Turner syndrome is caused by partial or complete loss of one of the X chromosomes in cells of females. Females without Turner syndrome have 2 full X chromosome in all of their cells (and males have one X chromosome and one Y chromosome). The missing genetic material affects development before and after birth. Most females with Turner syndrome are missing a full X chromosome in all of their cells (also called monosomy X). This form results from a random error in an egg or sperm cell prior to conception. Some females with Turner syndrome have two X chromosomes, but one of them is missing a piece (has a deletion). Depending on the specific gene(s) that are missing, the features of Turner syndrome may result. A deletion may occur sporadically (not inherited) or may be inherited from a parent. Mosaic Turner syndrome (when some cells have one X chromosome and some have two sex chromosomes) is caused by a random error in early fetal development (shortly after conception). It is still unclear exactly which genes on the X chromosome are associated with each feature of Turner syndrome. It is known that the SHOX gene on the X chromosome is important for growth and bone development. A missing copy of this gene is thought to result in the short stature and skeletal abnormalities in many affected women.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0006249-4" qtype="inheritance">Is Turner syndrome inherited ?</Question>
+			<Answer>Is Turner syndrome inherited? Most cases of Turner syndrome are not inherited. Most commonly, Turner syndrome occurs due to a random event during the formation of an egg or sperm cell in a parent (prior to conception). For example, if an egg or sperm cell mistakenly loses a sex chromosome, and joins at conception with an egg or sperm containing an X chromosome, the resulting child will have a single X chromosome in each cell. Mosaic Turner syndrome, occurring when a person has some cells with one X chromosome and some cells with two sex chromosomes, is also not inherited. This also occurs due to a random event, during early fetal development rather than before conception. In rare cases, Turner syndrome may be caused by a missing piece (partial deletion) of the X chromosome. A deletion can be inherited from a parent. Genetic testing of an affected fetus or child can identify the type of Turner syndrome present and may help to estimate the risk of recurrence. People with questions about genetic testing or recurrence risks for Turner syndrome are encouraged to speak with a genetic counselor or other genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000283" source="GHR" url="https://ghr.nlm.nih.gov/condition/diamond-blackfan-anemia">
+<Focus>Diamond-Blackfan anemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1260899</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Aase-Smith syndrome II</Synonym>
+		<Synonym>Aase syndrome</Synonym>
+		<Synonym>BDA</Synonym>
+		<Synonym>BDS</Synonym>
+		<Synonym>Blackfan Diamond anemia</Synonym>
+		<Synonym>Blackfan-Diamond disease</Synonym>
+		<Synonym>Blackfan-Diamond syndrome</Synonym>
+		<Synonym>chronic congenital agenerative anemia</Synonym>
+		<Synonym>congenital erythroid hypoplastic anemia</Synonym>
+		<Synonym>congenital hypoplastic anemia of Blackfan and Diamond</Synonym>
+		<Synonym>congenital pure red cell anemia</Synonym>
+		<Synonym>congenital pure red cell aplasia</Synonym>
+		<Synonym>DBA</Synonym>
+		<Synonym>erythrogenesis imperfecta</Synonym>
+		<Synonym>hypoplastic congenital anemia</Synonym>
+		<Synonym>inherited erythroblastopenia</Synonym>
+		<Synonym>pure hereditary red cell aplasia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000283-1" qtype="information">What is (are) Diamond-Blackfan anemia ?</Question>
+			<Answer>Diamond-Blackfan anemia is a disorder of the bone marrow. The major function of bone marrow is to produce new blood cells. In Diamond-Blackfan anemia, the bone marrow malfunctions and fails to make enough red blood cells, which carry oxygen to the body&apos;s tissues. The resulting shortage of red blood cells (anemia) usually becomes apparent during the first year of life. Symptoms of anemia include fatigue, weakness, and an abnormally pale appearance (pallor).  People with Diamond-Blackfan anemia have an increased risk of several serious complications related to their malfunctioning bone marrow. Specifically, they have a higher-than-average chance of developing myelodysplastic syndrome (MDS), which is a disorder in which immature blood cells fail to develop normally. Affected individuals also have an increased risk of developing certain cancers, including a cancer of blood-forming tissue known as acute myeloid leukemia (AML) and a type of bone cancer called osteosarcoma.  Approximately half of individuals with Diamond-Blackfan anemia have physical abnormalities. They may have an unusually small head size (microcephaly) and a low frontal hairline, along with distinctive facial features such as wide-set eyes (hypertelorism); droopy eyelids (ptosis); a broad, flat bridge of the nose; small, low-set ears; and a small lower jaw (micrognathia). Affected individuals may also have an opening in the roof of the mouth (cleft palate) with or without a split in the upper lip (cleft lip). They may have a short, webbed neck; shoulder blades which are smaller and higher than usual; and abnormalities of their hands, most commonly malformed or absent thumbs. About one-third of affected individuals have slow growth leading to short stature.  Other features of Diamond-Blackfan anemia may include eye problems such as clouding of the lens of the eyes (cataracts), increased pressure in the eyes (glaucoma), or eyes that do not look in the same direction (strabismus). Affected individuals may also have kidney abnormalities; structural defects of the heart; and, in males, the opening of the urethra on the underside of the penis (hypospadias).  The severity of Diamond-Blackfan anemia may vary, even within the same family. Increasingly, individuals with &quot;non-classical&quot; Diamond-Blackfan anemia have been identified. This form of the disorder typically has less severe symptoms that may include mild anemia beginning in adulthood.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000283-2" qtype="frequency">How many people are affected by Diamond-Blackfan anemia ?</Question>
+			<Answer>Diamond-Blackfan anemia affects approximately 5 to 7 per million liveborn infants worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000283-3" qtype="genetic changes">What are the genetic changes related to Diamond-Blackfan anemia ?</Question>
+			<Answer>Diamond-Blackfan anemia can be caused by mutations in the RPL5, RPL11, RPL35A, RPS7, RPS10, RPS17, RPS19, RPS24, and RPS26 genes. These genes provide instructions for making several of the approximately 80 different ribosomal proteins, which are components of cellular structures called ribosomes. Ribosomes process the cell&apos;s genetic instructions to create proteins.  Each ribosome is made up of two parts (subunits) called the large and small subunits. The RPL5, RPL11, and RPL35A genes provide instructions for making ribosomal proteins that are among those found in the large subunit. The ribosomal proteins produced from the RPS7, RPS10, RPS17, RPS19, RPS24, and RPS26 genes are among those found in the small subunit.  The specific functions of each ribosomal protein within these subunits are unclear. Some ribosomal proteins are involved in the assembly or stability of ribosomes. Others help carry out the ribosome&apos;s main function of building new proteins. Studies suggest that some ribosomal proteins may have other functions, such as participating in chemical signaling pathways within the cell, regulating cell division, and controlling the self-destruction of cells (apoptosis).  Mutations in any of the genes listed above are believed to affect the stability or function of the ribosomal proteins. Studies indicate that a shortage of functioning ribosomal proteins may increase the self-destruction of blood-forming cells in the bone marrow, resulting in anemia. Abnormal regulation of cell division or inappropriate triggering of apoptosis may contribute to the other health problems that affect some people with Diamond-Blackfan anemia.  Approximately 25 percent of individuals with Diamond-Blackfan anemia have identified mutations in the RPS19 gene. About another 25 to 35 percent of individuals with this disorder have identified mutations in the RPL5, RPL11, RPL35A, RPS7, RPS10, RPS17, RPS24, or RPS26 genes. In the remaining 40 to 50 percent of cases, the cause of the condition is unknown. Researchers suspect that other genes may also be associated with Diamond-Blackfan anemia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000283-4" qtype="inheritance">Is Diamond-Blackfan anemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In approximately 45 percent of cases, an affected person inherits the mutation from one affected parent. The remaining cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000283-5" qtype="treatment">What are the treatments for Diamond-Blackfan anemia ?</Question>
+			<Answer>These resources address the diagnosis or management of Diamond-Blackfan anemia:  - Gene Review: Gene Review: Diamond-Blackfan Anemia  - Genetic Testing Registry: Aase syndrome  - Genetic Testing Registry: Diamond-Blackfan anemia  - Genetic Testing Registry: Diamond-Blackfan anemia 10  - Genetic Testing Registry: Diamond-Blackfan anemia 2  - Genetic Testing Registry: Diamond-Blackfan anemia 3  - Genetic Testing Registry: Diamond-Blackfan anemia 4  - Genetic Testing Registry: Diamond-Blackfan anemia 5  - Genetic Testing Registry: Diamond-Blackfan anemia 7  - Genetic Testing Registry: Diamond-Blackfan anemia 8  - Genetic Testing Registry: Diamond-Blackfan anemia 9   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

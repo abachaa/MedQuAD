@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000137" source="GARD" url="https://rarediseases.info.nih.gov/gard/5698/acute-respiratory-distress-syndrome">
+<Focus>Acute respiratory distress syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035222</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ARDS</Synonym>
+		<Synonym>Acute lung injury</Synonym>
+		<Synonym>ALI</Synonym>
+		<Synonym>Adult respiratory distress syndrome</Synonym>
+		<Synonym>Respiratory distress syndrome, adult</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000137-1" qtype="information">What is (are) Acute respiratory distress syndrome ?</Question>
+			<Answer>Acute respiratory distress syndrome (ARDS) is a life-threatening lung condition that prevents enough oxygen from getting to the lungs and into the blood.  People who develop ARDS often are very ill with another disease or have major injuries. The condition leads to a buildup of fluid in the air sacs which prevents enough oxygen from passing into the bloodstream. Symptoms may include difficulty breathing, low blood pressure and organ failure, rapid breathing and shortness of breath.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000137-2" qtype="treatment">What are the treatments for Acute respiratory distress syndrome ?</Question>
+			<Answer>How might acute respiratory distress syndrome (ARDS) be treated? Typically people with ARDS need to be in an intensive care unit (ICU). The goal of treatment is to provide breathing support and treat the cause of ARDS. This may involve medications to treat infections, reduce inflammation, and remove fluid from the lungs. A breathing machine is used to deliver high doses of oxygen and continued pressure called PEEP (positive end-expiratory pressure) to the damaged lungs. Patients often need to be deeply sedated with medications when using this equipment. Some research suggests that giving medications to temporarily paralyze a person with ARDS will increase the chance of recovery. Treatment continues until the patient is well enough to breathe on his/her own. More detailed information about the treatment of ARDS can be accessed through the National Heart, Lung and Blood Institute (NHLBI) and Medscape Reference.  An article detailing Oxygen Therapy is also available.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

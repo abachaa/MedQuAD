@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000189" source="NINDS" url="http://www.ninds.nih.gov/disorders/megalencephaly/megalencephaly.htm">
+<Focus>Megalencephaly</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2720434</CUI>
+			<CUI>C0221355</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000189-1" qtype="information">What is (are) Megalencephaly ?</Question>
+			<Answer>Megalencephaly, also called macrencephaly, is a condition in which an infant or child has an abnormally large, heavy, and usually malfunctioning brain. By definition, the brain weight is greater than average for the age and gender of the child. Head enlargement may be evident at birth or the head may become abnormally large in the early years of life. Megalencephaly is thought to be related to a disturbance in the regulation of cell production in the brain. In normal development, neuron proliferation - the process in which nerve cells divide to form new generations of cells - is regulated so that the correct number of cells is produced in the proper place at the appropriate time. In a megalencephalic brain, too many cells are produced either during development or progressively as part of another disorder, such as one of the neurofibromatoses or leukodystrophies. Symptoms of megalencephaly include delayed development, seizures, and corticospinal (brain cortex and spinal cord) dysfunction. Megalencephaly affects males more often than females. Unilateral megalencephaly or hemimegalencephaly is a rare condition that is characterized by the enlargement of one side of the brain. Children with this disorder may have a large, asymmetrical head accompanied by seizures, partial paralysis, and impaired cognitive development. Megalencephaly is different from macrocephaly (also called megacephaly or megalocephaly), which describes a big head, and which doesnt necessarily indicate abnormality. Large head size is passed down through the generations in some families.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000189-2" qtype="treatment">What are the treatments for Megalencephaly ?</Question>
+			<Answer>There is no standard treatment for megalencephaly. Treatment will depend upon the disorder with which the megalencephaly is associated and will address individual symptoms and disabilities.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000189-3" qtype="outlook">What is the outlook for Megalencephaly ?</Question>
+			<Answer>The prognosis for infants and children with megalencephaly depends upon the underlying cause and the associated neurological disorders. The prognosis for children with hemimegalencephaly is poor.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000189-4" qtype="research">what research (or clinical trials) is being done for Megalencephaly ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to megalencephaly in laboratories at the NIH and also support additional research through grants to major medical institutions across the country. Much of this research explores the complex mechanisms of normal brain development. The knowledge gained from these fundamental studies will provide a foundation for developing ways to prevent megalencephaly and the other cephalic disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

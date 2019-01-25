@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000013" source="NINDS" url="http://www.ninds.nih.gov/disorders/aids/aids.htm">
+<Focus>Neurological Complications of AIDS</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1171258</CUI>
+			<CUI>C0001175</CUI>
+			<CUI>C0009566</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000013-1" qtype="complications">What are the complications of Neurological Complications of AIDS ?</Question>
+			<Answer>AIDS is primarily an immune system disorder caused by the human immunodeficiency virus (HIV), but it can also affect the nervous system. HIV does not appear to directly invade nerve cells but it jeopardizes their health and function, causing symptoms such as confusion, forgetfulness, behavioral changes, headaches, progressive weakness and loss of sensation in the arms and legs, cognitive motor impairment, or damage to the peripheral nerves. Other complications that can occur as a result of HIV infection or the drugs used to treat it include pain, seizures, shingles, spinal cord problems, lack of coordination, difficult or painful swallowing, anxiety disorder, depression, fever, vision loss, gait disorders, destruction of brain tissue, and coma. Other AIDS-related nervous system disorders may be caused by certain cancers or by illnesses that would not otherwise affect people with healthy immune systems.
+                
+Among the most common neurological complications are: AIDS dementia complex, causing symptoms such as encephalitis (inflammation of the brain), behavioral changes, and a gradual decline in cognitive function; central nervous system lymphomas, cancerous tumors that either begin in the brain or result from a cancer that has spread from another site in the body; cryptococcal meningitis; cytomegalovirus infections; herpes virus infections; neuropathy; neurosyphilis; progressive multifocal leukoencephalopathy (PML); and psychological and neuropsychiatric disorders.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000013-2" qtype="treatment">What are the treatments for Neurological Complications of AIDS ?</Question>
+			<Answer>No single treatment can cure the neurological complications of AIDS. Some disorders require aggressive therapy while others are treated symptomatically.
+                
+Medicines range from analgesics sold over the counter to antiepileptic drugs, opiates, corticosteroids, and some classes of antidepressants. Other treatments include radiation therapy or chemotherapy to kill or shrink cancerous brain tumors that may be caused by HIV, antifungal or antimalarial drugs to combat certain bacterial infections, and penicillin to treat neurosyphilis. Aggressive antiretroviral therapy is used to treat AIDS dementia complex, PML, and cytomegalovirus encephalitis. HAART, or highly active antiretroviral therapy, combines at least three drugs to reduce the amount of virus circulating in the blood and may also delay the start of some infections.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000013-3" qtype="outlook">What is the outlook for Neurological Complications of AIDS ?</Question>
+			<Answer>The overall prognosis for individuals with AIDS in recent years has improved significantly because of new drugs and treatments. AIDS clinicians often fail to recognize neurological complications of AIDS. Those who suspect they are having neurological complications should be sure to discuss these with their doctor.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000013-4" qtype="research">what research (or clinical trials) is being done for Neurological Complications of AIDS ?</Question>
+			<Answer>Within the Federal government, the National Institute of Neurological Disorders and Stroke (NINDS), one part of the National Institutes of Health (NIH), supports research on the neurological consequences of AIDS. The NINDS works closely with its sister agency, the National Institute of Allergy and Infectious Diseases (NIAID), which has primary responsibility for research related to HIV and AIDS.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000934" source="GHR" url="https://ghr.nlm.nih.gov/condition/spinal-and-bulbar-muscular-atrophy">
+<Focus>spinal and bulbar muscular atrophy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026846</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>bulbospinal muscular atrophy, X-linked</Synonym>
+		<Synonym>KD</Synonym>
+		<Synonym>Kennedy disease</Synonym>
+		<Synonym>Kennedy spinal and bulbar muscular atrophy</Synonym>
+		<Synonym>Kennedy's disease</Synonym>
+		<Synonym>SBMA</Synonym>
+		<Synonym>X-linked spinal and bulbar muscular atrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000934-1" qtype="information">What is (are) spinal and bulbar muscular atrophy ?</Question>
+			<Answer>Spinal and bulbar muscular atrophy, also known as Kennedy disease, is a disorder of specialized nerve cells that control muscle movement (motor neurons). These nerve cells originate in the spinal cord and the part of the brain that is connected to the spinal cord (the brainstem).  Spinal and bulbar muscular atrophy mainly affects males and is characterized by muscle weakness and wasting (atrophy) that usually begins in adulthood and worsens slowly over time. Muscle wasting in the arms and legs results in cramping; leg muscle weakness can also lead to difficulty walking and a tendency to fall. Certain muscles in the face and throat (bulbar muscles) are also affected, which causes progressive problems with swallowing and speech. Additionally, muscle twitches (fasciculations) are common. Some males with the disorder experience unusual breast development (gynecomastia) and may be unable to father a child (infertile).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000934-2" qtype="frequency">How many people are affected by spinal and bulbar muscular atrophy ?</Question>
+			<Answer>This condition affects fewer than 1 in 150,000 males and is very rare in females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000934-3" qtype="genetic changes">What are the genetic changes related to spinal and bulbar muscular atrophy ?</Question>
+			<Answer>Spinal and bulbar muscular atrophy results from a particular type of mutation in the AR gene. This gene provides instructions for making a protein called an androgen receptor. This receptor attaches (binds) to a class of hormones called androgens, which are involved in male sexual development. Androgens and androgen receptors also have other important functions in both males and females, such as regulating hair growth and sex drive.  The AR gene mutation that causes spinal and bulbar muscular atrophy is the abnormal expansion of a DNA segment called a CAG triplet repeat. Normally, this DNA segment is repeated up to about 36 times. In people with spinal and bulbar muscular atrophy, the CAG segment is repeated at least 38 times, and it may be two or three times its usual length. Although the extended CAG region changes the structure of the androgen receptor, it is unclear how the altered protein disrupts nerve cells in the brain and spinal cord. Researchers believe that a fragment of the androgen receptor protein containing the CAG segment accumulates within these cells and interferes with normal cell functions. The nerve cells gradually die, leading to the muscle weakness and wasting seen in this condition. People with a higher number of CAG repeats tend to develop signs and symptoms of spinal and bulbar muscular atrophy at an earlier age.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000934-4" qtype="inheritance">Is spinal and bulbar muscular atrophy inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In most cases, males experience more severe symptoms of the disorder than females (who have two X chromosomes). Females with a mutation in one copy of the AR gene in each cell are typically unaffected. A few females with mutations in both copies of the gene have had mild features related to the condition, including muscle cramps and occasional tremors. Researchers believe that the milder signs and symptoms in females may be related to lower androgen levels.  A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000934-5" qtype="treatment">What are the treatments for spinal and bulbar muscular atrophy ?</Question>
+			<Answer>These resources address the diagnosis or management of spinal and bulbar muscular atrophy:  - Gene Review: Gene Review: Spinal and Bulbar Muscular Atrophy  - Genetic Testing Registry: Bulbo-spinal atrophy X-linked  - MedlinePlus Encyclopedia: Muscle Atrophy   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

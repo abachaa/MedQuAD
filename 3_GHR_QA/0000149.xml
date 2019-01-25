@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000149" source="GHR" url="https://ghr.nlm.nih.gov/condition/capillary-malformation-arteriovenous-malformation-syndrome">
+<Focus>capillary malformation-arteriovenous malformation syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1842180</CUI>
+			<CUI>C0334533</CUI>
+			<CUI>C0003857</CUI>
+			<CUI>C0000768</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T191</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>capillary malformation-arteriovenous malformation</Synonym>
+		<Synonym>CM-AVM</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000149-1" qtype="information">What is (are) capillary malformation-arteriovenous malformation syndrome ?</Question>
+			<Answer>Capillary malformation-arteriovenous malformation syndrome (CM-AVM) is a disorder of the vascular system, which is the body&apos;s complex network of blood vessels. The vascular system consists of arteries, which carry oxygen-rich blood from the heart to the body&apos;s various organs and tissues; veins, which carry blood back to the heart; and capillaries, which are tiny blood vessels that connect arteries and veins.  CM-AVM is characterized by capillary malformations (CMs), which are composed of enlarged capillaries that increase blood flow near the surface of the skin. These malformations look like multiple small, round, pink or red spots on the skin. In most affected individuals, capillary malformations occur on the face, arms, and legs. These spots may be visible from birth or may develop during childhood. By themselves, capillary malformations usually do not cause any health problems.  In some people with CM-AVM, capillary malformations are the only sign of the disorder. However, other affected individuals also have more serious vascular abnormalities known as arteriovenous malformations (AVMs) and arteriovenous fistulas (AVFs). AVMs and AVFs are abnormal connections between arteries, veins, and capillaries that affect blood circulation. Depending on where they occur in the body, these abnormalities can be associated with complications including abnormal bleeding, migraine headaches, seizures, and heart failure. In some cases the complications can be life-threatening. In people with CM-AVM, complications of AVMs and AVFs tend to appear in infancy or early childhood; however, some of these vascular abnormalities never cause any symptoms.  Some vascular abnormalities seen in CM-AVM are similar to those that occur in a condition called Parkes Weber syndrome. In addition to vascular abnormalities, Parkes Weber syndrome usually involves overgrowth of one limb. CM-AVM and some cases of Parkes Weber syndrome have the same genetic cause.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000149-2" qtype="frequency">How many people are affected by capillary malformation-arteriovenous malformation syndrome ?</Question>
+			<Answer>CM-AVM is thought to occur in at least 1 in 100,000 people of northern European origin. The prevalence of the condition in other populations is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000149-3" qtype="genetic changes">What are the genetic changes related to capillary malformation-arteriovenous malformation syndrome ?</Question>
+			<Answer>CM-AVM is caused by mutations in the RASA1 gene. This gene provides instructions for making a protein known as p120-RasGAP, which is involved in transmitting chemical signals from outside the cell to the nucleus. These signals help control several important cell functions, including cell growth and division (proliferation), the process by which cells mature to carry out specific functions (differentiation), and cell movement. The role of the p120-RasGAP protein is not fully understood, although it appears to be essential for the normal development of the vascular system.  Mutations in the RASA1 gene lead to the production of a nonfunctional version of the p120-RasGAP protein. A loss of this protein&apos;s activity disrupts tightly regulated chemical signaling during development. However, it is unclear how these changes lead to the specific vascular abnormalities seen in people with CM-AVM.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000149-4" qtype="inheritance">Is capillary malformation-arteriovenous malformation syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000149-5" qtype="treatment">What are the treatments for capillary malformation-arteriovenous malformation syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of CM-AVM:  - Gene Review: Gene Review: RASA1-Related Disorders  - Genetic Testing Registry: Capillary malformation-arteriovenous malformation   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

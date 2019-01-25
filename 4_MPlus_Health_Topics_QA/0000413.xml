@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000413" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/gumdisease.html">
+<Focus>Gum Disease</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0017563</CUI>
+			<CUI>C2186527</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Periodontal disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000413-1" qtype="information">What is (are) Gum Disease ?</Question>
+			<Answer>If you have gum disease, you&apos;re not alone. Many U.S. adults currently have some form of the disease. It ranges from simple gum inflammation, called gingivitis, to serious damage to the tissue and bone supporting the teeth. In the worst cases, you can lose teeth.    In gingivitis, the gums become red and swollen. They can bleed easily. Gingivitis is a mild form of gum disease. You can usually reverse it with daily brushing and flossing and regular cleanings by a dentist or dental hygienist. Untreated gingivitis can lead to periodontitis. If you have periodontitis, the gums pull away from the teeth and form pockets that become infected. If not treated, the bones, gums and connective tissue that support the teeth are destroyed.    NIH: National Institute of Dental and Craniofacial Research</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

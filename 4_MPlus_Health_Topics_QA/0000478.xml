@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000478" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/hivaidsandinfections.html">
+<Focus>HIV/AIDS and Infections</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C3714514</CUI>
+			<CUI>C0497169</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AIDS-related opportunistic infections</Synonym>
+		<Synonym>OIs</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000478-1" qtype="information">What is (are) HIV/AIDS and Infections ?</Question>
+			<Answer>Having HIV/AIDS weakens your body&apos;s immune system. Your immune system normally fights germs that enter your body. When HIV/AIDS makes it weak, it can&apos;t fight germs well. This can lead to serious infections that don&apos;t often affect healthy people. These are called opportunistic infections (OIs).    There are many types of OIs. Tuberculosis and a serious related disease, Mycobacterium avium complex (MAC) are bacterial infections. Viral infections include cytomegalovirus (CMV) and hepatitis C. Fungi cause thrush (candidiasis), cryptococcal meningitis, pneumocystis carinii pneumonia (PCP) and histoplasmosis, and parasites cause crypto (cryptosporidiosis) and toxo (toxoplasmosis).    Having HIV/AIDS can make any infection harder to treat. People with AIDS are also more likely to suffer complications of common illnesses such as the flu.     The good news is that you can help prevent infections by taking your HIV/AIDS medicines. Other things that can help include practicing safe sex, washing your hands well and often and cooking your food well.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

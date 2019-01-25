@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000875" source="GHR" url="https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis">
+<Focus>rheumatoid arthritis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0003873</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>arthritis, rheumatoid</Synonym>
+		<Synonym>RA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000875-1" qtype="information">What is (are) rheumatoid arthritis ?</Question>
+			<Answer>Rheumatoid arthritis is a disease that causes chronic abnormal inflammation, primarily affecting the joints. The most common signs and symptoms are pain, swelling, and stiffness of the joints. Small joints in the hands and feet are involved most often, although larger joints (such as the shoulders, hips, and knees) may become involved later in the disease. Joints are typically affected in a symmetrical pattern; for example, if joints in the hand are affected, both hands tend to be involved. People with rheumatoid arthritis often report that their joint pain and stiffness is worse when getting out of bed in the morning or after a long rest.  Rheumatoid arthritis can also cause inflammation of other tissues and organs, including the eyes, lungs, and blood vessels. Additional signs and symptoms of the condition can include a loss of energy, a low fever, weight loss, and a shortage of red blood cells (anemia). Some affected individuals develop rheumatoid nodules, which are firm lumps of noncancerous tissue that can grow under the skin and elsewhere in the body.  The signs and symptoms of rheumatoid arthritis usually appear in mid- to late adulthood. Many affected people have episodes of symptoms (flares) followed by periods with no symptoms (remissions) for the rest of their lives. In severe cases, affected individuals have continuous health problems related to the disease for many years. The abnormal inflammation can lead to severe joint damage, which limits movement and can cause significant disability.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000875-2" qtype="frequency">How many people are affected by rheumatoid arthritis ?</Question>
+			<Answer>Rheumatoid arthritis affects about 1.3 million adults in the United States. Worldwide, it is estimated to occur in up to 1 percent of the population. The disease is two to three times more common in women than in men, which may be related to hormonal factors.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000875-3" qtype="genetic changes">What are the genetic changes related to rheumatoid arthritis ?</Question>
+			<Answer>Rheumatoid arthritis probably results from a combination of genetic and environmental factors, many of which are unknown.  Rheumatoid arthritis is classified as an autoimmune disorder, one of a large group of conditions that occur when the immune system attacks the body&apos;s own tissues and organs. In people with rheumatoid arthritis, the immune system triggers abnormal inflammation in the membrane that lines the joints (the synovium). When the synovium is inflamed, it causes pain, swelling, and stiffness of the joint. In severe cases, the inflammation also affects the bone, cartilage, and other tissues within the joint, causing more serious damage. Abnormal immune reactions also underlie the features of rheumatoid arthritis affecting other parts of the body.  Variations in dozens of genes have been studied as risk factors for rheumatoid arthritis. Most of these genes are known or suspected to be involved in immune system function. The most significant genetic risk factors for rheumatoid arthritis are variations in human leukocyte antigen (HLA) genes, especially the HLA-DRB1 gene. The proteins produced from HLA genes help the immune system distinguish the body&apos;s own proteins from proteins made by foreign invaders (such as viruses and bacteria). Changes in other genes appear to have a smaller impact on a person&apos;s overall risk of developing the condition.  Other, nongenetic factors are also believed to play a role in rheumatoid arthritis. These factors may trigger the condition in people who are at risk, although the mechanism is unclear. Potential triggers include changes in sex hormones (particularly in women), occupational exposure to certain kinds of dust or fibers, and viral or bacterial infections. Long-term smoking is a well-established risk factor for developing rheumatoid arthritis; it is also associated with more severe signs and symptoms in people who have the disease.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000875-4" qtype="inheritance">Is rheumatoid arthritis inherited ?</Question>
+			<Answer>The inheritance pattern of rheumatoid arthritis is unclear because many genetic and environmental factors appear to be involved. However, having a close relative with rheumatoid arthritis likely increases a person&apos;s risk of developing the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000875-5" qtype="treatment">What are the treatments for rheumatoid arthritis ?</Question>
+			<Answer>These resources address the diagnosis or management of rheumatoid arthritis:  - American College of Rheumatology: ACR-Endorsed Criteria for Rheumatic Diseases  - American College of Rheumatology: Treatment for Rheumatic Diseases  - Genetic Testing Registry: Rheumatoid arthritis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

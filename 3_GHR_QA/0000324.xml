@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000324" source="GHR" url="https://ghr.nlm.nih.gov/condition/erdheim-chester-disease">
+<Focus>Erdheim-Chester disease</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0878675</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>lipid granulomatosis</Synonym>
+		<Synonym>polyostotic sclerosing histiocytosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000324-1" qtype="information">What is (are) Erdheim-Chester disease ?</Question>
+			<Answer>Erdheim-Chester disease is a rare disorder characterized by histiocytosis, a condition in which the immune system produces excess quantities of cells called histiocytes. Histiocytes normally function to destroy foreign substances and protect the body from infection. Erdheim-Chester disease is classified as a form of non-Langerhans cell histiocytosis to distinguish it from Langerhans cell histiocytosis, which involves accumulation of a specific type of histiocyte called Langerhans cells. In Erdheim-Chester disease, histiocytosis leads to inflammation that can damage organs and tissues throughout the body, causing them to become thickened, dense, and scarred (fibrotic); this tissue damage may lead to organ failure.  People with Erdheim-Chester disease often have bone pain, especially in the lower legs and upper arms, due to an abnormal increase in bone density (osteosclerosis). Damage to the pituitary gland (a structure at the base of the brain that produces several hormones, including a hormone that controls the amount of water released in the urine) may result in hormonal problems such as a condition called diabetes insipidus that leads to excessive urination. Abnormally high pressure of the cerebrospinal fluid within the skull (intracranial hypertension) caused by accumulation of histiocytes in the brain may result in headaches, seizures, cognitive impairment, or problems with movement or sensation. People with this condition can also have shortness of breath, heart or kidney disease, protruding eyes (exophthalmos), skin growths, or inability to conceive a child (infertility). Affected individuals may also experience fever, night sweats, fatigue, weakness, and weight loss.  The signs and symptoms of Erdheim-Chester disease usually appear between the ages of 40 and 60, although the disorder can occur at any age. The severity of the condition varies widely; some affected individuals have few or no associated health problems, while others have severe complications that can be life-threatening.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000324-2" qtype="frequency">How many people are affected by Erdheim-Chester disease ?</Question>
+			<Answer>Erdheim-Chester disease is a rare disorder; its exact prevalence is unknown. More than 500 affected individuals worldwide have been described in the medical literature. For unknown reasons, men are slightly more likely to develop the disease, accounting for about 60 percent of cases.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000324-3" qtype="genetic changes">What are the genetic changes related to Erdheim-Chester disease ?</Question>
+			<Answer>More than half of people with Erdheim-Chester disease have a specific mutation in the BRAF gene. Mutations in other genes are also thought to be involved in this disorder.  The BRAF gene provides instructions for making a protein that helps transmit chemical signals from outside the cell to the cell&apos;s nucleus. This protein is part of a signaling pathway known as the RAS/MAPK pathway, which controls several important cell functions. Specifically, the RAS/MAPK pathway regulates the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis).  The BRAF gene mutation that causes Erdheim-Chester disease is somatic, which means that it occurs during a person&apos;s lifetime and is present only in certain cells. The mutation occurs in histiocytes or in immature precursor cells that will develop into histiocytes. This mutation leads to production of a BRAF protein that is abnormally active, which disrupts regulation of cell growth and division. The unregulated overproduction of histiocytes results in their accumulation in the body&apos;s tissues and organs, leading to the signs and symptoms of Erdheim-Chester disease.  The BRAF gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous. Researchers disagree on whether Erdheim-Chester disease should be considered a form of cancer because of the unregulated accumulation of histiocytes.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000324-4" qtype="inheritance">Is Erdheim-Chester disease inherited ?</Question>
+			<Answer>This condition is not inherited. It arises from a somatic mutation in histiocytes or their precursor cells during an individual&apos;s lifetime.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000324-5" qtype="treatment">What are the treatments for Erdheim-Chester disease ?</Question>
+			<Answer>These resources address the diagnosis or management of Erdheim-Chester disease:  - Histiocytosis Association: Erdheim-Chester Disease Diagnosis and Treatment   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

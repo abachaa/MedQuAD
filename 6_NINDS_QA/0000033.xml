@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000033" source="NINDS" url="http://www.ninds.nih.gov/disorders/a_t/a-t.htm">
+<Focus>Ataxia Telangiectasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004135</CUI>
+			<CUI>C0039446</CUI>
+			<CUI>C1963248</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000033-1" qtype="information">What is (are) Ataxia Telangiectasia ?</Question>
+			<Answer>Ataxia-telangiectasia is a rare, childhood neurological disorder that causes degeneration in the part of the brain that controls motor movements and speech. The first signs of the disease are unsteady walking and slurred speech, usually occurring during the first five years of life. Telangiectasias (tiny, red &quot;spider&quot; veins), which appear in the corners of the eyes or on the surface of the ears and cheeks, are characteristic of the disease, but are not always present and generally do not appear in the first years of life. About 35 percent of those with A-T develop cancer, most frequently acute lymphocytic leukemia or lymphoma. The most unusual symptom is an acute sensitivity to ionizing radiation, such as X-rays or gamma rays. Many individuals with A-T have a weakened immune system, making them susceptible to recurrent respiratory infections. Other features of the disease may include mild diabetes mellitus, premature graying of the hair, difficulty swallowing, and delayed physical and sexual development. Children with A-T usually have normal or above normal intelligence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000033-2" qtype="treatment">What are the treatments for Ataxia Telangiectasia ?</Question>
+			<Answer>There is no cure for A-T and, currently, no way to slow the progression of the disease. Treatment is symptomatic and supportive. Physical and occupational therapy help to maintain flexibility. Speech therapy is important, teaching children to control air flow to the vocal cords. Gamma-globulin injections may be useful if immunoglobulin levels are sufficiently reduced to weaken the immune system. High-dose vitamin regimens and antioxidants such as alpha lipoic acid also may also be used.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000033-3" qtype="outlook">What is the outlook for Ataxia Telangiectasia ?</Question>
+			<Answer>Average lifespan has been improving for years, for unknown reasons, and varies with the severity of the underlying mutations, ATM (ataxia-telangiectasia mutated) protein levels, and residual ATM kinase activity. Some individuals with later onset of disease and slower progression survive into their 50s.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000033-4" qtype="research">what research (or clinical trials) is being done for Ataxia Telangiectasia ?</Question>
+			<Answer>NINDS-supported researchers discovered the gene responsible for A-T, known as ATM (ataxia-telangiectasia mutated) in 1995. This gene makes a protein that activates many (probably more than 700) other proteins that control cell cycle, DNA repair, and cell death. Without it, cells are unable to activate the cellular checkpoints that protect against the damage of ionizing radiation and other agents that can harm DNA. In addition to supporting basic research on A-T, NINDS also funds research aimed at A-T drug development, including development of animal models, gene and stem-cell based therapies, and high-throughput drug screens. The NINDS also leads a trans-NIH A-T Working Group whose members include NINDS, NHLBI, NIEHS, NCI, NEI, NIGMS, NHGRI, NIA, NIAID, NICHD, and ORD.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

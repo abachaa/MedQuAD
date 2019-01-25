@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000648" source="GHR" url="https://ghr.nlm.nih.gov/condition/metatropic-dysplasia">
+<Focus>metatropic dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265281</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>metatropic dwarfism</Synonym>
+		<Synonym>metatropic dysplasia type 1</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000648-1" qtype="information">What is (are) metatropic dysplasia ?</Question>
+			<Answer>Metatropic dysplasia is a skeletal disorder characterized by short stature (dwarfism) with other skeletal abnormalities. The term &quot;metatropic&quot; is derived from the Greek word &quot;metatropos,&quot; which means &quot;changing patterns.&quot; This name reflects the fact that the skeletal abnormalities associated with the condition change over time.  Affected infants are born with a narrow chest and unusually short arms and legs with dumbbell-shaped long bones. Beginning in early childhood, people with this condition develop abnormal side-to-side and front-to-back curvature of the spine (scoliosis and kyphosis, often called kyphoscoliosis when they occur together). The curvature worsens with time and tends to be resistant to treatment. Because of the severe kyphoscoliosis, affected individuals may ultimately have a very short torso in relation to the length of their arms and legs.  Some people with metatropic dysplasia are born with an elongated tailbone known as a coccygeal tail; it is made of a tough but flexible tissue called cartilage. The coccygeal tail usually shrinks over time. Other skeletal problems associated with metatropic dysplasia include flattened bones of the spine (platyspondyly); excessive movement of spinal bones in the neck that can damage the spinal cord; either a sunken chest (pectus excavatum) or a protruding chest (pectus carinatum); and joint deformities called contractures that restrict the movement of joints in the shoulders, elbows, hips, and knees. Beginning early in life, affected individuals can also develop a degenerative form of arthritis that causes joint pain and further restricts movement.  The signs and symptoms of metatropic dysplasia can vary from relatively mild to life-threatening. In the most severe cases, the narrow chest and spinal abnormalities prevent the lungs from expanding fully, which restricts breathing. Researchers formerly recognized several distinct forms of metatropic dysplasia based on the severity of the condition&apos;s features. The forms included a mild type, a classic type, and a lethal type. However, all of these forms are now considered to be part of a single condition with a spectrum of overlapping signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000648-2" qtype="frequency">How many people are affected by metatropic dysplasia ?</Question>
+			<Answer>Metatropic dysplasia is a rare disease; its exact prevalence is unknown. More than 80 affected individuals have been reported in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000648-3" qtype="genetic changes">What are the genetic changes related to metatropic dysplasia ?</Question>
+			<Answer>Metatropic dysplasia is caused by mutations in the TRPV4 gene, which provides instructions for making a protein that acts as a calcium channel. The TRPV4 channel transports positively charged calcium atoms (calcium ions) across cell membranes and into cells. The channel is found in many types of cells, but little is known about its function. Studies suggest that it plays a role in the normal development of cartilage and bone. This role would help explain why TRPV4 gene mutations cause the skeletal abnormalities characteristic of metatropic dysplasia. Mutations in the TRPV4 gene appear to overactivate the channel, increasing the flow of calcium ions into cells. However, it remains unclear how changes in the activity of the calcium channel lead to the specific features of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000648-4" qtype="inheritance">Is metatropic dysplasia inherited ?</Question>
+			<Answer>Metatropic dysplasia is considered an autosomal dominant disorder because one mutated copy of the TRPV4 gene in each cell is sufficient to cause the condition. Most cases of metatropic dysplasia are caused by new mutations in the gene and occur in people with no history of the disorder in their family. In a few reported cases, an affected person has inherited the condition from an affected parent.  In the past, it was thought that the lethal type of metatropic dysplasia had an autosomal recessive pattern of inheritance, in which both copies of the gene in each cell have mutations. However, more recent research has confirmed that all metatropic dysplasia has an autosomal dominant pattern of inheritance.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000648-5" qtype="treatment">What are the treatments for metatropic dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of metatropic dysplasia:  - Gene Review: Gene Review: TRPV4-Associated Disorders  - Genetic Testing Registry: Metatrophic dysplasia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

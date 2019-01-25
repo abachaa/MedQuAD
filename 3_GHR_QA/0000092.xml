@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000092" source="GHR" url="https://ghr.nlm.nih.gov/condition/autosomal-dominant-hypocalcemia">
+<Focus>autosomal dominant hypocalcemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020598</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ADH</Synonym>
+		<Synonym>autosomal dominant hypoparathyroidism</Synonym>
+		<Synonym>familial hypercalciuric hypocalcemia</Synonym>
+		<Synonym>familial hypocalcemia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000092-1" qtype="information">What is (are) autosomal dominant hypocalcemia ?</Question>
+			<Answer>Autosomal dominant hypocalcemia is characterized by low levels of calcium in the blood (hypocalcemia). Affected individuals can have an imbalance of other molecules in the blood as well, including too much phosphate (hyperphosphatemia) or too little magnesium (hypomagnesemia). Some people with autosomal dominant hypocalcemia also have low levels of a hormone called parathyroid hormone (hypoparathyroidism). This hormone is involved in the regulation of calcium levels in the blood. Abnormal levels of calcium and other molecules in the body can lead to a variety of signs and symptoms, although about half of affected individuals have no associated health problems.  The most common features of autosomal dominant hypocalcemia include muscle spasms in the hands and feet (carpopedal spasms) and muscle cramping, prickling or tingling sensations (paresthesias), or twitching of the nerves and muscles (neuromuscular irritability) in various parts of the body. More severely affected individuals develop seizures, usually in infancy or childhood. Sometimes, these symptoms occur only during episodes of illness or fever.  Some people with autosomal dominant hypocalcemia have high levels of calcium in their urine (hypercalciuria), which can lead to deposits of calcium in the kidneys (nephrocalcinosis) or the formation of kidney stones (nephrolithiasis). These conditions can damage the kidneys and impair their function. Sometimes, abnormal deposits of calcium form in the brain, typically in structures called basal ganglia, which help control movement.  A small percentage of severely affected individuals have features of a kidney disorder called Bartter syndrome in addition to hypocalcemia. These features can include a shortage of potassium (hypokalemia) and magnesium and a buildup of the hormone aldosterone (hyperaldosteronism) in the blood. The abnormal balance of molecules can raise the pH of the blood, which is known as metabolic alkalosis. The combination of features of these two conditions is sometimes referred to as autosomal dominant hypocalcemia with Bartter syndrome or Bartter syndrome type V.  There are two types of autosomal dominant hypocalcemia distinguished by their genetic cause. The signs and symptoms of the two types are generally the same.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000092-2" qtype="frequency">How many people are affected by autosomal dominant hypocalcemia ?</Question>
+			<Answer>The prevalence of autosomal dominant hypocalcemia is unknown. The condition is likely underdiagnosed because it often causes no signs or symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000092-3" qtype="genetic changes">What are the genetic changes related to autosomal dominant hypocalcemia ?</Question>
+			<Answer>Autosomal dominant hypocalcemia is primarily caused by mutations in the CASR gene; these cases are known as type 1. A small percentage of cases, known as type 2, are caused by mutations in the GNA11 gene. The proteins produced from these genes work together to regulate the amount of calcium in the blood.  The CASR gene provides instructions for making a protein called the calcium-sensing receptor (CaSR). Calcium molecules attach (bind) to the CaSR protein, which allows this protein to monitor and regulate the amount of calcium in the blood. G11, which is produced from the GNA11 gene, is one component of a signaling protein that works in conjunction with CaSR. When a certain concentration of calcium is reached, CaSR stimulates G11 to send signals to block processes that increase the amount of calcium in the blood.  Mutations in the CASR or GNA11 gene lead to overactivity of the respective protein. The altered CaSR protein is more sensitive to calcium, meaning even low levels of calcium can trigger it to stimulate G11 signaling. Similarly, the altered G11 protein continues to send signals to prevent calcium increases, even when levels in the blood are very low. As a result, calcium levels in the blood remain low, causing hypocalcemia. Calcium plays an important role in the control of muscle movement, and a shortage of this molecule can lead to cramping or twitching of the muscles. Impairment of the processes that increase calcium can also disrupt the normal regulation of other molecules, such as phosphate and magnesium, leading to other signs of autosomal dominant hypocalcemia. Studies show that the lower the amount of calcium in the blood, the more severe the symptoms of the condition are.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000092-4" qtype="inheritance">Is autosomal dominant hypocalcemia inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In most cases, an affected person inherits the mutation from one affected parent. A small number of cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000092-5" qtype="treatment">What are the treatments for autosomal dominant hypocalcemia ?</Question>
+			<Answer>These resources address the diagnosis or management of autosomal dominant hypocalcemia:  - Genetic Testing Registry: Autosomal dominant hypocalcemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

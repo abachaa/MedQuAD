@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000124" source="NINDS" url="http://www.ninds.nih.gov/disorders/fahrs/fahrs.htm">
+<Focus>Fahr's Syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393590</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000124-1" qtype="information">What is (are) Fahr's Syndrome ?</Question>
+			<Answer>Fahr&apos;s Syndrome is a rare, genetically dominant, inherited neurological disorder characterized by abnormal deposits of calcium in areas of the brain that control movement, including the basal ganglia and the cerebral cortex. Symptoms of the disorder may include deterioration of motor function, dementia, seizures, headache, dysarthria (poorly articulated speech), spasticity (stiffness of the limbs) and spastic paralysis, eye impairments, and athetosis (involuntary, writhing movements). Fahr&apos;s Syndrome can also include symptoms characteristic of Parkinson&apos;s disease such as tremors, muscle rigidity, a mask-like facial appearance, shuffling gait, and a &quot;pill-rolling&quot; motion of the fingers. These symptoms generally occur later in the development of the disease. More common symptoms include dystonia (disordered muscle tone) and chorea (involuntary, rapid, jerky movements). Age of onset is typically in the 40s or 50s, although it can occur at any time in childhood or adolescence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000124-2" qtype="treatment">What are the treatments for Fahr's Syndrome ?</Question>
+			<Answer>There is no cure for Fahr&apos;s Syndrome, nor is there a standard course of treatment. Treatment addresses symptoms on an individual basis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000124-3" qtype="outlook">What is the outlook for Fahr's Syndrome ?</Question>
+			<Answer>The prognosis for any individual with Fahr&apos;s Syndrome is variable and hard to predict. There is no reliable correlation between age, extent of calcium deposits in the brain, and neurological deficit. Since the appearance of calcification is age-dependent, a CT scan could be negative in a gene carrier who is younger than the age of 55.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000124-4" qtype="research">what research (or clinical trials) is being done for Fahr's Syndrome ?</Question>
+			<Answer>The NINDS supports and conducts research on neurogenetic disorders such as Fahr&apos;s Syndrome. The goals of this research are to locate and understand the actions of the genes involved in this disorder. Finding these genes could lead to effective ways to treat and prevent Fahr&apos;s Syndrome.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

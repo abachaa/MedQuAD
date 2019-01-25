@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001824" source="GARD" url="https://rarediseases.info.nih.gov/gard/10268/diabetes-mellitus-type-1">
+<Focus>Diabetes mellitus type 1</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011854</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Diabetes mellitus, insulin dependent</Synonym>
+		<Synonym>Type 1 diabetes</Synonym>
+		<Synonym>Insulin-dependent diabetes mellitus</Synonym>
+		<Synonym>IDDM</Synonym>
+		<Synonym>Juvenile-onset diabetes</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001824-1" qtype="information">What is (are) Diabetes mellitus type 1 ?</Question>
+			<Answer>Diabetes mellitus type 1 (DM1) is a condition in which cells in the pancreas (beta cells) stop producing insulin, causing abnormally high blood sugar levels. Lack of insulin results in the inability of the body to use glucose for energy and control the amount of sugar in the blood. DM1 can occur at any age, but usually develops by early adulthood, most often in adolescence. Symptoms of high blood sugar may include frequent urination, excessive thirst, fatigue, blurred vision, tingling or loss of feeling in the hands and feet, and weight loss. The exact cause of DM1 is unknown, but having certain &quot;variants&quot; of specific genes may increase a person&apos;s risk to develop the condition. A predisposition to develop DM1 runs in families, but no known inheritance pattern exists. Treatment includes blood sugar control and insulin replacement therapy. Improper control can cause recurrence of high blood sugar, or abnormally low blood sugar (hypoglycemia) during exercise or when eating is delayed. If not treated, the condition can be life-threatening. Over many years, chronic high blood sugar may be associated with a variety of complications that affect many parts of the body.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001824-2" qtype="symptoms">What are the symptoms of Diabetes mellitus type 1 ?</Question>
+			<Answer>What are the signs and symptoms of Diabetes mellitus type 1? The Human Phenotype Ontology provides the following list of signs and symptoms for Diabetes mellitus type 1. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the immune system - Diabetes mellitus - Heterogeneous - Hyperglycemia - Ketoacidosis - Polydipsia - Polyphagia - Polyuria - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001824-3" qtype="inheritance">Is Diabetes mellitus type 1 inherited ?</Question>
+			<Answer>Is diabetes mellitus type 1 inherited? Diabetes mellitus type 1 (DM1) itself is not inherited, but a predisposition to developing the condition can run in families. While some people with a family history of DM1 may be at an increased risk, most will not have the condition. While the exact cause is not known, some genetic risk factors have been found. The risk of developing DM1 is increased by having certain versions (variants) of genes, which belong to a family of genes called the human leukocyte antigen (HLA) complex. HLA genes have many variations, and people have a certain combination of these variations, called a haplotype. Certain HLA haplotypes are associated with a higher risk of developing DM1, with particular combinations causing the highest risk. However, these variants are also found in the general population, and only about 5% of people with the gene variants develop DM1. Other genes, as well as a variety of other factors, are thought to influence the risk for DM1 also. Because there is no specific inheritance pattern associated with DM1, it is difficult to predict whether another family member will develop the condition. Generally, the risk is higher if a parent or sibling is affected. In some cases, genetic testing can be done to determine if someone who has a family history is at increased risk of developing the condition.  More information can be found on the America Diabetes Association&apos;s Web site, which has an article entitled Genetics of Diabetes. People with specific questions about genetic risks to themselves or family members should speak with their health care provider or a genetics professional.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

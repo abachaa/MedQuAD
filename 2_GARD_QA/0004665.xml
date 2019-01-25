@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0004665" source="GARD" url="https://rarediseases.info.nih.gov/gard/10411/ovarian-small-cell-carcinoma">
+<Focus>Ovarian small cell carcinoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C2212006</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Small cell carcinoma of the ovary</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0004665-1" qtype="information">What is (are) Ovarian small cell carcinoma ?</Question>
+			<Answer>Ovarian small cell carcinoma is a rare cancer that typically occurs in young women. It is an aggressive tumor that can metastasize to other parts of the body. Ovarian small cell carcinoma is associated with hypercalcemia and is usually treated with platinum or etoposide-based chemotherapy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0004665-2" qtype="treatment">What are the treatments for Ovarian small cell carcinoma ?</Question>
+			<Answer>What treatments are available for ovarian small cell carcinoma? Ovarian small cell carcinoma is often treated with surgery and chemotherapy. Radiation therapy may also be used in some cases. Because this tumor is derived from the primitive germ cells (eggs) of the ovary, it is often treated with a chemotherapy regimen similar to what is used to treat ovarian germ cell tumors. Specifically, platinum and etoposide based chemotherapy is typically used to treat ovarian small cell carcinoma.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

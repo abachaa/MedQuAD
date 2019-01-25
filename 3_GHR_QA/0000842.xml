@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000842" source="GHR" url="https://ghr.nlm.nih.gov/condition/pseudoachondroplasia">
+<Focus>pseudoachondroplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0410538</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>PSACH</Synonym>
+		<Synonym>pseudoachondroplastic dysplasia</Synonym>
+		<Synonym>pseudoachondroplastic spondyloepiphyseal dysplasia syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000842-1" qtype="information">What is (are) pseudoachondroplasia ?</Question>
+			<Answer>Pseudoachondroplasia is an inherited disorder of bone growth. It was once thought to be related to another disorder of bone growth called achondroplasia, but without that disorder&apos;s characteristic facial features. More research has demonstrated that pseudoachondroplasia is a separate disorder.  All people with pseudoachondroplasia have short stature. The average height of adult males with this condition is 120 centimeters (3 feet, 11 inches), and the average height of adult females is 116 centimeters (3 feet, 9 inches). Individuals with pseudoachondroplasia are not unusually short at birth; by the age of two, their growth rate falls below the standard growth curve.  Other characteristic features of pseudoachondroplasia include short arms and legs; a waddling walk; joint pain in childhood that progresses to a joint disease known as osteoarthritis; an unusually large range of joint movement (hyperextensibility) in the hands, knees, and ankles; and a limited range of motion at the elbows and hips. Some people with pseudoachondroplasia have legs that turn outward or inward (valgus or varus deformity). Sometimes, one leg turns outward and the other inward, which is called windswept deformity. Some affected individuals have a spine that curves to the side (scoliosis) or an abnormally curved lower back (lordosis). People with pseudoachondroplasia have normal facial features, head size, and intelligence.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000842-2" qtype="frequency">How many people are affected by pseudoachondroplasia ?</Question>
+			<Answer>The exact prevalence of pseudoachondroplasia is unknown; it is estimated to occur in 1 in 30,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000842-3" qtype="genetic changes">What are the genetic changes related to pseudoachondroplasia ?</Question>
+			<Answer>Mutations in the COMP gene cause pseudoachondroplasia. This gene provides instructions for making a protein that is essential for the normal development of cartilage and for its conversion to bone. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears.  The COMP protein is normally found in the spaces between cartilage-forming cells called chondrocytes, where it interacts with other proteins. COMP gene mutations result in the production of an abnormal COMP protein that cannot be transported out of the cell. The abnormal protein builds up inside the chondrocyte and ultimately leads to early cell death. Early death of the chondrocytes prevents normal bone growth and causes the short stature and bone abnormalities seen in pseudoachondroplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000842-4" qtype="inheritance">Is pseudoachondroplasia inherited ?</Question>
+			<Answer>Pseudoachondroplasia is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.  In some cases, an affected person inherits the mutation from one affected parent. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000842-5" qtype="treatment">What are the treatments for pseudoachondroplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of pseudoachondroplasia:  - Gene Review: Gene Review: Pseudoachondroplasia  - Genetic Testing Registry: Pseudoachondroplastic spondyloepiphyseal dysplasia syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

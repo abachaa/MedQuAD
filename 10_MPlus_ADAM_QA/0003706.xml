@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003706" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000686.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Staph infections - self-care at home</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038160</CUI>
+			<CUI>C3714514</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Staphylococcus infections - self-care at home</Synonym>
+		<Synonym>Methicillin-resistant staphylococcus aureus infections - self-care at home</Synonym>
+		<Synonym>MRSA infections - self-care at home</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003706-1" qtype="information">What is (are) Staph infections - self-care at home ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003706-3" qtype="susceptibility">Who is at risk for Staph infections - self-care at home? ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0003706-5" qtype="treatment">What are the treatments for Staph infections - self-care at home ?</Question>
+			<Answer></Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0003706-6" qtype="prevention">How to prevent Staph infections - self-care at home ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000643" source="GARD" url="https://rarediseases.info.nih.gov/gard/20/barrett-esophagus">
+<Focus>Barrett esophagus</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0004763</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Barrett ulcer</Synonym>
+		<Synonym>Barrett syndrome</Synonym>
+		<Synonym>Columnar-like esophagus</Synonym>
+		<Synonym>Chronic peptic ulcer and esophagitis syndrome</Synonym>
+		<Synonym>Esophagitis-peptic ulcer</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000643-1" qtype="information">What is (are) Barrett esophagus ?</Question>
+			<Answer>Barrett esophagus is a condition in which the lining of the esophagus (the tube that carries food from the throat to the stomach) is replaced by tissue that is similar to the lining of the intestines. Although this change does not cause any specific signs or symptoms, it is typically diagnosed in people who have long-term gastroesophageal reflux disease (GERD). The exact underlying cause of Barrett esophagus is not known; however, it generally occurs sporadically in people with no family history of the condition. Treatment varies by the severity of the condition and generally includes medications and life style modifications to ease the symptoms of GERD. Endoscopic or surgical treatments may be recommended in people with severe cases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000643-2" qtype="symptoms">What are the symptoms of Barrett esophagus ?</Question>
+			<Answer>What are the signs and symptoms of Barrett esophagus? In people affected by Barrett esophagus, the tissue lining the esophagus (the tube connecting the mouth to the stomach) is replaced by cells that are similar to those found in the lining of the intestines. This change does not cause any specific signs or symptoms. However, Barrett esophagus is typically diagnosed in people who have long-term gastroesophageal reflux disease (GERD). GERD may be associated with symptoms such as frequent heartburn, difficulty swallowing food, and/or chest pain (less commonly). People with Barrett esophagus do have a greater risk than the general population of developing esophageal cancer. However, the overall risk is still low as less than 0.5 percent of people with Barrett esophagus develop cancer of the esophagus each year. The Human Phenotype Ontology provides the following list of signs and symptoms for Barrett esophagus. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of the abdominal organs 90% Neoplasm 50% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000643-3" qtype="causes">What causes Barrett esophagus ?</Question>
+			<Answer>What causes Barrett esophagus? The exact underlying cause of Barrett esophagus is unknown. However, certain factors are known to increase the risk of developing the condition. These include: Long-standing gastroesophageal reflux disease (GERD) Obesity (specifically high levels of belly fat) Smoking Factors that may decrease the risk include having a Helicobacter pylori (H. pylori) infection; frequent use of aspirin or other nonsteroidal anti-inflammatory drugs; and a diet high in fruits, vegetables, and certain vitamins.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000643-4" qtype="inheritance">Is Barrett esophagus inherited ?</Question>
+			<Answer>Is Barrett esophagus inherited? Barrett esophagus usually occurs sporadically in people with no family history of the condition. In rare cases, it can affect more than one family member; however, it is unclear whether these cases are due to common environmental exposures or an inherited predisposition (or a combination of the two). One study found that some people with Barrett esophagus who go on to develop esophageal adenocarcinoma have changes (mutations) in the MSR1, ASCC1, and/or CTHRC1 genes. However, additional studies are needed to confirm these findings.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000643-5" qtype="exams and tests">How to diagnose Barrett esophagus ?</Question>
+			<Answer>How is Barrett esophagus diagnosed? Esophagogastroduodenoscopy (EGD) with a biopsy is the procedure of choice for confirming a diagnosis of Barret esophagus. A diagnosis is often made while investigating other conditions such as gastroesophageal reflux disease (GERD). Based on the biopsy, a doctor will be able to determine the severity of the condition, which can help inform treatment decisions. The sample may be classified as: No dysplasia - a diagnosis of Barrett&apos;s esophagus is confirmed, but no precancerous changes are found in the cells Low-grade dysplasia - the cells show small signs of precancerous changes High-grade dysplasia - the cells show many precancerous changes. This is thought to be the final step before cells change into esophageal cancer The National Institute of Diabetes and Digestive and Kidney Diseases&apos; (NIDDK) Web site offers more specific information on the diagnosis of Barret esophagus. Please click on the link to access this resource.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000643-6" qtype="treatment">What are the treatments for Barrett esophagus ?</Question>
+			<Answer>How might Barrett esophagus be treated? The treatment of Barrett esophagus largely depends on the severity of the condition as determined by the level of dysplasia seen on biopsy. In people with no dysplasia or low-grade dysplasia, treatment is often focused on easing the signs and symptoms of gastroesophageal reflux disease (GERD), which can cause further damage to the esophagus. This may include certain medications and lifestyle modifications such as avoiding smoking; eliminating food and drinks that trigger heartburn; raising the head of the bed while sleeping; and/or avoiding late night snacking. Periodic endoscopy may also be recommended to monitor Barrett esophagus as other treatments may be indicated if the condition advances. Because high-grade dysplasia is thought to be the final step before cells change into esophageal cancer, more aggressive treatments are typically recommended. These may include:[ Endoscopic resection - an endoscope is used to remove damaged cells Endoscopic ablative therapies - different techniques such as photodynamic therapy or radiofrequency ablation are used to destroy the dysplasia in the esophagus. In photodynamic therapy, abnormal cells are destroyed by making them sensitive to light, while radiofrequency ablation uses heat to remove abnormal esophagus tissue. Surgery - the damaged part of the esophagus is removed and the remaining portion is attached to the stomach The National Institute of Diabetes and Digestive and Kidney Diseases&apos; (NIDDK) Web site offers more specific information on the treatment and management of Barret esophagus. Please click on the link to access this resource.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

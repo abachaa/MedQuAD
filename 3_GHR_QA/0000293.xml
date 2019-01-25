@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000293" source="GHR" url="https://ghr.nlm.nih.gov/condition/distal-myopathy-2">
+<Focus>distal myopathy 2</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1853723</CUI>
+			<CUI>C0026848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>distal myopathy with vocal cord and pharyngeal signs</Synonym>
+		<Synonym>distal myopathy with vocal cord weakness</Synonym>
+		<Synonym>matrin 3 distal myopathy</Synonym>
+		<Synonym>MPD2</Synonym>
+		<Synonym>myopathia distalis type 2</Synonym>
+		<Synonym>VCPDM</Synonym>
+		<Synonym>vocal cord and pharyngeal weakness with distal myopathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000293-1" qtype="information">What is (are) distal myopathy 2 ?</Question>
+			<Answer>Distal myopathy 2 is a condition characterized by weakness of specific muscles that begins in adulthood. It is a form of muscular dystrophy that specifically involves muscles in the throat, lower legs, and forearms. Muscles farther from the center of the body, like the muscles of the lower legs and forearms, are known as distal muscles.  Muscle weakness in the ankles is usually the first symptom of distal myopathy 2. The weakness can also affect muscles in the hands, wrists, and shoulders. At first, the muscle weakness may be on only one side of the body, but both sides are eventually involved. This muscle weakness can slowly worsen and make actions like walking and lifting the fingers difficult.  Another characteristic feature of distal myopathy 2 is weakness of the vocal cords and throat. This weakness initially causes the voice to sound weak or breathy (hypophonic). Eventually, the voice becomes gurgling, hoarse, and nasal. The weakness can also cause difficulty swallowing (dysphagia).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000293-2" qtype="frequency">How many people are affected by distal myopathy 2 ?</Question>
+			<Answer>The prevalence of distal myopathy 2 is unknown. At least two families with the condition have been described in the scientific literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000293-3" qtype="genetic changes">What are the genetic changes related to distal myopathy 2 ?</Question>
+			<Answer>A mutation in the MATR3 gene has been identified in people with distal myopathy 2. This gene provides instructions for making a protein called matrin 3, which is found in the nucleus of the cell as part of the nuclear matrix. The nuclear matrix is a network of proteins that provides structural support for the nucleus and aids in several important nuclear functions.  The function of the matrin 3 protein is unknown. This protein can attach to (bind) RNA, which is a chemical cousin of DNA. Some studies indicate that matrin 3 binds and stabilizes a type of RNA called messenger RNA (mRNA), which provides the genetic blueprint for proteins. Matrin 3 may also bind certain abnormal RNAs that might lead to nonfunctional or harmful proteins, thereby blocking the formation of such proteins. Other studies suggest that the matrin 3 protein may be involved in cell survival.  The MATR3 gene mutation identified in people with distal myopathy 2 changes a single protein building block (amino acid) in the matrin 3 protein. The effect of this mutation on the function of the protein is unknown, although one study suggests that the mutation may change the location of the protein in the nucleus. Researchers are working to determine how this gene mutation leads to the signs and symptoms of distal myopathy 2.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000293-4" qtype="inheritance">Is distal myopathy 2 inherited ?</Question>
+			<Answer>Distal myopathy 2 is inherited in an autosomal dominant pattern, which means one copy of the altered MATR3 gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000293-5" qtype="treatment">What are the treatments for distal myopathy 2 ?</Question>
+			<Answer>These resources address the diagnosis or management of distal myopathy 2:  - Genetic Testing Registry: Myopathy, distal, 2  - MedlinePlus Encyclopedia: Muscular Dystrophy  - National Institute of Neurological Disorders and Stroke: Muscular Dystrophy: Hope Through Research   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000955" source="GHR" url="https://ghr.nlm.nih.gov/condition/sting-associated-vasculopathy-with-onset-in-infancy">
+<Focus>STING-associated vasculopathy with onset in infancy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1864921</CUI>
+			<CUI>C0042373</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SAVI</Synonym>
+		<Synonym>STING-associated vasculopathy, infantile onset</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000955-1" qtype="information">What is (are) STING-associated vasculopathy with onset in infancy ?</Question>
+			<Answer>STING-associated vasculopathy with onset in infancy (SAVI) is a disorder involving abnormal inflammation throughout the body, especially in the skin, blood vessels, and lungs. Inflammation normally occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and help with tissue repair. Excessive inflammation damages the body&apos;s own cells and tissues. Disorders such as SAVI that result from abnormally increased inflammation are known as autoinflammatory diseases.  The signs and symptoms of SAVI begin in the first few months of life, and most are related to problems with blood vessels (vasculopathy) and damage to the tissues that rely on these vessels for their blood supply. Affected infants develop areas of severely damaged skin (lesions), particularly on the face, ears, nose, fingers, and toes. These lesions begin as rashes and can progress to become wounds (ulcers) and dead tissue (necrosis). The skin problems, which worsen in cold weather, can lead to complications such as scarred ears, a hole in the tissue that separates the two nostrils (nasal septum perforation), or fingers or toes that require amputation. Individuals with SAVI also have a purplish skin discoloration (livedo reticularis) caused by abnormalities in the tiny blood vessels of the skin. Affected individuals may also experience episodes of Raynaud phenomenon, in which the fingers and toes turn white or blue in response to cold temperature or other stresses. This effect occurs because of problems with the small vessels that carry blood to the extremities.  In addition to problems affecting the skin, people with SAVI have recurrent low-grade fevers and swollen lymph nodes. They may also develop widespread lung damage (interstitial lung disease) that can lead to the formation of scar tissue in the lungs (pulmonary fibrosis) and difficulty breathing; these respiratory complications can become life-threatening. Rarely, muscle inflammation (myositis) and joint stiffness also occur.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000955-2" qtype="frequency">How many people are affected by STING-associated vasculopathy with onset in infancy ?</Question>
+			<Answer>The prevalence of this condition is unknown. Only a few affected individuals have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000955-3" qtype="genetic changes">What are the genetic changes related to STING-associated vasculopathy with onset in infancy ?</Question>
+			<Answer>SAVI is caused by mutations in the TMEM173 gene. This gene provides instructions for making a protein called STING, which is involved in immune system function. STING helps produce beta-interferon, a member of a class of proteins called cytokines that promote inflammation.  The TMEM173 gene mutations that cause SAVI are described as &quot;gain-of-function&quot; mutations because they enhance the activity of the STING protein, leading to overproduction of beta-interferon. Abnormally high beta-interferon levels cause excessive inflammation that results in tissue damage, leading to the signs and symptoms of SAVI.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000955-4" qtype="inheritance">Is STING-associated vasculopathy with onset in infancy inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, this condition likely results from new (de novo) mutations in the gene that occur during the formation of reproductive cells (eggs or sperm) or in early embryonic development. These cases occur in people with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000955-5" qtype="treatment">What are the treatments for STING-associated vasculopathy with onset in infancy ?</Question>
+			<Answer>These resources address the diagnosis or management of SAVI:  - Beth Israel Deaconess Medical Center: Autoinflammatory Disease Center  - Eurofever Project  - Genetic Testing Registry: Sting-associated vasculopathy, infantile-onset  - University College London: Vasculitis and Autoinflammation Research Group   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

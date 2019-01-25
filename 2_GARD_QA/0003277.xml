@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003277" source="GARD" url="https://rarediseases.info.nih.gov/gard/12032/isolated-levocardia">
+<Focus>Isolated levocardia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023569</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Situs inversus with levocardia</Synonym>
+		<Synonym>Isolated levocardia with situs inversus</Synonym>
+		<Synonym>Heterotaxy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003277-1" qtype="information">What is (are) Isolated levocardia ?</Question>
+			<Answer>Isolated levocardia is a type of situs inversus where the heart is located in the normal position, but there is a mirror-image reversal of other internal organs. Isolated levocardia may occur alone or with heart defects, heart rhythm abnormalities (sick sinus syndrome or atrioventricular node disorder), spleen defects (absent, underdeveloped, or extra spleen), and intestinal malrotation. Long term outlook varies depending on the presence/absence of associated abnormalities, particularly heart defects. The cause of isolated levocardia is not known. It is not usually associated with chromosome abnormalities.[7363]</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003277-2" qtype="exams and tests">How to diagnose Isolated levocardia ?</Question>
+			<Answer>Has MRI or other tests been helpful in planning the care of infants prenatally diagnosed with isolated levocardia? Yes. In isolated levocardia it can be difficult to determine the position of the internal organs. Ultrasonography, CT, and MRI have been used alone and in combination to improve imaging of the internal organs and major blood vessels. In addition, a careful assessment of the spleen in the newborn is important. People with spleen dysfunction are at an increased risk for serious infection and benefit from prophylactic life-long antibiotics and vaccination. Barium contrast screening has been used for early detection of intestinal malrotation and to guide treatment. Also, long-term, infrequent follow-up of infants and adults with isoalted levocardia to monitor for heart rhythm problems is recommended.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0006388" source="GARD" url="https://rarediseases.info.nih.gov/gard/5528/wagr-syndrome">
+<Focus>WAGR syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0206115</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Wilms tumor, Aniridia, Genitourinary anomalies, mental Retardation syndrome</Synonym>
+		<Synonym>WAGR Complex</Synonym>
+		<Synonym>Wilms Tumor-Aniridia-Gonadoblastoma-Mental Retardation syndrome</Synonym>
+		<Synonym>Chromosome 11p deletion syndrome</Synonym>
+		<Synonym>11p deletion syndrome</Synonym>
+		<Synonym>Wilms' tumor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0006388-1" qtype="information">What is (are) WAGR syndrome ?</Question>
+			<Answer>WAGR syndrome is a genetic syndrome in which there is a predisposition to several conditions, including certain malignancies, distinctive eye abnormalities, and/or mental retardation. WAGR is an acronym for Wilms tumor, Aniridia, Genitourinary anomalies (such as undescended testicles or hypospadias in males, or internal genital or urinary anomalies in females), mental Retardation syndrome. A combination of two or more of these conditions is usually present in most individuals with WAGR syndrome. The syndrome is due to a microdeletion in the 11p13 region of chromosome 11. In most cases, this genetic change occurs spontaneously during early embryonic development (de novo) for unknown reasons (sporadic). Only rarely is the mutation inherited.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0006388-2" qtype="symptoms">What are the symptoms of WAGR syndrome ?</Question>
+			<Answer>What are the signs and symptoms of WAGR syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for WAGR syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Aniridia 90% Aplasia/Hypoplasia of the iris 90% Cognitive impairment 90% Cataract 50% Cryptorchidism 50% Displacement of the external urethral meatus 50% Hearing abnormality 50% Hypospadias 50% Intellectual disability 50% Microcephaly 50% Nephroblastoma (Wilms tumor) 50% Nystagmus 50% Ptosis 50% Short stature 50% Visual impairment 50% Nephropathy 40% Abnormality of the vagina 33% Streak ovary 33% Abnormality of the uterus 7.5% Glaucoma 7.5% Gonadoblastoma 7.5% Hernia of the abdominal wall 7.5% Obesity 7.5% Scoliosis 7.5% Renal insufficiency 10/46 Autosomal dominant inheritance - Contiguous gene syndrome - Somatic mutation - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

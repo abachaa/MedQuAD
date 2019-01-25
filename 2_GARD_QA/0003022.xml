@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003022" source="GARD" url="https://rarediseases.info.nih.gov/gard/7851/hypersensitivity-vasculitis">
+<Focus>Hypersensitivity vasculitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0151436</CUI>
+			<CUI>C2973529</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Leukocytoclastic angiitis</Synonym>
+		<Synonym>Cutaneous leukocytoclastic angiitis</Synonym>
+		<Synonym>Cutaneous leukocytoclastic vasculitis</Synonym>
+		<Synonym>Cutaneous small vessel vasculitis</Synonym>
+		<Synonym>Hypersensitivity angiitis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003022-1" qtype="information">What is (are) Hypersensitivity vasculitis ?</Question>
+			<Answer>Hypersensitivity vasculitis is an extreme reaction to a drug, infection, or foreign substance that leads to inflammation and damage to blood vessels of the skin. Signs and symptoms may include purple-colored spots and patches on the skin; skin lesions on the legs, buttocks, or trunk; blisters on the skin; hives (urticaria); and/or open sores with dead tissue (necrotic ulcers). This condition is caused by an allergic reaction to a drug or other foreign substance. This condition usually goes away over time; but on occasion, people can have repeated episodes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003022-2" qtype="symptoms">What are the symptoms of Hypersensitivity vasculitis ?</Question>
+			<Answer>What are the signs and symptoms of Hypersensitivity vasculitis? The Human Phenotype Ontology provides the following list of signs and symptoms for Hypersensitivity vasculitis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormality of temperature regulation 90% Cutis marmorata 90% Gangrene 90% Myalgia 90% Skin ulcer 90% Subcutaneous hemorrhage 90% Urticaria 90% Vasculitis 90% Arthralgia 50% Skin rash 50% Abnormality of the oral cavity 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

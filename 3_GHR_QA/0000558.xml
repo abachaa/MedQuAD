@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000558" source="GHR" url="https://ghr.nlm.nih.gov/condition/keratitis-ichthyosis-deafness-syndrome">
+<Focus>keratitis-ichthyosis-deafness syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0011053</CUI>
+			<CUI>C0018772</CUI>
+			<CUI>C0039082</CUI>
+			<CUI>C3665333</CUI>
+			<CUI>C0265336</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>ichthyosiform erythroderma, corneal involvement, and deafness</Synonym>
+		<Synonym>keratitis, ichthyosis, and deafness</Synonym>
+		<Synonym>KID syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000558-1" qtype="information">What is (are) keratitis-ichthyosis-deafness syndrome ?</Question>
+			<Answer>Keratitis-ichthyosis-deafness (KID) syndrome is characterized by eye problems, skin abnormalities, and hearing loss.  People with KID syndrome usually have keratitis, which is inflammation of the front surface of the eye (the cornea). The keratitis may cause pain, increased sensitivity to light (photophobia), abnormal blood vessel growth over the cornea (neovascularization), and scarring. Over time, affected individuals experience a loss of sharp vision (reduced visual acuity); in severe cases the keratitis can lead to blindness.  Most people with KID syndrome have thick, hard skin on the palms of the hands and soles of the feet (palmoplantar keratoderma). Affected individuals also have thick, reddened patches of skin (erythrokeratoderma) that are dry and scaly (ichthyosis). These dry patches can occur anywhere on the body, although they most commonly affect the neck, groin, and armpits. Breaks in the skin often occur and may lead to infections. In severe cases these infections can be life-threatening, especially in infancy. Approximately 12 percent of people with KID syndrome develop a type of skin cancer called squamous cell carcinoma, which may also affect mucous membranes such as the lining of the mouth.  Partial hair loss is a common feature of KID syndrome, and often affects the eyebrows and eyelashes. Affected individuals may also have small, abnormally formed nails.  Hearing loss in this condition is usually profound, but occasionally is less severe.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000558-2" qtype="frequency">How many people are affected by keratitis-ichthyosis-deafness syndrome ?</Question>
+			<Answer>KID syndrome is a rare disorder. Its prevalence is unknown. Approximately 100 cases have been reported.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000558-3" qtype="genetic changes">What are the genetic changes related to keratitis-ichthyosis-deafness syndrome ?</Question>
+			<Answer>KID syndrome is caused by mutations in the GJB2 gene. This gene provides instructions for making a protein called gap junction beta 2, more commonly known as connexin 26. Connexin 26 is a member of the connexin protein family. Connexin proteins form channels called gap junctions that permit the transport of nutrients, charged atoms (ions), and signaling molecules between neighboring cells that are in contact with each other. Gap junctions made with connexin 26 transport potassium ions and certain small molecules.  Connexin 26 is found in cells throughout the body, including the inner ear and the skin. In the inner ear, channels made from connexin 26 are found in a snail-shaped structure called the cochlea. These channels may help to maintain the proper level of potassium ions required for the conversion of sound waves to electrical nerve impulses. This conversion is essential for normal hearing. In addition, connexin 26 may be involved in the maturation of certain cells in the cochlea. Connexin 26 also plays a role in the growth and maturation of the outermost layer of skin (the epidermis).  The GJB2 gene mutations that cause KID syndrome change single protein building blocks (amino acids) in connexin 26. The mutations are thought to result in channels that constantly leak ions, which impairs the health of the cells and increases cell death. Death of cells in the skin and the inner ear may underlie the ichthyosis and deafness that occur in KID syndrome. It is unclear how GJB2 gene mutations affect the eye.  Because at least one of the GJB2 gene mutations identified in people with KID syndrome also occurs in hystrix-like ichthyosis with deafness (HID), a disorder with similar features but without keratitis, many researchers categorize KID syndrome and HID as a single disorder, which they call KID/HID. It is not known why some people with this mutation have eye problems while others do not.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000558-4" qtype="inheritance">Is keratitis-ichthyosis-deafness syndrome inherited ?</Question>
+			<Answer>KID syndrome is usually inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits the mutation from one affected parent. However, most cases result from new mutations in the gene and occur in people with no history of the disorder in their family.  A few families have had a condition resembling KID syndrome with an autosomal recessive pattern of inheritance. In autosomal recessive inheritance, both copies of a gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition. Affected individuals in these families have liver disease, which is not a feature of the autosomal dominant form. The autosomal recessive condition is sometimes called Desmons syndrome. It is unknown whether it is also caused by GJB2 gene mutations.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000558-5" qtype="treatment">What are the treatments for keratitis-ichthyosis-deafness syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of keratitis-ichthyosis-deafness syndrome:  - Genetic Testing Registry: Autosomal recessive keratitis-ichthyosis-deafness syndrome  - Genetic Testing Registry: Keratitis-ichthyosis-deafness syndrome, autosomal dominant   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

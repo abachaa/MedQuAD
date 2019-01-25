@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000871" source="GARD" url="https://rarediseases.info.nih.gov/gard/5968/budd-chiari-syndrome">
+<Focus>Budd-Chiari syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0019154</CUI>
+			<CUI>C0856761</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Hepatic vein obstruction</Synonym>
+		<Synonym>Hepatic veno-occlusive disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000871-1" qtype="information">What is (are) Budd-Chiari syndrome ?</Question>
+			<Answer>Budd-Chiari syndrome is a rare disorder characterized by narrowing and obstruction of the veins of the liver. This narrowing or obstruction slows or prevents blood from flowing out of the liver and back to the heart which can lead to liver damage. While some people experience no symptoms, many experience fatigue, abdominal pain, nausea, and jaundice. Other associated findings include an accumulation of fluid in the abdomen (ascites), an enlarged spleen and/or liver, and severe bleeding in the esophagus. The severity of the disorder varies from case to case, depending on the site and number of affected veins. Drugs may be used to dissolve or decrease the size of the obstruction (if it is a clot). In some cases surgery is performed. In most cases, the cause of Budd-Chiari syndrome is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000871-2" qtype="symptoms">What are the symptoms of Budd-Chiari syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Budd-Chiari syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Budd-Chiari syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Ascites 90% Portal hypertension 90% Splenomegaly 90% Abdominal pain 50% Abnormality of temperature regulation 50% Cirrhosis 50% Elevated hepatic transaminases 50% Esophageal varix 50% Hepatomegaly 50% Acute hepatic failure 7.5% Biliary tract abnormality 7.5% Gastrointestinal hemorrhage 7.5% Gastrointestinal infarctions 7.5% Intestinal obstruction 7.5% Malabsorption 7.5% Peritonitis 7.5% Weight loss 7.5% Budd-Chiari syndrome - Hepatocellular carcinoma - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000871-3" qtype="treatment">What are the treatments for Budd-Chiari syndrome ?</Question>
+			<Answer>How might Budd-Chiari syndrome be treated? The treatment of Budd-Chiari syndrome varies, depending on the cause of the blockage. Medical treatments may include: Blood-thinning (anticoagulation) medications Clot-busting drugs (thrombolytic treatment) Treatment for the liver disease, including ascites Surgical treatments may also be considered and include: Angioplasty and stent placement Transjugular intrahepatic portosystemic shunt (TIPS) Venous shunt surgery While medical therapy can be instituted for short-term, symptomatic benefit, medical therapy alone has been associated with a high 2-year mortality rate (80-85%). You can view more detailed information regarding the medical and surgical options for treatment of Budd-Chiari syndrome by clicking here.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

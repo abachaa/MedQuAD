@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000779" source="GARD" url="https://rarediseases.info.nih.gov/gard/936/borjeson-forssman-lehmann-syndrome">
+<Focus>Borjeson-Forssman-Lehmann syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0265339</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Borjeson Syndrome</Synonym>
+		<Synonym>BFLS</Synonym>
+		<Synonym>BORJ</Synonym>
+		<Synonym>Mental deficiency, epilepsy and endocrine disorders</Synonym>
+		<Synonym>Intellectual deficiency-epilepsy-endocrine disorders syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000779-1" qtype="information">What is (are) Borjeson-Forssman-Lehmann syndrome ?</Question>
+			<Answer>Borjeson-Forssman-Lehmann syndrome (BFLS) is a genetic condition characterized by intellectual disability, obesity, seizures, hypogonadism, developmental delay and distinctive facial features. These symptoms are variable, even among members of the same family. BFLS is caused by mutations in the PHF6 gene on the X chromosome. This mutation is usually transmitted as an X-linked recessive trait, which means the disorder is fully expressed predominantly in males.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000779-2" qtype="symptoms">What are the symptoms of Borjeson-Forssman-Lehmann syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Borjeson-Forssman-Lehmann syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Borjeson-Forssman-Lehmann syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal hair quantity 90% Broad foot 90% Camptodactyly of toe 90% Coarse facial features 90% Cognitive impairment 90% Cryptorchidism 90% Gynecomastia 90% Hypoplasia of penis 90% Large earlobe 90% Muscular hypotonia 90% Scrotal hypoplasia 90% Short toe 90% Tapered finger 90% Truncal obesity 90% Blepharophimosis 50% Deeply set eye 50% Prominent supraorbital ridges 50% Ptosis 50% Thick eyebrow 50% Abnormality of the hip bone 7.5% Cataract 7.5% Hearing impairment 7.5% Joint hypermobility 7.5% Macrocephaly 7.5% Microcephaly 7.5% Nystagmus 7.5% Oral cleft 7.5% Peripheral neuropathy 7.5% Seizures 7.5% Short stature 7.5% Skeletal muscle atrophy 7.5% Cervical spinal canal stenosis - Delayed puberty - EEG abnormality - Hypoplasia of the prostate - Intellectual disability, severe - Kyphosis - Macrotia - Micropenis - Obesity - Scheuermann-like vertebral changes - Scoliosis - Shortening of all distal phalanges of the fingers - Shortening of all middle phalanges of the fingers - Thickened calvaria - Visual impairment - Widely spaced toes - X-linked recessive inheritance - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

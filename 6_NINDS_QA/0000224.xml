@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000224" source="NINDS" url="http://www.ninds.nih.gov/disorders/paroxysmal_choreoathetosis/paroxysmal_choreoathetosis.htm">
+<Focus>Paroxysmal Choreoathetosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1868682</CUI>
+			<CUI>C1869117</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000224-1" qtype="information">What is (are) Paroxysmal Choreoathetosis ?</Question>
+			<Answer>Paroxysmal choreoathetosis is a movement disorder characterized by episodes or attacks of involuntary movements of the limbs, trunk, and facial muscles. The disorder may occur in several members of a family, or in only a single family member. Prior to an attack some individuals experience tightening of muscles or other physical symptoms. Involuntary movements precipitate some attacks, and other attacks occur when the individual has consumed alcohol or caffeine, or is tired or stressed. Attacks can last from 10 seconds to over an hour. Some individuals have lingering muscle tightness after an attack. Paroxysmal choreoathetosis frequently begins in early adolescence. A gene associated with the disorder has been discovered. The same gene is also associated with epilepsy.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000224-2" qtype="treatment">What are the treatments for Paroxysmal Choreoathetosis ?</Question>
+			<Answer>Drug therapy, particularly carbamazepine, has been very successful in reducing or eliminating attacks of paroxysmal choreoathetosis. While carbamazepine is not effective in every case, other drugs have been substituted with good effect.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000224-3" qtype="outlook">What is the outlook for Paroxysmal Choreoathetosis ?</Question>
+			<Answer>Generally, paroxysmal choreoathetosis lessens with age, and many adults have a complete remission. Because drug therapy is so effective, the prognosis for the disorder is good.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000224-4" qtype="research">what research (or clinical trials) is being done for Paroxysmal Choreoathetosis ?</Question>
+			<Answer>NINDS supports and conducts research on movement disorders such as paroxysmal choreoathetosis. Much of this research is aimed at finding ways to prevent and treat these disorders.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001033" source="GHR" url="https://ghr.nlm.nih.gov/condition/werner-syndrome">
+<Focus>Werner syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0043119</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Adult premature aging syndrome</Synonym>
+		<Synonym>Adult Progeria</Synonym>
+		<Synonym>Werner's Syndrome</Synonym>
+		<Synonym>Werners Syndrome</Synonym>
+		<Synonym>WS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001033-1" qtype="information">What is (are) Werner syndrome ?</Question>
+			<Answer>Werner syndrome is characterized by the dramatic, rapid appearance of features associated with normal aging. Individuals with this disorder typically grow and develop normally until they reach puberty. Affected teenagers usually do not have a growth spurt, resulting in short stature. The characteristic aged appearance of individuals with Werner syndrome typically begins to develop when they are in their twenties and includes graying and loss of hair; a hoarse voice; and thin, hardened skin. They may also have a facial appearance described as &quot;bird-like.&quot; Many people with Werner syndrome have thin arms and legs and a thick trunk due to abnormal fat deposition.  As Werner syndrome progresses, affected individuals may develop disorders of aging early in life, such as cloudy lenses (cataracts) in both eyes, skin ulcers, type 2 diabetes, diminished fertility, severe hardening of the arteries (atherosclerosis), thinning of the bones (osteoporosis), and some types of cancer. It is not uncommon for affected individuals to develop multiple, rare cancers during their lifetime. People with Werner syndrome usually live into their late forties or early fifties. The most common causes of death are cancer and atherosclerosis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001033-2" qtype="frequency">How many people are affected by Werner syndrome ?</Question>
+			<Answer>Werner syndrome is estimated to affect 1 in 200,000 individuals in the United States. This syndrome occurs more often in Japan, affecting 1 in 20,000 to 1 in 40,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001033-3" qtype="genetic changes">What are the genetic changes related to Werner syndrome ?</Question>
+			<Answer>Mutations in the WRN gene cause Werner syndrome. The WRN gene provides instructions for producing the Werner protein, which is thought to perform several tasks related to the maintenance and repair of DNA. This protein also assists in the process of copying (replicating) DNA in preparation for cell division. Mutations in the WRN gene often lead to the production of an abnormally short, nonfunctional Werner protein. Research suggests that this shortened protein is not transported to the cell&apos;s nucleus, where it normally interacts with DNA. Evidence also suggests that the altered protein is broken down more quickly in the cell than the normal Werner protein. Researchers do not fully understand how WRN mutations cause the signs and symptoms of Werner syndrome. Cells with an altered Werner protein may divide more slowly or stop dividing earlier than normal, causing growth problems. Also, the altered protein may allow DNA damage to accumulate, which could impair normal cell activities and cause the health problems associated with this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001033-4" qtype="inheritance">Is Werner syndrome inherited ?</Question>
+			<Answer>Werner syndrome is inherited in an autosomal recessive pattern, which means both copies of the WRN gene in each cell have mutations. The parents of an individual with Werner syndrome each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001033-5" qtype="treatment">What are the treatments for Werner syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Werner syndrome:  - Gene Review: Gene Review: Werner Syndrome  - Genetic Testing Registry: Werner syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000874" source="GHR" url="https://ghr.nlm.nih.gov/condition/rett-syndrome">
+<Focus>Rett syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0035372</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>autism-dementia-ataxia-loss of purposeful hand use syndrome</Synonym>
+		<Synonym>Rett disorder</Synonym>
+		<Synonym>Rett's disorder</Synonym>
+		<Synonym>Rett's syndrome</Synonym>
+		<Synonym>RTS</Synonym>
+		<Synonym>RTT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000874-1" qtype="information">What is (are) Rett syndrome ?</Question>
+			<Answer>Rett syndrome is a brain disorder that occurs almost exclusively in girls. The most common form of the condition is known as classic Rett syndrome. After birth, girls with classic Rett syndrome have 6 to 18 months of apparently normal development before developing severe problems with language and communication, learning, coordination, and other brain functions. Early in childhood, affected girls lose purposeful use of their hands and begin making repeated hand wringing, washing, or clapping motions. They tend to grow more slowly than other children and have a small head size (microcephaly). Other signs and symptoms that can develop include breathing abnormalities, seizures, an abnormal side-to-side curvature of the spine (scoliosis), and sleep disturbances.  Researchers have described several variant or atypical forms of Rett syndrome, which can be milder or more severe than the classic form.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000874-2" qtype="frequency">How many people are affected by Rett syndrome ?</Question>
+			<Answer>This condition affects an estimated 1 in 8,500 females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000874-3" qtype="genetic changes">What are the genetic changes related to Rett syndrome ?</Question>
+			<Answer>Classic Rett syndrome and some variant forms of the condition are caused by mutations in the MECP2 gene. This gene provides instructions for making a protein (MeCP2) that is critical for normal brain function. Although the exact function of the MeCP2 protein is unclear, it is likely involved in maintaining connections (synapses) between nerve cells (neurons). It may also be necessary for the normal function of other types of brain cells.  The MeCP2 protein is thought to help regulate the activity of genes in the brain. This protein may also control the production of different versions of certain proteins in brain cells. Mutations in the MECP2 gene alter the MeCP2 protein or result in the production of less protein, which appears to disrupt the normal function of neurons and other cells in the brain. Specifically, studies suggest that changes in the MeCP2 protein may reduce the activity of certain neurons and impair their ability to communicate with one another. It is unclear how these changes lead to the specific features of Rett syndrome.  Several conditions with signs and symptoms overlapping those of Rett syndrome have been found to result from mutations in other genes. These conditions, including FOXG1 syndrome, were previously thought to be variant forms of Rett syndrome. However, doctors and researchers have identified some important differences between the conditions, so they are now usually considered to be separate disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000874-4" qtype="inheritance">Is Rett syndrome inherited ?</Question>
+			<Answer>In more than 99 percent of people with Rett syndrome, there is no history of the disorder in their family. Many of these cases result from new mutations in the MECP2 gene.  A few families with more than one affected family member have been described. These cases helped researchers determine that classic Rett syndrome and variants caused by MECP2 gene mutations have an X-linked dominant pattern of inheritance. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. The inheritance is dominant if one copy of the altered gene in each cell is sufficient to cause the condition.  Males with mutations in the MECP2 gene often die in infancy. However, a small number of males with a genetic change involving MECP2 have developed signs and symptoms similar to those of Rett syndrome, including intellectual disability, seizures, and movement problems. In males, this condition is described as MECP2-related severe neonatal encephalopathy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000874-5" qtype="treatment">What are the treatments for Rett syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Rett syndrome:  - Boston Children&apos;s Hospital  - Cleveland Clinic  - Gene Review: Gene Review: MECP2-Related Disorders  - Genetic Testing Registry: Rett syndrome  - International Rett Syndrome Foundation: Living with Rett Syndrome  - MedlinePlus Encyclopedia: Rett Syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000821" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/skininfections.html">
+<Focus>Skin Infections</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0037278</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000821-1" qtype="information">What is (are) Skin Infections ?</Question>
+			<Answer>Your skin helps protect you from germs, but sometimes it can get infected by them. Some common types of skin infections are       - Bacterial: Cellulitis and impetigo. Staphylococcal infections can also affect the skin.    - Viral: Shingles, warts, and herpes simplex    - Fungal: Athlete&apos;s foot and yeast infections    - Parasitic: Body lice, head lice, and scabies       Treatment of skin infections depends on the cause.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000247" source="GARD" url="https://rarediseases.info.nih.gov/gard/614/alopecia-universalis">
+<Focus>Alopecia universalis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0263505</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Alopecia areata universalis</Synonym>
+		<Synonym>AU</Synonym>
+		<Synonym>Alopecia areata</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000247-1" qtype="information">What is (are) Alopecia universalis ?</Question>
+			<Answer>Alopecia universalis (AU) is a condition characterized by the complete loss of hair on the scalp and body. It is an advanced form of alopecia areata, a condition that causes round patches of hair loss. Although the exact cause of AU is unknown, it is thought to be an autoimmune condition in which an affected person&apos;s immune system mistakenly attacks the hair follicles. Roughly 20% of affected people have a family member with alopecia, suggesting that genetic factors may contribute to the development of AU. There is currently no cure for AU, but sometimes hair regrowth occurs on it&apos;s own, even after many years.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000247-2" qtype="symptoms">What are the symptoms of Alopecia universalis ?</Question>
+			<Answer>What are the signs and symptoms of Alopecia universalis? Alopecia universalis (AU) is characterized by the complete loss of hair on both the scalp and body. Most people with AU do not have other signs and symptoms, but some may experience a burning sensation or itching on affected areas. In some cases, AU can be associated with other conditions such as atopic dermatitis, thyroid disorders, and/or nail changes (such as pitting). Anxiety, personality disorders, depression, and paranoid disorders are more common in people with different forms of alopecia areata. The Human Phenotype Ontology provides the following list of signs and symptoms for Alopecia universalis. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Alopecia areata - Alopecia totalis - Autoimmunity - Multifactorial inheritance - Nail pits - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000247-3" qtype="causes">What causes Alopecia universalis ?</Question>
+			<Answer>What causes alopecia universalis? The exact underlying cause of alopecia universalis (AU) is not currently known. AU is an advanced form of alopecia areata (AA), a condition that leads to round patches of hair loss. AA is thought to be an autoimmune condition in which an affected person&apos;s immune system mistakenly attacks the hair follicles. Genetic studies have found that AA and AU are associated with several immune-related genes; however, they are likely complex disorders caused by the interaction of multiple genetic and environmental factors. This means that even if someone inherits a genetic predisposition to the condition, they may not become affected unless something in the environment triggers the onset of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000247-4" qtype="inheritance">Is Alopecia universalis inherited ?</Question>
+			<Answer>Is alopecia universalis inherited? Alopecia universalis is believed to be a multifactorial condition, which means it is caused by a combination of environmental influences and genetic predisposition. While a predisposition can be inherited and some affected people have a family history, the condition itself is not thought to be inherited.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000247-5" qtype="exams and tests">How to diagnose Alopecia universalis ?</Question>
+			<Answer>How is alopecia universalis diagnosed? A diagnosis of alopecia universalis is usually based on the signs and symptoms present in each person. In rare cases, a scalp biopsy may be needed to confirm the diagnosis.</Answer>
+	</QAPair>
+	<QAPair pid="6">
+			<Question qid="0000247-6" qtype="treatment">What are the treatments for Alopecia universalis ?</Question>
+			<Answer>How might alopecia universalis be treated? Although these is no therapy approved for the treatment of alopecia universalis, some people find that medications approved for other purposes may help hair grow back, at least temporarily. Since alopecia universalis is one of the more severe types of alopecia areata, treatment options are somewhat limited. The most common treatments include corticosteriods and topical (applied to the skin) immunotherapy. There are possible side effects of corticosteriods which should be discussed with a physician. Also, regrown hair is likely to fall out when the corticosteriods are stopped. About 40% of people treated with topical immunotherapy will regrow scalp hair after about six months of treatment. Those who do successfully regrow scalp hair need to continue the treatment to maintain the hair regrowth. While these treatments may promote hair growth, they do not prevent new loss or cure the underlying disease. For those who do not respond to treatment, wigs are an option.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

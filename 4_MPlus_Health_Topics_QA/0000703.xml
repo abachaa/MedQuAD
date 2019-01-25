@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000703" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/peripheralnervedisorders.html">
+<Focus>Peripheral Nerve Disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0031117</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Neuritis</Synonym>
+		<Synonym>Peripheral neuritis</Synonym>
+		<Synonym>Peripheral neuropathy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000703-1" qtype="information">What is (are) Peripheral Nerve Disorders ?</Question>
+			<Answer>Your peripheral nerves are the ones outside your brain and spinal cord. Like static on a telephone line, peripheral nerve disorders distort or interrupt the messages between the brain and the rest of the body.     There are more than 100 kinds of peripheral nerve disorders. They can affect one nerve or many nerves. Some are the result of other diseases, like diabetic nerve problems. Others, like Guillain-Barre syndrome, happen after a virus infection. Still others are from nerve compression, like carpal tunnel syndrome or thoracic outlet syndrome. In some cases, like complex regional pain syndrome and brachial plexus injuries, the problem begins after an injury. Some people are born with peripheral nerve disorders.    Symptoms often start gradually, and then get worse. They include        -  Numbness    -  Pain    -  Burning or tingling    -  Muscle weakness    -  Sensitivity to touch       Treatment aims to treat any underlying problem, reduce pain and control symptoms.    NIH: National Institute of Neurological Disorders and Stroke</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

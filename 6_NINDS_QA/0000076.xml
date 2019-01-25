@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000076" source="NINDS" url="http://www.ninds.nih.gov/disorders/neuroacanthocytosis/neuroacanthocytosis.htm">
+<Focus>Neuroacanthocytosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0393576</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000076-1" qtype="information">What is (are) Neuroacanthocytosis ?</Question>
+			<Answer>Neuroacanthocytosis refers to a group of genetic conditions that are characterized by movement disorders and acanthocytosis (abnormal, spiculated red blood cells). Four syndromes are classified as neuroacanthocytosis: Chorea-acanthocytosis, McLeod syndrome, Huntington&apos;s disease-like 2 (HDL2), and panthothenate kinase-associated neurodegeneration (PKAN). Acanthocytosis may not always be observed in HDL2 and PKAN. These disorders are caused by different genetic mutations, and the signs and symptoms vary, but usually include chorea (involuntary, dance-like movements), parkinsonism (slowness of movement), dystonia (abnormal body postures), and problems walking. There may also be muscle weakness, involuntary movements of the face and tongue, tongue/lip biting (which is mostly characteristic of Chorea-acanthocytosis), as well as difficulty with speech and eating, cognitive impairment, psychiatric symptoms, and seizures. Individuals with McLeod syndrome often have cardiac problems. Many features of these disorders are due to degeneration of the basal ganglia, a part of the brain that controls movement. Additional disorders that are also known have neurologic symptoms, acanthocytosis, and either lipoprotein disorders or systemic findings. The diagnosis of neuroacanthocytosis is typically based on the symptoms and clinical observation, a review of family history, and the evaluation of specific laboratory and imaging studies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000076-2" qtype="treatment">What are the treatments for Neuroacanthocytosis ?</Question>
+			<Answer>There are currently no treatments to prevent or slow the progression of neuroacanthocytosis and treatment is symptomatic and supportive. Medications that block dopamine, such as some of the antipsychotics, may decrease the involuntary movements. Botulinum toxin injections usually improve symptoms of dystonia. A feeding tube may be needed for individuals with feeding difficulties to maintain proper nutrition. Seizures may be treated with a variety of anticonvulsants, and antidepressants may also be appropriate for some individuals. Speech, occupational, and physical therapy may also be beneficial.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000076-3" qtype="outlook">What is the outlook for Neuroacanthocytosis ?</Question>
+			<Answer>Neuroacanthocytosis is a progressive disease, and in some cases may be complicated by poor nutritional status, cardiac abnormalities, and pneumonia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000076-4" qtype="research">what research (or clinical trials) is being done for Neuroacanthocytosis ?</Question>
+			<Answer>The NINDS supports research on disorders such as neuroacanthocytosis, aimed at increasing scientific understanding of the disorders and finding ways to prevent and treat them. The genetic mutations responsible for some types of neuroacanthocytosis have recently been identified. Researchers are examining the role of the basal ganglia in neuroacanthocytosis and hope to correlate the specific genetic abnormalities with the clinical features of the disease. Other research is aimed at identifying possible causes of sudden death related to heart muscle abnormalities, which are observed in some individuals with neuroacanthocytosis.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

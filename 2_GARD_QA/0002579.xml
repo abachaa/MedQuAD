@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002579" source="GARD" url="https://rarediseases.info.nih.gov/gard/12502/globozoospermia">
+<Focus>Globozoospermia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0403825</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>SPERMATOGENIC FAILURE 9</Synonym>
+		<Synonym>SPGF9</Synonym>
+		<Synonym>GLOBOZOOSPERMIA, COMPLETE</Synonym>
+		<Synonym>GLOBOZOOSPERMIA, TOTAL</Synonym>
+		<Synonym>Male infertility due to globozoospermia</Synonym>
+		<Synonym>Male infertility with teratozoospermia due to single gene mutation</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002579-1" qtype="information">What is (are) Globozoospermia ?</Question>
+			<Answer>Globozoospermia is a rare form of male infertility. Men affected by this condition have abnormal sperm with a round (rather than oval) head and no acrosome (a cap-like covering which contains enzymes that break down the outer membrane of an egg cell). As a result of these abnormalities, the sperm are unable to fertilize an egg cell, leading to male factor infertility. Approximately 70% of men with globozoospermia have changes (mutations) in the DPY19L2 gene, which are inherited in an autosomal recessive manner. In the remaining cases, the underlying cause of the condition is unknown; however, researchers suspect that mutations in other genes likely cause globozoospermia. Although there is currently no cure for the condition, certain assisted reproductive technologies (ICSI combined with assisted egg cell activation, specifically) can help men affected by the condition conceive children.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002579-2" qtype="symptoms">What are the symptoms of Globozoospermia ?</Question>
+			<Answer>What are the signs and symptoms of Globozoospermia? The Human Phenotype Ontology provides the following list of signs and symptoms for Globozoospermia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Autosomal recessive inheritance - Globozoospermia - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

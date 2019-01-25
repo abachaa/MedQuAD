@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000043" source="GHR" url="https://ghr.nlm.nih.gov/condition/alpha-methylacyl-coa-racemase-deficiency">
+<Focus>alpha-methylacyl-CoA racemase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3280428</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AMACR deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000043-1" qtype="information">What is (are) alpha-methylacyl-CoA racemase deficiency ?</Question>
+			<Answer>Alpha-methylacyl-CoA racemase (AMACR) deficiency is a disorder that causes a variety of neurological problems that begin in adulthood and slowly get worse. People with AMACR deficiency may have a gradual loss in intellectual functioning (cognitive decline), seizures, and migraines. They may also have acute episodes of brain dysfunction (encephalopathy) similar to stroke, involving altered consciousness and areas of damage (lesions) in the brain. Other features of AMACR deficiency may include weakness and loss of sensation in the limbs due to nerve damage (sensorimotor neuropathy), muscle stiffness (spasticity), and difficulty coordinating movements (ataxia). Vision problems caused by deterioration of the light-sensitive layer at the back of the eye (the retina) can also occur in this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000043-2" qtype="frequency">How many people are affected by alpha-methylacyl-CoA racemase deficiency ?</Question>
+			<Answer>AMACR deficiency is a rare disorder. Its prevalence is unknown. At least 10 cases have been described in the medical literature.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000043-3" qtype="genetic changes">What are the genetic changes related to alpha-methylacyl-CoA racemase deficiency ?</Question>
+			<Answer>AMACR deficiency is caused by mutations in the AMACR gene. This gene provides instructions for making an enzyme called alpha-methylacyl-CoA racemase (AMACR).  The AMACR enzyme is found in the energy-producing centers in cells (mitochondria) and in cell structures called peroxisomes. Peroxisomes contain a variety of enzymes that break down many different substances, including fatty acids and certain toxic compounds. They are also important for the production (synthesis) of fats (lipids) used in digestion and in the nervous system. In peroxisomes, the AMACR enzyme plays a role in the breakdown of a fatty acid called pristanic acid, which comes from meat and dairy foods in the diet. In mitochondria, AMACR is thought to help further break down the molecules derived from pristanic acid.  Most individuals with AMACR deficiency have an AMACR gene mutation that results in a lack (deficiency) of functional enzyme. The enzyme deficiency leads to accumulation of pristanic acid in the blood. However, it is unclear how this accumulation is related to the specific signs and symptoms of AMACR deficiency.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000043-4" qtype="inheritance">Is alpha-methylacyl-CoA racemase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000043-5" qtype="treatment">What are the treatments for alpha-methylacyl-CoA racemase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of AMACR deficiency:  - Genetic Testing Registry: Alpha-methylacyl-CoA racemase deficiency  - Kennedy Krieger Institute: Peroxisomal Diseases   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

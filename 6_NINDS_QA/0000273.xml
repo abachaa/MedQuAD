@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000273" source="NINDS" url="http://www.ninds.nih.gov/disorders/tuberous_sclerosis/tuberous_sclerosis.htm">
+<Focus>Tuberous Sclerosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0041341</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000273-1" qtype="information">What is (are) Tuberous Sclerosis ?</Question>
+			<Answer>Tuberous sclerosis (TSC) is a rare genetic disease that causes benign tumors to grow in the brain and on other vital organs such as the kidneys, heart, eyes, lungs, and skin. It usually affects the central nervous system. In addition to the benign tumors that frequently occur in TSC, other common symptoms include seizures,impaired intellectual development, behavior problems, and skin abnormalities. TSC may be present at birth, but signs of the disorder can be subtle and full symptoms may take some time to develop. Three types of brain tumors are associated with TSC: cortical tubers, which generally form on the surface of the brain; subependymal nodules, which form in the walls of the ventricles (the fluid-filled cavities of the brain); and giant-cell astrocytomas, a type of tumor that can block the flow of fluids within the brain.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000273-2" qtype="treatment">What are the treatments for Tuberous Sclerosis ?</Question>
+			<Answer>There is no cure for TSC, although treatment is available for a number of the symptoms. Rapamycin and related drugs are not yet approved by the U.S. Food and Drug Administration (FDA) for any purpose in individuals with TSC. The FDA has approved the drug everolimus (Afinitor) to treat subependymal giant cell astrocytomas (SEGA brain tumors) and angiomyolipoma kidney tumors. Antiepileptic drugs such as vigabatrin may be used to control seizures and medications may be prescribed for behavior problems. Intervention programs, including special schooling and occupational therapy, may benefit individuals with special needs and developmental issues. Surgery, including dermabrasion and laser treatment, may be useful for treatment of skin lesions. Because TSC is a lifelong condition, individuals need to be regularly monitored by a doctor. Due to the many varied symptoms of TSC, care by a clinician experienced with the disorder is recommended.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000273-3" qtype="outlook">What is the outlook for Tuberous Sclerosis ?</Question>
+			<Answer>The prognosis for individuals with TSC depends on the severity of symptoms. Individuals with mild symptoms generally do well and live long productive lives, while individuals with the more severe form may have serious disabilities. In rare cases, seizures, infections, or tumors in vital organs such as the kidneys and brain can lead to severe complications and even death. However, with appropriate medical care, most individuals with the disorder can look forward to normal life expectancy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000273-4" qtype="research">what research (or clinical trials) is being done for Tuberous Sclerosis ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) conducts TSC research in its laboratories at the National Institutes of Health (NIH) and also supports TSC research through grants to major medical institutions across the country. Scientists in one study are learning more about the genes that can cause TSC and the function of the proteins those genes produce. Another study focuses on two major brain disorders --autism and epilepsy -- that occur in children with TSC. Other scientists are trying to determine what causes skin tumors to develop in individuals with TSC and to find the molecular basis of these tumors. Scientists hope knowledge gained from their current research will improve the genetic test for TSC and lead to new avenues of treatment, methods of prevention, and, ultimately, a cure.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000348" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-exudative-vitreoretinopathy">
+<Focus>familial exudative vitreoretinopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339539</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FEVR</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000348-1" qtype="information">What is (are) familial exudative vitreoretinopathy ?</Question>
+			<Answer>Familial exudative vitreoretinopathy is a hereditary disorder that can cause progressive vision loss. This condition affects the retina, the specialized light-sensitive tissue that lines the back of the eye. The disorder prevents blood vessels from forming at the edges of the retina, which reduces the blood supply to this tissue.  The signs and symptoms of familial exudative vitreoretinopathy vary widely, even within the same family. In many affected individuals, the retinal abnormalities never cause any vision problems. In others, a reduction in the retina&apos;s blood supply causes the retina to fold, tear, or separate from the back of the eye (retinal detachment). This retinal damage can lead to vision loss and blindness. Other eye abnormalities are also possible, including eyes that do not look in the same direction (strabismus) and a visible whiteness (leukocoria) in the normally black pupil.  Some people with familial exudative vitreoretinopathy also have reduced bone mineral density, which weakens bones and increases the risk of fractures.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000348-2" qtype="frequency">How many people are affected by familial exudative vitreoretinopathy ?</Question>
+			<Answer>The prevalence of familial exudative vitreoretinopathy is unknown. It appears to be rare, although affected people with normal vision may never come to medical attention.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000348-3" qtype="genetic changes">What are the genetic changes related to familial exudative vitreoretinopathy ?</Question>
+			<Answer>Mutations in the FZD4, LRP5, and NDP genes can cause familial exudative vitreoretinopathy. These genes provide instructions for making proteins that participate in a chemical signaling pathway that affects the way cells and tissues develop. In particular, the proteins produced from the FZD4, LRP5, and NDP genes appear to play critical roles in the specialization of retinal cells and the establishment of a blood supply to the retina and the inner ear. The LRP5 protein also helps regulate bone formation.  Mutations in the FZD4, LRP5, or NDP gene disrupt chemical signaling during early development, which interferes with the formation of blood vessels at the edges of the retina. The resulting abnormal blood supply to this tissue leads to retinal damage and vision loss in some people with familial exudative vitreoretinopathy.  The eye abnormalities associated with familial exudative vitreoretinopathy tend to be similar no matter which gene is altered. However, affected individuals with LRP5 gene mutations often have reduced bone mineral density in addition to vision loss. Mutations in the other genes responsible for familial exudative vitreoretinopathy do not appear to affect bone density.  In some cases, the cause of familial exudative vitreoretinopathy is unknown. Researchers believe that mutations in several as-yet-unidentified genes are responsible for the disorder in these cases.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000348-4" qtype="inheritance">Is familial exudative vitreoretinopathy inherited ?</Question>
+			<Answer>Familial exudative vitreoretinopathy has different inheritance patterns depending on the gene involved. Most commonly, the condition results from mutations in the FZD4 or LRP5 gene and has an autosomal dominant pattern of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. Most people with autosomal dominant familial exudative vitreoretinopathy inherit the altered gene from a parent, although the parent may not have any signs and symptoms associated with this disorder.  Familial exudative vitreoretinopathy caused by LRP5 gene mutations can also have an autosomal recessive pattern of inheritance. Autosomal recessive inheritance means both copies of the gene in each cell have mutations. The parents of an individual with autosomal recessive familial exudative vitreoretinopathy each carry one copy of the mutated gene, but they do not have the disorder.  When familial exudative vitreoretinopathy is caused by mutations in the NDP gene, it has an X-linked recessive pattern of inheritance. The NDP gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000348-5" qtype="treatment">What are the treatments for familial exudative vitreoretinopathy ?</Question>
+			<Answer>These resources address the diagnosis or management of familial exudative vitreoretinopathy:  - Gene Review: Gene Review: Familial Exudative Vitreoretinopathy, Autosomal Dominant  - Gene Review: Gene Review: NDP-Related Retinopathies  - Genetic Testing Registry: Exudative vitreoretinopathy 1  - Genetic Testing Registry: Exudative vitreoretinopathy 3  - Genetic Testing Registry: Exudative vitreoretinopathy 4  - Genetic Testing Registry: Familial exudative vitreoretinopathy, X-linked   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

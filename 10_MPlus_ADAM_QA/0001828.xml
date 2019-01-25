@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001828" source="ADAM" url="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000303.htm">
+ <!--Answers from the A.D.A.M. medical encyclopedia were removed to comply with the MedlinePlus copyright-->
+<Focus>Headache - what to ask your doctor</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C2096315</CUI>
+			<CUI>C0018681</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T033</SemanticType>
+			<SemanticType>T184</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>What to ask your doctor about headaches</Synonym>
+		<Synonym>Migraine - what to ask your doctor</Synonym>
+		<Synonym>Tension-type headache - what to ask your doctor</Synonym>
+		<Synonym>Cluster headache - what to ask your doctor</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001828-1" qtype="information">What is (are) Headache - what to ask your doctor ?</Question>
+			<Answer></Answer>
+	</QAPair>
+</QAPairs>
+</Document>

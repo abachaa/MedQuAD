@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000125" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/braindiseases.html">
+<Focus>Brain Diseases</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0006111</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000125-1" qtype="information">What is (are) Brain Diseases ?</Question>
+			<Answer>The brain is the control center of the body. It controls thoughts, memory, speech, and movement. It regulates the function of many organs. When the brain is healthy, it works quickly and automatically. However, when problems occur, the results can be devastating.      Inflammation in the brain can lead to problems such as vision loss, weakness and paralysis. Loss of brain cells, which happens if you suffer a stroke, can affect your ability to think clearly. Brain tumors can also press on nerves and affect brain function. Some brain diseases are genetic. And we do not know what causes some brain diseases, such as Alzheimer&apos;s disease.    The symptoms of brain diseases vary widely depending on the specific problem. In some cases, damage is permanent. In other cases, treatments such as surgery, medicines, or physical therapy can correct the source of the problem or improve symptoms.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

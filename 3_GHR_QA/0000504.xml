@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000504" source="GHR" url="https://ghr.nlm.nih.gov/condition/hypohidrotic-ectodermal-dysplasia">
+<Focus>hypohidrotic ectodermal dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0162359</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anhidrotic Ectodermal Dysplasia</Synonym>
+		<Synonym>Christ-Siemens-Touraine Syndrome</Synonym>
+		<Synonym>CST syndrome</Synonym>
+		<Synonym>HED</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000504-1" qtype="information">What is (are) hypohidrotic ectodermal dysplasia ?</Question>
+			<Answer>Hypohidrotic ectodermal dysplasia is one of about 150 types of ectodermal dysplasia in humans. Before birth, these disorders result in the abnormal development of structures including the skin, hair, nails, teeth, and sweat glands.  Most people with hypohidrotic ectodermal dysplasia have a reduced ability to sweat (hypohidrosis) because they have fewer sweat glands than normal or their sweat glands do not function properly. Sweating is a major way that the body controls its temperature; as sweat evaporates from the skin, it cools the body. An inability to sweat can lead to a dangerously high body temperature (hyperthermia), particularly in hot weather. In some cases, hyperthermia can cause life-threatening medical problems.  Affected individuals tend to have sparse scalp and body hair (hypotrichosis). The hair is often light-colored, brittle, and slow-growing. This condition is also characterized by absent teeth (hypodontia) or teeth that are malformed. The teeth that are present are frequently small and pointed.  Hypohidrotic ectodermal dysplasia is associated with distinctive facial features including a prominent forehead, thick lips, and a flattened bridge of the nose. Additional features of this condition include thin, wrinkled, and dark-colored skin around the eyes; chronic skin problems such as eczema; and a bad-smelling discharge from the nose (ozena).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000504-2" qtype="frequency">How many people are affected by hypohidrotic ectodermal dysplasia ?</Question>
+			<Answer>Hypohidrotic ectodermal dysplasia is the most common form of ectodermal dysplasia in humans. It is estimated to affect at least 1 in 17,000 people worldwide.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000504-3" qtype="genetic changes">What are the genetic changes related to hypohidrotic ectodermal dysplasia ?</Question>
+			<Answer>Mutations in the EDA, EDAR, and EDARADD genes cause hypohidrotic ectodermal dysplasia.  The EDA, EDAR, and EDARADD genes provide instructions for making proteins that work together during embryonic development. These proteins form part of a signaling pathway that is critical for the interaction between two cell layers, the ectoderm and the mesoderm. In the early embryo, these cell layers form the basis for many of the body&apos;s organs and tissues. Ectoderm-mesoderm interactions are essential for the formation of several structures that arise from the ectoderm, including the skin, hair, nails, teeth, and sweat glands.  Mutations in the EDA, EDAR, or EDARADD gene prevent normal interactions between the ectoderm and the mesoderm and impair the normal development of hair, sweat glands, and teeth. The improper formation of these ectodermal structures leads to the characteristic features of hypohidrotic ectodermal dysplasia.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000504-4" qtype="inheritance">Is hypohidrotic ectodermal dysplasia inherited ?</Question>
+			<Answer>Hypohidrotic ectodermal dysplasia has several different inheritance patterns. Most cases are caused by mutations in the EDA gene, which are inherited in an X-linked recessive pattern. A condition is considered X-linked if the mutated gene that causes the disorder is located on the X chromosome, one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation must be present in both copies of the gene to cause the disorder. Males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one altered copy of the gene in each cell is called a carrier. In about 70 percent of cases, carriers of hypohidrotic ectodermal dysplasia experience some features of the condition. These signs and symptoms are usually mild and include a few missing or abnormal teeth, sparse hair, and some problems with sweat gland function. Some carriers, however, have more severe features of this disorder.  Less commonly, hypohidrotic ectodermal dysplasia results from mutations in the EDAR or EDARADD gene. EDAR mutations can have an autosomal dominant or autosomal recessive pattern of inheritance, and EDARADD mutations have an autosomal recessive pattern of inheritance. Autosomal dominant inheritance means one copy of the altered gene in each cell is sufficient to cause the disorder. Autosomal recessive inheritance means two copies of the gene in each cell are altered. Most often, the parents of an individual with an autosomal recessive disorder are carriers of one copy of the altered gene but do not show signs and symptoms of the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000504-5" qtype="treatment">What are the treatments for hypohidrotic ectodermal dysplasia ?</Question>
+			<Answer>These resources address the diagnosis or management of hypohidrotic ectodermal dysplasia:  - Gene Review: Gene Review: Hypohidrotic Ectodermal Dysplasia  - Genetic Testing Registry: Autosomal dominant hypohidrotic ectodermal dysplasia  - Genetic Testing Registry: Autosomal recessive hypohidrotic ectodermal dysplasia syndrome  - Genetic Testing Registry: Hypohidrotic X-linked ectodermal dysplasia  - MedlinePlus Encyclopedia: Ectodermal dysplasia  - MedlinePlus Encyclopedia: Ozena  - MedlinePlus Encyclopedia: Sweating - absent   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

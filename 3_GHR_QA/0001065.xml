@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001065" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-thrombocytopenia">
+<Focus>X-linked thrombocytopenia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1839163</CUI>
+			<CUI>C0040034</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>thrombocytopenia 1</Synonym>
+		<Synonym>XLT</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001065-1" qtype="information">What is (are) X-linked thrombocytopenia ?</Question>
+			<Answer>X-linked thrombocytopenia is a bleeding disorder that primarily affects males. This condition is characterized by a blood cell abnormality called thrombocytopenia, which is a shortage in the number of cells involved in clotting (platelets). Affected individuals often have abnormally small platelets as well, a condition called microthrombocytopenia. X-linked thrombocytopenia can cause individuals to bruise easily or have episodes of prolonged bleeding following minor trauma or even in the absence of injury (spontaneous bleeding). Some people with this condition experience spontaneous bleeding in the brain (cerebral hemorrhage), which can cause brain damage that can be life-threatening.  Some people with X-linked thrombocytopenia also have patches of red, irritated skin (eczema) or an increased susceptibility to infections. In severe cases, additional features can develop, such as cancer or autoimmune disorders, which occur when the immune system malfunctions and attacks the body&apos;s own tissues and organs. It is unclear, however, if people with these features have X-linked thrombocytopenia or a more severe disorder with similar signs and symptoms called Wiskott-Aldrich syndrome.  Some people have a mild form of the disorder called intermittent thrombocytopenia. These individuals have normal platelet production at times with episodes of thrombocytopenia.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001065-2" qtype="frequency">How many people are affected by X-linked thrombocytopenia ?</Question>
+			<Answer>The estimated incidence of X-linked thrombocytopenia is between 1 and 10 per million males worldwide; this condition is rarer among females.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001065-3" qtype="genetic changes">What are the genetic changes related to X-linked thrombocytopenia ?</Question>
+			<Answer>Mutations in the WAS gene cause X-linked thrombocytopenia. The WAS gene provides instructions for making a protein called WASP. This protein is found in all blood cells. WASP is involved in relaying signals from the surface of blood cells to the actin cytoskeleton, which is a network of fibers that make up the cell&apos;s structural framework. WASP signaling activates the cell when it is needed and triggers its movement and attachment to other cells and tissues (adhesion). In white blood cells, which protect the body from infection, this signaling allows the actin cytoskeleton to establish the interaction between cells and the foreign invaders that they target (immune synapse).  WAS gene mutations that cause X-linked thrombocytopenia typically lead to the production of an altered protein. The altered WASP has reduced function and cannot efficiently relay signals from the cell membrane to the actin cytoskeleton. In people with X-linked thrombocytopenia, these signaling problems primarily affect platelets, impairing their development. In some cases, white blood cells are affected. When WASP function is impaired in white blood cells, they are less able to respond to foreign invaders and immune problems such as infections, eczema, and autoimmune disorders can occur.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001065-4" qtype="inheritance">Is X-linked thrombocytopenia inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In females (who have two X chromosomes), a mutation in one of the two copies of the gene in each cell may or may not cause the disorder. In males (who have only one X chromosome), a mutation in the only copy of the gene in each cell causes the disorder. In most cases of X-linked inheritance, males experience more severe symptoms of the disorder than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001065-5" qtype="treatment">What are the treatments for X-linked thrombocytopenia ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked thrombocytopenia:  - Gene Review: Gene Review: WAS-Related Disorders  - Genetic Testing Registry: Thrombocytopenia, X-linked  - National Heart Lung and Blood Institute: How is Thrombocytopenia Treated?   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

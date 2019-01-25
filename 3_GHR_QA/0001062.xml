@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001062" source="GHR" url="https://ghr.nlm.nih.gov/condition/x-linked-sideroblastic-anemia">
+<Focus>X-linked sideroblastic anemia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0221018</CUI>
+			<CUI>C0002896</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Anemia, hereditary sideroblastic</Synonym>
+		<Synonym>Anemia, sex-linked hypochromic sideroblastic</Synonym>
+		<Synonym>ANH1</Synonym>
+		<Synonym>Congenital sideroblastic anaemia</Synonym>
+		<Synonym>Erythroid 5-aminolevulinate synthase deficiency</Synonym>
+		<Synonym>Hereditary iron-loading anemia</Synonym>
+		<Synonym>X chromosome-linked sideroblastic anemia</Synonym>
+		<Synonym>X-linked pyridoxine-responsive sideroblastic anemia</Synonym>
+		<Synonym>XLSA</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001062-1" qtype="information">What is (are) X-linked sideroblastic anemia ?</Question>
+			<Answer>X-linked sideroblastic anemia is an inherited disorder that prevents developing red blood cells (erythroblasts) from making enough hemoglobin, which is the protein that carries oxygen in the blood. People with X-linked sideroblastic anemia have mature red blood cells that are smaller than normal (microcytic) and appear pale (hypochromic) because of the shortage of hemoglobin. This disorder also leads to an abnormal accumulation of iron in red blood cells. The iron-loaded erythroblasts, which are present in bone marrow, are called ring sideroblasts. These abnormal cells give the condition its name.  The signs and symptoms of X-linked sideroblastic anemia result from a combination of reduced hemoglobin and an overload of iron. They range from mild to severe and most often appear in young adulthood. Common features include fatigue, dizziness, a rapid heartbeat, pale skin, and an enlarged liver and spleen (hepatosplenomegaly). Over time, severe medical problems such as heart disease and liver damage (cirrhosis) can result from the buildup of excess iron in these organs.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001062-2" qtype="frequency">How many people are affected by X-linked sideroblastic anemia ?</Question>
+			<Answer>This form of anemia is uncommon. However, researchers believe that it may not be as rare as they once thought. Increased awareness of the disease has led to more frequent diagnoses.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001062-3" qtype="genetic changes">What are the genetic changes related to X-linked sideroblastic anemia ?</Question>
+			<Answer>Mutations in the ALAS2 gene cause X-linked sideroblastic anemia. The ALAS2 gene provides instructions for making an enzyme called erythroid ALA-synthase, which plays a critical role in the production of heme (a component of the hemoglobin protein) in bone marrow.  ALAS2 mutations impair the activity of erythroid ALA-synthase, which disrupts normal heme production and prevents erythroblasts from making enough hemoglobin. Because almost all of the iron transported into erythroblasts is normally incorporated into heme, the reduced production of heme leads to a buildup of excess iron in these cells. Additionally, the body attempts to compensate for the hemoglobin shortage by absorbing more iron from the diet. This buildup of excess iron damages the body&apos;s organs. Low hemoglobin levels and the resulting accumulation of iron in the body&apos;s organs lead to the characteristic features of X-linked sideroblastic anemia.  People who have a mutation in another gene, HFE, along with a mutation in the ALAS2 gene may experience a more severe form of X-linked sideroblastic anemia. In this uncommon situation, the combined effect of these two mutations can lead to a more serious iron overload. Mutations in the HFE gene alone can increase the absorption of iron from the diet and result in hemochromatosis, which is another type of iron overload disorder.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001062-4" qtype="inheritance">Is X-linked sideroblastic anemia inherited ?</Question>
+			<Answer>This condition is inherited in an X-linked recessive pattern. The gene associated with this condition is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the gene in each cell is sufficient to cause the condition. In females (who have two X chromosomes), a mutation would have to occur in both copies of the gene to cause the disorder. Because it is unlikely that females will have two altered copies of this gene, males are affected by X-linked recessive disorders much more frequently than females. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In X-linked recessive inheritance, a female with one altered copy of the gene in each cell is called a carrier. Carriers of an ALAS2 mutation can pass on the mutated gene, but most do not develop any symptoms associated with X-linked sideroblastic anemia. However, carriers may have abnormally small, pale red blood cells and related changes that can be detected with a blood test.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0001062-5" qtype="treatment">What are the treatments for X-linked sideroblastic anemia ?</Question>
+			<Answer>These resources address the diagnosis or management of X-linked sideroblastic anemia:  - Genetic Testing Registry: Hereditary sideroblastic anemia  - MedlinePlus Encyclopedia: Anemia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

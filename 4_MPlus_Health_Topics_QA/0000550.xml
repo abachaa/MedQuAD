@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000550" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/learningdisorders.html">
+<Focus>Learning Disorders</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0023186</CUI>
+			<CUI>C0012634</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Learning differences</Synonym>
+		<Synonym>Learning disabilities</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000550-1" qtype="information">What is (are) Learning Disorders ?</Question>
+			<Answer>Learning disorders affect how a person understands, remembers and responds to new information. People with learning disorders may have problems       - Listening or paying attention    - Speaking    - Reading or writing    - Doing math       Although learning disorders occur in very young children, they are usually not recognized until the child reaches school age. About one-third of children who have learning disabilities also have ADHD, which makes it hard to focus.     Evaluation and testing by a trained professional can help identify a learning disorder. The next step is special education, which involves helping your child in the areas where he or she needs the most help. Sometimes tutors or speech or language therapists also work with the children. Learning disorders do not go away, but strategies to work around them can make them less of a problem.    NIH: National Institute of Neurological Disorders and Stroke</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

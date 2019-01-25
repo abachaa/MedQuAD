@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002450" source="GARD" url="https://rarediseases.info.nih.gov/gard/8436/frontotemporal-dementia">
+<Focus>Frontotemporal dementia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0236642</CUI>
+			<CUI>C0338451</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Dementia, frontotemporal, with parkinsonism</Synonym>
+		<Synonym>Frontotemporal dementia with parkinsonism</Synonym>
+		<Synonym>Frontotemporal lobe dementia (FLDEM)</Synonym>
+		<Synonym>MSTD</Synonym>
+		<Synonym>Multiple system tauopathy with presenile dementia</Synonym>
+		<Synonym>Pick's disease</Synonym>
+		<Synonym>Primary progressive aphasia</Synonym>
+		<Synonym>Semantic dementia</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002450-1" qtype="information">What is (are) Frontotemporal dementia ?</Question>
+			<Answer>Frontotemporal dementia describes a group of conditions associated with shrinking of the frontal and temporal anterior lobes of the brain. Symptoms include either variable changes in behavior (e.g., impulsive, bored, listless, lack of social contact, lack of empathy, distractibility, blunted emotions, compulsive behavior, decreased energy and motivation) or problems with language (e.g., difficulty making or understanding speech). Spatial skills and memory remain intact. There is a strong genetic component to the disease; it often runs in families. There is no cure for frontotemporal dementia at this time, as a result treatment remains supportive. Although the name and classification of FTD has been a topic of discussion for over a century, the current classification of the syndrome groups together Picks disease, primary progressive aphasia, and semantic dementia as FTD. Some doctors propose adding corticobasal degeneration and progressive supranuclear palsy to FTD and calling the group Pick Complex. You can click on the links to view the GARD pages on these conditions.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002450-2" qtype="symptoms">What are the symptoms of Frontotemporal dementia ?</Question>
+			<Answer>What are the signs and symptoms of Frontotemporal dementia? The Human Phenotype Ontology provides the following list of signs and symptoms for Frontotemporal dementia. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Amyotrophic lateral sclerosis - Apathy - Autosomal dominant inheritance - Disinhibition - Frontal lobe dementia - Frontotemporal dementia - Hyperorality - Inappropriate laughter - Inappropriate sexual behavior - Irritability - Language impairment - Neuronal loss in central nervous system - Parkinsonism - Personality changes - Polyphagia - Primitive reflexes (palmomental, snout, glabellar) - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

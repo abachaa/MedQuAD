@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002251" source="GARD" url="https://rarediseases.info.nih.gov/gard/1613/familial-exudative-vitreoretinopathy">
+<Focus>Familial exudative vitreoretinopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0339539</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FEVR</Synonym>
+		<Synonym>Exudative vitreoretinopathy, familial</Synonym>
+		<Synonym>Criswick-Schepens syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002251-1" qtype="information">What is (are) Familial exudative vitreoretinopathy ?</Question>
+			<Answer>Familial exudative vitreoretinopathy (FEVR) is a hereditary disorder that can cause progressive vision loss. This condition affects the retina, the light-sensitive tissue that lines the back of the eye, by preventing blood vessels from forming at the edges of the retina. This reduces the blood supply to retina. The signs and symptoms include vision loss or blindness, retinal detachment, strabismus, and a visible whiteness (leukocoria) in the normally black pupil. The severity of FEVR varies widely, even within the same family. Many people with this condition do not experience any vision problems.FEVR has different inheritance patterns depending on the gene involved. Most individuals have the autosomal dominant form of this condition, caused by mutations in the FZD4 or LRP5 gene. FEVR caused by LRP5 gene mutations can also have an autosomal recessive inheritance. When this condition is caused by mutations in the NDP gene, it has an X-linked pattern of inheritance.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002251-2" qtype="inheritance">Is Familial exudative vitreoretinopathy inherited ?</Question>
+			<Answer>How is familial exudative vitreoretinopathy inherited? FEVR has different inheritance patterns depending on the gene involved. Most individuals have the autosomal dominant form of this condition, caused by mutations in the FZD4 or LRP5 gene. FEVR caused by LRP5 gene mutations can also have an autosomal recessive inheritance. When this condition is caused by mutations in the NDP gene, it has an X-linked pattern of inheritance.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0002251-3" qtype="treatment">What are the treatments for Familial exudative vitreoretinopathy ?</Question>
+			<Answer>How might familial exudative vitreoretinopathy be treated? Affected individuals with abnormal blood vessel formation in their retina can be treated with laser therapy. Surgery may also be necessary to correct retinal detachment.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

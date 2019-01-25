@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000496" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/hypoglycemia.html">
+<Focus>Hypoglycemia</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0020615</CUI>
+			<CUI>C0595883</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Low blood sugar</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000496-1" qtype="information">What is (are) Hypoglycemia ?</Question>
+			<Answer>Hypoglycemia means low blood glucose, or blood sugar. Your body needs glucose to have enough energy. After you eat, your blood absorbs glucose. If you eat more sugar than your body needs, your muscles, and liver store the extra. When your blood sugar begins to fall, a hormone tells your liver to release glucose.    In most people, this raises blood sugar. If it doesn&apos;t, you have hypoglycemia, and your blood sugar can be dangerously low. Signs include        - Hunger    - Shakiness    - Dizziness    - Confusion    - Difficulty speaking    - Feeling anxious or weak       In people with diabetes, hypoglycemia is often a side effect of diabetes medicines. Eating or drinking something with carbohydrates can help. If it happens often, your health care provider may need to change your treatment plan.    You can also have low blood sugar without having diabetes. Causes include certain medicines or diseases, hormone or enzyme deficiencies, and tumors. Laboratory tests can help find the cause. The kind of treatment depends on why you have low blood sugar.    NIH: National Institute of Diabetes and Digestive and Kidney Diseases</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

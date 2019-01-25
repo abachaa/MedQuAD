@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0005889" source="GARD" url="https://rarediseases.info.nih.gov/gard/7700/stevens-johnson-syndrome">
+<Focus>Stevens-Johnson syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0038325</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Erythema multiforme major</Synonym>
+		<Synonym>SJS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0005889-1" qtype="information">What is (are) Stevens-Johnson syndrome ?</Question>
+			<Answer>Stevens-Johnson Syndrome (SJS), also called erythema multiforme major, is a limited form of toxic epidermal necrolysis. This disorder affects the skin, mucous membranes and eyes. Stevens-Johnson syndrome occurs twice as often in men as women, and most cases appear in children and young adults under 30, although it can develop in people at any age. Having a gene called HLA-B 1502, increases risk of having Stevens-Johnson syndrome. It is an emergency medical condition that usually requires hospitalization. Treatment focuses on eliminating the underlying cause, controlling symptoms and minimizing complications and includes pain medication to reduce discomfort, medication to relieve itching (antihistamines), antibiotics to control infection, when needed and medication to reduce skin inflammation (topical steroids).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0005889-2" qtype="symptoms">What are the symptoms of Stevens-Johnson syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Stevens-Johnson syndrome? Often, Stevens-Johnson syndrome begins with flu-like symptoms, followed by a painful red or purplish rash that spreads and blisters, eventually causing the top layer of the skin to die and shed. To be classified as Stevens-Johnson syndrome, the condition must involve less than 10% of the body surface area. The condition is characterized by painful, blistery lesions on the skin and the mucous membranes (the thin, moist tissues that line body cavities) of the mouth, throat, genital region, and eyelids. It can also cause serious eye problems, such as severe conjunctivitis; iritis, an inflammation inside the eye; corneal blisters and erosions; and corneal holes. In some cases, the ocular complications from this condition can be disabling and lead to severe vision loss. The Human Phenotype Ontology provides the following list of signs and symptoms for Stevens-Johnson syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Abnormal blistering of the skin 90% Abnormality of temperature regulation 90% Acantholysis 90% Hypermelanotic macule 90% Malabsorption 90% Nausea and vomiting 90% Weight loss 90% Abnormality of neutrophils 50% Excessive salivation 50% Feeding difficulties in infancy 50% Abdominal pain 7.5% Abnormality of the eyelid 7.5% Abnormality of the myocardium 7.5% Abnormality of the pleura 7.5% Abnormality of the preputium 7.5% Abnormality of the urethra 7.5% Acute hepatic failure 7.5% Anemia 7.5% Corneal erosion 7.5% Coronary artery disease 7.5% Elevated hepatic transaminases 7.5% Gastrointestinal hemorrhage 7.5% Inflammatory abnormality of the eye 7.5% Pancreatitis 7.5% Photophobia 7.5% Recurrent respiratory infections 7.5% Renal insufficiency 7.5% Respiratory insufficiency 7.5% Restrictive lung disease 7.5% Sepsis 7.5% Sudden cardiac death 7.5% Thrombocytopenia 7.5% Visual impairment 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0005889-3" qtype="causes">What causes Stevens-Johnson syndrome ?</Question>
+			<Answer>What causes Stevens-Johnson syndrome? The exact cause of Stevens-Johnson syndrome is unknown in 25 to 30% of cases. In those cases in which the cause can be determined, it is believed to be related to an adverse allergic drug reaction. Almost any drug--but most particularly sulfa drugs--can cause Stevens-Johnson syndrome. The allergic reaction to the drug may not occur until 7-14 days after first using it. Stevens-Johnson syndrome can also be preceded by a viral infection, such as herpes or the mumps. In rare cases, Stevens-Johnson syndrome may be caused by an illness or bone marrow transplantation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0005889-4" qtype="treatment">What are the treatments for Stevens-Johnson syndrome ?</Question>
+			<Answer>How might Stevens-Johnson syndrome be treated? Stevens-Johnson syndrome may be difficult to treat.[2147] Patients should be admitted to an intensive care or burn unit as soon as the diagnosis is suspected.[2145][2147] Treatment of severe symptoms may include:[2147] Antibiotics to control any skin infections Corticosteroids to control inflammation Intravenous immunoglobulins (IVIG) to stop the disease process Treatment for the eye may include artificial tears, antibiotics, or corticosteroids.[2144]</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

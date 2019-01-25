@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000022" source="NINDS" url="http://www.ninds.nih.gov/disorders/von_hippel_lindau/von_hippel_lindau.htm">
+<Focus>Von Hippel-Lindau Disease (VHL)</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1402998</CUI>
+			<CUI>C0019562</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000022-1" qtype="information">What is (are) Von Hippel-Lindau Disease (VHL) ?</Question>
+			<Answer>von Hippel-Lindau disease (VHL) is a rare, genetic multi-system disorder in which non-cancerous tumors grow in certain parts of the body. Slow-growing hemgioblastomas -- benign tumors with many blood vessels -- may develop in the brain, spinal cord, the retinas of the eyes, and near the inner ear. Cysts (fluid-filled sacs) may develop around the hemangioblastomas. Other types of tumors develop in the adrenal glands, the kidneys, or the pancreas. Symptoms of VHL vary among individuals and depend on the size and location of the tumors. Symptoms may include headaches, problems with balance and walking, dizziness, weakness of the limbs, vision problems, deafness in one ear, and high blood pressure. Individuals with VHL are also at a higher risk than normal for certain types of cancer, especially kidney cancer.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000022-2" qtype="treatment">What are the treatments for Von Hippel-Lindau Disease (VHL) ?</Question>
+			<Answer>Treatment for VHL varies according to the location and size of the tumor. In general, the objective of treatment is to treat the tumors before they grow to a size large enough to cause permanent problems by putting pressure on the brain or spinal cord. this pressure can block the flow of cerebrospinal fluid in the nervous system, impair vision, or create deafness. Treatment of most cases of VHL usually involves surgery to remove the tumors before they become harmful. Certain tumors can be treated with focused high-dose irradiation. Individuals with VHL need careful monitoring by a physician and/or medical team familiar with the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000022-3" qtype="outlook">What is the outlook for Von Hippel-Lindau Disease (VHL) ?</Question>
+			<Answer>The prognosis for individuals with VHL depends on then number, location, and complications of the tumors. Untreated, VHL may result in blindness and/or permanent brain damage. With early detection and treatment the prognosis is significantly improved. Death is usually caused by complications of brain tumors or kidney cancer.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000022-4" qtype="research">what research (or clinical trials) is being done for Von Hippel-Lindau Disease (VHL) ?</Question>
+			<Answer>The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system, and to use that knowledge to reduce the burden of neurological disease. The NINDS pursues a vigorous program of research aimed at preventing and treating disorders that cause tumors in the brain and spinal cord such as VHL. A natural history study hopes to learn more about the growth of brain and spinal cord tumors, as well as cysts that develop in association with them in individuals with VHL. Researchers will examine how fast the tumors grow and try to determine which factors (such as puberty, pregnancy, menopause, or blood proteins) affect tumor growth. Based on laboratory findings, NINDS researchers are planning drug trials for individuals with VHL. For example, NNDS scientists hope to learn if a drug that fights other cancers might slow the growth of hemangioblastomas in some people with VHL. The NIH&apos;s National Cancer Institute conducts research aimed at treating kidney tumors in individuals with VHL, as well as studies to identify gene mutations in people who are at risk of developing the disease..</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

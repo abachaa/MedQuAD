@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000208" source="NINDS" url="http://www.ninds.nih.gov/disorders/myopathy/myopathy.htm">
+<Focus>Myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0026848</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000208-1" qtype="information">What is (are) Myopathy ?</Question>
+			<Answer>The myopathies are neuromuscular disorders in which the primary symptom is muscle weakness due to dysfunction of muscle fiber. Other symptoms of myopathy can include include muscle cramps, stiffness, and spasm. Myopathies can be inherited (such as the muscular dystrophies) or acquired (such as common muscle cramps). Myopathies are grouped as follows: congenital myopathies: characterized by developmental delays in motor skills; skeletal and facial abnormalities are occasionally evident at birth muscular dystrophies: characterized by progressive weakness in voluntary muscles; sometimes evident at birth mitochondrial myopathies: caused by genetic abnormalities in mitochondria, cellular structures that control energy; include Kearns-Sayre syndrome, MELAS and MERRF glycogen storage diseases of muscle: caused by mutations in genes controlling enzymes that metabolize glycogen and glucose (blood sugar); include Pompe&apos;s, Andersen&apos;s and Cori&apos;s diseases myoglobinurias: caused by disorders in the metabolism of a fuel (myoglobin) necessary for muscle work; include McArdle, Tarui, and DiMauro diseases dermatomyositis: an inflammatory myopathy of skin and muscle myositis ossificans: characterized by bone growing in muscle tissue familial periodic paralysis: characterized by episodes of weakness in the arms and legs polymyositis, inclusion body myositis, and related myopathies: inflammatory myopathies of skeletal muscle neuromyotonia: characterized by alternating episodes of twitching and stiffness; and stiff-man syndrome: characterized by episodes of rigidity and reflex spasms common muscle cramps and stiffness, and tetany: characterized by prolonged spasms of the arms and legs</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000208-2" qtype="treatment">What are the treatments for Myopathy ?</Question>
+			<Answer>Treatments for the myopathies depend on the disease or condition and specific causes. Supportive and symptomatic treatment may be the only treatment available or necessary for some disorders. Treatment for other disorders may include drug therapy, such as immunosuppressives, physical therapy, bracing to support weakened muscles, and surgery.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000208-3" qtype="outlook">What is the outlook for Myopathy ?</Question>
+			<Answer>The prognosis for individuals with a myopathy varies. Some individuals have a normal life span and little or no disability. For others, however, the disorder may be progressive, severely disabling, life-threatening, or fatal.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000208-4" qtype="research">what research (or clinical trials) is being done for Myopathy ?</Question>
+			<Answer>The NINDS supports and conducts an extensive research program on neuromuscular disorders such as the myopathies. Much of this research is aimed at increasing scientific understanding of these disorders, and finding ways to prevent, treat, and cure them.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

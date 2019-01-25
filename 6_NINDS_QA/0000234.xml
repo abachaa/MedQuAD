@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000234" source="NINDS" url="http://www.ninds.nih.gov/disorders/pituitary_tumors/pituitary_tumors.htm">
+<Focus>Pituitary Tumors</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0032019</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000234-1" qtype="information">What is (are) Pituitary Tumors ?</Question>
+			<Answer>The pituitary is a small, bean-sized gland that is below the hypothalamus, a structure at the base of the brain, by a thread-like stalk that contains both blood vessels and nerves. It controls a system of hormones in the body that regulate growth, metabolism, the stress response, and functions of the sex organs via the thyroid gland, adrenal gland, ovaries, and testes. A pituitary tumor is an abnormal growth of cells within the pituitary gland. Most pituitary tumors are benign, which means they are non-cancerous, grow slowly and do not spread to other parts of the body; however they can make the pituitary gland produce either too many or too few hormones, which can cause problems in the body. Tumors that make hormones are called functioning tumors, and they can cause a wide array of symptoms depending upon the hormone affected. Tumors that dont make hormones are called non-functioning tumors. Their symptoms are directly related to their growth in size and include headaches, vision problems, nausea, and vomiting. Diseases related to hormone abnormalities include Cushings disease, in which fat builds up in the face, back and chest, and the arms and legs become very thin; and acromegaly, a condition in which the hands, feet, and face are larger than normal. Pituitary hormones that impact the sex hormones, such as estrogen and testosterone, can make a woman produce breast milk even though she is not pregnant or nursing, or cause a man to lose his sex drive or lower his sperm count. Pituitary tumors often go undiagnosed because their symptoms resemble those of so many other more common diseases.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000234-2" qtype="treatment">What are the treatments for Pituitary Tumors ?</Question>
+			<Answer>Generally, treatment depends on the type of tumor, the size of the tumor, whether the tumor has invaded or pressed on surrounding structures, such as the brain and visual pathways, and the individuals age and overall health. Three types of treatment are used: surgical removal of the tumor; radiation therapy, in which high-dose x-rays are used to kill the tumor cells; and drug therapy to shrink or destroy the tumor. Medications are also sometimes used to block the tumor from overproducing hormones. For some people, removing the tumor will also stop the pituitarys ability to produce a specific hormone. These individuals will have to take synthetic hormones to replace the ones their pituitary gland no longer produces.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000234-3" qtype="outlook">What is the outlook for Pituitary Tumors ?</Question>
+			<Answer>If diagnosed early enough, the prognosis is usually excellent. If diagnosis is delayed, even a non-functioning tumor can cause problems if it grows large enough to press on the optic nerves, the brain, or the carotid arteries (the vessels that bring blood to the brain). Early diagnosis and treatment is the key to a good prognosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000234-4" qtype="research">what research (or clinical trials) is being done for Pituitary Tumors ?</Question>
+			<Answer>The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct research related to brain tumors, including pituitary tumors, in their laboratories at the NIH and also support research through grants to major medical institutions across the country. Much of this research focuses on finding better ways to prevent, treat, and ultimately cure pituitary tumors.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

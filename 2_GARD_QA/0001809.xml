@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0001809" source="GARD" url="https://rarediseases.info.nih.gov/gard/8648/desmoplastic-infantile-ganglioglioma">
+<Focus>Desmoplastic infantile ganglioglioma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1321878</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DIG</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0001809-1" qtype="information">What is (are) Desmoplastic infantile ganglioglioma ?</Question>
+			<Answer>Desmoplastic infantile gangliomas (DIGs) are rare brain tumors that are normally located in the frontal or parietal lobes of the brain. They are usually diagnosed before 18 months of age with most infants presenting with a short duration of symptoms. Although seizures are not commonly observed, a bulging fontanelle, rapid head growth, vomiting, and a sunset sign are usually noted. The standard treatment for DIGs is surgical resection (surgical procedure in which the portion of the brain with the tumor is removed).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0001809-2" qtype="symptoms">What are the symptoms of Desmoplastic infantile ganglioglioma ?</Question>
+			<Answer>What signs and symptoms are associated with desmoplastic infantile gangliomas? Most infants with DIGs do not have seizures; however, they usually have a bulging fontanelle, rapid head growth, sunset sign, and vomiting.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0001809-3" qtype="exams and tests">How to diagnose Desmoplastic infantile ganglioglioma ?</Question>
+			<Answer>How are desmoplastic infantile gangliomas diagnosed? In addition to detecting the signs and symptoms commonly seen in DIGs, head CT scans and MRIs may reveal the presence of this type of brain tumor.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0001809-4" qtype="treatment">What are the treatments for Desmoplastic infantile ganglioglioma ?</Question>
+			<Answer>What treatment is available for desmoplastic infantile gangliomas? Surgical resection (removal of the area of the brain with the tumor) has been the standard treatment reported in the medical literature. The size of the resection is probably based on the size of the tumor, although the extent of the resection is not documented for all cases reported in the medical literature. Adjuvant therapy is generally not performed when a gross total resection can be performed. When total resection is not possible, some of suggested chemotherapy, as the effects of radiation on extremely young children may be harmful.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

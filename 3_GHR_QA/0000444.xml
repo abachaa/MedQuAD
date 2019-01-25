@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000444" source="GHR" url="https://ghr.nlm.nih.gov/condition/gyrate-atrophy-of-the-choroid-and-retina">
+<Focus>gyrate atrophy of the choroid and retina</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0018425</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>gyrate atrophy</Synonym>
+		<Synonym>HOGA</Synonym>
+		<Synonym>hyperornithinemia with gyrate atrophy of choroid and retina</Synonym>
+		<Synonym>OAT deficiency</Synonym>
+		<Synonym>OKT deficiency</Synonym>
+		<Synonym>ornithine aminotransferase deficiency</Synonym>
+		<Synonym>ornithine-delta-aminotransferase deficiency</Synonym>
+		<Synonym>ornithine keto acid aminotransferase deficiency</Synonym>
+		<Synonym>Ornithinemia with gyrate atrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000444-1" qtype="information">What is (are) gyrate atrophy of the choroid and retina ?</Question>
+			<Answer>Gyrate atrophy of the choroid and retina, which is often shortened to gyrate atrophy, is an inherited disorder characterized by progressive vision loss. People with this disorder have an ongoing loss of cells (atrophy) in the retina, which is the specialized light-sensitive tissue that lines the back of the eye, and in a nearby tissue layer called the choroid. During childhood, they begin experiencing nearsightedness (myopia), difficulty seeing in low light (night blindness), and loss of side (peripheral) vision. Over time, their field of vision continues to narrow, resulting in tunnel vision. Many people with gyrate atrophy also develop clouding of the lens of the eyes (cataracts). These progressive vision changes lead to blindness by about the age of 50.  Most people with gyrate atrophy have no symptoms other than vision loss, but some have additional features of the disorder. Occasionally, newborns with gyrate atrophy develop excess ammonia in the blood (hyperammonemia), which may lead to poor feeding, vomiting, seizures, or coma. Neonatal hyperammonemia associated with gyrate atrophy generally responds quickly to treatment and does not recur after the newborn period.  Gyrate atrophy usually does not affect intelligence; however, abnormalities may be observed in brain imaging or other neurological testing. In some cases, mild to moderate intellectual disability is associated with gyrate atrophy.  Gyrate atrophy may also cause disturbances in the nerves connecting the brain and spinal cord to muscles and sensory cells (peripheral nervous system). In some people with the disorder these abnormalities lead to numbness, tingling, or pain in the hands or feet, while in others they are detectable only by electrical testing of the nerve impulses.  In some people with gyrate atrophy, a particular type of muscle fibers (type II fibers) break down over time. While this muscle abnormality usually causes no symptoms, it may result in mild weakness.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000444-2" qtype="frequency">How many people are affected by gyrate atrophy of the choroid and retina ?</Question>
+			<Answer>More than 150 individuals with gyrate atrophy have been identified; approximately one third are from Finland.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000444-3" qtype="genetic changes">What are the genetic changes related to gyrate atrophy of the choroid and retina ?</Question>
+			<Answer>Mutations in the OAT gene cause gyrate atrophy. The OAT gene provides instructions for making the enzyme ornithine aminotransferase. This enzyme is active in the energy-producing centers of cells (mitochondria), where it helps break down a molecule called ornithine. Ornithine is involved in the urea cycle, which processes excess nitrogen (in the form of ammonia) that is generated when protein is broken down by the body. In addition to its role in the urea cycle, ornithine participates in several reactions that help ensure the proper balance of protein building blocks (amino acids) in the body. This balance is important because a specific sequence of amino acids is required to build each of the many different proteins needed for the body&apos;s functions. The ornithine aminotransferase enzyme helps convert ornithine into another molecule called pyrroline-5-carboxylate (P5C). P5C can be converted into the amino acids glutamate and proline.  OAT gene mutations that cause gyrate atrophy result in a reduced amount of functional ornithine aminotransferase enzyme. A shortage of this enzyme impedes the conversion of ornithine into P5C. As a result, excess ornithine accumulates in the blood (hyperornithinemia), and less P5C than normal is produced. It is not clear how these changes result in the specific signs and symptoms of gyrate atrophy. Researchers have suggested that a deficiency of P5C may interfere with the function of the retina. It has also been proposed that excess ornithine may suppress the production of a molecule called creatine. Creatine is needed for many tissues in the body to store and use energy properly. It is involved in providing energy for muscle contraction, and it is also important in nervous system functioning.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000444-4" qtype="inheritance">Is gyrate atrophy of the choroid and retina inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000444-5" qtype="treatment">What are the treatments for gyrate atrophy of the choroid and retina ?</Question>
+			<Answer>These resources address the diagnosis or management of gyrate atrophy:  - Baby&apos;s First Test  - Genetic Testing Registry: Ornithine aminotransferase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

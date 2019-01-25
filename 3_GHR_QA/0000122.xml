@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000122" source="GHR" url="https://ghr.nlm.nih.gov/condition/beta-ureidopropionase-deficiency">
+<Focus>beta-ureidopropionase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1291512</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>beta-alanine synthase deficiency</Synonym>
+		<Synonym>deficiency of beta-ureidopropionase</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000122-1" qtype="information">What is (are) beta-ureidopropionase deficiency ?</Question>
+			<Answer>Beta-ureidopropionase deficiency is a disorder that causes excessive amounts of molecules called N-carbamyl-beta-aminoisobutyric acid and N-carbamyl-beta-alanine to be released in the urine. Neurological problems ranging from mild to severe also occur in some affected individuals.  People with beta-ureidopropionase deficiency can have low muscle tone (hypotonia), seizures, speech difficulties, developmental delay, intellectual disability, and autistic behaviors that affect communication and social interaction. Some people with this condition have an abnormally small head size (microcephaly); they may also have brain abnormalities that can be seen with medical imaging. Deterioration of the optic nerve, which carries visual information from the eyes to the brain, can lead to vision loss in this condition.  In some people with beta-ureidopropionase deficiency, the disease causes no neurological problems and can only be diagnosed by laboratory testing.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000122-2" qtype="frequency">How many people are affected by beta-ureidopropionase deficiency ?</Question>
+			<Answer>The prevalence of beta-ureidopropionase deficiency is unknown. A small number of affected individuals from populations around the world have been described in the medical literature. In Japan, the prevalence of beta-ureidopropionase deficiency has been estimated as 1 in 6,000 people. Researchers suggest that in many affected individuals with absent or mild neurological problems, the condition may never be diagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000122-3" qtype="genetic changes">What are the genetic changes related to beta-ureidopropionase deficiency ?</Question>
+			<Answer>Beta-ureidopropionase deficiency is caused by mutations in the UPB1 gene, which provides instructions for making an enzyme called beta-ureidopropionase. This enzyme is involved in the breakdown of molecules called pyrimidines, which are building blocks of DNA and its chemical cousin RNA.  The beta-ureidopropionase enzyme is involved in the last step of the process that breaks down pyrimidines. This step converts N-carbamyl-beta-aminoisobutyric acid to beta-aminoisobutyric acid and also breaks down N-carbamyl-beta-alanine to beta-alanine, ammonia, and carbon dioxide. Both beta-aminoisobutyric acid and beta-alanine are thought to play roles in the nervous system. Beta-aminoisobutyric acid increases the production of a protein called leptin, which has been found to help protect brain cells from damage caused by toxins, inflammation, and other factors. Research suggests that beta-alanine is involved in sending signals between nerve cells (synaptic transmission) and in controlling the level of a chemical messenger (neurotransmitter) called dopamine.  UPB1 gene mutations can reduce or eliminate beta-ureidopropionase enzyme activity. Loss of this enzyme function reduces the production of beta-aminoisobutyric acid and beta-alanine, and leads to an excess of their precursor molecules, N-carbamyl-beta-aminoisobutyric acid and N-carbamyl-beta-alanine, which are released in the urine. Reduced production of beta-aminoisobutyric acid and beta-alanine may impair the function of these molecules in the nervous system, leading to neurological problems in some people with beta-ureidopropionase deficiency. The extent of the reduction in enzyme activity caused by a particular UPB1 gene mutation, along with other genetic and environmental factors, may determine whether people with beta-ureidopropionase deficiency develop neurological problems and the severity of these problems.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000122-4" qtype="inheritance">Is beta-ureidopropionase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000122-5" qtype="treatment">What are the treatments for beta-ureidopropionase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of beta-ureidopropionase deficiency:  - Genetic Testing Registry: Deficiency of beta-ureidopropionase   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

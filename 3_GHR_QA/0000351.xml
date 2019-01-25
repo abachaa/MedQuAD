@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000351" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-hemiplegic-migraine">
+<Focus>familial hemiplegic migraine</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338484</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>hemiplegic migraine, familial</Synonym>
+		<Synonym>hemiplegic-ophthalmoplegic migraine</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000351-1" qtype="information">What is (are) familial hemiplegic migraine ?</Question>
+			<Answer>Familial hemiplegic migraine is a form of migraine headache that runs in families. Migraines usually cause intense, throbbing pain in one area of the head, often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. These recurrent headaches typically begin in childhood or adolescence and can be triggered by certain foods, emotional stress, and minor head trauma. Each headache may last from a few hours to a few days.  In some types of migraine, including familial hemiplegic migraine, a pattern of neurological symptoms called an aura precedes the headache. The most common symptoms associated with an aura are temporary visual changes such as blind spots (scotomas), flashing lights, zig-zagging lines, and double vision. In people with familial hemiplegic migraine, auras are also characterized by temporary numbness or weakness, often affecting one side of the body (hemiparesis). Additional features of an aura can include difficulty with speech, confusion, and drowsiness. An aura typically develops gradually over a few minutes and lasts about an hour.  Unusually severe migraine episodes have been reported in some people with familial hemiplegic migraine. These episodes have included fever, seizures, prolonged weakness, coma, and, rarely, death. Although most people with familial hemiplegic migraine recover completely between episodes, neurological symptoms such as memory loss and problems with attention can last for weeks or months. About 20 percent of people with this condition develop mild but permanent difficulty coordinating movements (ataxia), which may worsen with time, and rapid, involuntary eye movements called nystagmus.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000351-2" qtype="frequency">How many people are affected by familial hemiplegic migraine ?</Question>
+			<Answer>The worldwide prevalence of familial hemiplegic migraine is unknown. Studies suggest that in Denmark about 1 in 10,000 people have hemiplegic migraine and that the condition occurs equally in families with multiple affected individuals (familial hemiplegic migraine) and in individuals with no family history of the condition (sporadic hemiplegic migraine). Like other forms of migraine, familial hemiplegic migraine affects females more often than males.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000351-3" qtype="genetic changes">What are the genetic changes related to familial hemiplegic migraine ?</Question>
+			<Answer>Mutations in the CACNA1A, ATP1A2, SCN1A, and PRRT2 genes have been found to cause familial hemiplegic migraine. The first three genes provide instructions for making proteins that are involved in the transport of charged atoms (ions) across cell membranes. The movement of these ions is critical for normal signaling between nerve cells (neurons) in the brain and other parts of the nervous system. The function of the protein produced from the PRRT2 gene is unknown, although studies suggest it interacts with a protein that helps control signaling between neurons.  Communication between neurons depends on chemicals called neurotransmitters, which are released from one neuron and taken up by neighboring neurons. Researchers believe that mutations in the CACNA1A, ATP1A2, and SCN1A genes can upset the balance of ions in neurons, which disrupts the normal release and uptake of certain neurotransmitters in the brain. Although the mechanism is unknown, researchers speculate that mutations in the PRRT2 gene, which reduce the amount of PRRT2 protein, also disrupt normal control of neurotransmitter release. The resulting changes in signaling between neurons lead people with familial hemiplegic migraine to develop these severe headaches.  There is little evidence that mutations in the CACNA1A, ATP1A2, SCN1A, and PRRT2 genes play a role in common migraines, which affect millions of people each year. Researchers are searching for additional genetic changes that may underlie rare types of migraine, such as familial hemiplegic migraine, as well as the more common forms of migraine.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000351-4" qtype="inheritance">Is familial hemiplegic migraine inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In most cases, affected individuals have one affected parent. However, some people who inherit an altered gene never develop features of familial hemiplegic migraine. (This situation is known as reduced penetrance.) A related condition, sporadic hemiplegic migraine, has identical signs and symptoms but occurs in individuals with no history of the disorder in their family.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000351-5" qtype="treatment">What are the treatments for familial hemiplegic migraine ?</Question>
+			<Answer>These resources address the diagnosis or management of familial hemiplegic migraine:  - Gene Review: Gene Review: Familial Hemiplegic Migraine  - Genetic Testing Registry: Familial hemiplegic migraine  - Genetic Testing Registry: Familial hemiplegic migraine type 1  - Genetic Testing Registry: Familial hemiplegic migraine type 2  - Genetic Testing Registry: Familial hemiplegic migraine type 3   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0002321" source="GARD" url="https://rarediseases.info.nih.gov/gard/11005/febrile-infection-related-epilepsy-syndrome">
+<Focus>Febrile infection-related epilepsy syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0014544</CUI>
+			<CUI>C0948233</CUI>
+			<CUI>C0039082</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>FIRES</Synonym>
+		<Synonym>Acute encephalitis with refractory repetitive partial seizures</Synonym>
+		<Synonym>AERRPS</Synonym>
+		<Synonym>Acute non-herpetic encephalitis with severe refractory status epilepticus</Synonym>
+		<Synonym>Devastating epileptic encephalopathy in school-aged children</Synonym>
+		<Synonym>NORSE</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0002321-1" qtype="information">What is (are) Febrile infection-related epilepsy syndrome ?</Question>
+			<Answer>Febrile infection-related epilepsy syndrome (FIRES) is a severe brain disorder that develops in children after a fever. This condition results in sudden seizures and leads to declines in memory and intellectual ability. FIRES can also cause psychiatric disorders or problems with motor skills. The cause of FIRES is unknown, but may be related to infection, genetic susceptibility, an autoimmune disorder, or a problem with metabolism. Treatment involves antiepileptic medications to manage seizures, but they do not usually work well.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0002321-2" qtype="symptoms">What are the symptoms of Febrile infection-related epilepsy syndrome ?</Question>
+			<Answer>What are the signs and symptoms of Febrile infection-related epilepsy syndrome? The Human Phenotype Ontology provides the following list of signs and symptoms for Febrile infection-related epilepsy syndrome. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Developmental regression 90% EEG abnormality 90% Reduced consciousness/confusion 90% Seizures 90% Abnormality of temperature regulation 50% Behavioral abnormality 50% Migraine 50% Myalgia 50% Sinusitis 50% Autoimmunity 7.5% Sudden cardiac death 7.5% The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

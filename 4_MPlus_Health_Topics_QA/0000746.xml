@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000746" source="MPlusHealthTopics" url="https://www.nlm.nih.gov/medlineplus/prescriptiondrugabuse.html">
+<Focus>Prescription Drug Abuse</Focus>
+<FocusAnnotations>
+	<Category>Disease</Category>
+	<UMLS>
+		<CUIs>
+			<CUI>C0747950</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T048</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000746-1" qtype="information">What is (are) Prescription Drug Abuse ?</Question>
+			<Answer>If you take a medicine in a way that is different from what the doctor prescribed, it is called prescription drug abuse. It could be       - Taking a medicine that was prescribed for someone else    - Taking a larger dose than you are supposed to    - Taking the medicine in a different way than you are supposed to. This might be crushing tablets and then snorting or injecting them.    - Using the medicine for another purpose, such as getting high       Abusing some prescription drugs can lead to addiction. These include narcotic painkillers, sedatives, tranquilizers, and stimulants.    Every medicine has some risk of side effects. Doctors take this into account when prescribing medicines. People who abuse these drugs may not understand the risks. The medicines may not be safe for them, especially at higher doses or when taken with other medicines.     NIH: National Institute on Drug Abuse</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

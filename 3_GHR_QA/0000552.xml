@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000552" source="GHR" url="https://ghr.nlm.nih.gov/condition/juvenile-primary-osteoporosis">
+<Focus>juvenile primary osteoporosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3711559</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>childhood-onset primary osteoporosis</Synonym>
+		<Synonym>idiopathic juvenile osteoporosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000552-1" qtype="information">What is (are) juvenile primary osteoporosis ?</Question>
+			<Answer>Juvenile primary osteoporosis is a skeletal disorder characterized by thinning of the bones (osteoporosis) that begins in childhood. Osteoporosis is caused by a shortage of calcium and other minerals in bones (decreased bone mineral density), which makes the bones brittle and prone to fracture. Affected individuals often have multiple fractures in the long bones of the arms and legs, especially in the regions where new bone forms (metaphyses). They also have fractures in the bones that form the spine (vertebrae), which can cause collapse of the affected vertebrae (compressed vertebrae). Multiple fractures can cause bone pain and lead to movement problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000552-2" qtype="frequency">How many people are affected by juvenile primary osteoporosis ?</Question>
+			<Answer>The prevalence of juvenile primary osteoporosis is unknown. Nearly 1 in 10 adults over age 50 have osteoporosis, but the condition is uncommon in children. Osteoporosis can occur at a young age as a feature of other conditions but rarely occurs without other signs and symptoms (primary osteoporosis).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000552-3" qtype="genetic changes">What are the genetic changes related to juvenile primary osteoporosis ?</Question>
+			<Answer>Mutations in the LRP5 gene can cause juvenile primary osteoporosis. This gene provides instructions for making a protein that participates in a chemical signaling pathway that affects the way cells and tissues develop. In particular, the LRP5 protein is involved in the regulation of bone mineral density.  LRP5 gene mutations that cause juvenile primary osteoporosis result in an LRP5 protein that cannot transmit signals along the pathway. The resulting reduction in signaling impairs proper bone development, causing decreased bone mineral density and osteoporosis at a young age.  Many people with childhood-onset osteoporosis do not have a mutation in the LRP5 gene. (When its cause is unknown, the condition is often called idiopathic juvenile osteoporosis). It is likely that mutations in other genes that have not been identified are involved in this condition.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000552-4" qtype="inheritance">Is juvenile primary osteoporosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000552-5" qtype="treatment">What are the treatments for juvenile primary osteoporosis ?</Question>
+			<Answer>These resources address the diagnosis or management of juvenile primary osteoporosis:  - Lucile Packard Children&apos;s Hospital at Stanford: Juvenile Osteoporosis  - MedlinePlus Encyclopedia: Bone Mineral Density Test  - Merck Manual Home Health Edition: Osteoporosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

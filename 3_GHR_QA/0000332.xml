@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000332" source="GHR" url="https://ghr.nlm.nih.gov/condition/ewing-sarcoma">
+<Focus>Ewing sarcoma</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1261473</CUI>
+			<CUI>C0553580</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ewing family of tumors</Synonym>
+		<Synonym>Ewing tumor</Synonym>
+		<Synonym>Ewing's sarcoma</Synonym>
+		<Synonym>Ewing's tumor</Synonym>
+		<Synonym>tumor of the Ewing family</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000332-1" qtype="information">What is (are) Ewing sarcoma ?</Question>
+			<Answer>Ewing sarcoma is a cancerous tumor that occurs in bones or soft tissues, such as cartilage or nerves. There are several types of Ewing sarcoma, including Ewing sarcoma of bone, extraosseous Ewing sarcoma, peripheral primitive neuroectodermal tumor (pPNET), and Askin tumor. These tumors are considered to be related because they have similar genetic causes. These types of Ewing sarcoma can be distinguished from one another by the tissue in which the tumor develops. Approximately 87 percent of Ewing sarcomas are Ewing sarcoma of bone, which is a bone tumor that usually occurs in the thigh bones (femurs), pelvis, ribs, or shoulder blades. Extraosseous (or extraskeletal) Ewing sarcoma describes tumors in the soft tissues around bones, such as cartilage. pPNETs occur in nerve tissue and can be found in many parts of the body. A type of pPNET found in the chest is called Askin tumor.  Ewing sarcomas most often occur in children and young adults. Affected individuals usually feel stiffness, pain, swelling, or tenderness of the bone or surrounding tissue. Sometimes, there is a lump near the surface of the skin that feels warm and soft to the touch. Often, children have a fever that does not go away. Ewing sarcoma of bone can cause weakening of the involved bone, and affected individuals may have a broken bone with no obvious cause.  It is common for Ewing sarcoma to spread to other parts of the body (metastasize), usually to the lungs, to other bones, or to the bone marrow.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000332-2" qtype="frequency">How many people are affected by Ewing sarcoma ?</Question>
+			<Answer>Approximately 3 per 1 million children each year are diagnosed with a Ewing sarcoma. It is estimated that, in the United States, 250 children are diagnosed with one of these types of tumor each year. Ewing sarcoma accounts for about 1.5 percent of all childhood cancers, and it is the second most common type of bone tumor in children (the most common type of bone cancer is called osteosarcoma).</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000332-3" qtype="genetic changes">What are the genetic changes related to Ewing sarcoma ?</Question>
+			<Answer>The most common mutation that causes Ewing sarcoma involves two genes, the EWSR1 gene on chromosome 22 and the FLI1 gene on chromosome 11. A rearrangement (translocation) of genetic material between chromosomes 22 and 11, written as t(11;22), fuses part of the EWSR1 gene with part of the FLI1 gene, creating the EWSR1/FLI1 fusion gene. This mutation is acquired during a person&apos;s lifetime and is present only in tumor cells. This type of genetic change, called a somatic mutation, is not inherited.  The protein produced from the EWSR1/FLI1 fusion gene, called EWS/FLI, has functions of the protein products of both genes. The FLI protein, produced from the FLI1 gene, attaches (binds) to DNA and regulates an activity called transcription, which is the first step in the production of proteins from genes. The FLI protein controls the growth and development of some cell types by regulating the transcription of certain genes. The EWS protein, produced from the EWSR1 gene, also regulates transcription. The EWS/FLI protein has the DNA-binding function of the FLI protein as well as the transcription regulation function of the EWS protein. It is thought that the EWS/FLI protein turns the transcription of a variety of genes on and off abnormally. This dysregulation of transcription leads to uncontrolled growth and division (proliferation) and abnormal maturation and survival of cells, causing tumor development.  The EWSR1/FLI1 fusion gene occurs in approximately 85 percent of Ewing sarcomas. Translocations that fuse the EWSR1 gene with other genes that are related to the FLI1 gene can also cause these types of tumors, although these alternative translocations are relatively uncommon. The fusion proteins produced from the less common gene translocations have the same function as the EWS/FLI protein.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000332-4" qtype="inheritance">Is Ewing sarcoma inherited ?</Question>
+			<Answer>This condition is generally not inherited but arises from a mutation in the body&apos;s cells that occurs after conception. This alteration is called a somatic mutation.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000332-5" qtype="treatment">What are the treatments for Ewing sarcoma ?</Question>
+			<Answer>These resources address the diagnosis or management of Ewing sarcoma:  - Cancer.Net: Ewing Family of Tumors - Childhood: Diagnosis  - Cancer.Net: Ewing Family of Tumors - Childhood: Treatment  - Genetic Testing Registry: Ewing&apos;s sarcoma  - MedlinePlus Encyclopedia: Ewing Sarcoma   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

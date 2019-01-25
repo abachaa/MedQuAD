@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000391" source="GHR" url="https://ghr.nlm.nih.gov/condition/frontotemporal-dementia-with-parkinsonism-17">
+<Focus>frontotemporal dementia with parkinsonism-17</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C3811924</CUI>
+			<CUI>C0349081</CUI>
+			<CUI>C0338451</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>DDPAC</Synonym>
+		<Synonym>disinhibition-dementia-parkinsonism-amytrophy complex</Synonym>
+		<Synonym>familial Pick's disease</Synonym>
+		<Synonym>FTDP-17</Synonym>
+		<Synonym>Wilhelmsen-Lynch disease</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000391-1" qtype="information">What is (are) frontotemporal dementia with parkinsonism-17 ?</Question>
+			<Answer>Frontotemporal dementia with parkinsonism-17 (FTDP-17) is a progressive brain disorder that affects behavior, language, and movement. The symptoms of this disorder usually become noticeable in a person&apos;s forties or fifties. Most affected people survive 5 to 10 years after the appearance of symptoms, although a few have survived for two decades or more.  Changes in personality and behavior are often early signs of FTDP-17. These changes include a loss of inhibition, inappropriate emotional responses, restlessness, neglect of personal hygiene, and a general loss of interest in activities and events. The disease also leads to deterioration of cognitive functions (dementia), including problems with judgment, planning, and concentration. Some people with FTDP-17 develop psychiatric symptoms, including obsessive-compulsive behaviors, delusions, and hallucinations. It may become difficult for affected individuals to interact with others in a socially appropriate manner. They increasingly require help with personal care and other activities of daily living.  Many people with FTDP-17 develop problems with speech and language. They may have trouble finding words, confuse one word with another (semantic paraphasias), and repeat words spoken by others (echolalia). Difficulties with speech and language worsen over time, and most affected individuals eventually lose the ability to communicate.  FTDP-17 is also characterized by progressive problems with movement. Many affected individuals develop features of parkinsonism, including tremors, rigidity, and unusually slow movement (bradykinesia). As the disease progresses, most affected individuals become unable to walk. Some people with FTDP-17 also have restricted up-and-down eye movement (vertical gaze palsy) and rapid abnormal movements of both eyes (saccades).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000391-2" qtype="frequency">How many people are affected by frontotemporal dementia with parkinsonism-17 ?</Question>
+			<Answer>The worldwide prevalence of FTDP-17 is unknown. In the Netherlands, where the disease prevalence has been studied, it is estimated to affect 1 in 1 million people. However, the disorder is likely underdiagnosed, so it may actually be more common than this.  FTDP-17 probably accounts for a small percentage of all cases of frontotemporal dementia.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000391-3" qtype="genetic changes">What are the genetic changes related to frontotemporal dementia with parkinsonism-17 ?</Question>
+			<Answer>FTDP-17 is caused by mutations in the MAPT gene. This gene is located on chromosome 17, which is how the disease got its name.  The MAPT gene provides instructions for making a protein called tau. This protein is found throughout the nervous system, including in nerve cells (neurons) in the brain. It is involved in assembling and stabilizing microtubules, which are rigid, hollow fibers that make up the cell&apos;s structural framework (the cytoskeleton). Microtubules help cells maintain their shape, assist in the process of cell division, and are essential for the transport of materials within cells.  Mutations in the MAPT gene disrupt the normal structure and function of tau. The defective protein assembles into abnormal clumps within neurons and other brain cells. However, it is unclear what effect these clumps have on cell function and survival. FTDP-17 is characterized by the gradual death of cells in areas of the brain called the frontal and temporal lobes. The frontal lobes are involved in reasoning, planning, judgment, and problem-solving, while the temporal lobes help process hearing, speech, memory, and emotion. A loss of cells in these brain regions leads to personality changes, speech difficulties, and the other features of FTDP-17.  FTDP-17 is one of several related diseases known as tauopathies, which are characterized by an abnormal buildup of tau in the brain.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000391-4" qtype="inheritance">Is frontotemporal dementia with parkinsonism-17 inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000391-5" qtype="treatment">What are the treatments for frontotemporal dementia with parkinsonism-17 ?</Question>
+			<Answer>These resources address the diagnosis or management of FTDP-17:  - Gene Review: Gene Review: MAPT-Related Disorders  - Genetic Testing Registry: Frontotemporal dementia   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

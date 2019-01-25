@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0003613" source="GARD" url="https://rarediseases.info.nih.gov/gard/8742/limbic-encephalitis">
+<Focus>Limbic encephalitis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338430</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0003613-1" qtype="information">What is (are) Limbic encephalitis ?</Question>
+			<Answer>Limbic encephalitis is a condition marked by the inflammation of the limbic system and other parts of the brain. The cardinal sign of limbic encephalitis is a severe impairment of short-term memory; however, symptoms may also include confusion, psychiatric symptoms, and seizures. The symptoms typically develop over a few weeks or months, but they may evolve over a few days. Delayed diagnosis is common, but improvements are being made to assist in early detection. Early diagnosis may improve the outcome of limbic encephalitis.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0003613-2" qtype="symptoms">What are the symptoms of Limbic encephalitis ?</Question>
+			<Answer>What symptoms are associated with limbic encephalitis? Although the symptoms of the condition may vary from person to person, the cardinal sign of limbic encephalitis is severe impairment of short-term memory, with most patients having difficulties in recall.  A large variety of symptoms may be associated with limbic encephalitis such as anterograde amnesia (the inability to store new memories after the onset of the condition), anxiety, depression, irritability, personality change, acute confusional state, hallucinations and seizures.  Other possible symptoms may include obsessiveness, hyperthermia (increase in body temperature), weight change, hypersomnia, endocrine dysfunction, aphasia, and apraxia.  The symptoms associated with limbic encephalitis can develop over a few days, weeks, or months.  It is important to note the neurological symptoms generally precede diagnosis of the malignancy in 60%-75% of patients that have paraneoplastic limbic encephalitis.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0003613-3" qtype="causes">What causes Limbic encephalitis ?</Question>
+			<Answer>What causes limbic encephalitis? In many patients limbic encephalitis is a paraneoplastic syndrome, which is most commonly associated with small cell lung cancer (SCLC), breast cancer, testicular tumors, teratomas, Hodgkin&apos;s lymphoma, and thymomas.  Out of the various cancers linked to limbic encephalitis, the typically associated tumors are SCLC, which are present in about 40% of patients that have the paraneoplastic form of limbic encephalitis.  Seminoma are present in 25% of patients.  At a lower rate, nearly any other tumor may be associated.  Limbic encephalitis can also occur in the absence of cancer such as in the case of an viral infection and systemic autoimmune disorders.  The underlying cause of limbic encephalitis is probably an autoimmune reaction which is brought about by cancer, tumors, infections, or autoimmune disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0003613-4" qtype="treatment">What are the treatments for Limbic encephalitis ?</Question>
+			<Answer>What treatment is available for limbic encephalitis? Treatment will vary depending on whether the patient has a paraneoplastic form of limbic encephalitis or not.  If the patient has a viral infectious form of the condition, an antiviral drug may be prescribed.  When a tumor is found in association with a possible paraneoplastic disorder, removal of the tumor and immunotherapy may be offered.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

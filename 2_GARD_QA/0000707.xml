@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000707" source="GARD" url="https://rarediseases.info.nih.gov/gard/873/bethlem-myopathy">
+<Focus>Bethlem myopathy</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1834674</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Myopathy, benign congenital, with contractures</Synonym>
+		<Synonym>Muscular dystrophy, benign congenital</Synonym>
+		<Synonym>Collagen VI related muscular dystrophy</Synonym>
+		<Synonym>Congenital muscular dystrophy</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000707-1" qtype="information">What is (are) Bethlem myopathy ?</Question>
+			<Answer>Bethlem myopathy is an inherited movement disorder characterized by progressive muscle weakness and joint stiffness (contractures) in the fingers, wrists, elbows, and ankles. Due to a progressive course, up to two-thirds of people with this condition require a walker or wheelchair after the age of 50. Bethlem myopathy is caused by mutations in the COL6A1, COL6A2, and COL6A3 genes. Most cases are inherited in an autosomal dominant pattern and occur as the result of a new mutation. In rare cases, the disease follows an autosomal recessive pattern of inheritance. Treatment depends upon individual symptoms, but routinely involves physical therapy. Surgery or other measures may be undertaken as needed.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000707-2" qtype="symptoms">What are the symptoms of Bethlem myopathy ?</Question>
+			<Answer>What are the signs and symptoms of Bethlem myopathy? Bethlem myopathy mainly affects skeletal muscles, the muscles used for movement. People with this condition experience progressive muscle weakness and develop joint stiffness (contractures) in their fingers, wrists, elbows, and ankles. The features of Bethlem myopathy can appear at any age. In some cases, the symptoms start before birth with decreased fetal movements. In others, low muscle tone and a stiff neck develop following birth. During childhood, delayed developmental milestones may be noted, leading to trouble sitting or walking. In some, symptoms don&apos;t occur until adulthood. Over time, approximately two-thirds of people with Bethlem myopathy will need to use a walker or wheelchair. In addition to the muscle problems, some people with Bethlem myopathy have skin abnormalities such as small bumps called follicular hyperkeratosis that develop around the elbows and knees; soft, velvety skin on the palms and soles; and wounds that split open with little bleeding and widen over time to create shallow scars. The Human Phenotype Ontology provides the following list of signs and symptoms for Bethlem myopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Camptodactyly of finger 90% Decreased body weight 90% EMG abnormality 90% Limitation of joint mobility 90% Myopathy 90% Abnormality of the cardiovascular system - Ankle contracture - Autosomal dominant inheritance - Autosomal recessive inheritance - Congenital muscular torticollis - Decreased fetal movement - Distal muscle weakness - Elbow flexion contracture - Elevated serum creatine phosphokinase - Limb-girdle muscle weakness - Motor delay - Neonatal hypotonia - Proximal muscle weakness - Respiratory insufficiency due to muscle weakness - Slow progression - Torticollis - Variable expressivity - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000707-3" qtype="causes">What causes Bethlem myopathy ?</Question>
+			<Answer>What causes Bethlem myopathy? Bethlem myopathy is caused by mutations in the COL6A1, COL6A2, and COL6A3 genes. These genes each provide instructions for making one component of a protein called type VI collagen. This protein plays an important role in muscle, particularly skeletal muscle. Type VI collagen makes up part of the extracellular matrix, an intricate lattice that forms in the space between cells and provides structural support to the muscles. Mutations in the type VI collagen genes result in the formation of abnormal type VI collagen or reduced amounts of type VI collagen. This decrease in normal type VI collagen disrupts the extracellullar matrix surrounding muscle cells, leading to progressive muscle weakness and the other signs and symptoms of Bethlem myopathy.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000707-4" qtype="inheritance">Is Bethlem myopathy inherited ?</Question>
+			<Answer>How is Bethlem myopathy inherited? Bethlem myopathy is typically inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. Most cases result from new mutations in the gene and occur in people with no history of the disorder in their family. IN some cases, an affected person inherits the mutation from one affected parent. In rare cases, the condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000707-5" qtype="treatment">What are the treatments for Bethlem myopathy ?</Question>
+			<Answer>How might Bethlem myopathy be treated? The treatment for Behtlem myopathy is symptomatic and supportive. This means that treatment is directed at the individual symptoms that are present in each case. There is no cure. In most cases, physical therapy, stretching exercises, splinting, and/or mobility aids are employed. In rare cases, surgery may be needed (i.e. for Achilles tendon contractures or scoliosis).</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

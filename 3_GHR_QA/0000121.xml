@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000121" source="GHR" url="https://ghr.nlm.nih.gov/condition/beta-mannosidosis">
+<Focus>beta-mannosidosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0342849</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>beta-D-mannosidosis</Synonym>
+		<Synonym>beta-mannosidase deficiency</Synonym>
+		<Synonym>lysosomal beta A mannosidosis</Synonym>
+		<Synonym>lysosomal beta-mannosidase deficiency</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000121-1" qtype="information">What is (are) beta-mannosidosis ?</Question>
+			<Answer>Beta-mannosidosis is a rare inherited disorder affecting the way certain sugar molecules are processed in the body.  Signs and symptoms of beta-mannosidosis vary widely in severity, and the age of onset ranges between infancy and adolescence. Almost all individuals with beta-mannosidosis experience intellectual disability, and some have delayed motor development and seizures. Affected individuals may be extremely introverted, prone to depression, or have behavioral problems such as hyperactivity, impulsivity or aggression.  People with beta-mannosidosis may experience an increased risk of respiratory and ear infections, hearing loss, speech impairment, swallowing difficulties, poor muscle tone (hypotonia), and reduced sensation or other nervous system abnormalities in the extremities (peripheral neuropathy). They may also exhibit distinctive facial features and clusters of enlarged blood vessels forming small, dark red spots on the skin (angiokeratomas).</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000121-2" qtype="frequency">How many people are affected by beta-mannosidosis ?</Question>
+			<Answer>Beta-mannosidosis is believed to be a very rare disorder. Approximately 20 affected individuals have been reported worldwide. It is difficult to determine the specific incidence of beta-mannosidosis, because people with mild or non-specific symptoms may never be diagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000121-3" qtype="genetic changes">What are the genetic changes related to beta-mannosidosis ?</Question>
+			<Answer>Mutations in the MANBA gene cause beta-mannosidosis.  The MANBA gene provides instructions for making the enzyme beta-mannosidase. This enzyme works in the lysosomes, which are compartments that digest and recycle materials in the cell. Within lysosomes, the enzyme helps break down complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins). Beta-mannosidase is involved in the last step of this process, helping to break down complexes of two sugar molecules (disaccharides) containing a sugar molecule called mannose.  Mutations in the MANBA gene interfere with the ability of the beta-mannosidase enzyme to perform its role in breaking down mannose-containing disaccharides. These disaccharides gradually accumulate in the lysosomes and cause cells to malfunction, resulting in the signs and symptoms of beta-mannosidosis.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000121-4" qtype="inheritance">Is beta-mannosidosis inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000121-5" qtype="treatment">What are the treatments for beta-mannosidosis ?</Question>
+			<Answer>These resources address the diagnosis or management of beta-mannosidosis:  - Genetic Testing Registry: Beta-D-mannosidosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

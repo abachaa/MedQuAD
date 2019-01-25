@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000542" source="GHR" url="https://ghr.nlm.nih.gov/condition/jervell-and-lange-nielsen-syndrome">
+<Focus>Jervell and Lange-Nielsen syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0022387</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Cardio-auditory-syncope syndrome</Synonym>
+		<Synonym>Cardioauditory syndrome of Jervell and Lange-Nielsen</Synonym>
+		<Synonym>Jervell-Lange Nielsen Syndrome</Synonym>
+		<Synonym>JLNS</Synonym>
+		<Synonym>Surdo-cardiac syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000542-1" qtype="information">What is (are) Jervell and Lange-Nielsen syndrome ?</Question>
+			<Answer>Jervell and Lange-Nielsen syndrome is a condition that causes profound hearing loss from birth and a disruption of the heart&apos;s normal rhythm (arrhythmia). This disorder is a form of long QT syndrome, which is a heart condition that causes the heart (cardiac) muscle to take longer than usual to recharge between beats. Beginning in early childhood, the irregular heartbeats increase the risk of fainting (syncope) and sudden death.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000542-2" qtype="frequency">How many people are affected by Jervell and Lange-Nielsen syndrome ?</Question>
+			<Answer>Jervell and Lange-Nielsen syndrome is uncommon; it affects an estimated 1.6 to 6 per 1 million people worldwide. This condition has a higher prevalence in Denmark, where it affects at least 1 in 200,000 people.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000542-3" qtype="genetic changes">What are the genetic changes related to Jervell and Lange-Nielsen syndrome ?</Question>
+			<Answer>Mutations in the KCNE1 and KCNQ1 genes cause Jervell and Lange-Nielsen syndrome.  The KCNE1 and KCNQ1 genes provide instructions for making proteins that work together to form a channel across cell membranes. These channels transport positively charged potassium atoms (ions) out of cells. The movement of potassium ions through these channels is critical for maintaining the normal functions of inner ear structures and cardiac muscle.  About 90 percent of cases of Jervell and Lange-Nielsen syndrome are caused by mutations in the KCNQ1 gene; KCNE1 mutations are responsible for the remaining cases. Mutations in these genes alter the usual structure and function of potassium channels or prevent the assembly of normal channels. These changes disrupt the flow of potassium ions in the inner ear and in cardiac muscle, leading to hearing loss and an irregular heart rhythm characteristic of Jervell and Lange-Nielsen syndrome.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000542-4" qtype="inheritance">Is Jervell and Lange-Nielsen syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. Most often, the parents of a child with an autosomal recessive disorder are not affected, but are carriers of one copy of the mutated gene. Some carriers of a KCNQ1 or KCNE1 mutation have signs and symptoms affecting the heart, but their hearing is usually normal.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000542-5" qtype="treatment">What are the treatments for Jervell and Lange-Nielsen syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Jervell and Lange-Nielsen syndrome:  - Gene Review: Gene Review: Jervell and Lange-Nielsen Syndrome  - Genetic Testing Registry: Jervell and Lange-Nielsen syndrome  - MedlinePlus Encyclopedia: Arrhythmias   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

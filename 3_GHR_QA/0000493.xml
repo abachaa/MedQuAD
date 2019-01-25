@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000493" source="GHR" url="https://ghr.nlm.nih.gov/condition/hyperferritinemia-cataract-syndrome">
+<Focus>hyperferritinemia-cataract syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0086543</CUI>
+			<CUI>C1833213</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T190</SemanticType>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Bonneau-Beaumont syndrome</Synonym>
+		<Synonym>hereditary hyperferritinemia-cataract syndrome</Synonym>
+		<Synonym>hereditary hyperferritinemia with congenital cataracts</Synonym>
+		<Synonym>HHCS</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000493-1" qtype="information">What is (are) hyperferritinemia-cataract syndrome ?</Question>
+			<Answer>Hyperferritinemia-cataract syndrome is a disorder characterized by an excess of an iron storage protein called ferritin in the blood (hyperferritinemia) and tissues of the body. A buildup of this protein begins early in life, leading to clouding of the lenses of the eyes (cataracts). In affected individuals, cataracts usually develop in infancy, rather than after age 60 as typically occurs in the general population. Cataracts that are not removed surgically cause progressive dimming and blurriness of vision because the clouded lenses reduce and distort incoming light.  Although the hyperferritinemia in this disorder does not usually cause any health problems other than cataracts, the elevated ferritin levels in the blood can be mistaken for a sign of certain liver disorders. These conditions result in excess iron in the body and may be treated by blood-drawing. However, individuals with hyperferritinemia-cataract syndrome do not have an excess of iron, and with repeated blood draws will develop reduced iron levels leading to a low number of red blood cells (anemia). Therefore, correct diagnosis of hyperferritinemia-cataract syndrome is important to avoid unnecessary treatments or invasive test procedures such as liver biopsies.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000493-2" qtype="frequency">How many people are affected by hyperferritinemia-cataract syndrome ?</Question>
+			<Answer>Hyperferritinemia-cataract syndrome has been estimated to occur in 1 in 200,000 individuals.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000493-3" qtype="genetic changes">What are the genetic changes related to hyperferritinemia-cataract syndrome ?</Question>
+			<Answer>Hyperferritinemia-cataract syndrome is caused by mutations in the FTL gene. This gene provides instructions for making the ferritin light chain, which is one part (subunit) of the protein ferritin. Ferritin is made up of 24 subunits formed into a hollow spherical molecule. The 24 subunits consist of varying numbers of the ferritin light chain and another subunit called the ferritin heavy chain, which is produced from another gene. The proportion of the two subunits varies in different tissues.  Ferritin stores and releases iron in cells. Each ferritin molecule can hold as many as 4,500 iron atoms inside its spherical structure. This storage capacity allows ferritin to regulate the amount of iron in cells and tissues.  The mutations that cause hyperferritinemia-cataract syndrome are found in a segment of the gene called the iron responsive element (IRE). The IRE normally can attach (bind) to a protein called the iron regulatory protein (IRP). When this binding occurs, the activity (expression) of the FTL gene is stopped to prevent too much ferritin light chain from being produced. This normally occurs when iron levels are low, because under those circumstances less ferritin is needed to store the iron. Mutations in the IRE segment of the FTL gene prevent it from binding with IRP, interfering with the mechanism by which ferritin production is matched to iron levels and resulting in excess ferritin being formed.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000493-4" qtype="inheritance">Is hyperferritinemia-cataract syndrome inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000493-5" qtype="treatment">What are the treatments for hyperferritinemia-cataract syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of hyperferritinemia-cataract syndrome:  - Boston Children&apos;s Hospital: Cataracts in Children  - Genetic Testing Registry: Hyperferritinemia cataract syndrome  - MedlinePlus Encyclopedia: Cataract Removal   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

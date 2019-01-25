@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000044" source="GHR" url="https://ghr.nlm.nih.gov/condition/alport-syndrome">
+<Focus>Alport syndrome</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1567741</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>congenital hereditary hematuria</Synonym>
+		<Synonym>hematuria-nephropathy-deafness syndrome</Synonym>
+		<Synonym>hematuric hereditary nephritis</Synonym>
+		<Synonym>hemorrhagic familial nephritis</Synonym>
+		<Synonym>hemorrhagic hereditary nephritis</Synonym>
+		<Synonym>hereditary familial congenital hemorrhagic nephritis</Synonym>
+		<Synonym>hereditary hematuria syndrome</Synonym>
+		<Synonym>hereditary interstitial pyelonephritis</Synonym>
+		<Synonym>hereditary nephritis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000044-1" qtype="information">What is (are) Alport syndrome ?</Question>
+			<Answer>Alport syndrome is a genetic condition characterized by kidney disease, hearing loss, and eye abnormalities.  People with Alport syndrome experience progressive loss of kidney function. Almost all affected individuals have blood in their urine (hematuria), which indicates abnormal functioning of the kidneys. Many people with Alport syndrome also develop high levels of protein in their urine (proteinuria). The kidneys become less able to function as this condition progresses, resulting in end-stage renal disease (ESRD).  People with Alport syndrome frequently develop sensorineural hearing loss, which is caused by abnormalities of the inner ear, during late childhood or early adolescence. Affected individuals may also have misshapen lenses in the eyes (anterior lenticonus) and abnormal coloration of the light-sensitive tissue at the back of the eye (retina). These eye abnormalities seldom lead to vision loss.  Significant hearing loss, eye abnormalities, and progressive kidney disease are more common in males with Alport syndrome than in affected females.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000044-2" qtype="frequency">How many people are affected by Alport syndrome ?</Question>
+			<Answer>Alport syndrome occurs in approximately 1 in 50,000 newborns.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000044-3" qtype="genetic changes">What are the genetic changes related to Alport syndrome ?</Question>
+			<Answer>Mutations in the COL4A3, COL4A4, and COL4A5 genes cause Alport syndrome. These genes each provide instructions for making one component of a protein called type IV collagen. This protein plays an important role in the kidneys, specifically in structures called glomeruli. Glomeruli are clusters of specialized blood vessels that remove water and waste products from blood and create urine. Mutations in these genes result in abnormalities of the type IV collagen in glomeruli, which prevents the kidneys from properly filtering the blood and allows blood and protein to pass into the urine. Gradual scarring of the kidneys occurs, eventually leading to kidney failure in many people with Alport syndrome.  Type IV collagen is also an important component of inner ear structures, particularly the organ of Corti, that transform sound waves into nerve impulses for the brain. Alterations in type IV collagen often result in abnormal inner ear function, which can lead to hearing loss. In the eye, this protein is important for maintaining the shape of the lens and the normal color of the retina. Mutations that disrupt type IV collagen can result in misshapen lenses and an abnormally colored retina.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000044-4" qtype="inheritance">Is Alport syndrome inherited ?</Question>
+			<Answer>Alport syndrome can have different inheritance patterns. About 80 percent of cases are caused by mutations in the COL4A5 gene and are inherited in an X-linked pattern. This gene is located on the X chromosome, which is one of the two sex chromosomes. In males (who have only one X chromosome), one altered copy of the COL4A5 gene in each cell is sufficient to cause kidney failure and other severe symptoms of the disorder. In females (who have two X chromosomes), a mutation in one copy of the COL4A5 gene usually only results in hematuria, but some women experience more severe symptoms. A characteristic of X-linked inheritance is that fathers cannot pass X-linked traits to their sons.  In approximately 15 percent of cases, Alport syndrome results from mutations in both copies of the COL4A3 or COL4A4 gene and is inherited in an autosomal recessive pattern. The parents of an individual with the autosomal recessive form of this condition each have one copy of the mutated gene and are called carriers. Some carriers are unaffected and others develop a less severe condition called thin basement membrane nephropathy, which is characterized by hematuria.  Alport syndrome has autosomal dominant inheritance in about 5 percent of cases. People with this form of Alport syndrome have one mutation in either the COL4A3 or COL4A4 gene in each cell. It remains unclear why some individuals with one mutation in the COL4A3 or COL4A4 gene have autosomal dominant Alport syndrome and others have thin basement membrane nephropathy.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000044-5" qtype="treatment">What are the treatments for Alport syndrome ?</Question>
+			<Answer>These resources address the diagnosis or management of Alport syndrome:  - Gene Review: Gene Review: Alport Syndrome and Thin Basement Membrane Nephropathy  - Genetic Testing Registry: Alport syndrome  - Genetic Testing Registry: Alport syndrome, X-linked recessive  - Genetic Testing Registry: Alport syndrome, autosomal dominant  - Genetic Testing Registry: Alport syndrome, autosomal recessive  - MedlinePlus Encyclopedia: Alport Syndrome  - MedlinePlus Encyclopedia: End-Stage Kidney Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

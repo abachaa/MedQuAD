@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000343" source="GHR" url="https://ghr.nlm.nih.gov/condition/familial-cylindromatosis">
+<Focus>familial cylindromatosis</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1305968</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Ancell-Spiegler cylindromas</Synonym>
+		<Synonym>cylindromatosis, familial</Synonym>
+		<Synonym>dermal eccrine cylindroma</Synonym>
+		<Synonym>turban tumor syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000343-1" qtype="information">What is (are) familial cylindromatosis ?</Question>
+			<Answer>Familial cylindromatosis is a condition involving multiple skin tumors that develop from structures associated with the skin (skin appendages), such as hair follicles and sweat glands. People with familial cylindromatosis typically develop large numbers of tumors called cylindromas. While previously thought to derive from sweat glands, cylindromas are now generally believed to begin in hair follicles.  Individuals with familial cylindromatosis occasionally develop other types of tumors, including growths called spiradenomas and trichoepitheliomas. Spiradenomas begin in sweat glands. Trichoepitheliomas arise from hair follicles. The tumors associated with familial cylindromatosis are generally noncancerous (benign), but occasionally they may become cancerous (malignant). Affected individuals are also at increased risk of developing tumors in tissues other than skin appendages, particularly benign or malignant tumors of the salivary glands.  People with familial cylindromatosis typically begin developing tumors in adolescence or early adulthood. The tumors are most often found in hairy regions of the body, with approximately 90 percent occurring on the head and neck. They grow larger and increase in number over time.  In severely affected individuals, multiple tumors on the scalp may combine into a large, turban-like growth. Large growths frequently develop open sores (ulcers) and are prone to infections. The tumors may also get in the way of the eyes, ears, nose, or mouth and affect vision, hearing, or other functions. The growths can be disfiguring and may contribute to depression or other psychological problems. For reasons that are unclear, females with familial cylindromatosis are often more severely affected than males.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000343-2" qtype="frequency">How many people are affected by familial cylindromatosis ?</Question>
+			<Answer>Familial cylindromatosis is a rare disorder; its prevalence is unknown.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000343-3" qtype="genetic changes">What are the genetic changes related to familial cylindromatosis ?</Question>
+			<Answer>Familial cylindromatosis is caused by mutations in the CYLD gene. This gene provides instructions for making a protein that helps regulate nuclear factor-kappa-B. Nuclear factor-kappa-B is a group of related proteins that help protect cells from self-destruction (apoptosis) in response to certain signals. In regulating the action of nuclear factor-kappa-B, the CYLD protein allows cells to respond properly to signals to self-destruct when appropriate, such as when the cells become abnormal. By this mechanism, the CYLD protein acts as a tumor suppressor, which means that it helps prevent cells from growing and dividing too fast or in an uncontrolled way.  People with familial cylindromatosis are born with a mutation in one of the two copies of the CYLD gene in each cell. This mutation prevents the cell from making functional CYLD protein from the altered copy of the gene. However, enough protein is usually produced from the other, normal copy of the gene to regulate cell growth effectively. For tumors to develop, a second mutation or deletion of genetic material involving the other copy of the CYLD gene must occur in certain cells during a person&apos;s lifetime.  When both copies of the CYLD gene are mutated in a particular cell, that cell cannot produce any functional CYLD protein. The loss of this protein allows the cell to grow and divide in an uncontrolled way to form a tumor. In people with familial cylindromatosis, a second CYLD mutation typically occurs in multiple cells over an affected person&apos;s lifetime. The loss of CYLD protein in these cells leads to the growth of skin appendage tumors.  Some researchers consider familial cylindromatosis and two related conditions called multiple familial trichoepithelioma and Brooke-Spiegler syndrome, which are also caused by CYLD gene mutations, to be different forms of the same disorder. It is unclear why mutations in the CYLD gene cause different patterns of skin appendage tumors in each of these conditions, or why the tumors are generally confined to the skin in these disorders.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000343-4" qtype="inheritance">Is familial cylindromatosis inherited ?</Question>
+			<Answer>Susceptibility to familial cylindromatosis has an autosomal dominant pattern of inheritance, which means one copy of the altered gene in each cell increases the risk of developing this condition. However, a second, non-inherited mutation is required for development of skin appendage tumors in this disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000343-5" qtype="treatment">What are the treatments for familial cylindromatosis ?</Question>
+			<Answer>These resources address the diagnosis or management of familial cylindromatosis:  - Genetic Testing Registry: Cylindromatosis, familial   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

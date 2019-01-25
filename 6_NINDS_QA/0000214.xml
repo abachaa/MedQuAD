@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000214" source="NINDS" url="http://www.ninds.nih.gov/disorders/neuronal_migration/neuronal_migration.htm">
+<Focus>Neuronal Migration Disorders</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1837249</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000214-1" qtype="information">What is (are) Neuronal Migration Disorders ?</Question>
+			<Answer>Neuronal migration disorders (NMDs) are a group of birth defects caused by the abnormal migration of neurons in the developing brain and nervous system. In the developing brain, neurons must migrate from the areas where they are born to the areas where they will settle into their proper neural circuits. Neuronal migration, which occurs as early as the second month of gestation, is controlled by a complex assortment of chemical guides and signals. When these signals are absent or incorrect, neurons do not end up where they belong. This can result in structurally abnormal or missing areas of the brain in the cerebral hemispheres, cerebellum, brainstem, or hippocampus. The structural abnormalities found in NMDs include schizencephaly, porencephaly, lissencephaly, agyria, macrogyria, polymicrogyria, pachygyria, microgyria, micropolygyria, neuronal heterotopias (including band heterotopia), agenesis of the corpus callosum, and agenesis of the cranial nerves. Symptoms vary according to the abnormality, but often feature poor muscle tone and motor function, seizures, developmental delays, impaired cognitive development, failure to grow and thrive, difficulties with feeding, swelling in the extremities, and a smaller than normal head. Most infants with an NMD appear normal, but some disorders have characteristic facial or skull features that can be recognized by a neurologist. Several genetic abnormalities in children with NMDs have been identified. Defects in genes that are involved in neuronal migration have been associated with NMDs, but the role they play in the development of these disorders is not yet well-understood. More than 25 syndromes resulting from abnormal neuronal migration have been described. Among them are syndromes with several different patterns of inheritance; genetic counseling thus differs greatly between syndromes.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000214-2" qtype="treatment">What are the treatments for Neuronal Migration Disorders ?</Question>
+			<Answer>Treatment is symptomatic, and may include anti-seizure medication and special or supplemental education consisting of physical, occupational, and speech therapies.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000214-3" qtype="outlook">What is the outlook for Neuronal Migration Disorders ?</Question>
+			<Answer>The prognosis for children with NMDs varies depending on the specific disorder and the degree of brain abnormality and subsequent neurological signs and symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000214-4" qtype="research">what research (or clinical trials) is being done for Neuronal Migration Disorders ?</Question>
+			<Answer>The NINDS conducts and supports a wide range of studies that explore the complex systems of brain development. These studies include the identification of the mechanism of action of the known causes of NMD as well as studies to identify further causes of disease. NIH-funded researchers work closely with parental support groups to bring research discoveries directly to patients. The knowledge gained from these studies provides the foundation for understanding abnormal development and offers hope for new ways to treat and prevent NMDs.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

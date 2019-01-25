@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000534" source="GARD" url="https://rarediseases.info.nih.gov/gard/12063/autoimmune-gastrointestinal-dysmotility">
+<Focus>Autoimmune gastrointestinal dysmotility</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0443146</CUI>
+			<CUI>C1836923</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T046</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>AGID</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000534-1" qtype="information">What is (are) Autoimmune gastrointestinal dysmotility ?</Question>
+			<Answer>Autoimmune gastrointestinal dysmotility (AGID) is a rare form of autoimmune autonomic neuropathy that can occur either due to an idiopathic cause or a paraneoplastic cause. Idiopathic forms of AGID are a manifestation of autoimmune autonomic neuropathy that affects the digestive nervous system. The signs and symptoms of AGID may include achalasia,gastroparesis, hypertrophic pyloric stenosis, intestinal pseudo-obstruction, megacolon and anal spasm. Treatment options for AGID includes symptom relief, treatment of any underlying neoplasm if necessary, immunotherapy and supportive treatment. Nutrition and hydration therapy as well as management of abdominal pain are important supportive treatment measures.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

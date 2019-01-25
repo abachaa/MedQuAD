@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000026" source="GHR" url="https://ghr.nlm.nih.gov/condition/african-iron-overload">
+<Focus>African iron overload</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0268063</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>African hemochromatosis</Synonym>
+		<Synonym>African nutritional hemochromatosis</Synonym>
+		<Synonym>African siderosis</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000026-1" qtype="information">What is (are) African iron overload ?</Question>
+			<Answer>African iron overload is a condition that involves absorption of too much iron from the diet. The excess iron is stored in the body&apos;s tissues and organs, particularly the liver, bone marrow, and spleen. Humans cannot increase the excretion of iron, although some iron is lost through bleeding or when cells of the intestine (enterocytes) are shed at the end of the cells&apos; lifespan. Iron levels in the body are primarily regulated through control of how much iron is absorbed from the diet.  African iron overload results from a diet high in iron. It is particularly associated with consumption of a traditional African beer that contains dissolved iron from the metal drums in which it is brewed. Some evidence suggests that a genetic predisposition to absorbing too much iron may also be involved.  In African iron overload, excess iron typically accumulates in liver cells (hepatocytes) and certain immune cells called reticuloendothelial cells. Reticuloendothelial cells include macrophages in the bone marrow and spleen and Kuppfer cells, which are specialized macrophages found in the liver. Kuppfer cells and other macrophages help protect the body against foreign invaders such as viruses and bacteria.  When too much iron is absorbed, the resulting iron overload can eventually damage tissues and organs. Iron overload in the liver may lead to chronic liver disease (cirrhosis) in people with African iron overload. Cirrhosis increases the risk for developing a type of liver cancer called hepatocellular carcinoma. Iron overload in immune cells may affect their ability to fight infections. African iron overload is associated with an increased risk of developing infections such as tuberculosis.  People with African iron overload may have a slightly low number of red blood cells (mild anemia), possibly because the iron that accumulates in the liver, bone marrow, and spleen is less available for production of red blood cells. Affected individuals also have high levels of a protein called ferritin in their blood, which can be detected with a blood test. Ferritin stores and releases iron in cells, and cells produce more ferritin in response to excess amounts of iron.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000026-2" qtype="frequency">How many people are affected by African iron overload ?</Question>
+			<Answer>African iron overload is common in rural areas of central and southern Africa; up to 10 percent of the population in these regions may be affected. Men seem to be affected more often than women, possibly due to some combination of differences in dietary iron consumption and gender differences in the processing of iron.  The prevalence of increased iron stores in people of African descent in other parts of the world is unknown; however, these individuals may be at higher risk of developing mildly increased iron stores than are people of European background.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000026-3" qtype="genetic changes">What are the genetic changes related to African iron overload ?</Question>
+			<Answer>African iron overload was first noted in rural central and southern African populations among people who drink a traditional beer brewed in uncoated steel drums that allow iron (a component of steel) to leach into the beer. However, not all individuals who drink the beer develop African iron overload, and not all individuals of African descent with iron overload drink the beer. Therefore, researchers are seeking genetic differences that affect the risk of developing this condition.  Some studies have indicated that a variation in the SLC40A1 gene increases the risk of developing increased iron stores in people of African descent. This variation is found in 5 to 20 percent of people of African descent but is not generally found in other populations.  The SLC40A1 gene provides instructions for making a protein called ferroportin. This protein is involved in the process of iron absorption in the body. Iron from the diet is absorbed through the walls of the small intestine. Ferroportin then transports iron from the small intestine into the bloodstream, and the iron is carried by the blood to the tissues and organs of the body. Ferroportin also transports iron out of reticuloendothelial cells in the liver, spleen, and bone marrow. The amount of iron absorbed by the body depends on the amount of iron stored and released from intestinal cells and macrophages.  The SLC40A1 gene variation that some studies have associated with increased iron stores in people of African descent may affect the way ferroportin helps to regulate iron absorption in the body. However, researchers suggest that this variation is not associated with most cases of African iron overload.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000026-4" qtype="inheritance">Is African iron overload inherited ?</Question>
+			<Answer>African iron overload seems to run in families, and high iron in a family&apos;s diet seems to be the major contributor to development of the condition. There also may be a genetic contribution, but the inheritance pattern is unknown. People with a specific variation in the SLC40A1 gene may inherit an increased risk of this condition, but not the condition itself. Not all people with this condition have the variation in the gene, and not all people with the variation will develop the disorder.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000026-5" qtype="treatment">What are the treatments for African iron overload ?</Question>
+			<Answer>These resources address the diagnosis or management of African iron overload:  - Genetic Testing Registry: African nutritional hemochromatosis   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

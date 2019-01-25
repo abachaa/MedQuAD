@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000431" source="GHR" url="https://ghr.nlm.nih.gov/condition/gm3-synthase-deficiency">
+<Focus>GM3 synthase deficiency</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C1836824</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T047</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>Amish infantile epilepsy syndrome</Synonym>
+		<Synonym>epilepsy syndrome, infantile-onset symptomatic</Synonym>
+		<Synonym>ganglioside GM3 synthase deficiency</Synonym>
+		<Synonym>infantile-onset symptomatic epilepsy syndrome</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000431-1" qtype="information">What is (are) GM3 synthase deficiency ?</Question>
+			<Answer>GM3 synthase deficiency is characterized by recurrent seizures (epilepsy) and problems with brain development. Within the first few weeks after birth, affected infants become irritable and develop feeding difficulties and vomiting that prevent them from growing and gaining weight at the usual rate. Seizures begin within the first year of life and worsen over time. Multiple types of seizures are possible, including generalized tonic-clonic seizures (also known as grand mal seizures), which cause muscle rigidity, convulsions, and loss of consciousness. Some affected children also experience prolonged episodes of seizure activity called nonconvulsive status epilepticus. The seizures associated with GM3 synthase deficiency tend to be resistant (refractory) to treatment with antiseizure medications.  GM3 synthase deficiency profoundly disrupts brain development. Most affected children have severe intellectual disability and do not develop skills such as reaching for objects, speaking, sitting without support, or walking. Some have involuntary twisting or jerking movements of the arms that are described as choreoathetoid. Although affected infants can likely see and hear at birth, vision and hearing become impaired as the disease worsens. It is unknown how long people with GM3 synthase deficiency usually survive.  Some affected individuals have changes in skin coloring (pigmentation), including dark freckle-like spots on the arms and legs and light patches on the arms, legs, and face. These changes appear in childhood and may become more or less apparent over time. The skin changes do not cause any symptoms, but they can help doctors diagnose GM3 synthase deficiency in children who also have seizures and delayed development.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000431-2" qtype="frequency">How many people are affected by GM3 synthase deficiency ?</Question>
+			<Answer>GM3 synthase deficiency appears to be a rare condition. About 50 cases have been reported, mostly from Old Order Amish communities.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000431-3" qtype="genetic changes">What are the genetic changes related to GM3 synthase deficiency ?</Question>
+			<Answer>Mutations in the ST3GAL5 gene have been found to cause GM3 synthase deficiency. This gene provides instructions for making an enzyme called GM3 synthase, which carries out a chemical reaction that is the first step in the production of molecules called gangliosides. These molecules are present in cells and tissues throughout the body, and they are particularly abundant in the nervous system. Although their exact functions are unclear, gangliosides appear to be important for normal brain development and function.  ST3GAL5 gene mutations prevent the production of any functional GM3 synthase. Without this enzyme, cells cannot produce gangliosides normally. It is unclear how a loss of this enzyme leads to the signs and symptoms of GM3 synthase deficiency. Researchers are working to determine whether it is the lack of gangliosides or a buildup of compounds used to make gangliosides, or both, that underlies the seizures and other problems with brain development that occur in this condition. The connection between a shortage of GM3 synthase and changes in skin pigmentation is also unknown.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000431-4" qtype="inheritance">Is GM3 synthase deficiency inherited ?</Question>
+			<Answer>This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000431-5" qtype="treatment">What are the treatments for GM3 synthase deficiency ?</Question>
+			<Answer>These resources address the diagnosis or management of GM3 synthase deficiency:  - American Epilepsy Society: Find a Doctor  - Clinic for Special Children (Strasburg, Pennsylvania)  - Genetic Testing Registry: Amish infantile epilepsy syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

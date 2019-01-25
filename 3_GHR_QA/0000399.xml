@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000399" source="GHR" url="https://ghr.nlm.nih.gov/condition/gastrointestinal-stromal-tumor">
+<Focus>gastrointestinal stromal tumor</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0238198</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T191</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+	<Synonyms>
+		<Synonym>gastrointestinal stromal neoplasm</Synonym>
+		<Synonym>gastrointestinal stromal sarcoma</Synonym>
+		<Synonym>GIST</Synonym>
+	</Synonyms>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000399-1" qtype="information">What is (are) gastrointestinal stromal tumor ?</Question>
+			<Answer>A gastrointestinal stromal tumor (GIST) is a type of tumor that occurs in the gastrointestinal tract, most commonly in the stomach or small intestine. The tumors are thought to grow from specialized cells found in the gastrointestinal tract called interstitial cells of Cajal (ICCs) or precursors to these cells. GISTs are usually found in adults between ages 40 and 70; rarely, children and young adults develop these tumors. The tumors can be cancerous (malignant) or noncancerous (benign).  Small tumors may cause no signs or symptoms. However, some people with GISTs may experience pain or swelling in the abdomen, nausea, vomiting, loss of appetite, or weight loss. Sometimes, tumors cause bleeding, which may lead to low red blood cell counts (anemia) and, consequently, weakness and tiredness. Bleeding into the intestinal tract may cause black and tarry stools, and bleeding into the throat or stomach may cause vomiting of blood.  Affected individuals with no family history of GIST typically have only one tumor (called a sporadic GIST). People with a family history of GISTs (called familial GISTs) often have multiple tumors and additional signs or symptoms, including noncancerous overgrowth (hyperplasia) of other cells in the gastrointestinal tract and patches of dark skin on various areas of the body. Some affected individuals have a skin condition called urticaria pigmentosa (also known as cutaneous mastocytosis), which is characterized by raised patches of brownish skin that sting or itch when touched.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000399-2" qtype="frequency">How many people are affected by gastrointestinal stromal tumor ?</Question>
+			<Answer>Approximately 5,000 new cases of GIST are diagnosed in the United States each year. However, GISTs may be more common than this estimate because small tumors may remain undiagnosed.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000399-3" qtype="genetic changes">What are the genetic changes related to gastrointestinal stromal tumor ?</Question>
+			<Answer>Genetic changes in one of several genes are involved in the formation of GISTs. About 80 percent of cases are associated with a mutation in the KIT gene, and about 10 percent of cases are associated with a mutation in the PDGFRA gene. Mutations in the KIT and PDGFRA genes are associated with both familial and sporadic GISTs. A small number of affected individuals have mutations in other genes.  The KIT and PDGFRA genes provide instructions for making receptor proteins that are found in the cell membrane of certain cell types and stimulate signaling pathways inside the cell. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. When the ligand attaches (binds), the KIT or PDGFRA receptor protein is turned on (activated), which leads to activation of a series of proteins in multiple signaling pathways. These signaling pathways control many important cellular processes, such as cell growth and division (proliferation) and survival.  Mutations in the KIT and PDGFRA genes lead to proteins that no longer require ligand binding to be activated. As a result, the proteins and the signaling pathways are constantly turned on (constitutively activated), which increases the proliferation and survival of cells. When these mutations occur in ICCs or their precursors, the uncontrolled cell growth leads to GIST formation.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000399-4" qtype="inheritance">Is gastrointestinal stromal tumor inherited ?</Question>
+			<Answer>Most cases of GIST are not inherited. Sporadic GIST is associated with somatic mutations, which are genetic changes that occur only in the tumor cells and occur during a person&apos;s lifetime.  In some cases of familial GIST, including those associated with mutations in the KIT and PDGFRA genes, mutations are inherited in an autosomal dominant pattern, which means one copy of the altered gene in each cell is sufficient to increase a person&apos;s chance of developing tumors.  When familial GIST is associated with mutations in other genes, it can have an autosomal recessive pattern of inheritance, which means alterations in both copies of the gene in each cell increase a person&apos;s chance of developing tumors.</Answer>
+	</QAPair>
+	<QAPair pid="5">
+			<Question qid="0000399-5" qtype="treatment">What are the treatments for gastrointestinal stromal tumor ?</Question>
+			<Answer>These resources address the diagnosis or management of gastrointestinal stromal tumor:  - American Cancer Society: Treating Gastrointestinal Stromal Tumor (GIST)  - Cancer.Net: Gastrointestinal Stromal Tumor--Diagnosis  - Genetic Testing Registry: Gastrointestinal stromal tumor   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care</Answer>
+	</QAPair>
+</QAPairs>
+</Document>

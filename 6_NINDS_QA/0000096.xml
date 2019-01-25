@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document id="0000096" source="NINDS" url="http://www.ninds.nih.gov/disorders/septo_optic_dysplasia/septo_optic_dysplasia.htm">
+<Focus>Septo-Optic Dysplasia</Focus>
+<FocusAnnotations>
+	<UMLS>
+		<CUIs>
+			<CUI>C0338503</CUI>
+			<CUI>C1855042</CUI>
+		</CUIs>
+		<SemanticTypes>
+			<SemanticType>T019</SemanticType>
+			<SemanticType>T033</SemanticType>
+		</SemanticTypes>
+		<SemanticGroup>Disorders</SemanticGroup>
+	</UMLS>
+</FocusAnnotations>
+<QAPairs>
+	<QAPair pid="1">
+			<Question qid="0000096-1" qtype="information">What is (are) Septo-Optic Dysplasia ?</Question>
+			<Answer>Septo-optic dysplasia (SOD) is a rare disorder characterized by abnormal development of the optic disk, pituitary deficiencies, and often agenesis (absence) of the septum pellucidum (the part of the brain that separates the anterior horns or the lateral ventricles of the brain). Symptoms may include blindness in one or both eyes, pupil dilation in response to light, nystagmus (a rapid, involuntary to-and-fro movement of the eyes), inward and outward deviation of the eyes, hypotonia (low muscle tone), and hormonal problems. Seizures may also occur. In a few cases, jaundice (prolonged yellow skin discoloration) may occur at birth. Intellectual problems vary in severity among individuals. While some children with SOD have normal intelligence, others have learning disabilities. Most, however, are developmentally delayed due to vision impairment or neurological problems.</Answer>
+	</QAPair>
+	<QAPair pid="2">
+			<Question qid="0000096-2" qtype="treatment">What are the treatments for Septo-Optic Dysplasia ?</Question>
+			<Answer>Treatment for SOD is symptomatic. Hormone deficiencies may be treated with hormone replacement therapy. The optical problems associated with SOD are generally not treatable. Vision, physical, and occupational therapies may be required.</Answer>
+	</QAPair>
+	<QAPair pid="3">
+			<Question qid="0000096-3" qtype="outlook">What is the outlook for Septo-Optic Dysplasia ?</Question>
+			<Answer>The prognosis for individuals with SOD varies according to the presence and severity of symptoms.</Answer>
+	</QAPair>
+	<QAPair pid="4">
+			<Question qid="0000096-4" qtype="research">what research (or clinical trials) is being done for Septo-Optic Dysplasia ?</Question>
+			<Answer>The NINDS supports and conducts neurogenetic research which focuses on identifying and studying the genes involved in normal brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how this process can go awry and, thus, may eventually give clues to understanding disorders such as SOD.</Answer>
+	</QAPair>
+</QAPairs>
+</Document>
