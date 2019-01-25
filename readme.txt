@@ -23,9 +23,10 @@ If you use the MedQuAD dataset, please cite the following paper: "A Question-Ent
 		   year      = {2019}, 
 		   month = {January},
 		   archivePrefix = {arXiv},
-       eprint = {1901.08079},
+                   eprint = {1901.08079},
  		   primaryClass = {cs.CL},
-		   url = {https://arxiv.org/abs/1901.08079} }     
+		   url = {https://arxiv.org/abs/1901.08079}
+		   }     
 
 
 Contact Information
