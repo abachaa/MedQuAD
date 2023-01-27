@@ -43,7 +43,3 @@ If you use the MedQuAD dataset and/or the collection of 2,479 judged answers, pl
 		   }     
 		   
 
-Contact Information
--------------------
-- Asma Ben Abacha: asma.benabacha@nih.gov
-- Dina Demner-Fushman: ddemner@mail.nih.gov 
