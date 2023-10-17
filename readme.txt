@@ -42,4 +42,8 @@ If you use the MedQuAD dataset and/or the collection of 2,479 judged answers, pl
   	url       = {https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3119-4}
 		   }     
 		   
+License
+- The MedQuAD dataset is published under a Creative Commons Attribution 4.0 International Licence (CC BY). https://creativecommons.org/licenses/by/4.0/
 
+Contact
+-  Asma Ben abacha (abenabacha at microsoft dot com)
